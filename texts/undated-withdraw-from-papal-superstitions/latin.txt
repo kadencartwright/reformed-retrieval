@@ -1,0 +1,58 @@
+IOANNES CALVINUS
+Ut se pius homo a papatus superstitionibus subducat
+
+Normalized transcription of the Latin presentation in Ioannis Calvini opera
+quae supersunt omnia, vol. X/1 (Corpus Reformatorum XXXVIII), ed. Wilhelm
+Baum, Eduard Cunitz, and Eduard Reuss (Brunswick: C. A. Schwetschke, 1871),
+printed pp. 188–189. CO reports that Calvin wrote the work in French and that
+Theodore Beza published it in Latin. This file transcribes that Latin witness;
+it does not claim to recover the wording of the unlocated French archetype.
+
+Printer line-end divisions and line wrapping are joined; edition spelling and
+punctuation are otherwise preserved. The CO heading, footnote, running heads,
+and page numbers are editorial or publication paratext and are excluded from
+the historical body. When the p. 188/189 turn divides a word, the marker is
+placed before the complete joined word.
+
+[CO X/1, p. 188]
+
+Gratias ago Domino, frater carissime, quod te ad sinceram veritatis suae
+cognitionem perduxit, teque ab illis erroribus eripuit, in quos incidere suos
+etiam nonnunquam sinit, ut ita ipsos humiliet. Vide igitur ut ita in ista fidei
+simplicitate incedas, ut Dominus in ipsa te confirmet magis ac magis: quumque
+iam ex hoc mundo cum Domino nostro Iesu Christo unitus sis, ac membrum ipsius
+exsistas, quatenus ipse carnem nostram induit, ut plenam fraternitatem nobiscum
+iniret, ex evangelii ipsius praescripto vitam instituas: cuius summa est, ut in
+ipso uno solidam salutem quaeramus, atque ita tandem ad vitam illam
+perveniamus, quae
+
+[CO X/1, p. 189]
+
+fidelibus est reposita in coelis, sub spe et exspectatione resurrectionis ad
+gloriam aeternam. Fixa enim etiam illa nobis spes haerere debet, quamdiu
+corpora nostra in terra quiescunt, animas apud illum victuras in coelis.
+Quod ad illud quod a me quaeris, liceatne christiano homini participare coenae
+Domini quae istic administratur: responsio aperta est, licere omnino, modo
+coena Christi ea sit de qua agitur. Atqui ubi rem uti par est expenderis,
+invenies non magis convenire inter coenam Domini ac missam papisticam, quam
+inter lucem ac tenebras. Constat quidem ordinationem Domini deteriorem fieri
+non posse pravitate hominum vel ignorantia; sed illud pernego, missam ad
+Christum autorem referri posse: quin potius in ipsius contumeliam ab ipso
+Satana fabricatam affirmo ad sanctae coenae eversionem certissimam. Plane enim
+ex diametro illi repugnat, ubi sacrificii nomine censetur, atque in actionem
+temere inventam vis et efficacia passionis Domini transscribitur. Exstat illic
+praeterea apertissima idololatria, non tantum ubi panis adoratur, sed quia et
+oratur pro defunctis, et merita atque intercessiones sanctorum implorantur, et
+pleraque eiusmodi illic fiunt, quae Dominus nominatim condemnat. Quare non
+magis licet fidelibus communicare illi superstitioni, quam olim licebat
+sacrificare in Bethel. Illud enim omnino repugnat confessioni fidei, quam a
+nobis Dominus requirit. Sed quia hoc argumentum pertractatum est fusius in
+libris ea de re editis, a te peto ut illos diligenter evolvas. Te interea
+gratiae Domini commendo, ut ipse suam voluntatem te edoceat et aperiat oculos,
+ut nigrum a candido discernas: sic enim tibi non defuturum confido in quo
+acquiescas. Tibi vero omnem licentiam praecidas simulandi interea impietatem a
+te ullo modo approbari. Dominus sua in te dona adaugeat, atque ubi quod rectum
+est ostenderit, det etiam animum constantem, ut in eo agnito, ut par est,
+adhaereas. Genevae 15. Iunii.
+
+Tuus Calvinus.

@@ -10,23 +10,17 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DOCUMENTS = (
-    "1549-06-26-calvin-to-socinus",
-    "1549-07-25-socinus-to-calvin-context",
-    "1549-12-07-calvin-to-socinus",
-    "1555-06-05-response-to-socinus",
-    "1561-11-13-baptism-improperly-administered",
+TEXTS = ROOT / "texts"
+DOCUMENTS = tuple(
+    sorted(path.name for path in TEXTS.iterdir() if path.is_dir() and not path.name.startswith("."))
 )
-REQUIRED = ("README.md", "latin.txt", "english.md")
-EXPECTED_PAGES = {
-    "1549-06-26-calvin-to-socinus": ("XIII", 307, 311),
-    "1549-07-25-socinus-to-calvin-context": ("XIII", 337, 340),
-    "1549-12-07-calvin-to-socinus": ("XIII", 484, 487),
-    "1555-06-05-response-to-socinus": ("X/1", 160, 165),
-    "1561-11-13-baptism-improperly-administered": ("X/1", 214, 215),
-}
-PAGE_MARKER = re.compile(r"\[CO (X/1|XIII), p\. (\d+)\]")
+REQUIRED_COMMON = ("README.md", "english.md")
+SOURCE_NAMES = ("latin.txt", "french.txt")
+PAGE_MARKER = re.compile(r"\[CO ([IVXLCDM]+(?:/\d+)?), p\. (\d+)\]")
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
+MANIFEST_LINE = re.compile(
+    r"^[0-9a-f]{64}  (texts/[^/]+/(?:latin\.txt|french\.txt|english\.md))$"
+)
 LICENSE_CHECKS = {
     "LICENSE": ("MIT License", "Permission is hereby granted"),
     "LICENSES/CC0-1.0.txt": ("CC0 1.0 Universal", "Public License Fallback"),
@@ -71,7 +65,17 @@ def main() -> int:
 
     for slug in DOCUMENTS:
         directory = ROOT / "texts" / slug
-        for name in REQUIRED:
+        source_files = [directory / name for name in SOURCE_NAMES if (directory / name).is_file()]
+        if len(source_files) != 1:
+            found = [path.name for path in source_files]
+            fail(
+                f"{directory.relative_to(ROOT)} must contain exactly one normalized "
+                f"source file ({', '.join(SOURCE_NAMES)}); found {found!r}"
+            )
+            errors += 1
+
+        required = (*REQUIRED_COMMON, *(path.name for path in source_files))
+        for name in required:
             path = directory / name
             if not path.is_file():
                 fail(f"missing {path.relative_to(ROOT)}")
@@ -108,20 +112,26 @@ def main() -> int:
                 fail(f"{path.relative_to(ROOT)} contains an unfinished marker")
                 errors += 1
 
-        latin = directory / "latin.txt"
-        if latin.is_file():
-            text = latin.read_text(encoding="utf-8")
-            volume, first_page, last_page = EXPECTED_PAGES[slug]
-            markers = [(match.group(1), int(match.group(2))) for match in PAGE_MARKER.finditer(text)]
-            expected = [(volume, page) for page in range(first_page, last_page + 1)]
-            if markers != expected:
-                fail(
-                    f"{latin.relative_to(ROOT)} has page markers {markers!r}; "
-                    f"expected {expected!r}"
-                )
+        source_markers: list[tuple[str, int]] = []
+        if len(source_files) == 1:
+            source = source_files[0]
+            text = source.read_text(encoding="utf-8")
+            source_markers = [
+                (match.group(1), int(match.group(2))) for match in PAGE_MARKER.finditer(text)
+            ]
+            if not source_markers:
+                fail(f"{source.relative_to(ROOT)} has no CO page markers")
+                errors += 1
+            elif len({volume for volume, _ in source_markers}) != 1:
+                fail(f"{source.relative_to(ROOT)} mixes CO volumes in its page markers")
+                errors += 1
+            elif [page for _, page in source_markers] != list(
+                range(source_markers[0][1], source_markers[-1][1] + 1)
+            ):
+                fail(f"{source.relative_to(ROOT)} has non-consecutive CO page markers")
                 errors += 1
             if len(text.strip()) < 500:
-                fail(f"{latin.relative_to(ROOT)} is implausibly short")
+                fail(f"{source.relative_to(ROOT)} is implausibly short")
                 errors += 1
 
         english = directory / "english.md"
@@ -133,13 +143,11 @@ def main() -> int:
             if len(text.strip()) < 500:
                 fail(f"{english.relative_to(ROOT)} is implausibly short")
                 errors += 1
-            volume, first_page, last_page = EXPECTED_PAGES[slug]
             markers = [(match.group(1), int(match.group(2))) for match in PAGE_MARKER.finditer(text)]
-            expected = [(volume, page) for page in range(first_page, last_page + 1)]
-            if markers != expected:
+            if markers != source_markers:
                 fail(
                     f"{english.relative_to(ROOT)} has page markers {markers!r}; "
-                    f"expected {expected!r}"
+                    f"expected the source sequence {source_markers!r}"
                 )
                 errors += 1
 
@@ -174,6 +182,28 @@ def main() -> int:
                     f"{raw_target!r}"
                 )
                 errors += 1
+
+    manifest = ROOT / "MANIFEST.sha256"
+    if manifest.is_file():
+        listed = {
+            match.group(1)
+            for line in manifest.read_text(encoding="utf-8").splitlines()
+            if (match := MANIFEST_LINE.match(line))
+        }
+        expected = {
+            str(path.relative_to(ROOT))
+            for slug in DOCUMENTS
+            for name in (*SOURCE_NAMES, "english.md")
+            if (path := TEXTS / slug / name).is_file()
+        }
+        if listed != expected:
+            missing = sorted(expected - listed)
+            stale = sorted(listed - expected)
+            if missing:
+                fail(f"MANIFEST.sha256 is missing canonical files: {missing!r}")
+            if stale:
+                fail(f"MANIFEST.sha256 lists absent canonical files: {stale!r}")
+            errors += 1
 
     if errors:
         print(f"Validation failed with {errors} error(s).", file=sys.stderr)

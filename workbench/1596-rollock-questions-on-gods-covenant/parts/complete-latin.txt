@@ -1,0 +1,1502 @@
+ROBERTI ROLLOCI
+QUAESTIONES ET RESPONSIONES ALIQUOT DE FOEDERE DEI
+ET DE SACRAMENTO QUOD FOEDERIS DEI SIGILLUM EST
+
+Transcriptionis diplomaticae normalizatae exemplar integrum
+
+Haec editio operaria ope machinali confecta est directe ex exemplari
+Edinburgensi anni 1596 in
+`/tmp/reformed-retrieval-british-sources/rollock-foedere-1596.pdf`, auxiliis
+OCR `rollock-foedere-1596-ocr.txt` et `rollock-foedere-1596-ocr.xml` adhibitis
+sed imaginibus singulis collatis. Exemplar continet 55 folia digitalia: folia
+1 et 3–54 materiam auctorialem exhibent; folium 2 est aversa tituli pagina
+vacua cum notis non auctorialibus; folium 55 est imago vacua postrema.
+Textus quaestionum non paginatur. Signaturae sunt A1r–A8v (folia digitalia
+1–16), B1r–B8v (17–32), C1r–C8v (33–48), et D1r–D3v (49–54). FINIS stat in
+folio digitali 54, signatura D3v. Formae s longae, ligaturae, verborum
+divisiones in fine linearum, et errores OCR manifesti normalizantur;
+orthographia et syntaxis auctoris alioquin servantur. Loci qui ex imagine non
+satis resolvi possunt uncis [[...]] notantur. Argumenta marginalia inter
+uncinos quadros referuntur.
+
+[Folium digitale 1; sign. A1r; titulus]
+
+QUAESTIONES ET RESPONSIONES ALIQUOT DE FOEDERE DEI:
+
+Deque Sacramento quod Foederis Dei sigillum est.
+
+In gratiam rudiorum collectae per ROBERTUM ROLLOCUM Scotum.
+
+EDINBURGI,
+Excudebat Henricus Charteris. 1596.
+
+Cum Privilegio Regali.
+
+[Folium digitale 2; sign. A1v; pagina vacua cum notis manuscriptis et
+microfilmatis non auctorialibus: omissa]
+
+[Folium digitale 3; sign. A2r; Epistola dedicatoria]
+
+VIRO BONO ET SERIO PIO,
+civi urbis Edinburgi honoratissimo,
+et eiusdem Urbis Praefectura semel
+atque iterum functo cum laude,
+GULIELMO LITILLO.
+
+CUM mecum animo cogitarem (Vir optime) in cuius potissimum nomine apparere
+vellem hoc parvum opusculum, horis aliquot succisivis a me laboratum, nemo
+omnium mihi venit in mentem te aptior, ut quem nemo bonus urbis huius civis
+non optime meritum esse de Republica sua merito praedicet: Nos vero Reipubl.
+nostrae literariae studiosissimum esse experiamur: Ego vero, ut de meipso
+dicam, ex quo primum tempore in hanc urbem me contuli, et Reipublicae huic
+literariae sum praefectus, perpetuum habuerim fautorem mei, et, prope dicam,
+mihi patrem. Nam (ut profitear quod res est) eum amorem erga me tuum es
+testatus tam crebris et singularibus in me officiis, ut animum meum, tuo ipsius
+merito, officiisque atque erga te mea omnia, tibi in perpetuum devinxeris.
+Fateor equidem non esse meum hoc opusculum, vel tuo dignum nomine, vel par
+tuis erga me officiis: tamen quia reipsa didici te mea omnia non ex dignitate
+sua, sed ex tuo erga me singulari studio et amore aestimare: ideo ausus sum
+tibi opellam istam meam quantulacunque
+
+[Folium digitale 4; sign. A2v; Epistola dedicatoria]
+
+offerre, testem mei erga te vicissim animi, et pignus maioris alicuius operis,
+si quid a me in posterum te magis dignum ad te proficisci poterit.
+
+Habes igitur (Vir optime) his paucis pagellis quaestiones aliquot de foedere
+Dei et Sacramentis, pueriles illas quidem, sed quas spero pueris et rudioribus
+non inutiles fore: nominatim vero filio tuo, eodemque discipulo nostro, puero
+bonae spei et indolis, GULIELMO LITILLO, cuius educationem in bonis literis,
+imprimis vero in pietate et sanctimonia (cuius hic habes fundamenta aliquot
+selectiora) quantopere semper expetiveris nos ipsi satis testari possumus: adeo
+ut si non evaserit is tandem in virum bonum pariter et bonum civem, hoc est,
+virum patris sui similem, iam id non patri, sed ipsi sit imputandum. Vale
+igitur in Domino, vir optime, mihique amicissime, et vive diu Reipublicae tuae
+et nobis.
+
+Edinburgi 13 Calendas Martias.
+
+Tibi addictissimus in Domino,
+Robertus Rollecus.
+
+[Folium digitale 5; sign. A3r]
+
+QUAESTIONES ET RESPONSIONES ALIQUOT DE FOEDERE DEI, ET DE SACRAMENTO QUOD
+FOEDERIS SIGILLUM EST.
+
+DE FOEDERE DEI IN GENERE PRIMUM, DEINDE DE FOEDERE OPERUM.
+
+Quaestio.
+
+[Foedus in genere quid]
+
+Q. Quid est foedus Dei cum homine percussum?
+
+Responsio.
+
+R. Est quo Deus homini promittit aliquid boni, sub conditione certa aliqua:
+homo autem conditionem accipit.
+
+[Quotuplex]
+
+Q. Quotuplex est foedus Dei cum homine percussum?
+
+R. Duplex est: foedus naturae sive operum, et foedus gratiae. Gal. 4.24.
+
+[Foedus operum quid]
+
+Q. Quid est foedus naturae sive operum?
+
+R. Est foedus Dei, in quo ipse promittit vitam aeternam homini, sub
+conditione operum bonorum ex viribus naturae
+
+[Folium digitale 6; sign. A3v]
+
+proficiscentium, homo autem conditionem illam bonorum operum accipit. Levit.
+18.5. Rom. 10.5. Gal. 3.12.
+
+Q. An non comminatio gravis addita est promissioni huius foederis?
+
+R. Addita est.
+
+Q. In quam formam?
+
+R. Execrabilis quisquis non permanserit in omnibus quae scripta sunt in Libro
+Legis, ut ea faciat. Gen. 2.17. Deut. 27.26. Gal. 3.10.
+
+[Quod eius fundamentum]
+
+Q. Quod est fundamentum foederis operum?
+
+R. Natura bona, sancta, et integra, qualis fuit in hominis creatione. Nisi enim
+Deus initio fecisset hominem ad imaginem suam: hoc est, natura sapientem,
+sanctum, iustum, profecto foedus hoc quod habet pro conditione opera naturae
+sancta, iusta, perfecta, cum eo non pepigisset. Gen. 1.26, 27. Ephes. 4.24.
+Colos. 3.9.
+
+[Quae promissio]
+
+Q. Quid promittitur in foedere operum?
+
+R. Vita beata in aeternum degenda. Rom. 10.5. Gal. 3.12.
+
+[Quae conditio]
+
+Q. Quae est conditio foederis operum?
+
+R. Conditio est operum bonorum, quae ex natura bona, sancta, et integra, in qua
+
+[Folium digitale 7; sign. A4r]
+
+fundatum est foedus ipsum operum, proficisci oportet. Rom. 10.5. Gal. 3.12.
+
+Q. Quae sunt quae excluduntur hac conditione?
+
+R. Hac conditione excluditur a foedere operum, primum fides in Christum,
+secundo opera gratiae et regenerationis. Rom. 11.6.
+
+Q. Cur haec excluduntur?
+
+R. Quia naturae vires cum operibus suis, una cum gratia Christi et operibus
+gratiae consistere non possunt. Rom. 11.6.
+
+Q. Quae sunt capita conditionis huius foederis?
+
+R. Singula singulis mandatis Decalogi continentur. Hinc tabulae quibus
+inscripta Lex est, Tabulae foederis vocatae sunt. Exod. 19. et 20. et 32.15.
+Heb. 9.4.
+
+Q. At conditio operum est ut meritorum?
+
+R. Minime: sed ut officiorum, quae gratitudinem in Deum Creatorem testentur.
+Rom. 11.35. Luc. 17.10.
+
+Q. At opera naturae sanctae et integrae oportuit esse perfecta, sancta, et
+bona.
+
+R. Non inde sequitur oportuisse esse merita: ratio enim meriti proprie est ut
+sit opus indebitum cui debetur merces ex ordine iustitiae. Rom. 4.4. Ei qui
+operatur, ei qui meretur, merces imputatur ex debito.
+
+[Folium digitale 8; sign. A4v]
+
+[Quae ratio nominis]
+
+Q. Cur appellatur foedus operum?
+
+R. Ratio nominis sumpta est a conditione foederis, quae est opera naturae
+bonae et integrae.
+
+[Quando ictum]
+
+Q. Quando ictum est hoc foedus operum cum homine?
+
+R. Ictum est in prima hominis creatione. Gen. 1.27. et deinceps: et 2.15. et
+deinceps.
+
+[Quomodo ictum]
+
+Q. Quomodo ictum est, et quo ordine?
+
+R. Deus primum in corde hominis creati insculpsit Legem suam: hoc est, capita
+conditionis foederis sui: deinde dixit, Fac et operare ex praescripto Legis
+meae (est enim inscripta cordi tuo) et vives: homo autem accepit conditionem,
+et recepit se facturum. Gen. 2.15. et deinceps.
+
+Q. Ergo vis Legem hanc moralem in creatione insculptam cordi hominis fuisse,
+ac proinde capita singula conditionis huius foederis natura ipsa nota fuisse?
+
+R. Volo: atque eius rei argumenta sunt reliquae istae notitiae legis, quae
+adhuc post lapsum in natura corrupta permanent. Rom. 1.19–32. et 2.14.
+
+[An repetitum]
+
+Q. An postea est repetitum hoc foedus operum?
+
+[Folium digitale 9; sign. A5r]
+
+R. Repetitum est perpetuo inde a creatione et hominis lapsu, ad adventum usque
+Christi: ac primum viva voce est traditum: deinde Dei ipsius digitis insculptum
+est tabulis lapideis: postea a Mose traditum et scriptum: postremo a Prophetis
+suo loco et ordine singulis et repetitum et scriptum, ut constat ex veteri
+Testamento.
+
+[Quomodo repetitum]
+
+Q. Quonam modo et ordine est repetitum?
+
+R. Ordinem habes Exod. 19. et 20. cap. Primum Deus per Mosen dixit, Si
+observaveritis foedus meum, hoc est, legem meam, utique eritis mihi peculium:
+deinde totus populus una dixerunt, Quicquid dixerit Iehova faciemus. Quare
+stipulatione populi relata ad Deum per Mosen, Deus legem suam, hoc est, capita
+foederis sui a populo observanda, promulgavit ex monte Sinai.
+
+Q. At dixisti iam antea praecessisse legem, et subsequutum esse foedus?
+
+R. Idem est, sive verba foederis quae continent stipulationem, et
+restipulationem, praecedant legem, hoc est, propositionem capitum conditionis
+quae est in foedere Dei, sive eam sequantur.
+
+[Folium digitale 10; sign. A5v]
+
+[Quo fine repetitum]
+
+Q. Quo fine post lapsum hominis repetitum est veteri Ecclesiae et populo, cum
+post lapsum conditio bonorum operum naturae homini sit impossibilis? Rom. 8.3.
+
+R. Non eo fine praecipue ut homines per illud iustificarentur et viverent: sed
+ut convicti conscientiis, et impossibili illa conditione operum naturae
+bonorum pressi confugerent ad foedus gratiae. Deut. 10.16. Rom. 3.19. et 7.7.
+et deinceps.
+
+[An ut praepararet]
+
+Q. Visne igitur eo fine praecipue repetitum veteri populo foedus operum, ut ad
+foedus gratiae praepararentur?
+
+R. Volo.
+
+[An cum omnibus]
+
+Q. At non omnes erant praeparati, neque confugiebant ad foedus gratiae?
+
+R. Verum: sed electi erant praeparati, reprobi vero tandem redacti erant in
+desperationem. Rom. 11.7.
+
+[An fuit gratiae]
+
+Q. An fuit etiam cum veteri Ecclesia et populo percussum foedus gratiae?
+
+R. Fuit: etsi obscura eius fuerit mentio in doctrina foederis operum et legis.
+Gen. 3.15. et 49.10. et 22.18. et 26.4.
+
+[An violatum]
+
+Q. An igitur homo excidit ab hoc foedere operum?
+
+R. Excidit quidem. Rom. 3.4.
+
+Q. Quando excidit primus ab hoc foedere?
+
+[Folium digitale 11; sign. A6r]
+
+R. Statim post creationem, et foedus ipsum percussum. Gen. 3.1. et deinceps.
+Rom. 5.12. et deinceps.
+
+[An posteri desciverint]
+
+Q. An posteri desciverunt ab hoc ipso foedere?
+
+R. Postquam repetitum esset populo hoc foedus, ipse quidem recepit se
+praestiturum foederis conditionem, sed non stetit promisso, neque etiam potuit.
+Exod. 32.1. et deinceps.
+
+[Quid sequutum]
+
+Q. Quid insequutum est hominis defectionem, et foederis violationem?
+
+R. Mors utraque: prima corporis, secunda corporis et animae: idque virtute
+comminationis quae fuit cum promissione foederis coniuncta. Gen. 2.17. et 3.7.
+et deinceps. Rom. 5.12.
+
+Q. Atqui non statim mortuus est violato ruptoque foedere?
+
+R. Inchoata tamen est utraque mors, et corporalis et spiritualis, perficienda
+suo demum tempore: et corpus ipsius factum est mortalitati obnoxium, et anima
+ipsius amisit Dei imaginem, hoc est, vitam Dei, quae cernitur in sanctitate,
+iustitia, sapientia. Gen. 3.7. 1. Cor. 15.42, 43. Ephes. 2.1. Colos. 2.13.
+
+[Folium digitale 12; sign. A6v]
+
+[Ubi doctrina]
+
+Q. Ubinam habes doctrinam foederis huius naturae?
+
+R. In veteri Testamento, hoc est, in Scriptura Mosis et Prophetarum (quae
+magna ex parte collocata est in explicanda lege et operum foedere) fuse tradita
+est, Decalogo vero summatim comprehensa.
+
+DE FOEDERE DEI GRATUITO.
+
+[Quid foedus gratuitum]
+
+Q. An homo post ruptum iam foedus operum prostratus et mortuus, ipse primus
+cogitavit de liberatione sive redemptione sui?
+
+R. Ne cogitavit quidem de redemptione sui. Gen. 3.8. et seq. 1. Cor. 2.14.
+
+Q. Quomodo ergo liberatus est ex tanta morte et redemptus?
+
+R. Sola Dei gratia et misericordia, ipsum praeter et contra omnem
+exspectationem, utpote spiritualiter mortuum, praeveniente. Gen. 3.8. Ephes.
+2.1. et sequent. Colos. 2.13.
+
+Q. Quae fuit praeveniens Dei gratia?
+
+[Folium digitale 13; sign. A7r]
+
+R. Dedit homini Mediatorem suum Iesum Christum. Gen. 3.15. Rom. 8.3. Gal. 4.4.
+1. Iohan. 4.9.
+
+Q. At non tum statim post lapsum hominis manifestatus est Dei filius in carne,
+cum Mediatorem oporteat esse et Deum et hominem in una persona?
+
+R. Iesus Christus heri et hodie idem est, et in secula: et Christus est agnus
+ille mactatus inde ab origine mundi: hoc est, virtus et efficacia carnis et
+crucis Christi futurae demum suo tempore fuit iam inde a principio. Heb. 13.8.
+Apoc. 13.8. 1. Cor. 2.3, 4.
+
+Q. Quando demum manifestatus est Dei filius in carne nostra?
+
+R. Postquam venit plenum tempus, misit Deus filium suum factum ex muliere.
+Galat. 4.4. Ephes. 1.10.
+
+Q. Quas partes obiit pro homine redimendo Mediator iam datus a Patre?
+
+R. Transtulit in se peccatum hominis, iram Dei, et mortem utramque, corporalem
+et spiritualem, quae homini obiecta fuit suo merito. Deut. 21.23. Gal. 3.13.
+
+Q. Quid inde efficitur?
+
+[Folium digitale 14; sign. A7v]
+
+R. Factus est nostra causa obnoxius foederi operum et legi, ut eos qui legi
+erant obnoxii, redimeret. Galat. 4.4, 5.
+
+Q. An Mediator noster Christus tam factus sub foedere operum et lege, nostra
+causa implevit foedus operum et legem?
+
+R. Implevit, et id quidem duobus modis.
+
+Q. Quibus illis?
+
+R. Tam agendo quam patiendo. Rom. 8.3, 5. 1. Pet. 2.22. et sequent. Gal. 3.13.
+
+Q. An non fuisset satis, si nostra causa tam bene, sancteque in tota vita
+operatus fuisset, nisi etiam fuisset passus pro nobis mortem?
+
+R. Non fuisset satis: neque enim vel omnia illa eius sanctissima et iustissima
+opera satisfecissent iustitiae et irae Dei propter peccata nostra, nedum
+promerita nobis fuissent misericordiam Dei, reconciliationem, iustitiam, et
+vitam aeternam. Heb. 9.22, 23.
+
+Q. Quid ita?
+
+R. Quia iustitia Dei necessario requirebat violato iam a nobis foedere operum
+poenam mortis extremam, idque iuxta
+
+[Folium digitale 15; sign. A8r]
+
+comminationem illam quam supra diximus coniunctam fuisse cum promissione
+foederis. Deut. 27.26.
+
+Q. Ut hoc tibi largiar, violato semel foedere operum, nulla nostra opera, etiam
+si fuissent ea sanctissima et iustissima, potuisse satisfacere iustitiae et
+irae divinae: non video tamen quin opera Mediatoris, quae etiam Dei fuerunt
+opera, et hominis tamen sanctissimi et innocentissimi, quin, inquam, potuerint
+satisfacere iustitiae et irae Dei?
+
+R. Ut non potuissent nostra, sic etiam non potuissent Mediatoris Dei et hominis
+opera etiam sanctissima satisfacere iustitiae Dei, quae semel violata,
+necessario deposcebat ad mortem, vel hominem ipsum peccatorem, vel certe pro eo
+Mediatorem, ad hoc ut Deus et iustus esset et verus. Heb. 9.22, 23. Rom. 3.26.
+
+Q. Si hoc tibi concedam, morte et passione Mediatoris satisfactum esse
+iustitiae et irae Dei propter peccata nostra, inde mihi vicissim largire
+sanctis et bonis operibus suis Mediatorem promeritum nobis esse misericordiam
+omnem, reconciliationem et gratiam: velle partiri satisfactionem et meritum
+inter opera et passionem eius, sic ut dicas passione eum
+
+[Folium digitale 16; sign. A8v]
+
+satisfecisse iustitiae et irae: operibus vero sanctis et bonis promeritum esse
+gratiam et reconciliationem.
+
+R. Ne hoc quidem tibi largior. 1. Iohan. 1.7.
+
+Q. Saltem non potes negare quin bona sanctaque Mediatoris opera confecerint
+aliquam partem utriusque et satisfactionis et meriti?
+
+R. Ne partem quidem, dicam ut proprie loquar, aliquam, vel satisfactionis vel
+meriti ea confecisse: quia in Scriptura passim video satisfactionem et meritum
+Christi ipsius passioni et cruci, non autem actionibus, adscribi. Rom. 3.25. et
+5.19.
+
+Q. Visne igitur Mediatorem sola passione et morte sua, et satisfecisse
+iustitiae divinae, et promeritum esse gratiam?
+
+R. Volo utrumque, et satisfactionem et meritum proprie soli morti et passioni
+Mediatoris attribui. Rom. 3.25, 26. et 5.19.
+
+Q. Nullum igitur video fuisse usum tot tantorumque operum Mediatoris nostri
+quae in tota vita fecit?
+
+R. Ne id quidem sequitur.
+
+Q. Quem igitur dices eorum fuisse usum?
+
+R. Dico sanctitatem personae Christi Dei et hominis, operaque omnia sancta
+
+[Folium digitale 17; sign. B1r]
+
+tam sanctae personae fundamentum fuisse satisfactionis et meriti, quae solius
+passionis sunt proprie. 1. Pet. 3.18. Heb. 7.26. et 9.13, 14.
+
+Q. Dic hoc quaeso, si potes, paulo clarius?
+
+R. Hoc est quod volo, dignitatem personae Christi tam sanctae, simulque operum
+profectorum a persona tam sancta et divina, in causa fuisse cur passio ipsius
+ea fuerit virtute et efficacia, qua non solum satisfecerit iustitiae et irae Dei
+pro peccatis nostris: sed etiam promerita sit nobis novam gratiam et
+misericordiam.
+
+Q. Accipio: vis enim Christum per sanctitatem illam personae simul et operum,
+factum esse idoneum, aptum, et efficax sacrificium, hoc est, et
+satisfactorium, ut sic dicam, et meritorium?
+
+R. Volo: talis enim nos decebat pontifex, pius, innocens, impollutus,
+segregatus a peccatoribus, et sublimior caelis factus. Heb. 7.26.
+
+Q. Quotuplex igitur est effectus mortis Christi Mediatoris?
+
+R. Duplex: primum enim satisfecit irae Dei pro peccato hominis: deinde
+promerita est novam gratiam et misericordiam. Rom. 3.25. et 4.23.
+
+[Folium digitale 18; sign. B1v]
+
+Q. Quae causa tantae efficaciae mortis Christi?
+
+R. Primum dignitas personae, quae Deus est et homo sanctissimus: deinde
+supplicii et mortis quam adeo perpessus est, atrocitas.
+
+Q. Quam gratiam primum omnium homini est morte sua promeritus?
+
+R. Gratiam reconciliationis cum Deo. Rom. 5.10.
+
+Q. Quomodo facta est reconciliatio cum Deo?
+
+R. Facta est reconciliatio percusso cum homine novo foedere. Ier. 31.33. Heb.
+8.8.
+
+Q. Quodnam fuit illud novum foedus?
+
+R. Hoc quod vulgo foedus gratiae sive gratuitum appellant.
+
+[Foedus gratuitum quid]
+
+Q. Quid est foedus gratiae?
+
+R. Est quo Deus promittit homini iustitiam et vitam aeternam, sub conditione
+fidei in Christum Mediatorem: homo autem conditionem accipit, et recipit se
+crediturum. Aba. 2.4. Ioel. 1.31. Rom. 9.10. Mar. 16.15.
+
+[Quod eius fundamentum]
+
+Q. Quod est fundamentum foederis gratuiti?
+
+R. Primum est mors Christi satisfactoria et meritoria: secundum Dei
+misericordia, quam mors Christi merita est. Ex hoc misericordiae fundamento
+proxime exsurgit foedus gratiae. Rom. 3.24.
+
+Q. Differt igitur fundamentum foederis gratiae
+
+[Folium digitale 19; sign. B2r]
+
+a fundamento foederis operum?
+
+R. Imo tam pugnant inter se fundamenta duorum foederum, quam sibi invicem
+contraria sunt natura et gratia, quae in opere redemptionis nullo pacto
+cohaerere possunt. Rom. 11.6.
+
+[Quae promissio]
+
+Q. Quae sunt res promissae in foedere gratiae?
+
+R. Iustitia et vita aeterna. Rom. 5.21.
+
+Q. Quaenam est illa quae promittitur iustitia?
+
+R. Non inhaerens primum qualis amissa est in Adamo: sed iustitia Dei, hoc est,
+quam Deus per fidem imputat, quae tanto excellentior est inhaerente iustitia,
+quanto excellentior fuit Christus Adamo, et sine qua non potest homo comparere
+coram Deo et ipsius tribunali. Rom. 3.22. et 5.12. et sequent.
+
+Q. Quae est haec quae promittitur vita?
+
+R. Effectum est iustitiae Christi imputatae, quod inchoatur in hac vita per
+inhaerentem sanctitatem: perficitur autem post hanc vitam per gloriam. Rom.
+5.21. et 6.22. et 8.30.
+
+[Quae conditio]
+
+Q. Quae conditio est foederis gratuiti?
+
+R. Ipsum foederis gratuiti nomen importat, vel nullam esse conditionem, (quod
+enim promittit aliquis se daturum gratis,
+
+[Folium digitale 20; sign. B2v]
+
+nullam conditionem proprie postulat) vel certe conditio foederis gratuiti
+plane est gratuita: hoc est, ex mera Dei gratia est. Esa. 55.1. Rom. 3.24.
+
+Q. Quae est ea conditio quam gratuitam dicis?
+
+R. Est fides in Mediatorem. Rom. 10.6. Galat. 3.14.
+
+Q. Estne igitur fides ex gratia?
+
+R. Est quidem: et tantum ex gratia, non etiam ex naturae viribus. Philip.
+1.29.
+
+Q. Ergo conditio haec fidei in Christo et misericordia Dei in ipso, excludit
+illa opera naturae bona, quae posita sunt pro conditione in foedere operum?
+
+R. Excludit plane: neque enim Christus et misericordia Dei, quae fidei
+obiecta sunt, possunt consistere cum naturae viribus vel naturae operibus in
+hominis iustificatione. Rom. 3.28. et 11.6.
+
+Q. An fides quoque excludit opera regenerationis, sive gratiae?
+
+R. Excludit et ea quoque: neque enim regenerationis etiam opera possunt
+concurrere tanquam aliqua pars causae et meriti ad hominem iustificandum et
+servandum. Rom. 4.2, 3. Philip. 3.8.
+
+Q. Ergo vis solam fidem, hoc est, solum Christum fide apprehensum, efficere
+conditionem foederis gratuiti?
+
+R. Volo:
+
+[Folium digitale 21; sign. B3r]
+
+nam quae est conditio in foedere gratuito, eadem est causa iustificationis
+hominis, hoc est, impletionis promissae in foedere gratiae: sola autem fides
+iustificat; hoc est, solus Christus fide apprehensus: Ergo sola fides est
+conditio foederis gratuiti. Rom. 4.13. et sequent.
+
+Q. Vis igitur idem re ipsa esse foederis gratuiti conditionem, et causam cur
+impleat Deus promissionem foederis gratuiti, hoc est, cur nos iustificet actu
+ex foederis ipsius formula?
+
+R. Volo: nam haec tria idem sunt re ipsa in hoc foedere, fundamentum foederis
+gratuiti, conditio foederis, causa cur Deus impleat nobis promissionem
+foederis. Christus enim crucifixus est et fundamentum foederis gratuiti, et
+conditio, et causa impletionis rei in foedere promissae. Galat. 3.8, 9. 2.
+Cor. 1.20.
+
+Q. Nullumne est inter haec tria discrimen?
+
+R. Ratione tantum differunt: nam Christus crucifixus ut fundamentum est
+foederis absolute consideratur: ut conditio est foederis, consideratur ut fide
+apprehendendus est, conditio enim est rei futurae et praestandae: denique ut
+causa est cur impleat Deus promissionem foederis, consideratur
+
+[Folium digitale 22; sign. B3v]
+
+ut iam apprehensus per fidem in tempore praeterito. Rom. 3.24. et 28.
+
+Q. Ergo absque merito nihil fit in foedere gratuito?
+
+R. Nihil: nam et foedus ipsum fundatum est in merito, et promissio foederis
+facta est sub conditione meriti: et causa denique cur impleatur promissio
+meritum est. Heb. 9.15. et sequent. 2. Cor. 1.20. Galat. 3.17. Rom. 4.13. et
+10.9, 10.
+
+Q. Quomodo igitur gratuitum dici potest, cum inter se maxime pugnent gratia
+et meritum?
+
+R. Quod meritum est respectu Christi Mediatoris, id ipsum mera gratia est
+respectu nostri: nomen autem gratuiti foederis huic foederi tribuitur non
+respectu Christi, sed nostri. Rom. 3.24. et 4.16.
+
+[Quis usus operum regenerationis]
+
+Q. Quis est igitur usus operum regenerationis, si neque partem aliquam
+conditionis eius quae est in foedere gratuito, neque partem aliquam causae
+iustificationis et salutis nostrae constituant?
+
+R. Ut gratissimi Deo propter vocationem nostram, quae fit per foedus gratuitum
+nobiscum percussum, et propter iustificationem nostram. 2. Cor. 5.15. Ephes.
+4.1.
+
+Q. At invenies passim in Scriptura mercedem vitae aeternae promissam esse sub
+conditione operum
+
+[Folium digitale 23; sign. B4r]
+
+sanctificationis: an non hae promissiones sunt foederis gratuiti? quod si
+sunt, an non oportet opera regenerationis constituere saltem aliquam partem
+conditionis illius quae est in foedere gratuito?
+
+R. Promissiones illae non sunt foederis gratuiti, ut neque sunt foederis
+operum.
+
+Q. Quid ita?
+
+R. Quia, cum promissio foederis operum repetiti post lapsum fiat homini nondum
+iustificato et renato, ut et promissio foederis gratuiti, hae promissiones
+fiunt iam iustificato et renato. Rom. 3.23, 24. 1. Tim. 4.8.
+
+Q. In quem finem fiunt promissiones hae iustificatis iam et renatis?
+
+R. Ut proposita mercede vitae sempiternae excitentur iustificati iam et renati
+ad opera regenerationis. 1. Tim. 4.8. Gal. 6.9.
+
+Q. Vis igitur tria promissionum genera in Scriptura sacra, maxime vero in novo
+testamento, distincta inveniri?
+
+R. Volo.
+
+Q. Quae sunt ea?
+
+[Quot promissionum genera]
+
+R. Primum est foederis operum, secundum est foederis gratuiti, tertium genus
+efficiunt promissiones illae quibus homines iam
+
+[Folium digitale 24; sign. B4v]
+
+vocati, iustificati, et renati, excitantur ad officia gratitudinis in Deum
+redemptorem, quae passim occurrunt in Doctrinae Evangelicae parte ea, quae est
+de vita, sanctimonia, et bonis moribus. Tertium enim hoc promissionum genus
+fere inspersum videas paraenesibus et praeceptionibus quae de sancta vita
+traduntur.
+
+Q. Quae sunt igitur capita conditionis quae est in hoc foedere gratuito?
+
+R. Quae nobis credenda sunt; (ea enim possumus conditionis capita vocare) de
+Deo, de Christo Mediatore, de beneficiis ipsius: ea in Evangelio fuse
+explicata sunt; in symbolo autem quod vocant Apostolorum, paucis comprehensa.
+
+[Quae ratio nominis]
+
+Q. Cur appellatur foedus gratuitum?
+
+R. Quia conditio foederis vel nulla est, vel certe gratuita tota est.
+
+[Quando percussum]
+
+Q. Quo tempore primum percussum est cum homine foedus hoc gratuitum?
+
+R. Percussum est statim post lapsum hominis. Gen. 3.5.
+
+[Quomodo percussum]
+
+Q. An disertis verbis item primum est percussum?
+
+R. Minime: sed obscura quaedam initio facta est seminis mulieris, hoc est,
+
+[Folium digitale 25; sign. B5r]
+
+Christi et beneficiorum ipsius promissio. Gen. 3.5.
+
+[An repetitum]
+
+Q. An repetitum est postea foedus hoc gratuitum?
+
+R. Repetitum est perpetuo inde a lapsu hominis ad manifestationem usque
+Christi, quo demum tempore coepit clarissime et apertissime proponi: tum enim
+dici coepit: Qui crediderit in Christum crucifixum iustificabitur et vivet.
+Iohan. 3.18. Rom. 10.9, 10.
+
+Q. Ergo idem est substantia foedus illud gratuitum cum veteri populo, et
+foedus hoc gratiae quod in adventu Christi cum ipsa Ecclesia est percussum?
+
+R. Idem re et substantia est utrumque, diversum vero est accidente: ex qua
+diversitate accidentali, illud vetus foedus sive Testamentum, hoc vero novum
+foedus sive Testamentum est vocatum. Heb. 8.8, 9. et deinceps.
+
+Q. An veteris Testamenti nomine intelligis foedus gratiae?
+
+R. Veteris Testamenti nomen latius patet ad legem sive foedus operum pariter
+et foedus gratiae cum lege coniunctum. Apostolus ad Hebraeos sic accipiendum
+docet
+
+[Folium digitale 26; sign. B5v]
+
+veteris Testamenti nomen. Heb. 8. et 9.
+
+Q. Ergo etiam foedus gratiae cum veteri illo populo percussum, vocatur vetus
+Testamentum?
+
+R. Ita est.
+
+[Quomodo promulgatum post adventum Christi]
+
+Q. Post manifestationem Christi, ipsiusque in caelos ascensionem, quem ordinem
+servarunt Apostoli in promulgando foedus hoc gratuitum?
+
+R. Primum evangelizarunt, hoc est, praedicarunt Christum humiliatum primum,
+glorificatum deinde, tertio denique beneficia ex Christi morte et gloria
+promanantia, docuerunt: tum Evangelium suum concluserunt cum hac promissione,
+Quicunque crediderit in Christum hunc sic humiliatum primum, glorificatum
+deinde, particeps fiet Christi, omniumque beneficiorum ipsius: quibus verbis
+habemus foedus gratuitum. Act. 2.14. et sequent.
+
+Q. An nullo unquam tempore ante Christi manifestationem in carne, clare et
+diserte propositum et expositum est hoc foedus gratuitum?
+
+R. Nunquam tam clare ante Christi adventum propositum est, quam clare
+promulgatum est post ipsius adventum. Illud tamen negari non potest, quo
+propius aberat adventus Christi, eo clarius fuit inde a Patriarchis et
+Prophetis indicatum
+
+[Folium digitale 27; sign. B6r]
+
+fuisse hoc foedus: ultimos autem Prophetas omnium clarissime de eo locutos
+esse. Heb. 1.1. Iohan. 1.18. 2. Pet. 1.19.
+
+Q. Qui demum ex Prophetis clarissime de eo loquuti sunt?
+
+R. Paulus citat ex Propheta Habacuc illud dictum, Iustus ex fide vivet. Rom.
+1.17. Item ex Propheta Ioel, Quisquis credet in eum non pudefiet. Rom. 10.11.
+Quibus quidem dictis habemus formulam foederis gratuiti. Quare teste Paulo hi
+duo Prophetae de foedere gratuito loquuti sunt apertissime.
+
+[Quo fine repetitum]
+
+Q. Quo fine est repetitum?
+
+R. Eodem plane quo primum est percussum cum homine statim post lapsum, nempe
+ut per fidem homo iustificaretur ac viveret. Ierem. 31.33. Heb. 8.8.
+
+Q. Visne hac ratione differre foedus hoc gratuitum repetitum, a foedere illo
+operum repetito?
+
+R. Volo: nam ut supra vidimus non eodem fine praecipuo repetitum fuit cum
+homine foedus operum, quo primum est percussum.
+
+[Quae poena, et conditio ab hoc foedere]
+
+Q. Quid si homo post ruptum foedus illud operum, non recepisset conditionem
+foederis huius gratuiti?
+
+[Folium digitale 28; sign. B6v]
+
+R. Tum quidem nunquam iustificatus et servatus fuisset. Iohan. 3.18. Mar.
+16.16.
+
+Q. An primus homo sibi et posteris suis credidit, accepta conditione foederis
+gratuiti?
+
+R. Percussum quidem foedus fuit cum Adamo et posteris sive semine ipsius:
+verum fides et gratia in Christo non propagatur in posteros, quemadmodum in
+ipsos derivatur natura sive bona, sive mala. Gen. 5.3. et 17.7. Rom. 5.12.
+Philip. 1.20.
+
+[Quae poena excidentis ab hoc foedere]
+
+Q. Quid si quis postquam recepit se crediturum, et coepit credere, illuminari
+mente, corde gustare bonum Dei verbum, ac virtutes futuri seculi, si (inquam)
+postea prolabatur et deficiat a Deo?
+
+R. Non renovatur denuo per resipiscentiam, neque percutitur cum eo tertium
+aliquod foedus. Heb. 6.6. et 12.17.
+
+Q. Ergo ruptor foederis huius gratuiti deteriori est loco et conditione, quam
+fuit homo post ruptum illud primum foedus operum. Nam rupto foedere operum
+fuit locus resipiscentiae et misericordiae Dei in Christo: at si rumpatur
+foedus gratiae, nullum dicis fore resipiscentiae locum?
+
+R. Verum est deteriori loco esse ruptorem foederis gratuiti, et peccatum
+ipsius esse irremissibile, quia est peccatum in Spiritum sanctum, cuius haec
+est necessaria proprietas quod qui peccavit in Spiri-
+
+[Folium digitale 29; sign. B7r]
+
+-tum sanctum, sic a Deo finali caecitate punitur, ut nunquam eum serio et
+sincere peccati sui poenitere possit. Mat. 12.31.
+
+Q. Dicis ergo non posse percuti tertium aliquod cum homine foedus, violato iam
+secundo hoc foedere quod gratuitum vocatur?
+
+R. Dico: quia si ultro peccaverimus post acceptam cognitionem veritatis, non
+adhuc pro peccatis reliqua est hostia: sed horrenda quaedam exspectatio
+iudicii, et ignis fervor qui devoraturus est adversarios. Heb. 10.26, 27.
+
+Q. An igitur renovari non potest foedus absque hostia et sacrificio?
+
+R. Non potest Deus reconciliari cum peccatore et foedifrago, absque
+sacrificio, quo quidem satisfiat ipsius iustitiae et irae. Primum illud foedus
+non indiguit Mediatore et sacrificio, quia homo non fuit peccator tum cum
+percussum est primum cum eo illud operum foedus. Cum repetitum est populo
+Israelitico operum foedus, non est id quidem factum per Deum ipsum immediate,
+sed per ministerium Mosis internuncii, id quod Dei a populo dissentientis ob
+peccata indicium erat. Gal. 3.19.
+
+[Folium digitale 30; sign. B7v]
+
+Secundum foedus quod gratuitum vocamus, opus habuit Mediatore et Sacrificio,
+quia homo peccavit, et peccatum sine sacrificio non expiatur. Nam absque
+sanguinis effusione non fit remissio. Heb. 9.22. Iam si excidat homo a secundo
+hoc foedere, quia non potest inveniri sacrificium, ideo nulla unquam futura est
+remissio peccati: nullum tertium foedus quaerendum.
+
+Q. Quod si quis excidat a foedere isto gratiae (videris enim velle posse
+aliquem ab ipso excidere) an non sequitur fidem in Christum, Spiritum sanctum,
+et gratiam semel receptam, amitti posse, cum tamen dicat Apostolus dona Dei in
+Christo eiusmodi esse ut eorum ipsum paenitere non possit. Rom. 11.29.
+
+R. Duplicem pro ratione praesentis instituti facimus fidem: unam temporariam,
+quam vocant et hypocriticam; alteram perpetuam, quam vocant et ANUPOKRITON,
+hoc est, non simulatam. Temporaria et hypocritica, quia superficiaria est atque
+neque altius in corde radices agit, deperdi potest. Perpetua vero et non
+simulata, quia superficiaria non est, sed altius radices agit in corde, ideo
+penitus exstirpari et expelli e corde nunquam potest. Quamobrem qui accepit
+donum hoc fidei non simula-
+
+[Folium digitale 31; sign. B8r]
+
+-tae, is nunquam poterit prorsus a foedere Dei excidere, et incidere in illud
+peccatum quod vocant peccatum in Spiritum sanctum. 1. Iohan. 3.9. Luc. 19.26.
+Ioh. 10.28.
+
+[An iis qui sub foedere habent, abolitum sit foedus operum]
+
+Q. An iis qui sunt sub foedere gratiae abolitum est foedus illud operum?
+
+R. Quod ad iustificationem sive condemnationem attinet abolitum est: quod vero
+ad conversionem, fidem, regenerationem, sive carnis mortificationem, etiam
+adhuc in credentibus sui aliquem habet usum. Rom. 1.5. Galat. 3.13. et 4.5.
+Rom. 3.31. et 7.14. et sequent.
+
+Q. Declara quod dicis?
+
+R. Faciam: primum enim ii qui sunt in Christo, sola fide Christi iustificantur
+et servantur, non autem operibus Legis. Rom. 3.28. Deinde iis qui sunt in
+Christo nulla est condemnatio, Christus enim pro iis factus est execratio.
+Galat. 3.13. Deinde etiam qui sunt in Christo, cum non perfecte credant,
+perfecte conversi sint, perfecte renati sint. Rom. 7.18. opus habent perpetuo
+terroribus illis foederis operum, ad hoc ut excitentur ad perpetuum progressum
+faciendum in fide, conversione, et sanctificatione.
+
+[Folium digitale 32; sign. B8v]
+
+[An lex moralis ipsa abolita sit]
+
+Q. An non cum foedere operum abolita est et abrogata simul lex illa moralis
+quae continebat capita conditionis illius, quae requiritur in foedere operum?
+
+R. Ut Lex moralis inservit foederi operum, plane eius eadem ratio est quae est
+foederis operum: abolita est qua ratione abolitum est foedus operum, manet qua
+ratione manet foedus operum.
+
+Q. An lex moralis consideratur alio modo quam quo respicit foedus operum, quo
+nimirum continet capita conditionis foederis operum?
+
+R. Consideratur.
+
+Q. Quomodo?
+
+R. Post adventum Christi coepit aperte inservire foederi gratiae, et continere
+capita et regulas officiorum Christianorum, et operum non iam naturae, sed
+gratiae et regenerationis. Quare manet Lex moralis, cum foedere gratiae ipsi
+quodammodo inserviens ac ministrans: manet, inquam, non iam inscripta tabulis
+lapideis, sed tabulis cordis carneis. Ierem. 31.33. Rom. 3.31. 2. Cor. 3.2.
+
+Q. Ubi demum invenitur doctrina foederis huius, quod gratuitum vocas?
+
+R. In utroque Testamento, et veteri et
+
+[Folium digitale 33; sign. C1r]
+
+novo: licet in novo Testamento et scriptis Apostolorum clarius et fusius
+tradita sit. Brevis autem doctrinae huius foederis summa, comprehensa est illo,
+quod vocant vulgo, Apostolorum Symbolo.
+
+Hactenus de foedere Dei gratuito.
+
+DE SACRAMENTO IN GENERE.
+
+[An utrumque foedus obsignatum]
+
+Quaestio.
+
+Q. An Deus foedus suum utrumque, et foedus operum, et foedus gratiae,
+Sacramento, hoc est, sigillo suo obsignavit?
+
+Responsio.
+
+R. Obsignavit quidem foedus illud suum utrumque sacramento, tanquam sigillo
+suo. Gen. 2.9. et 17.11. Rom. 4.11.
+
+Q. Velim modum mihi demonstres, quo obsignatum est primum illud foedus operum?
+
+R. Hoc modo, et hac quasi forma servata obsignatum est foedus operum.
+Praefuerunt verba foederis in hanc formam, Visne (dixit Deus homini) bene
+operari et implere legem meam, ad hoc ut vivas?
+
+[Folium digitale 34; sign. C1v]
+
+Respondit homo, Volo. Respondit Deus, Ea conditione atque lege, certo promitto
+tibi vitam aeternam, quoque magis sit hoc tibi persuasum, ego foedus hoc meum
+meo ipsius sigillo tibi obsigno. Exhibuit interea sigillum suum ac
+sacramentum. Gen. 2.15, 16, 17. Gen. 17.11. Rom. 4.11. Apoc. 2.7.
+
+Q. Quo sacramento obsignavit foedus illud operum?
+
+R. Proculdubio arbores illae horti Edenis sacramenta et sigilla foederis Dei
+itidem fuerunt, ut erat arbor illa scientiae boni et mali, ut erat arbor
+vitae. Gen. 2.9. et 3.22.
+
+Q. Quomodo et qua forma obsignatum est foedus gratiae?
+
+R. Eadem plane forma qua obsignatum est foedus operum. Dixit enim Deus, Vis
+credere in Christum Mediatorem? Respondit homo, Volo. Tum Deus, Ea lege atque
+conditione ego te iustificabo, et dabo tibi vitam aeternam: quoque magis
+credas, ego promissionem hanc meam obsigno tibi hoc meo sigillo sive
+Sacramento. Gen. 17.11. Act. 8.37, 38.
+
+Q. Quibus sacramentis obsignavit Deus,
+
+[Folium digitale 35; sign. C2r]
+
+etiamnum obsignat foedus suum gratuitum?
+
+R. Variis iam inde a principio. Gen. 2.9. et 17.11. Exod. 12.1. et sequent. 1.
+Cor. 10.1. et sequent.
+
+Q. Cum Verbum Dei solum sine sigillo ac sacramento per se firmum sit ac
+immutabile (Deus enim non est homo ut mentiatur:) cur verbo ipsius et
+promissioni factae in foedere, additum est sigillum, ac si egeat ipsius verbum
+sigillo aliquo, quo magis ipsum confirmetur, quasi vero per se solum non sit
+satis firmum ac ratum?
+
+R. Sigillum est additum verbo et promissioni Dei, non causa Dei, neque verbi
+ipsius, quod quidem vel solum sine Sacramento potuit sufficere homini, si in se
+spectetur, ac in sua firmitate et certitudine: sed causa hominis, qui infirmus
+est natura: et cuius fides opus habuit illis adiumentis sacramentorum. Rom.
+3.4. et 4.11. Heb. 6.17, 18.
+
+Q. An igitur homo in creatione ante lapsum, cum in statu esset innocentiae,
+laboravit hac infirmitate, et indiguit his adiumentis ad fidem suam magis
+confirmandam?
+
+R. Homo creatus quidem fuit sine peccato, at non sine naturae omni infirmitate
+et mutabilitate: fuit igitur mutationi ob-
+
+[Folium digitale 36; sign. C2v]
+
+-noxius in prima creatione. Quare ad eum stabiliendum in fide sua, ne eam
+mutaret, dedit Deus cum verbo foederis simul sacramentum suum. Iacob. 1.13.
+Iob. 15.13. et 4.18. Mat. 19.17.
+
+Q. De infirmitate hominis post lapsum, imo vero de infidelitate ipsius, nulla
+iam quaestio est, cum ea in causa sit, cur Deus gratuito suo foederi adiecerit
+sigillum suum sive sacramentum?
+
+R. Nulla. Rom. 3.10. et 3.23. Gen. 6.5.
+
+Q. An igitur cum fide permixta est infidelitas aliqua quantisper homo vita hac
+fruitur?
+
+R. Permixta est. 1. Cor. 13.9. Eph. 3.19. Coloss. 1.9.
+
+[De sacramentis novi Testamenti in genere]
+
+Q. Velim omissis veteribus illis Sacramentis, tam foederis operum, quam
+foederis gratiae, aliquid mihi tradas de sacramentis foederis gratiae, et novi
+Testamenti, a Christo in adventu suo institutis?
+
+R. Tradam de iis nunc ea in genere, quae bene percepta, doctrinam de Baptismo
+et Coena Domini specialem reddent cognitu facilem.
+
+Q. Doctrinae generalis de sacramentis novi testamenti unde initium sumes?
+
+R. Initium sumam a rebus ipsis in sacramento significatis.
+
+[Quae res significatae]
+
+Q. Quot sunt igitur in universum res significatae?
+
+[Folium digitale 37; sign. C3r]
+
+R. Reduci possunt omnes ad numerum quaternarium. Prima res significata, est
+ipsemet Christus Deus et homo: secunda crux sive passio Christi: tertia,
+beneficia ex passione Christi promanantia, ut sunt remissio peccatorum,
+iustificatio, Spiritus sancti donatio, regeneratio, vita denique aeterna:
+quarta res significata, est applicatio interna Christi primum, deinde crucis,
+postremo beneficiorum ipsius. Rom. 6.3. Galat. 3.26, 27. Rom. 4.11. 1. Cor.
+10.4. et 11.24. Act. 2.38.
+
+[Quae signa]
+
+Q. Nunc ut a rebus significatis ad signa Sacramentalia transeamus, primum
+quaero, quae in Sacramento signa appelles?
+
+R. Signa appello non tantum elementa ipsa, sed etiam ritus, et externas
+actiones quascunque. 1. Cor. 11.23, 24, 25, 26.
+
+Q. Velim mihi explices quae signa habeant in utroque Sacramento, et Baptismo
+et Coena Domini, res illae significatae singulae ante enumeratae?
+
+R. Explicabo.
+
+Q. Ut igitur a Baptismo ordiamur: in Baptismo quodnam est signum ipsiusmet
+Christi, et substantiae (ut sic dicam) sanguinis ipsius?
+
+R. Signum Christi et substantiae ipsius est aqua. Mat. 3.11. Iohan. 7.33. et
+3.5.
+
+[Folium digitale 38; sign. C3v]
+
+Q. In Baptismo quodnam est signum crucis sive passionis Christi?
+
+R. Aquae fusio, qua significatur sanguinis Dei effusio. Esai. 44.1, 2, 3.
+
+Q. In Baptismo quodnam est signum beneficiorum illorum ex passione Christi
+promanantium?
+
+R. Idem est signum et passionis et beneficiorum: nempe, aquae fusio.
+
+Q. In Baptismo denique quodnam est signum applicationis rerum illarum trium
+spiritualium?
+
+R. Unum idemque est signum applicationis rerum illarum trium, nempe, aquae
+aspersio sive lotio, qua applicatur exterius aqua ad lavandum eum qui
+baptizatur. Heb. 12.24. 1. Pet. 1.2. Tit. 3.5. Act. 22.16.
+
+Q. De signis illarum rerum quae in Baptismo sunt dixisti: velim deinde dicas
+de signis earundem quae sint in Coena Domini?
+
+R. Dicam.
+
+Q. In Coena igitur Domini quae sunt signa Christi ipsius, corporis, inquam, et
+sanguinis ipsius?
+
+R. Panis et vinum. Math. 26.6. et cet. Marc. 14.22. et cet. Luc. 22.19. et
+cet. 1. Cor. 10.16. et cet. et 11.23. et cet.
+
+Q. In Coena Domini quae sunt signa crucis et passionis Christi?
+
+[Folium digitale 39; sign. C4r]
+
+R. Fractio panis, et fusio vini. Testimonia, ut in proxima responsione.
+
+Q. In Coena Domini quae sunt signa beneficiorum Christi?
+
+R. Eadem quae passionis sunt signa, nempe, fractio panis, et fusio vini.
+
+Q. In Coena Domini postremo, quae sunt signa applicationis trium illarum rerum
+spiritualium?
+
+R. Plura sunt applicationis signa, quae singula significant applicationem
+omnium simul illarum trium rerum spiritualium. Sunt autem nominatim: 1. Datio
+panis et vini ex parte Ministri. 2. Acceptio eorundem ex parte populi. 3. Esus
+panis ex parte populi. 4. Potus vini ex parte populi. Testimonia, ut supra
+adducta ex Matthaeo, Marco, et cet.
+
+Q. Ex his quae de signis sacramentalibus dixisti, illud primum observo, unum
+idemque esse in utroque Sacramento signum passionis sive crucis, et
+beneficiorum Christi?
+
+R. Recte observas: id autem fit quia beneficia Christi ex passione ipsius
+manant omnia. 1. Iohan. 1.7.
+
+Q. Observo deinde unum idemque esse signum in utroque sacramento applicationis
+omnium simul trium illarum rerum spiritualium?
+
+[Folium digitale 40; sign. C4v]
+
+R. Et hoc quoque recte observas: nam una eademque opera applicatio fit Christi,
+crucis ipsius, et beneficiorum ipsius. Gal. 3.26, 27. et cet. Rom. 8.32.
+
+[An signa in sacramento nuda sint signa]
+
+Q. Accepi nunc quae sunt signa in utroque sacramento, et quam rem spiritualem
+quodque significet: velim ex te nunc discere, an haec signa nuda sint et
+otiosa signa necne?
+
+R. Non sunt: sed signa sunt efficaciter aliquid operantia, et Spiritus sancti
+organa et instrumenta. Rom. 4.12. et 6.4. Tit. 3.5.
+
+Q. Velim hoc mihi explices?
+
+R. Faciam: in utroque enim sacramento quae signa sunt Christi, crucis ipsius,
+beneficiorum ipsius: hoc est, rerum ipsarum caelestium non applicatarum, ea
+quoque sunt instrumenta Spiritus sancti, quibus mentes nostras illuminat, et
+cognitionem rerum illarum spiritualium, quae prima fidei pars est, efficaciter
+operatur in nobis. Rom. 4.11.
+
+Q. Quid dicis de signis applicationis rerum illarum spiritualium in utroque
+Sacramento?
+
+R. Et haec quoque instrumenta sunt Spiritus sancti, quibus non tantum operatur
+in mentibus nostris cognitionem, quae est
+
+[Folium digitale 41; sign. C5r]
+
+prima pars fidei: sed etiam in cordibus nostris interius applicationem
+operatur, nempe, illam ipsam quam significant, cuiusque cognitionem in
+mentibus nostris primum operatur. Atque haec est secunda pars fidei nostrae,
+nempe, interna applicatio. Rom. 4.11. Gal. 3.27.
+
+Q. Ergo a signis his applicationis rerum illarum spiritualium, proprie habent
+illud sacramenta, ut dicantur signa exhibentia, applicantia, conferentia,
+SPHRAGIDES sive sigilla, his enim nominibus vulgo appellantur.
+
+R. Habent: nam signa applicationis rerum illarum spiritualium sunt ea, per
+quae Spiritus sanctus non tantum operatur cognitionem quae mentis est, sed
+etiam applicationem quae cordis est, et per quae exhibet nobis Christum,
+crucem ipsius, beneficia ipsius. Rom. 4.11.
+
+Q. Hactenus de rebus primum significatis, deinde de signis sacramentalibus
+dixisti: nunc velim ex te scire quae sint causae cur signa illa quae attulisti
+in utroque sacramento, res illas caelestes significatas repraesentent ut signa
+quaedam, et operentur cognitionem et applicationem earum ut instrumenta
+Spiritus sancti?
+
+R. Ne hac quoque in parte tibi deero.
+
+[Folium digitale 42; sign. C5v]
+
+[Quae causae et significationis et operationis signorum]
+
+Q. Quot sunt igitur in sacramentis causae cur signa res illas significatas
+repraesentent, et cognitionem earum atque applicationem operentur?
+
+R. Duae sunt causae: prior est Analogia et proportio inter signa et res
+significatas; posterior est spiritualis ac supernaturalis inter signa et res
+significatas relatio: ex qua existit illa (quam vocant) unio Sacramentalis. 1.
+Cor. 10.16, 17. 1. Pet. 3.22.
+
+Q. Velim mihi explices hanc quam dicis Analogiam sive proportionem.
+
+R. Existit ea ex naturali quadam proprietate rei illius quae signum est, qua
+fit ut res illa quae signum est, similis sit rei significatae. Verbi gratia in
+Baptismo proportio est inter aquam et sanguinem Domini, quia naturalis
+proprietas in aqua est, nempe, aptitudo ad purgandum sive abluendum sordes
+corporis: qua fit ut similis sit aqua sanguini Domini quo abluuntur sordes
+nostrae spirituales. Similiter in Coena Domini analogia est et proportio inter
+panem illum et corpus Domini, quia proprietas est in pane: nempe, aptitudo ad
+alendum et nutriendum vitam istam naturalem: qua fit ut panis sit similis
+corpori Domini quo alimur ad vitam aeternam. I-
+
+[Folium digitale 43; sign. C6r]
+
+-dem iudicium est de reliquis signis in Sacramentis quibuscunque. In omnibus
+enim est analogia sive proportio inter res quae signa sunt, et res quae
+significantur. Iohan. 8.12. 1. Cor. 10.16, 17.
+
+Q. Visne necessariam adeo analogiam hanc, et proportionem quae est inter signa
+et res significatas, ut sine ea res illae spirituales significare et
+repraesentare non possint?
+
+R. Volo: nisi enim analogia et proportio consistat inter signum quodcunque et
+quamcunque rem significatam, sane illud signum rei esse non potest. Verbi
+gratia, lapis signum hominis esse non potest, cum non sit analogia et proportio
+inter lapidem et hominem.
+
+Q. De analogia dixisti, velim nunc de secunda causa agas, quam dixisti esse
+significationis et operationis signorum in sacramentis, nempe de spirituali
+illa relatione?
+
+R. Agam quoque de ea.
+
+Q. Quam dicis igitur relationem hanc spiritualem?
+
+R. Qua nimirum fit ut non prius offeratur oculis his corporeis signum aliquod
+in Sacramento, quam animo atque oculis fidei repraesentetur res spiritualis
+significa-
+
+[Folium digitale 44; sign. C6v]
+
+-ta? Est enim haec proprietas relatorum, ut non citius cognoscatur unum
+relatum, quam alterum mentem nostram subeat. Gen. 17.11. Rom. 4.11. Ezech.
+20.12. quibus in locis omnibus mentio fit signi sive sigilli, quod ad aliud
+relatum est.
+
+Q. Unde oritur haec (quam dicis) relatio spiritualis?
+
+R. Non quidem ex natura ipsius rei quae signum est, ut diximus oriri
+analogiam: verum ex ipsius Domini institutione, et promissione, coniunctis
+precibus. Institutione enim Domini fit, ut transferatur ea res quae signum est,
+a communi usu in sacrum usum, fiatque sacramentum, hoc est, signum relatum ad
+rem spiritualem et caelestem significandam, cum eaque sacramentaliter unitum.
+Ut verbi gratia: quia Dominus ita instituit, aqua Baptismi iam repraesentat
+sanguinem ipsius, ideoque facta est sacramentum sanguinis Domini. 1. Cor.
+11.23. et cet. Rom. 4.17.
+
+Q. Non vis igitur solam analogiam efficere ut sit sacramentale signum?
+
+R. Nolo: neque enim quod habet analogiam ad aliquid propter aliquam simili-
+
+[Folium digitale 45; sign. C7r]
+
+-tudinem, id statim illius signum evadit: verum ut sit signum, opus est
+institutione et ordinatione aliqua, vel Dei, vel hominis: secus profecto omnis
+panis signum esset et Sacramentum corporis Domini, cum nullus sit qui non
+propter similitudinem aliquam proportionalis sit corpori Domini. Ioh. 6.55. 1.
+Tim. 4.4, 5.
+
+Q. Visne igitur relationem hanc spiritualem adeo necessariam esse, ut sine ea
+non sit Sacramentum?
+
+R. Volo: nisi enim res significans quaevis relationem quandam habeat ad rem
+significatam quamcunque, profecto signum ei esse non potest. Signum enim semper
+ad aliquid relatum est.
+
+Q. Cum relatio haec quae facit signum sive sacramentum oriatur ex institutione
+Dei et Christi, quam consecrationem vocant, velim scire quomodo instituatur
+Sacramentum?
+
+R. Dominus iam actis gratiis pronunciavit verba institutionis: quibus
+explicavit usum rerum externarum. Verbi gratia, illius aquae quae in Baptismo
+est, panis illius et vini illius quae in Coena Domini sunt, ut, cum dicitur in
+Coena, hoc est corpus meum, sensus est, Panis hic est signum vel Sacra-
+
+[Folium digitale 46; sign. C7v]
+
+-mentum corporis mei; habetque nunc usum eum ut repraesentet corpus meum,
+quia ego ita volo et instituo. 1. Cor. 11.23. et cet.
+
+Q. Vis igitur institutorem et consecratorem, hoc est, opificem Sacramenti, ut
+Sacramentum est, qui videlicet transfert elementum a communi in sacrum usum,
+esse ipsummet Dominum?
+
+R. Volo: id enim fecit primum per se in ultima illa Coena: nunc autem facit
+id ipsum per homines quotidie; et eos quidem non quoscunque sine discrimine,
+sed legitime vocatos, hoc est, per Pastores et Ministros suos: secus enim non
+est Sacramentum, sed Sacramenti prophanatio. Mat. 28.19.
+
+Q. An cogitandum est hanc rei mutationem, qua fit rei ipsius a prophano usu in
+sacrum, adeo ut fiat Sacramentum, cogitandumne (inquam) ea lege rem esse
+aliquam mutationem?
+
+R. Imo talis est mutatio, qualis a nulla creatura fieri potest: qua nimirum
+fit ut res illa quae mutatur non modo repraesentet, sed etiam offerat et
+operetur: atque perficiat in cordibus nostris id ipsum quod repraesentatur.
+
+Q. An huic mutationi tam in signis, et Sacra-
+
+[Folium digitale 47; sign. C8r]
+
+-mentali, quam vocant, unioni, attribuis metonymicas istas locutiones, in
+quibus externae res de internis, et contra, praedicantur?
+
+R. Usitati illi et metonymici loquendi modi, ex ipsa mutatione et Sacramentali
+unione existunt. De his vide Tit. 3.5. 1. Cor. 10.17. et alibi passim.
+
+[Quomodo differat sacramentum a verbo]
+
+Q. Audivi de causis cur significent ut signa, et operentur ut instrumenta,
+signa in sacramentis singula: velim ex te nunc audire in quo sacramentum
+differat a verbo: Nam verbum foederis sive Evangelii significat ut signum, et
+operatur ut instrumentum, res illas spirituales et caelestes. Verbum enim
+Evangelii est de Christo, de passione ipsius, de beneficiis ipsius, deque
+applicatione earundem illarum rerum non tantum ut signum repraesentans vel
+significans, sed etiam ut organum et instrumentum Spiritus Sancti efficaciter
+operans in mentibus et cordibus nostris. Quare mihi videtur quod ad usum
+attinet, nullum esse discrimen?
+
+R. Discrimen est in hoc, quod sacramentum adiectum verbo magis significet res
+illas caelestes et spirituales, magisque operetur illarum cognitionem et
+applicationem in mentibus et cordibus nostris, quam verbum solum. Gen. 17.11.
+Rom. 4.11.
+
+Q. Cur dicis sacramentum additum verbo, magis significare et operari quam
+verbum solum?
+
+R. Quia
+
+[Folium digitale 48; sign. C8v]
+
+cum verbum solum repraesentet res illas spirituales auribus tantum,
+Sacramentum verbo additum praeterea oculis easdem repraesentat: ut nihil hic
+dicam de aliis sensibus: nihil etiam de eo, quod non universis tantum, ut
+verbum, sed etiam singulis credentibus offeratur. Act. 2.38.
+
+[Quotuplex sacramenti usus]
+
+Q. Visne in hoc tantum differre Sacramentum a verbo, quod ipsum verbo additum
+magis significet et operetur quam verbum solum?
+
+R. Quod ad hunc quidem Sacramenti usum attinet, qui est in significando et
+operando, differt Sacramentum a verbo solo tantum (ut loquuntur) secundum magis
+et minus. Sed est praeterea posterior quidam Sacramenti usus ex hoc priori
+exsurgens, qui nullo modo cum verbo communicatur, verum Sacramenti proprius est
+ac principalis. Rom. 4.11.
+
+Q. De discrimine Sacramenti et verbi hactenus: nunc quaero quotuplicem facias
+sacramenti usum?
+
+R. Duplicem.
+
+Q. Quis est igitur prior Sacramenti usus?
+
+R. Est quo Sacramentum verbo additum magis et plenius significat res illas
+caelestes et spirituales, quam verbum solum, ut signum est: ut vero instrumentum
+est,
+
+[Folium digitale 49; sign. D1r]
+
+magis operatur earundem rerum, cognitionem quidem in mentibus nostris,
+applicationem vero in cordibus: hoc est, KOINONIAN sive communionem illam quam
+vulgo tradunt. Rom. 6.3. Galat. 3.26. 1. Cor. 10.16.
+
+Q. Quis est posterior Sacramenti usus?
+
+R. Est quo cum magis significet et operetur Sacramentum verbo additum, quam
+verbum solum, confirmat nobis verbum foederis et Evangelii, et fidem nostram in
+verbum Evangelii auget et adiuvat, quemadmodum sigillum diplomati appensum,
+maiorem diplomati fidem facit. Atque hic Sacramenti usus est praecipuus. Gen.
+17.11. Rom. 4.11. Math. 26.28.
+
+Q. Ex posteriori hoc fine apparet Sacramentum verbo foederis inservire, et
+propter ipsum a Domino ordinatum esse atque institutum, ac proinde verbum
+foederis sive Evangelii primarium esse ac princeps Spiritus sancti
+instrumentum, quo efficit fidem in cordibus nostris: Sacramentum vero
+secundarium tantaxat Spiritus sancti organum, minusque principale. Mat. 28.19,
+20. Rom. 10.8, 17.
+
+R. Ita quidem est.
+
+Q. Posterior quem dixisti finis hunc mihi movet scrupulum, quod cum in doctrina
+foederis gra-
+
+[Folium digitale 50; sign. D1v]
+
+-tuiti dixeris: sanciri foedus illud et ratum fieri Christi Mediatoris
+sanguine, in eoque tanquam in fundamento suo stabiliri: nunc vero in posteriori
+Sacramenti fine tradendo dicis idem illud foedus gratuitum confirmari
+Sacramento, ac proinde videris mihi velle verbum illud foederis ratum fieri
+atque sanciri et sacrificio et sacramento?
+
+R. Aliud est ipsum foedus sive Testamentum sanciri, ratum fieri, simpliciter
+stabiliri, aliud vero fidem nostram in ipsum confirmari, qui est finis
+Testamenti posterior et proprius. Solo enim Sacrificio et sanguine Mediatoris
+sancitur foedus Dei, in eoque solo fundatur. At vero Sacramento quasi sacro
+Dei iuramento et signaculo fides nostra infirmior et imbecillior in ipsum
+verbum foederis confirmatur, fitque auctior. Dicam clarius. Sacrificium Christi
+Mediatoris est causa, (ut sic dicam) satisfactoria simul et meritoria, quae
+Deum movit atque impulit, ad foedus hoc gratuitum pangendum cum homine
+peccatore; Sacramentum vero est causa quaedam a Deo ipso subministrata, quae
+facit ut homo magis credat in foederis Dei promissionem. Hoc poculum est novum
+Testamentum per meum sanguinem, hoc est, sigillum no-
+
+[Folium digitale 51; sign. D2r]
+
+-vi foederis quod sancitur per meum sanguinem. 1. Cor. 11.25.
+
+Q. Distinctionem accipio: intellexi etiam quae dixisti de rebus significatis
+in Sacramento, de signis et causis cur signa res illas spirituales significent
+potenter et operentur earundem cognitionem et applicationem, de discrimine
+Sacramenti et verbi quod ad usum suum attinet: denique de Sacramenti fine
+duplici: nunc rem gratam mihi feceris si Sacramentum in genere definitione
+quadam sua, vel descriptione aliqua brevi explicaveris?
+
+R. Si fines illos duos quos iam tradidi Sacramenti intelligis, definitionem
+habes. Nam ex duplici illo fine in hunc modum Sacramentum definio.
+
+[Quid Sacramentum]
+
+Q. Quid est igitur Sacramentum?
+
+R. Est signum a Deo institutum, efficaciter operans, visibile, per quod verbo
+Evangelii additum Spiritus Sanctus magis repraesentat nobis res illas
+spirituales et caelestes, magisque operatur in mentibus nostris earum
+cognitionem, in cordibus vero earum applicationem, quam per verbum Evangelii
+solum: quod dum facit, confirmat fidem nostram in verbum foederis et Evangelii,
+efficitque ut in ipsum magis ac magis credamus.
+
+[Folium digitale 52; sign. D2v]
+
+Q. Quod est genus in hac definitione?
+
+R. Genus est signum.
+
+Q. Quae prima differentia?
+
+R. Est quod sit ex Dei institutione et ordinatione signum, quo differt
+Sacramentum a communibus et prophanis signis quibuscunque.
+
+Q. Quae est secunda differentia?
+
+R. Est quod sit instrumentum Spiritus efficaciter operans, quo distinguitur
+Sacramentum a signis inefficacibus quibuscunque.
+
+Q. Quae tertia differentia?
+
+R. Quod sit signum visibile, quo distinguitur a verbo Evangelii sive foederis,
+quod signum est audibile.
+
+Q. Quae quarta differentia?
+
+R. Sumpta est a priori Sacramenti fine.
+
+Q. Quae quinta?
+
+R. Sumpta est a posteriori et principali Sacramenti fine.
+
+Q. Definitionem habeo, ipsiusque brevem declarationem: nunc de nomine
+Sacramenti quaero, an intelligis complexum quid et compositum ex signo simul et
+re significata, an vero simplex signum rem significatam non comprehendens?
+
+R. Ex definitione a me tradita, manifestum est me nomine sacramenti accipere
+
+[Folium digitale 53; sign. D3r]
+
+signum relatum quidem ad rem significatam, et sacramentaliter unitum: verum non
+simul cum ea confusum et comprehensum. Relata enim definienda et explicanda
+sunt per relationem ad ea quibuscum conferuntur, non autem cum iis confundenda.
+Gen. 17.11. Rom. 4.11.
+
+Q. Habeo de sacramentis novi Testamenti in genere, an de ipsis in specie nunc
+quoque dicturus es?
+
+R. De Sacramentis in specie, hoc est, de Baptismo et Coena Domini sigillatim
+suus erit dicendi locus: de hoc tantum nunc admoneo, facile colligi posse ex
+iis quae sunt de ipso genere dicta, quae sint naturae specierum.
+
+Q. Non peto a te nunc fusiorem aliquam specierum doctrinam, quam in aliud
+tempus magis opportunum libenter differo, tantum quaero mihi definitiones
+specierum paucis ex definitione generis elicias, additis specialibus suis
+differentiis?
+
+R. Faciam quod quaeris.
+
+[Quid Baptismus]
+
+Q. Quid est igitur Baptismus?
+
+R. Est Sacramentum quo confirmatur nobis Testamentum novum iam primum
+perceptum, vel quo confirmatur fides nostra in novum Testamentum iam primum
+inchoata: haec enim re idem sunt. Gen. 17.10.
+
+[Folium digitale 54; sign. D3v]
+
+Mat. 28.20. Ioh. 4.1.
+
+[Quid Coena Domini]
+
+Q. Quid est Coena Domini?
+
+R. Est Sacramentum quo confirmatur novum Testamentum iam satis longo tempore
+auditum, et fide conservatum: vel quo confirmatur progressus et continuatio
+fidei nostrae in novum Testamentum: haec enim re idem sunt. 1. Cor. 11.25, 26,
+28.
+
+Q. Unde sumptae sunt hae definitiones?
+
+R. Sumptae sunt a Sacramenti in genere usu posteriori et praecipuo, qui est ad
+confirmandum novum Testamentum sive Evangelii verbum.
+
+Q. Generalem hunc finem quibus specialibus differentiis restringis?
+
+R. Specialis differentia Baptismi est quod eo confirmatur novum Testamentum
+iam primum auditum ac fide receptum, specialis vero differentia Coenae Domini
+est quod eo confirmetur novum Testamentum, [[non quidem iam]] primum receptum
+fide, verum [[iam]] longo tempore fide conservatum. Dicam clarius: Baptismo
+confirmatur fidei initium, Coena vero Domini confirmatur fidei incrementum sive
+continuatio.
+
+Atque haec de Sacramento in genere, hactenus.
+
+FINIS.
+
+[Nota editoris: in folio digitali 46 verba `ea lege rem` ad marginem exteriorum
+partim abscissum ex contextu restituta sunt. In folio digitali 54 atramenti
+macula verba inter uncinos duplices obscurat; supplementa ex syntaxi et
+parallelismo restituta, sed non omnino certa sunt. Nullum folium textualem
+deesse videtur.]
+
+[Folium digitale 55; imago postrema vacua, materia non auctorialis: omissa]

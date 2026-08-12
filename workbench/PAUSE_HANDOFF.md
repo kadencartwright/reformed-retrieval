@@ -1,6 +1,6 @@
 # Reformed Latin translation project — pause handoff
 
-**Paused:** 12 August 2026; updated after completion of Examen Part 05
+**Paused:** 12 August 2026; updated after completion of Exercitationes Part 06
 **State:** all translation agents stopped; no background agent remains active  
 **Bottom line:** the research inventory is complete enough to guide the project,
 but the user's request to translate every non-Calvin target is **not complete**.
@@ -97,15 +97,13 @@ quotation or publication.
 - Directory: [`1651-rutherford-exercitationes-apologeticae/`](1651-rutherford-exercitationes-apologeticae/)
 - Complete source map: authorial body logical pp. 1–539 / PDFs 19–557;
   two-page index PDFs 558–559; no separate errata; no missing body leaves.
-- Parts 01–05 are complete and scan-audited through Exercise I, Chapter III,
-  argument 13 on logical p. 85 / PDF 103.
-- Exact completed endpoint:
-  `Et non possunt non salvandi salvari, & qui damnantur, non damnari, etiam Deo invito.`
-- The next unit was mapped but not drafted. It begins on shared logical p. 85
-  at argument 14, `Sed quoniam obiter hoc argumentum evertit
-  prædestinationem Arminianam ex prævisa fide...`, and runs through the actual
-  end of Chapter III on logical p. 103 / PDF 121. Stop before centered
-  `CAP. IV` on that shared page.
+- Parts 01–06 are complete and scan-audited through the end of Exercise I,
+  Chapter III on logical p. 103 / PDF 121.
+- Part 06 contains arguments 14–33 and Rutherford's critique of Thomas
+  Jackson's disjunctive decree in nineteen synchronized page markers. It ends
+  at `...quicquid boni vel mali ex causis contingentibus nobis eveniat.`
+- Resume at the centered `CAP. IV` heading on the remainder of shared logical
+  p. 103 / PDF 121.
 
 ### Rutherford, *Examen Arminianismi*
 
@@ -168,14 +166,12 @@ completion.
 
 1. Audit Cartwright Proverbs Chapter I, especially English PDFs 14, 20, and
    23; only then update its README to say complete.
-2. Translate the already-mapped Rutherford *Exercitationes* Chapter III Part B
-   (logical pp. 85–103).
-3. Resume Beza Montbéliard Part II at printed p. 100 and continue sequentially
+2. Resume Beza Montbéliard Part II at printed p. 100 and continue sequentially
    through p. 255 / `FINIS` / errata.
-4. Continue Cartwright *Proverbs* chapter by chapter.
-5. Begin Cartwright *Ecclesiastes* with the six preliminary reader images,
+3. Continue Cartwright *Proverbs* chapter by chapter.
+4. Begin Cartwright *Ecclesiastes* with the six preliminary reader images,
    keeping the dedication and reader address separately attributed.
-6. Work through the remaining source-audited British and Scottish queue in
+5. Work through the remaining source-audited British and Scottish queue in
    bounded textual units.
 
 ## Editorial and safety rules for continuation
@@ -196,8 +192,9 @@ completion.
 
 - `python3 scripts/validate.py` passes: `Validated 67 document directories.`
 - `git diff --check` is clean.
-- `research/` and `workbench/` are untracked in Git (`??`); no commit was made.
-- Workbench inventory at pause: 190 files, including 85 Latin files, 85 English
+- `research/` and `workbench/` are tracked in Git on the active project branch;
+  completed checkpoints are committed and pushed.
+- Workbench inventory at pause: 193 files, including 86 Latin files, 86 English
   files, 19 per-work READMEs, and the status ledger.
 - The validator does not detect semantic incompleteness. In particular, it
   does not make the unaudited Cartwright Chapter I complete.

@@ -151,3 +151,21 @@ prævisa fide...`) on that shared page is excluded.
 - The source's p. 84 running head anomalously reads `Ex. 1. C. 2. Quomodo Fide`
   although the continuous body text belongs to Chapter III; this is retained
   as an editorial note rather than used to divide the text.
+
+**Part 06 is complete and scan-audited.** This paired unit resumes Exercise I,
+Chapter III at argument 14 on the lower portion of logical printed p. 85 / IA
+leaf 103 / PDF p. 103. It contains arguments 14–33, including Rutherford's
+extended critique of Thomas Jackson's disjunctive decree, and ends with Chapter
+III on logical printed p. 103 / IA leaf 121 / PDF p. 121 at `quicquid boni vel
+mali ex causis contingentibus nobis eveniat.` The centered `CAP. IV` heading
+on that shared page is excluded.
+
+- Latin: `parts/part-06-exercise-01-chapter-03b-latin.txt`
+- English: `parts/part-06-exercise-01-chapter-03b-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  85–103 / IA leaves–PDF pp. 103–121) and twenty paired marginal blocks.
+- Direct image control confirmed every page, all eighteen page joins, the exact
+  no-gap join after Part 05, and the exact shared-page exclusion of Chapter IV.
+- The source's internal sub-numbering beneath argument 33 moves from point 5
+  back to points 3 and 4; the witness sequence is retained rather than silently
+  regularized.

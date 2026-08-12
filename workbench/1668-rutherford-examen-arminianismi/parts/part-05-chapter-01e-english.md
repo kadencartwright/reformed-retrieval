@@ -238,3 +238,234 @@ Christ to be God's Son lack literal knowledge.
 3:18, and the opening of the eyes of the mind, Psalm 119:18. Nor would pastors
 and doctors need to implore the light of the Holy Spirit for delivering sacred
 sermons and teaching pub-*
+
+[Printed p. 86 | Google/KBNL-UvA PDF 137 | GB 9IhiAAAAcAAJ]
+
+*licly in the schools. For sufficient revelation would be obtained through
+truly human instruction.
+
+7. If a superinfused light were not needed in the intellective faculty, but
+only *a clear presentation of the truth* sufficed for understanding Scripture,
+as they say in the *Synodical Writings*, articles 3 and 4, p. 164, the natural
+man would be no more blind in grasping the mysteries of God's kingdom than an
+untutored student is in grasping Aristotle's esoteric works and his
+metaphysical and logical disputations. Christ's anointing, the Holy Spirit's
+eye salve, and the Spirit of wisdom and revelation would then be needed for
+learning Aristotle's *Organon*, for in such matters *a clear presentation of
+the truth* is especially necessary.
+
+8. Because all corruption in the will arises from the darkening of the mind;
+and if this darkening is not so great that *God's superinfused light* is
+needed, then the natural man will be able not only to grasp but also rightly to
+discern, approve, will, and do the things of God's Spirit. Yet the natural man
+is dead in sins and unfit for understanding, discerning, approving, believing,
+and doing every spiritual truth and good in a way in which an untutored novice
+is dead and powerless to understand, explain, and defend Aristotle's first,
+natural, and moral philosophy.
+
+9. According to this *Arminian* theology, *Turks, Jews, Americans*, and indeed
+everyone can understand and be-*
+
+[Printed p. 87 | Google/KBNL-UvA PDF 138 | GB 9IhiAAAAcAAJ]
+
+*lieve that the Scriptures are divine. No inward testimony of the Holy Spirit
+is needed, if the Remonstrants are to be believed.
+
+10. This is the doctrine of the Socinian *Ostorodt*, who ridicules the inward
+illumination of the Holy Spirit, *Institutes*, book 1, chapter 5.
+
+## 2 Corinthians 4:3
+
+*But if our gospel is veiled, it is veiled to those who perish.*
+
+It is asked whether our theologians defend the obscurity of Holy Scripture
+together with the papists because we teach that no one can understand it to
+the degree sufficient for salvation without the Holy Spirit's inward light.
+The Remonstrants say so in *Apology* 1, fol. 33, and book 2 against Vedelius,
+chapter 2.
+
+We deny it. 1. Because the question between us and the papists concerns
+Scripture's *literal and grammatical perspicuity*, not its *supernatural
+perspicuity*. We teach that the Scriptures are perspicuous in themselves, but
+that the gospel is nevertheless veiled to the blind person and the one who
+perishes, and that a veil lies over the Jews' heart when the Old Testament is
+read, 2 Corinthians 3:15.
+
+2. Because the Remonstrants teach that the Scriptures are so perspicuous that
+they will allow nothing to be required for their inward and spiritual
+understanding beyond literal knowledge, which belongs even to devils,
+heretics, and *those in whom Satan, the god of this age, has blinded minds so
+that the illumination of Christ's glory should not shine upon them*, 2
+Corinthians 4:4. But we teach that Scripture is obscure to devils and blinded
+repro-*
+
+[Printed p. 88 | Google/KBNL-UvA PDF 139 | GB 9IhiAAAAcAAJ]
+
+*bates in the same way that the sun is obscure to a blind person, although it
+is exceedingly bright and visible in itself.
+
+3. Because the Remonstrants slanderously teach that we fashion two meanings
+for Scripture, one *literal and grammatical* and another *supernatural*
+meaning added to it. This is utterly false. A person with inflamed eyes and a
+person with a lynx's sight see the same sun in different ways, but we do not
+therefore say either that there are two suns or that there are two perspicuous
+visions of the sun. We maintain that believers and reprobates grasp one and
+the same meaning of Scripture by natural understanding, while the believer
+grasps that same native meaning of Scripture in a more eminent manner, by a
+superinfused power and the Spirit of revelation, in a way in which the
+reprobate never perceives it. We therefore assert two modes of seeing one and
+the same literal meaning. Hence God's Word, perspicuous in itself, is clear and
+readily apparent to the believer in both ways, by *natural and supernatural
+evidence*. It is perspicuous to the reprobate by *natural evidence*, which we
+say against the papists, but veiled and obscure by *supernatural evidence*,
+which we say against the Arminians.
+
+But the Remonstrants say in book 2, chapter 10 against Vedelius that *the
+papists concede that God's Word is not obscure but perspicuous to the
+illuminated*. I reply that this is false. For they say that it should not be
+read by any laypeople, even the truly regenerate, because
+
+[Printed p. 89 | Google/KBNL-UvA PDF 140 | GB 9IhiAAAAcAAJ]
+
+by reason of its obscurity it can produce heresies in them, and that it must
+therefore be expounded by the Church alone—that is, by the pope, councils, and
+doctors.
+
+## Colossians 2:6–7
+
+*Walk in him, rooted, built up, and established.*
+
+Hebrews 13:9: *Do not be carried about by various and strange doctrines.*
+
+It is asked whether a solid faith in Scripture can coexist with a *liberty of
+prophesying* by which one may investigate new interpretations of Scripture
+every day and perpetually doubt all disputed matters, or matters capable of
+being disputed. The Remonstrants say so in the *Apology*, chapter 24, fol. 275.
+
+We deny it. 1. Because then we would necessarily be carried about continually
+by new doctrines, which the apostle forbids.
+
+2. Because we ought to be rooted and established in faith and to abound in all
+knowledge of Christ, and it is not fitting that we be driven about by every
+new wind.
+
+For their *liberty of prophesying*, the Remonstrants cite Paul's words in 1
+Thessalonians 5:19–20: *Do not quench the Spirit; do not despise prophecies.*
+From this they conclude that everyone should be permitted in the Church to
+teach *that to be Scripture's meaning which he believes to be true by his own
+spirit of prophesying*. If either the magistrate or ecclesiastical discipline
+prevents anyone from teaching and disseminating such prophecies, then they say
+the Spirit's power is quenched and prophecies are de-*
+
+[Printed p. 90 | Google/KBNL-UvA PDF 141 | GB 9IhiAAAAcAAJ]
+
+*spised. They teach that *spirit* is taken in this sense in 2 Thessalonians
+2:2: *Do not be quickly shaken from your mind, whether by a word or by a
+spirit*; and in 1 John 4:1: *Do not believe every spirit.* But, as Beza
+interprets it, this means dreams and inventions.
+
+We say that liberty here is threefold. 1. One is the liberty of *bare
+knowledge*. 2. Another is the liberty of *conscience*. 3. Another is the
+liberty of *profession or exercise*, both publicly and privately. Liberty of
+bare knowledge ought to be granted to everyone in a commonwealth in this
+sense: the magistrate cannot compel anyone to hold this or that opinion in
+religion. This belongs to God alone. Through ministers and doctors, the
+magistrate can command that the mind be informed, but he cannot command an
+opinion.
+
+2. The magistrate cannot deprive the conscience of its liberty to think
+rightly about God. Neither a king, a tyrant, nor any created power can compel
+or restrain the conscience. 3. But insofar as conscience displays itself in
+the exercise of religious liberty, the magistrate can establish and defend
+the public profession and exercise of the orthodox faith, prohibit the
+exercise of heterodox religion, and command subjects to hear God's Word from
+the mouths of orthodox doctors. He can command this *primarily*, and therefore
+*secondarily and consequently* a right conception of God.
+
+This is our position concerning liberty of prophesying, but we condemn the
+Remonstrant license of prophesying.
+
+[Printed p. 91 | Google/KBNL-UvA PDF 142 | GB 9IhiAAAAcAAJ]
+
+1. Because the Holy Spirit would thus forbid the quenching of spirits—that is,
+*false dreams and inventions*—and consequently God would will us to reverence
+fanatical and false interpretations of the Word, which is blasphemous.
+
+2. A false prophet who sells his dreams as God's oracles would not be rebuked
+but honored, and this by God's command: *do not despise prophecy*.
+
+3. Because they will us to pray that God open the eyes of our mind and teach
+us his statutes; they will us to be admonished by God *to hear, attend, judge,
+and test the Scriptures, so that we may be wise and prudent, not children but
+adults in knowledge*, in order that we may investigate new prophecies and new
+opinions in religion while renouncing the prophecies we formerly honored.
+That is, they will the Spirit of God to suggest to us an annual, monthly, or
+hourly faith. For the wisdom opposed to childhood is a fruit of the Spirit.
+But this spirit of wisdom is God's Spirit, who today suggests that this is the
+true meaning of a disputed Scripture. Yet we must abandon that interpretation
+if the spirit of wisdom suggests a new interpretation opposed to it. For this
+is the Remonstrants' doctrine: *in all controversies no one is to be so certain
+in his faith that he is not ready to believe a better interpretation*—which
+he believes to be true by his own spirit of prophecy, which must not be
+despised—unless he dares to oppose the spirit of prophecy and therefore God
+himself teaching the truth. And-*
+
+[Printed p. 92 | Google/KBNL-UvA PDF 143 | GB 9IhiAAAAcAAJ]
+
+*thus the Holy Spirit suggests that contradictories are true: namely, that
+this interpretation was true last year, but now its contradictory is true.
+
+4. Because if a person fluctuates in this way concerning disputed matters,
+and whatever each person thinks true in his private conscience is true, then
+Scripture is proved obscure and insufficient for deciding controversies.
+Every disputed matter is here resolved into the erroneous and erring dictate
+of conscience, and the human being, through a dreaming spirit—not the Holy
+Spirit himself in the Word—is established as the judge of controversies.
+
+5. These disputed matters concern either useful or useless truth. If the
+former, no infallible rule for knowing every useful truth has been left to us,
+which wrongs the Holy Spirit and the Scriptures. If the latter, how did God
+write so many useless things in the Scriptures of the Old and New Testaments
+while writing only four or five fundamental articles? This seems unworthy of
+God's wisdom.
+
+6. It is permissible to doubt disputed matters and to incline toward this or
+the contrary position. But they teach in the *Apology*, chapter 24, fol. 276,
+that *by disputed matters are understood those that either are disputed or can
+be disputed*. Yet whether there are three Gods, as there are three persons of
+the Deity, can be disputed no less; and it is disputed whether Christ is true
+God. Tritheists have as much color from the Scriptures as
+
+[Printed p. 93 | Google/KBNL-UvA PDF 144 | GB 9IhiAAAAcAAJ]
+
+the Arians have. It can also be disputed whether the happiness of the
+glorified and the torments of the damned are eternal in the same way in which
+circumcision is called *eternal* in the Old Testament, and whether the soul is
+not mortal, as Smalcius says in *On the Arian Error*, book 1, chapter 14. The
+Arminian John Geisteranus said that he did not know whether souls after death
+are living or dead, mortal or immortal.
+
+Their assertion does not remove the argument: *fundamentals are not by their
+nature matters capable of being disputed, because there has never been a
+heretic who called into doubt whether thieves, drunkards, robbers, revilers,
+the greedy, and idolaters will obtain the inheritance of eternal life.* The
+Antinomians or Libertines recently arisen in England prove this false, for
+they contend that Scripture proves that the regenerate cannot sin and that
+they can lie, get drunk, rob, shed innocent blood, remain engrafted into
+Christ, and be saved. 2. The papists, who are idolaters, earnestly hope that
+they will obtain God's kingdom—and that they alone will obtain it. What is as
+disputed as the definition of idolatry? Or the definition of theft in the
+general subject of usury and restitution? What fundamental article cannot be
+disputed with as much appearance of reason as the articles concerning the
+perseverance of the saints, original sin, the irresistibility of grace, the
+absolute decree of contingent things, and the divine predetermination of the
+human will, together with many other things which the Arminians call disputed
+and nonessential?
+
+*[Erratum applied: on p. 93, line 6, the text's `potest mortem` is corrected
+to `post mortem` (“after death”) from the edition's printed errata leaf, PDF
+52.]*
+
+*[End of this part. The allied question beginning on p. 94, “Related to this
+question is the following: Can everyone be saved in any religion?” is reserved
+for the next part.]*

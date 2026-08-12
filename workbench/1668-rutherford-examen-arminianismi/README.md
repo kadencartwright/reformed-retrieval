@@ -119,3 +119,21 @@ single marginal letter `A` on p. 66 is recorded in both files.
 
 - Latin: `parts/part-04-chapter-01d-latin.txt`
 - English: `parts/part-04-chapter-01d-english.md`
+
+**Part 05 is complete as a scan-audited working draft.** It resumes on shared
+printed p. 77 / PDF 128 at `Assertio 8. Hinc quæritur`, completes the numbered
+assertions about the Roman Church, treats the supernatural illumination and
+perspicuity of Scripture, and then examines the Remonstrant liberty of
+prophesying. It ends on printed p. 93 / PDF 144 after Rutherford's complete
+argument that any supposedly nonfundamental controversy can be disputed with
+as much appearance of reason as perseverance, original sin, irresistible
+grace, the absolute decree, or divine predetermination. The allied question on
+p. 94, `Huic Quæstioni, affinis est illa. An non quilibet in quâlibet
+Religione salvari queat?`, is excluded. The pair has seventeen synchronized
+page markers for the partial p. 77 and complete pp. 78–93. The printed erratum
+at p. 93 line 6 (`potest mortem` corrected to `post mortem`) is applied and
+documented. No substantive marginal blocks or foreign-script passages occur in
+this part.
+
+- Latin: `parts/part-05-chapter-01e-latin.txt`
+- English: `parts/part-05-chapter-01e-english.md`

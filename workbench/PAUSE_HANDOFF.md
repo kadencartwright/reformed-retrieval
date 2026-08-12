@@ -1,6 +1,6 @@
 # Reformed Latin translation project — pause handoff
 
-**Paused:** 12 August 2026, 12:23 UTC  
+**Paused:** 12 August 2026; updated after completion of Examen Part 05
 **State:** all translation agents stopped; no background agent remains active  
 **Bottom line:** the research inventory is complete enough to guide the project,
 but the user's request to translate every non-Calvin target is **not complete**.
@@ -113,18 +113,16 @@ quotation or publication.
 - Complete source map: Rutherford's body printed pp. 1–761 / PDFs 54–810,
   surrounded by separately identified editorial preliminaries, errata, and
   three indexes.
-- Parts 01–04 are complete and scan-audited through Assertion 7 on shared
-  printed p. 77 / PDF 128.
+- Parts 01–05 are complete and scan-audited through the liberty-of-prophesying
+  discussion on printed p. 93 / PDF 144.
 - The controlling KBNL/UvA copy genuinely lacks printed pp. 42–43. Those pages
   are already supplied under explicit markers from the public-domain British
   Library witness.
-- Part 05 is **partial and unaudited**. Its header prospectively describes the
-  intended p. 93 endpoint, but the actual paired text currently reaches only
-  printed p. 85 / PDF 136 and ends at the line division `publi-*` / `pub-*`.
-- Resume with the continuation on p. 86. Finish through the mapped p. 93
-  sentence ending `...quæ Arminiani controversa non necessaria vocant.` Stop
-  before p. 94's allied question, `Huic Quæstioni, affinis est illa. An non
-  quilibet in quâlibet Religione salvari queat?`
+- Part 05 has seventeen synchronized markers, ends with the mapped p. 93
+  sentence `...quæ Arminiani controversa non necessaria vocant`, and applies
+  and documents the printed correction `potest mortem` to `post mortem`.
+- Resume on p. 94 at the allied question, `Huic Quæstioni, affinis est illa. An
+  non quilibet in quâlibet Religione salvari queat?`
 
 ### Cartwright, *Metaphrasis et homiliae in Ecclesiasten*
 
@@ -168,17 +166,16 @@ completion.
 
 ## Recommended resume order
 
-1. Finish and audit the already-started Examen Part 05 (pp. 85–93).
-2. Audit Cartwright Proverbs Chapter I, especially English PDFs 14, 20, and
+1. Audit Cartwright Proverbs Chapter I, especially English PDFs 14, 20, and
    23; only then update its README to say complete.
-3. Translate the already-mapped Rutherford *Exercitationes* Chapter III Part B
+2. Translate the already-mapped Rutherford *Exercitationes* Chapter III Part B
    (logical pp. 85–103).
-4. Resume Beza Montbéliard Part II at printed p. 100 and continue sequentially
+3. Resume Beza Montbéliard Part II at printed p. 100 and continue sequentially
    through p. 255 / `FINIS` / errata.
-5. Continue Cartwright *Proverbs* chapter by chapter.
-6. Begin Cartwright *Ecclesiastes* with the six preliminary reader images,
+4. Continue Cartwright *Proverbs* chapter by chapter.
+5. Begin Cartwright *Ecclesiastes* with the six preliminary reader images,
    keeping the dedication and reader address separately attributed.
-7. Work through the remaining source-audited British and Scottish queue in
+6. Work through the remaining source-audited British and Scottish queue in
    bounded textual units.
 
 ## Editorial and safety rules for continuation
@@ -203,5 +200,4 @@ completion.
 - Workbench inventory at pause: 190 files, including 85 Latin files, 85 English
   files, 19 per-work READMEs, and the status ledger.
 - The validator does not detect semantic incompleteness. In particular, it
-  does not make the partial Examen Part 05 or the unaudited Cartwright Chapter I
-  complete.
+  does not make the unaudited Cartwright Chapter I complete.

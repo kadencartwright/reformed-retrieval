@@ -49,8 +49,10 @@ The 698 access-PDF pages correspond one for one to access leaves 1–698 in the
 scan metadata. The excluded scan capture before leaf 1 and three captures after
 leaf 698 are not present in the PDF. The title, preface, commentary, and
 apparatus form a continuous physical sequence. No missing or duplicated
-textual leaf has been detected in that sequence; the paired column progression
-and chapter transitions will be rechecked as each unit is edited.
+textual leaf has been detected in that sequence. The printed column numerals
+do contain press errors: in Chapter I the sequence skips numeral 18 and later
+repeats numeral 22, although the text and physical leaves remain continuous.
+Source markers record visible numerals and such anomalies explicitly.
 
 ## Editorial method
 
@@ -65,7 +67,7 @@ The English will be translated independently from the paired Latin and will
 not use any modern rendering as a wording source. It will be full prose, not a
 summary, but remains explicitly AI-assisted and unreviewed.
 
-## Current unit
+## Completed units
 
 **Part 00 is complete as a first working draft.** It contains the title and
 Polyander's separately attributed preface (PDF 5–12), ending at Polyander's
@@ -77,5 +79,17 @@ retained in the paired files:
 - `parts/part-00-title-and-polyander-preface-latin.txt`
 - `parts/part-00-title-and-polyander-preface-english.md`
 
-The next unit will begin Cartwright's Chapter I commentary at PDF 13 / printed
-columns 1–2 and end immediately before `CAPUT II` on PDF 24.
+**Part 01 is complete and scan-audited as a first working draft.** It contains
+the full Chapter I commentary from PDF 13 / printed column 1 through the last
+Chapter I sentence on PDF 24 / printed column 23, stopping immediately before
+the ruled `CAPUT II`. Latin and English have twelve identical source markers.
+All verse lemmata, analytical diagrams, Hebrew, Greek, and prose are retained.
+The markers document the witness's skipped column numeral 18 and repeated
+numeral 22; PDF 21 also carries the erroneous running head `CAP. II` while its
+body is still Chapter I.
+
+- `parts/part-01-chapter-01-latin.txt`
+- `parts/part-01-chapter-01-english.md`
+
+The next unit begins with `CAPUT II` on the lower part of shared PDF 24 and
+ends before `CAPUT III` on PDF 30.

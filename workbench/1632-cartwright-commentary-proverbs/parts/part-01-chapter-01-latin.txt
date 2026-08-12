@@ -6,7 +6,7 @@ AI-assisted, unreviewed working transcription. Page images of the 1632
 Harvard/Internet Archive witness govern; OCR is used only as an aid. Latin long
 s, ligatures, line-end divisions, and typographic u/v are normalized.
 
-[1632 witness | PDF p. 13 | printed columns 1–2]
+[1632 witness | PDF p. 13 | printed column 1]
 
 COMMENTARII SUCCINCTI & DILUCIDI IN PROVERBIA SALOMONIS:
 
@@ -46,7 +46,7 @@ pro insignioribus Lectori commendantur, hic liber nihil non illustre contineat.
 Imo vero cum alij Scripturæ libri gravibus sententiis referti sint, tamen hic
 liber singu—
 
-[1632 witness | PDF p. 14 | printed columns 3–4]
+[1632 witness | PDF p. 14 | printed columns 2–3]
 
 —lari quadam ratione, & veluti pleniore & conferta mensura suo merito gloriosum
 hunc titulum reportavit. Alij enim libri, tametsi a Spiritu Sancto dictati
@@ -101,7 +101,7 @@ dicta avide captari, utcunque mediocria; nec defuisse, qui regum, cum adhuc
 pueri essent, ludicram & ludibundam in dictis & factis conversationem literis
 mandarunt. Quan—
 
-[1632 witness | PDF p. 15 | printed columns 5–6]
+[1632 witness | PDF p. 15 | printed columns 4–5]
 
 —tum igitur beneficium est posse quotidie sermones cum amplissimo rege serere!
 Quod etiam mundi insaniam coarguit, relicto amplissimo rege Salomone, ad
@@ -162,7 +162,7 @@ est: ubi 3. ponuntur; 1. ut unaquæque actio justa sit; deinde ut modus & ratio
 illius observetur, quæ dicitur מישור; denique ut æquitas adhibeatur ad
 moderandum summi juris ἀκρίβειαν.
 
-[1632 witness | PDF p. 16 | printed columns 7–8]
+[1632 witness | PDF p. 16 | printed columns 6–7]
 
 Vers. 4. Ad dandum fatuis astutiam, puero scientiam & solertiam.
 
@@ -218,7 +218,7 @@ judicat absentiam timoris Dei, Roman. 3. Sic Abrahamus sibi cum ab uxoris
 violatione, tum a sui interfectione ideo timuit; Geraræ hospitans, quod
 arbitratus fuerit, ibi esse vacuitatem timoris Dei, Gen. 20. Verum—
 
-[1632 witness | PDF p. 17 | printed columns 9–10]
+[1632 witness | PDF p. 17 | printed columns 8–9]
 
 —Dei timorem probat sapientiam esse, quod stulti seu impij eum contemptui
 habeant. Quod enim priore hemistichio חכמה generaliter dixerat, posteriore
@@ -274,7 +274,7 @@ qui e gutture fluit, suavior sit, & jucundior. Sic videmus, vera sapientia
 præditos ex summa esse nobilitate, ut qui e cælis, & cælesti patre oriundi sint,
 Psal. 16.
 
-[1632 witness | PDF p. 18 | printed columns 11–12]
+[1632 witness | PDF p. 18 | printed columns 10–11]
 
 Vers. 10. Fili mi, si pellicere te volent peccatores, ne acquiescito.
 
@@ -325,7 +325,7 @@ meminerimus eorum sensum esse, ut ad ebrietatem bibant, & blasphemijs Deum
 petant: sic enim omnino loquuntur. Vide exemplum Ioabi, qui, cum adolescentes
 inter se committere voluit, verbo ludendi usus est. Sic—
 
-[1632 witness | PDF p. 19 | printed columns 13–14]
+[1632 witness | PDF p. 19 | printed columns 12–13]
 
 —cum te invitaverint ad erigendas Florales statuas, puta perinde dictum esse,
 ac si dicerent, veni nobiscum furatum, scortatum, sabbatum profanatum.
@@ -378,7 +378,7 @@ circumsonet cujus authoritas, nisi errorum suggestioni sapientissimum Salomonis,
 aut Dei potius consilium postponere velimus, facile nos retinebit in officio.
 Nam si Christi authoritas, multis parasangis—
 
-[1632 witness | PDF p. 20 | printed columns 15–16]
+[1632 witness | PDF p. 20 | printed columns 14–15]
 
 —præponenda sit antiquissimis, gravissimis & doctissimis hominum placitis
 (Matth. 5.) nedum sceleratis leviculorum homuncionum verbulis præponi debet.
@@ -433,7 +433,7 @@ desiderabunt sibi, & stolidi odio habebunt scientiam?
 v. 23. Revertimini ad correctionem meam, ecce, eructabo vobis spiritum meum,
 nota faciam verba mea vobis.
 
-[1632 witness | PDF p. 21 | printed columns 17–18]
+[1632 witness | PDF p. 21 | printed columns 16–17]
 
 In his versibus ad resipiscentiam ducere satagens, doctrinam superiorem
 repudiantes, doctrinæ simul, & reprehensionis contemptoribus certissimum
@@ -493,7 +493,7 @@ stultitiam, irrisioni & ludibrio habent. Ergo etiam irrisorum numero hic
 habentur, non lepidi sanniones, & faceti scurræ, qui omnia ad aliorum libitum
 dicunt; sed qui salubres admonitiones ludibrio habent. Deinceps—
 
-[1632 witness | PDF p. 22 | printed columns 19–20]
+[1632 witness | PDF p. 22 | printed columns 19–20 | witness skips column number 18]
 
 —ab effectis, qui tandem hi sint, declarat; hi scilicet qui stultitiam,
 injustitiam, & irrisionem amant; & contrariam illis sapientiam odio
@@ -617,7 +617,7 @@ discedendo ab iniquitate. 2. Tim. 2. 19. quod isti non faciunt.
 
 Vers. 29. Propterea quod oderunt—
 
-[1632 witness | PDF p. 24 | printed columns 23–24 | Chapter I ends before ruled CAPUT II]
+[1632 witness | PDF p. 24 | printed columns 22–23 | witness repeats column number 22 | Chapter I ends before ruled CAPUT II]
 
 —scientiam, & reverentiam Iehovæ non elegerunt:
 

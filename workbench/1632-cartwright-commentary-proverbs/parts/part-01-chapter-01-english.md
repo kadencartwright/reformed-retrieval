@@ -7,7 +7,7 @@
 > checked by a qualified human editor against the 1632 facsimile before
 > quotation or publication. No modern translation has been used.
 
-[1632 witness | PDF p. 13 | printed columns 1–2]
+[1632 witness | PDF p. 13 | printed column 1]
 
 SUCCINCT AND CLEAR COMMENTARIES ON THE PROVERBS OF SOLOMON:
 
@@ -45,8 +45,11 @@ consists of nothing but weighty and illustrious maxims. Whereas books of other
 people’s maxims (γνῶμαι) contain great sayings here and there, commended to the
 reader as especially notable by marks placed in the book’s margin, this book
 contains nothing that is not illustrious. Indeed, although other books of
-Scripture are filled with weighty maxims, this book, by a certain singular
-manner and, as it were, by a fuller and more densely packed measure, has
+Scripture are filled with weighty maxims, this book, by a certain singu—
+
+[1632 witness | PDF p. 14 | printed columns 2–3]
+
+—lar manner and, as it were, by a fuller and more densely packed measure, has
 deservedly carried off this glorious title. Other books, although dictated by
 the Holy Spirit and containing the most perfect wisdom and knowledge of the
 subjects they set before themselves, nevertheless rarely allow the wisdom and
@@ -104,7 +107,7 @@ the playful and sportive conduct of kings in sayings and deeds when they were
 still boys. How great a benefit, then, it is to be able to converse daily with
 a most exalted king!
 
-[1632 witness | PDF p. 15 | printed columns 5–6]
+[1632 witness | PDF p. 15 | printed columns 4–5]
 
 This also exposes the madness of the world, which abandons the most exalted
 King Solomon and betakes itself to Machiavelli, the ignoble clerk of a petty
@@ -171,7 +174,7 @@ next, that its manner and measure, which is called מישור, be observed; and,
 finally, that equity be employed to moderate the strict precision (ἀκρίβειαν)
 of the highest right.
 
-[1632 witness | PDF p. 16 | printed columns 7–8]
+[1632 witness | PDF p. 16 | printed columns 6–7]
 
 Verse 4. To give prudence to the simple, knowledge and discretion to the
 young man.
@@ -233,7 +236,7 @@ absence of the fear of God to be the fountain of every evil, Romans 3. Thus
 Abraham, while lodging in Gerar, feared both the violation of his wife and his
 own murder because he supposed the fear of God to be absent there, Genesis 20.
 
-[1632 witness | PDF p. 17 | printed columns 9–10]
+[1632 witness | PDF p. 17 | printed columns 8–9]
 
 He proves that the fear of God is wisdom by the fact that fools or the ungodly
 hold it in contempt. What he had said generally as חכמה in the former
@@ -295,7 +298,7 @@ and speech, which flows from the throat, to be sweeter and more agreeable.
 Thus we see that those endowed with true wisdom possess the highest nobility,
 as persons descended from heaven and a heavenly Father, Psalm 16.
 
-[1632 witness | PDF p. 18 | printed columns 11–12]
+[1632 witness | PDF p. 18 | printed columns 10–11]
 
 Verse 10. My son, if sinners wish to entice you, do not consent.
 
@@ -353,7 +356,7 @@ blasphemies—for that is exactly what they say. See the example of Joab, who
 used the word “play” when he wished the young men to meet one another in
 combat.
 
-[1632 witness | PDF p. 19 | printed columns 13–14]
+[1632 witness | PDF p. 19 | printed columns 12–13]
 
 So when they invite you to erect statues for the Floralia, regard it as
 exactly the same as if they said: Come with us to steal, fornicate, and profane
@@ -408,8 +411,11 @@ Here it must first be observed that, to restrain the young man from evil,
 Solomon opposes God’s authority to their wicked counsels. Therefore let this
 voice always resound in our ears. Its authority will easily keep us in our
 duty—unless we wish to subordinate Solomon’s most wise counsel, or rather
-God’s, to the suggestion of errors. For if Christ’s authority must be preferred
-by many parasangs to the most ancient, weighty, and learned opinions of human
+God’s, to the suggestion of errors. For if Christ’s authority, by many parasangs—
+
+[1632 witness | PDF p. 20 | printed columns 14–15]
+
+—must be preferred to the most ancient, weighty, and learned opinions of human
 beings, Matthew 5, how much more must it be preferred to the wicked little
 words of frivolous little men! Second, when he warns that the foot must be
 restrained, he appears to indicate that even the godly have a certain
@@ -466,7 +472,7 @@ mockery for themselves, and the stupid hate knowledge?
 Verse 23. Turn back at my correction. Behold, I shall pour forth my spirit to
 you; I shall make my words known to you.
 
-[1632 witness | PDF p. 21 | printed columns 17–18]
+[1632 witness | PDF p. 21 | printed columns 16–17]
 
 In these verses, while endeavoring to lead those who have repudiated the
 preceding doctrine to repentance, he announces certain ruin to the despisers
@@ -533,7 +539,7 @@ mockers are not witty satirists and humorous jesters who speak everything at
 others’ pleasure, but people who make wholesome admonitions an object of
 ridicule.
 
-[1632 witness | PDF p. 22 | printed columns 19–20]
+[1632 witness | PDF p. 22 | printed columns 19–20 | witness skips column number 18]
 
 He next declares from their effects who they finally are: namely, those who
 love folly, injustice, and mockery and pursue with hatred the wisdom contrary
@@ -600,7 +606,11 @@ calamity arrives like a whirlwind; when oppression and distress rush upon you.
 [Analytical diagram: God’s judgment against ungodly despisers is described
 from its adjuncts: terror; justice.]
 
-The attached terror that precedes is the dread of the ungodly, by which,
+The attached terror that precedes is—
+
+[1632 witness | PDF p. 23 | printed columns 21–22]
+
+—the dread of the ungodly, by which,
 pricked by the goads of their sins, they are often compelled to fear every
 extreme thing, even hell itself. Hence the statement, “There is no peace for
 the ungodly.” For just as they have conscience as a witness and accuser, so
@@ -663,7 +673,7 @@ regard only their own salvation; third, by departing from iniquity, 2 Timothy
 
 Verse 29. Because they hated—
 
-[1632 witness | PDF p. 24 | printed columns 23–24 | Chapter I ends before ruled CAPUT II]
+[1632 witness | PDF p. 24 | printed columns 22–23 | witness repeats column number 22 | Chapter I ends before ruled CAPUT II]
 
 —knowledge and did not choose reverence for Jehovah.
 

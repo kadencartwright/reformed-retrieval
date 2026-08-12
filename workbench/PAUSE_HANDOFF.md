@@ -1,6 +1,6 @@
 # Reformed Latin translation project — pause handoff
 
-**Paused:** 12 August 2026; updated after completion of Exercitationes Part 06
+**Paused:** 12 August 2026; updated after completion of Cartwright Proverbs Chapter I
 **State:** all translation agents stopped; no background agent remains active  
 **Bottom line:** the research inventory is complete enough to guide the project,
 but the user's request to translate every non-Calvin target is **not complete**.
@@ -83,13 +83,12 @@ quotation or publication.
   commentary, printed columns 1–1333; PDFs 673–684 index; PDFs 685–690
   commandment tables ending at `FINIS`.
 - Part 00, title and Polyander's preface, is complete as a paired draft.
-- Part 01 reaches the correct Chapter I endpoint on PDF 24, immediately before
-  `CAPUT II`, but the final audit was interrupted. The Latin has 12 PDF markers
-  for PDFs 13–24; the English has only 9 and lacks explicit markers for PDFs
-  14, 20, and 23. Do **not** assume these are marker-only omissions: compare
-  the English content for those pages against the Latin and facsimile before
-  calling Chapter I complete.
-- After that audit, Chapter II begins on the lower part of PDF 24 and ends
+- Part 01, the complete Chapter I commentary, is scan-audited through its exact
+  endpoint on PDF 24, immediately before `CAPUT II`. Latin and English have 12
+  identical markers for PDFs 13–24. The source markers explicitly preserve the
+  witness's skipped column numeral 18 and repeated numeral 22; PDF 21's
+  erroneous `CAP. II` running head is also documented.
+- Chapter II begins on the lower part of shared PDF 24 and ends
   before `CAPUT III` on PDF 30.
 
 ### Rutherford, *Exercitationes apologeticae pro divina gratia*
@@ -164,14 +163,12 @@ completion.
 
 ## Recommended resume order
 
-1. Audit Cartwright Proverbs Chapter I, especially English PDFs 14, 20, and
-   23; only then update its README to say complete.
-2. Resume Beza Montbéliard Part II at printed p. 100 and continue sequentially
+1. Resume Beza Montbéliard Part II at printed p. 100 and continue sequentially
    through p. 255 / `FINIS` / errata.
-3. Continue Cartwright *Proverbs* chapter by chapter.
-4. Begin Cartwright *Ecclesiastes* with the six preliminary reader images,
+2. Continue Cartwright *Proverbs* at Chapter II on shared PDF 24.
+3. Begin Cartwright *Ecclesiastes* with the six preliminary reader images,
    keeping the dedication and reader address separately attributed.
-5. Work through the remaining source-audited British and Scottish queue in
+4. Work through the remaining source-audited British and Scottish queue in
    bounded textual units.
 
 ## Editorial and safety rules for continuation
@@ -196,5 +193,5 @@ completion.
   completed checkpoints are committed and pushed.
 - Workbench inventory at pause: 193 files, including 86 Latin files, 86 English
   files, 19 per-work READMEs, and the status ledger.
-- The validator does not detect semantic incompleteness. In particular, it
-  does not make the unaudited Cartwright Chapter I complete.
+- The validator does not establish scholarly accuracy; all complete working
+  drafts still require qualified human review against their facsimiles.

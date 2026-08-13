@@ -1,0 +1,457 @@
+IOANNES SCHARPIUS
+TRACTATUS DE IUSTIFICATIONE HOMINIS CORAM DEO (1609)
+PARS 01 — PRAELIMINARIA ET SUMMA DOCTRINAE
+
+Transcription diplomatica normalizata ex exemplari Genevensi anni 1609,
+Bibliothecae Genevensis BGE Cti 1625 BGE S 22716. Imagines e-rara sunt
+testimonium princeps; OCR tantum adiumento est. Editio AI adiuta, nondum ab
+homine recognita.
+
+[1609 e-rara witness | canvas 3 | image 15574975 | title page, unnumbered]
+
+TRACTATUS
+DE
+IUSTIFICATIONE
+HOMINIS CORAM
+DEO.
+
+In quo orthodoxa sententia de singulis controversiis argumentis ex S.
+Scriptura, & à ratione petitis, nec non testimoniis Patrum confirmatur, & ad
+omnia argumenta Papistarum, Bellarmini imprimis respondetur.
+
+Cui appendicis loco tractatio quaestionis de meritoriâ iustificationis causâ
+subijcitur.
+
+AUTHORE
+D. IOANNE SCHARPIO
+SCOTO, P.E.S. ET IN ACADEMIA DIENSI SS. THEOLOGIAE PROFESSORE.
+
+GENEVAE.
+Excudebat PAULUS MARCELLUS,
+M. DC. IX.
+
+[1609 e-rara witness | canvas 4 | image 15574976 | title verso, unnumbered]
+
+[Blank title verso; later Bibliothèque de Genève stamp and shelf marks only.]
+
+[1609 e-rara witness | canvas 5 | image 15574977 | printed p. 3]
+
+ILLUSTRISSIMO ET INVICTISS. DOMINO D. FRANCISCO DE BONNE, D. DES DIGUIERES,
+VICECOMITI DE VILLEMUR, BARONI DE COPPET, SACRI UTRIUSQUE CONSILII CONSILIARIO,
+CENTUM CATAPHRACTORUM HYPARCHO, ALLOBROGUM PROVINCIAE PROREGI, DOMINOQUE SUO
+CLEMENTISS. S.
+
+Verissimum illud esse (HEROS INVICTISSIME) quod Christus de statu Ecclesiae
+ultimis his temporibus praedixit, cùm scilicet denuo ad iudicium redierit, se
+vix fidem in terrâ reperturum esse, manifestè demonstrant partim haereses
+veritate depulsâ in Ecclesiam invectae, authoritate hominum receptae, humanâ
+seu potius Diabolicâ prudentiâ ornatae & fucatae, nec non potentiâ huius mundi
+(qui totus in maligno positus est) stabilitae & defensae: partim etiam profana
+
+[1609 e-rara witness | canvas 6 | image 15574978 | printed p. 4]
+
+vita illorum qui ore Christi veritatem profitentur, reipsâ verò abnegant, adeò
+ut rerum omnium iam tanta sit perturbata confusio; ut nemo sit qui eam non
+videat, nemo pius qui non doleat, & Ecclesiae calamitatem defleat: imò in illa
+iam incidimus tempora in quibus maxima pars hominum, nec quid haereticum, nec
+quid orthodoxum in religione sit, consideret, ac si Religio non ab immutabili &
+aeternâ Dei voluntate, sed hominum opinione mutabili & plerunque falsâ
+penderet: sed aulicum & Atheum illud pro oraculo avidè complexatur, quod in
+quavis Religione homines salvari possint. Quam impium verò hoc sit nemo sanae
+mentis non videt: imò omnem veram religionem funditus evertere quid est, si hoc
+non est? cùm omnis vitae bonae, & beatae via in verâ, & purâ Religione posita
+sit. Verùm haec hominum monstra missa facio: nobis autem omnibus in stationibus
+in quibus à Deo propter Ecclesiae bonum constituti sumus, studiosè curandum
+est, ut haereses omnes veritati divinae contradicentes ex agro domini
+evellantur, penitusque eradicentur, & ut tum in nobis, tum in aliis sanctitas
+vitae iactatae professionis nostrae respondeat, ne nomen Dei sanctum propter
+nos blasphemetur, religio ipsa ludibrio hostium exponatur, & infirmi
+offendantur. Ecclesiae verò idem accidit quod in bello
+
+[1609 e-rara witness | canvas 7 | image 15574979 | printed p. 5]
+
+usu venire crebrò videmus, ubi hostis licet fortiter expulsus & devictus, vires tamen
+denuo recolligit, & redintegrat, ut Martis aleam experiatur, alacri animo in
+victorem irrumpat, & acceptam cladem ulciscatur: ita Satanam in membris regni
+sui tenebrarum ad veritatis oppugnationem factitare, nec profligatum
+conquiescere, sed continuò nova bella movere, variisque stratagematis ipsam
+veritatem radicitus convellere, & subruere conari, omnium saeculorum
+experientia docuit: quod quidem (proh dolor) non irrito omnino conatu molitus
+est. Licèt enim veritatem prorsus extinguere non potuerit, mirum tamen in modum
+eam obscuravit, & ut vel ipso ecclesiae initio, cùm adhuc in incunabulis esset,
+praeclarissima Dei opera calumniari, salutaria Dei consilia traducere, eximia
+Dei beneficia pervertere, & sub fallaci specie veri & boni primos parentes
+fallere caepit: ita posteà in ore pseudo prophetarum omnibus saeculis Spiritus
+mendacii, & seductionis esse non destitit: maximè verò ultimis his temporibus
+in gregem Domini summis viribus insurgere, grassari, furere, bella vel nova
+movere, vel vetera instaurare non cessat, eò quod suum tempus breve esse, &
+regni sui finem instare certò cognoscat. Omnes enim haereses quibus à Christi
+temporibus Ecclesia vexata, & quae à piis
+
+[1609 e-rara witness | canvas 8 | image 15574980 | printed p. 6]
+
+patribus, & conciliis damnatae fuerunt implacabilis ille veritatis hostis, per
+filium illum suum primogenitum, quem Apostolus υἱὸν τῆς ἀπωλείας vocat,
+eiusque asseclas, & sectatores ἐν ἐνεργείᾳ πλάνης, renovavit, aliasque insuper
+infinitas addidit; maximè verò salutarem illam doctrinam de personâ & officiis
+Christi labefactavit: quia hac sublatâ, hominum salus eversa funditus iacet,
+ideòque ad hanc metam spicula sua lethalia dirigenda esse putavit. Quam autem
+seriò sacerdotale Christi munus (ut de reliquis hoc loco nihil dicam) evertere
+conetur, vel haec unica de iustificatione controversia docet. Imputationem enim
+iustitiae per Christum partae, ut noster sacerdos fuit, tanquam ridiculam
+impiè reiicit, imperfectionem meriti & iustitiae Christi asserit, cùm nos
+meritis nostris coram Deo iustificari, imò, nos merita ex condigno, & opera
+supererogationis peragere posse, falsò tuetur & docet. Nec tantùm densas errorum
+nebulas, & atras haereseon nubes ex infernali abysso, ad tenebras divinae luci
+offundendas, excitavit: sed etiam Principes huius mundi sic furore maximo
+inflammavit, ut omnem suam potentiam, suorumque vires, ad lucis divinae
+Sapientiae splendorem, ferro, flammâque opprimendum, & extinguendum, exercerent,
+& intenderent. Quid etiam nunc in eundem finem machinetur, quae consilia
+agitet, quas insidias
+
+[1609 e-rara witness | canvas 9 | image 15574981 | printed p. 7]
+
+meditetur, quae arma praeparet, & bella coquat novit ille omniscius Iehova, qui
+omnia iniqua, & impia consilia sceleratorum, quum Ecclesiae expedit, quumque
+Ecclesiae hostes nihil minùs quàm suorum diu multumque coctorum consiliorum
+frustrationem expectant, dissipare, & ut inanes nubes disiicere, eosque virgâ
+ferreâ, ut vascula testacea, confringere potest: secundum illud Christi, Qui
+ceciderit super lapidem istum συνθλασθήσεται, & super quem ceciderit hic lapis
+λικμήσει αὐτόν. Huius rei testes sunt Pharaones, Sennacheribi, Amani, Antiochi,
+Iuliani, Valentes, aliique infiniti, vel nostris temporibus non absimiles
+Ecclesiae hostes, qui Ecclesiam quidem oppugnare sed expugnare non possunt,
+secundum illud, Portae inferorum non praevalebunt adversus eam. Verùm, ut olim
+divinus ille inter Philosophos Plato tribus potissimùm de rebus Deo gratias
+agere solitus erat: quòd scilicet masculum se creasset, non foeminam: quòd se
+Socratis tempore nasci, idque Athenis voluisset: ita nobis potiori ratione
+immortales Deo gratiae agendae sunt, quòd nos tales creavit, ut meretricis
+illius Babylonicae illecebris captari, abominationibus, & immunditiae
+Scortationis eius pollui, cum maximâ mundi parte, non permiserit, & verè
+masculum in excutiendo eius iugo spiritum nobis indiderit, quodque nos pasci,
+non
+
+[1609 e-rara witness | canvas 10 | image 15574982 | printed p. 8]
+
+[Anomalous printed repetition: “bus, & consiliis damnata fuerunt implacabilis
+ille” repeats text from the join of printed pp. 5–6.]
+
+tempore alicuius Ethnici philosophi, in naturae tenebris inter Ethnicos ipso
+caecutienti caeciores, voluerit; sed in Ecclesiâ Christianâ, luce Evangelii ab
+omnibus haeresibus Dei gratiâ purgatâ, in qua vigilantissimos, fidelissimosque
+pastores, & doctores: tum ad haereses refutandas, & contradicentes convincendos:
+tum ad malos mores corrigendos, & gladio verbi resecandos excitavit: non unum
+Athanasium, ut olim contra Arrianos: aut unum Augustinum, ut quondam contra
+Pelagianos: sed ut in Papismum, non una, aut altera haeresis: imò quot fere
+fidei dogmata, tot haereses perniciosissimae invectae sunt: ita hoc ultimo
+saeculo variis in locis quamplurimos summâ prudentiâ & doctrinâ pollentes
+emisit, qui pro veritate dimicant, haereses & haereticos convincunt, Tyrones ad
+hanc ipsam pugnam idoneis armis instruunt, & rivulos saluberrimos ex fontibus
+Israelis in agrum Domini derivant. Ideoque fortasse mirari nonnulli possent,
+quòd ego controversiam hanc post maximos labores à summis Doctoribus
+fidelissimè & felicissimè exantlatos tractandam susceperim: verum, licèt
+infirmitatis meae mihi probè conscius sim, iudicio tamen amicorum, & suasu sui,
+qui haec etiam non inutilia futura iudicarunt, ne morosus nimis viderer, cedere
+coactus sum. Ad te verò (H. I.) accedo, ut authoritate tua, hoc quantulumcunque
+est,
+
+[1609 e-rara witness | canvas 11 | image 15574983 | printed p. 9]
+
+muniatur, & lectoribus propter nominis tui inscriptionem commendetur: nec rectiùs
+cuipiam dedicare potui, nec debui, cùm tibi verae doctrinae & Ecclesiae
+incolumitas cordi sit maximè, & de his singulari cum ingenii acumine iudicare
+possis. Pro amore ergo tuo in Christum, eiusque veritatem, hoc chartaceum
+munusculum in debitae meae erga te observantiae symbolum, benigno ut soles
+affectu suscipere, & pro excellentissimâ tuâ in omni disciplinarum genere
+scientiâ, & qua meritò polles dignitate, & potentiâ, huic opusculo gratiam
+conciliare, méque adversus malevolorum veritati obgannientium latratus
+protegere velis, humillimè rogo. Silentio autem insignes tuas & planè heroicas
+virtutes praetereo: partim, quòd modesta tua prudentia earum praedicationem
+prohibeat: partim, quòd illustri loco positae, sic luceant, ut nec oratione mea
+egeant, nec styli mei tenuitas eas pro dignitate exprimere possit. Deum opt.
+max. assiduè interpellans, ut Spiritu suo sancto te regat, consiliorum tuorum
+cursum dirigat, & secundet, téque ut diutissimè & felicissimè hanc provinciam
+gubernes, ad gloriam nominis ipsius, doctrinae caelestis propagationem, &
+provinciae huius incolumitatem, salvum, & incolumem conservet. Vale. Ex museo
+nostro, Cal. Iunii, anno 1609.
+
+Tibi addictissimus
+Io. Scharpius.
+
+[1609 e-rara witness | canvas 12 | image 15574984 | printed p. 10]
+
+CONTROVERSIAE QUAE IN HOC OPERE TRACTANTUR.
+
+1. An fides sit notitia?
+2. An fides iustificans à fide historicâ & miraculorum diversa sit?
+3. An promissionis gratiae praecipuè fidei obiectum sint?
+4. An in fide sit specialis misericordiae certa persuasio & promissionum
+   particularis applicatio?
+5. An verè fideles à fide deficere possint?
+6. An vera fides possit reipsâ à dilectione, aliisque virtutibus separari?
+7. An solâ fide iustificemur?
+8. An iustitia nobis inhaerens sit formalis causa iustificationis?
+9. An iustificationis forma sit iustitiae Christi imputatio?
+10. An iustificatio constet solâ remissione peccatorum?
+11. An bona opera sint necessaria ad salutem ratione efficientis?
+12. An lex homini iustificato in hac vitâ sit possibilis?
+13. An opera iustorum simpliciter & absolutè iusta & suo modo perfecta sint?
+14. An bona opera iustificent?
+15. An iustorum opera vitae aeternae meritoria sint?
+16. An sola obedientia mortis Christi sit res illa quam Deus nobis ad
+    iustitiam imputat?
+
+[1609 e-rara witness | canvas 13 | image 15574985 | printed p. 11]
+
+TRACTATUS DE HOMINIS IUSTIFICATIONE CORAM DEO.
+
+De Christianae religionis praecipuo dogmate disputaturi, fundamenti loco
+orthodoxae doctrinae summam breviter praemittemus, posteà verò controversias
+inter nos & pontificios discutiemus.
+
+Significationes vocis.
+
+Iustificationis vocabulum, octo diversa significata habet.
+
+1. Significat iustitiam & aequitatem alicuius agnoscere ac laudare, vt Luc. 7.
+29. & 35.
+
+2. Significat inanem iustitiam ostentare, & famam iustitiae captare, vt Luc.
+16.15.
+
+3. Sumitur Metonymicè pro ipsâ lege quae iustitiae & iustificationis norma est,
+vt psal. 119.5.
+
+4. Signif. ad iustitiae incrementa se & alios promovere, docendo, instituendo,
+Daniel. 12.3. Apocalyps. 22.11.
+
+5. Iustificationis vocabulum ab usu forensi ad sacrum transfertur, & significat
+reum absolvere & innocentem pronuntiare vt Exod. 23.7. ideo condemnationi
+opponitur Prov. 17.15. Rom. 3.26. & 8.33. Act. 13.38.39. Luc. 18.14.
+
+6. Signif. iustum constitui per adoptionem inhaerentis iustitiae, in qua quidem
+significatione in sacris
+
+[1609 e-rara witness | canvas 14 | image 15574986 | printed p. 12]
+
+Scripturis non legitur, à pontificiis tamen in hac significatione sumitur, sed
+ineptissimè, quia non propriè iustificationem, sed sanctificationem
+iustificationis effectum significat.
+
+7. Significat hominem iustitiâ fidei iustificatum coram hominibus declarare
+iustum, Iacob. 2.21.
+
+8. Significat iustum facere imputatione scilicet iustitiae Christi, vt Rom. 4.
+5. Deus iustificat impium, i. iustum facit imputatione iustitiae Christi, quem
+post iustum pronunciat.
+
+Iustitia & Iustificatio duplex.
+
+Iustificatio autem à iustitia nomen habet: hinc vt iustitia, ita iustificatio
+duplex est.
+
+1. Legalis. 2. Evangelica. Legalis (de creatâ loquor) est conformitas cum lege
+in eo qui inde iustus dicitur secundùm foedus legale: fac hoc & vives, quae fuit
+ante lapsum in Adamo, est in Angelis, & erat in Christo quà homo, & in vitâ
+aeternâ in glorificatis erit; at post lapsum in nullo (Christo excepto) fuit
+aut erit in hac vitâ: Hinc cùm iustificatio sit iustitiae applicatio vel propter
+legis plenam observationem, iusti pronunciatio, cùm propter inhaerentia peccata
+in nos haec iustitia cadere non possit, hac iustitiâ nemo iustificari potest.
+Legalis autem iustitia fit vel per obedientiam vel per poenam, vel per
+utranque: prior est Angelorum, Christi quà homo, & beatorum erit post hanc vitam
+propria. 2. est damnatorum. 3. est Christi propria quà mediator est.
+
+Iustitia legalis à subiectis distingui potest: estque vel personae, vel causae:
+personae, cùm persona legi est conformis, quod nobis in hac vitâ non accidit:
+Iustitia causae est quum causa quam persona sive perfectè iusta sive non,
+sustinet, est iusta de qua
+
+[1609 e-rara witness | canvas 15 | image 15574987 | printed p. 13]
+
+David in psalmis saepè loquitur, & iustitia bonae conscientiae vocatur.
+
+Iustitia Evangelica, est conformitas cum lege per alium, quae est impletio
+legis à nobis violatae per Christum praestita, nobisque à Deo per fidem
+imputata: unde iustificatio Evangelica est iustitiae Evangelicae applicatio &
+imputatio, qua ex gratiâ Dei propter Christi meritum, à legis transgressione,
+eiusque poenâ plenè absolvimur, iustique esse coram Deo pronunciamur.
+
+Causae Iustificationis.
+
+Iustificationis Evangelicae causae sunt. 1. efficiens: estque vel principalis
+vel instrumentalis: principalis duplex interna vel externa. Principalis
+interna est quae Deum intus movet ad nos iustificandos, quae est, non operum
+aut fidei praevisio, aut praesentium aestimatio, sed sola Dei εὐδοκία vt Rom.
+3.21.24. Ephes. 1.9. 2.8. Tit. 3.5.7. Esaiae 43.25.
+
+Externa principalis est meritum & satisfactio Christi, quae causa est movens
+Deum vt nos iustos pronunciet, vt 1. Pet. 1.19. 1. Ioh. 2.2. & in locis supra
+citatis.
+
+Efficiens instrumentalis duplex est, interna vel externa. Interna duplex,
+apprehendens vel obsignans: apprehendens est fides vt Rom. 3.28. obsignans,
+Sanctus Spiritus Ephes. 1.13. à cuius operatione est interna efficax vocatio,
+cùm corda electorum efficaciter movet ad agnitionem miseriae, ad quaerendam
+liberationem, denique ad credendum in Christum.
+
+Instrumentalis externa cùm interna ut plurimùm coniuncta, praedicatio scilicet
+Evangelii per quam fit externa vocatio.
+
+[1609 e-rara witness | canvas 16 | image 15574988 | printed p. 14]
+
+Differunt autem vocatio externa & interna: 1. quod illius effectrix sit
+praedicatio Evangelii, huius verò efficax S. Sancti operatio. 2. quòd ad
+externam homo non tantùm passivè se habeat, quia sacros coetus frequentat, &
+verbum audit: ad internam verò homo merè passivè se habet si eius principium
+spectes, quia ad hanc recipiendam se nullomodo praeparare vel disponere potest.
+
+Materialis causa quae meritoria dicitur, est satisfactio, meritum, & iustitia
+Christi, quae quidem subiectivè inhaerens extra nos est, & in solo Christo, in
+suo scilicet proprio subiecto: nostra verò est & in nobis quatenus fide
+apprehenditur, ideo nos dicimur fieri iustitia Dei in ipso 2. Corinth. 5.
+ultimo.
+
+Formalis causa est imputatio satisfactionis, meriti & iustitiae Christi, &
+peccatorum remissio: fides enim nos Christo unit, & propter hanc unionem, Deus
+meritum & satisfactionem Christi nobis imputat, & nostram ducit, ac si nos
+nostrâ obedientiâ legem implevissemus, & debitas pro peccatis nostris poenas
+luissemus. 1. Cor. 1.30. Rom. 3.24. & 4.9. 2. Cor. 5.19. Luc. 18.14.
+
+Finis duplex: 1. ultimus, gloria Dei & Christi Ephes. 1.6. & 2.7. Rom. 3.26. 2.
+proximus, salus electorum, Marc. 16.16. Ephes. 2.8.
+
+Differt autem iustitia & iustificatio legalis ab Evangelica: 1. subiecto, quia
+legalis est in illo inhaerens qui ab illa iustus dicitur: at Evangelica in solo
+Christo est inhaesiva, nec inhaeret in illo qui inde iustus dicitur. 2.
+efficiente, quia legalis iustitiae efficiens est ille in quo est: at
+Evangelicae solus Christus. 3. fine.
+
+Definitio Rei, & Definitionis explicatio.
+
+Iustificatio est actio vel sententia Dei iudicis qua
+
+[1609 e-rara witness | canvas 17 | image 15574989 | printed p. 15]
+
+ex merâ suâ gratiâ propter Christi meritum, credentes ab omnibus peccatis
+absolvit, iisque iustitiam Christi imputat ad suam gloriam & credentium
+salutem.
+
+Ad definitionis & sequentis disputationis explicationem haec quinque sunt
+tenenda.
+
+Primum, iustificatio est actus individuus à Deo semel peractus, idque tùm
+primùm cùm credere incipimus: nec gradum aut partium incrementa, vt
+sanctificatio, habet, licet ratione sensus nostri, & applicationis, gradus suos,
+ratione graduum fidei habeat, vt psalm. 32. & 50. Duplex enim meriti Christi
+applicatio in iustificatione fit. 1. à Deo semel, idque plenè, cuius respectu
+primo momento perfecta est. 2. à fidelibus per fidem, quae pro fidei mensurâ,
+magis vel minùs perfecta est.
+
+Secundum, in hoc iustificationis actu individuo duo sunt consideranda, quae
+quidem distinguenda, at nullomodo separanda. 1. imputatio iustitiae Christi,
+quâ Deus iustitiam Christi, id. obedientiam & satisfactionem nostram facit, ac
+pro nostrâ habet & ducit, ac si à nobis praestita esset, vt eâ vestiti & induti
+coram tribunali Dei compareamus, atque ita nos antequam iustos pronunciet,
+iustos facit; & huius respectu, iustificare iustum facere significat, vt Rom.
+4.5. 2. absolutio, vel remissio peccatorum, quâ Deus iudex hominem, credentem
+iustitiâ Dei amictum innocentem pronunciat, & liberatum tum à culpâ tum à
+poenâ peccati, & huius respectu, iustificare iustum pronunciare significat vt
+Rom. 8.33. 1. reddimur conformes legi Dei, eoque ἀνομία & iniustitia tegitur.
+2. sumus immunes à reatu & poenâ quam lex minabatur, & debitum omne tollitur;
+ab
+
+[1609 e-rara witness | canvas 18 | image 15574990 | printed p. 16]
+
+alterutro autem horum, iustificatio in Scripturâ saepe denominatur.
+
+Tertium, Imputandi verbum in hac disputatione, non putativè, vt pontificii nos
+affirmant asserere putativâ iustitiâ iustificari, non dare aut infundere aut
+inferere; sed habere, censere, numerare, acceptum ferre significat: verbum enim
+λογίζειν, id. imputare, quo in disputatione de iustificatione Apostolus Rom. 4.
+undecies utitur, & ad Gal. saepius: metaphoricum est à rationibus subducendis,
+adeò vt imputare aliquid alicui, sit, aliquem pro eo reputare, aestimare, qui
+fecerit quod non fecit, in qua etiam significatione legitur Marc. 15.28. 2.
+Timoth. 4.14. Philem. 10. Rom. 8.26.
+
+Imputatio autem duplex est: una realis vel legalis, quando scilicet reipsâ & ex
+iure quod debetur, ab ipso debitore numeratur, & numeratum in rationes accepti
+admittitur, & ob id debitor reipsâ liberatur.
+
+Altera gratuita, quum non à debitore ipso debitum persolvitur, sed ab alio,
+fideiussore scilicet, quae ob id creditori tanquam solutio habetur; atque ita
+respectu nostri, imputatio gratuita est, cùm solvendo non fuerimus, respectu
+verò Christi fideiussoris, realis fuit.
+
+Quartum, Iustitia Christi quae nobis imputatur duplex est: activa & passiva:
+activa est perfecta legis Dei impletio, quae perfecta fuit in Christo, sive
+mandata imperativa sive prohibitiva spectes, Mat. 3.15. & 5.17. Ioh. 8.29.
+Philipp. 2.8. Passiva est omnium Christi perpessionum, ac praecipuè sensus irae
+divinae, & mortis aeternae, mortis denique naturalis: atque ita agendo &
+patiendo, perfectissimè patri
+
+[1609 e-rara witness | canvas 19 | image 15574991 | printed p. 17]
+
+pro nobis satisfecit, & utraque obedientia nobis ad iustitiam imputatur.
+
+Quintum. Iustificamur autem omnes & soli credentes, qui satisfactionem &
+meritum Christi fide apprehendimus, sensus autem istarum propositionum, fide
+iustificamur; per fidem, seu ex fide, seu fides pro iustitia imputatur, & solâ
+fide iustificamur, idem est, vt ex his locis patet Rom. 3.22.25.26.27.30. &
+4.5. & 9.9.30. Gal. 3.14. Philipp. 3.9. Luc. 8.5. Ephes. 2.8.10. Significant
+verò non merito aut dignitate fidei, aut fide, quâ opus est Spiritus S. in
+nobis, aut qualitas infusa, aut quâ actio est nostrae mentis, aut quâ cum
+charitate coniuncta est: sed locutione figuratâ synecdochicè, instrumentum pro
+re instrumento apprehensâ, vel fides pro fidei obiecto ponitur. Non ergo fide
+iustificamur quatenus absolutè consideratur, sed corelativè: ideo istae
+propositiones fide iustificamur, & iustificamur operibus contradictoriè
+opponuntur, vt Rom. 3.27.28. Gal. 2.16. proprius enim & solus fidei actus in
+iustificatione, est iustitiam Christi fide apprehendere & applicare.
+
+Effecta Iustificationis.
+
+Primum. Adoptio: statim enim ac electi absolvuntur à peccato per
+iustificationem, in ius filiorum Dei adoptantur Rom. 8.14. Ephes. 1.5.
+
+Secundum. Sanctificatio: per Spiritum enim S. omnes iustificati ita reguntur,
+vt non ambulent secundùm carnem, sed secundùm Spiritum, i. mala opera fugiant &
+bona perficiant Rom. 8.1. & hisce Spiritus operibus tanquam fidei fructibus
+iustificatio monstratur.
+
+Tertium. Pax conscientiae: de qua Rom. 5.1. statim enim ac iustificati sumus,
+immittit Deus laetum
+
+[1609 e-rara witness | canvas 20 | image 15574992 | printed p. 18]
+
+nuncium cordibus electorum de sententiâ latâ, idque per S. suum Spiritum qui
+nos de gratiâ Dei certos reddit & ita à metu condemnationis & conscientiae
+tumultu in quibus summa hominis miseria est sita, liberat, vt Rom. 8.9.15. Haec
+autem conscientiae pax maior aut minor est prout sensus iustificationis
+intenditur aut remittitur.
+
+Quartum, Fiducia in Deum.
+
+Quintum, Certa persuasio exauditionis precum Rom. 8.23.
+
+Sextum, Spes seu expectatio bonorum promissorum.
+
+Septimum, Certitudo salutis.
+
+Octavum, Patientia, & crucis tolerantia, Rom. 5.6.
+
+Ultimum, Ipsa glorificatio.
+
+Differunt iustificatio & sanctificatio.
+
+Iustificatio à Sanctificatione (propter pontificios qui haec duo confundunt)
+diligenter distinguenda est.
+
+Conveniunt 1. in efficiente principali, Deus enim pater in Christo per Spiritum
+S. utriusque author est. 2. in fine & scopo.
+
+Differunt autem 1. formâ: Iustificatio enim est imputatio iustitiae Christi, &
+propter illam acceptatio: at sanctificatio est iustificatorum à vitae
+impuritate ad puritatem per Spiritum S. adductio. 2. iustificatio effectivè
+proximè à solo Christo est, at sanctificatio à Spiritu S. 3. effectu;
+Iustificatio enim nos absolvit in iudicio Dei, at sanctificatio, non. 4.
+Iustificatio est actus individuus; at sanctificatio successivè & per gradus
+perficitur. 5. Iustificatio est gratuiti tantùm beneficii; at sanctificatio est
+obsequii nostri: differunt enim vt causa & effectum.

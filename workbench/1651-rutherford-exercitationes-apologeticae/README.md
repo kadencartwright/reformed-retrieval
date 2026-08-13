@@ -169,3 +169,244 @@ on that shared page is excluded.
 - The source's internal sub-numbering beneath argument 33 moves from point 5
   back to points 3 and 4; the witness sequence is retained rather than silently
   regularized.
+
+**Part 07 is complete and scan-audited.** This paired unit begins Exercise I,
+Chapter IV at its centered heading on the lower portion of logical printed p.
+103 / IA leaf 121 / PDF p. 121. It contains observations 1–10 on the states of
+possibility, futurition, and actualization and on the accord between contingent
+agency and the absolute decree. It ends in the upper portion of logical p. 121
+/ IA leaf 139 / PDF p. 139 at `Luculentius & clarius ista in patria visuri
+sumus, hæc interim credimus.` Argument 11 (`Jam discutiamus Adversariorum
+rationes.`) on that shared page is excluded.
+
+- Latin: `parts/part-07-exercise-01-chapter-04a-latin.txt`
+- English: `parts/part-07-exercise-01-chapter-04a-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  103–121 / IA leaves–PDF pp. 121–139) and two paired marginal blocks.
+- Direct image control confirmed every page, all eighteen page joins, the
+  diagram on p. 108, the Aristotle Greek on p. 118, and the exact shared-page
+  exclusion of argument 11.
+- The p. 106 running head anomalously reads `Ex. I. C. 3.` although the
+  continuous body text belongs to Chapter IV; the body text, not that running
+  head, controls the unit.
+
+**Part 08 is complete and scan-audited.** This paired unit resumes Exercise I,
+Chapter IV at section 11 on the lower portion of logical printed p. 121 / IA
+leaf 139 / PDF p. 139. It contains sections 11–16, Rutherford's answers to the
+first eleven objections drawn chiefly from Arminius and Suárez, and ends in
+the upper portion of logical p. 139 / IA leaf 157 / PDF p. 157 at `Hoc
+argumentum urgent Vasquez, Molina, Fonseca, Lessius.` Section 17 (`Quoniam hoc
+unico argumento tantum non triumphant Jesuitæ & Arminiani`) on that shared
+page is excluded.
+
+- Latin: `parts/part-08-exercise-01-chapter-04b-latin.txt`
+- English: `parts/part-08-exercise-01-chapter-04b-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  121–139 / IA leaves–PDF pp. 139–157) and twenty-three paired marginal blocks.
+- Direct image control confirmed every page, all eighteen page joins, the Greek
+  expressions on pp. 122, 127, and 129, and the exact shared-page exclusion of
+  section 17.
+- The p. 127/128 join supplies the complete clause about the eternal futurition
+  of the act; the controlling OCR drops most of it and begins p. 128 with the
+  corrupt fragment `pugnatis`, so the page images govern the restored text.
+
+**Part 09 is complete and scan-audited.** This paired unit resumes Exercise I,
+Chapter IV at section 17 on the lower portion of logical printed p. 139 / IA
+leaf 157 / PDF p. 157. It contains the complete section 17, including the
+replies to Suárez on whether God's decree and concurrence must be within the
+creature's power and Rutherford's distinction between improper conditional
+decrees concerning connected objects and decrees suspended upon human action.
+It ends with section 17 on logical p. 155 / IA leaf 173 / PDF p. 173 at `sicut
+Deus complacet in obedientia Judæ nunquam futura.` Section 18 on logical p.
+156 / IA leaf 174 / PDF p. 174 is excluded.
+
+- Latin: `parts/part-09-exercise-01-chapter-04c-latin.txt`
+- English: `parts/part-09-exercise-01-chapter-04c-english.md`
+- Both files contain seventeen synchronized source markers (logical printed pp.
+  139–155 / IA leaves–PDF pp. 157–173) and thirteen paired marginal blocks.
+- Direct image control confirmed every page, all sixteen joins, the Greek term
+  on p. 145, and the exact end of section 17 before section 18 begins on the
+  next page.
+
+**Part 10 is complete and scan-audited.** This paired unit resumes Exercise I,
+Chapter IV at section 18 on logical printed p. 156 / IA leaf 174 / PDF p. 174.
+It contains sections 18–28: the remaining short objections concerning fate,
+hypothetical necessity, contingent agency, providence, and divine
+immutability, followed by Rutherford's full catalogue of patristic and
+scholastic testimony. It ends in the upper portion of logical p. 169 / IA leaf
+187 / PDF p. 187 at `eam prædeterminavit ab æterno fore.` Section 29 (`Hisce
+testimoniis & veritate convictus Fr. Suarez`) on that shared page is excluded.
+
+- Latin: `parts/part-10-exercise-01-chapter-04d-latin.txt`
+- English: `parts/part-10-exercise-01-chapter-04d-english.md`
+- Both files contain fourteen synchronized source markers (logical printed pp.
+  156–169 / IA leaves–PDF pp. 174–187) and forty-two paired marginal blocks.
+- Direct image control confirmed every page, all thirteen joins, the dense
+  marginal citation sequences on pp. 166–169, and the exact shared-page
+  exclusion of section 29.
+- This unit is fourteen pages rather than the usual fifteen to twenty because
+  section 29 begins an extended argument; stopping before it preserves a clean
+  textual and argumentative boundary.
+
+**Part 11 is complete and scan-audited.** This paired unit resumes Exercise I,
+Chapter IV at section 29 on the upper portion of logical printed p. 169 / IA
+leaf 187 / PDF p. 187. It contains Rutherford's sustained examination of
+Suárez's absolute, efficacious, but immanent “predefinition,” including its
+claimed congruous means, its relation to middle knowledge and free acts, and
+the scope of particular providence. It ends with Chapter IV in the upper
+portion of logical p. 187 / IA leaf 205 / PDF p. 205 at `quæ omnia nobis sunt
+Chymeræ Jesuiticæ.` The centered `CAP. V` heading on that shared page is
+excluded.
+
+- Latin: `parts/part-11-exercise-01-chapter-04e-latin.txt`
+- English: `parts/part-11-exercise-01-chapter-04e-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  169–187 / IA leaves–PDF pp. 187–205) and five paired marginal blocks.
+- Direct image control confirmed every page, all eighteen joins, all extended
+  italic Suárez quotations, and the exact shared-page exclusion of Chapter V.
+- The witness's numbering resumes with 22 inside section 29 and continues
+  through 27; that source sequence is retained rather than editorially
+  renumbered.
+
+**Part 12 is complete and scan-audited.** This paired unit begins Exercise I,
+Chapter V at its centered heading on the lower portion of logical printed p.
+187 / IA leaf 205 / PDF p. 205. It contains arguments 1–11 against the Jesuit
+and Arminian doctrine of middle knowledge: the proposed object's being and
+knowability, its relation to God's decree and dominion, the objective ground
+of infallible knowledge, divine conditional predictions, and whether middle
+knowledge preserves divine freedom and wisdom. It ends with argument 11 on
+logical p. 204 / IA leaf 222 / PDF p. 222 at `Apage nugas.` Objection 5 on
+logical p. 205 / IA leaf 223 / PDF p. 223 is excluded.
+
+- Latin: `parts/part-12-exercise-01-chapter-05a-latin.txt`
+- English: `parts/part-12-exercise-01-chapter-05a-english.md`
+- Both files contain eighteen synchronized source markers (logical printed pp.
+  187–204 / IA leaves–PDF pp. 205–222) and sixteen paired marginal blocks.
+- Direct image control confirmed the shared-page opening below Part 11, all
+  seventeen joins, the Greek terms on pp. 190 and 198, and the endpoint before
+  objection 5 begins on the next page.
+
+**Part 13 is complete and scan-audited.** This paired unit resumes Exercise I,
+Chapter V at objection 5 on logical printed p. 205 / IA leaf 223 / PDF p. 223.
+It completes Rutherford's examination of middle knowledge by treating
+Suárez's proposed “objective presence” of a self-determining contingent effect,
+the causal ground of futurition, and the objection that knowledge through the
+decree knows contingents only as necessary. It ends with Exercise I, Chapter V
+in the upper portion of logical p. 213 / IA leaf 231 / PDF p. 231 at `relinquamus
+hoc mysterium pudendum.` The centered `EXERCITATIO II` heading on that shared
+page is excluded.
+
+- Latin: `parts/part-13-exercise-01-chapter-05b-latin.txt`
+- English: `parts/part-13-exercise-01-chapter-05b-english.md`
+- Both files contain nine synchronized source markers (logical printed pp.
+  205–213 / IA leaves–PDF pp. 223–231) and six paired marginal blocks.
+- Direct image control confirmed every page, all eight joins, the Greek term
+  on p. 212, and the exact shared-page exclusion of Exercise II.
+- This shorter unit follows the work's major structural boundary: it completes
+  both Chapter V and Exercise I rather than carrying unrelated material from
+  Exercise II into the same pair.
+
+**Part 14 is complete and scan-audited.** This paired unit begins Exercise II,
+Chapter I at its centered heading on the lower portion of logical printed p.
+213 / IA leaf 231 / PDF p. 231. It contains the complete chapter on the will of
+sign and the will of good pleasure: their objects and acts, whether the revealed
+will discloses God's decree, and Rutherford's extended biblical case that God
+commands some things whose actual existence he has not decreed. It ends in the
+upper portion of logical p. 238 / IA leaf 256 / PDF p. 256 at `ne iota habet de
+Dei decreto.` The centered `CAP. II` heading on that shared page is excluded.
+
+- Latin: `parts/part-14-exercise-02-chapter-01-latin.txt`
+- English: `parts/part-14-exercise-02-chapter-01-english.md`
+- Both files contain twenty-six synchronized source markers (logical printed
+  pp. 213–238 / IA leaves–PDF pp. 231–256) and fifteen paired marginal blocks.
+- Direct image control confirmed every page, all twenty-five joins, the Greek
+  expressions on pp. 219, 221, and 233, the dense italic quotations on pp.
+  224–228, and the exact shared-page exclusion of Chapter II.
+- This unit is longer than the usual fifteen to twenty pages because the first
+  clean major boundary is the end of Chapter I; dividing sooner would split the
+  chapter's sustained thesis and biblical demonstration.
+
+**Part 15 is complete and scan-audited.** This paired unit begins Exercise II,
+Chapter II at its centered heading on the lower portion of logical printed p.
+238 / IA leaf 256 / PDF p. 256. It contains the complete first question of the
+chapter, answering the Arminian syllogism `Quod unusquisque tenetur credere, id
+est verum` by distinguishing assent, fiducial faith, the sense of faith, and
+particular application. It ends with section 6 on logical p. 252 / IA leaf 270
+/ PDF p. 270 at `& hic est fidei actus specificus.` Section 7, the chapter's
+second question concerning the faith God requires of reprobates, is excluded.
+
+- Latin: `parts/part-15-exercise-02-chapter-02a-latin.txt`
+- English: `parts/part-15-exercise-02-chapter-02a-english.md`
+- Both files contain fifteen synchronized source markers (logical printed pp.
+  238–252 / IA leaves–PDF pp. 256–270) and six paired marginal blocks.
+- Direct image control confirmed every page, all fourteen joins, the Greek and
+  Hebrew expressions on pp. 246, 248, 250, and 251, the centered opening below
+  Part 14, and the exact shared-page exclusion of section 7.
+- The source's internal numbering moves from reply 4 to `5. 3.` and later from
+  point 4 back to point 5; the witness sequence is retained rather than
+  editorially regularized.
+
+**Part 16 is complete and scan-audited.** This paired unit resumes Exercise II,
+Chapter II at section 7 on the lower portion of logical printed p. 252 / IA
+leaf 270 / PDF p. 270. It answers what faith God requires of reprobates,
+distinguishes the universal evangelical promise formally considered from its
+concrete place among the means of predestination, and contains Rutherford's
+complete critique of Cameron's claim that Christ died conditionally for all
+but absolutely for believers. It ends with section 8 in the upper portion of
+logical p. 259 / IA leaf 277 / PDF p. 277 at `ea enim prolixius, favente
+Numine, refutabimus alibi.` Section 9 (`Dicunt alii Christum pro omnibus esse
+mortuum`) on that shared page is excluded.
+
+- Latin: `parts/part-16-exercise-02-chapter-02b-latin.txt`
+- English: `parts/part-16-exercise-02-chapter-02b-english.md`
+- Both files contain eight synchronized source markers (logical printed pp.
+  252–259 / IA leaves–PDF pp. 270–277) and two paired marginal blocks.
+- Direct image control confirmed every page, all seven joins, the italic
+  Arminius and Cameron quotations, the Greek term on p. 258, the exact no-gap
+  join after Part 15, and the shared-page exclusion of section 9.
+- This unit is shorter than the usual target because section 9 begins a new,
+  extended argument about the sufficiency of Christ's death; stopping before
+  it preserves both complete sections and a clean argumentative boundary.
+
+**Part 17 is complete and scan-audited.** This paired unit resumes Exercise II,
+Chapter II at section 9 on the lower portion of logical printed p. 259 / IA
+leaf 277 / PDF p. 277. It contains Rutherford's distinction between the
+universal conditional offer of eternal life and a divine intention to give
+life to every hearer, his treatment of the infinite material sufficiency of
+Christ's death and its formal application, and his answers concerning
+conditional divine volition and possible faith in the reprobate. It ends with
+section 11 in the upper portion of logical p. 268 / IA leaf 286 / PDF p. 286 at
+`in idem coincidunt suo tempore.` Section 12 (`Quomodo electi ignari non minus
+intentionis divinæ`) on that shared page is excluded.
+
+- Latin: `parts/part-17-exercise-02-chapter-02c-latin.txt`
+- English: `parts/part-17-exercise-02-chapter-02c-english.md`
+- Both files contain ten synchronized source markers (logical printed pp.
+  259–268 / IA leaves–PDF pp. 277–286) and four paired marginal blocks.
+- Direct image control confirmed every page, all nine joins, the Greek ransom
+  terminology on pp. 260, 262, 263, and 268, and both shared-page boundaries.
+- The witness's internal numbering in section 9 moves from point 3 to a second
+  point 3 and later to point 5; that source sequence is retained rather than
+silently normalized.
+
+**Part 18 is complete and scan-audited.** This paired unit resumes Exercise II,
+Chapter II at section 12 on the lower portion of logical printed p. 268 / IA
+leaf 286 / PDF p. 286. It explains how the elect can believe while initially
+ignorant of God's intention, denies that the evangelical offer entails that
+the redemption price was paid for every hearer, and answers why God exhorts
+reprobates although he does not intend their obedience. It ends with section
+14 in the upper portion of logical p. 271 / IA leaf 289 / PDF p. 289 at `At de
+fine Arminiano ne syllabam vel jota habet scriptura.` The succeeding sustained
+proof (`Deum excidere fine intento non posse probatur`) on that shared page is
+excluded.
+
+- Latin: `parts/part-18-exercise-02-chapter-02d-latin.txt`
+- English: `parts/part-18-exercise-02-chapter-02d-english.md`
+- Both files contain four synchronized source markers (logical printed pp.
+  268–271 / IA leaves–PDF pp. 286–289) and one paired marginal block.
+- Direct image control confirmed every page, all three joins, the biblical
+  references exactly as printed (including `Matt. 14. 15.`), and both
+  shared-page boundaries.
+- This unit is shorter than the usual target because the next sentence begins
+  a new proof extending across many pages; stopping here preserves sections
+  12–14 as a complete argumentative unit without splitting that proof.

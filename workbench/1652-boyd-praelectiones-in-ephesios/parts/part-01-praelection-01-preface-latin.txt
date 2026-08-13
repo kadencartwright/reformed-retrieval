@@ -1,0 +1,970 @@
+ROBERTI BODII A TROCHOREGIA
+
+IN EPISTOLAM PAULI APOSTOLI AD EPHESIOS PRÆLECTIONES (1652)
+
+PRÆLECTIO I — TRANSCRIPTIO LATINA
+
+Transcriptio diplomatica normalizata, AI adiuta et nondum recognita
+(AI-assisted, unreviewed). Imagines
+exemplaris Ratisbonensis a Bayerische Staatsbibliothek digitalizati
+(`bsb11059161`) testimonium princeps sunt; hOCR Bibliothecæ tantum adiumento
+adhibetur. Littera longa s, ligaturæ, abbreviationes manifestæ, divisiones
+verborum ad fines linearum, et usus typographicus u/v normalizantur. Verba
+substantiva, Græca, citationes, et marginalia servantur.
+
+[BSB bsb11059161 | scan 35 | Præfatio p. [1], unnumbered]
+
+PRÆFATIO IN EPISTOLAM PAULI AD EPHESIOS; de more præmissa.
+
+[Marginalia: Prælectio I. Parasceve.]
+
+Quamvis unica tantum sit reapse doctrina veritatis quæ est secundum pietatem,
+quam uno verbo Theologiam appellare consuevimus, eaque Scripturæ divinitus
+inspiratæ libris plenè perfectèque comprehensa; Scriptura, inquam, sacra, quæ
+unica est fidei vitæque Christianæ norma, et ab hoc munere sola Canonis aut
+Canonicæ nomine merito insignita: quæ ut tota θεόπνευστος est, utilisque ad
+doctrinam, ad redargutionem, ad correctionem, ad institutionem in justitia, ad
+hoc, ut per consolationem et patientiam spem habeamus, immo ut perfectus sit
+homo Dei, hoc est ipse Evangelii minister ac Divinæ voluntatis interpres,
+adeoque ad omne opus bonum perfectè instructus; ita et sola sapientem reddere
+potest ad salutem, per fidem quæ est in Christo Jesu.
+
+[Marginalia: 2 Tim. 3:15, 17. Rom. 15:4.]
+
+Duplex tamen est eandem hanc doctrinam salutarem addiscendi et velut e
+Scripturarum puris fontibus hauriendi ratio, tam in Ecclesiis quam in Academiis
+rectè constitutis usurpari solita; una scilicet per verbi Divini in Scripturis
+comprehensi sinceram interpretationem; altera vero per locorum communium, hoc
+est religionis veræ quasi capitum et articulorum ad fidem vitamque spectantium,
+ordinatam tractationem: quæ ubi brevior, planior, facilior et rudiorum,
+tyronum, puerorum captui accommodata est, eadem est reipsa cum institutione
+Catechetica: utraque Theologiæ veræ studiosis inprimis necessaria.
+
+[Marginalia: Duplex Theologiæ munus.]
+
+Scripturæ recta et fida enarratio. Alioqui enim unde petenda veritas illa
+cælestis, nisi ex ipsis fontibus? Unde fides, unde spes, unde consolatio, nisi e
+verbo Dei? Quod qui audiunt et observant, hos beatos pronunciat Ille in quo
+residet omnis nostræ beatitatis plenitudo. Unde nobis aut fundamentum, aut
+canon fidei et vitæ, aut veri falsique κριτήριον absque recta Scripturæ Sacræ
+intelligentia?
+
+[Marginalia: Amplificatio ab adjunctis. Luc. 11:28. Utilitate.]
+
+Locorum rursus et articulorum doctrinæ inde collectæ traditio, et ad
+faciliorem et ad pleniorem et firmiorem ac distinctiorem earundem rerum
+cognitionem perutilis: dum hujus divinæ scientiæ studiosi ejus quoddam quasi
+corpus atque σύστημα in suas partes, capita, articulosque distincta quadam serie
+digestum animo comprehensum habent; dum e primis illis Scripturæ sacræ
+principiis corollaria et appendices, hoc est conclusiones Theologicæ
+quamplurimæ, actu ac distinctè deducuntur, ac suis quæque locis collocantur,
+ad suos quæque usus referuntur et applicantur, sive ad vera confirmanda, sive
+falsa confutanda; dum hinc et ipsi aptiores evadunt, et ad Scripturam sacram ex
+analogia fidei interpretandam (quum teneant illa fidei Christianæ capita, ac
+proinde quænam sint ab iisdem discrepantia), et ad illam doctrinæ summam aliis
+convenienter tradendam, et ad controversias tam varias multiplicesque peritè
+et extra erroris aleam dijudicandas.
+
+Utraque nexu arctissimo summaque sibi invicem affinitate devincta, adeo ut
+earum una ab altera vix ac ne vix quidem separari possit atque sejungi,
+quemadmodum ex hoc ipso loco memini jam supra observatum. Quomodo enim aut
+Scriptura sacra fideliter enarrari, nulla facta locorum Theologicorum sive
+articulorum capitumque fidei Christianæ mentione (quæ in singulis penè
+versibus aut certè sectionibus occurrunt, nedum capitibus aut libris integris),
+aut fidei veræ capita methodicè congruèque tractari, probari, confirmari,
+illustrari, errores autem dogmataque contraria confutari, everti destruique
+possint, nisi ex primis illis veræ Theologiæ principiis et fundamentis, verbo
+(inquam) divino sincerè et secundum fidei analogiam exposito?
+
+[Marginalia: Affinitate.]
+
+Ita sibi invicem hæc duo veræ Theologiæ docendæ sive munera et functiones,
+sive partes, sive rationes mavis appellare, mutuas sibi præstant operas: utque
+de iis loquitur Poeta venustissimus, qui sub noctem obscuram, aut montem
+arduum, aut viam acclivem lubricamque conscendentes, junctis manibus viribusque
+mutuo sibi sunt adjumento, χεῖρές τε μετ’ ἀλλήλοισιν ἔχουσιν, ἑλκόμενοι δ’
+ἕλκουσι πόνων ἐπίκουρον ἀμοιβήν. Sic et hæ duæ quasi manus dexterrimæ
+ad salutarem pietatis doctrinam apprehendendam et excipiendam adhibitæ, si non
+καμάτων ἴσα μέτρα φέροντες, at certè ἀλλήλοισιν ἀμοιβαίῃ
+φιλότητι ἀλκτῆρες γεγάασι, si non (inquam) laboris æquum pondus utraque
+sustineat, nihilominus in unum eundemque finem concurrunt et secum invicem
+veluti amicè conspirant; illa fundamentum firmum immotumque substernens, hæc
+gemmas, aurum, argentumque fundamento prorsus consonum eidem superstruens;
+illa principia αὐτόπιστα, verèque πρῶτα, ἄμεσα, et ἀναπόδεικτα,
+adeoque summæ apud nos authoritatis viriumque subministrans; hæc vero
+conclusiones eisdem conformes inde eliciens, et quæ in illis virtute inclusa
+latebant velut in actum eliciens; illa velut sparsim atque membratim divinæ
+illius doctrinæ partes, pro vario Sancti Dei Spiritus in Ecclesia sua docenda
+instituto, proponens; hæc eadem illa membra velut in unum corpus compingens,
+adhibita methodi luce quadam extrinseca ordinisque congruentis, quasi vinculis
+totidem et ligamentis, ad memoriam tam docentium quam discentium confirmandam
+inprimis accommodatis.
+
+[Marginalia: Oppianus. Collatio de ordine.]
+
+Utraque demum habitum illum organicum, intellectum nostrum in rerum cognitione
+dirigentem, Logicam (inquam) illam docendi discendique scientiam, in verum usum
+suum praximque præcipuam revocans; neutra tam nobilis, tam utilis, tam commodæ
+et familiaris ancillæ, in eundem hunc usum finemque potissimum Ecclesiæ a Deo
+optimo maximo concessæ, ministerium dedignata; neutra in suo munere fungendo
+ejus usus expers.
+
+Verum cum hoc notando discrimine, quod quum Logica in usum praximque revocata
+duo imprimis munera spectentur; Analysis nimirum, qua scopo alicujus authoris
+proposito atque demonstrato, ejus opera, juxta analyticæ doctrinæ præcepta,
+in suas partes et membra resolvuntur; et Synthesis, seu γένεσιν mavis
+appellare, qua nos ipsi juxta ordinis didascalici legem præscriptumque
+procedentes corpus aliquod ordinatè conteximus, ea ratione quæ et scopo et
+instituto nostro, et rei tractatæ sive argumenti subjecti naturæ maximè
+convenit; in sacræ Scripturæ exegesi analysin præsertim exerceamus, ut cuivis
+per se manifestum est. In locorum vero communium sive breviori et catechetica,
+sive fusiori et exactiori illa tractatione Academica, methodum Syntheticam
+inprimis adhibeamus; omnia scilicet in unum congerentes ac ordine digerentes,
+quæ ad eundem aliquem doctrinæ locum sive fidei caput articulumque spectant,
+quæque e variis Scripturæ Sanctæ partibus librisque petita fuerint atque
+deprompta.
+
+[Marginalia: Differentia.]
+
+Jam quum tota Theologia, hoc est fidei et pietatis doctrina salutaris,
+quocunque demum modo tradatur et addiscatur, sive ex ipsa sacræ Scripturæ
+analysi et fida interpretatione, sive locorum communium synthesi ordinatè
+contexta, iisdem semper nitatur fundamentis, ex eodem semper sit haurienda
+fonte, nempe non ex humani cerebri inventis, nec ex humanæ sapientiæ principiis
+et argumentis, verum e solo Dei verbo, sacræ Scripturæ monumentis authenticis
+et αὐτοπίστοις consignato, et in sese semper eadem reipsa maneat, ad
+eundem nos finem metamque perducens, ad Jesum Christum Dominum nostrum in quo
+reconditi sunt omnes gratiæ, sapientiæ, cognitionis thesauri; absit ut inter
+has duas muneris Theologici partes, aut in dignitate, aut usu, aut necessitate,
+comparationem hic non minus ineptam quam iniquam instituam.
+
+[Marginalia: Rejectio.]
+
+De ordine tantum fortassis haud absurdè quæri posset, utra methodorum harum,
+sive rationum sacræ Theologiæ addiscendæ, aut naturæ ordine prior sit, aut
+etiam hujus disciplinæ studiosis ab ipso limine magis accommodata: quum ex
+utraque parte rationes haud aspernandæ sese offerant. Hinc fontes, fundamenta,
+principia, cæteraque id genus natura priora, ex ipsa sacra Scriptura
+prætendentes; hinc vero methodum perspicuam et accuratam, omnia in suos
+ordines classesque digesta, facilitatem, brevitatem, aliaque id genus et
+memoriæ præsidia et captus rudioris adminicula proponentes. Quem nodum et
+scrupulum sic obiter attingemus, ut primum hæc duo responsionis nostræ
+fundamenta necessaria præmittamus. Primum scilicet aliud esse rudiorem aut
+historiarum, aut etiam præcipuarum quarundam sacræ Scripturæ partium ac
+sententiarum notitiam, qualis ex attenta etiam piaque lectione comparari
+potest, absque institutionis Academicæ cura et ἀκριβείᾳ; aliud vero
+accuratam illam quæ in Scholis Christianis institui solet ejusdem Analysin et
+Exegesin: siquidem—
+
+[Marginalia: Responsionis fundamenta duo. Primum.]
+
+[BSB bsb11059161 | scan 36 | Præfatio p. 2]
+
+—illa singulis Ecclesiæ membris, etiam rudioribus et idiotis, convenit; ad
+hanc vero bonarum literarum et habituum illorum organicorum cognitio inprimis
+requiritur. Itidemque aliam esse institutionem Catecheticam, quæ est velut
+locorum communium σύνοψις et Isagoge facilior; aliam vero fusam eorundem
+tractationem, quæ quæstiones omnes et controversias de iisdem cum fructu
+moveri solitas, argumenta omnia, rationes, probationes accuratè persequitur.
+Deinde vero non eodem ordine et modo disciplinas singulas primum a suis
+inventoribus aut authoribus constitutas fuisse, quo postea jam editæ, inventæ,
+et constitutæ ab aliis earundem studiosis addiscuntur; et, ut ad rem præsentem
+propius accedam, non eodem fortassis ordine sacræ Theologiæ studio incumbendum
+fuerit, quem tenuerunt necessario plerique fideles et Scripturarum
+Interpretes, et locorum communium συγγραφεῖς sive conscriptores; qui procul
+dubio sacra volumina diligenter evolvendo, ac tam secum invicem quam cum
+aliorum laboribus studiosè conferendo, non mediocrem sacri ipsius, quem
+appellant, contextus intelligentiam adepti fuerant, priusquam locis
+Theologicis inde colligendis et concinnandis manum admoverent.
+
+[Marginalia: Secundum. Nota valde.]
+
+At nobis, quibus immensa Dei benignitate piorum hominum laboribus tam in
+Ecclesia quam in Academia frui licet, non eadem incumbit necessitas: quippe
+quibus iter hoc Theologicum capessentibus, præter ipsa illa verbi sui
+sacrosancti facem ac lampadem, quam pedibus nostris lucernam lucemque semitis
+nostris profitetur Vates ille Regius, cujus ipse etiam aditus ac limen illuminat
+atque instruit simplices, tot nobis indulsit præterea fidissimorum Ecclesiæ
+Doctorum Pastorumque absolutissima monumenta, ut sive summa pietatis et
+religionis Christianæ capita, tum prolixè methodicèque tractata, tum epitomis,
+tabulis, Synopsibus, catechismis, confessionibus, aliisque id genus locorum
+communium systematis periochisque succinctè comprehensa; sive sacrum Dei
+verbum in varias linguas accuratè translatum, et variis observationibus,
+analysibus, commentariis, aliisque ad ejus intellectum clariorem facientibus
+illustratum consideres, nihil propemodum amplius a pio et veritatis Theologicæ
+studioso animo requiri possit, nihil penè nobis aliud supersit quam eorum sequi
+vestigia, quam eorum uti frui thesauris illis cælestibus tanta cura, labore,
+solertia, in omnem Ecclesiæ posteritatem congestis.
+
+[Marginalia: Ps. 119:105.]
+
+His igitur duobus ita fundamenti loco præmunitis, dicamus paucis, absque omni
+controversia institutionem illam Catecheticam, prima fidei Christianæ
+fundamenta et elementa sive rudimenta complectentem, omnibus præmittendam esse,
+quippe tam doctis, quod aiunt, quam indoctis et bonarum literarum exsortibus
+necessariam, eamque perspicuis ipsius Scripturæ testimoniis fultam atque
+firmatam: e quibus capita illa singula Religionis Christianæ depromenda sunt
+ac deducenda.
+
+[Marginalia: Responsio.]
+
+Hanc autem, in iis præsertim qui Theologiæ sacrosanctæ studio sese totos
+addixerunt (quosque potissimum spectantes hanc nos de partium harum ordine
+quæstionem enodandam suscepimus), accuratior quædam locorum doctrinæ
+comprehensio proximè sequi debet, una cum argumentis præcipuis, divisionibus,
+partibus, theorematis, et controversiarum saltem insigniorum discussione ac
+decisione; ut ita totum corpus distinctè et ordinatè possint animo suo
+complecti, omniaque quæ aut legentibus aut audientibus occurrent in suas
+classes ac series non minus dextrè distincteque referre, quam solent
+Pharmacopolæ variam illam multiplicemque Pharmacorum hylen atque farraginem in
+suas pyxides capsulasque digerere; aut, ut exemplo utar ad rem literariam
+propius attinente, Typographi illa literarum suarum archetypa per arcularum
+scriniola alveosque suo quæque loco disponere.
+
+[Marginalia: Similia.]
+
+Quod interea locorum communium studium debet et sacri ipsius contextus, e
+linguis præsertim primigeniis authenticisque, diligens et assidua lectio
+comitari, cumque eo diligenti opera conjungi, ut Scripturæ sanctæ phrasin
+peculiarem et Spiritus Sancti, in eadem per organa sibi selecta loquentis,
+characterem, tam sancta, tam simplici, tam profunda, tam non affectata
+majestate conspicuum, et ab omni hominum loquela tam immenso distantem
+intervallo, maturè agnoscant, ament, admirentur, adorent adolescentes Deo dati,
+divinisque studiis dicati: ut ejus lectioni maturè assuescant; ut sententias
+illustriores, velut insigniores quasdam gemmas aut stellas potius in hoc verè
+cælesti expanso sive firmamento perfulgentes, inde legant, imbibant, inque
+memoriæ suæ penum studiosè recondant.
+
+Hinc demum ad particularem Scripturæ ipsius exegesin et accuratam librorum
+singulorum analysin, non sine ordine quodam ac delectu accedant, adhibitis in
+eam rem Interpretum probatissimorum nunquam satis laudatis laboribus, et cum
+ipsa sacra pagina suo ingenio industriaque collatis. In hoc autem Scripturæ
+Sacræ studio demum acquiescant; in ejus meditatione, expositione, scrutinio,
+applicatione, usu, praxique tandem consenescant. Ad hanc enim nos quasi manu
+ducunt loci omnes doctrinæ verè Theologicæ, sicut ab eadem primitus fluxerunt.
+Quemadmodum ex oceano flumina, licet per occultos nobis meatus, originem
+traxerunt, et in eundem velut in fontem suum remeant ac revolvuntur. Hæc ergo
+tibi sit studii tui Theologici et meta et limes, sicut limen eidem fuerat:
+hujus tu abyssos nunquam prorsus exhauseris, quantocunque ei studio, labore,
+constantiaque totus incumbens; quocunque otio, ingenio, solertia, animi
+corporisque viribus instructus accedas.
+
+Nova tibi semper aperiet salvificæ veritatis arcana, Divinæ voluntatis, tuæ
+autem salutis, admiranda plane mysteria, tibi prima statim fronte nequaquam
+percepta aut animadversa; novam consolationis, novam gaudii, novam spei,
+patientiæ, tolerantiæque materiam subinde suggeret; nova veritatis firmamenta,
+nova in impia hæreticorum dogmata fraudesque tormenta, nova adversus omnes
+Satanæ et Antichristi clientes præsidia sufficiet, nova autem fidei tuæ
+adversus omnes tentationum ictus, insidias, metus arma, consilia, exempla,
+propugnacula; nec unquam piis et religiosis mentibus ullum sui fastidium,
+nauseam aut satietatem ullam sinet obrepere: quippe quam, ut inquit eximius
+ille Patrum et verè Christianum pectus Augustinus, Spiritus Sanctus ita
+modificaverit, ut locis apertioribus fami occurreret, obscuris autem fastidia
+detergeret, ut pasceremur apertis, obscuris exerceremur.
+
+[Marginalia: August. lib. 2 de doctrina Christiana.]
+
+Quin et nobis veræ humilitatis animique modestiæ, et precum assiduarum
+occasionem suggereret ex agnita naturæ nostræ cæcitate, in rebus præsertim
+divinis ac salutaribus assequendis et addiscendis; denique ut promptioribus
+animis ad gratias ejus bonitati toto corde concipiendas eveheremur, rectæ
+intelligentiæ clave donati et in ea Sanctuarii cælestis adyta a summo nostro
+Propheta ac Mystagogo tandem introducti; quæ a nobis eo pluris fiant, eo majori
+cum reverentia ac dignatione suscipiantur, quo diutius, quo submissius, quo
+vehementius atque constantius ejus gratiæ fores pulsaverimus.
+
+En vobis ordinem, charissimi Auditores, mihi inter illas doctrinæ Theologicæ
+partes observatum, aut potius diversas illas ejusdem addiscendæ et edocendæ
+rationes mihi ab initio propositas: quarum tam arctum inter se nexum et jam
+superius ostendimus, et in hujus muneris mihi demandati functione, ipsa
+experientia, Deo favente, ostendemus; ut sicut natura, sic etiam usu operaque
+conjungi nihil impediat; nihilque vetet studiosos hujus disciplinæ et Ecclesiæ
+Dei consecratos adolescentes, illa liminari institutione prius sufficienter
+imbutos—
+
+[BSB bsb11059161 | scan 37 | Præfatio p. 3]
+
+—nec linguarum artiumque huic famulantium aliquo saltem commeatu præsidioque
+destitutos, utrique simul parti gnaviter incumbere, ac tum methodicam locorum
+periochen, tum Sacræ paginæ enarrationem uno eodemque studiorum suorum tempore,
+una eademque cura complecti, alteramque in alterius progressum et incrementum,
+quantum sinet rerum ipsarum subjectarum natura, prudenti consilio et laudabili
+sagacitate conferre.
+
+[Marginalia: Parænesis.]
+
+Nec vos quæso moveat, Auditores candidi ac benevoli, quod quum jam supra
+asseruerim nobis in Scriptura ipsius orthodoxa interpretatione, pia
+meditatione, recto usu, praxi et applicatione, tanquam in supremo Theologiæ
+gradu, studium nostrum omne sistendum esse, nec ultra quidquam quærendum aut
+expectandum aut etiam exoptandum, ad salutis viam certissimam recto cursu
+tenendam et conficiendam; ipse interim ordine, ut videtur, contrario provinciam
+hanc Theologicam hinc auspicatus sim, aut saltem, Dei optimi maximi ductu
+auspiciisque, deinceps incepturus: quippe qui hanc Apostoli Pauli ad Ephesios
+Epistolam pro meo modulo ac tenuitate, vel potius pro doni mihi a Dei
+benignitate gratuito collati mensura, susceperim vobis enarrandam; qua sane
+nescio an ulla Scripturæ θεοπνεύστου pars illas Christi opes
+inscrutabiles, illos benedictionum cælestium thesauros, illa salutis nostræ
+mysteria, fundamenta atque principia, illa denique divinæ sapientiæ arcana
+consilia nobis planius pleniusque revelet et majori quodam tum spiritus fervore
+et efficacia, tum cordis in tantam et verborum et sententiarum vim exundantis
+ubertate, Christi gratiam incomprehensibilem nobis commendet. Ne vos, inquam,
+scrupulus offendat hujusmodi, statim in ipso laborum nostrorum limine tacitas
+vobis cogitationes interpellans.
+
+Primum enim, quum opus sit longè magis arduum onusque haud paulo gravius,
+totum Theologiæ sacræ corpus compingere, inque methodicum quoddam Systema tot
+Partes, tot Membra, tot Theoremata, tot quæstiones, controversias, decisiones,
+responsiones, sententias tam longè latèque dispersas artificio curaque summa
+redigere, quam unam aliquam Scripturæ sacræ partem interpretari et insigniora
+quæque doctrinæ capita indidem inter explicandum observare; quod vel quivis,
+ni fallor, sua sponte concesserit. Tum vobis, Auditores, vestroque profectui,
+tum meæ etiam tenuitati hac ex parte optimè consultum scitote, dum ei gravior
+illa provincia jure optimo cessit, quem ad Scholam hanc moderandam,
+stabiliendam, suisque velut humeris fulciendam Divina nobis Providentia
+concessit; mihi vero sarcina illa longè minor ac levior imposita est: quamvis
+et ipsa meæ, fateor, infirmitati velut Ætna quædam videatur.
+
+[Marginalia: Ratio 1. D. Beraudus venerandus senex is fuit.]
+
+Quare quum vobis in hoc, ut ita dicam, curriculo Theologico loci communes
+inprimis cordi curæque esse debeant, hisque vobis præsertim incumbendum,
+insudandum, priusquam et ipsi ad opus Domini promovendum evocemini et
+asciscamini; quippe quibus in Sacræ Scripturæ expositione postea per omnem
+vitam versari licebit, atque indies tam docendo quam discendo proficere;
+quomodo non illi partes præcipuæ delegandæ fuerint, quem velut præcipuum
+operis hujus organon Dei optimi maximi sapientia delegit? Non autem in exilem
+hanc φυάδα rejiciendam, arboris illius grandævo trunco ingenti duntaxat
+adnascentem.
+
+Deinde vero vobis in mentem revocate mirabilem illam Scripturarum temperiem:
+quæ quum eam habeant sensuum altitudinem, ut in hoc oceano vel Elephantes ipsi
+natare queant, nec possint ad fundum ipsum sua sagacitate pertingere, eam
+rursus præ se ferunt vadi permeabilis perspicuique facilitatem, quam agni ipsi
+aut infantes trajicere valeant; quippe quæ sese captui cujusque staturæ fidei
+convenienter accommodans, eam cuique lucis illius spiritualis mensuram
+impertit, quam pro dono sibi divinitus indulto, pro sui profectus mensura,
+quisque inde haurire potest atque percipere.
+
+[Marginalia: Ratio 2.]
+
+Quod si ergo nondum nobis datur intimas hujus conclavis opes abditosque
+thesauros primo aggressu reserare, ne tamen animis propterea fatiscamus, ne
+studium nobis petendi, quærendi, pulsandi relanguescat aut remittatur industria;
+sed vel exile semen doctrinæ hujus Evangelicæ, humili ac reverenti animo
+exceptum, ita studio foveamus et excitemus, ut aliqua indies incrementa sentire
+nitamur; Parabolæ illius Evangelicæ apprime memores, qua Regnum cælorum grano
+sinapis egregiè confert Dominus ac Servator noster Jesus Christus: quod
+scilicet quispiam in agro suo quum sevisset, etsi granorum omnium minimum, ubi
+tamen excrevit, olerum sit maximum, adeoque quidem ut arborescat et veniant
+volucres cæli quæ in ramis ipsius nidulentur. Ita Dominus vel tenuibus
+Electorum suorum initiis affatim benedicere solet, ut nunquam ipsi, aut alii
+tantæ tenuitatis conscii, ex tam exigua semente, velut minimo quopiam sinapis
+granulo, messem tam uberem, tam præclaram; ex tam exiguo fructuosæ plantæ
+semino, arborem tam eximiam; ex tam parva favilla, fidei tantum incendium; ex
+tantilla demum scintilla, tantæ lucis fulgorem aut sua sponte expectare
+potuerint.
+
+[Marginalia: Mat. 13:31.]
+
+Quare hac spe freti atque suffulti, Dei nostri ad divitem gratiam ea suo
+tempore nobis cumulatè adjecturam, et ad mensuram in suam gloriam nostrumque ac
+suæ Ecclesiæ bonum, quæ jam præ infantia nostræ rudioris tarditatem ex ejus
+verbo lucidissimo assequi et explanare nequimus, pensum hoc nobis delectum,
+Epistolæ (inquam) hujus analysin aggrediamur.
+
+[Marginalia: Aditus ad rem ipsam.]
+
+In qua profecto, si in alia quapiam, illud verissimè scriptum ab Apostolo
+nostro comperiemus, secundo posterioris ad Timotheum: se quidem Evangelii causa
+ut facinorosum ad vincula usque affligi atque vexari, sed sermonem Dei non esse
+vinctum. Quippe quum Apostolus Roma captivus non ipse modo Evangelii
+prædicatione plurimos Christo lucrifecerit, sed et ex carceris vinculis inde
+tot nobiles ac divinas Epistolas ad varias aut Ecclesias aut Ecclesiarum
+Antistites miserit, ut ad Galatas, Ephesios, Philippenses, Colossenses, ad
+Timotheum alteram; in quibus non nemo vetustorum Ecclesiæ Doctorum nescio quid
+gratiæ peculiaris et affectus, miram fidem et charitatem spirantes, observavit:
+quasi per ipsas illas vinculorum et carceris angustias ex Apostoli nostri
+divinitus afflato pectore, majore quadam vi atque impetu vox illa salutaris
+Evangelicæ veritatis erumperet; dum Christus ipse, ut ad Martyres aiebat olim
+Cyprianus, servos suos non tantum spectat certantes et militantes, sed et ipse
+luctatur, ipse in certamine coronat et coronatur, et præstat in vinculis
+laxamentum, in pressura solatium, in necessitate præsidium.
+
+[Marginalia: 2 Tim. 2:9. Ratio notanda. Chrysostomus. Cyprianus, orat. ad
+Martyres.]
+
+Quum, inquam, in Apostolo nostro per omnes illas Roma datas Epistolas egregium—
+
+[BSB bsb11059161 | scan 38 | Præfatio p. 4]
+
+—ac luculentum habeamus fidelissimi ac vigilantissimi Pastoris exemplar, quem
+longè plus vinculis illis Ecclesiarum omnium cura constringebat, quique jam non
+absens tantum, sed et ad Dominum per gloriosum illum Martyrii instantis exitum
+propediem ex hac mortali vita migraturus, Christi tamen Ecclesiis omni cura,
+consiliis, precibus, monitis, doctrina, Scriptorumque sacrorum monumentis et
+præsens et superstes esse contendebat. Ita profecto in hac nominatim, quæ Roma
+ad Ephesios directa est, exuberantem quandam non sermonis tantum Evangelici
+παρρησίαν ac libertatem, sed et Spiritus Sancti vim, sensum et efficaciam,
+et charitatis Christianæ flammam quandam ex electo illo pectore emicantem, et
+zeli fervorem, et lucis divinæ fulgorem quendam admirabilem inde elucentem, et
+fontem aquæ vivæ, hoc est benedictionis omnis gratiæque spiritualis inde
+scaturientem aut ebullientem potius, licebit animadvertere; idque tanta copia,
+ut eximius ille sensus cordis ipsa animi sensa intimosque conceptus, conceptus
+autem verba prolata, verba denique priora quæque subsequentia premant, urgeant,
+obruant; dum verbis juxta ac sententiis ἐμφατικωτάταις præcipua quæque
+doctrinæ Christianæ capita, tam ad fidem quam ad mores vitamque spectantia,
+præsertim vero Christi Redemptoris beneficia nobis hodierno die perinde atque
+olim Ephesiis dilucidè succinctèque proponit.
+
+[Marginalia: Exaggeratio.]
+
+Adeo ut vobis, Humanissimi Auditores, hujus Epistolæ tantam hanc dignitatem ac
+majestatem singularem propius inspectantibus, non opus fuerit, ni fallor,
+rationem prolixius reddere cur in ipsis professionis hujus primordiis hanc præ
+cæteris enarrandam susceperim; sed dolendum potius mihi, non eam gratiæ donique
+mensuram a Deo concessam esse, quæ et huic tam præclaræ occasioni, Scholam
+scilicet hanc Theologicam jam primitus reserandi, et huic tam lecto, tam divino
+et sublimi argumento aliqua saltem proportione respondeat.
+
+[Marginalia: Corollarium.]
+
+Nam sive scopum Apostoli spectemus in hac Epistola ad Ephesios mittenda, ut
+scilicet Ecclesiam Ephesinam, tanta jam antea cura, fide, solertia, per triennium
+integrum a se plantatam, irrigatam, excultam, ad perseverantiam in vera fidei ac
+pietatis doctrina, adeoque in vita suæ vocationi gratiosæ congruente, quin et
+ad progressus in utraque illa parte faciendos, in fide nimirum vitæque
+sanctitate, incitaret et animaret; ne vel persecutionis metu, vel mundi amore
+præpostero, vel Pauli vinculorum et afflictionum pudore quas Evangelii causa
+perferebat, vel denique luporum rapacium vulpiumve fallacium, hoc est
+Pseudapostolorum falsorumque doctorum, quos in ipsorum gregem qua irrepturos
+qua irrupturos ipse præmonuerat, astu fraudibusque perniciosis ab Evangelica
+veritate, a pristina fidei suæ puritate deficerent et se abduci paterentur, sed
+in eadem non tantum perseverarent constanter, verum etiam alacri studio ad
+superna illa suæ vocationis meta contenderent.
+
+[Marginalia: Ratio 1, a Scopo. Act. 20:29.]
+
+Sive, inquam, hunc Apostoli nostri scopum respiciamus, nonne sicut iis omnibus
+qui hoc nostro sæculo ex Antichristi tenebris atque tyrannide in Evangelii
+lucem ac libertatem filiorum Dei evocati sunt, ita iis nominatim quadrabit,
+quorum opera Deus aliquando uti dignabitur ad alios ex ejusdem cæni volutabro
+aut evocandos, aut in sua vocatione confirmandos et in incepta salutis via
+promovendos ac provehendos? Manente causa manet effectus, inquiunt Logici; et morbis ac malis iisdem aut
+grassantibus aut impendentibus, eorundem remediorum earundemque præcautionum
+usus manere, vigere debet. Quum igitur nos a veritate Christiana, a vera
+pietate, a regno cælorum aut unicè aut impensè quærendo mundus adhuc idem
+avertere conetur, caro adhuc eadem sollicitet, cruces adhuc eædem ensesque
+circumstent, licet hi ad tempus aliquod in vaginam reconditi, illæ vero in
+animi obstinati odio latentes; eædem impendeant procellæ; idem ille Leo rugiens
+ovile circumeat; atque eadem impietas et pravi credulus error adhuc regnet in
+cordibus infidelium; iidemque impietatis errorisque doctores et assertores,
+fraudum omnium ac fallaciarum Architecti, ovinis autem pellibus intecti,
+pusillum Domini gregem undiquaque circumstrepant atque circumfremant, in omnem
+et nos evertendi et sese ipsos evehendi occasionem intenti: quid nos magis
+decet, Auditores charissimi, quid nobis prius potiusque conveniat, quam nos hac
+Apostoli nostri prophylaxi præmunire, his tam salutaribus remediis armare,
+adversus omnem impietatis et apostasiæ labem atque perniciem?
+
+[Marginalia: Applicatio.]
+
+Hinc velut ex Edenis horto, ab ipso Dei Spiritu consito atque plantato, divinas
+illas et promissionum et præceptorum et paræneseon et consolationum et
+correctionis et correptionis et instructionis, uno verbo et vitæ et doctrinæ
+Christianæ plantas omni studio carpere atque colligere; unde tum nobis primum
+ipsis, tum aliis etiam ad quoscunque potest pia nostra cura pertingere, salutare
+paremus Alexeterion et in promptu habeamus, adversus omne peccati Satanæque
+venenum, sive veternoso quodam stupore hominum securorum corda percutiat, sive
+inferorum facibus furiisque miseras et irrequietas eorundem conscientias
+exagitet, angat, excruciet.
+
+Sive rursus materiam in hac Epistola tractatam respicias, nimirum totius fere
+doctrinæ Christianæ locorumque præcipuorum qui in Theologia tractari solent
+Epitomen quandam atque compendium: quo, quæso, modo jucundius, fructuosius,
+felicius studium operamque suam collocare possint veræ Theologiæ studiosi, quam
+in hujus Epistolæ lectione, meditatione, enarratione diligenti et accurata?
+
+[Marginalia: Ratio 2.]
+
+Quippe quum Apostolum nostrum, et absentem licet et captivum, urgeret pia
+sollicitudo pro Ecclesia illa quam prius viva voce instituerat, ut Ephesios ad
+eam fidei quam a se didicerant vitæque Christianæ constantiam quæ vera Christi
+Jesu membra deceret eo efficacius hortaretur, videmus eum totius doctrinæ
+summam ipsis in mentem ac memoriam revocare, Dei præsertim clementissimi in
+Christo beneficia captum omnem superantia, quæ erga Gentes inprimis a Deo et
+Christo alienas in hac Epistola magnificentissimè deprædicat; idque fontem
+primum ipsum aperiens et ab hac omnis boni scaturigine benedictionem omnem
+spiritualem arcessens atque deducens, gratuito nimirum Dei Patris favore et
+misericordia erga genus humanum, a qua beneficium omne per Christum in nos
+promanat.
+
+[Marginalia: Summa hujus Epistolæ.]
+
+Ac primum omnium æterna et gratuita nostri in Christo Electio ac
+Prædestinatio, deinde admiranda illa per eundem Christum pro nobis incarnatum
+perfecta Redemptio: quorum nos reipsa fieri participes, eaque nobis communicari
+docet per Evangelii prædicati firmum per fidem amplexum, et in ea fide stabilem
+ad finem usque constantiam, qua quidem fidei—
+
+[BSB bsb11059161 | scan 39 | Præfatio p. 5]
+
+—firmitate Electi omnes necessario
+donantur; quippe qui Spiritu Sancto promissionis obsignentur, qui nostræ
+cælestis hæreditatis arrha et pignus est in nobis permanens, usque ad
+promissionis divinæ complementum ultimo illo et glorioso plenæ perfectæque
+nostræ redemptionis die tandem futurum.
+
+Interea tamen omni nobis opera nitendum esse, ut in fide ac sanctitate
+progressus faciamus assiduos, precibus (quarum studium ipse suo nobis exemplo
+commendat), vitæ novæ fructibus, omnibusque pietatis et charitatis exercitiis
+incumbentes; nec sicut reliquæ gentes, a Deo Deique regno alienæ, amplius
+ambulantes in sensus nostri vanitate carnisque sordibus et corruptelis, sed
+prout vocatione tam sancta, tam cælesti, tam gratiosa dignum est, veterem
+hominem indies magis magisque exuentes, novum autem illum ad Christi ipsius,
+capitis nostri, imaginem in vera sanctitate, justitia et spiritus puritate
+renovatum omni cura studioque induentes; idque eo majori alacritate animique
+promptitudine, constantia, vigilantia, quod sive miseram nostram extra Christum
+conditionem spectemus, quippe qui in nobis ipsis natura nostra nihil aliud
+simus quam iræ filii, a Deo Deique fœdere, vita, gratia et gloria alieni, in
+peccatis autem offensisque mortui; sive illius vitæ dignitatem et excellentiam,
+qua nos in Christo vivificare dignatus est; sive communionem illam ac
+societatem Ecclesiæ felicissimam, in quam nos diruta illa Judæorum Gentiumque
+maceria, ejusdem fidei Spiritusque sui nexu et vinculo, sub eodem capite
+Christo allegit et advocavit, ut ex ipso velut corporis ejus vera et viva
+membra vim omnem, sensum, motum, vitamque spiritualem et hujus incrementum
+hauriamus;
+
+sive paternam illam Christi curam, providentiam, amoremque ineffabilem, quibus
+in cælo receptus et ad gloriosam Patris sui dextram evectus Ecclesiam suam
+prosecutus est, qui misso Spiritu Sancto publicum hoc in ea ministerium
+stabilivit, ad mysticum illud ædificium in seipso fundandum, extruendum,
+assidueque promovendum, donec tandem ad fastigium producatur; ad Sanctorum
+collectionem atque compagem, ad eos tam cum capite quam inter sese magis
+magisque per fidem ac Spiritum Sanctum, veramque charitatem uniendos; ne
+circumferantur quovis vento doctrinæ, sed indies in veritate corroborentur et
+in Christi cognitione salutari proficiant, donec tandem in hominem perfectum,
+in mensuram perfectæ Christi staturæ adolescant;
+
+sive quidquam horum, inquam, sive simul omnia reputemus, in hac Epistola nobis
+clarè emphaticèque proposita, nil nisi summas opes divinæ in Christo et per
+Christum gratiæ erga nos summè miseros, nec tamen (quia id meritissimo nostraque
+culpa) miserandos, videamus, hoc est argumenta totidem summè nos astringentia,
+incitantia, cogentia, tum ad gratiarum actionem perpetuam, ad laudem gloriamque
+Dei nostri in Christo summa animi contentione celebrandam, tum ad animi nostri
+gratitudinem non voce tantum publicaque professione, sed multo magis omni
+obedientia, officio, pietate, vitæque novitate testandam.
+
+[Marginalia: Argumentum.]
+
+Adeo si Epistolam hanc attentè perlegamus, in ea præcipuos quosque Locos
+Theologicos observare liceat, aut obiter breviusque perstrictos, aut fusius ac
+de industria tractatos; ut ex hac ipsorum inductione fiet manifestum:
+
+[Marginalia: Loci hic comprehensi.]
+
+1. De Deo uno in tribus Personis subsistente, Patre, Filio ac Spiritu Sancto;
+de Divinis etiam attributis aliquot, puta efficaci illa Potentia, multiformi
+illa Sapientia, Bonitate, Misericordia, Gratia et φιλανθρωπίᾳ illa ineffabili,
+quæ in illo potissimum nostræ redemptionis mirando mysterio, adeoque in
+Evangelio, quæ est illius mysterii divina patefactio, splendidissimè
+refulgent; De Divinarum item Personarum agendi ordine in opere salutis nostræ
+perficiendo, deque Spiritus Sancti nominatim erga Electos atque credentes
+officiis.
+
+2. De æterna et gratuita Dei Prædestinatione et Electione credentium in
+Christo, suis causis tam efficiente quam finali, suisque mediis et effectis
+explicata et illustrata.
+
+3. De Redemptionis nostræ dispensatione et salutis communicatione in tempore
+facta: dum scilicet per Evangelii prædicationem offertur, per fidem recipitur,
+et per Spiritum adoptionis in cordibus electorum obsignatur. Unde de Vocatione
+efficaci, de Evangelii prædicatione, de Fide ac per fidem in Christum
+insitione, Adoptione, aliisque affinibus, quæ variis causarum, effectuum,
+adjunctorum et objectorum circumstantiis illustrantur.
+
+4. De Christo Ecclesiæ capite, ejusque statu glorioso, quo supra Angelos omnes
+cælestes omnesque ipsorum gradus et ordines exaltatus est; de ejus item
+Resurrectione a mortuis et gloriosa Ascensione locali in cælos, ac Triumpho de
+omnibus illis tenebrarum potestatibus devictis et subjugatis acto.
+
+5. De Peccato originis miserrimaque hominum in morte naturali relictorum,
+extra et citra Christum, conditione.
+
+6. De nostra cum Deo per Christum reconciliatione, vivificatione, ascensione,
+resurrectione et glorificatione cælesti, quæ nobis omnia per et propter
+Christum conveniunt.
+
+7. De Gentium item vocatione in Ecclesiæ societatem, deque Ecclesia una ex
+Electis omnibus, tam Judæis quam Gentibus constante, deque membrorum Ecclesiæ
+arctissima illa unione, tam cum Christo Capite quam inter sese, Spiritus ejus
+interventu et fraternæ charitatis vinculo.
+
+8. De ministeriis Ecclesiasticis, a fine suo et usu, tum etiam ab authore
+Christo ipso illustratis.
+
+9. De conjugio mutuaque conjugum dilectione, a mystica illa et spirituali
+Christi et Ecclesiæ conjunctione illustrata et confirmata.
+
+10. De moribus Christianis, hoc est bonis operibus officiisque variis, in
+variis vitæ gradibus, pro cujusque vocatione speciali, pro cujusque gradu,
+sexu, conditione præstandis.
+
+11. De lucta denique illa militiaque Christiana adversus hostes illos capitales
+divinæ gloriæ nostræque salutis, deque spirituali illa panoplia sive armatura,
+qua muniendi sumus adversus omnes diaboli sive insidias sive impetus.
+
+12. De Sanctorum Perseverantia in Christi fide et gratia, per preces,
+vigilantiam omniaque pietatis exercitia, quibus non modo foveantur in nobis
+beneficia illa salutaria, sed et augescant indies et incrementum sumant, usque
+quo in cælis tandem consumentur.
+
+En quibus hæc Epistola locis Theologicis doctrinæque Christianæ capitibus,
+velut monile gemmis totidem insignibus aut cælum stellis, referta est et
+exornata! Atque hæc secunda fuit instituti nostri ratio, cur ab hac Epistola
+visum fuerit hoc Scripturam sanctam interpretandi munus in hac Academia
+exordiri.
+
+[Marginalia: Conclusio secundi argumenti.]
+
+Sive tertio loco varia testimonia et argumenta firmissima consideres, quibus
+hæc abundat Epistola, adversus hæreses plurimas, tam vetustas et olim ab
+orthodoxis Patribus explosas expulsasque, quam adhuc in Christiano orbe
+renovatas et velut ab inferis—
+
+[BSB bsb11059161 | scan 40 | Præfatio p. 6]
+
+—revocatas; adversus hostes gratiæ Dei et liberi arbitrii ac meritorum
+humanorum assertores; ad eos etiam repellendos ac refellendos, qui aut
+absurdissimis illis Μετουσίας, Συνουσίας et Πανταχουσίας monstris,
+humanæ Christi naturæ veritatem verumque et localem in cælos ejus ascensum,
+aut Electionis æternæ definitam certitudinem, hoc est primum firmissimumque
+totius nostræ salutis fundamentum, convellere ac labefactare conantur;
+
+[Marginalia: Ratio 3. Pars ejus prior.]
+
+adeorum præterea stuporem excitandum quibus in nuda fidei et Religionis
+Christianæ professione posita est omnis religio, in externa quadam forma,
+ordine et assensu veritati divinæ præstito, fidei prorsus emortuæ et
+infructuosæ, spei autem evanidæ et fluctuantis, prora puppisque consistit;
+quibus videtur plane ad salutem sufficere Christi nomen in Ecclesiæ cœtu
+profiteri et ad hominum aliorum exemplar, hoc est ad sæculi hujus figuram,
+sese conformare atque componere; de vitæ interim novitate, de mente ad Christi
+imaginem transformanda, de nova obedientia, de rebus futuri sæculi regnoque
+Dei ante omnia, supra omnia, citra omnia, hoc est vel cum cæterorum omnium
+jactura, quærendo; de sua erga Deum Patrem Christumque Redemptorem gratitudine
+testanda; de lucta illa Christiana qua vera Christi membra per totam vitam
+exercentur; de fidei, pietatis, charitatis incremento perpetuo, peccati autem
+jugi decremento atque νεκρώσει; de sua denique Electione et Adoptione
+gratuita, per Spiritum promissionis sanctum, per illud sanctificationis opus
+tam arduum atque divinum, in cordibus suis obsignanda, nihil quidquam
+solliciti, aut certè, præ fluxis et frivolis hisce mundi rebus, immo rerum
+umbris et somniis, parum admodum in res hasce cælestes intenti.
+
+Sive porro consolationis et fidei munimenta præsidiaque desideres, velut
+commeatum et apparatum fideli animæ necessarium in omnem probationis diem et
+modum et speciem, hinc abundè profecto depromi possunt adversus omnia
+tentationum genera, ad quas infracto et constanti animo perferendas jam nos
+potissimum comparare ac præparare debemus, quamdiu durant hæc halcyonia, vix
+unquam veræ Dei Ecclesiæ fida et firma; nec differendum dum venti ingruant,
+incumbant fluctus, glomerentur procellæ; sed maturè munienda nobis pectora, et
+intra ipsorum penetralia armorum spiritualium omne genus in omnem vitæ usum
+studiosè recondendum est; armorum, inquam, quorum copiam ex hoc armamentario
+instructissimo nobis benignè suggerit Imperator noster Jesus Christus,
+adversus omnem hostis et vi et fraude pollentis incursum.
+
+[Marginalia: Pars posterior.]
+
+Sive denique Spiritus Sancti, per os electi hujus organi loquentis, phrasin et
+characterem in hac Epistola expressum advertas, quo nobis hæc quæ supra
+induximus salutis æternæ mysteria proponit, nihil dici, nihil cogitari potest
+aptius et efficacius ad animos Dei et Christi amantes harum rerum vehementi
+desiderio inflammandos. Nec enim aridè, parcè, jejunè, perfunctoriè, et vel cum
+nullo vel saltem exili aliquo rerum harum sensu beneficia illa æterna et
+inenarranda commemorat, Ephesiis hic exponit Apostolus: sed, Deus bone! quam
+pleno corde, pleno ore, quanto animi sensu, quanta Spiritus ἐνεργείᾳ et
+efficacia, quanto sententiarum pondere, quam elata denique, quam exaggerata,
+quamque magnifica oratione cuncta prosequitur et gravido de pectore velut e
+fonte quodam ebulliente profundit!
+
+[Marginalia: Ratio 4.]
+
+Sive de laude gloriosæ Dei gratiæ, sive de copia exundanti omnis sapientiæ et
+intelligentiæ, sive de opibus gloriæ hæreditatis ejus in Sanctis, sive de
+supereminente illa potentiæ ejus magnitudine quam in credentibus exerit pro
+efficacitate roboris et virium ipsius, sive de divite Dei misericordia deque
+supereminentibus opibus ejus gratiæ et benignitatis erga nos in Christo Jesu,
+sive de inscrutabilibus Christi opibus, sive de multiformi illa Dei Sapientia,
+sive de illa Christi charitate secundum omnes dimensiones infinita, in qua nos
+radicari vult atque fundari, sive de omni illa Dei plenitudine qua nos optat
+adimpleri, sive de tota illa fidelium panoplia sive armatura integra, sive de
+illa Sanctorum quam exigit perseverantia omni, in omni prece, deprecatione,
+supplicatione pro omnibus Sanctis omni tempore per Spiritum excubando; sive
+denique de sui oris apertione cum libertate ad Christi Evangelium, immo
+mysterium Evangelii notum faciendum; sive de aliis hujusmodi sermonem habeat in
+hac Epistola passim occurrentibus, quis non videt hoc Dei Christique Spiritu
+plenum pectus, etiam tanto illo animi conatu tamque splendido et eximio verborum
+gravissimorum apparatu, rerum tamen ipsarum de quibus disserebat magnitudinem,
+fastigium, excellentiam nequaquam assequi et exæquare valuisse?
+
+[Marginalia: Eph. 1:6, 8, 18–19; 2:4, 7; 3:8, 10, 18; 6:11, 18, et cetera.]
+
+Ne cui videantur hyperbolicæ rerumque ipsarum modum excedentes illæ voces,
+illæ phrases, illa epitheta, nihil tenue, nihil modicum, immo nihil finitum præ
+se ferentia; absit, absit a nobis impia illa cogitatio! Quinimmo licet e sensu
+eximio et mira cordis abundantia loqueretur, Apostolus tamen potius pro gratiæ
+sibi datæ mensura quam pro ipsarum immensa sublimitate et amplitudine de rebus
+illis cælestibus disserebat, tantum abest ut suæ orationis copia et ubertate
+ipsarum pondus et majestatem excesserit.
+
+[Marginalia: Prolepticos.]
+
+Quod si ita se res habeat, ut nemo verè Christianus negaverit, si velimus in
+nos ipsos descendere, nosque velut ad pectoris hujus Apostolici speculum
+explorare: heu! quantum stuporem, quantam ἀναισθησίαν, quam exilem sensum,
+quam parvum adhuc in Dei regno profectum, in vita spirituali progressum
+sentiêmus, si cum hac plenitudine corda nostra tam arida, tam jejuna, tam
+terrea, immo tam adhuc lapidea contendamus! Quid ergo? Num jam olim exaruerunt
+illi fontes gratiæ? Num illa benignitatis abyssus in vadum commutata est? Num
+exhausti jam illi benedictionum thesauri? Num defecerunt opes illæ
+impervestigabiles? Num desiit aut refrixit illa Christi charitas dimensionis
+omnis expers? Num decurtatum est brachium Domini, aut immutata est illa
+potentis ejus roboris efficacia, quantum in Christo ipso capite inprimis,
+deinde etiam in vivis ejus membris una cum capite tam potenter vivificandis,
+illuminandis, renovandis, possidendis, regendis et plenitudine quadam sui
+Spiritus implendis olim exercebat?
+
+[Marginalia: Corollarium notandum.]
+
+Nequaquam certè, charissimi. Immo gratiæ sint ipsi et benedictio sempiterna,
+qui post Evangelii fulgorem terris redditum eandem hanc vim admirandam, quam
+hic Apostolus tantopere et sentiebat et prædicabat, in multis millibus
+luculenter exercuit, quorum non vita tantum sanctissima et felicissima e
+corpore emigratio nihil nisi divinum et cæleste sapiebat, sed et aliquorum
+labores et Scripta utilissima eandem illam Dei plenitudinem adhuc abundè
+spirant atque testantur. Quæ—
+
+[BSB bsb11059161 | scan 41 | Præfatio p. 7]
+
+—cum ita sint, Auditores, profecto nobis aut animi plane Athei fuerint et
+profani, aut corda saxea et silice quavis duriora, nisi hæc nos excitent,
+moveant, extimulent, ad aliquem hujus tantæ gratiæ vitæque sensum et
+experimentum, hujus Christi Spiritus tantæ efficaciæ in nobis ipsis quærendum,
+expetendum, sitiendum; nec cessandum unquam aut quiescendum, donec et nos
+tandem harum opum et benedictionum, hujusque potentiæ spiritualis, cum Paulo
+ipso et omnibus Sanctis, consortes fiamus. Alioqui enim, vah! cur in hoc
+benignum tempus reservati sumus? Cur hanc Evangelii lucem gratiosam unquam
+aspeximus? Cur huc venimus aut convenimus? Quid nobis profuerit his de rebus,
+velut Psittacos, sine sensu, sine motu, sine vita Dei, sine Dei Spiritus
+efficacia blaterare, velut cæcos de coloribus disceptare? Et Sophistarum more
+de gratia, de justitia, de sanctitate, de fide, de vita Dei, de cæteris
+hujusmodi sine fine rixari, si ipsi interim horum omnium expertes κάγευστοι
+miseram ætatem transigamus? Profecto quantum olim profuit illis
+Ψευδωνύμου Σοφίας sectatoribus, de summo hominis bono sive beatitate,
+sine Christo Mediatore, sine vera fide, sine peccatorum remissione, sine
+resipiscentia, sine spe viva, sine justitia, pace, lætitiaque spirituali, per
+omnem vitam disputasse.
+
+[Marginalia: Applicatio.]
+
+Videte ergo, charissimi, quem vos inprimis fructum optarim ex tam eximia hujus
+Epistolæ tractatione ea reportare, quam Dei ductu et favore pro vobis aggredior:
+nempe ex admiranda hac Pauli abundantia cum nostra conditione collata, nostræ
+ipsorum jejunitatis, ariditatis, sterilitatis ac stuporis agnitionem; hinc
+autem vitæ et gratiæ famem, sitim, ardorem inexplebilem, inextinguibilem, donec
+et ipsi illa Dei plenitudine tandem impleamur et exsatiemur. Unde omnibus
+liquet, ni fallor, quam fructuosa nobis, eo animo huc accedentibus, hæc
+versantibus atque tractantibus, futura sit hujus Epistolæ explicatio, et quam
+gravium rationum momentis inductus in hac Epistola præ cæteris deligenda
+Lyricinis illius consilium amplexus sim, qui habet: ἀρχομένου ἔργου
+πρόσωπον θέμεν τηλαυγές, operis, inquam, incœpti frontispicium
+ponere præfulgidum.
+
+[Marginalia: Ode 6.]
+
+Superest nunc, instituti nostri ratione reddita, ut in hanc Epistolam hæc
+nominatim de more præfaremur: 1. De Epheso ipsa sive Ephesiis, ad quos hæc
+Epistola directa. 2. De scopo Apostoli, adeoque de eam scribendi occasione. 3.
+De ejus argumento sive summaria comprehensione. 4. De locis præcipuis
+doctrinæ Theologicæ qui in eadem observandi veniunt et explicandi. Postremo,
+de ejus in suas partes primarias divisione. (Siquidem de Authore ipso, nempe
+Paulo Apostolo, sive potius de Spiritus Sancti in ea conscribenda organo et
+amanuensi, multa disserere supervacaneum fuerit.) Quibus absolutis ad contextum
+ipsum enarrandum accederemus. Verum quum ex hisce præfationis articulis aliqui
+jam supra satis enucleati sint, quæ præfanda supersunt eo sicciori pede
+percurremus.
+
+[Marginalia: Transitus. Præfationis hujus capita.]
+
+Ac primum, quod ad urbem Ephesum Ephesiosque ejus incolas attinet, notior est
+ea quidem quam ut opus sit in ea explicanda immorari. Siquidem civitas fuit
+Asiæ Minoris clarissima, quam etsi Herodotus in Clio Lydiæ adscribat, cæterorum
+tamen Historicorum consensu in Jonia censetur. Verum hoc parum interest, quum
+et Lydia sit Joniæ contermina et Ephesios ipsos Jonibus annumeret Herodotus
+eodem loco, quippe qui Jonum dialecto uterentur; etsi Ephesum ipsam in Lydia
+statuat. Urbem multis nominibus antiquitus claram: tum portu navali tam commodo
+et opportuno Græcis in Asiam aut etiam ex Asia in Græciam transeuntibus, ut
+celeberrimum totius Asiæ citerioris Emporium evaserit; tum etiam viris aliquot
+claris inde oriundis, ut Heraclito minimè obscuræ famæ, etsi ob scriptorum
+obscuritatem Σκοτεινοῦ cognomen obtinuerit; Hermodoro Philosopho, Apelle
+et Parrhasio Pictoribus, Alexandro Oratore et Theodotione Judæo, qui Biblia
+sacra in Græcum sermonem transtulerat; sed præsertim ob idoli illius cultum,
+quam Dianam superstitiosa illa et cæca appellavit antiquitas: huic siquidem
+templum magnificentissimum et 127 columnis conspicuum multi Reges populique
+Ephesi extruxerant; unde Dianæ Ephesiæ nomen totum orbem illum vetustum
+pervagatum est, ut vel ex Actorum 19 capite manifestum est.
+
+[Marginalia: Sectio 1. De Epheso.]
+
+Verum de his aliisque similibus Ephesum spectantibus consulantur veterum
+monumenta: Herodotus in Clio, Plinius libro 36, Pausanias in Achaicis, et
+cetera. De Pauli vero Apostoli primo in Ephesum adventu, deque ejus reditu in
+eam ac mora per totum illud triennium, quo viva eos voce diligenter in
+Evangelii doctrina instituerat; deque iis quæ Demetrii illius εἰδωλομανοῦς
+ac Dianæ illius, hoc est diaboli Ephesii Antesignani, opera atque consiliis
+Apostolo Ephesi moranti acciderunt; denique de postrema ejus concione
+Presbyteris Ephesianæ Ecclesiæ Miletum accersitis, a Paulo illac transeunte et
+Hierosolymas ascendente habita, videatur Actorum capita 18, 19, 20. Nam de eo
+quod scribit Apostolus ipse 1 Corinthios 15 se Ephesi θηριομαχήσασθαι, hoc
+est cum bestiis pugnasse, non video inter doctissimos interpretes constare aut
+saltem convenire, propriene an metaphoricè accipiendum de Judæis illis e
+Synagoga Ephesina pervicacibus et obstinatis, quorum a Luca fit mentio Act. 19
+versu 9.
+
+[Marginalia: Præteritio. 1 Cor. 15.]
+
+Huic porro Ecclesiæ videtur Apostolus Timotheum Evangelistam præfecisse, aut
+saltem ad tempus aliquod reliquisse Ephesi, quum in Macedoniam proficisceretur,
+sicut disertè scribit ipse 1 Tim. 1. Refert præterea Eusebius Historiæ
+Ecclesiasticæ libro 3 Joannem Evangelistam Ecclesiam hanc aliquandiu rexisse.
+Hic quoque anno Christi 450, aut secundum alios 437, sub Theodosio juniore,
+tertia Synodus Oecumenica adversus Nestorium congregata est et celebrata, cui
+præfuit Cyrillus Alexandrinus Episcopus. Atque hæc de loco sive civitate.
+
+[Marginalia: 1 Tim. 1:3.]
+
+Quod ad scopum et occasionem: de iis jam dictum supra. Nec enim possumus aut ex
+hac Epistola aut etiam ex Lucæ historia Actorum colligere scribendæ huic
+Epistolæ Apostolo occasionem dedisse aut schismata ac dissidia, ut priori ad
+Corinthios Epistola, aut etiam ab Evangelica puritate defectionem, ut Epistolæ
+præcedenti ad Galatas; sed piam potius pro hac Ecclesia curam ac
+sollicitudinem, quam huic Apostolico pectori intendebat periculum Prophetico
+Spiritu prævisum, quod Ephesiis a falsis Doctoribus imminebat, sicut apertè
+præmonet illo Actorum 20: scire se exorituros lupos graves post suum discessum,
+qui non parsuri essent gregi sed eum potius omni astu ac fraude impetituri, ut
+perversa sua doctrina discipulos secum abstraherent ac seducerent. Huic
+occasioni accedebat et alia, cujus in hac Epistola fit expressa mentio, nempe
+ne puderet eos vinculorum ejus, quibus Roma pro Evangelio captivus detinebatur—
+
+[Marginalia: Sectio 2. De scopo et occasione. Act. 20.]
+
+[BSB bsb11059161 | scan 42 | Præfatio p. 8]
+
+—ne ob Apostoli sui Doctorisque fidissimi afflictionem, quam Christi nomine
+perferebat, animus Ephesiis fatisceret aut languesceret, aut a veritatis et
+pietatis recto cursu vel metu vel pudore declinaret. Scopus ergo illi
+propositus, idem ille qui nobis omnibus et vitæ et studiorum omnium scopus esse
+debet, qui totius ministerii Evangelici in Ecclesia Christiana stabiliti finis
+ac scopus est: nostri scilicet, perinde atque tum olim Ephesiorum, in fide, in
+veritate, in vitæ puritate ac sanctimonia professioni Christianæ congruenti,
+non confirmatio tantum, sed et incrementum progressusque perpetuus, donec metam
+tandem supernæ nostræ vocationis assequamur.
+
+Hunc enim in finem, ut vobis jam tertio loco tertium horum prolegomenorum
+articulum attingam, qui de Epistolæ hujus argumento sive summa futurus erat,
+Ephesiis de more salutatis et immensa illa Dei in Christo beneficia tum
+generaliter proponit, tum speciatim inducit, methodo rerum ipsarum naturæ
+inprimis congruente; et beneficia illa eadem, nominatim autem vocationem,
+vivificationem, tam Judæis quam Ephesiis, adeoque reliquis gentibus ad Christi
+communionem vocatis, applicat; et vocationem illam Ephesiorum generatim prius
+propositam postea specialius ac distinctius explicat, tam comparatè ad eam
+illustrandam quam aliis argumentis ad eandem confirmandam adhibitis.
+
+[Marginalia: Sectio 3. De summa argumento.]
+
+Et ne personæ docentis conditio ipsorum animos offenderet atque ita illud
+ædificationis opus impediret, quod sibi præ oculis inter scribendum habebat
+Apostolus, scandalo crucis diligenter occurrit et causa vinculorum suorum
+exposita, ne ob afflictiones quibus expositus erat segnescerent, hortatur. Unde,
+sicut et supra fecerat, in locum benevolentiæ conciliandæ idoneum, hoc est
+preces ardentissimas pro Ephesiis conceptas, digreditur, ut illa exhortationis
+præcedentis conclusio majori vi animos eorum permoveret et in iis acriores
+velut aculeos infixos relinqueret. Et finita doctrina paræneses illas
+commodissimè subnectit, tam generalem illam ad omne officium Christiano homine
+dignum, quam speciales quæ certum vitæ genus aut sexum aut conditionem
+respiciunt, in quibus nemo ordinem exactum præcisè requirat. Et specialibus
+illis officiis unam communem omnibus generalem parænesin velut conclusionis
+loco subjungit, de spirituali illa panoplia induenda; et rebus suis privatis
+Tychico fratri et συνεργῷ relictis, qui Ephesiis eas coram exponeret, divinam
+hanc Epistolam eadem fere salutatione concludit a qua fuerat eandem exorsus.
+Hæc, inquam, omnia eum in finem exsequitur, ut Ephesios ad fidei et pietatis
+constantiam hortaretur et incitaret ad progressus in illa salutis via assiduè
+faciendos, eosdem vero contra omnem tentationum, persecutionum, vinculorum
+suorum, falsorum doctorum (Judæis præsertim legem cum Evangelio, fidem cum
+operibus, veritatem cum figuris, corpus cum umbris, hoc est ignem cum aqua,
+miscere nitentibus) vim, metum, pudorem, fraudes armandos atque muniendos.
+
+Ad quartum caput quod attinet, Locos doctrinæ Christianæ hac Epistola
+tractatos supra exactè satis induximus; inter quos hi potissimum, velut capitum
+altiorum cacumina, præ cæteris eminent: De Electione et Prædestinatione
+Sanctorum, de Spiritus Sancti erga Electos et credentes officiis, de Christo
+Ecclesiæ capite ejusque statu glorioso et in altum ascensu, de peccato originis
+sive misera extra Christum conditione, de Ecclesiæ Catholicæ tam cum Christo
+capite quam inter sese unione, de ministeriis Ecclesiasticis, de conjugio, de
+moribus vitæ Christianæ cum vitiis contrariis fugiendis, de lucta et armatura
+spirituali.
+
+[Marginalia: Sectio 4. De locis præcipuis.]
+
+Unde restat ultima tantum nostræ præfationis particula, Epistolæ nimirum
+divisio in partes præcipuas, quæ vel attento lectori per se satis manifesta
+est. Siquidem omissis duabus illis particulis minus principalibus, tum præfixa
+salutatione capitis primi initio, tum annexa illa de Tychici adventu admonitione
+et clausula εὐκτική sub finem Epistolæ, reliquum ejus corpus in duas partes
+potissimas videmus distinctum: quarum prior didascalica est magnam partem, de
+Dei in Christo beneficiis erga fideles sive de causis salutis tribus prioribus
+capitibus comprehensa; posterior parænetica magis est, de officiis fidelium
+erga Deum ad suam erga ipsum gratitudinem ob tam immensa beneficia testandam,
+capitibus tribus posterioribus contenta: adeo ut, sicut scopum prioris partis
+dicere possumus esse incrementum fidei, ita scopum posterioris partis asserere
+liceat incrementum resipiscentiæ.
+
+[Marginalia: Sectio 5. De divisione.]
+
+In prima enim parte eo consilio de illo salutis mysterio non Ephesiorum tantum
+sed et omnium fidelium disserit, et salutis causas exponens et pristinam
+ipsorum miseriam ipsis ob oculos proponens, ut fidem eorum confirmet, in qua
+vera ac certa salus consistit. In posteriore autem parte varia illa vitæ
+Christianæ præcepta tradit, ut eos excitet animetque ad gratum animum erga Deum
+Servatorem pietatis officiis vitæque novæ et sanctæ studio testandum. Quare uno
+verbo concludamus licet: in priore illum parte fidem confirmare, in posteriore
+vero resipiscentiam sive pietatis studium accendere.
+
+[Marginalia: Notanda duo. Consectarium 1.]
+
+Hinc duo obiter eliciemus, priusquam ad verborum ipsorum exegesin deveniamus.
+Unum est, hac Apostolica consuetudine primum de fidei Christianæ doctrina,
+deinde de moribus fidei fructibus disserendi (quam ubique fere retinet Paulus),
+ordinem naturalem inprimisque convenientem observari: quum bona opera
+vitæque Christianæ fidei sint effecta, non contra; quumque ex fide, non secus
+ac fructus boni ex viva radice, nascantur; nec ex operibus, sed ex fide in
+Christum ejusque gratuita beneficia apprehendente justificemur. Quod hac
+docendi methodo Apostolum nobis quasi digito demonstrare voluisse nequaquam
+dubitandum est.
+
+[Marginalia: Consectarium 2.]
+
+Alterum, quum videamus Apostolum ex illa fidei διδασκαλίᾳ varias elicere
+paræneses et consolationes, ad Ecclesiarum ad quas scribit usum temporaque
+adaptatas, hinc sane statim debet nobis occurrere: tantum abesse ut illa
+gratiæ doctrina verè fideles animos ad bona opera segnes reddat, ut eos nihil
+æque ad bene sancteque vivendum acuat, inflammet, extimulet, ac summæ illius
+Dei erga nos in Jesu Christo φιλανθρωπίας ac benignitatis recordatio; cujus quo
+major fuerit sensus et apprehensio in cordibus nostris, eo majus ardentiusque
+studium pietatis ac bonorum operum in iisdem necessario viget et incalescit;
+præsertim dum vocationis illius nostræ finem reputamus, non ut in idem lutum
+revolvamur a quo jam abluti fuimus ac tam pretioso lavacro, hoc est Christi
+ipsius optimi maximi sanguine mundati; sed ut secundum vocationis nostræ
+sanctitatem jugiter ambulantes, Deo nostro serviamus et ad Christi capitis
+exemplar perfectissimum atque purissimum nosmet vitamque nostram totam serio
+componamus et conformemus. Quod per ejus mortem vivificam faxit Patris
+cælestis immensa inexhaustaque benignitas. AMEN.

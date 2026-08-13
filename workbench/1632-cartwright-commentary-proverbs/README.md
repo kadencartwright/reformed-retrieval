@@ -91,5 +91,100 @@ body is still Chapter I.
 - `parts/part-01-chapter-01-latin.txt`
 - `parts/part-01-chapter-01-english.md`
 
-The next unit begins with `CAPUT II` on the lower part of shared PDF 24 and
-ends before `CAPUT III` on PDF 30.
+**Part 02 is complete and scan-audited as a first working draft.** It contains
+the full Chapter II commentary from the ruled `CAPUT II` on the lower part of
+PDF 24 / printed column 23 through the closing analytical diagram on PDF 30 /
+printed column 34, stopping immediately before the ruled `CAPUT III`. Latin
+and English have seven identical source markers and retain all printed verse
+lemmata, six analytical structures, Hebrew, Greek, citations, and full prose.
+The markers document a skipped printed column numeral 26 and a repeated
+printed column numeral 30; the text and physical leaves remain continuous.
+
+- `parts/part-02-chapter-02-latin.txt`
+- `parts/part-02-chapter-02-english.md`
+
+**Part 03 is complete and scan-audited as a first working draft.** It contains
+the full Chapter III commentary from `CAPUT III` on the lower part of shared
+PDF 30 / printed column 34 through the last Chapter III paragraph on PDF 40 /
+printed column 54, stopping immediately before the ruled `CAPUT IV`. Latin and
+English have eleven identical source markers and retain all printed verse
+lemmata, four analytical structures, Hebrew, Greek, citations, and full prose.
+PDF 39's running head incorrectly reads `CAP. II`; the body and column sequence
+remain continuous in Chapter III. The Part 03 notes also preserve the printed
+`Matt. 3. 8.` reference while identifying Malachi 3:8 as the evident intended
+passage.
+
+- `parts/part-03-chapter-03-latin.txt`
+- `parts/part-03-chapter-03-english.md`
+
+**Part 04 is complete and scan-audited as a first working draft.** It contains
+the full Chapter IV commentary from `CAPUT IV` on the lower part of shared PDF
+40 / printed column 54 through the last Chapter IV sentence on PDF 48 / printed
+column 71, stopping immediately before the ruled `CAP. V`. Latin and English
+have nine identical source markers and retain all twenty-seven verse lemmata,
+four analytical structures, Hebrew, Greek, citations, and full prose. The rare
+Greek expression `μογιλαλία` in the discussion of verse 24 has been retained
+and glossed as difficult speech.
+
+- `parts/part-04-chapter-04-latin.txt`
+- `parts/part-04-chapter-04-english.md`
+
+**Part 05 is complete and scan-audited as a first working draft.** It contains
+the full Chapter V commentary from `CAP. V` on the lower part of shared PDF 48
+/ printed column 71 through the last Chapter V sentence on PDF 57 / printed
+column 89, stopping immediately before the ruled `CAPUT VI`. Latin and English
+have ten identical source markers and retain all twenty-three verse lemmata,
+five analytical structures, Greek, citations, and full prose. PDF 51’s running
+head incorrectly reads `CAP. II`; its body and column sequence remain
+continuous in Chapter V.
+
+- `parts/part-05-chapter-05-latin.txt`
+- `parts/part-05-chapter-05-english.md`
+
+**Part 06 is complete and scan-audited as a first working draft.** It contains
+the full Chapter VI commentary from `CAPUT VI` on the lower part of shared PDF
+57 / printed column 89 through the last Chapter VI sentence on PDF 72 / printed
+column 119, stopping immediately before the ruled `CAPUT VII`. Latin and
+English have sixteen identical source markers and retain all thirty-five verse
+lemmata, seven analytical structures, Hebrew, Greek, citations, early-modern
+English glosses, and full prose.
+
+- `parts/part-06-chapter-06-latin.txt`
+- `parts/part-06-chapter-06-english.md`
+
+**Part 07 is complete and scan-audited as a first working draft.** It contains
+the full Chapter VII commentary from `CAPUT VII` on the lower part of shared
+PDF 72 / printed column 119 through the last Chapter VII sentence on PDF 81 /
+printed column 137, stopping immediately before the ruled `CAPUT VIII`. Latin
+and English have ten identical source markers and retain all twenty-seven
+verse lemmata, seven analytical structures, Greek, citations,
+early-modern English glosses, and full prose.
+
+- `parts/part-07-chapter-07-latin.txt`
+- `parts/part-07-chapter-07-english.md`
+
+**Part 08 is complete and scan-audited as a first working draft.** It contains
+the full Chapter VIII commentary from `CAPUT VIII` on the right side of shared
+PDF 81 / printed column 137 through the last Chapter VIII sentence on PDF 95 /
+printed column 165, stopping immediately before the ruled `CAPUT IX`. Latin
+and English have fifteen identical source markers and retain all thirty-six
+scriptural verse lemmata, analytical structures, Greek, citations,
+early-modern English glosses, and full prose. The damaged analytical scheme on
+PDF 81 is explicitly flagged, as is PDF 91's running-head press error (`CAP.
+VII.` for `CAP. VIII.`).
+
+- `parts/part-08-chapter-08-latin.txt`
+- `parts/part-08-chapter-08-english.md`
+
+**Part 09 is complete and scan-audited as a first working draft.** It contains
+the full Chapter IX commentary from `CAPUT IX` on the lower right of shared PDF
+95 / printed column 165 through the last Chapter IX sentence on PDF 101 /
+printed column 176, stopping before `CAPUT X` in the right column. Latin and
+English have seven identical source markers and retain all eighteen scriptural
+verse lemmata, analytical structures, Greek, citations, early-modern English
+glosses, and full prose.
+
+- `parts/part-09-chapter-09-latin.txt`
+- `parts/part-09-chapter-09-english.md`
+
+The next unit begins with `CAPUT X` on shared PDF 101.

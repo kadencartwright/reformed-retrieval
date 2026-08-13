@@ -137,3 +137,15 @@ this part.
 
 - Latin: `parts/part-05-chapter-01e-latin.txt`
 - English: `parts/part-05-chapter-01e-english.md`
+
+**Part 06 is complete as a scan-audited working draft.** It begins on shared
+printed p. 94 / PDF 145 at the allied question whether anyone may be saved in
+any religion, then gives Rutherford's eight-point argument that the Arminian
+liberty of prophesying entails libertinism and atheism. It stops on printed p.
+97 / PDF 148 after the last sentence of point 8, immediately before the new
+exposition headed `2 TIM. 3.16, 17.` The pair has four synchronized page
+markers, retains the Greek `Θεάνθρωπον` and `ῥητῶς`, and has no substantive
+marginal blocks or applicable printed errata.
+
+- Latin: `parts/part-06-chapter-01f-latin.txt`
+- English: `parts/part-06-chapter-01f-english.md`

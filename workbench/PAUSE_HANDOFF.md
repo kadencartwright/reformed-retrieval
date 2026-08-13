@@ -1,7 +1,12 @@
 # Reformed Latin translation project — pause handoff
 
+> **Newer handoff:** The high-concurrency 12–13 August 2026 run is documented
+> in [`PROGRESS_2026-08-13.md`](PROGRESS_2026-08-13.md). Read that file first;
+> it supersedes the progress counts and restart boundaries below while this
+> older handoff remains as historical context.
+
 **Paused:** 12 August 2026; updated after completion of Cartwright Proverbs Chapter I
-**State:** all translation agents stopped; no background agent remains active  
+**State:** all translation agents stopped; no background agent remains active
 **Bottom line:** the research inventory is complete enough to guide the project,
 but the user's request to translate every non-Calvin target is **not complete**.
 Several substantial works now have complete working drafts; the remaining queue

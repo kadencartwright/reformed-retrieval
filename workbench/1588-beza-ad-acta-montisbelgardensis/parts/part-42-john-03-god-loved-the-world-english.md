@@ -1,0 +1,49 @@
+# Theodore Beza, *Response to the Acts of the Montbéliard Colloquy: Part II* (1588)
+
+> AI-assisted, unreviewed close working translation from the controlling 1588 Latin witness. This is not a summary. No modern translation was consulted or used as a wording source.
+
+## Part XLII: John 3—God Loved the World
+
+[Part II | PDF page 213 | logical source scan 212 | printed page 211 | begins after preceding unit on shared page]
+
+### The Württemberg Doctors
+
+John 3: “God so loved THE WORLD that he gave his only-begotten Son, so that EVERYONE who believes in him should not perish but possess eternal life.”
+
+### Theodore Beza’s Antithesis
+
+In John 3, “world” means humanity not universally but indefinitely, and is applied to those who believe in Christ, since Christ himself says he does not pray for the world but only for those whom the Father gave him and those who will believe in his name.
+
+### Andreae’s Observations
+
+1. This is a manifest corruption of Christ’s words and a false interpretation of “world,” which they can never prove from Holy Scripture. John himself, the best interpreter of his words, teaches the contrary when he says Christ is the propitiation for the sins OF THE WHOLE WORLD. Here an indefinite word is not used, but a universal term.
+
+2. Although “WORLD” is restricted here, this does not confirm the error of an absolute decree of condemnation. For “WORLD” means despisers of gospel doctrine who oppose Christ; Christ denies that he prays for these. It does not follow, however, that by an absolute will Christ does not will their salvation.
+
+[Part II | PDF page 214 | logical source scan 213 | printed page 212]
+
+### Theodore Beza’s Reply to Andreae’s Observations
+
+[Marginal note: To the replies.]
+
+I shall shortly join to the refutation of these two observations the other things our adversary produced to the same effect from pages 540–545. I will not linger over the remarkable labels with which, from his remarkable zeal for God’s church, he thought fit to spatter me, but with which—as I hope every fair reader will judge—he rather spits upon himself. Such are these: page 542, “Beza’s false opinion concerning ineffectual calling”; page 543, “Beza’s doctrine of predestination leaves troubled consciences in perpetual doubt”; page 547, “Beza’s dreadful doctrine that Christ did not die for the sins of the whole world”; in the same place, “Here Beza laughed with his brothers sitting at the other table”; and page 550, “Beza’s doctrine entirely removes the use of the gospel and sacraments.” Let the church judge how truly these things are said against me. Let us now discuss this passage.
+
+The question is whether, when John 3 says God so loved the world that he gave his only-begotten Son, every individual is said to have been loved and the Son given for them, as Andreae affirms, while I assert it must be understood only of those chosen out of the whole world. His reasons are these. The first arises from comparison with 1 John 2, where the whole world is mentioned; I shall answer it in the next refutation. The second is written on page 540. After prefacing—as he customarily speaks no less gravely about matters wholly outside controversy than he lightly answers contrary arguments—that God’s will toward human beings must be judged not from human reason but from God’s open and entirely clear Word, he finally says: “I ask you to answer me categorically and plainly whether God ever loved those now condemned or those who will be condemned.” I could have answered—and would have answered had I been able to suspect where his shameless question tended—from Augustine’s distinction that God simultaneously hates and loves human beings: he loves them insofar as they are his work but hates in them human works, namely sins. Or, as Augustine says elsewhere to Simplicianus, “When from the number of the impious whom he does not justify he makes vessels for dishonor, he does not hate what he makes in them. Insofar as they are made vessels, he makes them for some use, so that through their ordered punishments vessels made for honor may advance. God therefore hates them neither insofar as they are human nor insofar as they are vessels—that is, neither what he did in them by creating nor what he does in them by ordering. For he hates nothing he made. In making them vessels of destruction he does so for the correction of others, but he hates in them the impiety which he did not make. Thus a judge hates theft in a person but does not hate that the thief is sent to the mines; the thief does the former, the judge the latter. So when from the mass of those perishing God makes vessels of destruction, he does not hate what he makes—the work of his ordering in the deserved punishment of those perishing—in which—”
+
+[Part II | PDF page 215 | logical source scan 214 | printed page 213]
+
+“—those upon whom he has mercy find an occasion of salvation, as it was said to Pharaoh, ‘For this I raised you up,’” and so forth. Although I could have answered him these things, which came readily to mind, I was content with a simple denial. I saw that it so constrained him that he must either agree with me or—as we were discussing every individual person, not some whole nation considered collectively [ἁθρόᾳ] in itself—be compelled to attribute mutability to God.
+
+Then, after producing Christ’s words, “God so loved the world,” he again asked what “world” means in these words. I answered, “The elect,” as his secretaries correctly recorded. Yet either carelessly or maliciously—I leave that to their consciences—they omitted these exact words: “to be gathered from the whole world.” These should by no means have been omitted, for this is why Christ used “world” there.
+
+Andreae first appealed to the unanimous consensus of every ancient and modern interpreter of Scripture, from whom it is certain, he claims, that the entire human race is meant. As though one denied this who confesses that it signifies all those divinely elected from the entire human race upon whom God has mercy! But let Andreae give me even one trustworthy—that is, non-Pelagian or non-Semi-Pelagian—interpreter who taught from this or any other Scripture passage that the Father ever decreed to send the Son, or sent the Son in time, to save through mercy every human being born. Had he decreed it, he certainly would have done it, since he can neither be hindered nor changed, and the execution of his will depends not upon the clay but the potter.
+
+Andreae then added: “The same Christ shortly afterward says in the same passage that this is judgment, that light came into the world but human beings loved darkness rather than light. Here,” he says, “‘world’ cannot be understood only of the elect but especially of those rejected.” I reply that Andreae’s spirit of dizziness is manifest here. The matter itself cries out that because “world” is used twice in these words of Christ, it either means in both places only those destined for destruction following by their own fault, or in the first place the earthly world and in the second only those reprobate people. What reasonably sound-minded person infers that when God is said to have loved the world, the term means every individual loved and destined for salvation without any distinction between elect and reprobate? At least let our adversary grant me that one person, Esau, was hated, and for no other reason than because God willed. The apostle plainly draws this conclusion in Romans 9:8, and no less in the plural than in the other member concerning election. But to omit the rest, how does this again oppose me? Christ discusses the causes of the execution of that eternal decree—that is, causes of condemnation known and plain in themselves. I contend concerning the decree itself, whose one cause is God’s will preceding all subordinate causes, which I have long never ceased chanting to this deaf man.
+
+[Part II | PDF page 216 | logical source scan 215 | printed page 214 | ends before following 1 John 2 item on shared page]
+
+Andreae next produces that sweetest statement of John the Baptist: “Behold the Lamb of God who takes away the sins of the world.” “THE WORLD,” he says, “not only the elect.” Indeed, not only Israel but the elect to be gathered also from the other nations, as Simeon previously explained distinctly in his swan song. Christ spoke in John 10:26 and testified that those whom he addressed, although Israelites according to the flesh, were not of his sheep. How much less, when God’s love toward his flock which he never abandons is discussed, can every individual of every nation be understood under that term? It is unsurprising that Andreae erred so shamefully here, since we shall shortly hear him openly maintain that Christ satisfied for all the sins of every individual and that no one is condemned because of other sins but only unbelief.
+
+To the same effect he next adds on page 541 Paul’s words from Romans 5, “When we were enemies, we were reconciled to God through the death of his Son,” and from 2 Corinthians 5, “God was in Christ reconciling THE WORLD to himself.” What is the point? It is evident that Paul shows only that the foundation of our real calling and reconciliation is not the one who wills or runs but God who has mercy. From his purpose, by which before eternal times he destined us in the Son for his love, though afterward born and found as sinners, he so calls us outwardly that he justifies us inwardly.
+
+Andreae next accumulates Ezekiel 18, “The death of the wicked is not my will”; Matthew 11, “Come to me, all who labor”; and 1 Timothy 2, “God wills all human beings to be saved.” We have already answered in their places the false and foolish interpretations of these passages, just as on page 93 and several following of this response we answered most fully what he objects on page 542 and following concerning what he calls false, ineffectual calling.

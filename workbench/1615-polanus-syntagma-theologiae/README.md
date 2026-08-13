@@ -1,39 +1,85 @@
-# Amandus Polanus, *Syntagma theologiae christianae*
+# Amandus Polanus, *Syntagma theologiae christianae* (1615)
 
-> **Work-in-progress:** This directory is reserved for an incomplete,
-> AI-assisted transcription and independent translation. It is not yet a
-> finished or independently reviewed edition.
+> **Working edition in progress:** This directory contains an AI-assisted,
+> diplomatic-normalized Latin transcription and an independent close English
+> translation. Both are unreviewed working texts, not a critical edition or a
+> publication-ready translation.
 
 ## Work identity
 
 - **Author:** Amandus Polanus von Polansdorf (1561–1610)
 - **Title:** *Syntagma theologiae christianae*
-- **Base edition:** Hanau, 1615, revised, interpolated, and enlarged by the
-  author
-- **Structure:** ten books
-- **Extent:** [12] leaves, 699 pages, [24] leaves; 774 digital canvases
+- **Edition used:** Hanau, Wechelian press, heirs of Johann Aubrius, 1615
+- **Title-page status:** described as newly corrected, interpolated, and enlarged
+  in innumerable places by the author's own careful work
+- **Structure and catalogued extent:** ten books; [12] preliminary leaves, 699
+  numbered pages, and [24] final leaves
 
-## Witness
+## Controlling witness and audit
 
-The working witness is the [Bavarian State Library
-digitization](https://www.digitale-sammlungen.de/en/details/bsb00014667), with
-[IIIF manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00014667/manifest)
+The controlling witness is the Bavarian State Library copy, shelfmark
+`2 Polem. 150`, digitized as
+[`bsb00014667`](https://www.digitale-sammlungen.de/en/details/bsb00014667)
+(VD17 12:113268M). The BSB supplies a
+[`774`-canvas IIIF manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00014667/manifest)
 and page-level hOCR at
-`https://api.digitale-sammlungen.de/ocr/bsb00014667/{page}`.
+`https://api.digitale-sammlungen.de/ocr/bsb00014667/{canvas}`. Page images, not
+hOCR, govern every reading.
 
-The BSB describes its digital reproduction as no-copyright/noncommercial-use
-only. This project should cite and inspect those images but publish only a
-newly corrected Latin transcription and independent English translation, not
-redistribute the library's scan.
+The digital sequence was audited at its opening and at the Part 01 boundary:
 
-## Independence from the modern translation project
+- canvas 1 is the 1615 title page;
+- canvases 1–24 contain the twelve preliminary leaves: title, dedicatory
+  matter, synopsis, and chapter index;
+- canvas 25 is numbered p. 1 and begins Book I, *De theologiæ principiis*;
+- Book I, Chapter I occupies the two columns of p. 1 and ends above the ruled
+  division near the foot of canvas 25;
+- Chapter II begins below that rule on the same canvas and continues on canvas
+  26 / printed p. 2.
 
-The modern open translation project uses CC BY-NC-SA. That is not public
-domain or CC0, and it is not a wording source for this repository. English
-placed here must be translated afresh from the Latin.
+The catalogued title, author, date, extent, holding institution, shelfmark,
+BSB identifier, and VD17 identifier agree with the title page and manifest.
+The BSB describes the digital reproduction as no-copyright/noncommercial-use
+only. This workbench cites and checks the facsimile but does not redistribute
+the scan.
 
-## Current files
+## Editorial method
 
-This large system must be prepared by book and chapter under `parts/`, with the
-ten-book hierarchy preserved. No combined `latin.txt` or `english.md` should be
-created until the complete 1615 text and its paratext have been accounted for.
+Latin long *s*, ligatures, printer line-end divisions, and typographic `u/v`
+are normalized. Substantive spelling, punctuation, ampersands, capitalization,
+Greek, headings, citations, and paragraph structure are retained. Greek is
+encoded in Unicode; the two difficult opening quotations were checked at high
+resolution, including Clement's `δύο εἰσὶν ἰδέαι τῆς ἀληθείας, τά τε ὀνόματα
+καὶ τὰ πράγματα`.
+
+The printed page is divided by alphabetical finding letters used by the
+volume's indexes. Part 01 records their exact positions as `[1615 printed
+locator A]` through `[1615 printed locator F]`; the last marks the rule at the
+chapter boundary. The sole marginal biblical block is retained as
+`[Marginalia: ...]`. Running furniture, catchwords, and ornament are omitted.
+
+The English is a fresh translation from the paired Latin. It has not used the
+modern open translation project, whose CC BY-NC-SA license and wording are not
+sources for this repository. Expansions needed for English clarity are kept
+minimal, and Greek technical labels remain visible.
+
+## Part 01
+
+**Part 01 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the collective Book I heading and all of Chapter I, “On
+the word or name *theology*,” from the first authorial prayer through the final
+sentence announcing how later controversies will be treated. It is a complete
+chapter even though it occupies only one printed page; the clean authorial
+boundary is preferable to an arbitrary 15–20-page division.
+
+- Latin: [`parts/part-01-book-01-chapter-01-latin.txt`](parts/part-01-book-01-chapter-01-latin.txt)
+- English: [`parts/part-01-book-01-chapter-01-english.md`](parts/part-01-book-01-chapter-01-english.md)
+- Both files have the identical canvas/page marker, marginal block, and six
+  printed locator markers.
+- The `CAPUT II` heading and every word below it are excluded. Part 02 can
+  therefore begin without overlap or omission at that heading on canvas 25.
+
+No independent Latinist or historian of theology has reviewed either file.
+No CC0 dedication is made for any file in this workbench directory; the
+repository's path-based licensing scope is stated in
+[`LICENSING.md`](../../LICENSING.md).

@@ -80,7 +80,36 @@ The English will be translated independently from the paired Latin and will
 not use any modern rendering as a wording source. It will be full prose rather
 than a summary, but remains explicitly AI-assisted and unreviewed.
 
-## Current status
+## Completed units
 
-The complete witness has been acquired and mapped. Translation has not yet
-begun; Cartwright's *Proverbs* commentary is the active Cartwright work.
+**Part 00 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the full preliminary matter on reader images `PP1`–`PP6`: the title
+page, explicitly marked blank title verso, Cartwright's dedication to King
+James, and Cartwright's address to the reader. The paired files have six
+identical image markers and retain the dedication's Greek, the title-page
+device, and the preliminary ornaments:
+
+- `parts/part-00-preliminaries-latin.txt`
+- `parts/part-00-preliminaries-english.md`
+
+The next unit begins with the metaphrasis of Ecclesiastes 1 on reader image
+`PA1` / printed pp. 1–2.
+
+**Part 01 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the metaphrasis of Ecclesiastes 1–2 on reader images `PA1`–`PA15`,
+ending on printed p. 16 immediately before `Caput III`:
+
+- `parts/part-01-metaphrasis-chapters-01-02-latin.txt`
+- `parts/part-01-metaphrasis-chapters-01-02-english.md`
+
+**Part 02 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the metaphrasis of Ecclesiastes 3–5 on reader images `PA15`–`PA35`,
+ending on printed p. 36 immediately before `Caput VI`. The paired files have
+eleven identical image markers and retain the edition's `CAPUT X` misprint for
+Chapter V with an explicit `[sic; caput V]` annotation:
+
+- `parts/part-02-metaphrasis-chapters-03-05-latin.txt`
+- `parts/part-02-metaphrasis-chapters-03-05-english.md`
+
+The next unit begins in the right column of reader image `PA35` / printed p.
+36 with `Caput VI`.

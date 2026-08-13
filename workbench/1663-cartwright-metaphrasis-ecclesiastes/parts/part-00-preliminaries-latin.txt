@@ -1,0 +1,163 @@
+THOMAS CARTWRIGHT
+
+METAPHRASIS ET HOMILIAE IN LIBRUM SALOMONIS, QUI INSCRIBITUR ECCLESIASTES
+
+Part 00: Titulus, Epistola ad Regem Jacobum, et Lectori
+
+Transcription diplomatica-normalizata ex exemplari Amstelodamensi anni 1663.
+Imagines voluminis Google Books pthrWjdL0BgC textum regunt; OCR tantum
+subsidium est. Longum s, ligaturae, divisiones in fine linearum, atque usus
+typographicus u/v normalizantur. Haec est transcriptio ope AI confecta et
+nondum recognita, non editio critica aut publici juris parata.
+
+[Google Books pthrWjdL0BgC | reader image PP1 | title page]
+
+METAPHRASIS ET HOMILIAE
+
+IN LIBRUM
+
+SALOMONIS,
+
+qui inscribitur
+
+ECCLESIASTES:
+
+AUTHORE
+
+THOMA CARTWRIGHT, ANGLO.
+
+[Typographi insigne: scena pastoralis.]
+
+AMSTELREDAMI,
+
+Apud JOANNEM RAVESTEINIUM,
+Bibliopolam Civitatis, & Illustris Scholae
+Typographum Ordinarium,
+
+CIƆ IƆ C LXIII.
+
+[Google Books pthrWjdL0BgC | reader image PP2 | title verso: no printed authorial text]
+
+[Google Books pthrWjdL0BgC | reader image PP3 | dedication to King James, opening]
+
+JACOBO,
+
+Angliae, Scotiae, Galliae & Hyberniae Regi
+
+Nobilissimo & Augustissimo, Gratia & Pax à Deo Patre,
+& Domino nostro Jesu Christo, ad omnem foelicitatem,
+in hac vita pietatem & justitiam,
+& in futura immortalitatem &
+gloriam.
+
+Dolorem nostrum (Rex Nobilissime) ex occasu Serenissimae Reginae ELISABETHAE,
+cùm sua absentia & desiderio, tùm sexcentorum malorum irruptione, quorum metu &
+expectatione tenebamur, dolorem, inquam, vix consolabilem, Tuus in nostro coelo
+exortus, non lenivit modò, sed abstersit penitùs. Nec enim illa tanquam
+clarissima Luna, tenebras nostras olim Marianis temporibus, plusquam Cymmerias
+illustrans, citiùs condita est, quàm Tua Celsitudo (tanquam Sol quidam) Regni
+Tui piis & religiosis civibus affulsit, omnibus affulsura, nisi adversus lucem
+cùm verae doctrinae, tùm vitae ab ineunte aetate Tua ἀνόμως actae sibi oculos
+confixerint. Quòd autem ἀκονιτὶ ἢ ἀναιμωτὶ virgulâ verè Divinâ totius
+Britanniae sceptrum tenes, quod caeteroquin (ut Prophetae verbis utar) non nisi
+conflictatione summa, vestimentorum in sanguine volutatione, denique flammis &
+incendio nulla verisimilitudine futurum fuisset: Dei nostri incomparabili &
+nunquam satis praedicando beneficio factum est. Beneficium autem Tuum
+cumprimis, (Serenissime Rex) quem ut pax & incolumitas civium Tuorum plurimùm
+exhilarat: sic moestum & tristem habuisset, omnia caede & incendio subditorum
+Tuorum completa intueri. Beneficium item nostrum eximium & singulare, qui
+mortis, bonorum dissipationis, foeminarum violationis, Babylonicae denique
+confusionis sententiam in nos & nostros acceperamus. Hic igitur C. T. simul &
+nobis omni contentione vel dimicatione potiùs opus est, ut nostram ad omnem
+posteritatem Deo gratam animorum recordationem testatam relinquamus, qui
+pluvias in serenitatem, tenebras in lucem, procellas & turbines in placidam
+tranquillitatem convertit. Cujus tanta erga nos & tàm
+
+[Google Books pthrWjdL0BgC | reader image PP4 | dedication to King James, conclusion]
+
+admirabilis largitionis, cùm Deus, secundum Se, C. T. ministrum esse voluit,
+nostra omnia officia Principis nomine justa, Tibi ex tam inexpectata & insperata
+pacis pariter & sanctimoniae fruitione, arctiore (si qua fieri potest) vinculo
+debita sunt. Ad commune verò civium & subditorum Tuorum officium, accedit meum
+quoddam & proprium, quo me & mea omnia (cùm à Deo discessum fuerit) C. T.
+obstricta habet. Neque enim unquam memoria mea excidere potuit, quòd propriis
+C. T. literis, me olim ante annos viginti ad Theologicam professionem in una
+Academiarum Tuarum vocare dignatus sis, ad quam fama virtutis Tuae, quae tum
+lucere coeperat, (nunc inclaruit & longè latèque radios suos diffudit)
+pernicissimè & alacerrimè advolassem: nisi Pastoritio vinculo, quo
+Angle-Antwerpianae Ecclesiae tùm adstrictus eram, praepeditus fuissem. Rarae
+item cujusdam & incomparabilis humanitatis fuit, quòd in solium elatus, oculos
+ad carceres longissimè abs Te dissitos dimittebas, & caeteroquin in regni
+administratione occupatissimus, literas de me, & Udalo, captivitate, quâ,
+propter sanctioris disciplinae in Ecclesia nostra instaurandae studium,
+tenebamur, eximendis scribere (sicut haud dubio sermone accepi) dignatus es.
+Quamobrem nostras has in Ecclesiasten commentationes, summae meae observantiae
+testes, Tuo Nomine (Potentissime Rex) apparere volui, ut Tuo sub patrocinio
+delitescens, adversus cùm inimicorum, tùm iniquorum seu calumnias, seu
+vocularum aucupes, potiùs quàm rerum & veritatis studiosos, tectus & tutus
+maneam. Dominus Jesus C. T. omnium piorum civium incredibili gaudio ad
+amplissimum hoc Regnum evectam, & indies Spiritus sancti coelestibus donis ad
+Regium munus exsequendum idoneis auctam & exornatam, incolumem servet: eoque
+ipso Ecclesiae & Reipub. ab omnibus cùm sacerdotum unctorum & perunctorum, tùm
+Jesuitarum nostri seculi (si tam Latinè quàm verè ita loqui licet)
+Principicidarum insidiosis conjurationibus ereptam, incolumem quàm diutissimè
+vindicet atque conservet.
+
+Majestatis Tuae submississimus subditus,
+
+Thomas Cartwright.
+
+[Google Books pthrWjdL0BgC | reader image PP5 | address to the reader, opening]
+
+[Ornamentum typographicum.]
+
+LECTORI.
+
+Vetus quaestio est, omnium omnis generis Philosophorum spatiis, de hominis
+summo bono. Quo de tanta in varietate constituti sunt, ut aliquot centenis ea
+de re opinionibus mundum compleverint. Vulgus autem & indocta hominum turba,
+prout singuli sensu & perturbatis affectibus atque studiis arripiuntur, ita
+sibi felicitatem affinxerunt. Sed quid caeci de coloribus, miseri & infelices
+homines de felicitate, in malo (ut inquit Johannes) positi de summo & maximo
+bono sententiam ferant? Quid beatus Deus, de beatitate, de summo & maximo
+bono, Deus optimus maximus pronuntiet, animum oportet advertamus. Quod cùm in
+pluribus Sacrae paginae libris sparsim & interpolatè explicatur, tùm hoc
+Ecclesiastis toto libro unicè & continenter disceptatur, & disceptando
+certissimè definitur. Cujus in investigatione ita versatur Propheta, ut
+beatitatis umbris & larvis sapientum & insipientium, doctorum simul &
+indoctorum disjectis & refutatis, veram & infucatam felicitatem suis cùm
+pietatis erga Deum, tùm justitiae adversus homines fructibus luculenter
+depingat. Hic igitur liber, ipso Spiritus S. scriba & veluti protonotario,
+omnium scilicet qui unquam extiterunt, aut qui deinceps extabunt mortalium
+sapientissimo, abundè commendatus, hoc tam amplo atque eleganter descriptae
+felicitatis argumento commendatissimus esse debet. Studium verò tuum remorari
+aut frangere non debet, quorundam de hoc libro temerarium & inconsideratum
+judicium, qui ex certis quibusdam sententiis hinc inde aspersis, nescio quid
+Epicureorum, Aristippeorum, & Atheorum fermentum resipere & redolere
+somniarunt. Est enim illud Eunuchi apud Lucam in Actis ingeniosum planè &
+peracutum erotema: loqueturne Propheta de sua, aut alterius cujusdam persona?
+Quae quaestio in illa Esaiae, perversè quam legebat Eunuchus, scitè & scienter
+excitata ad omnium Prophetarum justam interpretationem transferri & accommodari
+debet. Tantum autem abest, ut scholam Epicureis aperiat, & his qui Summum bonum
+in voluptate constituunt: ut contrà voluptariam vitam cap. 2. insaniam quandam
+& furorem ducat. Cùmque summam omnium, cap. 12. proponat Dei timorem, &
+mandatorum ejus observationem, omniaque sub Sole vanissima totus liber clamet,
+ex Atheorum officina doctrinam illam non prodire, palàm est. Edendi verò &
+
+[Google Books pthrWjdL0BgC | reader image PP6 | address to the reader, conclusion]
+
+bibendi liberalem usum alicubi praecipiens, non eò facit, ac si omnia
+voluptatis sensu metiatur: sed sordidos & aridos vellicans, hoc facit, qui
+necessariis & debitis hujus vitae subsidiis seipsos fraudant, potiùs quàm
+concupitam & animo suo designatam pecuniarum vim & molem non attingant &
+assequantur. Sed hujus libri thesauros mallem ex ipso Salomone, quàm nostro &
+tenui praeconio addiscas. Praeter Homilias, totum librum in Metaphrasim
+conjeci, partim ut series & οἰκονομία Prophetae meliùs intelligatur, partim ut
+occupatioribus, quibus totum librum legere non vacat, breviori compendio quod
+quaerunt, absque diuturniori ab aliis negotiis sevocatione, assequantur:
+doctioribus verò & magis in hoc stadio Theologico exercitatis, ne nostra
+legendo, à majoris & melioris momenti scriptis abstrahantur. Vale,
+humanissime Lector, & quem ego ad scribendum, tu ad legendum animum affer, id
+est, sincerum & veritatis amantem.
+
+[Ornamentum typographicum.]

@@ -1,0 +1,379 @@
+ROBERTI BODII A TROCHOREGIA
+
+IN EPISTOLAM PAULI APOSTOLI AD EPHESIOS PRÆLECTIONES (1652)
+
+PRÆLECTIO III — TRANSCRIPTIO LATINA
+
+Transcriptio diplomatica normalizata, AI adiuta et nondum recognita
+(AI-assisted, unreviewed). Imagines exemplaris Ratisbonensis a Bayerische
+Staatsbibliothek digitalizati (`bsb11059161`) testimonium princeps sunt; hOCR
+Bibliothecæ tantum collationis adiumento adhibetur. Littera longa s, ligaturæ,
+abbreviationes manifestæ, divisiones verborum ad fines linearum, et usus
+typographicus u/v normalizantur. Verba substantiva, Græca, citationes, et
+marginalia servantur.
+
+[BSB bsb11059161 | scan 46 | Caput I p. 4 (from Lecture III opening)]
+
+In versum tertium et sequentes.
+
+[Marginalia: Prælectio tertia. Cohæsionis ratio.]
+
+Absolutâ prima illâ non tam Epistolæ parte, quam parasceve sive προθεραπείᾳ
+Apostolo nostro in Epistolis suis familiari, quâ fidelium ad quos scribit
+animos præparare solet, ad veritatis doctrinam eo majori cum fructu
+percipiendam, nec legendam tantum aut audiendam, sed multo magis præstandam in
+totâ vitâ, et, quoad ejus fieri potest, in usum praxinque redigendam, dum
+Inscriptione illâ ac Salutatione verè apostolicâ, h.e. verum Christi legatum
+decente, veram fidem et charitatem fraternam spirante ac sapiente, adeoque
+Christi spiritum omninò referente, unde profecta est, Ephesiorum animos
+attentos, dociles ac benevolos reddit: illo, inquam, velut limine ac vestibulo
+superiùs perlustrato, tempus est ut in ipsum ædificium hoc augustissimum ac
+splendidissimum, ipsum Epistolæ hujus corpus, Deo ducente, ingrediamur.
+
+[Marginalia: Præmunitio de tractandi ordine.]
+
+In quo retexendo et explicando, hunc (Deo bene adjuvante) ordinem, hanc docendi
+seriem observare decrevimus: ut primùm analysin ipsam generalem argumenti
+substrati faciamus, et Apostoli scopum in singulis partibus, et partium ipsarum
+cohæsionem inter sese, quantum fieri potest, ostendendo; tum ad versiculos
+ipsos, h.e. partium velut membra articulósque singulos, adeoque verba, ubi opus
+est, sigillatim expendenda veniamus; tum τὰ δογματικά, h.e. ut ita dicam,
+doctrinalia, vel observationes doctrinæ, è membris ita explicatis, tertio loco
+colligamus; nec alias observationum species interea, pro doni nobis commissi
+modulo, negligamus; cujusmodi sunt ἐλεγκτικά sive ἀνασκευαστικά, quæ ad erroris
+alicujus aut falsi dogmatis cum Dei verbo pugnantis refutationem spectant: ad
+quod observationum caput ἐκδίκησιν etiam, quæ nihil aliud est quam loci
+Scripturæ sacræ à falsâ et erroneâ interpretatione vindicatio, jure referimus;
+παιδευτικά sive παραινετικά, quæ ad officia hominis Christiani, ad vitam et
+mores, ad exhortationes, monita, præcepta referuntur; νουθετικά,
+ἐπανορθωτικά, sive ἀποτρεπτικά, quibus à vitiis contrariis revocamur,
+castigamur, ac dehortando corrigimur; ac παρακλητικά sive παραμυθητικά ac
+παρηγορικά, quæ consolationes adversus omnis generis tentationes subministrant.
+Nam προληπτικά illa, sive ἀποριῶν λύσεις, quibus dubitationum aut objectionum
+contrariarum solutiones adferuntur, loci in speciem pugnantes conciliantur,
+testimonia contraria diluuntur, aut à depravatione scopi vindicantur, aliáque
+similia, haud abs re ad ἀνασκευήν vel ἔλεγχον revocamus, ut cuivis attentè
+consideranti per se manifestum est. Huic curæ postremo loco accedat oportet,
+præter observationes illas particulares locorum διδασκαλικῶν sive
+doctrinalium, de Deo, de Dei operibus, aliísque fidei Christianæ capitibus,
+quæ possunt in singulis membris aut versiculis brevius occurrere, locorum
+communium, saltem præcipuorum et insigniorum, in quibus Apostolus directè et ex
+professo versatur, et indicatio, et fusior et methodica quædam tractatio:
+eáque non in finem singulorum capitum semper (quod nonnulli facere solent)
+dilata atque rejecta, ne scilicet et moræ nimium interponatur et locorum plus
+satis occurrat in finem capitis explicandum, antequam licuerit ad sequentis
+initium transire, sed potiùs fini singulorum τμημάτων sive sectionum majorum
+adjecta, h.e. partium illarum quæ velut majora corporis humani membra, puta
+brachia, lacerti, femora, tibiæ, etc., distinctè cohærent et per manifestam
+quandam διάρθρωσιν copulantur; ita ut sequentia à præcedentibus non ita arctè
+dependeant, quin possint loci alicujus communis interjectu dirimi parumper
+atque disjungi.
+
+[Marginalia: Ratio proleptica.]
+
+Quamvis enim fatear equidem hanc locos communes ipsius contextus exegesi
+immiscendi consuetudinem nequaquam necessariam esse, immo nec omnium sive
+docentium institutis sive discentium usibus convenire: nobis tamen, ut spero,
+conducibile fuerit, et cognitionis et exercitii gratiâ, hanc in præsentiâ
+rationem sectari, donec hæc omnia semel prætervecti atque prætergressi, non
+opus habeamus in iisdem in posterum immorandi; quippe quæ jam velut in limine
+ac vestibulo didicimus, de iis postea provectos adultósque vel obiter tantum
+cursímque monuisse suffecerit. His igitur περὶ τῆς διδασκαλίας aut ἀναλύσεως
+nostræ præmonitis ac præmunitis, jam ad rem ipsam accedamus.
+
+Ac primùm, quum suprà audieritis priorem hujus Epistolæ partem tribus primis
+capitibus comprehendi, quibus doctrinam ipsam de Dei in Christo beneficiis
+causísque salutis nostræ persequitur Apostolus, ad Ephesios adeoque fideles
+omnes in fide confirmandos, ut in solâ Christi gratiâ omnem suam salutem
+constanter quærerent, nec extra ipsum in Evangelio patefactum quidquam ad
+vitam æternam, ad plenam perfectámque beatitudinem uspiam requirerent: proximum
+est hanc priorem partem rursus in sua membra partiamur.
+
+[Marginalia: Subdivisio prioris partis. 1.]
+
+Primùm enim habemus fusam ac luculentam causarum salutis, sive beneficiorum
+illorum spiritualium explicationem, à versu 3 cap. 1 ad versum usque 15.
+
+[Marginalia: 2.]
+
+Deinde digreditur ad gaudium suum pro fide et charitate Ephesiorum testandum
+gratiarum actione ac precibus pro ipsorum profectu et pleniori instructione
+conceptis: quæ et ipsa obliqua quædam exhortatio censeri potest ad
+perseverantiam et profectum in fide. Quum enim ostendit se de profectu ipsis tanto
+gaudio gratias Deo agere, tanto affectu pro ipsorum profectu Deum precari, hoc
+idem ab ipsismet multo magis faciendum esse significat: idque à versu 15 usque
+ad finem cap. 1.
+
+[Marginalia: 3.]
+
+Quam suprà Ephesiis obiter applicare cæperat, excellentem illam Dei potentiam
+in ipsis vivificandis cum Christo et ad Ecclesiæ communionem adducendis,
+Christo autem capiti inferendis et, ut ita dicam, incorporandis, Judæis pariter
+ac Gentibus fusius applicat, et hanc fidelium conditionem sub Christo et in
+Christo ex prioris miseriæ contemplatione illustrat, et explicatâ sanctorum
+omnium communione ejúsque communionis causâ et fundamento confirmat per totum
+caput secundum.
+
+[Marginalia: 4.]
+
+Quarto loco, ne personæ docentis conditio infirmorum animos offenderet,
+arreptâ ex fine capitis præcedentis occasione, scandalo suæ crucis occurrit,
+et ministerii sui dignitatem, tum ab eo qui in Ephesios ipsos reliquásque
+gentes inde redundat fructu et utilitate, magnifi—
+
+[BSB bsb11059161 | scan 47 | Caput I p. 5]
+
+—cè commendat; hortatúrque ne vinculorum suorum occasione segnescerent, cùm
+et vincula ipsorum causâ et in ipsorum bonum insigne sustineret; priori parte
+capitis tertii, ad versum usque 14.
+
+[Marginalia: 5.]
+
+Ac postremò, rursus in insignem benevolentiæ locum digreditur, studium suum
+vehemens de Ephesiorum salute precum pro ipsis ardentissimarum conceptione
+significans. Hæc sunt quinque membra in quæ priorem Epistolæ partem
+didascalicam generatim subdividimus, et quorum singulorum expositioni illam
+locorum in iisdem tractatorum fusiorem doctrinam, de quâ suprà, Deo favente,
+subjiciemus.
+
+[Marginalia: Reditus ad primum membrum. Subdivisio.]
+
+Nunc ad primum membrum revertamur, de beneficiis spiritualibus ad salutem
+æternam pertinentibus, à Deo Patre in Christo fidelibus collatis, et per
+Spiritum Sanctum in cordibus ipsorum reapse obsignatis, à versu 3 ad versum 15
+cap. 1. In quo rursus hæc tria capita inferiora licet obiter observare,
+distinctioris doctrinæ gratiâ. Primùm enim est ipsa beneficiorum illorum
+generalis propositio, ver. 3, sequentia omnia virtute quâdam ac potestate in se
+complectens. Deinde est propositionis ejusdem explicatio, versibus septem
+sequentibus, usque ad 12. Postremò ejusdem brevis applicatio ad Judæos primum
+fideles, deinde ad Ephesios ad quos scribit, versibus quatuor reliquis, 11, 12,
+13 ac 14, quemadmodum suo loco distinctius apparebit. Atque ita jam gradatim
+ac pedetentim descendendo, ad insignem hanc maximéque memorabilem
+propositionem devenimus, ver. 3 propositam, cujus primùm verba prælegamus.
+
+[Marginalia: Verbalis expositio.]
+
+ΕΥΛΟΓΗΤΟΣ Ὁ ΘΕΟΣ, etc., h.e. Laudetur ac celebretur ab omnibus Deus ille qui
+Pater est Domini nostri Jesu Christi, qui nos affecit omni beneficentiæ genere
+verè cælestis ac divinæ, in locis cælestibus, h.e. è supremo suo solio
+cælesti, ubi ipse gloriam suam speciali quodam et ineffabili modo patefacit,
+et unde nos omni benedictionum spiritualium genere accumulat, unde in nos omne
+bonum donúmque salutare demittit ac depluit, idque in Christo tanquam in capite
+consideratos, unde benedictiones illæ in membra subjecta ejúsque corpori
+insita derivantur.
+
+[Marginalia: Observatio obitanea.]
+
+Ubi notetur obiter elegans in verbo benedicendi ἀντανάκλασις, h.e. verbi
+ejusdem in diverso significatu reciprocatio, figura admodum jucunda ac
+Rhetoribus ipsis meritò commendata; verum quæ nobis hoc in loco alium usum
+egregium inprimis exhibet: ut scilicet non tantum discamus quid distet inter
+benedictionem illam quâ nos Deo benedicimus, et eam quâ ipse nobis prior
+benedicit, et hæc duo benedicendi genera à se invicem distinguamus; verum etiam
+alteram ut alterius causam ac fontem principiúmque spectemus. Causa enim cur
+nos Deo benedicamus est quia ipse prior nobis benedixit; sicut et nos Deum
+diligimus quia ipse prior nos dilexit ac Filium suum misit ἱλασμόν pro
+peccatis nostris, h.e. placamen iræ peccatis nostris debitæ, inquit Johannes,
+1 cap. 4 ver. 10.
+
+[Marginalia: 1 Joh. 4:10.]
+
+Porrò dicitur Deus nobis benedicere quum nobis benefacit, quum nos beat ac suæ
+benignitatis ac bonitatis immensæ donis effectísque prosequitur. Idque phrasi
+Hebraicâ, quâ verbum ברך in eodem sensu passim usurpari solet in Veteri
+Testamento, quum Deo erga homines tribuitur: ut videre est nominatim Gen. 24,
+ubi dicit Eleezer parentibus Ribkæ Jehovam Abrahamo domino suo benedixisse
+valdè; tum explicationis gratiâ adjicit quo pacto ipsi Deus benedixerit: adeò,
+inquit, ut magnus factus—
+
+[Marginalia: Gen. 24:35.]
+
+—sit, dederítque ei greges et armenta, aurum et argentum, servos et ancillas,
+camelos et asinos. Nos verò contra Deo benedicimus, ab ipso prius benedicti,
+quum ejus erga nos beneficentiam, favorem gratuitum ac misericordiam immensam
+agnoscimus, eúmque propterea celebramus, laudamus, veneramur, adoramus, et
+corde et corpore, et grato ac supplici animi affectu, et voce animi teste et
+indice, et vitâ et opere omni cordi linguæque conformi: ut passim in
+Scripturis, præsertim in Psalmis, dicuntur fideles Deo benedicere, quum ejus
+bonitatem ac beneficentiam, immo reliquas virtutes et attributa divina,
+celebrant, agnoscunt, laudant atque deprædicant. Psal. 103: *Benedicit anima
+mea Jehova, et quidquid in me est, vel omnia intestina mea, nomini sanctitatis
+ejus. Benedic anima mea Jehova, et ne obliviscaris ullius beneficiorum ejus.*
+
+[Marginalia: Psal. 103:1–2.]
+
+Hoc obiter de benedicendi voce annotato, jam propositionem hanc distinctius
+explicemus; ac in eâ primò quasi formam quandam quam præ se fert, deinde verò
+materiam in eâ comprehensam, sive quasi partes ejus materiales, considerabimus.
+
+[Marginalia: Propositionis hujus distincta consideratio.]
+
+Quod ad formam attinet, patet formam habere δοξολογίας sive εὐχαριστίας, h.e.
+gratiarum actionis.
+
+[Marginalia: Formæ explanatio.]
+
+Propositurus enim Apostolus deinceps Ephesiorum benedictiones illas in Christo
+spirituales, adeoque salutis æternæ causas expositurus et ab ipso fonte
+primóque principio arcessiturus, erumpit primo loco in insignem hanc
+doxologiam, h.e. Dei glorificationem sibi familiarem, cui ἀντίρροπον καὶ
+ἀντίτροφον, adeoque planè similem habes, 2 Cor. 1:3 et 1 Pet. 1:3.
+
+[Marginalia: 2 Cor. 1:3; 1 Pet. 1:3.]
+
+Cujus primò, si fontem sive radicem quæramus unde oriatur hæc insignis
+doxologia, è duplici profectò agnitione eam emanasse comperiemus: nimirum ex
+agnitione miseriæ nostræ naturalis, miserrimæque ac maledictæ extra Christum
+Jesum conditionis; et agnitione summæ Dei in Christo misericordiæ et
+beneficiorum ejus gratuitorum, quibus nos è tam profundo miseriæ barathro,
+gurgite sive carcere, in tantam lucem, libertatem, gloriam, in tantam
+dignitatem támque felicem sortem transtulit, ut (o admirandam sortis nostræ
+mutationem!) è Satanæ mancipiis, noctis et orci filiis, filii lucis, immo Dei
+ipsius filii, Christi fratres et regni cælestis hæredes cum ipso, in ipso et
+per ipsum fieremus.
+
+[Marginalia: Ætiologia.]
+
+Quis enim seriò affectus et dejectus animo, primùm peccati ac miseriæ suæ
+nativæ sensu et conscientiâ; quis primò horroribus inferorum et mortis æternæ
+terribili illo aspectu perculsus, deinde verò liberationis illius gratuitæ
+recordatione seriâ rursus erectus et ex ipsis inferis velut in cælum
+gloriosum evectus, gratiæ tantæ sensu intimo perfusus ac refocillatus, non cum
+hoc sancto pectore erumpat statim totis viribus in laudem gloriosæ Dei gratiæ?
+
+[Marginalia: Applicatio.]
+
+Profectò nobis hujus rei Apostolus ipse, Rom. 7, exemplum insigne in suâ
+personâ proponit: quum enim prius tam profundo sensu miseriæ suæ naturalis
+afficeretur, ob reliquias peccati adhuc in corpore ejus mortali habitantes, ut
+valdè patheticè exclamaret, *Miser ego homo, quis me eripiet ex isto corpore
+mortis?* Deinde verò sese proculdubio Christi cogitatione colligeret et
+recrearet, videtis tandem ut in illam gratitudinis vocem, h.e. gratiarum
+actionem, animitus erumpat: *Gratias ago Deo*, inquit, *per Jesum Christum
+Dominum nostrum.*
+
+[Marginalia: Rom. 7:24.]
+
+Aliud non minus illustre documentum ejusdem hujus affectus habemus, 1 Tim. 1,
+ubi quum simul status—
+
+[Marginalia: 1 Tim. 1:17.]
+
+[BSB bsb11059161 | scan 48 | Caput I p. 6 (through Lecture III close)]
+
+—sui miserrimi sub peccati tyrannide et misericordiæ summæ quam erga ipsum
+Deus clementissimus tam magnificè, tam mirificè, tam copiosè exercuerat, ut
+velut exemplar quoddam conspicuum omnibus propositus esset qui in posterum ad
+fidem et gratiam Christi et ad vitam æternam consequendam vocandi essent,
+statim pio quodam gratitudinis ardore succensus exclamat: *Regi seculorum
+immortali, invisibili, Deo soli sapienti sit honor et gloria in secula
+seculorum, Amen!*
+
+Deinde videamus quisnam sit is cui gratias hic agit Apostolus. BENEDICTUS,
+inquit, SIT DEUS ET PATER DOMINI NOSTRI JESU CHRISTI, h.e. Deus is qui Pater
+est Domini nostri Jesu Christi, quemque hâc quasi peculiari notâ ac symbolo à
+falsis diis Gentium et idolis omnibus distinguimus, quod sit Christi Jesu
+Domini nostri Pater, ac proinde fons et origo, sicut ipsius Deitatis, vitæ,
+lucis, gloriæ, bonitatis, ita etiam benedictionis ac beneficii omnis, tam
+spiritualis quam corporei ac terreni: ad quem proinde primo loco, tanquam ad
+primam nostræ salutis causam atque principium et principem boni omnis authorem
+atque datorem, omnes nostræ laudes, benedictiones et gratiarum actiones per
+Christum Mediatorem referendæ sunt ac dirigendæ.
+
+[Marginalia: 2. Is cui gratiæ aguntur.]
+
+Non ergo hic duo diversa subjecta per copulam hanc denotantur, non magis atque
+in illo Davidis, Psal. 18: *Vivit Jehova, et benedicta rupes mea.* Quis enim
+propterea deliret, alium esse Jehovam, alium verò quem Rupem suam, h.e. robur
+ac firmum salutis suæ fundamentum, illic appellat Psaltes?
+
+[Marginalia: Psal. 18:47.]
+
+Hic igitur eodem modo prima Deitatis persona καθ᾽ ἐξοχήν accipienda est, non
+exclusis Filio ac Spiritu Sancto, sicut suprà satis clarè monuimus.
+
+[Marginalia: Ἐπεξεργασία.]
+
+Patris, inquam, persona: de quâ ut hoc loco nonnihil dicamus, ad phrases
+varias quibus eadem in Sacris literis exprimi solet eò distinctius
+intelligendas: aliquando Dei nomine seorsim expressa invenitur, ut illo Joan.
+17: *ut agnoscant te solum verum Deum*, etc.; aliquando Patris nomine seorsim,
+ut passim in Joannis Evangelio; aliquando Dei Patris nomine conjunctim, ut
+versiculo proximè præcedente et passim in salutationibus Apostolicis;
+aliquando Dei et Patris nomine conjunctim per copulam conjunctivam, ut hoc
+loco et alibi passim: ita tamen ut hic quoque reliquas duas personas unà cum
+Patre intelligamus.
+
+[Marginalia: Joan. 17:3.]
+
+Nam sicut ad nobis benedicendum, h.e. ad unam eandémque divinæ benedictionis
+actionem, adeoque ad omnem actionem externam quæ creaturas respicit, omnes
+tres personæ S. Sanctæ Triados, servato suo agendi modo et ordine, semper
+concurrunt; nempe Pater, ut fons et principium omnis operationis, agens per
+Filium et Spiritum Sanctum; Filius, ut causa efficiens ordine secunda, agens
+omnia à Patre per Spiritum Sanctum; et Spiritus Sanctus, ut agens ordine
+tertius, immediatè à Patre et Filio omnia exequens quæ agunt Pater et Filius:
+ita profectò debent in nostrâ benedictione omni, h.e. eâ gratiarum actione quam
+nos Deo tribuimus, semper conjungi; sive expressâ factâ omnium trium Personarum
+mentione, ut cum Deo Patri gratias agimus per Filium in unitate Spiritus
+Sancti; sive reliquas duas, in Dei Patris cujus expressa fit mentio personâ,
+tacitè intelligendo: quod et hoc loco et aliàs passim facit Apostolus.
+
+[Marginalia: Confirmatio.]
+
+Hinc tantum duo nobis observanda venient, ut ita ad reliquam propositionis
+hujus partem pergamus. Primò discrimen illud notandum inter Prophetas et
+Apostolos in vero Deo nobis velut exprimendo, designando ac circumscribendo.
+Siquidem illi sub Legis pædagogiâ ante Christum in carne manifestatum
+degentes, dum Deo gratias agerent, hoc habebant solenne, ut gratias agerent Deo
+Israelis, ut celebrarent Jehovam Deum Abrahami, Jetschaki ac Jahakobi;
+quemadmodum se ipsum olim Mosi in Rubo patefecit, hoc, inquiens, esse *nomen
+suum in seculum, et hoc memoriale suum in omne ævum*.
+
+[Marginalia: Exod. 3:15. Observatio prior.]
+
+Ita igitur meritò Prophetæ verum Deum designabant et ab omnibus Gentium idolis
+hoc suo memoriali distinguebant; vel etiam Deum Exercituum, Jehovam qui fecit
+cælum et terram, indigitantes, et ab admirando illo et immutabili creationis
+opere, aut etiam liberationis ex terrâ Ægypti, circumscribentes. At Apostoli,
+patefacto jam Redemptionis mysterio et secreto illo incomparabili à seculis
+abscondito de incarnatione Filii Dei, jam per Evangelium plenè planéque
+revelato, eundem hunc verum Deum, Jehovam Deum Israelis, Deum Abrahami, Isaci
+ac Jahakobi, alio epitheto sive aliâ, ut ita dicam, novâ et ante Christum natum
+non divulgatâ qualitate designant, dum Patrem Domini nostri Jesu Christi eum
+passim celebrant atque deprædicant. Quamvis enim Judæorum fortassis oculatiores
+quique fateri voluissent in genere et in ipsâ thesi loquendo Deum esse Patrem
+Messiæ sive Christi quem expectabant; tamen esse Patrem Jesu Christi, filii
+Mariæ virginis ab ipsis crucifixi, hujus personæ specialis, in hypothesi
+loquendo, hoc verò blasphemè negabant et extremâ pertinaciâ miserrimè excæcati
+etiamnum pernegant.
+
+[Marginalia: Ætiologia.]
+
+Apostoli ergo, tum ut illud Redemptionis mysterium planè et clarè prædicarent
+in hoc ipso Jesu Christo et per ipsum solum peractum, tum etiam ut nobis
+omnibus ostenderent in quo solo Deus Pater sit nobis Pater placatus atque
+propitius, per quem solum nos aditum habeamus ad Patrem et ad thronum gratiæ,
+adeoque quæ demum Dei cognitio nobis salutaris sit futura, nempe si eum ut
+Patrem Domini nostri Jesu Christi cognoscamus, agnoscamus, agnitúmque
+celebremus; ita Deum nobis, ob summam nostram consolationem atque lætitiam,
+designare solent: quod sit Pater Domini nostri Jesu Christi, ac proinde in ipso
+et per ipsum solum Pater noster clementissimus et benignissimus.
+
+Deinde ex eadem hâc insigni doxologiâ observa, quæso, memorabile hominis
+regeniti à non regenito discrimen. Hic enim, etiamsi beneficiorum Dei copiâ
+circumfluat, tantum tamen abest ut ei propterea gratias ex animo agat,
+concipiátque, ut iis potiùs abutatur ad nominis divini ignominiam, absque ullo
+divinæ beneficentiæ sensu, memoriâ, curâ, cogitatione. Pius autem contra viri
+verè renati animus, Dei amore ac reverentiâ imbuta pectora, nunquam de Dei
+bonis ac donis loquuntur, cogitant aut iis fruuntur, quin ad eum in Christo
+laudandum et gratiam ejus prædicandam animis evehantur et inardescant: immo in
+mediis vinculis et afflictionibus, tantum abest ut cum infidelibus querantur,
+ejulent, expostulent, ut contra spiritualia illa cogitantes, cum Apostolo
+nostro lætentur in vinculis ipsis, sub cruce glorientur, ac Dei nomini toto
+pectore benedicant. Atque hæc de formâ propositionis hujus dicta sunto.
+
+[Marginalia: Observatio posterior.]
+
+[Explicit Prælectio III. The following paragraph, beginning `In manibus nobis
+(Auditores)`, is labeled Prælectio IV and is excluded.]

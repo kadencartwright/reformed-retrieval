@@ -187,4 +187,26 @@ glosses, and full prose.
 - `parts/part-09-chapter-09-latin.txt`
 - `parts/part-09-chapter-09-english.md`
 
-The next unit begins with `CAPUT X` on shared PDF 101.
+**Part 10 is complete and scan-audited as a first working draft.** It contains
+the full Chapter X commentary from `CAPUT X` in the right column of shared PDF
+101 / printed column 177 through the last Chapter X sentence on PDF 125 /
+printed column 225, stopping immediately before the ruled `CAPUT XI`. Latin
+and English have twenty-five identical source markers and retain all
+thirty-two scriptural verse lemmata, analytical structures, Hebrew, Greek,
+citations, early-modern English glosses, and full prose.
+
+- `parts/part-10-chapter-10-latin.txt`
+- `parts/part-10-chapter-10-english.md`
+
+**Part 11 is complete and scan-audited as a first working draft.** It contains
+the full Chapter XI commentary from `CAPUT XI` in the right column of shared
+PDF 125 / printed column 225 through the last Chapter XI sentence on PDF 164 /
+printed column 302, stopping immediately before the ruled `CAPUT XII`. Latin
+and English have forty identical source markers and retain all thirty-one
+scriptural verse lemmata, analytical structures, Hebrew, Greek, citations,
+early-modern English glosses, and full prose.
+
+- `parts/part-11-chapter-11-latin.txt`
+- `parts/part-11-chapter-11-english.md`
+
+The next unit begins with `CAPUT XII` in the left column of shared PDF 164.

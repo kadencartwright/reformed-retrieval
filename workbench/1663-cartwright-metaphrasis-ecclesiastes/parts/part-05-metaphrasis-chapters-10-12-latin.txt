@@ -8,7 +8,7 @@ subsidium est. Longum s, ligaturae, divisiones in fine linearum, atque usus
 typographicus u/v normalizantur. Haec pars incipit in imagine PA65, pagina
 dextra, a titulo `Caput X`, continet integrum textum imaginum PA67–PA79,
 atque in imagine PA81 desinit in summis paginis 81–82 post finem capitis XII
-et ante titulum `Homiliae in Ecclesiasten`. Editio `Caput VI` pro capite XI et
+et ante titulum `Homiliae in Ecclesiastem`. Editio `Caput VI` pro capite XI et
 `Vers. 20` pro versu 10 capitis XII typis exprimit; utrumque infra
 annotatione `[sic]` servatur.
 
@@ -456,7 +456,7 @@ conniti debet, utpote quod perfectam & omnibus suis numeris absolutam
 felicitatem contineat. Quae una si adsit, ut reliqua absint omnia, hominem
 plenè beatum reddunt: si absit, ut caetera omnia adsint, vana & futilia sunt.
 
-[Google Books pthrWjdL0BgC | reader image PA81 | printed pp. 81–82 | ends at top of p. 82 before Homiliae in Ecclesiasten]
+[Google Books pthrWjdL0BgC | reader image PA81 | printed pp. 81–82 | ends at top of p. 82 before Homiliae in Ecclesiastem]
 
 VERS. 16. Nam omne opus Deus ipse adducet in judicium cum omni re occulta,
 sive bonum, sive malum.
@@ -469,4 +469,4 @@ occulta sunt, unusquisque secundum quod bonum aut malum in hoc corpore gessit,
 à Deo justissimo judice mercedem accipiet.
 
 [Finis Partis 05 et Metaphraseos. Sequens pars incipit in imagine PA81 post
-lineam divisivam a titulo `Homiliae in Ecclesiasten`, capite I.]
+lineam divisivam a titulo `Homiliae in Ecclesiastem`, capite I.]

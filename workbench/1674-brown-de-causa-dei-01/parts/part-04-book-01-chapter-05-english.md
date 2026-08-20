@@ -94,7 +94,7 @@ unceasing, domestic Furies, which day and night exact penalties from the most
 criminal.” And in *On Ends*, book 2: “Wickedness never allows him to breathe,
 never to rest.” Again in the same place: “The guilty pay penalties not so much
 by judgments as by anguish of conscience and the torment of fraud.”
-Tarquitius the Epicurean likewise says in Cicero, *On Ends*, book 1: “We think
+Torquatus the Epicurean likewise says in Cicero, *On Ends*, book 1: “We think
 wickedness should be avoided not only because of the disadvantages that befall
 the wicked, but much more because it never allows the person in whose mind it
 dwells to breathe or rest.”
@@ -199,7 +199,7 @@ far-fetched to say that by “constant and perpetual will” Ulpian or Justinian
 designates a habit of the will, or a virtue residing in the will, by which a
 person is disposed readily to render to each what is just and equitable. Ames
 rejects it for this and other reasons which may be seen in *On Conscience*,
-book 5, chapter 1, sections 1–3.
+book 5, chapter 2, sections 1–3.
 
 They commonly distinguish justice into *general* and *special*. General
 justice is occupied with every virtue, or contains in itself all the virtues
@@ -682,7 +682,7 @@ pleases him is lawful?
 
 Second, on this account he will at least make us equal to beasts in that state
 and affirm that beyond the sensuality or animality common to us with brute
-animals we shall have nothing. Lactantius, book 6, speaks far otherwise: “In
+animals we shall have nothing. Lactantius, book 5, speaks far otherwise: “In
 all animals which lack wisdom we see nature reconciling each to itself. They
 injure others in order to benefit themselves, for they do not know that it is
 evil to injure. But a human being, because he has knowledge of good and evil,

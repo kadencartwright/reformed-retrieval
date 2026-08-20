@@ -1,0 +1,526 @@
+# Samuel Rutherford, Examen Arminianismi (1668)
+
+## Caput II, pars tertia — transcriptio Latina normalizata
+
+[Nota editorialis: Haec transcriptio diplomatica-normalizata, ope instrumentorum
+computatralium confecta, nondum a perito recognita est. Imagines editionis 1668
+textum regunt; OCR tantum subsidium est. Pars incipit in communi pagina 162 a
+`TITULUS QUARTUS, De Scientia Dei`, Titulum quartum integrum et primas quinque
+quaestiones Tituli quinti complectitur, atque in communi pagina 181 post
+argumentum decimum de immutabilitate Dei desinit, ante novum lemma `MATTH.
+6.10.`]
+
+[Nota de erratis: Tres correctiones ex indice erratorum, PDF 52, receptae sunt:
+p. 165, ll. 18–19, `finaliter credituri` pro impresso `similiter credituri`;
+p. 175, l. 15, `sit Dei` pro `sit Die`; et p. 180, ll. 18–19, `Verbum` pro
+`Vercum`. Nulla alia correctio in indice huic unitati competit.]
+
+[1668 KBNL/UvA witness | logical printed p. 162 | PDF p. 213 | shared start after Part 10]
+
+TITULUS QUARTUS,
+
+De SCIENTIA DEI.
+
+ACTOR. 15.18.
+
+Nota sunt Deo, omnia opera ipsius à principio Mundi, vel, ab aeterno.
+
+Quaeritur, An sit in Deo Scientia Media, mixta, seu conditionata? h. e. Scientia
+rerum extra Deum, quae quoad ipsorum futuritionem, à Deo minimè pendeant; quae
+nec sit Scientia Visionis, nec Simplicis Intelligentiae? Ajunt Arminiani. Jac.
+Arminius, disp. 4. thes. 43, 45. Quanquam (inquit) mediam illam (Scientiam)
+intervenire necesse sit in rebus, quae à Libertate Arbitrii pendent. Ità sentiunt
+quoque Pelagianizantes Papistae, imprimis Jesuitae; Ruiz. 1. Tho. de Scientia
+Dei, disp. 49. sect. 2. Vasquez in 1. Thom. disp. 67. q. 14. art. 13. c. 3.
+Fasolus, tom. 1. q. 14. art. 13. Arrubal, tom. 1. q. 14. art. 13. disp. 46.
+Arriaga, disp. Logic. 14. sect.
+
+[1668 KBNL/UvA witness | logical printed p. 163 | PDF p. 214]
+
+6. Less. de grat. effic. Lud. Molina in 1. p. Thomae q. 14. art. 13. disp. 17. &
+in liberi arbitrii cum gratiae donis concordiâ disp. 52.
+
+Scientia est duplex (ut nihil dicam de Scientia reflexa, planè naturali, quâ Deus
+novit seipsum) alia Visionis, seu intuitiva, seu determinata, quâ Deus omnia
+entia extra se, quae sunt, fuerunt, aut futura sunt, vel non sunt, novit. Alia
+Simplicis Intelligentiae, quâ possibilia novit; & vocatur naturalis,
+indeterminata, abstractiva. Sed Scientia Media, quâ Deus cognoscit futura
+contingentia, quae futura sunt ex tali hypothesi, ante omne Dei decretum, est
+blasphemum commentum.
+
+1. Quia daretur alia causa, cur ab aeterno res possibiles coeperint esse futurae,
+& transierint è statu possibilitatis ad statum futuritionis, praeter Dei
+voluntatem; quae causa esset non-ens, aut fortuna, si Deus viderit res futuras
+ante suum decretum.
+
+2. Daretur aliqua causa temporalis rei aeternae (rerum enim futuritiones sunt
+aeternae, nec incepit futurum esse futurum) vel futura non haberent causam
+omninò, si futura essent, & praescita ut futura, ante Dei Voluntatem.
+
+3. Quia multae sapientes connexiones admirandae Sapientiae Dei, & Providentiae;
+quales sunt hae (si Jobus spoliabitur à Satanâ, humiliter se Deo subjiciet; Si
+Judas tentabitur, Christum prodet; Si Ecclesia opprimetur, credet & ora—
+
+[1668 KBNL/UvA witness | logical printed p. 164 | PDF p. 215]
+
+—bit. Hae, (inquam) connexiones, omnem actum Dei Voluntatis, & Scientiae Mediae
+antecedent.
+
+4. Quia fato cogetur Deus, entia futura, antecedenter ad decretum suum,
+approbare; quippè, eorum futuritionem, nec procurare, nec permittere potest.
+Ideòque nullum constabit Deo, Dominium Providentiae in actus contingentes,
+quippè, futuritionem habent, ante actum omnem divinae Voluntatis; ac proindè,
+ante actum Praescientiae & Omnipotentiae.
+
+5. Quia in iis malis, quae nobis obveniunt ministerio causarum contingentium,
+nulla solatia petenda sunt à Dei Voluntate: quia futura erant fataliter, ante
+omne Dei decretum.
+
+6. Quia nulla spes, oratio nulla, concipi debet, vel pro procuratione bonorum
+contingentium, vel malorum contingentium aversione; si citrà Dei Voluntatem
+eveniunt, & futura sunt, Deo non volente.
+
+7. Quia determinatus numerus actuum contingentium; & conversionum &
+non-conversionum supernaturalium ad Christum vocantem in Evangelio, erit
+absolutè penes liberum Arbitrium creatum, non penes Deum, & ejus Voluntatem:
+Quia conversiones tot & non plurium, & non-conversiones tot & non plurium,
+futurae sunt ante omnem Dei Voluntatem; & non potest Deus plures convertere
+quàm convertit, nec
+
+[1668 KBNL/UvA witness | logical printed p. 165 | PDF p. 216]
+
+plures non-convertere quàm non convertuntur. O ferream Fortunam, quae in
+Jehovam, dominatum obtines!
+
+8. Quia non-scibile, quale est id, quod futurum est sine Voluntate primae causae,
+per hanc Scientiam supponitur ut scibile, & ut actu futurum, & ut actu scitum,
+quod tamen est merè possibile, nec quid ultra. Nam res, ante Voluntatis divinae
+actum, sunt tantùm possibiles, & nullo modo futurae, sed ad futuritionem aut
+non-futuritionem indifferentes; & sic sciri non possunt ut futurae, non magis
+quàm non-visibile videri, & non-audibile audiri potest.
+
+9. Quia certus & determinatus numerus Electorum & non-Electorum, non penderet à
+Dei Voluntate; sed vel à Fortunâ, vel à Libero Arbitrio creato. Nam ante omne
+Dei Decretum, tot & non plures, non pauciores, sunt finaliter credituri,
+ideòque salvandi; & non plures non pauciores, finaliter Deo vocanti,
+repugnaturi, ideòque damnandi.
+
+10. Futura sunt futura à seipsis, non à Dei Voluntate; non-futura sunt
+non-futura à seipsis, non à Dei Voluntate; quod omnem Providentiam evertit. Nam
+penes Deum non erit certus & determinatus numerus omnium actionum contingentium,
+omnium aerumnarum & successuum foelicium, quae eveniunt ministerio causarum
+contingentium; & omnium actuum libero—
+
+[1668 KBNL/UvA witness | logical printed p. 166 | PDF p. 217]
+
+—rum, hominum electorum, reproborum; & Angelorum, bonorum & malorum. Omnia enim
+haec, sunt futura, & praescita ut futura, per Scientiam Mediam, ante omnem actum
+divinae Voluntatis.
+
+Quaeritur, An non Deus per scientiam mediam praesciverit Tyrios convertendos, si
+miracula vidissent? Keilitas tradituros Davidem in manus Saulis, si inter
+Keilitas permansisset? & exteras Nationes audituros Ezechielem, si ad ipsas
+fuisset missus? Ajunt Arminiani & Jesuitae. nos negamus.
+
+1. Haec videt infallibiliter futura, in Decreto suo concatenante conversionem
+Tyriorum, & visionem miraculorum.
+
+2. Quia haec videt in Decreto suo, quod decrevit ipsis dare gratiam, quâ
+converterentur.
+
+3. Quia haec videre non potuit, in ipsâ lubricâ & pendulâ connexione inter duo
+quae contingenter eveniunt, & cohaerent inter se contingenter, non per se, nec
+ullâ necessitate. Oportet, ergo, ut vinculum concatenans sit Dei decretum
+fortissimum; alioqui Deus certò sciret id, quod non est scibile.
+
+HEBR. 4.13.
+
+Omnia nuda sunt, & aperta ei, quocum nobis res est.
+
+Quaeritur, An Deus certò praesciat futura contin—
+
+[1668 KBNL/UvA witness | logical printed p. 167 | PDF p. 218]
+
+—gentia? Dubitant Remonstrantes. Episcopius, thes. 10. sect. 4. de Deo; ait, An
+Deus praesciat futura contingentia, scitu non esse necessarium ad hoc, ut Deus
+colatur. Apol. c. 2. fol. 43. Certum est Remonstrantes credere contingentia
+(futura) quà talia, praecisè sumpta, non cognoscibilia; ac proindè, inter
+objecta divinae Omniscientiae, referenda non esse. Contingentia, ut futura, ex
+decreto non sunt contingentia, sed necessaria; nec cognosci à Deo poterunt. Hic
+Cicero in ipsis loquitur, qui praescientiam futurorum Deo ademit, nè libertas
+creaturae periret; & nè homines fierent servi (ut ait Augustinus) sacrilegos
+fecit.
+
+Nos contra Diabolum & Arminianos, & omnes Ethnicos & Socinianos profitemur, nos
+colere verum Deum, omnium futurorum praescium.
+
+1. Quia Deus non est Deus, sed Idolum, si futura omnia non praesciat. Isa.
+41.26. Quis indicavit indè à principio, ut cognosceremus? aut inde ab
+antiquitate, ut diceremus, justus est? neque ullus est qui indicet, neque ullus
+qui praenunciet. Isa. 42.8, 9. Ego sum Jehovah; illud est nomen meum; & gloriam
+meam alteri non dabo, nec laudem meam sculptilibus. Priora, ecce, evenerunt, &
+nova ego indico, cùm nondum exoriuntur, pronuncio vobis. At sunt futura
+contingentia, cùm nondum exoriuntur. Isa. 41.22. Proponant & indicent nobis,
+quae obventura sunt: priora quaenam sint indicate. — v. 23. Indicate quae
+eventura sint, ut cognoscamus vos esse Deos. Deus, ergo, non est Deus, si
+praescius non est futurorum contingentium. Psal. 139. Intelli—
+
+[1668 KBNL/UvA witness | logical printed p. 168 | PDF p. 219]
+
+—gis cogitationem meam è longinquò. v. 4. Quum nondùm est sermo in linguâ meâ,
+O Jehovah, nosti ipsum totum. v. 16. Massam meam vident oculi tui, & in libro
+tuo, haec omnia scripta sunt; ex quibus diebus formabantur, quum nondum ullum
+ex iis extaret.
+
+2. Periret omnis certitudo vaticiniorum, & fallax esset Fidei Fundamentum &
+objectum de futuris contingentibus, si Deus noster nec sciret, nec scire posset,
+futura contingentia.
+
+3. Deus praedixit, quae ignoravit, in toto V. T. & sic nesciret Filium
+crucifigendum, manus & pedes fodiendos esse, sortes super vestibus jaciendas,
+Evangelium praedicandum.
+
+4. Nescit futura contingentia, antequàm sunt: Ergo, si cognoscit ea, quandò sunt,
+aliquid cognoscit in tempore, quod ab aeterno ignoravit: Accrescit Dei scientia,
+& plura jam cognoscit, quàm ab aeterno cognovit: quod blasphemum est.
+
+5. Si Deus futura contingentia, ab aeterno non cognovit, nec ab aeterno, ea
+fieri decrevit, & incipiunt in Deo, nova scientia, volitiones novae, & nova
+decreta; nulla, ergo, sunt futura, sed omnia sunt merè possibilia.
+
+6. Vanae sunt argumentationes Spiritus Sancti; Deus haec decrevit haec; ergo,
+futura sunt; vel, ergo, Deus decrevit fieri, quae ignorat, quod stultum esset in
+homine prudente; vel, omnia quae decrevit, ea ità decrevit, ut maneant possi—
+
+[1668 KBNL/UvA witness | logical printed p. 169 | PDF p. 220]
+
+—bilia, quae possunt esse vel non esse.
+
+7. Corruit decretum Electionis, ex praescitâ fide; & reprobationis, ex praescitâ
+infidelitate. Nam Fides & infidelitas, sunt futura contingentia; & Deus hodiè
+ignorat, qui & quot salvandi sunt, & qui & quot damnandi sunt, ex Arminianorum
+sententiâ.
+
+8. Frustrà David, Josophatus, Achabus, frustrà Sacerdotes & Prophetae Dei, &
+nullâ fide, Deum, de futuris contingentibus consuluerunt.
+
+9. Malè hîc Arminiani, Aristoteli adhaerent, qui dixit, de futuris
+contingentibus, non datur determinata veritas; qui vel loquitur de veritate
+quoad nos, qui ignoramus veritatem talium in materiâ non-necessariâ; vel si in
+Dei decreto, nullam determinatam veritatem agnoscit, turpiter erravit.
+
+TITULUS QUINTUS,
+
+De VOLUNTATE DEI,
+
+ejusque certâ executione.
+
+Quaeritur, An decreta & liberae volitiones, & actiones in Deo, sint quid diversum
+à Dei Essentiâ; & falsum sit illud Theologorum nostrorum, quicquid est in Deo,
+est Deus; item, an in Deo ulla sint accidentia? Ajunt Arminiani, praesertim
+Vorstius, Apol. pag. 43.
+
+[1668 KBNL/UvA witness | logical printed p. 170 | PDF p. 221]
+
+Nos negamus. 1. Quia volitiones Dei, licèt non sint extrinsecae denominationes,
+sed vitales actiones Dei, tamen duo includunt. 1. Essentiam Dei, tali modo sese
+habentem. 2. Relationem rationis ad res extra Dei voluntatem: id dici potest
+suo modo, de actibus externis Dei; & sic volitio Dei, est tantùm Deus volens per
+se, & per Essentiam suam, & non per potentiam volitivam ab actu distinctam;
+prout est in nobis: & res volitae ad extra, imò res creatae, conservatae, &
+opera Dei ad extra producta, nihil novi in Deo ponunt; sicut esse dextrum vel
+sinistrum, nihil in homine ponit, sed supponit novum situm alterius corporis
+extra hominem, ad ejus latus dextrum vel sinistrum.
+
+2. Quia quicquid Deo additur, praeter, vel ultra Essentiam, id vel est substantia
+vel accidens. Nulla substantia, infinitae Dei Essentiae addi potest: quia sic
+infinitus non esset. Nec aliquod accidens, Deo, de novo advenire potest: nam in
+eo nulla sunt accidentia, quia nulla compositio in eo esse potest, ex accidente
+& subjecto; nulla qualificatio nova, Deo accedere potest, per accessum vel
+recessum novi accidentis, quia Deus sic mutaretur.
+
+ROM. 9.19.
+
+Voluntati ejus, quis restitit?
+
+Quaeritur, An sit in Deo Voluntas antecedens & consequens? Ajunt Arminiani.
+
+[1668 KBNL/UvA witness | logical printed p. 171 | PDF p. 222]
+
+Sed 1. Si Voluntas antecedens esset de fine, à Deo, proposito, consequens de
+mediis ad finem; agnosceremus distinctionem.
+
+2. Si antecedens Voluntas esset tantùm complacentia rei per se gratae, ut
+coincidit cum voluntate signi approbante, & obligante nos ad officium nostrum:
+Et Voluntas consequens, cum Voluntate beneplaciti; sic amplecteremur
+distinctionem.
+
+At Arminianis, Voluntas antecedens, est Deo desiderium naturale expers
+efficaciae, quo naturaliter desiderat obedientiam & salutem omnium mortalium;
+eam tamen minimè efficit: idque quatenus sunt creaturae, nihil dum commeritae.
+Consequens est, quâ vult Deus quorundam obedientiam & salutem; si, nempe,
+vocatione dignos, se praestiterint: sin minus, iis negat media externa, &
+salutem. Sed haec distinctio non est ferenda.
+
+1. Quia si Deus vult antecedenter, omnes obedire & salvari, & tamen pauci
+obediant & salventur; tum erit in Deo voluntas inefficax, & non, infinitâ
+potentiâ, armata; & non faciet quodcunque voluit in Coelo, & in terris. Quod
+est contra Rom. 9.19. Psal. 135.6.
+
+2. Quia sic Deus non miseretur, quorum vult: & quos vult, indurat: juxta Rom.
+9.18. Nam voluntas antecedens, libera non est; consequens est restricta
+Justitiae immotae regulâ, quâ Deus non potest non agere secundùm rationem
+merito—
+
+[1668 KBNL/UvA witness | logical printed p. 172 | PDF p. 223]
+
+—rum, & demeritorum, nisi suae Justitiae vellet renunciare.
+
+3. Voluntas naturalis, quâ Deus, naturae impetu, benè vult creaturis, est
+aeterna: indè sequitur, Deum adhuc etiam hodiè velle obedientiam & salutem
+Diabolorum, & hominum reproborum, aeternis cruciatibus adstrictorum; quod
+absurdum est.
+
+4. Quia absurdum est, Deum id antecedenter velle ab iis, quos finaliter
+repugnaturos gratiae, praesciens peremptoriè & irrevocabiliter reprobavit, vel
+fieri, vel salutem iis contingere. Quia hic amor rei, quam scimus nos nunquàm
+assecuturos, etiam imperfectionem & infoelicitatem, in hominibus redolet. Ergo,
+non est talis amor in Deo.
+
+5. Quia Voluntas antecedens impleta, mutatur in consequentem: vel non impleta,
+fine suo excussa, desinit esse voluntas; utì miseri homines, quae multotiès in
+votis habuerunt, ulteriùs desiderare desinunt, eorum optationes evanescunt:
+Quod Deum mutabilem facit.
+
+6. Quia non est absolutè beatus, qui votorum suorum, compos esse nequit. Sed
+talem, Voluntas antecedens Deum facit.
+
+7. Quia voluntas antecedens est temeraria, & cognitionis finis praeintenti
+expers; & Deus multa intendit antecedente voluntate, secundùm nullam
+praescientiam finis, ut volunt Ar—
+
+[1668 KBNL/UvA witness | logical printed p. 173 | PDF p. 224]
+
+—miniani. At voluntas expers cognitionis, est appetitus brutus, caecus,
+temerarius, & sensitivo deterior.
+
+8. Velle iis antecedenter salutem, quibus salus non est meritis Christi parta,
+& qui stadium obedientiae nondum decurrerunt, est tàm alienum à Justitiâ,
+secundum Arminii regulam Justitiae regulantis Dei Voluntatem, quàm Deum
+decernere coronam ei, qui nondum pugnavit: quòd peccat, secundùm illum, in
+Justitiam.
+
+9. Deus tàm solidâ cum ratione, omnium mortalium aeternum exitium, vult
+antecedenter, quia est bonum Justitiae, quàm vult omnium salutem, quia est bonum
+creaturae. Imò bono creaturae, ex Arminio, praeponderat bonum Justitiae.
+
+10. Quia Deus non tantùm desinit velle, quod semel antecedenter voluit, sed
+etiam, id ex justitiâ, positivè non vult, cujus contrarium anteà voluit, oravit,
+& se facere velle, juravit.
+
+11. Voluntas antecedens est propriè dicta optatio illius; & pari ratione, erit
+in Deo inanis spes illius rei, quae nunquàm fit; & dolor de re amissâ, quam
+fieri voluit.
+
+12. Quia more naufragi inviti, merces in mare projicientis, Deus cogitur à
+Voluntate antecedente, ad consequentem vela retorquere; utì pater filium, quem
+unicè dilexerat, cogitur incorrigibili ipsius pertinaciâ, exhaereditare.
+
+[1668 KBNL/UvA witness | logical printed p. 174 | PDF p. 225]
+
+13. Voluntas consequens circa impios & hypocritas, qui longè maximum hominum
+numerum faciunt, est vera poenitentia, nata ex dolore non obtentae rei
+antecedenter volitae. Ideò Deum invitum, & contra suam propensionem naturalem,
+punire, docent.
+
+14. Voluntas antecedens est dubia, incerta, & suspensa ab eventu obedientiae
+creaturae.
+
+15. Voluntati Dei resisti non potest. At Voluntati antecedenti, homines &
+Diaboli indies resistunt.
+
+16. Voluntate antecedente, i. e. affectu naturali, plures myriades Mundorum,
+Angelorum, Hominum, creare voluit; quae voluntates, citra omnem rationem, in
+Deo in aeternum sunt frustraneae.
+
+ROM. 9.18.
+
+Cujus vult, miseretur; quem autem vult, indurat.
+
+Quaeritur, An misereri, & benefacere, sit Deo essentiale, & tam necessarium,
+quàm Soli, illuminare? Ait Jacksonus, Anglus, cum antiquis Anabaptistis.
+
+Nos negamus. 1. Quia Libertas, salva Deo constat, in distribuendo de suo, uti
+vult. Matth. 20.15.
+
+2. Quia ità misereri, ut tolleret & penitùs expugnaret finalem omnium duritiem,
+esset Deo necessarium & sic etiam certò fieret. At contrarium, experientia &
+Scriptura docet.
+
+[1668 KBNL/UvA witness | logical printed p. 175 | PDF p. 226]
+
+3. Quia, citra ullam vim illatam naturae suae, Deus non vult multorum misereri,
+sed ut Apostolus ait, vult eos indurare, etsi naturâ & demeritis, aliis pejores
+non sint.
+
+Quaeritur, An Deus puniat homines nolens, & contra suam naturalem, ad
+miserandum, propensionem? Ajunt Remonstrantes.
+
+Nos negamus. 1. Quia actus Justitiae, tàm consoni sunt sanctae Dei Naturae,
+quàm actus Misericordiae; & tàm naturales sunt illi, quàm hi. Exod. 34.6, 7.
+
+2. Quia Deus tam propriè (si modò hîc non sit figura) ridet interitu impiorum;
+quàm gaudio exultat, salute piorum. Prov. 1.26.
+
+3. Licèt exercitium Misericordiae, sit Dei Bonitati quoad nos convenientius;
+attamen tàm essentiale est Attributum Justitiae, quàm Misericordiae. Exod.
+34.6, 7.
+
+4. Deus omnia agit secundum consilium suae voluntatis. Nihil, Ergo, invitè, aut
+contra propensionem suam agit. Ephes. 1.11.
+
+JACOBI I.17.
+
+Apud quem, non est mutatio, nec transmutationis umbra.
+
+Quaeritur, An Deus sit immutabilis? Arminiani negant eum esse immutabilem.
+Corvin. contra Molin. 6, 5. f. 10. Dici potest, decreta hypothetica, per partes
+seorsim accepta, mutari: quia conditio, respectu hominis, vel praestatur, vel
+non praestatur; at—
+
+[1668 KBNL/UvA witness | logical printed p. 176 | PDF p. 227]
+
+—que ità vel existit aliquandiù, diù etiam existere desinit, rursus incipit. Ità
+Vorstius, Amica dupl. c. 1. p. 6. Sic docent Deum, intentione suâ excidere, &
+intentionem primariam, in secundariam mutari. Apol. c. 9. fol. 105. Possunt
+homines, Electionem suam irritam & frustraneam reddere; — & consilium Dei
+irritum reddere. Distinguunt electionem in peremptoriam & irrevocabilem; &
+non-peremptoriam & revocabilem.
+
+Nos docemus, in Deum nullam cadere mutationem; nec subjectivam, quia infinito
+nihil addi, nihil adimi, & nihil aequè bonum, ei accidere potest. Bradwardinus
+de Causâ Dei lib. 1. cap. 1. fol. 6. Nec mutabilitas terminativa, potest Deo
+tribui: quia dicit de seipso, Ego sum, qui sum; Quae mutantur, non sunt nec
+manent, quae sunt. Immutabilitas terminativa, est quâ Dei Intellectus &
+Voluntas, non mutatur ex mutatione objecti intellecti & voliti; nec ex mutatis
+effectibus extra Deum. Non simpliciter, quia Deus non mutat judicium; & nihil
+incipit esse bonum Deo, quod antè non videbatur ei esse bonum; ut docent
+Scholastici. Quia haec ratio mihi non probatur, quia cum Deus res omnes
+possibiles intueatur, & ex merâ libertate eas velit, non propter bonitatem quam
+videt in ipsis rebus (Nam res volitae non sunt Deo formalis ratio volendi;
+quippè Deus, res extra se, non vult, ideò quod sunt bonae, sed ex suâ intrinsecâ
+li—
+
+[1668 KBNL/UvA witness | logical printed p. 177 | PDF p. 228]
+
+—bertate) ideò, non quia res incipiunt esse Deo bonae, cum anteà videbantur ei
+non bonae, sequitur mutatio ex passione, aut morali inconstantiâ: Sed quia purum
+τὸ velle, mutaretur in purum τὸ nolle, ex intrinsecâ suâ libertate; ideò esset
+in Deo mutatio terminativa. Imò, si Deus ex duobus rectè cognitis, unum
+cognosceret ut majus bonum, & id eligeret; & alterum posteà ut minus bonum, &
+id eligeret, repudiato priore; nulla esset in Dei Intellectu mutatio, ac proindè
+nec mutatio in Voluntate, ex diversis cognoscendi actibus, quia aequè utrumque
+objectum cognoscit; esset tamen mutatio, quia Dei Voluntas, non eodem modo,
+nunc ergà hoc objectum, & anteà ergà illud se haberet; sed Scriptura arguit à
+Dei Immutabilitate ad immutabilitatem rei volitae: Ideòque si illud vellet, &
+posteà illud non vellet; esset in eo terminativa mutatio. Mal. 3.6. Quia ego
+Jehovah non mutor, ideò vos filii Jaakob non consumpti estis. Ergo, si res extra
+Deum mutarentur, & aliter se haberent, quae Deus non sic esse semel decreverat;
+esset Deus terminativè mutatus. Ideòque si filii Jaakobi consumpti fuissent,
+quos Deus non consumendos decreverat, Jehovah mutaretur. Sic 1 Sam. 15.29.
+Fortitudo Israëlis non faciet mendacitèr, neque poenitebit eum. Ergo, stat
+sententia Dei de te rejiciendo, & Davide ad thronum cooptando: Ergo, fortitudo
+Israelis, si Saulus non fuisset re—
+
+[1668 KBNL/UvA witness | logical printed p. 178 | PDF p. 229]
+
+—jectus à throno, quem Deus rejectum voluit, fecisset mendacium, & poenituisset
+eum. Ideò terminativa mutatio, Deo non est ascribenda: nec potest Deus ei
+gloriam velle hodiè, cui gloriam non voluit heri.
+
+2. Quia, Psal. 33.10. Jehovah irritum facit consilium gentium, infringit
+cogitationes populorum. v. 11. Consilium verò Jehovae, in seculum consistit,
+cogitationes animi in omnes aetates. Isa. 46.10. — Consilium meum stabit, &
+omnem delectationem meam faciam. Rom. 9.19. Quis enim est, qui resistat
+voluntati ejus? Heb. 6.17. Deus volens ostendere consilii sui immutabilitatem
+&c.
+
+3. Deus non est in potentiâ ad ullam rem; sed ab aeterno, ipsius Voluntas
+determinata fuit ad omne volibile, & nolibile, licèt res extra Deum, aliter se
+habere potuerint. Nam nullum est volibile, nullum nolibile, quin ab aeterno, id
+vel voluerit, vel noluerit Deus. Nec incipit, de novo aliquid velle, aut de novo
+nolle.
+
+4. Blasphemum est id Vorstii de Deo in Notis ad disp. 6. thes. 34, 35. Quae verò
+indefinita Deus relinquit (nempe, quae sub nostrum Liberum arbitrium cadunt) de
+iis nulla est certa Dei Voluntas. Quia Dei Voluntas in aequilibrio & in bivio
+esset, donec res contingentes actu existerent vel non existerent; & maneret
+Voluntas vertibilis ad nutum causae contingenter operantis: id quod
+Remonstrantes suprà dixerunt, cùm contingen—
+
+[1668 KBNL/UvA witness | logical printed p. 179 | PDF p. 230]
+
+—tia futura, nec sciri, nec necessariò futura esse, respectu divinae voluntatis,
+existiment.
+
+5. Nec obstat, quod Deus Cultum Ceremonialem ab aeterno voluit, & is Cultus jam
+desierit; quia ab aeterno in aeternum vult Cultum illum durare ad tempus. Sed
+ejus volitio, ex eo non probatur temporalis, aut jam evanuisse, quia jam vult
+eum Cultum ad tempus.
+
+6. Quia blasphemum est, Deum aliquid de novo velle, vel de novo nolle (ut si de
+novo, incipiat Deus velle & destinare ad gloriam, hominem, quem ab aeterno ad
+gloriam non destinârit; & rursus desinere Petrum ad gloriam destinare, quem ab
+aeterno ad gloriam destinavit) Quia sic vera in Deum poenitentia, nova volitio,
+nova frustranea intentio, succederet aliis multis antiquis volitionibus, quae
+in eo antè fuerunt. Ideò nostri Theologi argumentantur Deum non esse mutabilem,
+quod nihil possit ejus Scientiae aut Volitioni, novum videri; ita ut id judicet
+bonum, quod anteà judicavit non-bonum, propter novam in objecto suborientem
+rationem. At si amet Petrum ad gloriam aeternam, quem anteà odio habuit ad
+mortem, aut contrà, propter novam in objecto suborientem rationem, quia credit,
+& rursus non credit; verè mutatur: ut nostri omnes arguunt. Et per eandem
+rationem, in Deo non est intentio primaria, quâ interdum excidit, & ei succedens
+intentio se—
+
+[1668 KBNL/UvA witness | logical printed p. 180 | PDF p. 231]
+
+—cundaria. 1. Quia Job. 23.13. Quod animus Dei cupit, id efficit.
+
+2. Quia consilia Dei, aeterna sunt & immutabilia. Psal. 33.11. Isa. 46.10.
+
+3. Quia fine excidere, est in creaturis miseria & poena; Job. 22.28. Psal.
+33.10. Isa. 8.9. Job. 5.12, 13.
+
+4. Voluntati Dei resisti non potest. Dan. 4.35. Rom. 9.19. Psal. 113.5. etiam in
+iis quae fiunt per causas contingentes; uti loca illa probant.
+
+5. Quia alienum est ab infinitâ sapientiâ, ut id velit, intendat, cupiat, oret,
+supplicet & optet, ut docent adversarii, quod se nunquàm assecuturum esse novit;
+cum posset siquidem vellet, id assequi: id enim in hominem prudentem non cadit.
+
+6. Quia movet Paulus eandem objectionem. Rom. 9.6. An excidit sermo Dei? An Dei
+Verbum & foedus cum Abrahamo initum de salute obtinenda excidit? hoc est; An
+Dei intentio illo foedere expressa, irrita est? Et respondet vers. 6. Non
+excidere Verbum foederis. Et negat hanc sequelam; Israel excidit (nempe, Israel
+secundùm carnem) Ergo, foedus & intentio Dei excidunt. Quia intentio Dei erat
+de salvandis, non filiis secundum carnem, sed filiis promissionis.
+
+7. Quia summa est imperfectio, & dependentia divinae Voluntatis, quòd excussus
+fine primario, alium finem per accidens intendat: quasi superatus à creaturâ.
+
+[1668 KBNL/UvA witness | logical printed p. 181 | PDF p. 232 | stop before MATTH. 6.10.]
+
+8. Intentio secundaria supponit aliquid evenire praeter intentionem Dei;
+ideòque fortuitum respectu Dei.
+
+9. Quia Deus etiam praefractos, & in peccatum contra Spiritum S. lapsos, vocare
+non desistit. An, ergo, obedientiam & salutem eorum intendit? Si non intendit;
+malo dolo, & voluntate simulatâ & fictâ, secundùm Adversarios, eos vocat. Si
+intendit; non potest hîc Deus habere primariam intentionem, ut fatentur
+Adversarii, Ergo, hîc non valet ea distinctio, & pari ratione, nec in vocatione
+aliorum.
+
+10. Quia intentio primaria in secundariam mutata, arguit mutationem divinae
+voluntatis.
+
+[Finis Partis 11. Sequens unitas incipit in eadem pagina a `MATTH. 6.10.`]

@@ -557,4 +557,3 @@ manifestum faciemus.
 
 [Finis Partis 03 et Capitis IV. Regula typographica in hac pagina sequitur;
 titulus `CAP. V.` in pagina impressa 49 incipit atque excluditur.]
-collectione: quo sensu dicimus jus esse *artem aequi & boni*. Vel pro *statu aut

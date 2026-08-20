@@ -410,3 +410,190 @@ excluded.
 - This unit is shorter than the usual target because the next sentence begins
   a new proof extending across many pages; stopping here preserves sections
   12–14 as a complete argumentative unit without splitting that proof.
+
+**Part 19 is complete and scan-audited.** This paired unit resumes Exercise II,
+Chapter II on the lower portion of logical printed p. 271 / IA leaf 289 / PDF
+p. 289 at the sustained proof `Deum excidere fine intento non posse probatur.`
+It contains Rutherford's arguments that God cannot fail of his intended end,
+his replies to Schaafmann, Corvinus, and Arminius concerning absolute and
+conditional intention, and his concluding treatment of inexcusability as the
+end of the reprobate's calling. It ends with Chapter II on logical p. 287 / IA
+leaf 305 / PDF p. 305 at `sed turpiter erratur quoties Deum humano pede
+homunciones audacter metiri præsumunt.` The centered `CAP. III` heading on that
+shared page is excluded.
+
+- Latin: `parts/part-19-exercise-02-chapter-02e-latin.txt`
+- English: `parts/part-19-exercise-02-chapter-02e-english.md`
+- Both files contain seventeen synchronized source markers (logical printed
+  pp. 271–287 / IA leaves–PDF pp. 289–305) and nineteen paired marginal blocks.
+- Direct image control confirmed every page, all sixteen joins, the exact
+  no-gap opening after Part 18, the Greek expressions on pp. 275–276, and the
+  shared-page exclusion of Chapter III.
+- The witness's main numbering resumes at 15, advances through 20, and contains
+  repeated and nested subnumbers; that source sequence is retained rather than
+  editorially regularized.
+
+**Part 20 is complete and scan-audited.** This paired unit begins Exercise II,
+Chapter III at its centered heading on the lower portion of logical printed p.
+287 / IA leaf 305 / PDF p. 305. It contains sections 1–7 on whether God's good
+pleasure is the first rule of his justice, goodness, and mercy toward creatures;
+on the distinction between essential and relational mercy and justice; and on
+the relation of predestination, punishment, covenant, and created essences to
+the wise divine will. It ends with section 7 on logical p. 305 / IA leaf 323 /
+PDF p. 323 at `at vero ut inobedientia tam existat quam obedientia, melius visum
+est Deo secundum rationem præponderantem sapientiæ divinæ.` Section 8 (`Dicunt
+scholastici justitiam condecentiæ seu congruitatis`) on that shared page is
+excluded.
+
+- Latin: `parts/part-20-exercise-02-chapter-03a-latin.txt`
+- English: `parts/part-20-exercise-02-chapter-03a-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  287–305 / IA leaves–PDF pp. 305–323) and five paired marginal blocks.
+- Direct image control confirmed every page, all eighteen joins, the exact
+  no-gap opening after Part 19, the Greek `σχετική` on pp. 290 and 292,
+  and the shared-page exclusion of section 8.
+- The preliminary OCR-based map treated Bradwardine's quoted `& multa bona,
+  quæ non facit` on p. 305 as the endpoint. The image shows that Rutherford's
+  own discussion continues substantially after that quotation; the continuation
+  is retained through the true end of section 7 rather than omitted.
+
+**Part 21 is complete and scan-audited.** This paired unit resumes Exercise II,
+Chapter III at section 8 on the lower portion of logical printed p. 305 / IA
+leaf 323 / PDF p. 323. It treats the scholastic justice of congruity, argues
+that every moral relation of justice toward creatures is regulated by God's
+free good pleasure, and answers Jackson, Cameron, and Arminius on objective
+goodness, divine holiness, and conformity of the human will to God's will. It
+ends with section 15 and Chapter III on logical p. 323 / IA leaf 341 / PDF p.
+341 at `Sed de hoc, in disputatione de providentia Dei.` The centered `CAP. IV`
+heading and its chapter title on that shared page are excluded.
+
+- Latin: `parts/part-21-exercise-02-chapter-03b-latin.txt`
+- English: `parts/part-21-exercise-02-chapter-03b-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  305–323 / IA leaves–PDF pp. 323–341) and twelve paired marginal blocks.
+- Direct image control confirmed every page, all eighteen joins, the exact
+  no-gap opening after Part 20, the Greek `σχετικὴ`, `καταναγκαστικὴ`, and
+  `ἀδιάφορα` on pp. 306, 308, and 318, and the shared-page exclusion of Chapter
+  IV.
+- The closing page was checked against the image rather than the OCR map: all
+  of section 15's final lines, including the reference forward to the
+  disputation on providence, are retained before the clean Chapter IV boundary.
+- Witness readings that could invite silent correction—including Aquinas's
+  printed `q. 35`, Gerson's printed `p. 28`, `ut idem non sit idem`,
+  `includerere`, and `nolit & velit`—are retained in the Latin rather than
+  regularized from later expectations.
+
+**Part 22 is complete and scan-audited.** This paired unit begins Exercise II,
+Chapter IV at its centered heading on the lower portion of logical printed p.
+323 / IA leaf 341 / PDF p. 341. It contains sections 1–9 on the meanings
+assigned to God's antecedent and consequent will and Rutherford's arguments
+that a frustrated natural desire to save every creature is inconsistent with
+divine power, freedom, wisdom, immutability, and justice. It ends with section
+9 on logical p. 341 / IA leaf 359 / PDF p. 359 at `& non manebit, quæ sunt
+contradicentia.` Section 10 (`Argum. 5. Voluntas antecedens pugnat cum Dei
+felicitate`) on that shared page is excluded.
+
+- Latin: `parts/part-22-exercise-02-chapter-04a-latin.txt`
+- English: `parts/part-22-exercise-02-chapter-04a-english.md`
+- Both files contain nineteen synchronized source markers (logical printed pp.
+  323–341 / IA leaves–PDF pp. 341–359) and thirteen paired marginal blocks.
+- Direct image control confirmed every page, all eighteen joins, the exact
+  no-gap opening after Part 21, the Greek `εὐδοκίαν` on p. 324, and the
+  shared-page exclusion of section 10.
+- The witness's nested argument labels (`6. 2. Arg.`, `7. 3. Arg.`, and `9. 4.
+  Arg.`), its repeated subnumber 3, and the printed `Si decreti Dei ... sumptum`
+  on p. 340 are retained rather than silently regularized.
+
+**Part 23 is complete and scan-audited.** This paired unit resumes Exercise II,
+Chapter IV at section 10 (`Argum. 5. Voluntas antecedens pugnat cum Dei
+felicitate`) on the lower portion of logical printed p. 341 / IA leaf 359 / PDF
+p. 359. It contains sections 10–16 and the chapter's four concluding
+objections, completing Rutherford's case that the alleged antecedent will
+conflicts with divine blessedness, wisdom, justice, perfection, and freedom.
+It ends on logical p. 363 / IA leaf 381 / PDF p. 381 at `Cætera fumo leviora
+facile dilui possunt.` The `EXERCITATIO III` heading and all text beneath it on
+that shared page are excluded.
+
+- Latin: `parts/part-23-exercise-02-chapter-04b-latin.txt`
+- English: `parts/part-23-exercise-02-chapter-04b-english.md`
+- Both files contain twenty-three synchronized source markers (logical printed
+  pp. 341–363 / IA leaves–PDF pp. 359–381) and eight paired marginal blocks.
+- Direct image control confirmed every page, all twenty-two joins, the exact
+  no-gap opening after Part 22, the Greek `ἀδύνατον`, `Θεοπρεπῶς`,
+  `θεοπρεπῶς`, `ἀνώμαλον`, `ἀνθρωποπαθῶς`, and `τὸ`, and the
+  shared-page exclusion of Exercise III.
+- Witness readings that could invite silent correction—the repeated argument
+  number 4 on p. 349, repeated `sapientiam` on p. 355, printed `salvadi` on p.
+  345, `actu electico` on p. 361, and the objection sequence beginning at
+  `Ob. 2.`—are retained in the Latin.
+
+**Part 24 is complete and scan-audited.** This paired unit begins at the
+centered `EXERCITATIO III` heading on the lower portion of logical printed p.
+363 / IA leaf 381 / PDF p. 381. It contains Question I, sections 1–9, defining
+the senses of determination, distinguishing the intellect's objective motion
+from God's real motion of the will, and beginning Rutherford's scriptural case
+that God undeviatingly determines free acts. It ends with the final sentence
+of section 9 on logical p. 379 / IA leaf 397 / PDF p. 397 at `ex Arminianis
+placitis.` Section 10 (`Item sanctificetur nomen tuum, adveniat regnum tuum`)
+on that shared page is excluded.
+
+- Latin: `parts/part-24-exercise-03-question-01a-latin.txt`
+- English: `parts/part-24-exercise-03-question-01a-english.md`
+- Both files contain seventeen synchronized source markers (logical printed
+  pp. 363–379 / IA leaves–PDF pp. 381–397) and eight paired marginal blocks.
+- Direct image control confirmed every page, all sixteen joins, the exact
+  no-gap opening after Part 23, the Greek `ὁρίζειν` and Hebrew `גבל` and `תאה`
+  on p. 363, and the shared-page exclusion of section 10.
+- The image audit retains rather than silently corrects the witness's missing
+  first numeral in the three-cause list on p. 363, the jump from distinction 3
+  to distinction 5 on p. 368, `Genes. 45. 14`, `Esra. 7. v. 7`, and `2. Chron.
+  29. v. 18`. The endpoint was also checked directly against the image: all of
+  section 9's remaining lines are included before the true section 10 boundary.
+
+**Part 25 is complete and scan-audited.** This paired unit resumes Exercise
+III, Question I at section 10 (`Item sanctificetur nomen tuum`) on the lower
+portion of logical printed p. 379 / IA leaf 397 / PDF p. 397. It completes the
+question's biblical case for God's determination of free acts, treating the
+Lord's Prayer, David's petitions for obedience, Proverbs 21:1, and further
+examples from Daniel, the prophets, wisdom literature, and Paul. It ends with
+Chapter I on logical p. 395 / IA leaf 413 / PDF p. 413 at `ideo capiti de
+efficacia gratiæ subjiciam.` The centered `Exer. 3. Cap. II.` heading and all
+of Chapter II on that shared page are excluded.
+
+- Latin: `parts/part-25-exercise-03-question-01b-latin.txt`
+- English: `parts/part-25-exercise-03-question-01b-english.md`
+- Both files contain seventeen synchronized source markers (logical printed
+  pp. 379–395 / IA leaves–PDF pp. 397–413) and seven paired marginal blocks.
+- Direct image control confirmed every page, all sixteen joins, the exact
+  no-gap opening after Part 24, the Greek `ἐν διαμέτρῳ` and `τὸ`, the Hebrew
+  `נטה`, and the shared-page exclusion of Chapter II.
+- The image audit retains rather than silently corrects the witness's printed
+  `Zachariæ ... cap. 31`, `Prov. 24. 1`, `Daniel, 5. 3`, `Prov. 20. v. 24`,
+  `varacitas`, the
+  duplicated clause across pp. 385–386, and its irregular internal numbering.
+  The closing join was checked directly: the final `probant ... subjiciam`
+  sentence belongs to Chapter I and is retained before the new chapter heading.
+
+**Part 26 is complete and scan-audited.** This paired unit begins at the
+centered `Exer. 3. Cap. II.` heading on the lower portion of logical printed p.
+395 / IA leaf 413 / PDF p. 413. It contains Chapter II, sections 1–6, defining
+the disputed sense of grace's efficacy, comparing the Jesuit and Arminian
+accounts, and testing their distinction between sufficient and efficacious
+grace. It ends on logical p. 411 / IA leaf 429 / PDF p. 429 at `Hic etiam est
+verus sensus.` Section 7 (`Ita enim distinguimus efficacem à
+prædeterminatione`) on that shared page is excluded.
+
+- Latin: `parts/part-26-exercise-03-chapter-02a-latin.txt`
+- English: `parts/part-26-exercise-03-chapter-02a-english.md`
+- Both files contain seventeen synchronized source markers (logical printed
+  pp. 395–411 / IA leaves–PDF pp. 413–429) and twelve paired marginal blocks.
+- Direct image control confirmed every page, all sixteen joins, the exact
+  no-gap opening after Part 25, the Greek `τὸ`, `ἀναπολογίαν`, `Ἀρκεῖ σοι ἡ
+  χάρις μου`, `εἰκ ἀρκέσῃ`, `κἂ ἀρκεῖ ἡμῖν`, `ἱκανὸς`, and `ὁρμήν`, and the
+  shared-page exclusion of section 7.
+- Witness readings that could invite silent correction—including the printed
+  `non convertit` in the Synodist quotation on p. 398, `2. Cor. 13. 1` and
+  `2. Cor. 13. 7` on p. 404, `Ezech. 36. 17` on p. 411, and the double negative
+  `non sit in me non τὸ nolle` on p. 410—are retained in the Latin. The
+  closing image was checked separately to ensure that all of section 6 and no
+  words of section 7 entered the unit.

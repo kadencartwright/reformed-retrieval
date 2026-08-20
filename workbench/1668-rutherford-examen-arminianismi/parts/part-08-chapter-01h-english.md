@@ -433,8 +433,8 @@ The Remonstrants reply in the same place, *Against Vedelius*, book 1, part 2,
 chapter 2: “This right always remains entire and inviolate. But the right which
 God's Word possesses over people is not a right by which a person is bound to
 assent to the sense of the divine Word without judgment, much less against the
-judgment of his conscience—that is, while its judgment stands and remains
-that this sense is false. For then God's right would bind a person to what is
+judgment of his conscience—that is, while it stands and remains that this
+sense is false. For then God's right would bind a person to what is
 sin in itself.”
 
 Response. It is true that the right which God's Word possesses over people is

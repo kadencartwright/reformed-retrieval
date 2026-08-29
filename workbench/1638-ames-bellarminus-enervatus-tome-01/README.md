@@ -43,7 +43,7 @@ setting in the Augsburg Staats- und Stadtbibliothek copy, shelf mark `Th S
 No text from another edition was substituted; the e-rara witness remains the
 controlling, audited Public Domain Mark source.
 
-## Exact map and Part 01 boundary
+## Exact map and completed-part boundaries
 
 The e-rara structural record maps Tome I as follows:
 
@@ -76,6 +76,32 @@ The shared-page endpoint avoids either truncating Ames's final response or
 absorbing material from the next chapter. Catchwords, running heads,
 signatures, page numerals, and the Chapter III heading are excluded.
 
+**Part 02 is the complete third chapter.** It begins with the `CAPUT III`
+heading below the rule on shared printed p. 17 and continues through the last
+response on printed p. 38, stopping immediately before Chapter IV:
+
+- e-rara canvases 27–48 / printed pp. 17–38;
+- same-impression Augsburg comparison canvases 41–62;
+- Chapter III, *De editionibus Sacrae Scripturae*;
+- next unit: Chapter IV, *De Scripturae perspicuitate*, beginning on printed
+  p. 39.
+
+**Part 03 is the complete fourth chapter.** It begins with the `CAPUT IV`
+heading on printed p. 39. The chapter continues through printed p. 43, and its
+last paragraph crosses onto the first lines of printed p. 44. The files include
+that completion under the printed-p. 44 marker and stop before the `CAPUT V`
+heading:
+
+- e-rara canvases 49–54 / printed pp. 39–44;
+- same-impression Augsburg comparison canvases 63–68;
+- Chapter IV, *De Scripturae perspicuitate*;
+- next unit: Chapter V, *De Iudice controversiarum*, beginning on shared
+  printed p. 44.
+
+This second shared-page endpoint likewise preserves the complete authorial
+unit without absorbing the next chapter. The Chapter V heading and all
+following matter are excluded from Part 03.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -96,3 +122,7 @@ text](../../LICENSES/CC0-1.0.txt).
 
 - `parts/part-01-book-01-chapters-01-02-latin.txt`
 - `parts/part-01-book-01-chapters-01-02-english.md`
+- `parts/part-02-book-01-chapter-03-latin.txt`
+- `parts/part-02-book-01-chapter-03-english.md`
+- `parts/part-03-book-01-chapter-04-latin.txt`
+- `parts/part-03-book-01-chapter-04-english.md`

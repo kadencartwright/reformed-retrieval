@@ -217,6 +217,15 @@ marker.
 The next unit resumes there with Navarrete's `Haec dicta sunt ad declarandum
 illum primum sensum antecedentis positi`.
 
+Part 19 contains Navarrete's complete summary of the first sense and its
+restricted-to-unrestricted diagnosis. It remains on printed p. 68 / canvas
+00094 and has one identical marker.
+
+- `parts/part-19-digression-03-section-07-first-sense-summary-latin.txt`
+- `parts/part-19-digression-03-section-07-first-sense-summary-english.md`
+
+The next unit resumes there with `Si vero sensus illius antecedentis sit`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

@@ -177,6 +177,16 @@ It remains on printed p. 67 / canvas 00093 and has one identical marker.
 The next unit resumes there with `At si quis diceret, hominem elevari ad
 solium regium`.
 
+Part 15 carries Twisse's complete royal-throne analogy across **printed pp.
+67–68 / BSB canvases 00093–00094**, ending at `sed per quandam continentiam`.
+Its pair has two byte-identical source markers.
+
+- `parts/part-15-digression-03-section-07-throne-analogy-latin.txt`
+- `parts/part-15-digression-03-section-07-throne-analogy-english.md`
+
+The next unit resumes on printed p. 68 / canvas 00094 with `Veruntamen ut
+fatear quod res est`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

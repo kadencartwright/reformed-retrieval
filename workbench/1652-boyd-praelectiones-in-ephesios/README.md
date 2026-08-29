@@ -35,22 +35,29 @@ English publication files under `texts/*/english.md` receive its CC0
 dedication. This workbench English draft is therefore outside that dedication;
 see the repository [licensing scope](../../LICENSING.md).
 
-## Source map and first-unit boundary
+## Completed lecture boundaries
 
-The work's authorial preface is explicitly the first lecture:
+The authorial lecture labels, rather than an arbitrary page count, control the
+part boundaries. Several lectures begin or end within a printed page, so the
+same scan can legitimately close one part and open the next:
 
-| BSB scans | Printed preface pages | Printed structure | Unit decision |
-|---|---:|---|---|
-| 35–42 | unnumbered [1], then 2–8 | outer marginal label `Prælectio I`; heading `PRÆFATIO`; closes `AMEN.` | Part 01, complete |
-| 43 onward | main-text p. 1 onward | `IN CAPUT PRIMUM`; outer marginal label `Prælectio secunda` | excluded |
+| Part | Lecture | BSB scans | Printed pages | Boundary |
+|---:|---:|---:|---:|---|
+| 01 | I | 35–42 | preface [1]–8 | `PRÆFATIO` through `AMEN.` |
+| 02 | II | 43–46 | 1–4 | `Prælectio secunda` through the transition to the epistle body |
+| 03 | III | 46–48 | 4–6 | `Prælectio tertia` through the close of the doxology exposition |
+| 04 | IV | 48–52 | 6–10 | `Prælectio IV` through its concluding doxology and `Amen` |
+| 05 | V | 52–56 | 10–14 | `Prælectio quinta` through the exposition of `In Charitate` |
+| 06 | VI | 56–60 | 14–18 | `Prælectio sexta` through `laudaretur ac celebraretur in omne ævum` |
+| 07 | VII | 60–63 | 18–21 | `Prælectio septima` through its concluding `Amen` |
 
-The requested priority was the first complete lecture, with a coherent 15–20
-page unit as fallback. Lecture I is complete in eight folio pages, so this
-exact authorial boundary controls rather than adding an incomplete portion of
-Lecture II. The page-level first/last text and captured full-image SHA-256
-values are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv).
-Detailed boundary, witness, convention, and uncertain-reading notes appear in
-[`apparatus/part-01-notes.md`](apparatus/part-01-notes.md).
+Part 01's page-level first and last text and captured full-image SHA-256 values
+are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
+detailed notes in [`apparatus/part-01-notes.md`](apparatus/part-01-notes.md).
+Part 02 has its separate
+[`apparatus/part-02-source-map.tsv`](apparatus/part-02-source-map.tsv) and
+[`apparatus/part-02-notes.md`](apparatus/part-02-notes.md). The later parts use
+the same controlling witness and exact in-file source-marker convention.
 
 ## Editorial method
 
@@ -75,32 +82,41 @@ The English is a fresh, full translation of the paired Latin, not a summary.
 No modern English version served as a wording source. Greek quotations are
 translated in context while the Greek remains visible in the Latin file.
 
-## Completed Part 01
+## Completed parts
 
-Part 01 contains all of Lecture I, the preface to Ephesians, from BSB scan 35
-through scan 42:
+Each completed unit has a normalized Latin transcription and a fresh, full
+English translation:
 
-- [`parts/part-01-praelection-01-preface-latin.txt`](parts/part-01-praelection-01-preface-latin.txt)
-- [`parts/part-01-praelection-01-preface-english.md`](parts/part-01-praelection-01-preface-english.md)
+| Part | Subject | Latin | English |
+|---:|---|---|---|
+| 01 | Preface | [`part-01-praelection-01-preface-latin.txt`](parts/part-01-praelection-01-preface-latin.txt) | [`part-01-praelection-01-preface-english.md`](parts/part-01-praelection-01-preface-english.md) |
+| 02 | Salutation | [`part-02-praelection-02-salutation-latin.txt`](parts/part-02-praelection-02-salutation-latin.txt) | [`part-02-praelection-02-salutation-english.md`](parts/part-02-praelection-02-salutation-english.md) |
+| 03 | Method and doxology | [`part-03-praelection-03-method-and-doxology-latin.txt`](parts/part-03-praelection-03-method-and-doxology-latin.txt) | [`part-03-praelection-03-method-and-doxology-english.md`](parts/part-03-praelection-03-method-and-doxology-english.md) |
+| 04 | Spiritual blessings | [`part-04-praelection-04-spiritual-blessings-latin.txt`](parts/part-04-praelection-04-spiritual-blessings-latin.txt) | [`part-04-praelection-04-spiritual-blessings-english.md`](parts/part-04-praelection-04-spiritual-blessings-english.md) |
+| 05 | Election in Christ | [`part-05-praelection-05-election-in-christ-latin.txt`](parts/part-05-praelection-05-election-in-christ-latin.txt) | [`part-05-praelection-05-election-in-christ-english.md`](parts/part-05-praelection-05-election-in-christ-english.md) |
+| 06 | Predestination and adoption | [`part-06-praelection-06-predestination-and-adoption-latin.txt`](parts/part-06-praelection-06-predestination-and-adoption-latin.txt) | [`part-06-praelection-06-predestination-and-adoption-english.md`](parts/part-06-praelection-06-predestination-and-adoption-english.md) |
+| 07 | Observations on election | [`part-07-praelection-07-observations-on-election-latin.txt`](parts/part-07-praelection-07-observations-on-election-latin.txt) | [`part-07-praelection-07-observations-on-election-english.md`](parts/part-07-praelection-07-observations-on-election-english.md) |
 
-Its argument moves from the two mutually supporting theological tasks—biblical
-exegesis and synthetic commonplaces—through a proposed course of theological
-study, the rationale for beginning with Ephesians, the epistle's occasion and
-contents, twelve principal theological loci, and the division of Ephesians
-into a didactic first half and exhortatory second half. It ends by deriving two
-consequences: doctrine precedes the works that are its fruits, and the doctrine
-of grace energizes rather than discourages holy living.
+The completed sequence now extends through Lecture VII. Its successive subjects
+are the work's exegetical method and preface, Paul's salutation, the form and
+matter of the opening doxology, spiritual blessings in the heavenly places,
+election in Christ, and the relation of predestination, adoption, Christ's
+mediation, divine good pleasure, and the praise of glorious grace. Lecture VII
+then derives six observations on assurance, foreseen faith and works, holiness
+as the ordained means to salvation, the relation of faith and love, God's sole
+causality in election, and the doxological end of the doctrine.
 
 ## Validation
 
-Run the work-local structural validator from the repository root:
+Run the existing work-local structural validators from the repository root:
 
 ```sh
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part01.py
+python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part02.py
 ```
 
-It checks UTF-8 and line hygiene, the exact eight-marker sequence and parity,
-AI/unreviewed disclosures, minimum full-text size, marginal-block presence,
-the explicit `AMEN.` close, and source-map scan/hash structure. Repository-wide
-validation may also be run, but this new workbench unit deliberately does not
+These check UTF-8 and line hygiene, exact marker sequence and parity,
+AI/unreviewed disclosures, minimum full-text size, required closes and
+marginalia, and the available source-map structure. All later pairs follow the
+same marker-parity and hygiene requirements. This workbench sequence does not
 modify global ledgers, the publication manifest, or repository checksums.

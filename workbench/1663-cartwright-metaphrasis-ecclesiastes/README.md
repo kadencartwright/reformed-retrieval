@@ -879,3 +879,78 @@ an arbitrary image count. The next unit begins in the left column of reader
 image `PA153` / printed p. 153 at `Vers. 10. Vidi hanc esse occupationem, quam
 dedit Deus filiis hominum ut occupent se in ea` and `Vers. 11. Ipsum
 unumquodque facere pulchrum suo tempore`.
+
+**Part 39 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 3:10–11 lemmata, the initial lemmata for
+verses 12–15, and the complete exposition of the first objection on reader
+images `PA153`, `PA155`, and `PA157`. It begins near the foot of printed p. 153
+at `Vers. 10. Vidi hanc esse occupationem`, crosses the image joins in the
+division `præ- / diti` and at the catchword `maximè`, and ends in the left
+column of printed p. 157 immediately before the repeated lemma `Vers. 12. Novi
+non esse bonum penes illos`. The paired files have three exactly identical
+reader-image markers and retain all six verse lemmata, the summary, the first
+objection and answer concerning divine providence, the two-book comparison,
+the Greek `πανωλεθρίας` and every printed biblical reference. No
+independent marginal notes, Hebrew, or other foreign-script text occurs in
+this unit. The English translator's notes disclose both image-spanning joins,
+the unusual verse-11 construction, the printed `Iobum ... cap. 23` reference,
+and the compressed or irregular `Deus enim unus, Philosophi cùm lapidem`,
+`accuratè exputat`, and related constructions rather than silently repairing
+or omitting them:
+
+- `parts/part-39-homiliae-chapter-03-verses-10-11-latin.txt`
+- `parts/part-39-homiliae-chapter-03-verses-10-11-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA157` / printed p. 157 at `Vers. 12. Novi non esse bonum penes illos, nisi ut
+lætetur quisque, & ut faciat bonum in vita sua`.
+
+**Part 40 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 3:12 lemma, the repeated 3:13 lemma, and
+their complete joint homiletic exposition on the single reader image `PA157`.
+It begins in the left column of printed p. 157 at `Vers. 12. Novi non esse
+bonum penes illos`, continues across the opening to printed p. 158, and ends
+at the foot of that page immediately before the repeated lemma `Vers. 14. Novi
+quicquid facit Deus` on `PA159`. The paired files have one exactly identical
+reader-image marker and retain both verse lemmata, the second objection and
+answer concerning gladness amid change, the relation between holiness and
+solid joy, the free-gift clarification, and the printed Hosea citation and
+quotation. No independent marginal notes, Greek, Hebrew, or other
+foreign-script text occurs in this unit. The English translator's notes
+disclose the printed `cap. 9. §. 10.` reference, the wording of its quotation,
+and the compressed parenthesis `invitis & refragantibus omnibus quæ obsistunt`
+rather than silently repairing or omitting them:
+
+- `parts/part-40-homiliae-chapter-03-verses-12-13-latin.txt`
+- `parts/part-40-homiliae-chapter-03-verses-12-13-english.md`
+
+This joint unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins on reader image `PA159` /
+printed p. 159 at `Vers. 14. Novi quicquid facit Deus, id esse semper`.
+
+**Part 41 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 3:14–15 lemmata and the complete exposition
+of the third objection on reader images `PA159` and `PA161`. It begins on
+printed p. 159 at `Vers. 14. Novi quicquid facit Deus`, crosses the image and
+printed-page join in the division `con- / sequuntur`, and ends in the left
+column of printed p. 161 immediately before the lemmata for verses 16–22. The
+paired files have two exactly identical reader-image markers and retain both
+verse lemmata, the objection from apparent imperfection, its four-part answer
+from decree, completeness, purpose, and order, the cosmological comparison,
+the internal reference `1. cap. vers. 9`, and the rhetorical terms
+`occupatio` and `subjectio`. No independent marginal notes, Greek, Hebrew, or
+other foreign-script text occurs in this unit. The English translator's notes
+disclose the image-spanning word, the printed `absolutionis partibus`, the
+unusual `omnia temere permisceant` and labor-and-oil construction, and the
+grammatical shifts, printed `si quod`, and repeated `jam extitit` rather than
+silently repairing or omitting them:
+
+- `parts/part-41-homiliae-chapter-03-verses-14-15-latin.txt`
+- `parts/part-41-homiliae-chapter-03-verses-14-15-english.md`
+
+This unit is bounded by the next analytical section rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA161` / printed p. 161 at the lemmata `Vers. 16. Nam adhuc respiciens sub
+Sole loco juris ibi improbitatem` through `Vers. 22. Quapropter videbatur mihi
+nihil esse bonum`.

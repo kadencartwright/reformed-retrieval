@@ -107,6 +107,16 @@ source marker.
 The next unit resumes on p. 66 / canvas 00092 with `Et sic (inquit)
 Consequens ut recte inferatur`.
 
+Part 08 contains Navarrete's complete reformulation and concession of that
+consequence, ending with the appeal to `quendam modum essendi excellentiorem`.
+It remains on printed p. 66 / canvas 00092 and has one byte-identical marker.
+
+- `parts/part-08-digression-03-section-07-response-02-consequence-latin.txt`
+- `parts/part-08-digression-03-section-07-response-02-consequence-english.md`
+
+The next unit resumes there with `Pari ratione, antequam Navarrettus edidit
+libros adversus Jesuitas`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

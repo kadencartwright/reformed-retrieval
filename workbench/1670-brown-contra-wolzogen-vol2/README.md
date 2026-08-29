@@ -104,6 +104,59 @@ only the lower portion of p. 37 and upper portion of p. 57 belong to it, the
 unit comprises approximately twenty full pages of text without splitting
 Assertion II.
 
+## Part 04 boundary and source map
+
+Part 04 contains Brown’s third through fifth assertions on Christ’s visible
+church and the necessity of a lawful ministerial calling. It begins with
+`ASSERTIO III` in the lower portion of printed p. 57 / ONB canvas 65 and ends
+after the complete argument from the distinctive duties, privileges, and
+promises of pastors in the upper portion of printed p. 74 / ONB canvas 82. The
+following transition, `Licet hæc sufficere possint...`, is excluded. Its paired
+files contain eighteen synchronized markers for printed pp. 57–74.
+
+## Part 05 boundary and source map
+
+Part 05 begins with `Licet hæc sufficere possint...` in the lower portion of
+printed p. 74 / ONB canvas 82. It completes Brown’s defense of lawful calling
+and begins his extended treatment of extraordinary prophecy in 1 Corinthians
+14. It ends with Brown’s twelfth numbered argument in the upper portion of
+printed p. 89 / ONB canvas 97. The following synthesis, `Ex his rationibus
+abundè etiam liquet...`, is excluded. Its paired files contain sixteen
+synchronized markers for printed pp. 74–89.
+
+## Part 06 boundary and source map
+
+Part 06 begins with `Ex his rationibus abundè etiam liquet...` in the lower
+portion of printed p. 89 / ONB canvas 97. It completes the discussion of
+extraordinary prophets and follows Brown’s replies to Velthuysen through the
+distinction between natural and instituted worship. It ends with the complete
+reply comparing the morally distinct acts of a magistrate and a private killer
+in the upper portion of printed p. 109 / ONB canvas 117. The transition
+`Tandem, finitis iis quæ dicenda habuit de cultu naturali...` is excluded. Its
+paired files contain twenty-one synchronized markers for printed pp. 89–109.
+
+## Part 07 boundary and source map
+
+Part 07 begins with `Tandem, finitis iis quæ dicenda habuit de cultu
+naturali...` in the lower portion of printed p. 109 / ONB canvas 117. It treats
+instituted worship, the spiritual priesthood of all believers, and the special
+calling and sanctification of public ministers. It ends with the transition
+`Quæ sequuntur ... nunc aliam assertionem proponemus.` in the upper portion of
+printed p. 118 / ONB canvas 126. `ASSERTIO VIII` is excluded. Its paired files
+contain ten synchronized markers for printed pp. 109–118.
+
+## Part 08 boundary and source map
+
+Part 08 is Brown’s complete `ASSERTIO VIII`, arguing that only persons lawfully
+called, sent, appointed, and ordained may administer the sacraments. It begins
+in the lower portion of printed p. 118 / ONB canvas 126 and includes Brown’s
+thirteen arguments, his replies to Velthuysen, and his comparison of
+Velthuysen’s position with Remonstrant and Socinian writers. It ends with the
+complete sentence `Nos interea pergimus.` in the upper portion of printed p.
+131 / ONB canvas 139. The following heading, `ASSERTIO IX`, and its text are
+excluded. Its paired files contain fourteen synchronized markers for printed
+pp. 118–131.
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -132,6 +185,16 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-02-reformed-confessions-english.md`
 - `parts/part-03-confessions-and-mediatorial-kingship-latin.txt`
 - `parts/part-03-confessions-and-mediatorial-kingship-english.md`
+- `parts/part-04-visible-church-and-lawful-calling-latin.txt`
+- `parts/part-04-visible-church-and-lawful-calling-english.md`
+- `parts/part-05-lawful-calling-and-extraordinary-prophecy-latin.txt`
+- `parts/part-05-lawful-calling-and-extraordinary-prophecy-english.md`
+- `parts/part-06-extraordinary-prophecy-and-natural-worship-latin.txt`
+- `parts/part-06-extraordinary-prophecy-and-natural-worship-english.md`
+- `parts/part-07-instituted-worship-and-spiritual-priesthood-latin.txt`
+- `parts/part-07-instituted-worship-and-spiritual-priesthood-english.md`
+- `parts/part-08-sacraments-and-lawful-ministers-latin.txt`
+- `parts/part-08-sacraments-and-lawful-ministers-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

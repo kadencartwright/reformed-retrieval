@@ -117,6 +117,17 @@ It remains on printed p. 66 / canvas 00092 and has one byte-identical marker.
 The next unit resumes there with `Pari ratione, antequam Navarrettus edidit
 libros adversus Jesuitas`.
 
+Part 09 contains Twisse's complete analogy from Navarrete's unpublished books
+and carries it through the comparison between a proper mode of existence and
+nonexistence. It remains on printed p. 66 / canvas 00092 and has one identical
+source marker.
+
+- `parts/part-09-digression-03-section-07-navarrete-books-analogy-latin.txt`
+- `parts/part-09-digression-03-section-07-navarrete-books-analogy-english.md`
+
+The next unit resumes there with `At incredibile est, ut tam projectè
+comparatio institueretur`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

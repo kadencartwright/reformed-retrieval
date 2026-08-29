@@ -373,6 +373,16 @@ building-before-the-foundation reductio. It remains on printed p. 70 / canvas
 The next unit resumes there with `Verumtamen etiam hic radius ipsissimae
 veritatis emicat`.
 
+Part 35 contains Twisse's complete positive claim that the eternal decree is
+sufficient for divine practical intuition. It remains on printed p. 70 /
+canvas 00096 and has one identical marker.
+
+- `parts/part-35-digression-03-section-07-eternal-decree-suffices-latin.txt`
+- `parts/part-35-digression-03-section-07-eternal-decree-suffices-english.md`
+
+The next unit resumes there with `Verum, cum dicit Deum intueri res secundum
+quod a parte rei futurae sunt in tempore`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

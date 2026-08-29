@@ -405,6 +405,18 @@ immediately before the numbered `Quinto` and has two identical markers.
 The next unit resumes on printed p. 71 / canvas 00097 with `NAVARR. Quinto,
 Deus cognoscit modo Antichristum sicut est`.
 
+Part 38 spans **printed pp. 71–72 / BSB canvases 00097–00098** and contains the
+fifth objection, Navarrete's answer, and Twisse's complete response in full. It
+ends immediately before `DIGRESSIONIS TERTIAE SECTIO OCTAVA` and has two
+identical source markers.
+
+- `parts/part-38-digression-03-section-07-objection-05-and-response-latin.txt`
+- `parts/part-38-digression-03-section-07-objection-05-and-response-english.md`
+
+The next unit resumes on printed p. 72 / canvas 00098 with `DIGRESSIONIS
+TERTIAE SECTIO OCTAVA`, headed `Quid de notitia simplicis intelligentiae qua
+Deus cognosceret futurum`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

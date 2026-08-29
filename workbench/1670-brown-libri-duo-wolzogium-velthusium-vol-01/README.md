@@ -69,20 +69,57 @@ source-image boundary, the marker is placed at the printed break and the two
 halves are marked with asterisks.
 
 The English is a complete translation of the paired Latin, not a summary. A
-modern translation of a later extract from Assertion 23 was identified during
-the source audit; it lies outside Part 01 and is not a wording source.
+modern translation of an extract from Assertion 23 was identified during the
+source audit but is not a wording source for any part here.
 
-## Current unit
+## Current parts and exact continuation boundary
 
-**Part 01 is complete as an AI-assisted, scan-audited working draft.** It opens
-with Brown's *Ad Lectorem Praefatio* on ONB canvas 16, includes his account of
-the two polemical projects and Assertions 1–15 on the visible and invisible
-church, and stops on shared canvas 35 after the complete twenty-one-item
-reductio concluding Assertion 15. Assertion 16, beginning `Etiam eos qui non
-edunt signa status regenerati`, is excluded. The pair has twenty synchronized
-source markers for ONB canvases 16–35.
+Eight paired parts are complete as AI-assisted, scan-audited working drafts:
 
-- Latin: `parts/part-01-preface-assertions-01-15-latin.txt`
-- English: `parts/part-01-preface-assertions-01-15-english.md`
+- **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
+  15, ONB canvases 16–35; twenty synchronized source markers.
+- **Part 02:** Assertions 16–32 and the end of the *Praefatio*, ONB canvases
+  35–49; fifteen synchronized source markers.
+- **Part 03:** the opening of Brown's examination of Wolzogen and Sections
+  I–III on Wolzogen's dedicatory epistle, printed pp. 1–16 / ONB canvases
+  55–70; sixteen synchronized source markers.
+- **Part 04:** Section IV on inspiration, Section V, and the first four
+  observations of Section VI on perspicuity, printed pp. 16–36 / ONB canvases
+  70–90; twenty-one synchronized source markers.
+- **Part 05:** the fifth observation of Section VI and all of Section VII on
+  Reason as the rule of interpretation, printed pp. 37–56 / ONB canvases
+  91–110; twenty synchronized source markers.
+- **Part 06:** Sections VIII–XI on rational consequences, divine veracity,
+  scriptural style, and the claim that all scriptural matters are historical,
+  printed pp. 56–72 / ONB canvases 110–126; seventeen synchronized source
+  markers.
+- **Part 07:** Sections XII–XV on the certainty of faith and reason, the three
+  classes of revealed matters, and consequences drawn from Scripture, printed
+  pp. 72–87 / ONB canvases 126–141; sixteen synchronized source markers.
+- **Part 08:** Sections XVI–XVII on the supreme, public, and private
+  interpreter, verbal and real interpretation, usage of speech, and Scripture
+  as the rule of interpretation, printed pp. 87–94 / ONB canvases 141–148;
+  eight synchronized source markers.
 
-Part 02 should resume on shared ONB canvas 35 at Assertion 16.
+The files are:
+
+- `parts/part-01-preface-assertions-01-15-latin.txt`
+- `parts/part-01-preface-assertions-01-15-english.md`
+- `parts/part-02-preface-assertions-16-32-latin.txt`
+- `parts/part-02-preface-assertions-16-32-english.md`
+- `parts/part-03-wolzogen-dedicatory-epistle-sections-01-03-latin.txt`
+- `parts/part-03-wolzogen-dedicatory-epistle-sections-01-03-english.md`
+- `parts/part-04-inspiration-and-perspicuity-latin.txt`
+- `parts/part-04-inspiration-and-perspicuity-english.md`
+- `parts/part-05-socinianism-and-reason-latin.txt`
+- `parts/part-05-socinianism-and-reason-english.md`
+- `parts/part-06-reason-divine-veracity-and-scriptural-style-latin.txt`
+- `parts/part-06-reason-divine-veracity-and-scriptural-style-english.md`
+- `parts/part-07-faith-reason-and-scriptural-consequences-latin.txt`
+- `parts/part-07-faith-reason-and-scriptural-consequences-english.md`
+- `parts/part-08-the-interpreter-and-rule-of-interpretation-latin.txt`
+- `parts/part-08-the-interpreter-and-rule-of-interpretation-english.md`
+
+Part 08 ends on shared ONB canvas 148 after `Sed pergendum.` Section XVIII,
+beginning `Quum ergo princeps quaestio sit de re istâ`, is excluded. Part 09
+should resume at that heading on the same canvas.

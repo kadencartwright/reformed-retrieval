@@ -117,11 +117,54 @@ not advance directly to p. 33.
 - `parts/part-02-proposition-06-sections-05-10-latin.txt`
 - `parts/part-02-proposition-06-sections-05-10-english.md`
 
+## Part 03: exact authorial boundary
+
+Part 03 occupies **first-body printed pp. 32–49 / BSB canvases 44–61** and has
+eighteen synchronized source markers. It resumes on the shared left column of
+printed p. 32 with `PROPOSITIO SEPTIMA` and contains Propositions VII–XI,
+including all of the internally numbered sections belonging to those
+propositions.
+
+The unit stops in the left column of printed p. 49 / canvas 61 after Twisse's
+sentence ending:
+
+> `… ergo consideratio bonorum operum præcedit decretum conferendi salutem.`
+
+It stops immediately before the centered heading `PROPOSITIO DUODECIMA` lower
+on that same column. The next part must therefore begin with `PROPOSITIO
+DUODECIMA` and repeat the marker for **first-body printed p. 49 / BSB canvas
+61**; it must not advance directly to p. 50.
+
+- `parts/part-03-propositions-07-11-latin.txt`
+- `parts/part-03-propositions-07-11-english.md`
+
+## Part 04: exact authorial boundary
+
+Part 04 occupies **first-body printed pp. 49–50 / BSB canvases 61–62** and has
+two synchronized source markers. It resumes on the shared left column of
+printed p. 49 with `PROPOSITIO DUODECIMA` and contains its complete `SECTIO
+PRIMA`: Arminius's definition of non-election or preterition, Junius's three
+exceptions, Arminius's reply, and Twisse's full three-part animadversion.
+
+The unit stops at the top of the right column of printed p. 50 / canvas 62
+after Twisse's sentence ending:
+
+> `… cum tamen multiplicet alia, propter quæ erubescat magis.`
+
+It stops immediately before the ruled heading `SECTIO SECUNDA` on that same
+column. The next part must therefore begin with `SECTIO SECUNDA` and repeat
+the marker for **first-body printed p. 50 / BSB canvas 62**; it must not
+advance directly to p. 51. The Latin and English markers are byte-identical,
+and the pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-04-proposition-12-section-01-latin.txt`
+- `parts/part-04-proposition-12-section-01-english.md`
+
 ## Status
 
-**Parts 01–02 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–04 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
-markers match exactly. Composite mapping and both stopping points have been
+markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 

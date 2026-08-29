@@ -67,6 +67,60 @@ The next excluded heading is `QUAESTIO II. Num aera Christi ... recte
 constituatur a posteriori?` The boundary is therefore question-complete and
 does not include any body text from Question II.
 
+## Part 03 boundary
+
+Part 03 resumes with the excluded Question II heading in the remainder of
+printed p. 36 / PDF-IA leaf 374 / OCR object 373. It examines the common era of
+Christ from the later chronological evidence and ends with Question II within
+printed p. 43 / PDF-IA leaf 381 / OCR object 380.
+
+The next excluded heading is `QUAESTIO III. De Natalitio mense & die.` The
+boundary is question-complete and includes no body text from Question III.
+
+## Part 04 boundary
+
+Part 04 resumes with the excluded Question III heading in the remainder of
+printed p. 43 / PDF-IA leaf 381 / OCR object 380. It considers proposed months
+and days for the Nativity and ends with Question III within printed p. 47 /
+PDF-IA leaf 385 / OCR object 384.
+
+The next excluded heading is `QUAESTIO IV. Quando moribundi Jacob Prophetia de
+recessu sceptri a Juda & adventu Shilo impleta sit?` The boundary is
+question-complete and includes no body text from Question IV.
+
+## Part 05 boundary
+
+Part 05 resumes with the excluded Question IV heading in the remainder of
+printed p. 47 / PDF-IA leaf 385 / OCR object 384. It treats Jacob's prophecy of
+the departure of the scepter from Judah and the coming of Shiloh, ending with
+Question IV within printed p. 51 / PDF-IA leaf 389 / OCR object 388.
+
+The next excluded heading is `QUAESTIO V. Cur Matthaei 1. 8. in genealogia
+Christi inter Joram & Oziam tres Reges omittantur Ahazias, Joash, & Amazias?`
+The boundary is question-complete and includes no body text from Question V.
+
+## Part 06 boundary
+
+Part 06 resumes with the excluded Question V heading in the remainder of
+printed p. 51 / PDF-IA leaf 389 / OCR object 388. It treats Matthew's omission
+of Ahaziah, Joash, and Amaziah from Christ's genealogy and ends with Question V
+within printed p. 54 / PDF-IA leaf 392 / OCR object 391.
+
+The next excluded heading is `QUAESTIO VI. De tribus Matthaei
+Tessaradecadibus.` The boundary is question-complete and includes no body text
+from Question VI.
+
+## Part 07 boundary
+
+Part 07 resumes with the excluded Question VI heading in the remainder of
+printed p. 54 / PDF-IA leaf 392 / OCR object 391. It treats the membership and
+rationale of Matthew's three groups of fourteen and ends with Question VI
+within printed p. 55 / PDF-IA leaf 393 / OCR object 392.
+
+The next excluded heading is `QUAESTIO VII. Quomodo Euangelistae Matthaeus 1.
+12. & 13. Lucas 3. 27. cum 1. Paralip. 3. 17. 18. & 19. conciliandi sint?` The
+boundary is question-complete and includes no body text from Question VII.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -90,9 +144,33 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-01-book-02-opening-english.md`
 - `parts/part-02-flavians-to-nativity-question-01-latin.txt`
 - `parts/part-02-flavians-to-nativity-question-01-english.md`
+- `parts/part-03-nativity-question-02-latin.txt`
+- `parts/part-03-nativity-question-02-english.md`
+- `parts/part-04-nativity-question-03-latin.txt`
+- `parts/part-04-nativity-question-03-english.md`
+- `parts/part-05-jacobs-scepter-prophecy-question-04-latin.txt`
+- `parts/part-05-jacobs-scepter-prophecy-question-04-english.md`
+- `parts/part-06-omitted-kings-question-05-latin.txt`
+- `parts/part-06-omitted-kings-question-05-english.md`
+- `parts/part-07-matthews-fourteens-question-06-latin.txt`
+- `parts/part-07-matthews-fourteens-question-06-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
 The Part 02 pair contains nineteen synchronized source markers, from the
 remainder of logical printed p. 18 through p. 36 / IA leaves-access-PDF pp.
 356–374 / OCR objects 355–373.
+
+The Part 03 pair contains eight synchronized source markers, from the remainder
+of logical printed p. 36 through p. 43 / IA leaves-access-PDF pp. 374–381 / OCR
+objects 373–380. The Part 04 pair contains five synchronized source markers,
+from the remainder of logical printed p. 43 through p. 47 / IA
+leaves-access-PDF pp. 381–385 / OCR objects 380–384. The Part 05 pair contains
+five synchronized source markers, from the remainder of logical printed p. 47
+through p. 51 / IA leaves-access-PDF pp. 385–389 / OCR objects 384–388. The
+Part 06 pair contains four synchronized source markers, from the remainder of
+logical printed p. 51 through p. 54 / IA leaves-access-PDF pp. 389–392 / OCR
+objects 388–391.
+The Part 07 pair contains two synchronized source markers, from the remainder
+of logical printed p. 54 through p. 55 / IA leaves-access-PDF pp. 392–393 / OCR
+objects 391–392.

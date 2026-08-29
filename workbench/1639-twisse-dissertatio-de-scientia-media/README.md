@@ -333,6 +333,16 @@ remains on printed p. 69 / canvas 00095 and has one identical marker.
 The next unit resumes there with Twisse's `Malo nodo malus quaerendus est
 cuneus`.
 
+Part 31 contains Navarrete's complete answer to the fourth objection and its
+confirmation across **printed pp. 69–70 / BSB canvases 00095–00096**. Its pair
+has two byte-identical markers.
+
+- `parts/part-31-digression-03-section-07-answer-to-objection-04-latin.txt`
+- `parts/part-31-digression-03-section-07-answer-to-objection-04-english.md`
+
+The next unit resumes on printed p. 70 / canvas 00096 at Twisse's `RESP.
+Productio rerum secundum quod se tenet ex parte Dei mensuratur aeternitate`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

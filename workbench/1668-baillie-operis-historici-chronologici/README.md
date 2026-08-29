@@ -230,6 +230,22 @@ the p. 147 marker in both files. The Greek `σοφὸν Φάρμακον` and `�
 IA OCR and PDF text were used only as aids. The pair remains an AI-assisted,
 unreviewed draft and is not publication-ready.
 
+## Part 11 boundary and status
+
+Part 11 is a synchronized Latin/English working pair with exactly two markers:
+printed p. 148 and partial p. 149, IA leaves 178–179, access-PDF pp. 178–179,
+and DjVu OCR objects 177–178. It begins at the top of p. 148 with `QUAESTIO
+III. Quis sit verus finis 70. annorum captivitatis Babylonicae?`, contains
+Question III in full, and ends in the left column of p. 149 after `septimus vel
+nonus ante suam mortem perhiberi solet.`
+
+`QUAESTIO IV. Utrum Baltasar an Darius Medus ultimus fuerit Chaldaeorum Rex?`
+begins immediately below in the same column and is wholly excluded. Both
+controlling 300-dpi images, `pdf-178.jpg` and `pdf-179.jpg`, were used for the
+transcription; OCR and PDF text served only as aids. The marginalium divided
+across the p. 148/p. 149 break is joined after the p. 149 marker in both files.
+The pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -266,11 +282,13 @@ have not been modernized or endorsed.
 - `parts/part-09-book-01-chapter-10-question-01-english.md`
 - `parts/part-10-book-01-chapter-10-question-02-latin.txt`
 - `parts/part-10-book-01-chapter-10-question-02-english.md`
+- `parts/part-11-book-01-chapter-10-question-03-latin.txt`
+- `parts/part-11-book-01-chapter-10-question-03-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
-04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, and twenty-six
-for Part 08, two for Part 09, and four for Part 10. There are twenty current
-files in ten Latin/English pairs, containing 155 synchronized source markers
-per language (310 marker occurrences across all twenty files). The files
-remain AI-assisted and unreviewed.
+04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
+for Part 08, two for Part 09, four for Part 10, and two for Part 11. There are
+twenty-two current files in eleven Latin/English pairs, containing 157
+synchronized source markers per language (314 marker occurrences across all
+twenty-two files). The files remain AI-assisted and unreviewed.

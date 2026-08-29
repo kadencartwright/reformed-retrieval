@@ -324,6 +324,15 @@ and has one identical marker.
 The next unit resumes there with the numbered `Quarto, Deus non producit res
 in sua aeternitate`.
 
+Part 30 contains the complete fourth objection and its confirmation. It
+remains on printed p. 69 / canvas 00095 and has one identical marker.
+
+- `parts/part-30-digression-03-section-07-objection-04-latin.txt`
+- `parts/part-30-digression-03-section-07-objection-04-english.md`
+
+The next unit resumes there with Twisse's `Malo nodo malus quaerendus est
+cuneus`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

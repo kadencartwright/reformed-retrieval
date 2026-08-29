@@ -42,20 +42,49 @@ Printed-page markers are retained in both files in an identical sequence.
 Where the end of chapter II shares printed page 14 with the opening of chapter
 III, Part 01 stops before the `CAP. III` heading.
 
+The witness's printed chapter numbering is preserved without silent
+correction. After chapter IV it prints `CAP. VI. De Charactere` and then prints
+`CAP. VI. De Numero Sacramentorum`; the following chapters are numbered VII
+and VIII.
+
 The English is a full close translation of the paired Latin, not a summary. It
 does not use a modern translation as a wording source. `Bellarm.` identifies
 Bellarmin's position as stated by Ames; `Protest.` identifies Ames's Protestant
 reply.
 
-## Completed unit
+## Completed units
 
-**Part 01 is complete as an AI-assisted, unreviewed working draft.** It covers
-sixteen consecutive witness leaves: the TOME III title page, Ames's dedication
-to the Frisian supreme court, and all of Book I chapters I–II (printed pages
-1–14). It ends with the last sentence of chapter II on printed page 14,
-immediately before `CAP. III. De Effectu Sacramentorum`.
+**Parts 01–07 are complete as AI-assisted, unreviewed working drafts.** They
+cover the TOME III title page, Ames's dedication to the Frisian supreme court,
+and Book I through the end of chapter VIII (printed pages 1–45).
 
-- `parts/part-01-title-dedication-and-chapters-01-02-latin.txt`
-- `parts/part-01-title-dedication-and-chapters-01-02-english.md`
+- **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
+  1–14.
+  - `parts/part-01-title-dedication-and-chapters-01-02-latin.txt`
+  - `parts/part-01-title-dedication-and-chapters-01-02-english.md`
+- **Part 02:** Book I chapter III, *De Effectu Sacramentorum*, printed pages
+  14–26.
+  - `parts/part-02-book-01-chapter-03-latin.txt`
+  - `parts/part-02-book-01-chapter-03-english.md`
+- **Part 03:** Book I chapter IV, *De Sacramentorum Comparatione*, printed
+  pages 26–32.
+  - `parts/part-03-book-01-chapter-04-latin.txt`
+  - `parts/part-03-book-01-chapter-04-english.md`
+- **Part 04:** the first printed chapter VI, *De Charactere*, printed pages
+  32–34.
+  - `parts/part-04-book-01-chapter-06-on-character-latin.txt`
+  - `parts/part-04-book-01-chapter-06-on-character-english.md`
+- **Part 05:** the second printed chapter VI, *De Numero Sacramentorum*,
+  printed pages 34–37.
+  - `parts/part-05-book-01-chapter-06-number-of-sacraments-latin.txt`
+  - `parts/part-05-book-01-chapter-06-number-of-sacraments-english.md`
+- **Part 06:** Book I chapter VII, *De comparatione Sacramentorum novi
+  Testamenti inter se*, printed pages 37–39.
+  - `parts/part-06-book-01-chapter-07-comparison-of-sacraments-latin.txt`
+  - `parts/part-06-book-01-chapter-07-comparison-of-sacraments-english.md`
+- **Part 07:** Book I chapter VIII, *De Caeremoniis*, printed pages 39–45.
+  - `parts/part-07-book-01-chapter-08-ceremonies-latin.txt`
+  - `parts/part-07-book-01-chapter-08-ceremonies-english.md`
 
-The next unit begins with Book I, chapter III, on the shared printed page 14.
+The next unit begins with `LIBER SECUNDUS. DE BAPTISMO` at the foot of printed
+page 45 and continues with Book II, chapter I, on printed page 46.

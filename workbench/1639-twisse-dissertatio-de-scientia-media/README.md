@@ -343,6 +343,16 @@ has two byte-identical markers.
 The next unit resumes on printed p. 70 / canvas 00096 at Twisse's `RESP.
 Productio rerum secundum quod se tenet ex parte Dei mensuratur aeternitate`.
 
+Part 32 contains Twisse's complete opening counter-response on eternal
+production and the missing second member of Navarrete's distinction. It
+remains on printed p. 70 / canvas 00096 and has one identical marker.
+
+- `parts/part-32-digression-03-section-07-eternal-production-response-latin.txt`
+- `parts/part-32-digression-03-section-07-eternal-production-response-english.md`
+
+The next unit resumes there with `Rursus, haec rerum existentia in aeternitate
+vel aliquid est vel nihil`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

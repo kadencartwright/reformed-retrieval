@@ -187,6 +187,16 @@ Its pair has two byte-identical source markers.
 The next unit resumes on printed p. 68 / canvas 00094 with `Veruntamen ut
 fatear quod res est`.
 
+Part 16 contains Twisse's complete qualified concession concerning extrinsic
+denomination, known and willed being, and intentional being. It remains on
+printed p. 68 / canvas 00094 and has one identical marker.
+
+- `parts/part-16-digression-03-section-07-intentional-being-latin.txt`
+- `parts/part-16-digression-03-section-07-intentional-being-english.md`
+
+The next unit resumes there with `Forte tamen istud restringis duntaxat ad
+istud instans temporis`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

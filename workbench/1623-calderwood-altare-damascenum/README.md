@@ -87,12 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Sixteen numbered Latin/English units are present. They now carry the main text
-from printed p. 1 through the upper portion of printed p. 243, but the
+Seventeen numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the upper portion of printed p. 252, but the
 inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–16 begin exactly at their audited predecessor boundaries and do not
+Parts 09–17 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -113,6 +113,7 @@ alter either inherited part.
 | 14 | Chapter IV: arguments 1–5 against the princely bishop's intensive power | printed pp. 193–203 / PDFs 205–215, both boundary pages partial | 11 paired and image-audited |
 | 15 | Chapter IV: argument 6, equality of bishops and presbyters, through preaching and sacramental ministry | printed pp. 203–215 / PDFs 215–227, both boundary pages partial | 13 paired and image-audited |
 | 16 | Chapter IV: argument 6, ordination and the equality of ministerial power | printed pp. 215–243 / PDFs 227–255, both boundary pages partial | 29 paired and image-audited |
+| 17 | Chapter IV: argument 6, jurisdiction and presbyteral government | printed pp. 243–252 / PDFs 255–264, both boundary pages partial | 10 paired and image-checked |
 
 ### Part 07 bounds and evidence
 
@@ -537,7 +538,48 @@ joins, and both boundaries.
 - Latin: `parts/part-16-chapter-04-argument-06-ordination-latin.txt`
 - English: `parts/part-16-chapter-04-argument-06-ordination-english.md`
 
-All sixteen units remain **AI-assisted and unreviewed**. They require complete
+### Part 17 bounds and evidence
+
+Part 17 begins exactly where Part 16 ends, in the lower portion of shared
+printed p. 243 / IA leaf 255 / PDF p. 255, at:
+
+`Sequitur potestas altera nempe iurisdictionis.`
+
+It contains Calderwood's treatment of jurisdiction through the biblical case
+that dogmatic, ordering, and judicial powers belong to presbyters. It examines
+the deciding voice of presbyters in Acts 15, ecclesiastical canons and good
+order, the keys and the public forum, the development of public and secret
+penance, excommunication at Corinth, and the external government denoted by
+the scriptural names pastor, presbyter, and bishop. The pair retains the
+extended attributed quotations from Dounamus, Bellarmine, Junius, Spalatensis,
+Bilson, Saravia, Field, Whitaker, and others; all visible marginal citations;
+and the Greek terminology and quotations, including `δογματικὴ`, `διατακτικὴ`,
+`κριτικὴ`, `κατὰ τάξιν`, `ἐπισκοπεῖν`, `ποιμαίνειν`, `κοπιῶντας`,
+`προεστῶτας`, and `ἡγούμενοι`.
+
+It ends in the upper portion of printed p. 252 / IA leaf 264 / PDF p. 264 at:
+
+`Patet igitur penes Presbyteros in Ecclesia Apostolica fuisse iurisdictionis
+potestatem ordinariam.`
+
+The immediately following `Gratianus in Decreto citans Hieronymum in
+Epistolam ad Titum` begins the extended historical argument from Jerome and
+is excluded. This gives Part 17 ten identical Latin and English source
+markers, p. 243 partial through p. 252 partial. Printer-divided words at page
+boundaries are joined, with each incoming marker placed before the complete
+Latin word and the corresponding English word or phrase.
+
+The controlling access-PDF images for PDFs 255–264 were freshly rendered at
+220 dpi and checked page by page; PDF p. 265 was also checked to confirm the
+outgoing continuation. The access PDF and its OCR/scandata aids match the
+identity and hashes documented under Part 16. The IA OCR and 1708 Leiden reset
+assisted reading only; the 1623 images governed wording, typography,
+quotations, citations, Greek, joins, and both boundaries.
+
+- Latin: `parts/part-17-chapter-04-argument-06-jurisdiction-latin.txt`
+- English: `parts/part-17-chapter-04-argument-06-jurisdiction-english.md`
+
+All seventeen units remain **AI-assisted and unreviewed**. They require complete
 comparison by a qualified Latin editor before quotation or publication.
 
 ## Licensing

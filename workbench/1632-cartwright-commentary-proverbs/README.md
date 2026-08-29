@@ -471,6 +471,31 @@ requiring qualified human review.
 - `parts/part-19-chapter-19e-latin.txt`
 - `parts/part-19-chapter-19e-english.md`
 
-The next unit begins with `V. 21. Multae sunt cogitationes...` in the left
-column of shared PDF 416 / printed column 806; restart there, excluding all
-verse 20 text above it.
+**Part 19f is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XIX from `V. 21. Multae sunt
+cogitationes cujusque...` in the left column of shared PDF 416 / printed
+column 806 through the final prose of verse 22 on PDF 419 / printed column
+812. It stops immediately before `V. 23.` in that same left column. Latin and
+English have four byte-identical source markers (PDF 416–419; synchronized
+printed columns 806–807 through 812–813) and retain both verse lemmata, full
+prose, Hebrew, Greek, citations, bracketed wording, and printed
+irregularities. The complete files contain 1,529 Latin-file and 2,215
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 416–419, was inspected at original detail in both-column
+order. The shared PDF-416 marker is intentional: Part 19e ends above `V. 21.`,
+while Part 19f begins with that lemma below it, so no verse 20 prose overlaps
+and none is omitted. The shared PDF-419 marker includes only the concluding
+prose of verse 22 above `V. 23.`; no verse 23 material is imported. Page-turn
+catchwords were excluded rather than duplicated, while witness wording such
+as `bonis opibus`, `gratuita`, and the Hebrew and Greek expressions was
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-19-chapter-19f-latin.txt`
+- `parts/part-19-chapter-19f-english.md`
+
+The next unit begins with `V. 23. Reverentia Iehovae ad vitam spectat; & satur
+pernoctabit, ne malo visitabitur.` in the left column of shared PDF 419 /
+printed column 812; restart there, excluding all verse 22 text above it.

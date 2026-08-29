@@ -848,3 +848,34 @@ This unit is bounded by the chapter boundary rather than by an arbitrary image
 count. The next unit begins in the left column of reader image `PA147` /
 printed p. 147, after the dividing rule, at `CAPUT III` and the initial
 lemmata for verses 1–9.
+
+**Part 38 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the initial Ecclesiastes 3:1–9 lemma block and its complete homiletic
+exposition on reader images `PA147`, `PA149`, `PA151`, and `PA153`. It begins
+in the left column of printed p. 147, after the dividing rule, at `CAPUT III`,
+crosses the image joins at the p. 148 catchword `quam`, the p. 150 division
+`severi- / tatem`, and the p. 152 catchword `sunt`, and ends in the left column
+of printed p. 153 immediately before the repeated lemmata `Vers. 10. Vidi hanc
+esse occupationem` and `Vers. 11. Ipsum unumquodque facere pulchrum suo
+tempore`. The paired files have four exactly identical reader-image markers
+and retain the chapter heading, all nine initial verse lemmata, the summary and
+analytical division, the general axiom of mutability, the induction of its
+parts, the verse-9 corollary, the Greek `τὸ ἀλλοτριοεπισκοπεῖν`, `ἐνέργειαν`,
+`σχῆμα`, and `εὐρυθμίαν`, and every printed biblical reference. No independent
+marginal notes, Hebrew, or other foreign-script text occur in this unit. The
+English translator's notes disclose all three image-spanning joins, the
+printed `1. Cor. 9` citation, the irregular `illum esse cum speciem`, the mixed
+`desinat ... desiit` sequence, the question mark after `promptum est`, the
+compressed stage comparison, and the number or subject compression in `Dies
+... quos cum implebunt` rather than silently repairing or omitting them. It
+also records the irregular `ut est ne tempus` and the agreement mismatch in
+`consilium ... & labor adhibenda`:
+
+- `parts/part-38-homiliae-chapter-03-verses-01-09-latin.txt`
+- `parts/part-38-homiliae-chapter-03-verses-01-09-english.md`
+
+This unit is bounded by the exact next repeated verse lemmata rather than by
+an arbitrary image count. The next unit begins in the left column of reader
+image `PA153` / printed p. 153 at `Vers. 10. Vidi hanc esse occupationem, quam
+dedit Deus filiis hominum ut occupent se in ea` and `Vers. 11. Ipsum
+unumquodque facere pulchrum suo tempore`.

@@ -295,6 +295,15 @@ p. 69 / canvas 00095 and has one identical marker.
 The next unit resumes there with `Ad hoc argumentum Navarretti responsio haec
 est`.
 
+Part 27 contains Navarrete's complete answer to the third objection. It remains
+on printed p. 69 / canvas 00095 and has one identical marker.
+
+- `parts/part-27-digression-03-section-07-answer-to-objection-03-latin.txt`
+- `parts/part-27-digression-03-section-07-answer-to-objection-03-english.md`
+
+The next unit resumes there at Twisse's `RESP. At nihil terminat notitiam
+nostram intuitivam nisi quod existit simpliciter`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

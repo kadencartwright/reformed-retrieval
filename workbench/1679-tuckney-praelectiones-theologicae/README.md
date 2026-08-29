@@ -62,6 +62,127 @@ Romans 1:17, begins on printed p. 20 / IA leaf 28 and is excluded.
   pp. 3–4; readings recoverable from grammar and parallel wording are recorded
   conservatively.
 
+## Part 02: first unit of the Romans 1:17 lecture
+
+Part 02 begins Tuckney's lecture on Romans 1:17. The Latin transcription
+starts with the heading and text on printed p. 20 / IA leaf 28 and runs through
+the completed discussion of Revelation 22:11 partway down printed p. 39 / IA
+leaf 47. Its next sentence, `Ex his igitur quae fuse nimis forsan tractata
+sunt constat uti spero, quod ...`, begins on printed p. 40 / IA leaf 48 and is
+excluded.
+
+- Latin: `parts/part-02-romans-01-17-justification-01-latin.txt`
+- English: `parts/part-02-romans-01-17-justification-01-english.md`
+- Latin extent: twenty markers, printed pp. 20–39 / IA leaves 28–47
+- Existing-file limitation: the Latin contains that full coherent unit, but
+  the English file presently stops after printed p. 29 / IA leaf 37, at the
+  transition to the third proposition, and therefore has only ten page
+  markers. Its own opening extent notice is inaccurate. This pre-existing
+  mismatch is recorded here rather than silently repaired because Part 02 is
+  outside the scope of the present continuation.
+
+## Part 03: second unit of the Romans 1:17 lecture
+
+Part 03 continues with the proofs that the scriptural meaning of
+justification is forensic, surveys several extended or related uses of the
+word, and answers the proposal that Romans 5 describes an unrealized
+universal justification. It begins with `Ex his igitur quae fuse nimis
+forsan tractata sunt constat uti spero, quod ...` on printed p. 40 / IA leaf
+48 and ends after Tuckney closes the first introductory question and lists the
+benefits from which justification must next be distinguished, partway down
+printed p. 51 / IA leaf 59. The next sentence is `Et primo quod ad
+Redemptionem attinet, cum Redemptio in genere sit ...`; it begins the distinct
+discussion of redemption on that same printed page and is excluded.
+
+- Latin: `parts/part-03-romans-01-17-justification-02-latin.txt`
+- English: `parts/part-03-romans-01-17-justification-02-english.md`
+- Extent: twelve synchronized markers, printed pp. 40–51 / IA leaves 48–59
+- Source audit: the p. 39/40 join, every included page image, and the p. 51
+  endpoint and following p. 52 continuation were visually compared with the
+  controlling facsimile; page-structured OCR served only for navigation and
+  collation. No unresolved source damage occurs in this part.
+
+## Part 04: third unit of the Romans 1:17 lecture
+
+Part 04 continues at the distinct discussion of redemption, compares
+justification in turn with redemption and reconciliation, and begins the
+comparison with adoption. It then surveys the proposed priority of adoption
+over justification and completes Tuckney's reply to the first argument for
+that priority. It begins with `Et primo quod ad Redemptionem attinet, cum
+Redemptio in genere sit ...` partway down printed p. 51 / IA leaf 59 and ends
+with `Atque haec ad primum ejus argumentum satis superque` partway down
+printed p. 64 / IA leaf 72. The next sentence, `Secundum vero ita se habet.
+Quod in Christo praecessit ...`, opens the second argument and is excluded.
+
+- Latin: `parts/part-04-romans-01-17-justification-03-latin.txt`
+- English: `parts/part-04-romans-01-17-justification-03-english.md`
+- Extent: fourteen synchronized markers, printed pp. 51–64 / IA leaves 59–72
+- Source audit: the incoming p. 50/51 join, every included image and page
+  join, the p. 64 endpoint, and the following p. 65 continuation were
+  visually compared with the controlling facsimile; page-structured OCR was
+  used only for navigation and collation.
+- Disclosure: a short Greek expression before `de sub lege` on printed p. 58
+  is indistinct in the microfilm. The tentative reading is explicitly marked
+  in the Latin and disclosed in the English rather than silently resolved.
+  The truncated marginal title attached to `M. Sym` on that page and a
+  Wotton number on printed p. 54 are likewise marked `[illegible]`.
+
+## Part 05: fourth unit of the Romans 1:17 lecture
+
+Part 05 resumes Tuckney's reply to the proposed priority of adoption over
+justification. It states and answers the second through fifth arguments for
+that priority, then turns to the contrary case and completes the answer to
+Forbes's first proof from John 1:12. It begins with `Secundum vero ita se
+habet. Quod in Christo praecessit ...` partway down printed p. 64 / IA leaf
+72 and ends with `Atque haec hactenus de prima Doctissimi Viri probatione
+...` at the opening of printed p. 77 / IA leaf 85. The next sentence, `2.
+Secunda probationis pars sequitur, atque ex v. 13. proxime sequente
+desumitur`, begins the second proof and is excluded.
+
+- Latin: `parts/part-05-romans-01-17-justification-04-latin.txt`
+- English: `parts/part-05-romans-01-17-justification-04-english.md`
+- Extent: fourteen synchronized markers, printed pp. 64–77 / IA leaves 72–85
+- Source audit: every included image and page join, the incoming p. 64
+  boundary, the p. 77 endpoint, and the following p. 78 / IA leaf 86
+  continuation were visually compared with the controlling facsimile;
+  page-structured OCR was used only for navigation and collation.
+- Scripts and disclosure: Greek and unpointed Hebrew are retained in both
+  files, with contemporary marginal transliterations also preserved. The
+  p. 74 Greek `ἀνάλογον` and the p. 75 Calvin/Budaeus Greek forms
+  were checked from magnified image crops. No unresolved source damage or
+  illegible reading occurs in this part.
+
+## Part 06: fifth unit of the Romans 1:17 lecture
+
+Part 06 begins Forbes's second proof from John 1:13, completes Tuckney's
+comparison of justification with adoption, and then compares justification
+with effectual calling, regeneration, and sanctification, closing the first
+preliminary question. It begins the second preliminary question by identifying
+the works excluded from justification and completes the survey of three
+opposing constructions: ceremonial works alone, moral works preceding faith,
+and Grotius's external works. It begins with `2. Secunda probationis pars
+sequitur ...` on shared printed p. 77 / IA leaf 85 and ends with `Atque
+hactenus in Controversiae hujus statu constituendo Adversariorum tantum
+exposuimus sententias ...` on printed p. 88 / IA leaf 96. The next paragraph,
+`4. At 4. in loco nobis expedita est fides omnia significari ...`, states
+Tuckney's own position and is excluded.
+
+- Latin: `parts/part-06-romans-01-17-justification-05-latin.txt`
+- English: `parts/part-06-romans-01-17-justification-05-english.md`
+- Extent: twelve synchronized markers, printed pp. 77–88 / IA leaves 85–96
+- Source audit: every included image and page join, the incoming p. 77
+  boundary, the p. 88 endpoint, and the following paragraph were visually
+  compared with the controlling facsimile; page-structured OCR was used only
+  for navigation and collation.
+- Scripts and disclosure: Greek and Hebrew are retained in both files, with
+  the printed marginal transliterations also preserved. The long Theophylact
+  quotation on printed p. 80 and the smaller Greek expressions throughout
+  were checked from magnified image crops. The witness's omission of *non*
+  from the first Latin clause quoted from Galatians 2:16 on printed p. 84 is
+  retained in the transcription and explicitly disclosed where the English
+  supplies the contextually necessary “not.” No unresolved source damage or
+  illegible reading occurs in this part.
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -1,0 +1,290 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimum, De Fœdere Gratiæ, et Caput Undecimum, De Modo Conversionis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 446 at the lemma `MATT.
+10:5`, without repeating the end of Part 28. It completes Chapter X with three
+questions: why the gospel is preached to some nations rather than others;
+whether the Covenant of Works was too rigorous for God to execute upon Adam's
+posterity; and whether anyone remains subject to the Law and the Adamic
+Covenant. It then begins Chapter XI with Ephesians 1:18–19, the question
+whether grace effects conversion irresistibly, six preliminary distinctions,
+seven exclusions, the exact disputed question, and Rutherford's thesis. It
+ends on printed p. 456 after `Nos, voluntatem, internæ Dei gratiæ, minimè
+resistere posse, docemus`, before the separate paragraph `Ad illustrationem
+quæstionis hujus controversæ` on p. 457. Printer line-end and page-end
+divisions have been joined; at every split-word page boundary the new-page
+marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its two corrections for p. 448 are applied: line 1's body reading
+`obstinatoribus` is corrected to `obstinatioribus`, and the defective
+`ndulsit` is corrected to `indulsit`.]
+
+[Printed-form note: The forms and citations `Ezech 3:6, 7`, `inobedientiæ`,
+`repassionem`, `Script. Synod.`, `Bogerm.`, and the capitalization of
+`Efficacis`, `Voluntas`, `Voluntatem`, and `Intellectui` are retained rather
+than silently regularized. The closing comma after `docemus` on p. 456 is also
+retained; the next page begins the separate paragraph `Ad illustrationem`.
+The p. 448 errata-corrected forms are recorded in the preceding note. No
+Greek, Hebrew, or substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 446 | PDF p. 497 | begins at MATT. 10:5]
+
+MATT. 10:5.
+
+In viam gentium nè abite, & in urbem Samaritanorum nè ingrediamini.
+
+Quæritur, An Evangelium, seu verbum hoc fœderis, nationibus & hominibus
+prædicetur, habitâ ratione meritorum aut demeritorum; an verò ex merâ gratiâ &
+Dei beneplacito? Remonstrantes, art. 2. pag. 326. dicunt, ex gratiâ prædicari
+Evangelium; quod verò quibusdam nationibus non prædicetur, causam esse, ipsorum
+nequitiam & pravitatem; cùm Deus ex se, & ex antecedente suâ voluntate salvandi
+omnes, paratus sit suum Evangelium omnibus nationibus & hominibus indulgere.
+
+[1668 KBNL/UvA witness | logical printed p. 447 | PDF p. 498]
+
+Nos verò, ex solo Dei beneplacito pendere asserimus, citra omnia merita aut
+demerita hominum, quod hisce Nationibus prædicetur Evangelium, illis verò non.
+
+1. Quia Deus facit quicquid tenetur facere. Atqui Deus Psal. 147:19. Verbum
+suum denuntiat Jacobo; non fecit ita omni nationi. Act. 14:16. Deus præteritis
+ætatibus sivit omnes gentes suis ipsorum viis incedere. Act. 16:6, 7. Phrygiâ
+autem peragratâ, & Galaticâ regione, prohibiti sunt à Spiritu Sancto loqui
+sermonem Dei in Asiâ. Quùm venissent in Mysiam, tentabant versus Bithyniam;
+sed non sivit eos ire Spiritus Jesu.
+
+2. Quia nusquam in totâ Scripturâ extat tale pactum; qui hoc vel illud
+fecerint, & donis naturæ rectè usi fuerint, ii in præmium, Evangelii beneficium
+reportabunt. Nec talis comminatio; qui aliis sceleratiores sunt, donisque
+naturæ minus rectè utuntur, præconium Evangelii ipsis negabit.
+
+3. Quia Rom. 9. Deus miseretur quorum vult, & indurat quos vult.
+
+4. Tota ratio, cur Verbum Fœderis annuntiatum sit populo Judaico, & non aliis
+gentibus, est in Dei beneplacito. Deut. 7:7. & cap. 9:5. Nequaquam propter
+Justitiam ipsorum.
+
+5. Quia Deus Tyriis & Sydoniis, futuris flexibilioribus, & docilioribus
+Evangelio & virtutibus Christi, Evangelii & miraculorum auxilia negavit.
+Matth. 11:21, 22. Et Judæis, illis multò
+
+[1668 KBNL/UvA witness | logical printed p. 448 | PDF p. 499]
+
+obstinatioribus, eadem auxilia indulsit. Et Ezechielem Prophetam ad domum
+Israelis rebellem & præfractam misit; & gentibus ignoti sermonis, Prophetis Dei
+multò obsequentioribus futuris, sermonem propheticum negavit Ezech 3:6, 7.
+
+6. Quia Evangelium est purum Dei donum. Matth. 11:25, 26. Et Deo licèt facere
+de suo quod vult. Matth. 20:15.
+
+7. Quia si libero Arbitrio, omnibus ad agendum requisitis stantibus, & ad
+promerendum & demerendum Evangelii præconium, indifferente, transigenda foret
+res; tùm Libero Arbitrio, non Deo ejusque gratiæ, indulti Evangelii gratiæ
+agendæ forent.
+
+8. Quia Deus, non refragantibus Adversariis, interdum pejoribus &
+sceleratioribus Evangelium indulget, & melioribus negat; & sic ex absolutâ suâ
+libertate Evangelium dat, quibus vult; negat, quibus vult.
+
+9. Quia vocatio alioquin ex operibus, non ex gratiâ foret: contra 2 Tim. 1:9.
+Tit. 3:3. Eph. 2:3, 4.
+
+10. Quia ex contrariâ sententiâ sequeretur, Deum velle omnibus & singulis
+mortalibus prædicari Evangelium. Quod quia absurdum est, Arminiani causam non
+indulti Evangelii rejiciunt in liberam voluntatem Prædicatorum, ad Barbaras
+nationes Evangelii disseminandi gratiâ, ire detrectantium. Sed 1. quandoquidem
+jam
+
+[1668 KBNL/UvA witness | logical printed p. 449 | PDF p. 500]
+
+Deus extra ordinem Prædicatores non vocat, & vocatis Prædicatoribus, uti
+tempore Apostolorum, Deus extraordinarium donum linguarum non largitur, sine
+quo prædicatio Evangelii apud Barbaros & ignotos populos est admodùm
+difficilis: sinitque Principes, Respublicas & societates negotiatorum eo lucri
+causâ commeantium, deficere in officio communicandi illis populis Evangelium;
+& reditus ex bonis Deo dicatis, ubi supersunt, sufficientes assignandi aut ex
+acquisitis opibus novos & sufficientes constituendi; hoc argumento est, Deum
+nolle prædicari iis Evangelium. Qui enim non vult medium sine quo non, etiam
+non vult finem. Etsi interim Deus velit obligatos esse Principes, Respublicas &
+societates Christianorum, ad communicandum ipsis Evangelium; Quos ista Dei
+voluntas non excusabit. 2. Hoc est contra Dei Justitiam obloqui; imò Justitiæ
+Dei adversatur, quod gens innocua luat pœnas ignaviæ & inobedientiæ
+Prædicatorum, qui cùm ipsis nullâ sanguinis necessitudine conjuncti sunt.
+
+11. Quia preces, ex fide, Deo fundi non possunt pro indulgendo Evangelio
+Judæis & aliis nationibus; si causa indulti vel non indulti Evangelii est
+Liberum Arbitrium, nè quidem à Deo ad promerendum Evangelium determinabile.
+
+Quæritur, An Fœdus operum, initum cum Adamo, sit rigidum & tale, quod Deus ex
+rigore in
+
+[1668 KBNL/UvA witness | logical printed p. 450 | PDF p. 501]
+
+posteros ejus, exequi non poterat? Id consequenter docent Remonstrantes in
+doctrinâ de pœnâ peccati Originalis, quæ nulla illis est. Corvinus contra
+Molin. cap. 9. §. 5. Apol. cap. 7. fol. 84. Nos negamus.
+
+1. Quia injustus & crudelis esset Deus, si propter primum peccatum Adami,
+comminaretur ei omnibusque ipsius posteris mortem, tùm temporariam, tùm
+æternam; & tamen pugnaret cum Misericordiâ, Clementiâ & Bonitate Dei, propter
+illud solum peccatum, quod infantes in propriâ personâ non perpetrârunt, sed
+alienâ tantùm commissum est, infantes æternos gehennæ cruciatus luere: Quia,
+sicut pugnat cum Dei Veracitate & Fidelitate, promittere talia bona, quæ, salvâ
+suâ justitiâ aut bonitate, reipsâ præstare non potest; ità cum Dei Justitiâ &
+sapiente Bonitate pugnat, illam pœnam creaturæ comminari, quam actu infligere
+non potest, nisi velit audire Deus crudelis & rigidus, pœnam talem infligendo,
+quod cum Justitiâ, Bonitate, Clementiâ, & Misericordiâ Dei pugnat. At verò Deus
+non est injustus & crudelis. Ergò poterat, juxta comminationem Fœderis operum,
+propter primum peccatum Adami, ipsum omnesque ipsius posteros, etiam infantes,
+justè punire temporariâ & æternâ morte; nec hoc cum Misericordiâ, Clementiâ &
+Bonitate ejus pugnaret.
+
+[1668 KBNL/UvA witness | logical printed p. 451 | PDF p. 502]
+
+2. Quia cum Deus ex merâ gratiâ, & absoluto suo beneplacito, Filium suum in
+mundum miserit. Joan. 3:16. Tit. 3:4. poterat eum non misisse, & sic injustus
+non fuisset: etsi Adamus omnesque ejus posteri, mortem tùm temporariam tum
+æternam luissent.
+
+3. Quia Lex Dei omnis, justa & sancta est: Ergo, & ejusdem Legis
+comminationes, executioni mandatæ, justæ sunt. Nam Lex justa esse non potest,
+cujus comminatio est injusta.
+
+4. Quia fingunt Remonstrantes talem Fœderis administrationem, ex parte Dei,
+quâ necessariò in æternum periturum fuisset omne genus humanum, pugnare cum
+voluntate Dei salvandi omnes & singulos mortales; cùm tamen nulla sit talis in
+Deo voluntas, & cum æternum exitium unius hominis æquè pugnet cum tali Dei
+voluntate, ac omnium & singulorum hominum æterna perditio.
+
+5. Ex hâc doctrinâ concludunt, Peccatum Originale non esse propriè peccatum,
+nec æternæ mortis demeritorium; quod ex Scripturis, falsum esse, anteà
+demonstratum est.
+
+Quæritur, An mortalium nemo jam subsit Legi, quà Lex est, & Fœderi cum Adami
+inito, quà tali; eò quòd ruptum sit Fœdus hoc, omnesque pœnâ involvat, eòque ad
+obedientiam simul obligare nequeat? Ajunt Remonstrantes. Corvinus contra Molin.
+cap. 8. §. 7.
+
+[1668 KBNL/UvA witness | logical printed p. 452 | PDF p. 503]
+
+Nos negamus. 1. Quia Lex, quà Lex, jam non damnaret homicidas, perjuros, qui
+de Lege scriptâ nihil audiverunt; qui tamen Rom. 2:12. Absque Lege perituri
+dicuntur. Si enim Lex, quà Lex, eos ad obedientiam activam non obligaret; nec
+ex Justitiâ, eosdem ad pœnam, propter non præstitam obedientiam activam,
+obligaret.
+
+2. Quia, quidam sunt sub Lege, & quidam sub gratiâ, & Christo maritati. Rom.
+7.
+
+3. Quia, nemo mortalium isti maledictioni Legis, Deut. 27:26. propter peccata
+jam post lapsum commissa, obnoxius esset: Nam nemo peccat faciendo contra
+Legem, ad obedientiam activam non obligantem.
+
+4. Christus igitur mortem obiisset, tantùm pro rupto primo Fœdere, cum Adamo
+inito; nec factus fuisset execratio pro nostrâ actuali Legis transgressione;
+cujus contrarium à Paulo docetur. Gal. 3:10, 11, 13, 14.
+
+[1668 KBNL/UvA witness | logical printed p. 453 | PDF p. 504 | begins at CAPUT UNDECIMUM]
+
+CAPUT UNDECIMUM,
+
+DE
+
+MODO CONVERSIONIS.
+
+EPH. 1:18, 19.
+
+Ut sciatis, quæ sit supereminens illa magnitudo potentiæ ipsius, in nobis qui
+credimus, pro efficacitate potentis roboris ipsius: quod exercuit in Christo,
+cùm suscitavit eum ex mortuis, & collocavit ad dexteram suam in cælis.
+
+Undè constat, non minores esse vires gratiæ Efficacis, quàm ipsius Dei
+Omnipotentiæ; adeòque nos credere in Christum eâ forti, validâ & irresistibili
+actione, quâ Christus è mortuis exsuscitatus est. Unde de modo Conversionis
+
+Quæritur, An gratia operetur conversionem irresistibiliter, an non? Ut autem
+figatur status Quæstionis, hæc prænotanda sunt.
+
+1. Resistentia est reactio agentis in patiente; ut ait Zabarella de Reactione.
+cap. 5. Vel potius Resistentia est impeditio, seu propulsatio actionis, seu
+non-admissio actionis, quæ formam consequitur, quâ forma sese conservare
+nititur, & simul actionem contrarii agentis, repatiendo & reagendo, impedire
+aut retardare nititur: Ut non assentiar Zabarellæ neganti esse reactionem vel
+
+[1668 KBNL/UvA witness | logical printed p. 454 | PDF p. 505]
+
+repassionem; nam omne resistens quà tale reagit & repatitur, alioqui cedit, non
+resistit. Estque vel inter agentia Physica, ut quandò ignis aquæ resistit; vel
+hyperphysica, ut quandò Angelus Angelo contranititur; vel inter agentia
+moralia, ut quandò homo sano consilio obluctatur. Undè Resistentia triplex est,
+Physica, Hyperphysica, Moralis. Deindè agentium & patientium vires, vel sunt
+æquales, undè resistentia ægra & incompleta; vel inæquales, undè resistentia ad
+victoriam & completa.
+
+2. Fatemur, respectu 1. Gratiæ suadentis & invitantis, quæ quibusdam dicitur
+præveniens excitans & vocans externè, gratiam minimè esse irresistibilem, sed
+ei plerumque à nobis resisti. Jer. 7:13. Loquutus sum & non audivistis. Psal.
+81:14. Utinam populus meus obedivisset! 2. Respectu gratiæ internæ & operantis,
+omnibus electis inesse propensionem ad resistendum; licèt ea non sit completa,
+propter vires exsuperantes gratiæ: Quia omne contrarium suo contrario est
+aptum natum resistere; habitus autem corruptionis & interna gratia sunt
+contraria; & hæc resistentia est quasi Physica.
+
+3. Concedunt Adversarii illuminationem fieri irresistibiliter. Script. Synod.
+art. 4. pag. 16. Volumus nolumus, non possumus non scire.
+
+4. Affectus similiter trahi, & vires credendi iis dari irresistibiliter,
+docent. Corvinus contra Tilen. c. 12. p. 467.
+
+[1668 KBNL/UvA witness | logical printed p. 455 | PDF p. 506]
+
+5. Nos dicimus habitum gratiæ sanctificantis, & novum cor infundi
+irresistibiliter. Arminiani talem infusionem negant, eò quòd statuant
+conversionem esse actum Liberi nostri Arbitrii.
+
+6. Tria sunt distinguenda in voluntate. 1. Potentia credendi. Hæc confertur
+irresistibiliter; ut ajunt. 2. Est sensus pulsationum & suasionum Spiritus
+Sancti. De hoc ait Corvinus contra Bogerm. pag. 270:271. Voluntas non potest
+non sentire mentis illuminatæ pulsus, suasionem & illectamenta. Et contra
+Molin. cap. 33. §. 31. Fatemur quidem hominem se habere passivè in primo
+momento conversionis; sed respectu sensus, non respectu assensus. Tertium, quod
+est in voluntate, est assensus vel dissensus; & de hoc tertio ità statuunt
+Confess. cap. 17. thes. 7. Corvinus contra Bogerm. part. 1. pag. 363. contra
+Tilen. cap. 5. pag. 223. Episcopius, disp. 15. thes. 11. Deus (inquiunt)
+nunquam ita instruit hominem novis viribus gratiæ, quin semper maneat in
+hominis voluntate, iis uti vel non uti; imò positis omnibus ad operandum
+requisitis, voluntas potest assentire vel dissentire Deo vocanti.
+
+Hinc non quæritur, 1. An gratia sit resistibilis, respectu mediorum externorum?
+iis enim resisti potest. 2. Nec, an gratia prævia conversioni sit resistibilis?
+id enim concedimus. 3. Nec, an gratiæ communiori homines possint resistere?
+Nam temporanei tali gratiæ resistunt. Luc. 8:13.
+
+[1668 KBNL/UvA witness | logical printed p. 456 | PDF p. 507]
+
+1 Tim. 1:19. Nec, 4. Est quæstio de habituali gratiâ, electorum propriâ: ea
+enim est etiam resistibilis; alioqui electi verè renati peccare non possent.
+Nec 5. An mens irresistibiliter illuminetur, & an Voluntas & affectus sentiant
+irresistibiliter mentis illuminatæ suasiones & invitationes? Id nobis
+Adversarii largiuntur; quanquam non videmus, quomodò negare possint, Voluntatem
+liberam avocare posse intellectum à pensitandis rationibus Intellectui
+objectis, ut sic impediatur illuminandi actus. Nec 6. Quæritur, An Deus vim
+inferat Voluntati liberæ? id quod etiam nos negamus. Neque 7. An corruptio
+Voluntatis, apta nata sit reluctari actioni divinæ gratiæ? Sed Quæstio est.
+
+An Deus ità novâ gratiâ afficiat Voluntatem, nempè, gratiâ speciali
+Regenerationis, quæ ab æternâ Electione Dei manat; ut penes sit Voluntatem, eam
+gratiam completè & finaliter repudiare, ejusque actioni validissimæ ità
+finaliter obstare, ut planè repugnet Deo vocanti, ostiumque aperire ei
+pulsanti, renuere possit? Ajunt Arminiani. An verò Dei gratia, Electorum
+propria, in actum perducta, ità vitiosam rebellionem & duritiem cordis
+expugnet, ut non possit Deo vocanti completè & finaliter repugnare, quin
+necesse sit, necessitate hypotheticâ, Deo obediat?
+
+Nos, voluntatem, internæ Dei gratiæ, minimè resistere posse, docemus,

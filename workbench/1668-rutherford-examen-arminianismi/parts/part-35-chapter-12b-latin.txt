@@ -1,0 +1,278 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 506 at `Quæritur, an rectè
+docuerit Arminius in epistolâ ad Hippolytum`, without repeating Part 34's
+closing argument. It contains three complete questions: whether Christ's own
+righteousness is imputed to believers; whether the act of believing is itself
+their formal righteousness; and whether the elect can perfectly keep the Law
+by grace in this life. It ends within printed p. 515 after the eleventh and
+final printed argument of that last question. The new lemma `ROM. 6.23.` and
+its following question concerning mortal and venial sin are excluded.
+Printer line-end and page-end divisions have been joined; at every split-word
+page boundary the new-page marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its correction for p. 508 line 27 is applied: the body's `per nostris`
+is transcribed as `pro nostris`. The errata leaf later gives a second entry,
+`p. 508. l. 18. l. quin`, but the stated line on p. 508 provides no matching or
+grammatically intelligible target, so no conjectural change has been made.]
+
+[Printed-form note: The visibly difficult or irregular forms and citations
+`tumice`, `Rom. 3:11`, `Rom. 5:96,7,10`, `Eph, 2:5`, `2 Cor. 5:17:18`, `Rom-
+3:9`, `Psal. 130:3. & 143. 2 Prov. 20:9`, `I Reg. 3:46`, `me- Legi peccati`,
+and `b. e.` are retained rather than silently regularized. The last numbered
+question's printed argument sequence passes directly from 9 to 11, with no
+printed argument 10; that sequence is retained. The Greek `Ἄγραφον` is
+retained. Isolated edge marks, stains, show-through, running heads,
+signatures, catchwords, and ornaments in the controlling images are
+non-textual or non-substantive artifacts; no substantive marginal note or
+Hebrew passage occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 506 | PDF p. 557 | begins at Quæritur, an rectè docuerit Arminius in epistolâ ad Hippolytum]
+
+Quæritur, an rectè docuerit Arminius in epistolâ ad Hippolytum, fieri non
+posse, ut Deus Christi justitiam nobis imputet in justitiam, quia obedientia
+Christi est ipsissima justitia secundum severissimum Legis rigorem sumpta;
+justitia autem peccatoris est gratuita? Item an rectè Episcopius disp. 22.
+thes.
+
+[1668 KBNL/UvA witness | logical printed p. 507 | PDF p. 558]
+
+4. Non est itaque justitia propriè Christi, nedum activa aut passiva, seu id
+quod Christus utrâque illâ promeruit, & nos per solum Jesum consequimur: Non
+enim justitia Christi, propriè id est, quod imputatur; sed id, propter quod
+nobis credentibus in ipsum, imputatur justitia? Hoc est, An Christi justitia
+minimè nobis imputetur, sed propter Christi justitiam, quam moriendo &
+satisfaciendo pro nobis habet, factum sit, ut bona opera nostra, adeòque actus
+credendi nobis in justitiam imputentur, gratiosâ Dei æstimatione? Ajunt
+Arminiani. Ità ipse Arminius resp. ad art. 31. Si Creditor, cui debentur centum
+floreni, decem accipiens pro soluto habet, & solutum sic Debitori imputat, Et
+Pontificii cum Socinianis idem asserunt. Socinus dialog. de justificatione p.
+16:19. Smalcius disp. 4. contra Frantzium.
+
+Nos verò credimus, Christi justitiam nobis imputari, & eâ nos coram Deo
+justificari.
+
+1. Isa. 53.5. Nam ipse dolore afficitur à defectionibus nostris, atteritur
+propter iniquitates nostras; & castigatio pacis nostræ imponitur ei, & tumice
+ejus fit curatio nobis. v. 11. Iniquitates eorum ipse bajulabit v. 12. nam ipse
+peccata multorum perferet. Gal. 3:13. Christus redemit nos à maledictione
+Legis, factus execratio pro nobis. Phil. 3:9. Ut comperiar in eo, non habens
+meam justitiam, quæ est ex Lege, sed eam, quæ est per fidem Christi, id est,
+justitiam, quæ est ex Deo per fidem. Rom. 3:11. Nunc
+
+[1668 KBNL/UvA witness | logical printed p. 508 | PDF p. 559]
+
+autem absque Lege, justitia Dei manifestata est. --- 22. Justitia Dei per
+fidem Christi, in omnes & super omnes, qui credunt. 23. Omnes enim
+peccaverunt. 24. Ut qui justificantur gratis, id est, ejus gratiâ, per
+redemptionem factam in Jesu Christo. Justitia autem hæc v. 21:22. directè
+opponitur justitiæ inhærenti v. 23. quæ peccato est inquinata. At hæc est sola
+justitia Christi imputata.
+
+2. Quia justificatio nostra in hâc imputatione sita est. Rom. 4:6. Sicut etiam
+David declarat beatum eum hominem, cui Deus imputat justitiam sine operibus,
+dicens v. 7. Beati quorum remissa sunt iniquitates, & quorum obtecta sunt
+peccata.
+
+3. Quia Christus moriendo satisfecit Deo, vice & loco peccatorum, ita ac si
+ipsi mortem in suâ persona obiissent; justitiam enim Christus moriendo & Patri
+obediendo acquisivit, non merè personalem, sed fidejussoriam. Nam justus est,
+qui pœnas peccato debitas exactè luit, & legem Dei obediendo implevit. At non
+pro se, sed pro aliis luit, & tum pro se tum pro nobis Patri obedivit. Et
+fidejussoria & sponsoria justitia, est eorum propria, pro quibus vadimonium &
+fidejussio obitur.
+
+4. Quod Christus factus sit nostra justitia, pro nobis moriendo, & Patri
+obediendo; pro nobis victima, execratio & hostia pro nostris peccatis factus
+sit, in Scripturis expressè dicitur. 2 Cor. 5:21. Rom. 3:25. Rom. 5:96,7,10.
+Ioan. 15:
+
+[1668 KBNL/UvA witness | logical printed p. 509 | PDF p. 560]
+
+13. 1 Pet. 3:18. Isa. 53:12. At quòd Christus mortuus sit & Patri obedierit eo
+nomine, ut nostra bona opera, facta viribus gratiæ, sint justitiæ Legis
+satisfactoria, & haberentur pro nostrâ, coram Tribunali Judicis tremendi,
+justitiâ; ita ut Christi actus justificandi, redimendi, salvandi, sit in eo,
+quod Christus per sua merita, nos Justificatores, Redemptores & Salvatores
+nostri effecerit, nusquàm scribitur. Sic enim meritorum Christi hæc esset vis,
+quòd nostris operibus vim meritoriam justificationis, remissionis peccatorum
+& vitæ æternæ communicasset; qui fructus mortis Christi in totâ Scripturâ
+nusquàm comparet.
+
+5. Quia unicum illud argumentum Arminii in contrarium non concludit. Nam
+justitia Christi Fidejussoria est, & Legi Dei per omnia conformis, & etiam
+gratuita. Conformis Legi Dei, quia Christus vigori Legis per omnia
+perfectissimè satisfecit. Et quà imputatur nobis, & formaliter, ut sit nostra
+per activam imputationem seu reputationem Dei, & nostram fidem eam gratiosè
+apprehendentem, est omnino gratuita. Neque hæc pugnant. Qui enim Sponsor pro
+amico mille florenos persolvit, si debitor nihil plus debet, ex justitiâ
+legali, est ea rigidè & secundum rigorem juris perfecta persolutio: At verò
+quatenùs ea persolutio imputatur decoctori, qui solvendo non fuit, est
+persolutio gratuita.
+
+[1668 KBNL/UvA witness | logical printed p. 510 | PDF p. 561]
+
+ROM. 4:3.
+
+Quid enim Scriptura dicit? credidit autem Abrahamus Deo, & imputatum est ei ad
+justitiam.
+
+Agnoscimus hîc locutionem metonymicam & figuratam. Nam id, quod nos
+apprehendimus, imputatur nobis in justitiam, uti quis dicit, manus mea me
+ditavit; i. e. divitiæ industriâ & labore manuum mearum partæ, me ditârunt.
+Hinc
+
+Quæritur, An actus credendi imputetur credenti, non figuratè, correlativè &
+metonymicè, sed propriè; ità ut sit formalis nostra justitia coram Tribunali
+Dei? Affirmat Arminius disp. de justificatione, & Bellarm. lib. 1. de justif.
+cap. 17. Nos negamus.
+
+1. Quia non ex ullo opere in nobis justificamur. Eph, 2:5. Gratiâ salvati
+estis. Tit. 3:5. -- Non ex operibus justitiæ, quæ nos feceramus. Rom. 11:6.
+Si ex operibus, jam gratia non esset gratia.
+
+2. Quia judicium Dei est secundùm veritatem. Rom. 2:2. Deus non potest actum
+credendi habere pro Legis impletione perfectâ, quia credere non est exactè, &
+per omnia servare Legem.
+
+3. Justificamur per gratiam Dei, & redemptionem, quæ est in Christo Rom. 3:24.
+& Christi justitiam imputatam. Ergo, non simul etiam per actus aliquos in
+nobis.
+
+4. Ἄγραφον est, quod Christus meritus sit, ut nostra fides esset meritoria
+remissionis
+
+[1668 KBNL/UvA witness | logical printed p. 511 | PDF p. 562 | split word joined: peccatorum]
+
+peccatorum & vitæ æternæ; cùm fides, actiones, omnesque nostræ perpassiones,
+non sint condigna gloriâ illâ, quæ revelanda est. Rom. 8:18. 2 Cor. 5:17:18.
+
+5. Justitia, quâ nos tectos comparere oportet coram Tribunali Dei, est peccati
+expers & cum peccato consistere nequit. Rom- 3:9, 22, 23. Gal. 3:10, 11, 12,
+13. At fides electorum cum peccato consistit. 1 Ioan. 1:8. Psal. 130:3. & 143.
+2 Prov. 20:9.
+
+I JOAN. 1:8.
+
+Si dixerimus, nos peccatum non habere, decipimus nosmet, & veritas non est in
+nobis.
+
+Quæritur, An per Dei gratiam, quam in hâc vitâ electis & fidelibus largitur,
+Legem perfectè observare possimus? Ajunt Remonstrantes cum Pontificiis &
+Socinianis. Nos negamus.
+
+1. Quia præterquam, quod Ioannes Apostolus, loco citato, contrarium asserat,
+dicitur Prov. 20.9. Quis dicere potest, purificavi animum meum, mundus sum à
+peccato meo? Iac. 3:2. In multis offendimus vel labimur omnes. 1 Reg. 3:46.
+Nemo est, qui non peccet. Eccles. 7:20. Nam non est justus super terrâ, qui
+bonum faciat, & non peccet.
+
+2. Quia maledictus est omnis, qui non permanserit in omnibus, quæ scripta sunt
+in libro Legis, ut ea faciat. Ergo, qui ex operibus Legis, Justificationem
+quærunt, sunt maledicti; quia ratio consequentiæ nulla alia est, quàm quia
+
+[1668 KBNL/UvA witness | logical printed p. 512 | PDF p. 563]
+
+quia nemo, sive renatus sive non-renatus permanere potest in omnibus, quæ sunt
+scripta in Libro Legis.
+
+3. Quia omnibus inest culpabilis defectus & impotentia implendi Legem; & causa
+moraliter impura & vitiosa, effectus moraliter puros & perfectos producere
+nequit. Et Paulus, vas electum, de se verè dicit Rom. 7:14. Lex spiritualis,
+ego autem carnalis & peccato venditus v. 18. Novi enim non habitare in me, id
+est, in carne meâ, bonum v. 19. Sed video aliam Legem in membris meis,
+belligerantem adversus Legem mentis meæ, & captivum reddentem me- Legi peccati,
+quæ est in membris meis.
+
+4. Homines lapsi & ad imaginem Dei nondùm plenè reformati, qui tenentur
+diligere Deum ex toto corde, ex totâ animâ, & ex omnibus suis viribus; ii non
+possunt Legem perfectè, etiam per Dei gratiam, quæ in hac vita conceditur,
+implere. At omnes renati sunt tales & tenentur sic diligere Deum; quia hæc est
+summa & finis Legis, ad quem omnes mortales sine discrimine obligantur. Ratio
+majoris. Quia intensissimè Deum diligere nemo post lapsum, in hâc vitâ, potest;
+quia nulla hîc est Dei dilectio, quæ augeri & perfici non potest.
+
+Vana & falsa sunt, quæ confingunt Adversarii, homines obligari ad diligendum
+Deum supra omnia objectivè, volendo Deo bonum
+
+[1668 KBNL/UvA witness | logical printed p. 513 | PDF p. 564 | split word joined: maximum]
+
+maximum, & supra omnia appretiativè, Deum omnibus aliis rebus anteponendo; sed
+non obligari nos ad finem Legis, nisi in voto & conatu, b. e. non obligare
+Legem nos, ad diligendum Deum supra omnia intensivè, quia hoc est impossibile
+in hâc vitâ. Lex autem non obligat ad impossibile.
+
+Resp. 1. Vana & fallax est hæc distinctio. Quia Christus ex majore
+appretiatione personæ aut rei alicujus præ se Salvatore, arguit minus intensum
+amorem Salvatoris. Matth. 10:37. Lucæ. 14:26, 27. Qui enim minori amore amat
+Deum, quàm res creatas, adeòque minoris facit & æstimat Deum, quàm parentes &
+liberos; is, teste Salvatore, nimis remissè, & tepidè diligit Deum, & intensius
+diligit creaturam, quàm Creatorem. Et qui Deum supra omnia appretiativè
+diligit, eumque omni objecto diligibili anteferendum putat, is diligit Deum
+intensissimè: Nam gradum æstimationis rei dilectæ, sequitur gradus, mensura, &
+intensio dilectionis. Nullus autem est sanctorum in hâc vitâ, qui non sæpiùs,
+inordinato & nimio amore sui aut suorum aut etiam peccati, violet hanc Dei
+dilectionem & in praxi ostendat, se illa majoris facere quam Deum; ut pius Heli
+1 Sam. 2:29; & omnes sancti, quando & quotiès peccant. Atque ita membra hujus
+distinctionis coincidunt.
+
+2. Falsum est, finem Legis non obligare; nec valet ratio, quia finis est
+impossibilis; quia
+
+[1668 KBNL/UvA witness | logical printed p. 514 | PDF p. 565 | split word joined: impossibilitas]
+
+impossibilitas hæc culpabiliter à nobis contracta est: Neque est impossibilitas
+simpliciter dicta & absolutè, sed tantùm secundùm quid & conditionalitè.
+
+3. Si tenemur diligere Deum ex omnibus viribus, tùm remissio virium ut tres,
+si Lex flagitat intensionem virium ut octo, erit violatio Legis.
+
+4. Quia nemo, nè justissimus mortalium, audet suâ justitiâ inhærente comparere
+coram Tribunali Dei. Psa. 143.2. & 130:3. Job. 42:5. & 9:3. 1 Cor. 4:4.
+
+5. Omnes qui Legem servant, vitam æternam, sub titulo legalis obedientiæ,
+consequuntur. At nemo mortalium, hoc titulo, vitam æternam consequitur, aut
+consequi potest. Ergo. Major patet. Rom. 2:13. Gal. 3:12. Qui fecerit ea, vivet
+in iis. Minor patet ex toto Evangelio. Rom. 8:3,4. Gal. 3:21. Si data esset
+Lex, quæ vivificare potest, justitia esset ex Lege. Itèm v. 22. Scriptura
+conclusit omnes sub peccato. Item Gal. 2:21. Si vita per Legem, frustrà
+Christus mortuus est. Item, Gal. 3:10. Quotquot ex operibus Legis sunt, sub
+maledictione sunt.
+
+6. Quia si quis offendit in uno, factus est omnium reus, ut ait Jacobus cap.
+2. v. 10. At mortalium nemo est, qui non offendat in uno. Ergo &c.
+
+7. Qui quærit justitiam & vitam per Legis impletionem, factus est debitor toti
+Legi. Gal. 5:3,4. At renatus, non est factus debitor toti Legi; sed est sub
+gratiâ, non sub Lege. Rom. 7:6.
+
+8. Qui
+
+[1668 KBNL/UvA witness | logical printed p. 515 | PDF p. 566]
+
+possunt implere Legem, per gratiam Dei, iis datus est Spiritus tantâ mensurâ,
+ut gratia infusa non sit ampliùs imperfecta & augmentabilis, sed perfecta &
+sufficiens ad diligendum Deum ex toto corde, ex totâ animâ, & ex omnibus
+viribus. At nemini mortalium, data est gratia sic. 1. Quia omnium est crescere
+in gratiâ. 2 Pet. 3:18. Phil. 3:12. 2 Thess. 1:3. 2. Quia Spiritus dividit
+unicuique prout vult. 1 Cor. 12.11.
+
+9. Quia Scriptura dicit Legem esse jugum, quòd nec nos nec Judæi ferre
+possunt: & quod est observatu impossibilis propter impotentiam carnis, ut locus
+fieret impletioni Legis per Christum. Rom. 8.3. Rom. 7.14,15,16,17. coll. cùm
+v. 24. & cap. 8.1.
+
+11. Fatentur Adversarii, homines non posse omnia peccata ità effugere, quin
+necesse est dicant quotidiè, non tantùm humilitèr sed veracitèr, Remitte nobis
+peccata nostra; nec ullum esse (ajunt) qui venialia saltem peccata evitare
+queat. Omne autem peccatum, quantumvis veniale (ut vocant) est violatio Legis.
+Ergo, qui non possunt per gratiam, talia vitare, non possunt per gratiam,
+Legem implere.

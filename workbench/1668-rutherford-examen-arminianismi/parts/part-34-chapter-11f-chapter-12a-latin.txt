@@ -1,0 +1,279 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Undecimum, De Modo Conversionis; Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on printed p. 497 at `Quæritur, An efficacia
+gratiæ pendeat ex vocatione congruâ?`, without repeating Part 33's closing
+argument. It completes Chapter XI with the question concerning congruent
+calling, then begins Chapter XII and includes its opening question whether
+sinners are justified by faith or works, the definition of the disputed
+terms, seven arguments for justification by faith alone, and the complete
+five-argument continuation against justification by works performed with the
+aid of regenerating grace. It ends within printed p. 506 after `Hæc autem est
+justitia imputata`, before the new question beginning `Quæritur, an rectè
+docuerit Arminius in epistolâ ad Hippolytum`. Printer line-end and page-end
+divisions have been joined; at every split-word page boundary the new-page
+marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. It specifies no correction for pp. 497–506.]
+
+[Printed-form note: The visibly difficult or irregular forms and citations
+`Arminius Antiperk. p. 665`, `Scientia Media`, `Tit. 3:8`, `Luca 8:50`, `fætus`,
+`sit-possibilis`, `promissiori`, and `Bellarminus de justificatione lib. 4.
+cap. 3:4` are
+retained rather than silently regularized. The biblical and polemical
+quotations, scholastic distinctions concerning the objects and instrumental
+causality of faith, the covenantal contrast, the full question/response and
+numbered argument structures, and the Greek `διὰ τῆς πίστεως`, `ἐκ τῆς
+πίστεως`, `δωρεὰν`, `παῤῥησία`, and `κατ’ ἀκρίβειαν` are preserved. Isolated
+edge marks, stains, show-through, signatures, and catchwords in the
+controlling images are non-textual or non-substantive artifacts; no
+substantive marginal note or Hebrew passage occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 497 | PDF p. 548 | begins at Quæritur, An efficacia gratiæ pendeat ex vocatione congruâ?]
+
+Quæritur, An efficacia gratiæ pendeat ex vocatione congruâ? Hoc est, An ideò
+homines ad Deum convertantur, quia Deus suasionem adhibet, tali personæ, sic
+dispositæ, tali loco & tempore, contemperatam, quam præscit permoturam esse
+voluntatem ad obediendum Deo; licèt isti suasioni ex se, & simpliciter resisti
+potuerit? Ajunt Bellarminus, Fonseca, Suarez, Valentia, & Arminius Antiperk. p.
+665. & Remonstrantes Coll. Hag. pag. 311. Licèt post maturius judicium &
+recoctius pensitatum, eam sententiam deserant. Remonstr. Confess. cap. 13.
+thes. 10. Nos negamus.
+
+1. Quia omnis suasio, qualiscunque demùm sit, est gratia Pelagiana; &
+voluntatem corruptam non magis sanare potest, quàm verba aurea cæco visum, &
+mortuo vitam restituere possunt.
+
+2. Nulla potest esse contemperatio ulli dispositioni hominis naturalis; qui
+pro merâ stultitiâ, habet Evangelium.
+
+3. Quia hæc opinio nititur commento Scientia Media, stolido & profano.
+
+4. Quia resolvit efficaciam gratiæ in Liberum Arbitrium, quod omnes suasiones
+respuere potest.
+
+5. Quia evertit Dominium Divinæ providentiæ in voluntates humanas;
+supponitque nec plures nec pauciores converti posse à Deo, quàm Deus præscit
+ante omnem actum voluntatis suæ.
+
+[1668 KBNL/UvA witness | logical printed p. 498 | PDF p. 549]
+
+6. Quia rejicit causam non-conversionis in Deum non congruè vocantem, quod in
+nostris Theologis damnant.
+
+7. Causa cur homines non convertuntur, ex Scripturis non est, quia non sunt
+congruè vocati; sed quia non sunt ex ovibus Christi, non trahuntur à Patre,
+quia Deus non dedit iis cor ad intelligendum, quia non audiverunt & didicerunt
+à Patre &c.
+
+CAPUT DUODECIMUM,
+
+DE
+
+Justificatione Peccatoris.
+
+ROM. 3:28.
+
+Colligimus igitur hominem justificari fide, absque operibus Legis.
+
+Quæritur, An nostris operibus justificemur? Unde status Quæstionis figendus.
+Convenit autem 1. Hominem non propriè à seipso, sed à Deo justificari. 2.
+Gratuitam in Christo dilectionem, aliquo modo concurrere. 3. Fidem prærequiri,
+licèt de modo præsentiæ fidei controversia sit. 4. Opera bona non posse à verè
+justificato abesse. 5. Requiri plenam remissionem, eò quòd nihil inquinatum
+ingrediatur regnum cælorum. 6. Hominem tantum de proprio
+
+[1668 KBNL/UvA witness | logical printed p. 499 | PDF p. 550 | split word joined: conferre]
+
+conferre non posse, quantum satisfactioni pro peccatis in Justificatione
+requisitæ sufficit. 7. Hominem verè & realitèr fieri de injusto & impio,
+justum, & non imaginatione & nudâ opinione justum esse; licèt, ubi sit illa
+Justitia, in Christo inhærenter, in nobis imputativè? an in nobis inhærenter &
+infusa? quæratur. 8. Legi præstitam satisfactionem includi justificatione
+peccatoris.
+
+Primò igitur Quæritur, An fide, i. e. fiduciali innixu in Christum,
+justificemur? Hinc quæstio non est de fide, quâ assentimur omni Dei Verbo
+tanquàm vero, sed de fide quâ recumbimus fiducialiter in Christo, vel in Deo
+per Christum Mediatorem, ut objecto quod, & in Verbo promissionis, ut bono,
+tanquàm in objecto quo.
+
+2. An solâ fide justificemur? h. e. an solâ, non solitudine existentiæ, quasi
+fides existens careat spe, charitate & sincero studio per Dei gratiam placendi
+Deo in omnibus, eique obediendi, & sic justificet? Ea enim est fides mortua &
+vana, neque ullam actionem circa Christum fiducialiter apprehensum habet: Sed
+an fide solâ solitudine muneris, solitudine actûs apprehendendi Christum,
+ejusque justitiam, & solâ solitudine causalitatis organicæ; ita ut excludatur
+à ratione conditionis, meriti aut instrumenti, spes, charitas, omnesque,
+præparatoriè nos disponentes ad justificationem, operationes, omniaque bona
+
+[1668 KBNL/UvA witness | logical printed p. 500 | PDF p. 551 | split word joined: opera]
+
+opera, vel solius naturæ viribus, vel etiam divinæ gratiæ auxilio facta?
+
+3. An solâ fide justificemur? h. e. non insitâ vi, merito, præstantiâ, aut
+dignitate fidei; sed correlativè, quia fides apprehendit Jehovam justitiam
+nostram Ier. 23:6. nempè, Christum, qui est nostra justitia imputativè,
+
+An verò justificemur operibus? 1. Non quatenus opera fiunt viribus naturæ
+absque auxilio gratiæ; sic Pontificii opera Legis dicenda putant, per quæ
+Paulus nos justificari negat.
+
+2. An operibus justificemur, non quatenus in se ipsis spectantur, non quatenus
+merentur justificationem (Sic loquitur Vorstius in Apolog. ad art. 24. pag.
+34:35.) Sed operibus, quatenus opera sunt pars quædam fidei, seu quasi in unum
+quoddam apotelesma cum fide ipsâ coalescunt? Vel ut Remonstrantes in
+Confessione suâ cap. 10. Quatenus fides necessariò conjuncta habet bona opera,
+totiusque vitæ emendationem institutam juxta præcepta Jesu Christi, imò quæ
+proprietate naturali obedientiam fidei includit, cui obedientiæ, fides nec
+opponi jure potest, nec debet? Hoc est quod ait Socinus de Servatore lib. 4.
+cap. 11. Atque ità fides & opera, i. e. obedientia præceptorum Christi,
+tanquàm forma fidei, coram Deo nos justificant.
+
+3. An fide justificemur, tanquàm bono opere, & partiali Justitiâ nostrâ,
+gratiosè pro plenâ Justitiâ à Deo reputata? Pontificii,
+
+[1668 KBNL/UvA witness | logical printed p. 501 | PDF p. 552 | split word joined: Remonstrantes]
+
+Remonstrantes, Sociniani, volunt nos operibus eo modo consideratis, & fide,
+tanquàm bono opere, justificari. Nos negamus.
+
+1. Justificamur fide absque operibus. Rom. 3:28. Non ex operibus justitiæ, quæ
+fecimus nos. Tit. 3:8. Et Gal. 2:16. διὰ τῆς πίστεως. Rom. 5:1. ἐκ τῆς
+πίστεως. Non nisi per fidem Gal. 5:6. Rom. 3:24. δωρεὰν, gratis Luca 8:50. Nè
+metue, solùm crede, & ea salvabitur.
+
+2. Quo pacto justificatur Abraham, pater credentium omnium, eo pacto & ratione
+nos justificamur. Atqui Rom. 4:3. Credidit Abraham, & imputatum est ei ad
+justitiam; non ex debito, i. e. ex operibus etiam fidem subsequentibus, quia
+sic haberet Abraham in quo gloriaretur. Ergo. Ratio majoris. Quia non tantùm
+propter Abrahamum scriptum est, sed & propter nos. v. 23:24.
+
+3. Quia Christus factus est pro nobis peccatum, ut nos efficeremur Justitia
+Dei in illo. 2 Cor. 5:21. Factus est pro nobis execratio (Gal. 3:13, 14.) ut in
+gentibus benedictio Abrahami extaret in Christo Jesu. 1 Cor. 1:30. Factus est
+nobis à Patre, sapientia, justitia, sanctificatio & redemptio.
+
+4. Quia promissio salutis non fit implenti Legem, sed credenti. Et ideò ex
+fide hæreditas, ut secundùm gratiam fieret, ad stabiliendam promissionem toti
+semini. Rom. 4:16.
+
+5. Quia Rom. 5:19. Sicut per unius inobedientiam multi condemnati sunt; sic
+per Christi
+
+[1668 KBNL/UvA witness | logical printed p. 502 | PDF p. 553 | split word joined: obedientiam]
+
+obedientiam multi constituuntur justi.
+
+6. Non est pax conscientiæ, & παῤῥησία, & confidentia, & spes gloriæ, nisi ex
+actu credendi in Christum, qui pro nobis Legem implevit.
+
+7. Quia detrahitur gloriæ meritorum & mortis Christi, & misericordiæ & gratiæ
+factæ miseris peccatoribus; si non solâ fide in Christum, sed & nostris
+operibus justificemur.
+
+Sed Quæri potest, An non operibus, auxilio gratiæ regenerationis factis, ut
+Pontificii; vel obedientiâ operum, quatenus est fætus, partus, & proprietas
+naturalis fidei, justificemur, ut Remonstrantes docent? Confess. cap. 10. thes.
+2:3. & cap. 18. thes. 3. & Apol. cap. 10. Nos negamus. 1. Quia hæc est Pauli
+consequentia validissima. Rom. 3:9. Et Judæi & Græci omnes sunt sub peccato
+&c. v. 19. Omne os est obstructum, & totus mundus sit condemnationi obnoxius
+propter peccatum. Ergo, ex operibus nemo justificatur. Hinc sequitur justitiam
+illam & obedientiam operum, quâ nos coram Deo justificamur, esse peccati
+expertem, & talem, quæ hominem à condemnatione omnique reatu peccati
+exsolvat. Atqui mortalium nemo vivit, qui etiam per gratiam regenerationis,
+obedientiam operum omnis peccati expertem præstat: Nam maledictus omnis, qui
+non permanserit in omnibus quæ scripta sunt in libro Legis, ut ea
+
+[1668 KBNL/UvA witness | logical printed p. 503 | PDF p. 554]
+
+faciat. Deut. 27:26. Gal. 3:10. Prov. 20:9. 1 Ioan. 1:8.
+
+2. Quia, si justificatio esset ex operibus, factis auxilio gratiæ, voluntatem
+liberam ad bona opera minimè determinantis, sed eam suæ absolutæ indifferentiæ
+relinquentis; tùm haberet homo, quo coram Deo gloriaretur. Nam non in gratiâ,
+sed in Libero Arbitrio gloriandum est ei, qui gratiâ minimè separante credentem
+à non-credente, operantem à non operante, instructus est: Quia Liberum
+Arbitrium, secundùm doctrinam Jesuitarum & Arminianorum, separationem facit;
+ac proindè & materiam justam & idoneam gloriandi coram Deo, in naturâ, non in
+gratiâ Dei.
+
+3. Quia hæc verba, Rom. 4:4, 5. secundùm Jesuitas & Arminianos, hunc haberent
+sensum. Atqui ei qui operatur (i. e. qui Legis justitiam implet, absque omni
+peccato, & propriâ violatione Legis) ei merces (Justificationis, Remissionis &
+vitæ æternæ) non imputatur ex gratiâ, sed ex debito. (h. e. ex regulâ illâ
+perfectâ Legis Moralis, quâ ex merito & justitiâ debetur vita æterna &
+remissio peccatorum) Sed non operanti (h. e. non implenti Legem justitiæ
+legalis exactè & propriis viribus) sed qui credit in eum, qui impium justificat
+(h. e. Christo fiducialiter innititur ad obtinendam absolutionem & remissionem
+peccatorum) ejus fides ad justitiam imputatur (h. e.
+
+[1668 KBNL/UvA witness | logical printed p. 504 | PDF p. 555 | split word joined: gratiosâ]
+
+gratiosâ acceptione, non suo merito justificatur. Unde sequitur 1. Si quis ex
+viribus gratiæ bona opera profert, ei deberi non ex gratiâ Dei, sed ex debito,
+mercedem remissionis, & justificationem Adversariorum non esse ex gratiâ Dei,
+sed ex debito legali.
+
+2. Sequitur Deum dare gratiam, quâ Lex perfectè & κατ’ ἀκρίβειαν impleatur: &
+hoc quidem pacto, justificatio esset ex gratiâ, & simul ex debito secundario &
+secundùm quid. At talis gratia nemini contingit, quâ sit expers peccati.
+
+3. Sequitur Adamum ante lapsum, non potuisse ex operibus Legis & debito legali
+justificari; quia gratia implendi Legem erat gratia supernaturalis, ut cum
+Pontificiis Arminiani & Sociniani docent. Unde omnes renati eo pacto
+justificantur ex gratiâ, etiam sub fœdere Gratiæ, quo Adamus justificatus fuit
+ex gratiâ sub fœdere operum. Et hoc certè nec elidi potest, nec eludi; quia
+docent, Deum injustum fuisse & crudelem, si Adamo legem tulisset viribus puræ
+naturæ impossibilem; ideòque ad hoc, ut justus Legislator esset, obligabatur
+dare justitiam supernaturalem, quâ Lex & justificatio per legem, Adamo esset
+possibilis, viresque illius non exsuperans. Et eandem de homine lapso
+cantilenam occinunt, nempè, Deum nihil impossibile homini præcipere; ideòque ut
+eadem Lex sub
+
+[1668 KBNL/UvA witness | logical printed p. 505 | PDF p. 556 | split word joined: Fœdere]
+
+Fœdere Gratiæ sit-possibilis, Deum obligari ad dandam gratiam suis tandèm
+gradibus sufficientem, quâ posset homo, operando per gratiam supernaturalem,
+non minùs quàm olim Adamus, justificationem per opera consequi.
+
+4. Quia si justificemur ex operibus Legis, sed factis viribus gratiæ; inanis
+est distinctio inter Fœdus operum, seu Legem, & Fœdus Gratiæ, seu Evangelium.
+Quia Gal. 3:17. Hoc autem dico, pactionem à Deo priùs ratam habitam,
+respicientem in Christum, Lex quæ post annos quadringentos & triginta extitit,
+non reddidit inutilem ad abolendam promissionem v. 18. Nam si ex Lege est
+hæreditas, non jam ex promissione. Atqui Abrahamo per promissionem gratificatus
+est Deus hæreditatem. Hinc nullo modo, faciendo bona opera, justificatur homo,
+nisi perfectè impleret Legem (Hoc fac & vives) & permaneret in omnibus, quæ
+scripta sunt in Libro Legis, ut ea faciat. v. 10. Et sic Christus frustrà pro
+eo mortuus est, & factus est execratio & maledictio. Et discrimen hoc,
+suavissimæ consolationis plenum, tollunt Pontificii & Arminiani, qui docent
+Evangelium nihil aliud esse, quàm novam Legem, vel Legem perfectam factam; imò
+esse ipsissimam Legem, sed cum Spiritûs gratiâ facilem & possibilem nobis
+factam, ità ut per eam justificari possimus. Bellarminus de justificatione
+lib. 4. cap. 3:4. Sed verum quidem est, eandem moralem doctrinam
+
+[1668 KBNL/UvA witness | logical printed p. 506 | PDF p. 557]
+
+esse in Lege & in Evangelio, latius accepto; sed in modo justificandi,
+contrariis frontibus colluctantur duo Fœdera, Lex & Evangelium. Quia Evangelium
+credendo justificat, non operando per gratiam; quia sic gratia stabiliret &
+corroboraret justificationem legalem, & eam possibilem & facilem redderet;
+sed credendo promissiori, per quam solùm obtingit hæreditas vitæ, & non per
+opera Legis auxilio gratiæ facta. Nam sic promissiones Evangelicæ non forent
+ratæ, nisi ex hypothesi, quòd Legem perfectè impleamus per gratiam Dei, quod
+non est Evangelium & Fœdus gratiæ, cujus unica conditio est fides in Jesum
+Christum.
+
+5. Quia justitia Christi nobis imputatur, quippè, quia Christus pro nobis, i.
+e. vice & loco nostri, ut Sponsor & Fidejussor mortuus est, pro nobis factus
+est execratio, & Legis violatæ maledictionem & pœnam nobis debitam in se
+sustinuit. Undè necessariò fluxit à Christo in nos justitia Fidejussoria, seu
+talis qualem præstat Sponsor pro decoctoribus. Hæc autem est justitia imputata:

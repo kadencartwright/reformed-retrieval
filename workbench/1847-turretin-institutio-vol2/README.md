@@ -11,8 +11,9 @@
 - **Title:** *Institutio theologiae elencticae*
 - **Volume:** *Pars secunda* (Volume II)
 - **Edition:** Edinburgh, John D. Lowe, 1847
-- **Opening structure:** Locus XI, *De Lege Dei*, subdivided into twenty-six
-  questions
+- **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
+  Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
+  Testamento*, through Question I
 
 ## Controlling witness and rights
 
@@ -37,11 +38,12 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–14 are complete as AI-assisted, scan-checked working drafts.**
-Together they contain Locus XI, Questions I–XIV, from printed p. 3 / PDF 31
-through section XXXII on printed p. 88 / PDF 116, immediately before Question
-XV. The sequence comprises 311 numbered sections across eighty-six
-consecutive printed pages. Each part is a complete question, and each
+**Parts 01–27 are complete as AI-assisted, scan-checked working drafts.**
+Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
+Question I, from printed p. 3 / PDF 31 through section XIII on printed p. 155 /
+PDF 183. Part 27 also includes the Locus XII divisional title on PDF 177 and
+its blank verso on PDF 178. The sequence comprises 568 numbered sections
+across 150 numbered text pages. Each part is a complete question, and each
 Latin/English pair has an identical source-marker sequence and retains the
 substantive marginal headings.
 
@@ -61,6 +63,19 @@ substantive marginal headings.
 | 12 | Locus XI, Question XII | printed pp. 63–68 / PDFs 91–96 | XXI | 6 | `part-12-locus-11-question-12-{latin.txt,english.md}` |
 | 13 | Locus XI, Question XIII | printed pp. 68–81 / PDFs 96–109 | XLIV | 14 | `part-13-locus-11-question-13-{latin.txt,english.md}` |
 | 14 | Locus XI, Question XIV | printed pp. 81–88 / PDFs 109–116 | XXXII | 8 | `part-14-locus-11-question-14-{latin.txt,english.md}` |
+| 15 | Locus XI, Question XV | printed pp. 88–92 / PDFs 116–120 | XV | 5 | `part-15-locus-11-question-15-{latin.txt,english.md}` |
+| 16 | Locus XI, Question XVI | printed pp. 92–98 / PDFs 120–126 | XXIX | 7 | `part-16-locus-11-question-16-{latin.txt,english.md}` |
+| 17 | Locus XI, Question XVII | printed pp. 98–105 / PDFs 126–133 | XXXIII | 8 | `part-17-locus-11-question-17-{latin.txt,english.md}` |
+| 18 | Locus XI, Question XVIII | printed pp. 105–108 / PDFs 133–136 | X | 4 | `part-18-locus-11-question-18-{latin.txt,english.md}` |
+| 19 | Locus XI, Question XIX | printed pp. 108–113 / PDFs 136–141 | XXII | 6 | `part-19-locus-11-question-19-{latin.txt,english.md}` |
+| 20 | Locus XI, Question XX | printed pp. 113–117 / PDFs 141–145 | XVIII | 5 | `part-20-locus-11-question-20-{latin.txt,english.md}` |
+| 21 | Locus XI, Question XXI | printed pp. 118–120 / PDFs 146–148 | XIV | 3 | `part-21-locus-11-question-21-{latin.txt,english.md}` |
+| 22 | Locus XI, Question XXII | printed pp. 121–124 / PDFs 149–152 | XVIII | 4 | `part-22-locus-11-question-22-{latin.txt,english.md}` |
+| 23 | Locus XI, Question XXIII | printed pp. 124–128 / PDFs 152–156 | XV | 5 | `part-23-locus-11-question-23-{latin.txt,english.md}` |
+| 24 | Locus XI, Question XXIV | printed pp. 128–138 / PDFs 156–166 | XXXVIII | 11 | `part-24-locus-11-question-24-{latin.txt,english.md}` |
+| 25 | Locus XI, Question XXV | printed pp. 139–145 / PDFs 167–173 | XXII | 7 | `part-25-locus-11-question-25-{latin.txt,english.md}` |
+| 26 | Locus XI, Question XXVI | printed pp. 145–147 / PDFs 173–175 | X | 3 | `part-26-locus-11-question-26-{latin.txt,english.md}` |
+| 27 | Locus XII, Question I | title and blank verso PDFs 177–178; printed pp. 151–155 / PDFs 179–183 | XIII | 7 | `part-27-locus-12-question-01-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -79,7 +94,133 @@ defends its necessary and perpetual observance, and explains its privative
 and positive elements in thirty-two sections. It ends before the heading of
 Question XV on feast days on printed p. 88 / PDF 116. The visibly printed
 `relicta` in section XXXI on p. 88 is retained in the Latin with `[sic]`; the
-grammar appears to require `relicto` with `studio`.
+grammar appears to require `relicto` with `studio`. Question XV denies that
+feast days besides the Lord's Day are divinely necessary parts of worship,
+while allowing churches to appoint commemorative days under ecclesiastical
+order without attributing inherent holiness or necessity to them. It answers
+the principal Roman Catholic arguments and practices in fifteen sections and
+ends before the heading of Question XVI on the fifth commandment on printed
+p. 92 / PDF 120. Question XVI treats the fifth commandment by denying that
+children may withdraw from paternal authority through a monastic vow and by
+arguing that minors ordinarily require parental consent to contract a lawful
+marriage. It states qualifications for absent, incapable, or unreasonably
+withholding parents, answers the principal biblical and legal objections in
+twenty-nine sections, and ends before the heading of Question XVII on the
+sixth commandment on printed p. 98 / PDF 126. For obscured inner-margin
+characters on printed p. 93 only, the same-edition Internet Archive scan
+[`institutiotheol01turrgoog`](https://archive.org/details/institutiotheol01turrgoog)
+was consulted as a supplementary aid; the controlling Toronto copy governs
+the text and all page boundaries. Question XVII treats the sixth commandment
+by distinguishing judicial, wartime, defensive, accidental, and private
+homicide. It defends lawful capital punishment, just war, and necessary
+self-defense, and condemns self-killing, dueling, anger, and hatred in
+thirty-three sections. It ends before the heading of Question XVIII on the
+seventh commandment on printed p. 105 / PDF 133. Question XVIII treats the
+seventh commandment by placing adultery, fornication, incest, abduction,
+concubinage, sins against nature, lust, and simultaneous polygamy under its
+prohibition, and by commending lawful marriage, chastity, modesty, sobriety,
+and temperance in ten sections. It ends before the heading of Question XIX on
+the eighth commandment on printed p. 108 / PDF 136. The visibly printed
+`solutae` in section II on printed p. 106 is retained in the Latin with
+`[sic]`; the standard grammatical formula would require `soluti cum soluta`.
+The visibly repeated citation `Prov. vi. 25, 25` in section VI on printed p.
+107 is likewise retained rather than silently corrected. Question XIX treats
+the eighth commandment by condemning theft, fraud, negligent labor, and
+covetousness, and then distinguishes oppressive interest from moderate and
+equitable interest in twenty-two sections. It ends before the heading of
+Question XX on the ninth commandment on printed p. 113 / PDF 141. The visibly
+printed `locum jam nullam habent` in section XIV on printed p. 111 is retained
+in the Latin with `[sic]`; the grammar requires `nullum` with `locum`.
+Question XX treats the ninth commandment and argues against the Socinians
+that no harmful, jocular, or helpful lie can be lawful. It defines lying,
+gives five arguments for its intrinsic sinfulness, and answers the principal
+biblical cases of the midwives, Jacob, Rahab, Elisha, Micaiah, Jeremiah,
+Samuel, and Paul, while distinguishing lies from lawful concealment,
+stratagems, simulations, parables, and fables in eighteen sections. It ends
+before the heading of Question XXI on the tenth commandment on printed p. 118
+/ PDF 146. The same supplementary scan noted above was also consulted to
+confirm partially cropped inner-margin characters on printed pp. 115–117;
+the controlling Toronto copy governs the text and every page boundary.
+Question XXI treats the tenth commandment and argues against the Roman
+Catholics that both original, habitual concupiscence and its involuntary
+first-first motions are properly sins prohibited by the divine law. It
+distinguishes natural, good, and vicious concupiscence, answers the principal
+objections in fourteen sections, and ends before the heading of Question XXII
+on the use of the moral law on printed p. 121 / PDF 149. The same
+supplementary scan was consulted to confirm line endings cropped at the outer
+margin of the controlling image on printed p. 118; the Toronto copy remains
+controlling for the text and every page boundary. Question XXII distinguishes
+the moral law's absolute use as the perfect norm of duty from its relative
+uses in humanity's instituted, fallen, and restored states. It explains the
+law's functions of conviction, restraint, condemnation, preparation for
+Christ, and direction of the regenerate, and argues that in the state of sin
+the law binds simultaneously to obedience and punishment, in eighteen
+sections. It ends before the heading of Question XXIII on the abrogation of
+the moral law on printed p. 124 / PDF 152. Question XXIII denies against the
+Antinomians that the moral law has been abrogated as the directive rule of
+Christian life, while distinguishing that continuing use from the law as a
+covenant of works, curse, coercive pedagogy, and demand for justification. It
+argues from Christ and the apostles and from the covenant of grace, the
+Father, Christ, the Holy Spirit, present grace, and future glory, then answers
+the principal objections in fifteen sections. It ends before the heading of
+Question XXIV on the ceremonial law on printed p. 128 / PDF 156. The same
+supplementary scan noted above was consulted to confirm characters cropped at
+the inner and outer margins of the controlling images on printed pp. 127–128;
+the Toronto copy remains controlling for the text and every page boundary.
+Question XXIV defines and explains the ceremonial law, its relation to the
+moral and forensic laws, its legal and evangelical uses, and its inability to
+expiate sin. It surveys sacred persons, gifts, sacrifices, places, furnishings,
+and times as figures of Christ, the church, believers, and heavenly glory in
+thirty-eight sections. It ends before the heading of Question XXV on the
+abrogation of the ceremonial law on printed p. 139 / PDF 167. The same
+supplementary scan was consulted to confirm letters and Hebrew and Greek
+scripts obscured at the inner and outer margins on printed pp. 128–138; the
+Toronto copy remains controlling for the text and every page boundary. The
+visibly printed `utrumque istam σχέσιν` in section XII on printed p. 132 and
+plural `repraesentantur` with singular subject `idem mysterium` in section
+XVII on printed p. 133 are retained in the Latin with `[sic]`; the grammar
+requires `utramque istam σχέσιν` and `repraesentatur`, respectively.
+Question XXV argues that the ceremonial law remains doctrinally useful but is
+abrogated as an obligation by Christ's death. It proves the change from Old
+Testament prophecy, the end and actual disappearance of the Mosaic economy,
+and the Jerusalem decree; distinguishes the ceremonies as living, dead, and
+deadly in successive periods; and answers objections concerning divine
+immutability, apostolic practice, ecclesiastical rites, and abstinence from
+blood in twenty-two sections. It ends before the heading of Question XXVI on
+the forensic law on printed p. 145 / PDF 173. The same supplementary scan was
+consulted to confirm letters cropped at the inner margin on printed p. 141;
+the Toronto copy remains controlling for the text and every page boundary.
+The visibly printed citation `Heb. vii.` after `usque ad διόρθωσιν` in section
+XV on printed p. 143 is retained rather than silently corrected; the phrase
+is found at Heb. ix. 10. Question XXVI distinguishes the forensic law's
+temporary and particular determinations for the Jewish polity from its
+continuing material agreement with natural, common, and moral law. It rejects
+both the complete abrogation asserted by Anabaptists and Antinomians and the
+wholesale retention proposed by Carolostadius, Castalio, and Brochmannus, and it
+answers the principal objections in ten sections. It ends on printed p. 147 /
+PDF 175, completing Locus XI. Every included line on the three controlling
+facsimile images was audited against both files, including the partial-page
+opening on p. 145, the printer-divided `nitun-/tur` at the p. 146/147 join, all
+three substantive marginal headings, the Greek terms, and the blank lower
+portion of p. 147. No supplementary witness was needed. Blank PDF 176 is
+excluded. Question I of Locus XII introduces the vocabulary of the covenant
+of grace by explaining the origins and senses of Hebrew `ברית`, Greek
+`διαθήκη`, Latin *foedus*, `ἐπαγγελία`, and `εὐαγγέλιον`. It distinguishes the
+covenant's covenantal and testamentary relations, explains why Scripture
+calls it the promise and the gospel, and records its other principal names in
+thirteen sections. Part 27 begins with the unnumbered divisional title on PDF
+177, explicitly marks the blank divisional-title verso on PDF 178, then
+retains the title as repeated above Question I on printed p. 151 / PDF 179. It
+ends before Question II on printed p. 155 / PDF 183. Every included line on
+the seven controlling facsimile images was audited against both files,
+including the blank verso, all eight substantive marginal headings, every
+page join, the Virgil verse, citations, Greek and Hebrew scripts, and the
+Arabic cognate `אקסם` printed in Hebrew characters. No supplementary witness
+was needed. The visibly printed citation `Act. i. 14` for the “promise of the
+Father” in section X is retained rather than silently corrected; the wording
+occurs at Acts i. 4. The exact next restart is `QUAESTIO II. DE NATURA FOEDERIS
+GRATIAE. Quaenam sint partes contrahentes; Quis Mediator; Quaenam clausulae
+Foederis, tum a parte Dei, tum a parte hominum?` on printed p. 155 / PDF 183.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

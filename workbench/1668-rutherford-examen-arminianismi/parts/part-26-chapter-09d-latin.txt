@@ -1,0 +1,294 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Nonum, De Universali Redemptione — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 411 at `Huic etiam
+affinis est altera Quæstio`, without repeating the end of Part 25. It carries
+the complete allied question concerning Christ's intercession, the complete
+questions arising from 1 Corinthians 1:4 and John 15:13, the complete question
+defining reconciliation, and the complete question arising from Romans 8:34
+concerning the ground of Christian consolation. It ends on printed p. 421
+after the fifth argument of that last question. The question beginning
+`Quæritur, An reprobi, morte Christi, facti sunt Deo reconciliabiles` later on
+that page is excluded. Printer line-end and page-end divisions have been
+joined; at every split-word page boundary the new-page marker precedes the
+complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its two corrections for p. 412 are applied: at line 14 the body's `nec &
+salvantur` is corrected to `nec salvantur` by deleting `&`, and at line 27 the
+body's `Hob.` is corrected to `Heb.`.]
+
+[Printed-form note: The argument sequence on pp. 414–415 proceeds from 5 to 8,
+and point 8 then contains the internal sequence 2, 3, 4; this is retained as
+printed. The repeated `Quo quid quid` on p. 415 and the citations `Luc. 22:31`,
+`Tim. 1:12`, and `Rom. 6:16` are likewise retained rather than silently
+regularized. The Greek `φιλανθρωπίᾳ`, `ἄγραφον`, and `τὸ` is retained and
+translated or explained in the English. No Hebrew or substantive marginal
+note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 411 | PDF p. 462 | begins at Huic etiam affinis est altera Quæstio]
+
+Huic etiam affinis est altera Quæstio, An Christus generaliter intercedat pro
+omnibus, specialiter verò pro solis credentibus? Ajunt Remonstrantes, Script.
+Synod. art. 2. pag. 319. Corvinus contra Molin. cap. 28. §. 24. Qui docent, iis
+verbis Joh. 17:9. Non oro pro mundo, Christum non excludere alios à precibus
+suis, sed hâc oratione orare tantùm pro Apostolis: Alioqui alibi Christum orare
+pro crucifigentibus sese, Pater ignosce iis: quippe volunt Christum ex generali
+& antecedente affectu, pro omnibus orare & intercedere; consequente verò
+voluntate, pro solis credentibus electis. Nos contrarium docemus.
+
+1. Quia nullo Scripturæ loco probant, Christum orare pro omnibus Isa. 53:12.
+Orat pro
+
+[1668 KBNL/UvA witness | logical printed p. 412 | PDF p. 463]
+
+defectoribus. Propositio indefinita in materiâ contingente æquipollet
+particulari: Non enim orat pro omnibus peccatoribus; quia non orat pro
+peccantibus in Spiritum Sanctum, non pro finaliter infidelibus & contumacibus,
+quâ talibus. Nam pro quibus non obiit ut Mediator, pro iis non intercedit, ut
+Advocatus, ut mors ejus ipsis prosit ad salutem æternam: At negant Adversarii
+Christum obiisse pro finaliter infidelibus, quâ talibus.
+
+2. Christus semper exauditur, quoties patrem orat Joan. 11:42. Ego enim sciebam
+me semper à te audiri. At verò non sunt exauditæ preces Christi pro omnibus &
+singulis, quia omnes & singuli non credunt ad finem nec salvantur. At
+blasphemum est, preces Christi non exaudiri; 1. Quia sic niterentur pietate &
+meritis hominum pro quibus orat; non verò meritis suis; si Christi preces
+exauditæ sunt pro omnibus & singulis, dummodò omnes & singuli crederent &
+perseverarent. 2. Quia Christus intercedit orando, nè deficiat fides eorum, pro
+quibus orat Luc. 22:31.
+
+3. Quia Typici Sacerdotis erat, non tantùm sacrificare pro populo; sed & cum
+sanguine ingredi semel quotannis in Sanctum Sanctorum. At hoc utrumque Spiritus
+Sanctus applicat Christo Heb. 5:1, 2, 3. & 8.3, 4. & 9:7. 11. & 10.19, 20. qui
+non tantùm sese in sacrificium Deo Patri obtulit, sed merito sanguinis sui, in
+Sanctum
+
+[1668 KBNL/UvA witness | logical printed p. 413 | PDF p. 464]
+
+Sanctorum i. e. in cœlum ingressus est. At negant Arminiani, Christum in cœlis
+intercedere, aut sanguine suo in Sanctum illud Sanctorum cœleste ingredi pro
+omnibus & singulis, sed tantum pro credentibus.
+
+4. Christus pro nullis intercedere potest secundum Arminianos. Ergo, non pro
+omnibus. prob. Antec. Quia Christus, secundum eos, morte suâ non meritus est
+fidem & regenerationem & perseverantiam in fide. Ergo, pro nostrâ fide &
+perseverantiâ orare non potest. Ratio consequentiæ est; quia oratio Christi
+Sacerdotis nititur valore & merito sacrificii perfecti ab ipso, oblati Deo.
+
+5. Non audent asserere, Christum nunc orare ad dexteram Patris pro omnibus
+reprobis; nè quidem generaliter. Quia, sic generaliter resurrexerit, in cœlos
+ascenderit, & ad dexteram Dei Patris pro iis nunc interpellet, necesse est. Hoc
+autem illi non docent, quippe solis credentibus eum resurrexisse dicunt.
+
+1 COR. 1:4.
+
+Gratias ago Deo meo semper de vobis, ob gratiam, quæ data est vobis in Christo
+Jesu.
+
+Undè liquet, Christum eum esse, propter quem, tanquam causam meritoriam, data
+est nobis omnis gratia. Ideò.
+
+Quæritur, An rectè doceant Remonstrantes, Apol. cap. 8. fol. 25. Christum nullis
+mortalium,
+
+[1668 KBNL/UvA witness | logical printed p. 414 | PDF p. 465]
+
+morte suâ, fidem & regenerationem commeritum fuisse? Nos negamus.
+
+1. Quia Eph. 1:3. Deus benedixit nos omni benedictione spirituali in Christo;
+Ergo, & fide & regeneratione.
+
+2. Quia sumus novum Dei in Christo Jesu opificium, quos ad bona opera condidit
+Eph. 2:10. Ergo, etiam ad fidem, quam illi vocant opus bonum; & Christus vocat
+opus Dei Joan. 6:29.
+
+3. Quia Paulus hoc nomine gratias agit Deo 1 Cor. 1:4, 5. Gratias ago Deo meo
+semper de vobis, ob gratiam quæ data est vobis in Christo Jesu: quod in omnibus
+ditati sitis in ipso. Ergo, quod fide divites essent in ipso.
+
+4. Quia omnes Dei promissiones in Christo sunt etiam & Amen. 2 Cor. 1:20.
+quippè, res omnes promissas commeritus est, inter quas sunt imprimis
+regeneratio, circumcisio cordis, Deut. 30:6. novum cor & novus Spiritus, adeòque
+fidei ingeneratio; quæ omnia sunt promissa nobis in Novo fœdere. Ezech. 36:26.
+Ezech. 11:19. Jer. 31:33. Zach. 12:10. Quinimò absurdum est, res in Novo fœdere
+promissas, nobis merito sanguinis Novi fœderis, & morte Sponsoris Novi fœderis,
+uti Christus appellatur Heb. 7:22. non esse partas.
+
+5. Quia effusus est in nos spiritus regenerationis, per Christum Jesum
+Salvatorem nostrum, ex benignitate & φιλανθρωπίᾳ Dei. Tit. 3:4, 5, 6.
+
+[1668 KBNL/UvA witness | logical printed p. 415 | PDF p. 466]
+
+Cum enim fides & regeneratio sint Dei dona, absurdum est hæc dari nobis, nisi
+propter merita Christi; secùs, hæc dona nobis Deus daret, sicut Creator mundi
+dat corvis escam. Quo quid quid Scripturis contradicentius?
+
+8. Arminiani ideò negant Christum commeritum esse nobis fidem & regenerationem;
+nè cogantur dicere, ex necessitate & virtute meritorum Christi, dari fidem &
+regenerationem. 2. Quia absurdum esset, Christum pro omnibus, meritis suis,
+acquisivisse fidem & regenerationem, uti pro omnibus est mortuus; cùm pauci
+admodum credant & regenerentur. 3. Quia fides illis non est donum gratiæ,
+merito Christi partum, uti nec regeneratio, (si sincerè loqui didicissent) sed
+opus liberi Arbitrii. 4. Quia absurdum putant, ut id, quod à nobis exigitur ut
+officium, conditioque liberè præstanda, & sub titulo liberæ obedientiæ, sit
+partum meritis Christi: quia sic nobis esset necessariò dandum, quod ipsi tamen
+liberè, non necessariò, præstamus.
+
+JOAN. 15:13.
+
+Majorem charitatem nullus habet, quam istam, ut quispiam animam suam deponat
+pro amicis suis.
+
+Quæritur, An Christus eos, pro quibus est mortuus, complexus sit amore maximo?
+seu, An alius major dari potuerit, quam quò eos, qui actu credunt & salvantur,
+prosequitur? Docent Remonstrantes, præsertim Coll. Hag. pag. 184. Et Corvinus
+
+[1668 KBNL/UvA witness | logical printed p. 416 | PDF p. 467]
+
+contra Molin. cap. 28. §. 17. Christum non significare eò loci summam
+dilectionem simpliciter, sed tantum secundùm quid. Quia major (inquiunt)
+dilectio est non tantùm mereri, sed & reipsâ conferre salutem. Nos verò
+negamus.
+
+1. Distinguendum non est, ubi Lex Dei non distinguit. Christus autem ait
+expressè, neminem majorem charitatem hâc habere.
+
+2. Quia talis est hic amor, ut si Deus Filium pro nobis tradat, quod est majus,
+omnia alia, minora ac proindè gratiam credendi & perseverandi & æternam
+salutem, non possit non dare. Rom. 8:32.
+
+3. Quia charitas hæc Christi est tanta longitudine, latitudine, profunditate &
+sublimitate, ut sit omni cognitione supereminentior. Eph. 3:18, 19.
+
+4. Amor Christi animam ponentis pro amicis suis, nè quidem amor (secundum
+Arminianos) dici potest; quia hic amor optimè consistit cum odio & peremptorio
+& irrevocabili decreto Reprobationis, & æterno interitu omnium, quos tali amore
+complectitur; imò cum tali negatione mediorum, quæ ipsos ab æternâ irâ Dei &
+exitio efficaciter liberatura præscit Deus.
+
+5. Rom. 5:10. Paulus sic arguit. Nam si, cum inimici essemus, reconciliati
+fuimus Deo, per mortem Filii ejus; multò magis, reconciliati, servabimur per
+vitam ipsius. Undè sequitur, reconciliationem per mortem Filii Dei, esse
+majoris
+
+[1668 KBNL/UvA witness | logical printed p. 417 | PDF p. 468]
+
+charitatis, quam glorificationem reconciliatorum. At stante reconciliatione per
+mortem Christi antecedente, & omnium, electorum & reproborum, communi, (ut
+volunt Adversarii) non necesse est ut ullus mortalium salvetur.
+
+6. Non est quod dicant, majorem charitatem Deum non potuisse ostendere in eo
+genere, nempe, antecedentis amoris erga inimicos: At majorem ostendi erga
+amicos, in quibus Pater mansionem facit; ut regerit Corvinus ibid. §. 19: 1.
+Quia de charitate erga ipsos amicos, loquitur Christus. Joan. 15:13. 2. Quia
+unus est amor in Deo, quo ab æterno suos complexus est. Hic loquitur de amore
+Dei quoad affectum, prout manifestatur nobis, in hoc maximè, quod Christus pro
+nobis mortem obierit.
+
+Quæritur, an Remonstrantes Apol. cap. 8. fol. 98. rectè definiant
+Reconciliationem esse activam efficientiam voluntatis salvandi, loco voluntatis
+perdendi. Nos negamus.
+
+1. Quia Voluntatis Dei, nulla datur in creaturis causa efficiens.
+
+2. Quia Voluntas perdendi non est mutabilis, commigrans in Voluntatem
+salvandi.
+
+3. Quia Reconciliatio est externus actus in Deo & temporaneus, quo Deus
+declarat se gratum acceptumque habere credentem in Filium Dei; & præsupponit
+mortem Christi & fidem hominis in Christo; & ratione, non re, differt à
+
+[1668 KBNL/UvA witness | logical printed p. 418 | PDF p. 469]
+
+Justificatione. Et reconciliatio ex parte nostri, est actus obedientiæ nobis
+imperatus. 2 Cor. 5:20. Oramus Christi nomine, reconciliamini Deo. Ergo, non est
+essentialiter talis voluntas.
+
+4. Esse in Deo, voluntatem salvandi reprobos, substitutam per Christi mortem,
+loco perdendi, est falsum. 1. Quia nulla est pax reprobis. 2. Non potuit in Deo
+esse voluntas perdendi reprobos ante spretum Redemptorem, ut ipsi docent. At
+verò perdere eos, qui non credunt in infantiâ suâ, est iniquitas, aut perdere
+eos propter Originale Peccatum, est punire non peccatores (secundum illos.) Aut
+perdere eos, propter peccata intervenientia, inter infantiam & sufficientem
+Evangelii propositionem, est ἄγραφον. Quia laborant invincibili ignorantiâ ii,
+qui peccant ante gratiam datam, per Evangelii prædicationem, cùm nondum sint
+capaces propositi sufficienter Evangelii.
+
+ROM. 8:34.
+
+Quis est qui condemnet? Christus is est, qui mortuus est; imò verò, qui etiam
+suscitatus est.
+
+Ex quo loco solidum argumentum Christianæ consolationis suppetit iis omnibus,
+pro quibus Christus est mortuus. Undè.
+
+Quæritur, An fundamentum solidum consolationis, spei, & certitudinis
+Christianæ, sit in hoc, quòd Christus pro omnibus & singulis sit mortuus;
+desperationis verò & perpetuæ dubitationis, quòd
+
+[1668 KBNL/UvA witness | logical printed p. 419 | PDF p. 470]
+
+mortuus sit pro solis absolutè electis & credentibus; cum ex Scripturis nemini
+constet, se electum esse & credere? Ajunt Remonstrantes. Nos negamus.
+
+1. Quia spes & consolatio verè Christiana, est electorum & credentium propria,
+iisque in cœlis reposita, Col. 1:5. 1 Pet. 1:3. Rom. 8:24. Et solorum credentium
+propria est certitudo salutis tùm objectiva, tùm subjectiva, & adhærentiæ, (quam
+vocant) Rom. 8:38, 39. 2 Cor. 5:1, 2. Col. 2:2. Tim. 1:12. Rom. 5:1. Rom. 8:16.
+Ideòque profitemur, doctrinam nostram, impiis & non credentibus, pulvillos pro
+omnibus axillis brachiorum minimè consuere.
+
+2. Miseram spem & evanidam consolationem faciunt ii misellis animabus, qui
+docent, hoc posito, quòd Christus pro me & singulis mortalibus, Judâ &
+Pharaone, animam & sanguinem suum effuderit; nisi tamen Libertas mea cardine
+versatilior, hoc unum agat, ut me & omnes mortales salutis participes faciat;
+fieri posse, ut ego & omnes mortales in æternum simul pereamus. Quippè, hæc
+consequentia est tam valida, Christus obiit pro peccatoribus, Ergo, Diabolus
+salvabitur: quàm hæc, est Christus pro omnibus & singulis obiit, Ergo, Juda
+proditor, bono es animo, tu salvaberis, tibi suppetit satis consolationis.
+
+3. Nihil Arminiani docent de motione cordium hominum, juxta præscientiam Dei,
+uti Jesuitæ; nihil de efficaci & indeclinabili inflexione
+
+[1668 KBNL/UvA witness | logical printed p. 420 | PDF p. 471]
+
+cordis ad obedientiam Christi, ut Dominicani docent. Sed juxta eorum doctrinam,
+Liberum Arbitrium dominatur in Dei providentiam, & omnem gratiam validissimè
+agentem; dominatur in τὸ velle vel nolle, τὸ credere vel non credere, in τὸ
+perseverare vel non perseverare in gratiâ. Undè suboritur spes pendula, dubia,
+anceps, incerta, formidine finalis excidii & apostasiæ, singulis horis
+concussa: & indè consolatio vana & lubrica. Quàm sunt miseri hi consolatores!
+
+4. Satis & affatim spei, certitudinis, & consolationis, huic syllogismo
+substernitur.
+
+Quicunque credit in Christum, salvabitur.
+
+Atqui ego credo in Christum.
+
+Ergo, ego salvabor.
+
+Major est Scripturæ. Minor probari potest ex Scripturis. Rom. 6:16. Et ex
+signis illis infallibilibus, quibus certus aliquis esse potest, se credere; quæ
+partim è Sacris Scripturis, partim testimonio Spiritûs Sancti, partim sensu
+experientiæ Christianæ, dignosci possunt etiam certitudine divinâ.
+
+5. Arminianæ consolationis & certitudinis fundamentum, est universalis
+electio, seu universalis intentio salvandi omnes, & moriendi pro omnibus, quod
+nihil in se solidi habet. Nam non credentes, nisi præsumant & evanidam spem
+alant, tùm habent materiam desperandi de salute æternâ, & suspicandi se non
+esse de eorum
+
+[1668 KBNL/UvA witness | logical printed p. 421 | PDF p. 472 | ends before Quæritur, An reprobi, morte Christi]
+
+numero, quos Deus decreto completo, irrevocabili & peremptorio electionis, ad
+gloriam destinavit. At certè nos, fundamentum spei & consolationis, nullos
+quærere jubemus in secretis Dei intentionibus & decretis latentibus, sed in
+voluntate Dei revelatâ, collatâ cum conscientiâ cujuslibet hominis.

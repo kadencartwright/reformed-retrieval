@@ -1,0 +1,358 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Nonum, De Universali Redemptione — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 398 at `Hisce etiam
+aliæ quæstiunculæ tres affines sunt`, without repeating the end of Part 24. It
+carries the three allied questions, the question arising from Romans 5:10, the
+question arising from 2 Corinthians 5:19, and the complete question and
+four-point argument arising from 1 Peter 2:24 concerning Christ's substitution.
+It ends on printed p. 411 after the fourth argument. The allied question
+beginning `Huic etiam affinis est altera Quæstio` later on that page is
+excluded. Printer line-end and page-end divisions have been joined; at every
+split-word page boundary the new-page marker precedes the complete joined
+word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its correction for p. 400, line 28, is applied: the body reads
+`Redemptorum`, corrected here to `Redemptorem`.]
+
+[Printed-form note: Citations and forms are retained as printed, including `1
+Pet. 2:23`, `2 Cor. 4:21`, and the repeated `nos nos` on p. 410. The Greek
+`λύτρον` and `ἀντίλυτρον` is retained and translated or explained in the
+English. No Hebrew or substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 398 | PDF p. 449 | begins at Hisce etiam aliæ quæstiunculæ tres affines sunt]
+
+Hisce etiam aliæ quæstiunculæ tres affines sunt.
+
+Quæritur, primò, An quia Deus neminem cælo proscribit, nisi qui opponat Christo
+novam & vincibilem rebellionem, ideò rectè concludant (Remonstrantes ibid.)
+Evangelium omnibus & singulis momentis ubique locorum prædicari posse? Negamus.
+
+1. Quia nec physicè nec moraliter est talis in hominibus potentia, ut possint
+prædicare Evangelium in remotissimis mundi plagis, ubi Christus nec fando
+auditus est.
+
+2. Quia supponit vana hæc consequentia, ex hominum meritis aut demeritis,
+prædicari vel non prædicari Evangelium.
+
+3. Quia quædam nationes indignas sese
+
+[1668 KBNL/UvA witness | logical printed p. 399 | PDF p. 450]
+
+Evangelio reddunt, fatentibus Adversariis; ideòque privantur præconio Evangelii
+ex ordine justitiæ; An illic prædicari potest singulis & omnibus momentis
+Evangelium, repugnante Dei justitiâ?
+
+4. Si quoniam nemo cælo proscribitur, nisi is, qui novam & vincibilem
+rebellionem Christo opponat, ideò ubique locorum omnibus & singulis horis
+prædicari potest Evangelium; tùm omnes nationes ante auditum Evangelium, in quo
+statu novam contumaciam Christo opponere non possunt, vel dignæ sunt Evangelio,
+quod absurdum; vel non dignæ, & sic ii, qui nec cælo proscribuntur, nec pœnas
+æternas commeriti sunt, nec ullo peccato inquinari videntur, ut volunt
+adversarii, indignæ sunt Evangelio, quod injustum.
+
+5. Si ubique locorum, & in singulis momentis prædicari potest Evangelium; Ergo,
+in Bithynia potuit prædicari Evangelium eo momento, quo Spiritus Sanctus vetuit
+Apostolos illic prædicare; quod absurdum.
+
+Quæritur 2. An quia Deus neminem, nisi rebellem in Christum, gratiâ Evangelicâ
+& cælo proscribit; ideò, omnes & singuli ad credendum in Jesum Christum
+Evangelio annunciatum, eodem prorsus jure ac modo obligentur? Ajunt
+Remonstrantes, art. 2 Script. Synod. pag. 285.
+
+Nos, omnes pari jure h. e. pari mandato Evangelico, & pari conscientiâ, ex
+authoritate
+
+[1668 KBNL/UvA witness | logical printed p. 400 | PDF p. 451]
+
+Dei jubentis motâ, ad credendum in Christum obligari dicimus; omnes enim ex
+æquo tenentur Deo obedire. Sed negamus, omnes, electos paritèr & reprobos, eodem
+jure formali, sive eodem jure tituli & proprietatis in Christum salvatorem, ad
+credendum obligari: quia hoc posteriori jure, soli electi credere tenentur.
+
+1. Quia ex intentione Dei Patris & Christi morientis, non est Christus salvator
+reproborum, sed tantùm electorum: Nam intentio moriendi pro aliquo, & electio,
+seu salvandi intentio, in Deo sunt paris ambitûs. At Arminiani & Jesuitæ non
+audent dicere, Christum esse Salvatorem reproborum ex peremptoriâ intentione
+Dei. Jesuitæ ex decreto absoluto negandi ipsis vocationem congruam, negant
+Christum ipsorum esse Salvatorem.
+
+2. Non est merito Christi impetrata reprobis peccatorum remissio, Justitia
+Christi, regeneratio, & fides. Hæc autem omnia merito mortis Christi electis
+acquisita sunt. Ergo, non est par jus obligans electos & reprobos ad credendum.
+
+Quæritur, tertiò, An quia Deus solos Redemptoris contemptores, & gratiam divinam
+aspernantes, cælo proscribit, & æternâ pœnâ afficit; ideò omnes & singuli non
+credentes, proptereà quod credere nolunt in hunc Redemptorem suum, cum per
+gratiam possint, sint rei æterni supplicii, & fructu
+
+[1668 KBNL/UvA witness | logical printed p. 401 | PDF p. 452]
+
+impetratæ reconciliationis suo merito priventur? Ità ajunt Remonstrantes ibid.
+expressis verbis. Nos negamus.
+
+1. Quia Indi & Americani, & qui nihil de Christo ejusque Evangelio audiverunt,
+peribunt sine Lege, Rom. 2:12. Et multò magis sine Evangelio; & credere non
+tenentur, juxtà illud, Rom. 10, 14. Quomodò credent in eum, de quo non audiverunt?
+& juxta illud, Joan. 15.22. Si non venissem, & locutus fuissem iis, peccatum non
+haberent, i. e. peccati infidelitatis rei non fuissent.
+
+2. Quia injustum est, homines non condemnari propter peccatum, ipsis verè &
+naturâ & habitu pravo inhærens; & tamen damnari solùm proptereà, quòd nolunt
+credere in Christum, de quo nihil audiverunt; cùm fides ex defectu & carentiâ
+objecti revelati sit simpliciter impossibilis. Ideò nostri Theologi rectè
+asserunt, neminem damnari propter infidelitatem negativam, sed tantùm positivam.
+
+ROM. 5. 10.
+
+Nam si cùm inimici fuimus, reconciliati fuimus Deo per mortem Filii ejus; multò
+magis reconciliati servabimur per vitam ipsius.
+
+Ex hoc loco patet, omnes eos, pro quibus Christus mortuus est, nomine hostium &
+inimicorum venire; adeòque esse infideles & rebelles. Unde
+
+Quæritur, An rectè asserant Remonstrantes, Script. Synod. art. 2. pag. 286.
+Christum pro
+
+[1668 KBNL/UvA witness | logical printed p. 402 | PDF p. 453]
+
+infidelibus & rebellibus, quà talibus, non obiisse; sed morte Christi gratiam
+impetratam esse peccatoribus, quatenùs in communi lapsûs & peccati statu,
+aliisque peccatis, exceptâ solâ impœnitentiâ, considerantur: & quidem eâ lege,
+ut fructus ejus gratiæ ad eos solos rediret, qui in Redemptorem credituri essent;
+ad eos verò, qui in Redemptorem credere nollent, neutiquàm pertineret? Nos
+negamus.
+
+1. Quia ex Arminianis, Christus pro omnibus & singulis hominibus mortuus est. At
+finalitèr impœnitentes sunt homines.
+
+2. Quia si expugnandæ infidelitati & rebellioni in Christum, non est impetrata
+gratia; tùm rebellio hæc (secundum Arminianos) non est peccatum: quia non est in
+potestate hominis evitare id peccatum, cui evitando, nulla iis, nè quidem in
+Christo, gratiæ plenitudine, suppetit gratia, & cujus peccati remissio est
+physicè impossibilis. Atqui nulla est gratia impetrata in Christo, per quam
+homines evitare possunt infidelitatem finalem: quia Christus isti peccato
+expiando sanguinem suum non fudit. Non igitur jure damnantur propter illud
+peccatum.
+
+3. Si rebellibus, quà talibus, non est impetrata gratia reconciliationis: tum
+omnes verè credentes abstinent à finali rebellione (quæ sola est damnationis
+causa) ex viribus puræ naturæ; absque omni ope gratiæ, & ideò finaliter credunt
+(quod est abstinere à finali rebellione
+
+[1668 KBNL/UvA witness | logical printed p. 403 | PDF p. 454]
+
+& infidelitate) & se salvant, ex puris naturæ viribus; quia finali infidelitati
+evitandæ, nulla est, vel in Christo, gratia hominibus, ut illi docent.
+
+4. Malè pro eodem ponunt infideles & rebelles. Nam per infideles intelligunt
+finaliter contumaces in Christum: At multi ad tempus, sunt in Christum rebelles,
+uti Saulus & latro resipiscens in cruce, qui non sunt finalitèr impœnitentes. Et
+sic Christus pro quibusdam rebellibus, quà talibus, & pro quibusdam ad tempus
+infidelibus, quà talibus, obiret necesse est.
+
+5. Sine omni Scripturâ & ratione docent, hoc modò: Christum in ligno crucis,
+justitiæ divinæ satisfecisse pro quibusdam peccatis pereuntium, sed non pro
+omnibus.
+
+6. Futilis ratio à Collocutoribus Hagiensibus pro hâc distinctione affertur,
+pag. 171. nempe, mortem Christi antecedere ordine, fidem & infidelitatem; ideò
+absurdum esse, Christum pro fidelibus vel infidelibus mortuum esse. Mors enim
+Christi, non antecedit ordine, nostras erga Deum inimicitias, injustitiam,
+impietatem; ut ait Scripturâ, Christum obiisse pro injustis, impiis, & pro nobis
+dum adhuc inimici ejus sumus. Quasi verò impietas nostra naturalis, non inprimis
+infidelitatem & odium erga Christum complecteretur; quo fit, ut non nisi tracti
+à Patre ad eum veniremus, Joan. 6:44. nemoque per
+
+[1668 KBNL/UvA witness | logical printed p. 404 | PDF p. 455]
+
+naturam impius, Christique osor foret! At si peccatum Originale non est
+peccatum, uti autumant Arminiani, nulla peccata Christus in ligno crucis
+expiavit iis, qui audito Evangelio obtemperant. Nam peccatum Originale non est
+peccatum, & peccata, quæ antecedunt vocationem Evangelicam, nisi accedat
+rebellio nova in Christum, homines cælo non proscribunt & excludunt; & ii, qui
+obtemperant Evangelio non opponunt novam rebellionem. Et nulla peccata expiavit
+illis reprobis, qui audito Evangelio novam rebellionem opponunt, eique
+finaliter resistunt; quia peccatum originis in iis non est peccatum; & rebellio
+non potest esse peccatum, quia rebellioni vitandæ non est gratia in Christo
+impetrata: quia Christus pro talibus, uti docent, nec gratiam impetravit, nec
+obiit.
+
+7. Hinc sequitur, homines ante adultam ætatem, quo tempore incipiunt esse
+capaces rebellionis adversus Christum, non esse peccatores, nec iræ filios; sed
+esse homines innocentes, in puris naturalibus.
+
+8. Christus electorum omnia peccata delevit, 1 Joan. 1:7. Ergo, & eorum
+infidelitatem, & reatum Evangelicæ vocationis semper spretæ & rejectæ, donec
+Deus, gratiâ, electorum propriâ, eorum duritiem expugnavit. Ergo, Christus pro
+infidelibus, quà talibus, obiit, & quia infideles erant, ut eorum infidelitatem
+
+[1668 KBNL/UvA witness | logical printed p. 405 | PDF p. 456]
+
+sanguine suo deleret, mortuus est. Deinde, si intentionem & consilium Dei
+spectemus, Christus pro solis fidelibus, quà talibus, i. e. pro ovibus suis,
+amicis, fratribus, filiis Dei, ecclesiâ, mortuus est; i. e. eo consilio, ut
+credituris, & non aliis, remissionem peccatorum & salutem, fidem & regenerationem
+meritis suis acquireret.
+
+2 COR. 5:19.
+
+Deus erat in Christo, mundum sibi reconcilians.
+
+Ex quo contextu sequitur, in mente Dei ab æterno, ablata fuisse omnia peccata
+electorum; Unde quæritur, An per gratiam reconciliationis, morte Christi
+impetratam, affectus Misericordiæ, quâ Deus omnes salvari vult, cujus egressus à
+justitiâ, per peccatum læsâ, impediretur, mutatus sit in plenarium voluntatis
+propositum dandi vitam æternam credentibus? Ita ajunt Remonstrantes ibid. pag.
+284. Nos negamus.
+
+1. Quia nulla est in Deo semimisericordia aut semivoluntas miserendi, quæ potest
+augeri & mutari in plenariam voluntatem: Nec enim voluntas Dei augmenti aut
+alterationis capax est.
+
+2. Quia meritum Christi, ejusque mors, cum sit temporaneum quid, non magis esse
+potest causa divinæ voluntatis, quàm ipsius divinæ essentiæ causa dari potest.
+
+3. Quia mutatio iræ divinæ & odii, in amorem & benevolentiam, non est mutatio in
+Deo
+
+[1668 KBNL/UvA witness | logical printed p. 406 | PDF p. 457]
+
+ad intra; sed tantùm mutatio effectuum Dei irati & odio habentis peccatores, ad
+extra.
+
+1 PET. 2:24.
+
+Qui tulit in corpore suo, peccata nostra in ligno.
+
+Christum ferre peccata nostra in ligno, est Christum ferre pœnas nostris
+peccatis debitas, quas in nostris personis ipsimet in æternum perpessuri fuimus.
+Unde celebris illa quæstio.
+
+An Christus in ligno crucis, in morte & passione suâ, locum, vicem, & personam
+eorum sustinuerit, pro quibus obiit; adeò ut pœnas illis debitas tulerit,
+Deusque æstimârit eos quasi mortuos, eò quòd Christus pro iis & vice eorum
+mortuus sit? Remonstrantes, in bonum nostrum, Christum hactenùs mortuum esse
+volunt, ut ejus mors nobis cederet in bonum, nisi per nosmet steterit: cæterùm,
+negant Christum pro nobis, i. e. vice & loco nostri mortuum esse. Docent
+Arminiani verbis quidem Christum pro nobis mortuum esse. Coll. Hag. pag. 185.
+Mortuus Christus pro peccatis nostris, mortem illam nostrâ vice ferens, quæ
+peccatis nostris debebatur. Sed aliter instituit Arminius Antiperk. pag. 673.
+Dicam non actûs, i. e. oblationis, sed passionis respectu, Christum nostram
+personam sustinuisse. Factus est enim pro nobis execratio, & factus hostia pro
+peccato. Unde apparet, cum omnes in universum homines sint peccatores &
+maledictioni obnoxii, & Christus humanam naturam omnibus communem assumpserit,
+verisimile
+
+[1668 KBNL/UvA witness | logical printed p. 407 | PDF p. 458]
+
+esse quod omnium hominum sustinuerit personam.
+
+Sed insulsa est hæc distinctio. Nam actus offerendi corpus suum in ligno crucis,
+& ipsa mortis perpessio, sunt unus & idem motus realiter. Quando igitur ait,
+Christum obtulisse corpus suum Deo Patri, non loco & vice omnium mortalium;
+attamen perpessum fuisse mortem loco & vice omnium mortalium; reverâ dicit,
+Christum in ligno crucis moriendo sustinuisse personam omnium mortalium, &
+moriendo non sustinuisse vicem & personam omnium mortalium.
+
+Sed Christus variis modis nostram personam sustinuisse dici potest. 1. Quasi
+electi Christum sui loco & vice substituissent; uti Civitas Commissionarium
+mittit ad Conventum, qui universæ Civitatis vicem & personam in Conventu gerit.
+Fatemur, hoc sensu Christum nostram personam minimè sustinuisse. Dominus enim
+(non homines) transtulit in eum nostras iniquitates Isa. 53:6.
+
+2. Nostram personam sustinuisse dici potest, quasi satisfecerit justitiæ, &
+patiendo pro nobis, illud jus & titulum ad vitam æternam commeruisset, quem nos
+ipsi commeruissemus, hoc supposito, quod nos perpessi fuissemus pro nostris
+peccatis, quæ ille est perpessus. Hunc sensum nobis affingunt Adversarii, &
+omnes oppugnatores justitiæ imputatæ; & inferunt nos
+
+[1668 KBNL/UvA witness | logical printed p. 408 | PDF p. 459]
+
+æquè esse justos, atque est ipse Christus. At nos Christum ex personæ patientis
+dignitate, longè plus morte suâ commeritum esse docemus, quàm nos commereri
+poteramus, etiam posito per impossibile, quod nos tam brevi spatio omnia
+perpessi fuissemus, quæ ille est perpessus. Undè Bellarm. lib. 2. de
+justificatione, cap. 2. arg. 5. Si verè nobis imputaretur justitia Christi, ut
+per eum justi haberemur ac censeremur, perinde ac si propriè nostra esset
+intrinseca formalisque justitia, ---- deberemus censeri æquè justi atque ipse
+Christus; & dici deberemus redemptores & Salvatores mundi. Verum ipse Jesuita
+ibid. arg. 4. pro nobis respondet. Nam si solum vellent (inquit de Nostris) nobis
+imputari Christi merita, quia nobis donata sunt, & possumus ea Deo Patri offerre
+pro peccatis nostris, quoniam Christus suscepit super se onus satisfaciendi pro
+nobis, nosque Deo Patri reconciliandi; recta esset eorum sententia. Et certè hoc
+est Christum nostrâ vice & loco mortuum esse, & perinde esse, ac si nos ipsi
+mortui essemus.
+
+3. Nostram personam Christum gessisse, dici potest, quasi moriendo omnia pro
+nobis & nostrâ vice præstitisset, quæ ad actualem nostram salvationem
+requiruntur; quasi conditio fidei à nobis non necessariò requireretur, ad
+actualem justificationem & glorificationem. Et hunc sensum etiam nobis Arminius
+affinxit calumniose, quod tamen non docemus.
+
+[1668 KBNL/UvA witness | logical printed p. 409 | PDF p. 460]
+
+4. Christus tamen, hoc sensu, nostri loco & vice obiit, ut pœnas nobis in
+æternum pro peccatis debitas perpessus sit; Deique justitiæ satisfaciendo pro
+nobis hactenùs causam nostram egit moriendo, ut Deus æstimet idem esse, ac si
+nos obiissemus, & nihil aliud requirat ad satisfaciendum justitiæ suæ &
+actualem nostri redemptionem à peccati reatu; verùm ad applicationem illius
+Redemptionis, fidem per charitatem efficacem exigat.
+
+Probatur. 1. Quia mori pro aliquo est loco mortui mori, ut is, qui mortuus est,
+viveret; ut fidejussor seu sponsor pro decoctore annumerat pretium, quod idem
+est legaliter, apud creditorem, ac si ipse decoctor pretium annumeraret. Quo
+sensu David pro Absolomo mori, & Paulus pro judæis anathema fieri optavit, nempè
+loco Absolomi & Judæorum, ut illi viverent. Ergo, non tantum in bonum Electorum
+Christus mortuus est, ità ut illi in æternum etiam mori possint, ut docent
+Arminiani.
+
+2. Quia idem ait Scriptura. Christus mortuus est pro nobis Rom. 5:8. pro
+peccatoribus, justus pro injustis. 1 Pet. 3:18. Pro amicis Joan. 15:13. Pro
+ovibus suis, Joan. 10:11. Pro Ecclesiâ. Eph. 5:25. pro multis. Matth. 20:28. Id
+est, vice & loco peccatorum, injustorum, ovium, &c.
+
+3. Si Christus id perpessus est in corpore suo, quod nos perpeti debuimus; tùm
+loco nostri
+
+[1668 KBNL/UvA witness | logical printed p. 410 | PDF p. 461]
+
+obiit. At prius verum est. Gal. 3:13. Factus est execratio pro nobis. At
+expressè dicitur, nos execrationi Legis subjectos fuisse, juxta illud, Maledictus,
+qui non permanserit in omnibus, quæ scripta sunt in libro Legis, ut ea faciat.
+Si attritus est propter nostras iniquitates; & si nostra pacis castigatio ei
+imponitur, & vibicibus ejus nos nos curati fuimus, ut ait Propheta, Isa. 53:5. Et
+si tulit in corpore peccata nostra in ligno, ut est 1 Pet. 2:23. Et si ipse
+innocens, qui peccatum non novit, factus est pro nobis peccatum, 2 Cor. 4:21. Et
+si ex defectione populi mei, ei sit plaga Isa. 53:8. Tum rectè loco nostri
+obiit. Ratio est; quia vel passus est, ut nudum exemplar obedientiæ, quod impius
+Socinus contra Scripturas asserit: Vel, ex ordine justitiæ, ut fidejussor loco
+nostri percussus est, quod est institutum: vel denique, fudit sanguinem suum
+vago fine, ut id bonum redundans ex morte ejus, tam rediret nobis in bonum,
+quàm obedientia labilis primi Adami nobis cederet in bonum; quod absurdum est.
+Nam sic, secundum fœdus non est præstantius primo, secundus Adamus primo non
+fortior est ad salvandum.
+
+4. Qui ita obiit, ut sese dederit λύτρον, ἀντίλυτρον, prætium redemptionis,
+quale datur pro captivis, ubi λύτρον stat loco captivi; & prætium, quale datur
+pro rebus emptis, ubi prætium loco rei emptæ stat; Ille obiit loco & vice
+nostri. At Christus hoc modo pro nobis obiit. Matth.
+
+[1668 KBNL/UvA witness | logical printed p. 411 | PDF p. 462 | ends before Huic etiam affinis est altera Quæstio]
+
+20.28: 1 Tim. 2:6. 1 Pet. 3:18, 19. 1 Cor. 6:20. Et vanum est illud Arminii
+Antiperk. pag. 673. Non esse de essentiâ Mediatoris, ut alicujus personam
+sustineat, ---- Neutrius enim partis personam sustinet. Verum quidem est,
+sustinere personam altercantium & dissidentium non esse de essentiâ Mediatoris
+in genere: Sed nostrum argumentum non est à Mediatore in genere, sed à tali
+Mediatore in specie, qui fidejussor est, & satisfactionem obedientiæ passivæ
+læsæ justitiæ spopondit & præstitit. Unde omninò, est de essentiâ talis
+Mediatoris, qui pro alterâ parte sanguinem suum & vitam profudit, sustinere
+personam & vicem illius partis.

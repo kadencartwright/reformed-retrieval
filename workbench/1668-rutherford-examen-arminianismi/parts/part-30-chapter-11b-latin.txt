@@ -1,0 +1,314 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Undecimum, De Modo Conversionis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on printed p. 457 at `Ad illustrationem
+quæstionis hujus controversæ`, without repeating the closing thesis of Part
+29. It supplies the historical framing of the controversy, Rutherford's
+nineteen arguments for irresistible conversion, his four criticisms of the
+Remonstrants' formulation of the question, his two-cause account of grace and
+the moved will, and his complete five-point reply to Martinez de Ripalda's
+first argument for a natural faculty of faith. It ends within printed p. 468
+after `quæ vires nullas addit Libero Arbitrio`, before the new objection
+beginning `Martinez, ibid. sect. n. 8:26.` Printer line-end and page-end
+divisions have been joined; at every split-word page boundary the new-page
+marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its two applicable corrections are applied. On p. 463 the body's `Res
+subditos` is corrected to `Rex subditos`; on p. 467 the malformed Greek is
+corrected to the errata's printed `οὐ δυνάται`, followed by Rutherford's own gloss `non potest
+venire`.]
+
+[Printed-form note: The forms and citations `Coll. Hag. p. 311`, `Col. 2:12`,
+`Jude 24`, `Joan. 7. §. 37:38`, `Zech. 36:26, 27`, `Ezech. 12:10`, `Script.
+Synod.`, `Kemnitius`, `literam`, and `Hugo Victorinus` are retained rather than
+silently regularized. The Greek `κατὰ παντὸς` and the errata-corrected `οὐ
+δυνάται` are retained. The isolated outer-edge specks and strokes visible in
+the controlling images are non-textual scan or handling artifacts; no
+substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 457 | PDF p. 508 | begins at Ad illustrationem quæstionis hujus controversæ]
+
+Ad illustrationem quæstionis hujus controversæ, etiam hæc notari possunt.
+
+Anno 415. Ortus est Pelagius, Julianus, Faustus, & multi alii, qui gratiam
+irresistibilem, Fatum indigitârunt. Hodiè quatuor extant sententiæ. Prima est
+Dominicanorum, agnoscentium gratiæ vim insuperabilem; sed docentium, ideò
+hominem non converti, quia non vult. Ità Alvarez, Gumel, Rispolis, Doctores
+Salmanticenses, & Complutenses, Bannez. Secunda est Jesuitarum, vocationem
+congruam astruentium in 1. Suasione. 2. Contemperatione suasionis tali
+dispositioni; ut fortè resolvatur efficacia conversionis in pomeridianam
+compotationem. 3. Scientiæ Mediæ fulcro; quod est ingeniorum malè feriatorum
+cerebrosum figmentum. Tertia sententia est Pelagianorum, Arminianorum,
+Socinianorum, Pseudo-Lutheranorum, ponentium gratiam resistibilem.
+
+Sed quinque hic sunt in voluntate. 1. Illuminatio mentis. 2. Vivificatio
+affectuum. 3. Collatio potentiæ credendi. 4. Sensus & perceptio suasionum &
+pulsationum Intellectûs. Et hæc omnia dicunt fieri à Deo irresistibiliter. 5.
+Assensus & dissensus, de quo est quæstio. Arminiani olim cum suo Arminio ad
+congruitatem Jesuiticam confugerunt. Coll. Hag. p. 311. nunc eam deseruerunt.
+
+Neque tamen hæc controversia cum Pelagio demùm nata est, sed multò est
+antiquior. Etiam
+
+[1668 KBNL/UvA witness | logical printed p. 458 | PDF p. 509]
+
+Apostolorum tempore nata & mota est à carnalibus Romanis. cap. 9. v. 19. Si
+Deus miseretur quorum vult, & indurat quos vult; Ergo, immeritò irascitur: quia
+quis restitit ejus voluntati. Paulus non respondet cum Arminianis, aliam esse
+voluntatem Dei resistibilem, aliam irresistibilem; aliam esse peremptoriam,
+aliam non; aliam efficacem, aliam inefficacem; Sed, Imo verò, homo, tu quis es,
+qui ex adverso responsas Deo? &c.
+
+Nos sententiam nostram contra Arminianos hisce argumentis probamus.
+
+1. Quia Deus efficit in nobis fidem, eâ vi & potentiâ suâ, quâ suscitarit
+Christum à mortuis. Eph. 1:18, 19. Col. 2:12. Et potentiâ suâ perficiente omne
+beneplacitum voluntatis suæ. 2 Thess. 1:11. Et eâ divinâ potentiâ, secundum
+quam donat nobis omnia, quæ ad vitam & pietatem spectant. 2 Pet. 1:3.
+
+2. Quia tractui Patris, Joan. 6:44. nemo resistit; & omnes qui audiverunt &
+didicerunt à Patre ad Christum veniunt. v. 45. Ergò, necessariò veniunt: Nam
+propositio κατὰ παντὸς est necessariæ veritatis; ac proindè non possunt non
+venire.
+
+3. Quia Deus non solum dat posse credere, sed operatur velle & perficere in
+nobis. Phil. 2:13. Et datum est nobis credere & pati; Phil. 1:29. Et efficit ut
+ambulemus in præceptis ipsius. Ezech. 36:27. Ergo, Dei gratia ita efficaciter
+operatur,
+
+[1668 KBNL/UvA witness | logical printed p. 459 | PDF p. 510]
+
+ut tollat & resistentiam & resistibilitatem. Ibid. v. 26. Cor saxeum amovebo.
+At cor saxeum est principium habituale resistendi Deo vocanti.
+
+4. Quia cor novum & spiritus novus, quo fit, ut actu ambulemus in præceptis
+Dei, pugnat è diametro cum finali & completâ potentiâ resistendi Deo vocanti,
+& fallendi gratiosam intentionem vocandi in Deo. Sic enim homines haberent cor
+novum & nunquàm converterentur, & sic converterentur & non converterentur.
+
+5. Quia promittit nobis Deus ablationem resistibilitatis. Deut. 30:6.
+Circumcidet Jehovah cor tuum & cor seminis tui, ad diligendum Dominum Deum
+tuum ex toto corde tuo. Ergo, tollit duritiem & præputium cordis. Ezec. 36:26.
+Cor novum dabo vobis, & spiritum novum ponam in vobis. At objicerent Judæi
+(uti hodiè Arminiani) fieri potest, ut saxei manentes, resistamus tibi, Jehova,
+danti cor novum. Respondet. Cor saxeum amovebo. Jer. 31:33. Indam legem meam
+menti eorum, & cordi eorum inscribam eam. At fieri potest, ut indocti maneamus,
+tibique resistamus: Ideò præoccupat illud. v. 34. Non autem docebunt quisque
+amicum suum, & quisque fratrem suum, dicendo, cognoscite Jehovam: nam quotquot
+erunt, cognoscent me à minimo eorum usque ad maximum eorum. Tales promissiones
+sunt. Jer. 24:7. Isa. 44:3. Ezech. 11:19, 20. Zach. 12:10. Joan. 14:16.
+
+[1668 KBNL/UvA witness | logical printed p. 460 | PDF p. 511]
+
+6. Quia Deus Pater promisit Filio, populum voluntarium. Psal. 110:3. Visurum
+esse semen suum, Isa. 53:10. Fines terræ in hæreditatem suam. Psal. 2:8.
+Dominium à mari ad mare, à fluvio ad fines terræ. Psal. 72:8. Ergo, promittit
+Filio suo, quod multi sunt convertendi ad eum: Estque Deus verax in promissis.
+Non possunt, ergo, hi Deo convertenti resistere.
+
+7. Quia si homo mortuus in peccatis nihil conferat ad sui regenerationem, quo
+eam promereatur aut procuret; ejusque conversio sit suscitatio è mortuis, &
+nova creatio; tum non potest homo Deo vocanti obstare, aut regeneranti
+obluctari. Sed prius est verum. Joan. 3:3. & 5:25. Eph. 2:5.
+
+8. Quia non esset Dei regenerantis actio, fortior quàm oratoris suasio &
+blandum allicium; si esset ab homine superabilis. Nec Deus hic fortior esset,
+quàm Concionator, quàm Diabolus, quàm Cicero aut Demosthenes.
+
+9. Si hæc gratia ab homine superabilis est; tùm ea non-renatis communis est;
+quippè hisce daretur, sed data repudiaretur. At hæc gratia est Filiorum Dei
+propria. Nam Rom. 8:14. Soli filii aguntur Spiritu Dei. Et 1 Cor. 1:23.
+Christus, solis internè vocatis, est potentia Dei. Joan. 14:17. Soli filii Dei
+recipiunt Spiritum Sanctum; mundus eum recipere non potest. Joan. 7. §. 37:38.
+Joan. 4:13. Joan. 14:17.
+
+[1668 KBNL/UvA witness | logical printed p. 461 | PDF p. 512]
+
+10. Quia omnipotentiam suam Deus adhibet in actione gratiæ internæ, & talem
+quidem; quâ Deo omnia sunt possibilia. Matth. 19:26. Hâc omnipotentiâ multos à
+confidentiâ in divitiis, ad fidem & resipiscentiam convertit. Et potentiam hic
+adhibet majorem eâ, quæ est in Diabolo & peccato. 1 Joan. 4:4. 1 Joan. 2:14.
+Joan. 12:31. Joan. 14:30. Sic à voluntate & potentiâ Dei infertur multorum
+conversio. Rom. 11:23. Rom. 1:16. Jude 24. 1 Pet. 1:5. Joan. 10:29. 2 Cor. 9:8.
+Rom. 15:13. & 16:25.
+
+11. Quia si posset homo, gratiæ internæ & electorum propriæ resistere; tùm Dei
+decreta electionis rescindi, consilia mutari, intentiones falli possent; contra
+Scripturas. Psal. 33:10. Isa. 14:26, 27. & 46:10, 11.
+
+12. Si hæc gratia est superabilis, tùm Deus non daret resipiscentiam & fidem;
+contra Scripturas. Act. 5:31. 2 Tim. 2:25. sed tantùm offerret: at fides oblata,
+& non recepta, non est Dei donum; sed fides recepta esset nostrum donum.
+
+13. Quia si hæc gratia est superabilis, tùm libero Arbitrio hominis actus
+Conversionis committeretur, & efficacia meritorum Christi, salus electorum à
+Deo intenta, penderet, ut sit vel non sit, non à Dei gratiâ, sed à libero
+Arbitrio nostro: Cum tamen Scripturæ, Conversionem, opus gratiæ faciant. Deut.
+30:6. Jer. 31:33. Zech. 36:26, 27. Ezech. 12:10. Joan. 6:44, 45.
+
+[1668 KBNL/UvA witness | logical printed p. 462 | PDF p. 513]
+
+14. Si gratia superabilis est, Deus multos vocabit internè, quos nec
+prædestinavit, nec justificavit, nec glorificavit; contra id, Rom. 8:29, 30.
+
+15. Frustrà Deum oramus Conversionem, si positis omnibus divinæ gratiæ
+actionibus, fieri posset, ut resisteremus & non converteremur; nam oraremus id,
+quod Deus facere non potest, nisi everteret libertatem: Et sic conversio esset
+non-conversio & non-obedientia.
+
+16. Frustrà gratias & gloriam Conversionis Deo deferremus, si voluntas potuit
+eam impedire: Deus enim sic non est infallibilizans & efficax causa
+conversionis.
+
+17. Homo ipse separaret & discriminaret sese à non-converso, per solum suum
+liberum Arbitrium: Nam diceret conversus, ego feci aliquid per meum liberum
+Arbitrium, sine Christo; & ego habeo hoc, quod non recepi à Dei gratiâ, nempè,
+ego non restiti Dei gratiæ; cùm tamen alter, eâdem gratiâ habituali instructus,
+restiterit. Attamen Scripturæ, gloriam nostræ conversionis Deo ascribunt,
+tanquàm causæ separanti & discriminanti. Rom. 1:8. Eph. 2:4, 5. Col. 1:12, 13.
+1 Thess. 1:2, 3. 1 Tim. 1:15, 16, 17. Rev. 1:5, 6. 1 Pet. 1:3, 4.
+
+18. Quia penès liberum Arbitrium esset, non penès Deum, quòd ulli salvati
+essent, quòd esset Ecclesia in mundo, quòd Christus Sponsus
+
+[1668 KBNL/UvA witness | logical printed p. 463 | PDF p. 514 | erratum applied: Rex for Res]
+
+uxorem, Caput membra, Rex subditos haberet; quod gloria misericordiæ
+condonantis declararetur: Quia omnes mortales per Liberum Arbitrium Deo vocanti
+resistere poterant.
+
+19. Quia falsò Augustinus ex Scripturis, Dominium Deo in voluntates humanas
+ascriberet. Malè diceret de Correptione & Gratiâ cap. 14: & de Gratiâ. cap. 14.
+Habet Deus, humanorum cordium, quò placet, inclinandorum, omnipotentissimam
+potestatem; & de ipsis voluntatibus, quod vult, facere, &c. Non est dubitandum
+---- humanas voluntates non posse resistere, quominus faciat ipse quod vult.
+
+Remonstrantes, Script. Synod. art. 4. pag. 58. Sic formant quæstionem de
+resistibilitate. An homo, cum Deus seriò vult, ut credat & convertatur, posset
+nolle credere & converti? Vel sic, An Deus cum conversionem hominum intendat,
+eam (ut effectus conversionis, certò & necessariò consequatur) adhibet gratiæ
+efficacitatem, quâ positâ homo non posset non converti & credere; & quâ non
+positâ, non posset converti & credere? Nos improbamus statum hunc Quæstionis.
+
+1. Quia nè syllabam habent de gratiâ internâ.
+
+2. Quia quærunt, an homo posset non converti, quando Deus adhibet eam
+efficacitatem, i. e. eam efficientiam, ut necessariò convertatur? Quod est
+quasi quærerent, an positâ conversione, fieri possit, ut non ponatur conversio?
+
+[1668 KBNL/UvA witness | logical printed p. 464 | PDF p. 515]
+
+3. Quia Arminianis, alia est intentio convertendi peremptoria, alia inefficax;
+alia absoluta, alia conditionata. Ideòque confusè formant quæstionem.
+
+4. Quia cùm Deus (secundum illos) Barbarorum & Indorum, imò & damnatorum
+conversionem velleitate intendat, ut ait Corvinus contra Molin. cap. 31: §. 17.
+quærunt, an Deus, circa Indos, qui nihil de Christo audiverunt, & damnatos, eam
+gratiæ efficacitatem adhibeat, quâ positâ, necessariò sequatur eorum conversio?
+quæ insulsa est Quæstio.
+
+Martinez de Ripalda, de ente supernaturali, tom. 1 lib. 2. disp. 30. sect. 6.
+n. 28. Si velis arbitrium (contra Thomistas recentiores) agere immediatè ut
+quod, quia ipsum est quod immediatè redditur cognoscens, aut appetens per actum
+supernaturalem: At sic Calvinus, quis nescit per voluntatem fieri, ut velit
+homo. En ultrò fatetur Kemnitius, voluntatem esse, quæ propriè (adverbialiter)
+velit; mentem, quæ propriè intelligat. Quamvis actio salutaris agendi & volendi,
+non sit propriè voluntatis & mentis, sed gratiæ divinæ: quia non à virtute
+propriâ voluntatis & mentis humanæ, sed solùm à virtute alienâ gratiæ divinæ,
+adæquatè ac immediatè proveniat. Resp. At nobis impingit, quod velimus
+arbitrium habere se purè passivè.
+
+Sed in Statu Quæstionis, volumus Gratiam
+
+[1668 KBNL/UvA witness | logical printed p. 465 | PDF p. 516]
+
+& Patrem docentem, habere duplicis causæ respectum.
+
+1. Gratia est causa realitèr trahens, intùs docens, prædeterminans, sola &
+adæquata. Et Liberum Arbitrium est actum, tractum, edoctum. At hic non est ulla
+collateralitas inter Gratiam & Liberum Arbitrium; sic enim voluntas nostra
+esset concausa socialitèr vocans, præveniens, trahens; & gratia Dei altera
+concausa. At solus Pater trahit, & solus Pater adæquatè facit nos audire, Joan.
+6:44, 45. non voluntas cum Patre: imò hic passivè nos habemus. Solus Pater
+docet Petrum, & adæquate; non caro & sanguis sese docet, ut causa socia. Matth.
+16:17. 1. Pars enim beatitudinis Simonis dimidia, esset accepta ferenda carni &
+sanguini, æquè ac Patri. 2. Nos potentèr vocaremus nosmet æquè ac Deus, &
+interveniret nostra dives misericordia, ut collateralis causa internæ
+vocationis activa. 3. Esset Liberi Arbitrii, ut vocemur, vel non.
+
+2. Liberum Arbitrium sic tractum & motum, est causa socia vitalis, sed
+subordinata gratiæ prævenienti. Ille solus pulsat præveniendo, non moralitèr
+tantùm ciendo & monitione hortatoriâ excitando; sed reali influxu. Sed nos non
+soli aperimus & respondemus; sed qui solus vocat & prævenit, etiam subsequitur
+eâdem gratiâ operante velle in aperiendo & respondendo.
+
+Martinez de Ripalda de Ente supernaturali.
+
+[1668 KBNL/UvA witness | logical printed p. 466 | PDF p. 517]
+
+tom. 1. disp. 30. part. 29. Patres Ecclesiæ asserunt, homini convenire
+naturalem seu insitam facultatem ad opera supernaturalia. Augustinus, de dono
+perseverantiæ. cap. ---- Ex quo apparet, habere quosdam in ipso ingenio,
+divinum naturaliter munus intelligentiæ, quo moveantur ad fidem, si congrua
+suis mentibus, vel audiant verba, vel conspiciant signa. Nota illud
+naturaliter; item illud congrua suis mentibus; quæ indicant hominum naturæ
+atque ingenio, ipsam credendi actionem congenitam, & aliquâ ratione naturalem
+esse; non quia adæquata facultas congenita & naturalis sit. Ergo, saltem quia
+naturalis & congenita est facultas incompleta. Item Augustinus de Præd. Sanct.
+c. 5. Posse habere fidem, est naturæ. ---- habere fidem, est gratiæ. Est
+possibilitas non solum passiva, sed & activa vis; quia credere, elicientes
+actum fidei, valemus.
+
+Resp. Non negamus remotam & quandam potentiam gratiæ; sed quòd in actum
+perducatur stupens & sopita hæc potentia, per solum congruam & moralem (nempè,
+literam Legis & Evangelii) motionem suasoriam, absque realis potentiæ & habitûs
+infusione, negamus. 2. Est & passiva & activa possibilitas. Est passiva, quia
+indiget supernaturali potentiâ, ut fiat proximior & activa. Non est potentia,
+qualis lapidibus aut lignis, pecoribusque præstatur, ut
+
+[1668 KBNL/UvA witness | logical printed p. 467 | PDF p. 518 | split word joined: Augustinus | erratum applied: οὐ δυνάται]
+
+Augustinus de Spiritu & Literâ, cap. 33. ubi dubitat & disputat. Prius illud
+dicamus & videamus, utrùm huic satisfaciat quæstioni, quòd liberum Arbitrium
+attributum naturaliter à Creatore illa media vis sit, qua vel intendi ad fidem,
+vel inclinari ad infidelitatem potest. Itaque est hæc potentia naturalis
+credendi remota.
+
+Regerit Martinez ibid. 25. Potentia purè remota non habet in effectum aliam
+virtutem, quàm illam, quâ virtus immediata & proxima operatur; cùm per illam
+solam & non per se, immediatè attingat effectum. Potentia autem purè remota,
+sine proximâ, non enervis & infirma tantùm, sed penitùs nulla est, At Hugo
+Victorinus explicat activitatem naturalem (credendi) exemplo visûs, simul cum
+lumine elicientis visionem; qui non est visivus potestate purè remotâ.
+
+Resp. Scriptura Joan. 6:44. Rom. 8:7. 1 Cor. 2:14. negat ullam potestatem
+naturalem veniendi ad Christum, i. e. credendi, nisi infundatur novum posse.
+Ergo, potentia naturalis est passiva hoc nomine. 2. Si negatur potentia
+credendi; Ergo, est potentia remota. 3. Purè remota penitùs nulla est, negatur.
+οὐ δυνάται, non potest venire. Joan. 6:44. est tamen subjectum capax gratiæ
+trahentis. 4. At non potest dici, potentiam remotam non immediatè attingere
+effectum, etiamsi non attingat nisi mediante solâ gratiâ: Nam ferrum ignitum
+calefacit potentiâ
+
+[1668 KBNL/UvA witness | logical printed p. 468 | PDF p. 519]
+
+remotâ, & etiam immediatè attingit effectum; nec per solum ignem
+intervenientem: nam immediatè per materiæ densitatem, quâ fortiùs uniuntur
+vires & gradus caloris ignei, calefacit.
+
+5. Infelix est Hugonis Victorini commentum in quæst. elucid. in epist. ad
+Romanos pag. 238. qui expressè ait, animam habere promerendi potentiam
+naturaliter; ubi certè oculus est & facultas visiva est illæsa, sana, in
+tenebris constituta; nec lumen addit potentiam realem videndi novam, sed
+supponit integrum, sanum, & illæsum esse visum, & videndi potentiam in tenebris
+etiam proximam. Jesuitæ etiam concedunt, novum habitum infundi, sed ut faciliùs
+& suaviùs actus eliciantur: nam potentiam naturalem debilem, sed non entitativè
+imminutam, volunt. 2. Quod ad cooperationem, eam indifferentem & generalem
+esse docent. 3. Solâ morali suasione, quæ vires nullas addit Libero Arbitrio.

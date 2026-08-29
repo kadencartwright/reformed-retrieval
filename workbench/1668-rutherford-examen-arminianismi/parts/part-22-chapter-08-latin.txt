@@ -1,0 +1,561 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Octavum, De Statu Gratiæ — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 351 at `CAPUT OCTAVUM,
+De STATU GRATIÆ`, without repeating the end of Chapter VII from Part 21, and
+contains the whole of Chapter VIII. It ends on shared printed p. 372 after
+Chapter VIII's final word, `amplectatur`. The next heading, `CAPUT NONUM, De
+Universali Redemptione`, later on that page is excluded. Printer line-end and
+page-end divisions have been joined; at the split-word boundaries on pp.
+355–356, 356–357, 357–358, 358–359, 360–361, 361–362, 364–365, 365–366,
+366–367, 367–368, 369–370, and 370–371, the new-page marker precedes the
+complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its p. 352 correction, `l. 6. 7. l. divina gratia`, is applied below as
+`divinæ gratiæ`; the body reads `diviciæ gratiæ`. No other erratum applies to
+pp. 351–372.]
+
+[Printed-form note: Citations and argument numbers are retained as printed.
+The Greek, including the difficult forms in the Cyril passage on p. 361 and
+`ἐνθεσιαστικὸν` on p. 370, is retained rather than silently regularized. No
+Hebrew or substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 351 | PDF p. 402 | begins at CAPUT OCTAVUM]
+
+CAPUT OCTAVUM,
+
+De STATU GRATIÆ,
+
+1 TIM. 2.3, 4.
+
+Nam hoc bonum & acceptum est in conspectu Servatoris nostri, Dei; Qui quosvis
+homines servari vult, & ad agnitionem veritatis venire.
+
+Unus hic locus ad divinæ gratiæ amplitudinem & universalitatem, ab Adversariis
+
+[1668 KBNL/UvA witness | logical printed p. 352 | PDF p. 403]
+
+miserè torquetur. Undè disquirendum, an per justam consequentiam, Universalitas
+gratiæ, indè validè concludatur. Ideò.
+
+Quæritur, An Arminiani justè contendant & certent pro dignitate meriti Christi,
+pro Amplitudine, Universalitate, Sufficientiâ & Excellentiâ divinæ gratiæ? Nos
+negamus.
+
+1. Quia eâ gratiâ, quâ stante, omnes & singuli, quos Deus tali gratiâ complexus
+est, nunquàm credere & in æternum perire possunt; non est gratia ampla, non
+digna, non sufficiens (quia gratia actu salvans est longè dignior) At talis est
+eorum gratia, ut ipsi fatentur. Ergo &c.
+
+2. Quia non est salvifica gratia, quæ duritiem cordis expellere nè quidem valet,
+etiam si validissimè operetur, si fortè obnitatur in contrarium voluntas
+hominis.
+
+3. Non est ea ampla & sufficiens gratia, quæ dominatum in actus liberos non
+obtinet, sed conversionem vel non-conversionem, æternam salvationem vel
+damnationem in æquilibrio relinquit, & indifferenti arbitrio versatilis &
+inconstantis Libertatis humanæ committit. Sed talis est eorum gratia.
+
+4. Quia ea gratia, quæ nos æquè amissibiles & damnabiles relinquit, atque fuit
+Adamus ante lapsum, & Diaboli nondum lapsi; non est gratia ampla, sufficiens, &
+digna, qualis nobis parta est per merita & mortem Filii Dei.
+
+[1668 KBNL/UvA witness | logical printed p. 353 | PDF p. 404]
+
+5. Quia non plures salvantur per eorum gratiam, quàm per eam, quam secundùm
+Scripturas propugnant Ecclesiæ Reformatæ, licèt de sufficientiâ & amplitudine
+Dei gratiæ & meritorum Christi, verba sesquipedalia venditent.
+
+6. Quia disputandum proponunt, An non nobilissima actio gratiæ, sit suasio
+moralis? quod est disputare, annon mera litera Legis & Evangelii sit sola &
+unica illa gratia Christi salvifica? quod planè Pelagianum est, ut ait
+Augustinus de gratiâ Christi cap. 24. Legant & intelligant, intueantur atque
+fateantur Pelagiani, non lege, atque doctrinâ forinsecùs insonante, sed internâ
+atque occultâ, mirabili ac ineffabili potestate, operari Deum in cordibus
+hominum, non solùm novas revelationes, sed etiam bonas voluntates.
+
+7. Quia gratia, de quâ scriptura tanquàm salvificâ, verba habet, est non tantùm
+sufficiens, sed & actu secundo efficax est, & effectum producit. 2 Cor. 12.9. 2
+Cor. 10:5. 1 Cor. 10:13. Eph. 1:17, 18, 19, 20. Efficit in nobis velle &
+perficere Phil. 2:13. Amovet cor saxeum; indit novum & carneum Ezech. 36:26.
+Efficit, ut omnes qui audiverunt & didicerunt à Patre, veniant ad Christum
+Joan. 6:45. At eorum gratia arbitrio creaturæ, cardine versatiliori, relinquit &
+committit, ut possimus superare tentationem vel non, velle & perficere vel non,
+cor novum recipere vel non, ad Christum venire vel non venire.
+
+[1668 KBNL/UvA witness | logical printed p. 354 | PDF p. 405]
+
+8. Quia, non obstante gratiâ Arminianâ, homines se finaliter rebelles præstare
+possunt Dei validissimæ gratiæ, consilium Dei gratiosum irritum facere, æternam
+electionem revocare & commutare in atrum Reprobationis Decretum, intentionem
+gratiosam Dei fallere, Intercessionem & Advocationem Christi vanam reddere &
+inefficacem, φιλανθρωπίαν Dei in Christo penè nullam (quoad efficaciam) reddere,
+mortem denique Christi otiosam & inutilem facere.
+
+9. Quia eorum gratia omnes gratiosas Dei promissiones, vel à Patre Filio suo
+dilecto factas, vel à Deo nobis propositas, ratas vel irritas, efficaces vel
+inefficaces, pro nostro Arbitrio, relinquit; à quo, juxta ipsos, pendet ut
+impleantur, vel non impleantur.
+
+10. Nostris operibus, quæ liberum Arbitrium præstare vel non præstare potest,
+imprimis verò actu fidei, tanquàm formali causâ justificationis nostræ, nos
+justificari contendunt; atque hæc est eorum gratia.
+
+11. Fiduciam, gloriationem in Deo, timorem, spem, gratitudinem, orandi
+necessitatem, humilem erga Deum submissionem, eorum gratia funditus evertit;
+quia Liberum Arbitrium statuitur causa discriminatrix & separatrix conversi à
+non-converso, perseverantis ab Apostatâ, salvati à damnato.
+
+[1668 KBNL/UvA witness | logical printed p. 355 | PDF p. 406]
+
+12. Quia si ità visum fuisset Libero Arbitrio Adami, lateré in æternum potuit,
+tùm homines tùm Angelos, φιλανθρωπία Dei in Christo, gratia salvifica, ejusque
+mors & merita.
+
+Quæritur, An Arminiani jure contendant pro dignitate & gloria Misericordiæ,
+φιλανθρωπίας, & meritorum Christi? Illi ajunt: Nos negamus.
+
+1. Quia tota gloria actualis misericordiæ, φιλανθρωπίας, & efficaciæ meritorum
+Christi, est penès Liberum Arbitrium, si illis credendum est.
+
+2. Quia docent Deum majore charitate complecti omnes reprobos, & in æternum
+damnatos, quàm habet ullus mortalium. Joan. 15.13.
+
+3. Quia damnari possunt in æternum omnes, pro quibus obiit Christus, & quos ex
+suâ misericordiâ & φιλανθρωπία salvatos voluit & decrevit.
+
+4. Quia Deo simpliciter nolente & invito, peccant, & in æternum pereunt,
+quotquot peccant & pereunt; etiam ii, quos Deus salvificâ gratiâ in Christo
+complexus est.
+
+5. Quia docent, Indorum, Americanorum, & multarum aliarum gentium, amentium,
+surdorum, furiosorum, infantium, nullam esse in Christo Mediatore gratuitam
+Electionem, nullam intentionem applicandi merita Christi.
+
+6. Myriades infantium fato intercepti ante adultam ætatem, salvantur absque
+meritis
+
+[1668 KBNL/UvA witness | logical printed p. 356 | PDF p. 407]
+
+Christi, quippè, cum peccatum originale non sit illis peccatum, necesse est
+moriantur expertes peccati, & in album glorificatorum coadoptentur, citra omnem
+necessitatem canendi in cælis canticum illud æternæ Redemptionis in gloriam
+Salvatoris.
+
+7. Quia Deus mundum actu non reconciliavit, sed tantùm reconciliabilem fecit; &
+Christus placabilitatem quandam duntaxat nobis, morte suâ, acquisivit; quâ
+potest, non obstante Justitiâ, quamlibet conditionem adipiscendæ vitæ æternæ
+hominibus præscribere, vel bona opera, vel fidem, vel abstinentiam ab esu pomi.
+
+8. Quia non minùs Judas quàm Petrus, Pharaoh quàm Moses, reprobi quàm electi,
+in intentione Dei Patris & Christi morientis, sunt ad vitam æternam dilecti.
+
+9. Quia Christus est Salvator omnium hominum merito, potentiâ, exemplo,
+doctrinâ, siquidem salvari velint, (ut cum Socinianis loquuntur) non efficaciâ,
+& certâ & indeclinabili applicatione mortis suæ ad eos, quos præ aliis gratiosè
+dilexit.
+
+10. Quia obtinente finem suum morte Christi, omnes in æternum perire possunt; &
+fieri potest, ut Christus animam suam effuderit pro uxore suâ, pro subditis &
+membris; & tamen viduus sit absque uxore, Rex absque subditis, caput sine
+membris, victor & triumphator de morte,
+
+[1668 KBNL/UvA witness | logical printed p. 357 | PDF p. 408]
+
+peccato, inferno & diabolis, absque redemptis captivis, in æternum esse possit.
+
+11. Quia φιλανθρωπία & misericordia Dei, non potentis salvare homines, sine
+eversione libertatis & liberæ obedientiæ, est cothurnus & nudus titulus.
+
+12. Quia non est excellens illa φιλανθρωπία & misericordia, quæ non liberat
+efficaciter ex extremo malo, quod pœnis infernalibus longè gravius est i.e. à
+duritie cordis, pœnitere nescii.
+
+13. Quia negant Patres sub V. T. expressè credidisse in Christum moriturum;
+ideòque non est tam ampla mors Christi, quàm illi prædicant.
+
+14. Quia volunt infirmitates veniales citra ullam applicationem meritorum
+Christi, etiam in Turcis & Americanis expiari morte Christi; nec opus ut
+tangantur conscientiâ infirmitatum; nec esse, quod de iis doleant &
+resipiscant: finalem verò impœnitentiam etiam morte Christi nunquàm fuisse
+expiatam, cum illius pœnam in æternum luant reprobi, nobiscum agnoscunt.
+
+15. Quia volunt Christum omnium Ethnicorum, qui de ejus morte nihil
+inaudiverunt, homicidia, parricidia & adulteria, & peccata omnia morte suâ
+expiasse; iis tamen eorundem peccatorum pœnas in æternum luendas esse.
+
+Quæritur, An Arminianismus eorumque doctrina circa Dei gratiam, sit Pelagianismus
+&
+
+[1668 KBNL/UvA witness | logical printed p. 358 | PDF p. 409]
+
+Semipelagianismus? Remonstrantes negant. Nos asserimus.
+
+1. Pelagius gratiam cum naturâ confundere solet; ut docet Bonavent. distinct.
+2. fig. 38. Et gratiam æquè latè patere ac naturam, docuit Faustus (nam
+Semipelagianos cum Pelagianis admisceo hic) Totum gratia est, sed omnibus eam
+(Deus) offert atque ingerit ad salutem; ut ait Augustin. de gratiâ & libero
+Arbitrio cap. 4. Sic Corvin. contra Molin. cap. 43. §. 8. qui dicit gratiam &
+naturam æquè latè patere.
+
+2. Pelagiani ipsam naturam titulo gratiæ ornabant Augustin. sermone 11. de
+verbis Apostoli; Videte, fratres mei, quomodò illam generalem gratiam prædicent,
+quâ creatus est homo, quâ homines sumus. Sic Arminiani in Script. Synod. art. 1.
+p. 63. & in Apol. cap. 11. & Corvin. contra Tilenum, cap. 6. pag. 234:235.
+docent, legem naturæ, bonam educationem, probam indolem, & reliquias imaginis
+Dei in hominibus, esse gratiam.
+
+3. Pelagius gratiam in Lege atque doctrinâ posuit, revelando & ostendendo quid
+fieri debeat; ut ait Aug. de gratia Christi cap. 24. & contra Pelagium &
+Cælestinum lib. 1. cap. 3. Et eandem cantilenam canunt Arminiani in Script.
+Synod. art. 4. p. 173. Deum homines convertere actione non irresistibili, sed
+leni suasione, ut ait Armin. Antiperk. p. 253. Et in Apol. cap. 17. fol. 166.
+docent, auferri cor lapideum, indi
+
+[1668 KBNL/UvA witness | logical printed p. 359 | PDF p. 410]
+
+novum, institutione externâ, quomodò præceptor docet discipulum, qui, ut ait
+Corvinus cum Socino, discipulo dicit, ego alium virum ex te faciam. Certum verò
+est, præceptorem nec infundere Spiritum Sanctum, nec novas addere vires
+voluntati discipuli.
+
+4. Pelagius docuit omnes homines posse credere, si reveletur veritas. Ità
+Prosper: Cognitâ doctrinâ Evangelii (inquiunt Pelagiani) homo liberi Arbitrii
+cursum potest perficere. Sic Rem. Apol. cap. 34:35.
+
+5. Pelagius, fateor, illuminationi mentis addidit stupentis voluntatis
+suscitationem. Ut Augustin. de gratiâ, contra Pelagium. cap. 10. sed ea
+suscitatio erat tantùm suasoriè facta, quod & docent Arminiani.
+
+6. Docet Augustinus lib. de gratia Christi. cap. 5. Pelagianos docuisse Deum
+tantùm posse adjuvare, ut velle & agere valeamus: & ejusdem libri cap. 47. Solam
+possibilitatem, non voluntatem & actionem divinitùs adjuvari. Et hoc docent
+Arminiani. 1. Quia docent, cum actione gratiæ validissimæ, semper possibilis est
+resistentia; ideòque Deus dat (secundùm illos) ut possimus credere, diligere
+&c. non ut credamus & diligamus. 2. Docent Deum dare cor novum tantùm suasione
+leni, cui homo semper resistere potest; h. e. relinquere potestati nostræ, ut
+habeamus cor novum.
+
+[1668 KBNL/UvA witness | logical printed p. 360 | PDF p. 411]
+
+7. Augustinus contra Pelagium & Cælestinum, cap. 18. Habemus (inquit Pelagius)
+possibilitatem utriusque partis à Deo insitam. Et Prosper, epist. ad Ruffinum,
+Per gratiam (Orthodoxorum) nihil relinqui Libero Arbitrio, sed illud prorsùs
+deleri. Communis est doctrina Arminianorum, voluntati in omni statu, etiam
+corruptionis, essentialem esse indifferentiam, & potentiam ad obediendum vel
+non obediendum; & nisi hæc ponatur, gratia erit tantùm vis divina omnipotentiæ,
+fataliter necessitans voluntatem ejusque libertatem planè destruens.
+
+8. Pelagius per opera naturæ, hominem gratiam promereri, docuit. Prosper, contra
+Collatorem cap. 9. Principia bonarum voluntatum per naturam, à nobis prodire.
+Sic Faustus (ut ait Augustin. lib. 2. cap. 8.) vis sanus fieri; vides, quia non
+tribuitur munus salutis, nisi prius interrogetur desiderium voluntatis. Et in
+Centurione, quia præcessit voluntas Gratiam, ideò prævenit & Gratia
+Regenerationem. Sic Remonstrantes Script. Synod. art. 2. & 3. pag. 327.328. Et
+Corvinus contra Molin. cap. 39. docent, ex bono usu donorum communium, etiam
+Legis Naturæ, homines promereri gratiam conversionis.
+
+9. Dixerunt Pelagiani (ut docet Augustinus ubique de Gratiâ Christi, & Lib. de
+perfectione Justitiæ; & Hieronymus, Epistolâ ad Ctesiphontem) mandata Dei
+facilia, & observatu possibilia esse. Ità Arminius Resp. ad art. 30.31. pag.
+164.165. Non repugno isti sententiæ Augustinianæ, quæ statuit
+
+[1668 KBNL/UvA witness | logical printed p. 361 | PDF p. 412]
+
+hominem sine peccato esse posse in hac vitâ. Item in Articulis perpendendis;
+Qui dicit regenitos, per Christi gratiam, Legem perfectè præstare in hâc vitâ
+posse, ille non est Pelagianus, neque Dei gratiæ facit injuriam, neque
+Justificationem ex operibus stabilit. Eandem doctrinam in Scriptis
+Apologeticis, & ubique stabiliunt.
+
+10. Pelagius docuit, Gratiam esse necessariam ad facilius operari, non ad
+operari simpliciter. Arminiani docent, positâ permissione h. e. oblatâ gratiâ
+Arminianâ hominem posse credere, vel ab actu infidelitatis abstinere posse;
+ideòque abstinentia ab actu infidelitatis in Petro, non necessariò requirit
+majorem gratiam, quàm in Judâ proditore, qui non credit.
+
+11. Docuerunt Pelagiani & Semipelagiani, ideò unumquemque converti & adjuvari,
+quia ipse vult converti; non quia gratia divina vi efficit conversionem;
+ideòque divinam gratiam nostræ voluntati subjiciebant. Sic Cyrillus Alexandrinus
+in Actis Synodi Ephesinæ. cap. 5. Celestini (inquit) jactitant quod Deus det
+salutem οὐχ ἑκάστῳ καθῶς βέλεται, non unicuique sicut ipse Deus vult; ἀλλὰ ὅτι ἡ
+κατατεταγμένη τῷ ἀνθρώπῳ φύσις, sed ità, ut constituta est hominis natura. Αὐτὴ
+κατὰ τὴν τῆς προαιρέσεως ἀξίαν, τὸ πνεῦμα τὸ ἅγιον καὶ προσκαλεῖται καὶ
+ἀποθεῖται. Hac ipsa (natura) pro merito voluntatis, Spiritum Sanctum & advocat
+& repellit. Ità Arminiani docent,
+
+[1668 KBNL/UvA witness | logical printed p. 362 | PDF p. 413]
+
+positis omnibus ad conversionem requisitis, hominem posse gratiam recipere vel
+repellere, posse se convertere vel non convertere. Prosper Epist. ad Augustin.
+Ita divina humanam voluntatem præferebant (Pelagiani) ut ideò quis adjuvetur,
+quia voluit; non ideò, quia adjuvatur, velit. Sic Remonstrantes ajunt, quia nos
+volumus converti, ideò Deus nos vult convertere; non contrà. Cassiani solenne
+fuit, Misericordia Dei præsto est, occasione sibi tantummodò à nobis bonæ
+voluntatis oblatâ. Cassianus Collat. 13. cap. 7. Dei benignitas, cùm bonæ
+voluntatis in nobis quantulamcunque scintillam emicuisse perspexerit, vel quam
+ipse (homo, nempe) tanquàm de durâ silice nostri cordis excusserit, confovet eam
+& exsuscitat. Petrus Diaconus de Incarnatione & gratiâ, cap. ult. Faustus
+Apostolo contraveniens. humano labori subjungit gratiæ desiderium. Sic
+Arminiani, dicunt, voluntatem nostram incipere ordine causalitatis, prius quàm
+influat gratia. Grevinchovius pag. 209. Corvinus contra Molin. Undè hæc eorum
+effata. Ex duobus æquali gratiâ habituali præventis, alter credit per gratiam
+quia vult; alter non credit, quia non vult. Item, Ideò quis non convertitur,
+quia non vult converti, cùm præsto sit gratia sufficiens, siquidem converti
+vellet.
+
+Quæritur, An detur gratia sufficiens, per quam omnes salvari possent siquidem
+vellent? Primò, non est quæstio de absolutâ necessitate gratiæ. Nam, si
+Justitiam Dei spectemus, potuit Deus ne uni
+
+[1668 KBNL/UvA witness | logical printed p. 363 | PDF p. 414]
+
+quidem gratiam per Christum facere. Armin. Antiperk, pag. 734. 2. Quæstio non
+est tantùm de gratiâ collatâ iis, qui sunt in visibili Ecclesiâ; sed de collata
+omnibus hominibus, qui sunt intra & extra Ecclesiam. 3. De iis quæritur, non
+tantùm, qui Deo vocanti nunquàm obediunt; sed etiam de obduratis & judiciali
+impotentiâ non-obediendi severè punitis; An illi habeant sufficiens auxilium
+gratiæ, quo possint resurgere & converti? 4. Non est quæstio de gratiâ
+immediatâ ad conversionem sufficiente. Negat Corvinus contra Tilenum cap. 11.
+pag. 425. omnibus talem dari. 5. Nec gratiam hic sumi pro luce Evangelii.
+Corvinus ibid. cap. 3. pag. 119. 6. Nec an benè utenti lumine naturæ detur
+gratia?
+
+Sed Quæritur, An Deus, nunc, post initum novum fœdus cum homine, det omnibus &
+singulis, sive intra sive extra visibilem Ecclesiam, gratiam sufficientem in suo
+genere, quâ gradibus promoveri posset ad conversionem, ita ut etiam
+judicialiter obdurati resurgere possent; idque ordinariè, propter Christum
+Mediatorem; idque motus ex pacto, vel Justitiâ fæderali, per quam omnium &
+singulorum salutem intendit? An verò Deus neget talem gratiam ex suo
+beneplacito? Affirmant Jesuitæ & Arminiani cum suis Socinianis.
+
+Nos verò docemus, Deum dare gratiam duntaxat specialem in Christo Mediatore,
+quibusdam tantùm, ab æterno, gratiosè electis ad gloriam,
+
+[1668 KBNL/UvA witness | logical printed p. 364 | PDF p. 415]
+
+ex merâ gratiâ & absoluto suo beneplacito; relictis aliis omnibus cum quibusdam
+mediis externis, & auxiliis communioribus, quibus ii abutentes, redduntur
+ἀναπολόγητοι.
+
+1. Quia Isa. 9.2. Populus, qui ambulat in tenebris, vidit lucem: super
+considentes in terrâ umbræ lethalis, lux splenduit, exponitur Math. 4.15.16. de
+gentibus ante Christi adventum, gratiâ Dei & luce Evangelii destitutis. Sic
+Isa. 44.6. Dabo te in lucem gentibus, exponitur Act. 13.47. de prædicatione
+Evangelii, non tali qualis fiebat contumacibus Judæis, eodem capite; sed de
+prædicatione, quam comitatur gratia internæ revelationis. Ergò, non habuerunt
+mensuram supernam & gratiam sufficientem; nam sedere in umbrâ mortis, & habere
+sufficientem gratiam, opponuntur, ut lux & tenebræ.
+
+2. Quibus Deus negat Evangelium, ii non habent gratiam credendi Evangelio. At
+Deus plerisque gentibus negat Evangelium. Major est Rom. 10.14. Quomodò igitur
+invocabunt eum, in quem non crediderunt? quomodò autem credent ei, de quo non
+audiverunt? quomodò autem prædicabunt, nisi missi fuissent? Minor probatur ex
+Psal. 147.19.20. Ostendit verbum suum Jacobo, & statuta & judicia Israëli: Non
+taliter fecit omni genti. Math. 10.5. In viam Gentium nè abieritis, & in urbem
+Samaritanorum nè ingrediamini. Act. 16.6, 7. Prohibiti sunt à Spiritu Sancto
+loqui verbum Dei in
+
+[1668 KBNL/UvA witness | logical printed p. 365 | PDF p. 416]
+
+Asia: Quùm venissent Mysiam, tentabant versus Bithyniam; sed non sivit eos
+(ire) Spiritus.
+
+3. Qui sunt ipsæ tenebræ; quorum sapientia inimicitia est adversus Deum, & non
+potest subjici Legi Dei; qui non possunt recipere & intelligere, quæ sunt
+Spiritûs Dei; qui sunt mortui in peccatis; qui sunt extra Christum, sine quo
+nihil possunt agere; qui nè bonum quidem cogitare possunt ex se: Ii non habent
+gratiam sufficientem, per quam possunt suis gradibus ad conversionem salutarem
+promoveri. Atqui tales sunt omnes mortales suâ naturâ.
+
+Obj. Hoc argumento concluditur homines per naturam quidem non posse credere in
+Christum: At malè indè infertur, homines per gratiam universalem, quam Deus
+nulli mortalium negavit, non posse credere in Christum.
+
+Resp. Si ferenda sit hæc distinctio, simpliciter negandum est, esse aliquem in
+rerum naturâ, qui non possit credere in Christum. Si enim omnes mortales
+possunt per gratiam sufficientem, quæ omnibus ab utero datur (ut illi volunt)
+nemo est simpliciter impotens ad credendum: qui enim potens est per gratiam
+æquè latè patentem atq; ipsam naturam, is simpliciter est potens. Et stante hâc
+distinctione, Adamus ante lapsum non potuit recipere & intelligere ea, quæ sunt
+Spiritûs Dei, non potuit credere Evangelio, secundùm eorum doctrinam; attamen
+potuit per gratiam
+
+[1668 KBNL/UvA witness | logical printed p. 366 | PDF p. 417]
+
+supernaturalem. Homo itàque sic est mortuus in peccatis, quoad supernaturalia
+opera præstanda post lapsum, sicut Adamus mortuus fuit in peccatis ante lapsum;
+quod est absurdum.
+
+4. Si Deus gentibus exteris, audituris & obedituris, Prophetas non mittit.
+Ezech. 3.6. Si Tyriis pœnitentiam acturis negat miracula; & mittit Prophetas &
+miracula indulget multis, qui nunquàm parent; tùm Deus non omnibus intendit
+salutem, nec dat gratiam credendi. Sed prius est verum. Ergo.
+
+5. Si Deus quibusdam dat verbum, signa, tentationes, & media externa, & tamen
+non dat cor ad cognoscendum, & oculos ad videndum, & aures ad audiendum; tùm
+multis negat gratiam sufficientem. Sed prius est verum. Deut. 29.3, 4. Ergo.
+
+6. Si adesset omnibus hominibus talis gratia, Deusque omnium obedientiam &
+salutem intenderet; tùm non negaret eam motionem, quam efficacem & idoneam, ad
+suam voluntatem implendam, præsciret, & eam daret, quam omnino irritam &
+inefficacem fore sciret. Sed plerisque hominibus posterius fieri, testis est
+Scriptura, testis experientia. Major certa est; quia quos Deus misericordiâ &
+gratiosâ intentione salvandi prosequitur, eos convertit, ut est Eph. 2.4. Deus,
+dives misericordiâ, immenso amore in Christo nos complectitur. Ergo (v. 5.)
+vivificat nos cum Christo. Item 2 Tim. 1.9. Deus nobis ordinavit
+
+[1668 KBNL/UvA witness | logical printed p. 367 | PDF p. 418]
+
+gratiam in Christo Jesu ante mundum conditum; Ergo, nos salvat, h. e. efficaciter
+vocat. Sic Tit. 3.4, 5. Deus benignitate & amore multo nos prosequitur, Ergo,
+nos salvat lavacro regenerationis, & renovatione Spiritus Sancti. Item Rom.
+8.32. Deus dedit Filium suum pro nobis, Ergo, cum eo dabit nobis omnia;
+adeòque vocationem efficacem.
+
+7. Quia obdurati non possunt credere Joan. 12.39. Et impossibile est peccantes
+in Spiritum Sanctum denuò renovari. Heb. 6.4, 5. non magis quàm pro iis novam
+hostiam offerri, aut Christum denuò pro iis crucifigi posse. Heb. 10.26. Ergo,
+non habent gratiam sufficientem.
+
+8. Si pro peccante ad mortem, Apostolus orare vetat. 1 Joan. 5.16. tùm talis non
+habet gratiam sufficientem.
+
+9. Si Christus ait Matth. 13.11. Dari discipulis, ut intelligant mysteria regni
+cælorum, populo verò non dari; tùm populo defuit gratia sufficiens intelligendi
+mysteria illa.
+
+10. Si Deus revelat infantibus & abscondit à sapientibus mysteria Evangelii; &
+si nemo novit Filium, nisi Pater, neque Patrem quisquam novit nisi Filius, &
+cuicunque voluerit Filius retegere; tùm non datur gratia illa revelationis
+omnibus. At prius verum. Math. 11.25, 27. Ergo.
+
+11. Si Deus gentes viis suis incedere permisit & temporibus ignorantiæ
+connivendo, nunc, (exortâ luce Evangelii) mandat ubique, ut
+
+[1668 KBNL/UvA witness | logical printed p. 368 | PDF p. 419]
+
+homines resipiscant Act. 17.30. tùm defuit iis olim gratia sufficiens credendi.
+
+12. Si nemo potest venire ad Christum, nisi à Patre trahatur; Joan. 6.44. &
+certum est non omnes trahi: Ergo, omnes non possunt venire.
+
+Quæritur, An admittenda sit ea distinctio gratiæ in sufficientem & efficacem?
+Ajunt Arminiani.
+
+Nos dicimus media externa esse sufficientia, 1. ad ἀναπολογίαν. 2. ad externam
+disciplinam. 3. ad Dei Justitiam absolvendam; Sed nullam gratiam esse
+sufficientem ad conversionem, quæ non simul sit efficax.
+
+1. Quia omnis causa sufficiens producit effectum. At gratia sufficiens
+Arminianorum non producit effectum, nempe, conversionem.
+
+2. Omnis causa sufficiens est potens ad producendum effectum. At eorum gratia
+non est potens ad producendum effectum; quia non potest vitiosam potentiam
+resistendi Deo vocanti debellare, & voluntatem indeclinabiliter ad obedientiam
+permovere; sic enim everteret libertatem, uti docent; Ergo, non est sufficiens.
+
+3. Non ferenda est talis gratia, quæ supponit, Diabolum esse fortiorem Deo. Sed
+si ponatur talis gratia universalis, quæ efficax esse non potest, nisi voluntati
+insit potentia resistendi, ut ajunt; tùm fortior erit improbus ille, qui est in
+mundo, quàm Deus, qui habitat in filiis Dei.
+
+[1668 KBNL/UvA witness | logical printed p. 369 | PDF p. 420]
+
+Sed Apostolus 1 Joan. 2:14. 1 Joan. 4:4. docet contrarium esse verum. Quia ex
+efficace victoriâ sanctorum de peccato, innuit fortiorem esse Deum, quàm
+Diabolum.
+
+4. Si sit aliqua gratia in verè renatis sufficiens, quæ fieri potest semper
+inefficax, ut illi docent; tùm Deus fidelis sineret suos tentari supra id quod
+possunt: contra id 1 Cor. 10:13.
+
+Quæritur, An Remonstrantes Apol. cap. 17. fol. 159. rectè doceant, Deum Verbo
+semper adjungere gratiæ virtutem & operationem, aut ad adjungendum saltem semper
+paratum esse? Nos negamus.
+
+1. Quia si Deus tantùm paratus est gratiam dare, & non in omni differentiâ
+temporis dat; Ergo is, qui audit Evangelium, non est instructus gratiâ
+sufficienti in omni differentiâ temporis. Si dicant, Deum paratum esse, ad
+dandum gratiam & actu daturum esse, si homo Deo daturo non deerit non
+cooperando cum Deo; tùm ante collationem gratiæ, homo eam sufficientem gratiam
+nondum habet, & sic non peccat proptereà quod desit Deo daturo gratiam: quia
+nemo peccat, ut illi docent, qui peccat ex defectu gratiæ & potentiæ ad
+obediendum.
+
+2. Quia Pelagianismus est, gratiam dari secundùm merita & conatus liberi
+Arbitrii.
+
+3. Quia de multis in visibili Ecclesiâ qui audiunt Evangelium dicitur, quod
+sint mortui in
+
+[1668 KBNL/UvA witness | logical printed p. 370 | PDF p. 421]
+
+peccatis, cæci, impotentes, &c. quæ omnia falsa essent, si verbum prædicatum
+semper comitetur gratia, & potentia obediendi.
+
+4. Quia verbum prædicatur judicialiter obduratis, & peccantibus in Spiritum
+Sanctum, necnon plerisque qui ex incorrigibili malitiâ Verbum Evangelii
+susquedeque habent & contemnunt. At talibus audientibus Verbum, negari gratiam
+obediendi, idque in justam pœnam spreti Evangelii, docet Arminius Antiperk. &
+Corvinus contra Molin.
+
+Quæritur, An potentia credendi omnibus mortalibus sit collata? Ajunt Arminiani
+Synodistæ, art. 4. pag. 61. Nos negamus.
+
+1. Quia homines mortui sunt in peccatis, & impotentes venire ad Christum, nisi
+à Patre trahantur Joan. 6:44.
+
+2. Quia vel potentia credendi confertur per Verbum, vel infunditur citra Verbi
+ministerium, vel inest nobis à naturâ. Non primum: quia cum Verbum operetur
+resistibiliter (ut illi docent) & plerique Verbo actu prædicato resistunt, non
+potest potentia credendi omnibus conferri per verbum prædicatum. Non secundùm:
+quia hoc est ἐνθεσιαστικὸν & ἄγραφον. Non tertium: quia sic carnalis nostra
+sapientia non magis repugnaret Evangelio, quàm conclusionibus Metaphysicis
+Aristotelis; cum pariter insit nobis per naturam (secundùm illos) potentia
+
+[1668 KBNL/UvA witness | logical printed p. 371 | PDF p. 422]
+
+credendi Evangelio, & potentia credendi Aristoteli Philosophanti.
+
+Quæritur, An gratia Dei voluntatem efficaciter determinet? Negant Arminiani &
+Jesuitæ. Nos affirmamus.
+
+1. Quia talem determinationem à Deo petimus in orationibus. Psal. 119:36.
+Flecte animum meum ad Statuta tua. Psal. 86:11. Aduna animum meum ad timendum
+nomen tuum. Psal. 5:8. Deduc me, Jehova. Psal. 119:27. Fac ut intelligam viam
+præceptorum tuorum.
+
+2. Quia promittitur à Deo, gratia prædeterminans voluntatem. Isa. 44:3.
+Effundam aquam super sitientem, & fluenta super aridam: effundam Spiritum meum
+super semen tuum, &c. Ezech. 36:26. Cor novum etiam, dabo vobis. Deut. 30:6.
+Circumcidet Jehova cor tuum, & cor seminis tui ad diligendum Dominum Deum tuum.
+Sic Jer. 24:7. & 31:33.
+
+3. Quia Deo gratias agimus eò quòd flectat & inclinet voluntatem nostram ad
+bonum. Matth. 11:25.
+
+4. Quia sola gratia separat credentem à non-credente 1 Cor. 4:7.
+
+5. Quia non constabit Deo gloria actuum supernaturalium, si voluntas creata ita
+se determinet ad eos actus, ut posset se non determinare ad eos.
+
+6. Quia nemo sperare & confidere posset,
+
+[1668 KBNL/UvA witness | logical printed p. 372 | PDF p. 423 | ends before CAPUT NONUM]
+
+Deum, pro suâ veracitate & fidelitate, flexurum sibi voluntatem
+indeclinabiliter ad finalem obedientiam.
+
+7. Quia Deo non constabit dominium in actus liberos, nec gloria Veracitatis in
+promissionibus suis de dando corde novo, & finali perseverantiâ. Jer. 32:34.
+Ezech. 36:26. 1 Cor. 1:8. Isa. 54:10. & 59.20, 21. Has enim non potest præstare
+reipsâ & actu secundo, nisi efficiendo, ut libera voluntas indeclinabiliter
+bonum amplectatur.

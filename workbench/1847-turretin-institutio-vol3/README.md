@@ -61,3 +61,407 @@ later on that same printed page and is excluded.
 - The witness’s forms `obtenait`, `plebiis`, and `Fontes Solutionem` on printed
   pp. 5–6 are retained rather than silently regularized; `[sic]` identifies
   the first because it materially disrupts the sentence.
+
+## Part 02
+
+Part 02 contains the complete Locus XVIII, Question II, “De Ecclesiæ Voce,
+Homonymia et Definitione.” It begins with the question heading on shared
+printed p. 7 / IA leaf 41 / PDF p. 41, immediately after Question I, and ends
+with section XIII on shared printed p. 11 / IA leaf 45 / PDF p. 45. Question
+III begins later on that page and is excluded.
+
+- Latin: `parts/part-02-locus-18-question-02-latin.txt`
+- English: `parts/part-02-locus-18-question-02-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XIII, and eight synchronized marginalia blocks.
+- The transcription retains all printed Greek and Hebrew. It marks the
+  witness’s disruptive forms `sed`, `lectorum`, `Die`, `augustior`, and `sue`
+  with `[sic]` rather than silently replacing them.
+
+## Part 03
+
+Part 03 contains the complete Locus XVIII, Question III, “De Ecclesiæ
+Membris.” It begins with the question heading on shared printed p. 11 / IA leaf
+45 / PDF p. 45, immediately after Question II, and ends with section XXX on
+shared printed p. 21 / IA leaf 55 / PDF p. 55. Question IV begins later on that
+page and is excluded.
+
+- Latin: `parts/part-03-locus-18-question-03-latin.txt`
+- English: `parts/part-03-locus-18-question-03-english.md`
+- Both files contain eleven synchronized source-page markers, the complete
+  section sequence I–XXX, and fifteen synchronized marginalia blocks.
+- The transcription preserves the witness’s Greek and its malformed printed
+  forms, including `Dioboli`, `constituram`, `inaculatus`, `sino ruga`, and
+  `ex Pater Diabolo`, without silently regularizing them.
+
+## Part 04
+
+Part 04 contains the complete Locus XVIII, Question IV, “An Catechumeni non
+baptizati, Excommunicati, et Schismatici pertineant ad Ecclesiam?” It begins
+with the question heading on shared printed p. 21 / IA leaf 55 / PDF p. 55,
+immediately after Question III, and ends with section XVIII on shared printed
+p. 24 / IA leaf 58 / PDF p. 58. Question V, “De Unitate Ecclesiæ,” begins below
+it on that page and is excluded.
+
+- Latin: `parts/part-04-locus-18-question-04-latin.txt`
+- English: `parts/part-04-locus-18-question-04-english.md`
+- Both files contain four synchronized source-page markers, the complete
+  section sequence I–XVIII, and four synchronized marginalia blocks.
+- All four page images and the three page joins were checked directly against
+  the scan. The word divided across printed pp. 21–22 is joined as
+  `communione`, with the p. 22 marker placed before the complete word and
+  before its English counterpart.
+- The transcription retains all three Greek expressions: `τους ἔξω`,
+  `ἀποσυνάγωγοι`, and `πολιτείας`. It also retains the witness’s forms
+  `Catechumini` and `pœnitendo`; `[sic]` identifies the seven more disruptive
+  forms `despositis`, `suscepperint`, `injustum`, `excommunicatis`, `possito`,
+  `scilicit`, and `disinit`. The English translates the evident sense without
+  silently altering the Latin witness.
+
+## Part 05
+
+Part 05 contains the complete Locus XVIII, Question V, “De Unitate Ecclesiæ.”
+It begins with the question heading on shared printed p. 24 / IA leaf 58 / PDF
+p. 58, immediately after Question IV, and ends with section XIV on shared
+printed p. 26 / IA leaf 60 / PDF p. 60. Question VI begins below it on that
+page and is excluded.
+
+- Latin: `parts/part-05-locus-18-question-05-latin.txt`
+- English: `parts/part-05-locus-18-question-05-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–XIV, and seven synchronized marginalia blocks.
+- All three page images and both page joins were checked directly against the
+  scan. The p. 24–25 join occurs within the scriptural quotation in section
+  IV; the p. 25–26 join occurs within the Irenæus citation in section VIII.
+- The transcription retains the printed Greek `ἀνακεφαλαιώσασθαι`,
+  `ὁμοιομερεῖς`, `ἐπὶ πάντων`, `διὰ πάντων`, and `ἐν πᾶσι`. `[sic]` identifies
+  the witness’s eight disruptive forms `charitatas`, `aliquum`, `er`,
+  `eximine`, `uno`, `traditiones`, `hæreditatis`, and `despescitur`; the
+  English translates the evident sense without silently altering the Latin
+  witness.
+
+The next restart point is the malformed printed heading
+`QUÆSTIO VI. Quo sensu Ecclesia Catholica aicatur [sic]?` on shared printed
+p. 26 / IA leaf 60 / PDF p. 60.
+
+## Part 06
+
+Part 06 contains the complete Locus XVIII, Question VI, “Quo sensu Ecclesia
+Catholica aicatur [sic]?” It begins with the question heading on shared printed
+p. 26 / IA leaf 60 / PDF p. 60, immediately after Question V, and ends with
+section IX on printed p. 28 / IA leaf 62 / PDF p. 62. Question VII, “De
+Ecclesiæ Invisibilitate,” begins on the next printed page and is excluded.
+
+- Latin: `parts/part-06-locus-18-question-06-latin.txt`
+- English: `parts/part-06-locus-18-question-06-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–IX, and three synchronized marginalia blocks.
+- All three page images and both page joins were checked directly against the
+  scan. The p. 26–27 join falls within section I after `universalitatem`; the
+  p. 27–28 join falls within section V before its supporting citations.
+- The transcription retains the printed Greek `ἰσοτίμου`. `[sic]` identifies
+  the witness’s fourteen disruptive forms `aicatur`, `consensiant`,
+  `quæ nasciturus`, `imitatione`, `qui regnat`, `quæ inter se`, `cummunio`,
+  `societatem universum`, `legitur`, `quælibet Ecclesiæ`, `vocobantur`,
+  `Episcopatum suam`, `Ecclesiæ Judicæ`, and `nullum certam`; the English
+  translates the evident sense without silently altering the Latin witness.
+- The section VI Augustine fragment has a closing quotation mark but no
+  corresponding opening quotation mark in the witness. The transcription
+  retains that punctuation; the English identifies and balances the citation.
+
+The next restart point is `QUÆSTIO VII. DE ECCLESIÆ INVISIBILITATE.` on
+printed p. 29 / IA leaf 63 / PDF p. 63.
+
+## Part 07
+
+Part 07 contains the complete Locus XVIII, Question VII, “De Ecclesiæ
+Invisibilitate.” It begins with the question heading on printed p. 29 / IA
+leaf 63 / PDF p. 63 and ends with section XXIII on shared printed p. 36 / IA
+leaf 70 / PDF p. 70. Question VIII, “De Ecclesiæ Perennitate,” begins below it
+on that page and is excluded.
+
+- Latin: `parts/part-07-locus-18-question-07-latin.txt`
+- English: `parts/part-07-locus-18-question-07-english.md`
+- Both files contain eight synchronized source-page markers, the complete
+  section sequence I–XXIII, and eight synchronized marginalia blocks.
+- All eight page images and all seven page joins were checked directly against
+  the scan. The p. 30–31 join divides `Chimæram`, and the p. 35–36 join divides
+  `societatis`; each word is joined, with the new-page marker placed before the
+  complete Latin word and its English counterpart.
+- The transcription retains all ten printed Greek expressions. `[sic]`
+  identifies the witness’s malformed `Origio` in both occurrences, `ap ipsis`,
+  `specie`, `circumisionem`, `asse`, and `inumeri`; the English translates the
+  evident sense without silently altering the Latin witness.
+- The section VIII Deuteronomy/Jeremiah citation is preceded and followed by
+  closing parentheses but has no opening parenthesis, and the Revelation
+  fragment in that section has no closing quotation mark. The Ordinary Gloss
+  fragment in section XII and the Matthew 5 fragment in section XV likewise
+  have opening but no closing quotation marks. The Latin retains this
+  punctuation; the English regularizes and balances the citations.
+
+The next restart point is `QUÆSTIO VIII. DE ECCLESIÆ PERENNITATE.` on shared
+printed p. 36 / IA leaf 70 / PDF p. 70.
+
+## Part 08
+
+Part 08 contains the complete Locus XVIII, Question VIII, “De Ecclesiæ
+Perennitate.” It begins with the question heading on shared printed p. 36 / IA
+leaf 70 / PDF p. 70, immediately after Question VII, and ends with section
+XXII on shared printed p. 41 / IA leaf 75 / PDF p. 75. Question IX, “De
+Ecclesiæ Splendore,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-08-locus-18-question-08-latin.txt`
+- English: `parts/part-08-locus-18-question-08-english.md`
+- Both files contain six synchronized source-page markers, the complete
+  section sequence I–XXII, and nine synchronized marginalia blocks.
+- All six page images and all five page joins were checked directly against
+  the scan. The pp. 37–38, 38–39, and 39–40 joins divide `asserit`, `futurus`,
+  and `familia`; each word is joined, with the new-page marker placed before
+  the complete Latin word and its English counterpart.
+- The transcription retains all five printed Greek expressions. `[sic]`
+  identifies the witness’s malformed `interitur` and `extituros`; the English
+  translates the evident sense without silently altering the Latin witness.
+- The Genesis 4 fragment in section XII has an opening quotation mark but no
+  closing quotation mark. The Latin retains that punctuation; the English
+  identifies and balances the citation.
+
+The next restart point is `QUÆSTIO IX. DE ECCLESIÆ SPLENDORE.` on shared
+printed p. 41 / IA leaf 75 / PDF p. 75.
+
+## Part 09
+
+Part 09 contains the complete Locus XVIII, Question IX, “De Ecclesiæ
+Splendore.” It begins with the question heading on shared printed p. 41 / IA
+leaf 75 / PDF p. 75, immediately after Question VIII, and ends with section
+XXVII on shared printed p. 50 / IA leaf 84 / PDF p. 84. Question X begins
+below it on that page and is excluded.
+
+- Latin: `parts/part-09-locus-18-question-09-latin.txt`
+- English: `parts/part-09-locus-18-question-09-english.md`
+- Both files contain ten synchronized source-page markers, all twenty-seven
+  printed sections, and eight synchronized marginalia blocks. The witness
+  misnumbers the fifth argument `XIV.` rather than `XVI.`; both files retain
+  and identify that duplicate number.
+- All ten page images and all nine page joins were checked directly against
+  the scan. No word is divided across a page boundary. The pp. 48–49 and
+  49–50 joins fall within sections XXIII and XXVI respectively.
+- The transcription retains the printed Greek `Φάσεις`. `[sic]` identifies
+  the witness’s malformed `at` in `prælati at subditi`, `eadam`, `Fœdus
+  perpetuam`, and `quam` in `Bellarminus, quam ait`, in addition to the
+  duplicated section number. The anomalous abbreviation or reading `Hiero?`
+  and the printed citation `Heb. ii. 37, 38` are retained; the latter’s quoted
+  matter corresponds to Hebrews 11:37–38. In section XXVI the printed dilemma
+  opens a second quotation at `nulla est vera Ecclesia` without first closing
+  the outer quotation; the Latin retains that punctuation, while the English
+  balances the quotation for readability. The English otherwise translates
+  the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO X. Ubinam Ecclesia nostra fuerit ante
+Lutherum et Zuinglium, et quibus mediis sit conservata?` on shared printed p.
+50 / IA leaf 84 / PDF p. 84.
+
+## Part 10
+
+Part 10 contains the complete Locus XVIII, Question X, “Ubinam Ecclesia
+nostra fuerit ante Lutherum et Zuinglium, et quibus mediis sit conservata?” It
+begins with the question heading on shared printed p. 50 / IA leaf 84 / PDF p.
+84, immediately after Question IX, and ends with section XXXVI on shared
+printed p. 60 / IA leaf 94 / PDF p. 94. Question XI, “De Ecclesiæ
+Infallibilitate,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-10-locus-18-question-10-latin.txt`
+- English: `parts/part-10-locus-18-question-10-english.md`
+- Both files contain eleven synchronized source-page markers, the complete
+  section sequence I–XXXVI, and twelve synchronized marginalia blocks.
+- All eleven page images and all ten page joins were checked directly against
+  the scan. The pp. 51–52, 57–58, and 58–59 joins divide `Judæi`,
+  `aliorumque`, and `repudiationem`; each word is joined, with the new-page
+  marker placed before the complete Latin word and its English counterpart.
+- The transcription retains all ten distinct printed Greek expressions, with
+  `ἀσύστατα` and `ἀκμήν` each recurring. `[sic]` identifies the witness’s
+  disruptive forms `privitas`, `Apostactici`, `obsurata`, and `comunionem`;
+  the English translates the evident sense without silently altering the
+  Latin witness. The marginal `Fontes Solutionem` is also retained exactly as
+  printed and translated by sense.
+
+The next restart point is `QUÆSTIO XI. DE ECCLESIÆ INFALLIBITATE.` on shared
+printed p. 60 / IA leaf 94 / PDF p. 94.
+
+## Part 11
+
+Part 11 contains the complete Locus XVIII, Question XI, “De Ecclesiæ
+Infallibilitate.” It begins with the question heading on shared printed p. 60 /
+IA leaf 94 / PDF p. 94, immediately after Question X, and ends with section
+XXXIX on shared printed p. 74 / IA leaf 108 / PDF p. 108. Question XII, “De
+Veris Ecclesiæ Notis,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-11-locus-18-question-11-latin.txt`
+- English: `parts/part-11-locus-18-question-11-english.md`
+- Both files contain fifteen synchronized source-page markers, the complete
+  section sequence I–XXXIX, and eleven synchronized marginalia blocks.
+- All fifteen page images and all fourteen page joins were checked directly
+  against the scan. The pp. 63–64, 64–65, 69–70, and 71–72 joins divide
+  `tamen`, `irritum`, `infallibilitatis`, and `quicquid`; each word is joined,
+  with the new-page marker placed before the complete Latin word and its
+  English counterpart.
+- The transcription retains all seventeen distinct printed Greek expressions.
+  `[sic]` identifies the witness’s disruptive forms `per totum orbe`,
+  `legitimum Petri Successorum`, `minos`, `erasse`, `seipos`, and `recississe`;
+  the English translates the evident sense without silently altering the
+  Latin witness. The printed `Johan. ii. 50` in section XIII is also retained
+  in both files rather than silently corrected; the cited saying corresponds
+  to John 11:50.
+- The Master of the Sentences citation in section XXXI prints `lib. 4. dist.`
+  without a distinction number. Both files preserve that incomplete locator.
+
+The next restart point is `QUÆSTIO XII. DE VERIS ECCLESIÆ NOTIS.` on shared
+printed p. 74 / IA leaf 108 / PDF p. 108.
+
+## Part 12
+
+Part 12 contains the complete Locus XVIII, Question XII, “De Veris Ecclesiæ
+Notis.” It begins with the question heading on shared printed p. 74 / IA leaf
+108 / PDF p. 108, immediately after Question XI, and ends with section XXIX
+on shared printed p. 83 / IA leaf 117 / PDF p. 117. Question XIII begins below
+it on that page and is excluded.
+
+- Latin: `parts/part-12-locus-18-question-12-latin.txt`
+- English: `parts/part-12-locus-18-question-12-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XXIX, and four synchronized marginalia blocks.
+- All ten page images and all nine page joins were checked directly against
+  the scan. No word is divided across a page boundary. The pp. 74–75, 76–77,
+  77–78, 78–79, and 81–82 joins fall within sections I, IX, XII, XV, and XXIII
+  respectively; the remaining joins occur at clause, sentence, or section
+  boundaries.
+- The transcription retains all eleven printed Greek expressions. `[sic]`
+  identifies the witness’s disruptive `nihil ut opus sit` in section XXIII;
+  the English translates the evident sense without silently altering the
+  Latin witness.
+
+The next restart point is `QUÆSTIO XIII. An Nomen Catholicum, Antiquitas,
+Duratio continua, Amplitudo, Successio Episcoporum, Conspiratio in doctrina
+cum Ecclesia antiqua, Unio membrorum inter se et cum Capite, Sanctitas
+doctrinæ, Ejusdem efficacia, Vitæ sanctimonia, Gloria miraculorum, Lumen
+Propheticum, Confessio Adversariorum, infelix exitus persecutorum Ecclesiæ,
+et eorum qui ipsam defenderunt temporaria felicitas sint notæ veræ Ecclesiæ?
+Neg. contra Pontificios.` on shared printed p. 83 / IA leaf 117 / PDF p. 117.
+
+## Part 13
+
+Part 13 contains the complete Locus XVIII, Question XIII, beginning “An Nomen
+Catholicum, Antiquitas, Duratio continua, Amplitudo ... sint notæ veræ
+Ecclesiæ?” It begins with the question heading on shared printed p. 83 / IA
+leaf 117 / PDF p. 117, immediately after Question XII, and ends with section
+LXI on shared printed p. 103 / IA leaf 137 / PDF p. 137. Question XIV begins
+below it on that page and is excluded.
+
+- Latin: `parts/part-13-locus-18-question-13-latin.txt`
+- English: `parts/part-13-locus-18-question-13-english.md`
+- Both files contain twenty-one synchronized source-page markers, all sixty
+  printed sections (I–XIV and XVI–LXI), and seventeen synchronized marginalia
+  blocks. The witness omits section number XV and jumps directly from XIV to
+  XVI; both files retain and identify that printed misnumbering.
+- All twenty-one page images and all twenty page joins were checked directly
+  against the scan. The joins divide `doctrinæ`, `Quotusquisque`, `traditur`,
+  `grassari`, `doctrinam`, `Apostolicam`, Greek `ἀλήθειαν`, Greek
+  `θεόπνευστοι`, `illuditur`, `Scultetum`, and
+  `transubstantiationem`; each word is joined, with the new-page marker placed
+  before the complete Latin word and its English counterpart.
+- The transcription retains all nineteen distinct printed Greek expressions
+  in twenty occurrences. `[sic]` identifies the witness’s disruptive `suit`,
+  `illum`, `apostolis` for the apparent subject of `tribuit`, the printed year
+  `1764`, the omitted section XV, and the duplicated subpoint 4 in section
+  LVI. The English translates the evident sense without silently changing the
+  Latin witness.
+
+The next restart point is `QUÆSTIO XIV. Num Ecclesia Romana hodierna vera dici
+possit Ecclesia Christi? Neg. c. Pontif.` on shared printed p. 103 / IA leaf
+137 / PDF p. 137.
+
+## Part 14
+
+Part 14 contains the complete Locus XVIII, Question XIV, “Num Ecclesia Romana
+hodierna vera dici possit Ecclesia Christi?” It begins with the question
+heading on shared printed p. 103 / IA leaf 137 / PDF p. 137, immediately after
+Question XIII, and ends with section XXXII on shared printed p. 117 / IA leaf
+151 / PDF p. 151. Question XV begins below it on that page and is excluded.
+
+- Latin: `parts/part-14-locus-18-question-14-latin.txt`
+- English: `parts/part-14-locus-18-question-14-english.md`
+- Both files contain fifteen synchronized source-page markers, the complete
+  section sequence I–XXXII, and eleven synchronized marginalia blocks,
+  including the marginal notation beside the four-line Mantuanus passage.
+- All fifteen page images and all fourteen page joins were checked directly
+  against the scan. The pp. 105–106, 108–109, 109–110, 110–111, and 111–112
+  joins divide `deprehendit`, `venerationem`, `nubere`, `prædam`, and
+  `dispensare`; each word is joined, with the new-page marker placed before the
+  complete Latin word and its English counterpart.
+- The transcription retains all printed Greek expressions. `[sic]` identifies
+  the witness’s disruptive `imcompossibilitatem`, the stray stop in `laicis.
+  Calice`, `censecratam`, `fratres at sorores`, `Ecclesiæ Pharisaica`, the
+  historical mismatch `Gregorio XVI. contra Henricum IV.`, `alienissma`,
+  `apostaticam factum iri`, `in Scripturo`, and `etiamum`; the English
+  translates the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XV. An Ecclesiæ Evangelicæ et Reformatæ
+sint vera Ecclesia Christi? Affirm.` on shared printed p. 117 / IA leaf 151 /
+PDF p. 151.
+
+## Part 15
+
+Part 15 contains the complete Locus XVIII, Question XV, “An Ecclesiæ
+Evangelicæ et Reformatæ sint vera Ecclesia Christi?” It begins with the
+question heading on shared printed p. 117 / IA leaf 151 / PDF p. 151,
+immediately after Question XIV, and ends with section XVI on shared printed p.
+125 / IA leaf 159 / PDF p. 159. Question XVI, “De Regimine Ecclesiæ,” begins
+below it on that page and is excluded.
+
+- Latin: `parts/part-15-locus-18-question-15-latin.txt`
+- English: `parts/part-15-locus-18-question-15-english.md`
+- Both files contain nine synchronized source-page markers, the complete
+  section sequence I–XVI, and ten synchronized marginalia blocks: the opening
+  proof heading and the nine numbered “Fontes Solutionum.”
+- All nine page images and all eight page joins were checked directly against
+  the scan. The pp. 123–124 join divides `cognitionem`; the word is joined,
+  with the p. 124 marker placed before the complete Latin word and its English
+  counterpart.
+- The transcription retains fourteen distinct printed Greek expressions in
+  fifteen occurrences. `[sic]` identifies the witness’s disruptive `nullum`
+  in `nullum necessitatem`, `privutas`, `cole`, `damandi`, `peregamur`,
+  `fprobatum`, `idololotras`, `concilianduam`, `STILLINGFFLEET`, and `antore`;
+  the English translates the evident sense without silently altering the Latin
+  witness.
+
+The next restart point is `QUÆSTIO XVI. DE REGIMINE ECCLESIÆ. An Regimen
+Ecclesiæ debeat esse Monarchicum? Neg. contra Pontificios.` on shared printed
+p. 125 / IA leaf 159 / PDF p. 159.
+
+## Part 16
+
+Part 16 contains the complete Locus XVIII, Question XVI, “De Regimine
+Ecclesiæ.” It begins with the question heading on shared printed p. 125 / IA
+leaf 159 / PDF p. 159, immediately after Question XV, and ends with section
+XXV on shared printed p. 132 / IA leaf 166 / PDF p. 166. Question XVII, “De
+Primatu Petri,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-16-locus-18-question-16-latin.txt`
+- English: `parts/part-16-locus-18-question-16-english.md`
+- Both files contain eight synchronized source-page markers, the complete
+  section sequence I–XXV, and ten synchronized marginalia blocks.
+- All eight page images and all seven page joins were checked directly against
+  the scan. The pp. 126–127, 127–128, 130–131, and 131–132 joins divide
+  `nimirum`, `mentionem`, `multitudine`, and `proreges`; each word is joined,
+  with the new-page marker placed before the complete Latin word and its
+  English counterpart.
+- The transcription retains all twenty-three printed Greek expressions,
+  including repeats and inflected forms. `[sic]` identifies the witness’s
+  disruptive `præcripsisse`, `dicipulis`, `oecumencio`, and malformed Greek
+  `θεπνεύστοις`, which lacks the expected omicron; the English translates the
+  evident sense without silently altering the Latin witness. The terminal comma
+  after
+  `Messiam Regem,` is also retained before the excluded Question XVII.
+
+The next restart point is `QUÆSTIO XVII. DE PRIMATU PETRI. An Petrus fuerit
+Pontifex Oecumenicus, et Caput Ecclesiæ, ac Vicarius Christi? Neg. cont.
+Pontif.` on shared printed p. 132 / IA leaf 166 / PDF p. 166.

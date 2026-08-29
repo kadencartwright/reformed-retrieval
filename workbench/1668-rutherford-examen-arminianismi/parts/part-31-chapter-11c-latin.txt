@@ -1,0 +1,265 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Undecimum, De Modo Conversionis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 468 at `Martinez, ibid.
+sect. n. 8:26.`, without repeating Part 30's closing response. It completes
+the exchanges with Martinez de Ripalda on the immediate causal activity of
+grace and free choice; treats the Remonstrant reduction of conversion to moral
+persuasion; answers the Bellarmine-Suárez distinction between external and
+internal persuasion; and completes the question whether everyone externally
+called is also internally called. It ends within printed p. 477 after the
+seventh argument, before the new question `Quæritur, An sufficiens gratia
+ordinariè detur omnibus Euangelii auditoribus?` Printer line-end and page-end
+divisions have been joined; at every split-word page boundary the new-page
+marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. It specifies no correction for pp. 468–477.]
+
+[Printed-form note: The visibly irregular forms and citations `Martinez,
+ibid. sect. n. 8:26`, `Thomas 1. p. 9:23`, `vitutem`, `destinctam`, `Plyica`,
+`neq;`, `pag. 751. 770. §.`, `pro verbum`, `excecavit`, `Joan. 15`, `Apoc. 2`,
+`Ier. 5.8`, `Isa. 28.9`, and `Math. 13.15` are retained rather than silently
+regularized. The biblical and patristic quotations, scholastic causal
+vocabulary, and full numbered structures are preserved. The isolated edge
+specks and strokes in
+the controlling images are non-textual scan or handling artifacts; no
+substantive marginal note or foreign-script passage occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 468 | PDF p. 519 | begins at Martinez, ibid. sect. n. 8:26]
+
+Martinez, ibid. sect. n. 8:26. Non semel incidunt Patres in virtutem immediatam
+& partialem naturæ ad actus supernaturales. --- Aliquid agit in adimpletione
+præceptorum, voluntas humana, sicut & gratia; & quidem immediatè, sicut & illa:
+alioqui totum ageret immediatè sola gratia. Augustin. de corr. & Gratia. cap. 2.
+Aguntur enim ut agant. Num. 38. Sicut ergo immediata & nativa oculorum
+activitas hominem reddit visivum luminis, etiam
+
+[1668 KBNL/UvA witness | logical printed p. 469 | PDF p. 520 | split word joined: absente]
+
+absente lumine; ità nativa voluntatis facultas, hominem reddit valentem servare
+rectitudinem, etiam absente gratiâ. Quamquàm hoc sit discrimen; quòd oculis
+debeatur lumen, quod compleat immediatam ipsorum activitatem; homini non
+debeatur gratia, quâ compleatur potestas servandi rectitudinem. --- Nec sola
+voluntas est causa adæquata salutis, nec sola gratia.
+
+Resp. 1. Gratia sola immediatè agit in genere causæ efficientis velle,
+determinantis, intùs-docentis & effectivè. Sola voluntas etiam in genere causæ
+vitalis formaliter & liberè volentis. Sic neutra sola totum agit.
+
+2. Si nativa facultas hominem reddit valentem servare rectitudinem, etiam
+absente gratiâ; tùm homo non tractus à Patre, i. e. absente gratiâ, valet venire
+ad Christum, i. e. credere. Quid aliud Pelagius? Nec lumen addit potentiam
+ullam realem oculis.
+
+Martinez sect. 9. n. 40. Si adjuvare notat actionem in Deo immediatam etiam
+notabit in homine. Causa purè remota non juvat. Respondet, aliquid, non totum.
+Thomas 1. p. 9:23. art. 8. ad arg. ult. & 2. Aliquis juvatur per alium
+dupliciter. 1. Inquantùm ab eo accipit vitutem, & sic adjuvari est infirmi: &
+sic quis juvat spiritum Domini? i. e. nemo. 2. Aliquis dicitur adjuvari per
+aliquem, per quem exequitur suam operationem; sicut Dominus per ministrum. Et
+hoc modo Deus adjuvatur per nos, inquantum
+
+[1668 KBNL/UvA witness | logical printed p. 470 | PDF p. 521 | split word joined: exequimur]
+
+exequimur Dei ordinationem. 1 Cor. 3:9. Dei enim adjutores sumus.
+
+Resp. Loquitur Thomas de Deo quatenùs utitur mediis; nempè, de adjutorio
+naturali, non de adjutorio gratiæ, de quo est præsens quæstio. Non enim nos
+Deum aut Dei gratiam adjuvamus in credendo, neque adjutorium gratiæ præstamus:
+Sic Deum diligimus in patriâ, Deo fruimur. At an in ejusmodi actionibus
+vitalibus diceremur Deum adjuvare? minimè verò.
+
+Martinez sect. 10. n. 44. Proprietas in opus bonum non competit homini ratione
+passionis, ut proprius hominis dicitur talis vel talis color; sed ratione
+actionis; quippè, titulo dominii libertatis. Joan. 15. Et fructus vester maneat.
+Apoc. 2. Novi opera tua. Augustinus ad Simplicianum lib. 1: q. 2. Ut vellemus,
+& suum esse voluit & nostrum; suum, vocando; nostrum, sequendo. Proprietas
+gratiæ, seu Dei auxiliatoris supernaturalis in actum salutarem, divisa cum
+homine, testatur actionem & virtutem immediatam auxiliorum Dei, destinctam à
+virtute Arbitrii. 2. Si Arbitrium non influit in actum per se immediatè, sed per
+gratiam solâ actione immediatâ gratiæ; certæ actionis titulo non potest
+Arbitrio alia proprietas aut suitas convenire in opus pietatis, quàm illa, quæ
+competit gratiæ: atque adeò ipsum Arbitrium, ut à gratiâ distinctum, nullo
+proprietatis jure potest actum supernaturalem,
+
+[1668 KBNL/UvA witness | logical printed p. 471 | PDF p. 522]
+
+cum divinâ gratiâ dividere: Sed sicut tota actio, totaque virtus, gratiæ solius
+est, & arbitrii per denominationem (tantùm) à gratiâ; ità tota proprietas &
+suitas solius gratiæ erit, & arbitrii tantùm per suitatem & proprietatem
+gratiæ.
+
+Resp. Ità satagunt Jesuitæ gloriam Conversionis dividere inter Deum & misellum
+hominem, ut invideant Deo & Dei gratiæ solam gloriam. Sed aliud est dimidietas
+actionis; aliud dimidietas gloriæ. Item aliud est actio credendi vitalis à
+Libero Arbitrio creato; & longè aliud, actio conversionis per vocationem gratiæ
+efficacem. Hoc enim argumentum non concludit, Arbitrio competere proprietatem
+actionis pulsandi per gratiam internam, & actionem aperiendi per eandem gratiam
+internam, convenire & Gratiæ, & divisam etiam creaturæ: quod, nisi probetur,
+non sequitur partem gloriæ conversionis Dei Gratiæ, partem creaturæ Arbitrio;
+sed gloriam Deo in solidùm, & totam ascribendam.
+
+2. Proprietas actionis, alia est Plyica, alia moralis. Ratione prioris, Jesuitæ,
+omninò necesse est, concedant proprietatem actionis physicam, arandi, loquendi,
+ambulandi, imò sperandi, bipartitam esse inter Deum & hominem: At minimè
+evincunt gloriam moralem ejusmodi actionum sic dividendam esse. Imò non
+negamus, Arbitrium immediatè influere activè in actum
+
+[1668 KBNL/UvA witness | logical printed p. 472 | PDF p. 523]
+
+credendi; sed motum, flexum, & determinatum à gratiâ internâ, quæ efficit velle
+& operari. At neq; hinc sequitur bipartitio illa proprietatis moralis actionis
+credendi, inter Deum & creaturas.
+
+3. Nec negamus actum credendi nostrum esse, & proprietatem aliquam moralem,
+etiam Arbitrio ascribendam; quippè, Christus laudat Chananææ mulieris,
+Centurionis, Abrahami, & aliorum fidem, & eam remuneratur.
+
+Martinez, Sect. 11: n. 47. Gratia non est totalis causa, sed partialis actus
+supernaturalis. 1 Cor. 15:10. Non ego, sed gratia Dei mecum. Bernardus,
+commilitones; Hieronymus, sodales, in opere supernaturali cum Deo, nos vocant.
+
+Resp. Et Calvinus nos consortes laboris cum Deo. Sed quia penès Deum est
+principalis causalitas efficaciter vocando, efficiendo ut velimus & credamus,
+licèt nos sumus & nos soli, qui volumus & credimus; Ideò Dei gratia rectè
+dicitur adæquata & completa causa dominans, determinans, efficiens velle.
+Neque hic Arbitrium habet ullum sodalitium, licèt in alio genere habeat
+consortium, uti causa mota & efficaciter determinata habet partialem
+influentiam subordinatam, & partialem activitatem inferiorem, quam Nostri
+minimè negant. Neque solus habitus totum agit: Imò habitus non illustratur, ut
+intellectus; non excitatur, ut voluntas; nec habitus
+
+[1668 KBNL/UvA witness | logical printed p. 473 | PDF p. 524]
+
+supernaturalis percipit objectum supernaturale; neque habitus formaliter
+eligit, repudiat, vult, appetit, aut actum suspendit; nec habitus supernaturalis
+est principium vitale, sed solum liberum Arbitrium est tale principium, per
+quod vivens seipsum ab intrinseco movet; neque habitus supernaturalis, quà
+talis, est liber, sed liberum Arbitrium tantùm adjuvat.
+
+Quæritur, An tota Dei gratiosa operatio, quâ Spiritus Sanctus utitur in
+conversione hominis, sit moralis tantùm, ità ut Deus hic agat invitando tantùm,
+rationibus suadendo, & alliciendo tùm minis, tùm promissis & mandatis; An verò
+Deus agat per gratiæ efficientiam realem & physicam, & habitum gratiæ
+infundendo, & voluntatem physicè & realiter prædeterminando? Arminiani
+conqueruntur de injuriâ à nobis factâ, eò quòd doceamus, illos tenere totum
+negotium conversionis peragi actione suasoriâ & morali. Ità Corvin. contra
+Molin. cap. 45. §. 2. 3. & cap. 45. §. 7. Gevinch. pag. 301. Sed hanc esse
+eorum mentem liquet. 1. Ex Confessionis suæ cap. 10. 11. §. 4. ubi ad fidem
+ingenerandum requirunt duo tantùm. 1. Argumenta verisimilia. 2. Docilitatem. Et
+in Coll. Hag. p. 122. ajunt, disputari posse, an non suasio sit nobilissima &
+convenientissima actio Dei, quâ uti potest in conversione hominis? Et docent,
+homines volentes, ex nolentibus reddi, solo allicio. Et Arminius Antiperk. pag.
+751. 770. §. in tractione Patris nullam
+
+[1668 KBNL/UvA witness | logical printed p. 474 | PDF p. 525 | split word joined: nullam]
+
+aliam agnoscit actionem, quàm suasionem. Deindè, nullam actionem administratam
+per Verbum, aliam esse agnoscunt, quàm suasoriam; ea enim (inquiunt) est natura
+Verbi, ut tantùm suasoriè agat. Nos contrarium tuemur.
+
+1. Si Deus tantùm suasoriè hic ageret, non esset major Dei convertentis actio,
+quàm concionatoris, Ciceronis aut Demosthenis, imò quàm Diaboli: Et sic
+Pastores cor novum in nobis creare, mortuos vivificare, carnales regenerare
+dicerentur, per solam literam Legis & Euangelii; quod docuit Pelagius, ut ait
+Augustinus de Gratia, contra Pelagium & Celestinum cap. 3.
+
+2. Quia Deus infundit Spiritum supplicationis. Zach. 12. 10. cor novum dat, &
+saxeum amovet. Ezech. 36.26. vivificat nos. Eph. 2.4, 5. Ergo, non solâ actione
+morali; quia vita nunquàm infunditur morali tantùm actione.
+
+3. Quia persuasio nullas vires internas facultatibus animæ & corrupto Libero
+Arbitrio addit & infundit; nec enim orationibus, plusquàm aureis, cæco visum,
+claudo vim ambulandi, pauperi divitias, restitues.
+
+4. Quia Deum non aliter regenerare quàm moralitèr suadendo, supponit, nec
+Intellectum, nec Voluntatem, nec Affectus, aliter per naturam corrupta esse,
+quàm ex solâ mentis obtenebratione & carentiâ literalis revelationis; & nos
+haud aliter ad actus supernaturales (Fidem &
+
+[1668 KBNL/UvA witness | logical printed p. 475 | PDF p. 526 | split word joined: resipiscentiam]
+
+resipiscentiam) præstandos, impotentes esse, quàm homo naturâ impotens est ad
+Disciplinas Mathematicas, & Metaphysicam addiscendam.
+
+5. Quia tàm proclive esset nobis converti, quàm est ebrio amplecti Ciceronis
+consilium de ebrietate.
+
+6. Quia is, qui consilium morale amplectitur, est potiùs causa principalis &
+efficax officii quod suadetur, quandò id præstat, quàm is, qui consulit: ideò
+alia gloria conversionis, Deo non deberetur, quàm inventi Euangelii; & Libero
+Arbitrio soli, gloria Fidei & amplexus Euangelii, deberetur.
+
+7. Quia nullum est suadenti dominium in voluntatem; ideòque si Deus hic tantùm
+suasor est, Deus non erit Dominus conversionis & salutis; nec penès eum est,
+quòd hi convertantur, non plures, non alii.
+
+8. Quia frustrà oro gratiam solius suadentis, qui nudus suasor est, quâ
+suasioni obtemperem; cùm penès me solum sit, obtemperare vel non obtemperare.
+
+Quæritur, An Arminiani ex Bellarmino de Gratiâ & Libero Arbitrio. lib. 1. cap.
+13. satis Deo ascribant, eò quòd suasionem externam à solâ literâ manantem,
+hominibus & Diabolo tribuant; Deo verò suasionem internam, qua semper lumen
+infundat, & initium bonæ voluntatis inflet? Ità etiam distinguit Suarez de
+auxil. divin. grat.
+
+[1668 KBNL/UvA witness | logical printed p. 476 | PDF p. 527]
+
+lib. 3. cap. 15. num. 17. Nos negamus satis Deo hic ascribi.
+
+1. Quia si hæc infusio luminis sit objectiva, & à solâ literâ suasionis, est
+tantùm suasio externa, ut vocant; si verò hæc infusio sit realis novæ potentiæ
+Libero Arbitrio collatio, tùm non est suasio, sed actio physica & plusquam
+suasio: nulla enim suasio infundit nobis novas vires.
+
+2. Pelagius hoc modo agnovit internam suasionem. Augustinus contra Pelagium &
+Celestinum lib. 1. cap. 7. Adjuvat nos per doctrinam & revelationem suam, dùm
+cordis nostri oculos aperit. --- dùm nos ineffabili dono gratiæ cælestis
+illuminat. --- dùm revelatione sapientiæ in desiderium Dei, Stupentem suscitat
+voluntatem: Imò hoc modo aurum, furis animum internè allicit, sed objectivè
+tantùm.
+
+Quæritur, An quos Deus externè vocat, eos omnes etiam internè vocat, ità ut sit
+in iis potentia obediendi, si velint? Ajunt Remonstrantes, Nos negamus.
+
+1. Quia vocavit Judæos externè pro verbum, signa & tentationes; & tamen non
+dedit iis cor ad cognoscendum, nec aures ad audiendum, nec oculos ad videndum,
+usque in hunc diem. Deut. 29. 3, 4. id est, eos internâ vocatione non vocavit.
+
+2. Quia Deus Joan. 12.37. per Christi prædicationem & egregia miracula, Judæos
+vocavit externè: & minimè internè. v. 39. Non enim poterant credere, quia
+excecavit oculos eorum, Deus.
+
+3. Quia 1 Cor. 2.14. Animalis homo externè
+
+[1668 KBNL/UvA witness | logical printed p. 477 | PDF p. 528 | split word joined: vocatur]
+
+vocatur, alioqui non stultitiam haberet Euangelium: At non est internè vocatus,
+quia non potest intelligere ea, quæ sunt Spiritus Dei.
+
+4. Quia omnes, qui audiverunt à Patre, sunt internè vocati, & veniunt ad
+Christum. Sed plerique, qui audiunt Deum vocantem externè per concionatores,
+non sunt internè vocati, neque veniunt ad Christum. Ergo, &c.
+
+5. Quia quidam audiunt mysteria Christi, & iis non revelantur, quia Deus ea
+non revelavit internè, & quia Patrem nemo novit, nisi cui Filius revelaverit.
+Matth. 11.25, 26, 27. Ergò, sunt quidam externè vocati, qui non sunt internè
+vocati.
+
+6. Quia Christus prædicatus est Judæis scandalo, & Græcis stultitia. Ergo,
+externè vocantur. At vocatis (nempè, internè) & Judæis & Græcis, Christus
+potentia & sapientia Dei. 1 Cor. 1. 23, 24.
+
+7. Quia qui ad Verbum prædicatum sunt saxo stupidiores, & facies firmiores
+adamante fecerunt, Ier. 5.8. qui sunt tàm incapaces Verbi, quàm infantes vixdùm
+à lacte depulsi. Isa. 28.9. qui occæcati sunt. 2 Cor. 4.4. obdurati sunt. Math.
+13.15. qui Verbum externè vocans, ludibrio habent. Act. 17.32. Act. 26.24. 2
+Pet. 3.1, 2. quibus cor velo tectum est, eò quòd destituantur spiritu Domini,
+qui velum tollit. 2 Cor. 3.14, 15, 16. sunt externè vocati, sed non internè.

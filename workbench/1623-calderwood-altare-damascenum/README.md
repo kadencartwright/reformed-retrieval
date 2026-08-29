@@ -66,8 +66,8 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–12 contain none of the appended documents and do not reach the
-embedded Tilenus refutation. Parts 07–12 do, however, include long passages
+prose. Parts 01–16 contain none of the appended documents and do not reach the
+embedded Tilenus refutation. Parts 07–16 do, however, include long passages
 that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
 Scaliger, patristic writers, imperial and conciliar legislation, English
 canons, canonists, and other named writers; the paired files retain their
@@ -87,12 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Twelve numbered Latin/English units are present. They now carry the main text
-from printed p. 1 through the upper portion of printed p. 179, but the
+Sixteen numbered Latin/English units are present. They now carry the main text
+from printed p. 1 through the upper portion of printed p. 243, but the
 inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–12 begin exactly at their audited predecessor boundaries and do not
+Parts 09–16 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -109,6 +109,10 @@ alter either inherited part.
 | 10 | Chapter IV: third argument, traditional witnesses | printed pp. 137–144 / PDFs 149–156, first boundary page partial | 8 paired and image-audited |
 | 11 | Chapter IV: Timothy and Titus, questions 1–2 | printed pp. 145–148 / PDFs 157–160, last boundary page partial | 4 paired and image-audited |
 | 12 | Chapter IV: Timothy and Titus, question 3 | printed pp. 148–179 / PDFs 160–191, both boundary pages partial | 32 paired and image-audited |
+| 13 | Chapter IV: immediate institution by Christ, Old Testament figure, and monarchy analogies | printed pp. 179–193 / PDFs 191–205, both boundary pages partial | 15 paired and image-audited |
+| 14 | Chapter IV: arguments 1–5 against the princely bishop's intensive power | printed pp. 193–203 / PDFs 205–215, both boundary pages partial | 11 paired and image-audited |
+| 15 | Chapter IV: argument 6, equality of bishops and presbyters, through preaching and sacramental ministry | printed pp. 203–215 / PDFs 215–227, both boundary pages partial | 13 paired and image-audited |
+| 16 | Chapter IV: argument 6, ordination and the equality of ministerial power | printed pp. 215–243 / PDFs 227–255, both boundary pages partial | 29 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -338,7 +342,202 @@ and both boundaries.
 - Latin: `parts/part-12-chapter-04-timothy-titus-third-question-latin.txt`
 - English: `parts/part-12-chapter-04-timothy-titus-third-question-english.md`
 
-All twelve units remain **AI-assisted and unreviewed**. They require complete
+### Part 13 bounds and evidence
+
+Part 13 begins exactly where Part 12 ends, in the lower portion of shared
+printed p. 179 / IA leaf 191 / PDF p. 191, at the new consequential argument:
+
+`Ex consequenti quomodo probaverit Dounamus Episcopos esse Apostolicae
+institutionis hactenus vidimus.`
+
+It contains the complete case for the alleged institution of bishops
+immediately by Christ, including Calderwood's treatment of the apostles and
+the seventy disciples, baptism before Christ's resurrection, apostolic
+prefecture, and succession to the ordinary and extraordinary elements of the
+apostolate. It then retains the complete argument from the figures and polity
+of the Old Testament and the complete analogy from monarchy. The pair
+preserves the attributed quotations from Spalatensis, Saravia, Beza, Junius,
+Bellarmine, Casaubon, Augustine, Sutclivius, Tilenus, Whitaker, Bilson, and
+others; all visible marginal citations; the Hebrew transliterations; and the
+Greek, including `τὴν ἐπισκοπήν`, `οὐσιωδῶς`, `γνωρίσματα`, `προστασία`,
+`διοίκησιν`, `θεόπνευστος`, `ἐφημερίαι`, `φυλακαί`, and `ἀταξία`.
+
+It ends in the lower portion of printed p. 193 / IA leaf 205 / PDF p. 205 at:
+
+`...quae in rebus divinis potius insipientia est videretur, ait Spalatensis.`
+
+The immediately following transition, `Argumenta nostra contra Episcopi
+principis potestatem intensivam sequuntur`, begins Calderwood's own numbered
+arguments against the princely bishop's intensive power and is excluded. This
+gives Part 13 fifteen identical Latin and English markers, p. 179 partial
+through p. 193 partial. Printer-divided words at page boundaries are joined,
+with each incoming marker placed before the complete Latin word and the
+corresponding English word or phrase.
+
+The controlling Internet Archive access PDF was freshly acquired and its PDF
+pp. 191–205 were rendered at 240 dpi and inspected page by page; PDF p. 206 was
+also checked to confirm the outgoing boundary. Its identity matches the file
+size, page count, and SHA-256 recorded under Part 07. The IA OCR and 1708
+Leiden reset assisted reading only; the 1623 images governed wording,
+typography, quotations, citations, Greek, Hebrew transliterations, joins, and
+both boundaries.
+
+- Latin: `parts/part-13-chapter-04-christian-institution-and-analogies-latin.txt`
+- English: `parts/part-13-chapter-04-christian-institution-and-analogies-english.md`
+
+### Part 14 bounds and evidence
+
+Part 14 begins exactly where Part 13 ends, in the lower portion of shared
+printed p. 193 / IA leaf 205 / PDF p. 205, at Calderwood's announced
+transition:
+
+`Argumenta nostra contra Episcopi principis potestatem intensivam sequuntur.`
+
+It contains the complete first five arguments against the princely bishop's
+singular or “intensive” power of ordination and directive and corrective
+jurisdiction. Calderwood argues from the absence of such a bishop in
+Scripture, Christ's command `Dic Ecclesiae`, Christ's prohibition of dominion
+among the apostles, the disciplinary practice of the Corinthian,
+Thessalonian, and Asian churches, and the apostles' own collegial exercise of
+ordination and jurisdiction. The pair retains the attributed quotations from
+Bellarmine, Drusius, Chrysostom, Junius, Sutlivius, Whitaker, Callistus,
+Bernard, Tilenus, Spalatensis, Theophylact, Oecumenius, Saravia, and others;
+all visible marginal citations; the Hebrew and Syriac transliterations; and
+the Greek, including `τὸ κράτος καὶ τὸ κῦρος`, `προέδροις καὶ προεστῶσι`,
+`κατακυριεύειν`, `κατεξουσιάζειν`, `ἐνεργήματα δυνάμεων`, the ancient
+penitential stages, and the terminology in the exegesis of 2 Thessalonians
+3:14.
+
+The anomalous 1623 readings `iure divini` at the p. 194/195 join and the
+citation `1. Cor. 1. 2.` on p. 201 are retained rather than silently corrected;
+the 1708 reset has `jure Divino` in the first place, while the second citation
+would ordinarily be expected to read 1 Corinthians 11:2.
+
+It ends in the upper portion of printed p. 203 / IA leaf 215 / PDF p. 215 at:
+
+`...quanto magis Praelati ex communi Presbyterorum sententia res
+Ecclesiasticas tractare debent.`
+
+The immediately following sixth argument, `6 Nullum est discrimen iure divino
+inter Episcopum & Presbyterum`, begins a distinct proof concerning equality of
+rank and is excluded. This gives Part 14 eleven identical Latin and English
+markers, p. 193 partial through p. 203 partial. Printer-divided words at every
+page boundary are joined, with each incoming marker placed before the complete
+Latin word and the corresponding English word or phrase.
+
+The controlling access-PDF images for PDFs 205–215 were freshly rendered at
+240 dpi and inspected page by page against both files; PDF p. 216 was also
+checked to confirm the outgoing boundary. The access PDF and its OCR/scandata
+aids match the identity and hashes documented under Part 07. The IA OCR and
+1708 Leiden reset assisted reading only; the 1623 images governed wording,
+typography, quotations, citations, Greek, Hebrew and Syriac transliterations,
+joins, and both boundaries.
+
+- Latin: `parts/part-14-chapter-04-arguments-against-intensive-power-latin.txt`
+- English: `parts/part-14-chapter-04-arguments-against-intensive-power-english.md`
+
+### Part 15 bounds and evidence
+
+Part 15 begins exactly where Part 14 ends, in the lower portion of shared
+printed p. 203 / IA leaf 215 / PDF p. 215, at the sixth argument:
+
+`6 Nullum est discrimen iure divino inter Episcopum & Presbyterum.`
+
+It includes Calderwood's opening three proofs that bishops and presbyters do
+not differ in rank by divine right: Scripture nowhere establishes such a
+difference, no analogous inequality exists within the other ecclesiastical
+functions, and Scripture uses the names and descriptions of bishop and
+presbyter interchangeably. It then includes the beginning of his induction
+from shared powers, through the power to preach and administer the sacraments
+and the question whether presbyters exercise that power as Christ's immediate
+ministers or as episcopal assistants and vicars. The pair retains the extended
+attributed quotations from Jerome, Downham, Bellarmine, Junius, Tilenus,
+Lorinus, Saravia, Spalatensis, Field, Baynes, Whitaker, the theologians at the
+Council of Trent, Paul Jovius, and others; all visible marginal citations; and
+the Greek `ἐπισκοποῦντες`, `διακονικῶς`, `διακεκριμένως`, `διακονία`,
+`ἀντίστροφα`, `ἰδίως`, `ἀπολελυμένως`, and `ποιμαίνειν`.
+
+The 1623 edition passes from numbered proof `3` to `5 Ab inductione rerum
+ipsarum`; that numbering is retained. The 1708 reset changes the latter to
+`IV`, but no silent correction has been made.
+
+Part 15 ends in the upper portion of printed p. 215 / IA leaf 227 / PDF p. 227
+at:
+
+`Sed ab ista digressiuncula redeamus.`
+
+The immediately following sentence, `Ordinationem ad Ordinis potestatem
+referunt adversarii`, begins the distinct treatment of ordination within the
+same induction and is excluded. This gives Part 15 thirteen identical Latin
+and English markers, p. 203 partial through p. 215 partial. Printer-divided
+words at every page boundary are joined, with each incoming marker placed
+before the complete Latin word and the corresponding English word or phrase.
+
+The controlling access-PDF images for PDFs 215–227 were freshly rendered at
+240 dpi and inspected page by page against both files; PDF p. 228 was also
+checked to confirm the outgoing continuation. The access PDF and its
+OCR/scandata aids match the identity and hashes documented under Part 07. The
+IA OCR and 1708 Leiden reset assisted reading only; the 1623 images governed
+wording, typography, quotations, citations, Greek, joins, and both boundaries.
+
+- Latin: `parts/part-15-chapter-04-argument-06-equality-and-ministerial-power-latin.txt`
+- English: `parts/part-15-chapter-04-argument-06-equality-and-ministerial-power-english.md`
+
+### Part 16 bounds and evidence
+
+Part 16 begins exactly where Part 15 ends, in the upper portion of shared
+printed p. 215 / IA leaf 227 / PDF p. 227, at:
+
+`Ordinationem ad Ordinis potestatem referunt adversarii.`
+
+It contains Calderwood's complete treatment of ordination within the sixth
+argument. The unit tests the claim that ordinatory laying on of hands is a
+sacrament peculiar to bishops; argues from the identity of episcopal and
+presbyteral Order, patristic and conciliar practice, the Council of Ancyra,
+papal delegation, and cases of necessity; then argues directly that ordination
+is not a sacrament. It closes by locating induction into possession of an
+office under jurisdiction while distinguishing that act from prayer,
+blessing, and consecration. The pair retains the extended attributed
+quotations from Downham, Bilson, Field, Durandus, Jerome, Chrysostom, Junius,
+Saravia, Spalatensis, Bonaventure, Amalarius, Bucer, Panormitanus, and others;
+all visible marginal citations; the rabbinic transliterations; and the Greek,
+including `χειροθεσία`, `συνεδριακῶς`, the Suda citation concerning
+`πλεονεκτεῖν`, the Greek text of Ancyra canon 13, `ἀοριστία`, `παραστασίᾳ`,
+`χαρίσματα`, `χειροθέτης`, `ἐξαιρέτως`, and `ἀπολελυμένως`.
+
+Part 16 ends in the upper portion of printed p. 243 / IA leaf 255 / PDF p. 255
+at:
+
+`...etsi simul tempore peragantur.`
+
+The immediately following transition, `Sequitur potestas altera nempe
+iurisdictionis`, begins the distinct treatment of jurisdiction and is
+excluded. This gives Part 16 twenty-nine identical Latin and English markers,
+p. 215 partial through p. 243 partial, and twenty-eight byte-identical
+marginalia records. Printer-divided words at every page boundary are joined,
+with each incoming marker placed before the complete Latin word and the
+corresponding English word or phrase.
+
+The controlling access-PDF images for PDFs 227–255 were freshly rendered at
+240 dpi and inspected page by page against both files; PDF p. 256 was also
+checked to confirm that the excluded jurisdiction unit continues there. The
+freshly acquired controlling files have these identities:
+
+- `altared00cald.pdf` — 112,133,031 bytes, SHA-256
+  `61a924c73503fe167e52c078dd20295cfdc32f2a15977918ff8878f135cce7aa`
+- `altared00cald_djvu.txt` — 3,518,757 bytes, SHA-256
+  `76ca2cc3b21cecda0126f30df8a65ab96a75e108b08c92edcd42f914f760698b`
+- `altared00cald_scandata.xml` — 1,074,920 bytes, SHA-256
+  `09e97aa52f389c6291681c5b1edacb03747deaf280ed6744cedbf00f2d92ae08`
+
+The IA OCR and 1708 Leiden reset assisted reading only; the 1623 images
+governed wording, typography, quotations, citations, Greek, transliterations,
+joins, and both boundaries.
+
+- Latin: `parts/part-16-chapter-04-argument-06-ordination-latin.txt`
+- English: `parts/part-16-chapter-04-argument-06-ordination-english.md`
+
+All sixteen units remain **AI-assisted and unreviewed**. They require complete
 comparison by a qualified Latin editor before quotation or publication.
 
 ## Licensing

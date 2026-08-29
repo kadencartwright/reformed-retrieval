@@ -209,4 +209,152 @@ early-modern English glosses, and full prose.
 - `parts/part-11-chapter-11-latin.txt`
 - `parts/part-11-chapter-11-english.md`
 
-The next unit begins with `CAPUT XII` in the left column of shared PDF 164.
+**Part 12 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XII commentary from the ruled
+`CAPUT XII` on shared PDF 164 / printed columns 302–303 through its final word
+on shared PDF 198 / printed columns 370–371, stopping immediately before the
+ruled `CAPUT XIII`. Latin and English have thirty-five identical source markers
+and retain all twenty-eight scriptural verse lemmata, analytical structures,
+Hebrew, Greek, citations, early-modern English glosses, repetitions, and full
+prose. Two passages physically lost in the damaged scan on PDF 167 are retained
+as explicit image-damage gaps rather than conjecturally supplied.
+
+- `parts/part-12-chapter-12-latin.txt`
+- `parts/part-12-chapter-12-english.md`
+
+**Part 13 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XIII commentary from the ruled
+`CAPUT XIII` on shared PDF 198 / printed columns 370–371 through its final
+text on shared PDF 231 / printed columns 436–437, stopping immediately before
+the ruled `CAPUT XIV`. Latin and English have thirty-four identical source
+markers and retain all twenty-five scriptural verse lemmata, analytical
+structures, Hebrew, Greek, citations, early-modern English glosses,
+repetitions, and full prose. Every page and chunk join was checked against the
+controlling scan; no unresolved image damage remains.
+
+- `parts/part-13-chapter-13-latin.txt`
+- `parts/part-13-chapter-13-english.md`
+
+**Part 14 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XIV commentary from the ruled
+`CAPUT XIV` on shared PDF 231 / printed columns 436–437 through its final text
+on shared PDF 273 / printed columns 520–521, stopping immediately before the
+ruled `CAPUT XV`. Latin and English have forty-three identical source markers
+and retain all thirty-five scriptural verse lemmata, both analytical
+structures, Hebrew, Greek, citations, early-modern English glosses,
+repetitions, and full prose. Every page and chunk join was checked against the
+controlling scan; no unresolved image damage remains.
+
+- `parts/part-14-chapter-14-latin.txt`
+- `parts/part-14-chapter-14-english.md`
+
+**Part 15 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XV commentary from the ruled
+`CAPUT XV` on shared PDF 273 / printed columns 520–521 through its final text
+on shared PDF 309 / printed columns 592–593, stopping immediately before the
+ruled `CAPUT XVI`. Latin and English have thirty-seven identical source markers
+and retain all thirty-three scriptural verse lemmata, the analytical structure,
+Hebrew, Greek, citations, early-modern English glosses, repetitions, and full
+prose. Every page and chunk join was checked against the controlling scan; no
+unresolved image damage remains.
+
+- `parts/part-15-chapter-15-latin.txt`
+- `parts/part-15-chapter-15-english.md`
+
+**Part 16 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XVI commentary from the ruled
+`CAPUT XVI` on shared PDF 309 / printed columns 592–593 through its final text
+on PDF 341 / printed columns 656–657. A terminal marker records PDF 342 /
+printed columns 658–659, where `CAPUT XVII` begins at the top; no Chapter XVII
+text is imported. Latin and English have thirty-four identical source markers
+(PDF 309–342) and retain all thirty-three scriptural verse lemmata, full prose,
+Hebrew, Greek, citations, embedded early-modern English glosses, numbered
+examples and lots, and printed repetitions and anomalies. Every page, chunk
+join, divided word, script, and lemma was checked against the controlling scan;
+a small wormhole or ink blot on PDF 320 partly obscures the punctuation between
+`transferunt` and `omnino`, for which the transcription adopts a colon, while
+both words are secure. No word-level loss remains.
+
+- `parts/part-16-chapter-16-latin.txt`
+- `parts/part-16-chapter-16-english.md`
+
+**Part 17 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XVII commentary from `CAPUT,
+XVII.` at the top of PDF 342 / printed columns 658–659 through the last
+Chapter XVII sentence, `ita sapientiae tribuendum non est.`, within PDF 369 /
+printed columns 712–713. It stops immediately before the ornament, `CAPVT
+XVIII.`, and Chapter XVIII verse 1 in the right column. Latin and English have
+twenty-eight byte-identical source markers (PDF 342–369) and retain all
+twenty-eight scriptural verse lemmata, the judicial classification tree,
+numbered argumentation, Hebrew, Greek, citations, the embedded English phrase
+`He buildeth Castles in the ayr,`, bracketed wording, repetitions, and full
+prose. The complete files contain 13,873 Latin-file and 19,542 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 342–369, was independently inspected at original detail
+in both-column order, with boundary images PDF 341 and PDF 370 and all page
+and six chunk joins checked against the controlling scan. Part 16 ends on PDF
+341 and records only a terminal PDF-342 boundary marker, so no Chapter XVI
+prose overlaps Part 17; no Chapter XVIII material is imported. Split words and
+corresponding English phrases were assigned to the receiving marker, and the
+paired marker streams, lemmata, scripts, structures, margins, and first and
+last boundaries were audited for order and completeness. No word-level image
+loss remains. Secure witness anomalies were retained without silent
+emendation, including `V. 28.` in worn type that initially resembles `V. 38.`,
+`rosonare`, `futurae`, `cruentetur`, `Emauntem`, `[pauperem] justum`, and the
+printed citation forms. The principal residual palaeographic doubts concern
+accents or exact sorts in small, worn Greek and Hebrew—especially
+`φυσικῇ`, `μακροημερίᾳ`, `τεκνογονίᾳ`, `ἀκμῇ`, `πανωλεθρίᾳ`,
+`νεκροπαιδείᾳ`, `γονῇ`, `תקעכף`, `אבי`, `יולד`, and `בחק`—plus the
+alphanumeric reading `3.1.tab. mand.`; their contextual readings are retained
+and no passage is marked illegible.
+
+- `parts/part-17-chapter-17-latin.txt`
+- `parts/part-17-chapter-17-english.md`
+
+**Part 18 is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the full Chapter XVIII commentary from `CAPVT
+XVIII.` below the ornament in the right column of shared PDF 369 / printed
+column 713 through the terminal citation `Gen. 38. v. 20, 21.` within PDF 396
+/ printed column 767. It stops immediately before the ornament, `CAPUT XIX.`,
+and Chapter XIX verse 1 in that same right column. Latin and English have
+twenty-eight byte-identical source markers (PDF 369–396; synchronized printed
+columns 712–713 through 766–767) and retain all twenty-four scriptural verse
+lemmata, full prose, Hebrew, Greek, citations, bracketed wording, numbered
+distinctions, and the embedded English sayings `He will bite and whine`, `the
+first tale is good, untill the second be heard`, `he shall have his belly
+full`, `pride will have a fall`, and `It is too much to pay & pray too`. The
+complete files contain 13,648 Latin-file and 19,176 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 369–396, was independently inspected at original detail
+in both-column order, with boundary images PDF 368 and PDF 397 and all page and
+six chunk joins checked against the controlling scan. The shared PDF-369
+marker is intentional: Part 17 ends above the ornament, while Part 18 begins
+below it with the Chapter XVIII heading, so no historical prose overlaps and
+none is omitted. Split words and corresponding English phrases were assigned
+to the receiving marker, including `Homines` on PDF 370, `fideles` on PDF 392,
+and `tantum` on PDF 394. The paired marker streams, lemmata, scripts, margins,
+first and last boundaries, and Chapter XIX exclusion were audited for order
+and completeness; no word-level image loss remains.
+
+Secure witness anomalies were retained without silent emendation, including
+`esse oportere rentur`, `Nam nno tantum`, `ad ipsorum esse & medullam`,
+`continenter contusorum`, `continenter in opere suo`, `tanpustula`,
+`meacerantur`, `hominis sermonem plurimum nosse`, the unmatched opening
+bracket before `adhibete animum`, the unbalanced parenthesis in `tamen illis
+(ut fidelibus non adunitur`, and the printed citation forms. PDF 379 visibly
+repeats printed columns 730–731 before PDF 380 resumes at 734–735; the required
+synchronized marker stream records PDF 379 as columns 732–733. PDF 383's
+running head also reads `CAP. XVII.` although its body and column sequence are
+Chapter XVIII. The principal residual palaeographic doubts concern exact
+accents or worn sorts in small Greek and Hebrew—especially `πολυπράγμονα`,
+`ῥᾳθυμίᾳ καὶ ἀκηδίᾳ`, `προσωποποιΐα`, and several tightly set Hebrew lexical
+forms. Contextual readings are retained, and no passage is marked illegible.
+
+- `parts/part-18-chapter-18-latin.txt`
+- `parts/part-18-chapter-18-english.md`
+
+The next unit begins with `CAPUT XIX.` below the ornament on shared PDF 396 /
+printed column 767; restart there with Chapter XIX verse 1, excluding all
+Chapter XVIII text above it.

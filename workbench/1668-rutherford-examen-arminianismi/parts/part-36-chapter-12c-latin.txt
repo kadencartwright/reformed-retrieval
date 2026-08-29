@@ -1,0 +1,249 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 515 at the lemma `ROM. 6.
+23. Stipendium peccati, mors est`, without repeating Part 35's closing
+argument. It contains three complete questions: whether the distinction
+between mortal and venial sin should be admitted; whether venial sin is only
+beside, rather than against, the Law; and whether the most excellent works of
+the regenerate are stained by sins. It ends within printed p. 524 after the
+fifth and final argument of that last question. The new lemma `ROM. 7:18.` and
+its following question concerning the conflict between spirit and flesh are
+excluded. Printer line-end and page-end divisions have been joined; at every
+split-word page boundary the new-page marker precedes the complete joined
+word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit and supplies no correction for printed pp. 515–524.]
+
+[Printed-form note: The visibly difficult or irregular forms and citations
+`Arminani`, `Num. 15:22`, `Heb. 12:3. ἀποστασία`, `Lev. 4.5.`, `Ioan. 14:14`,
+`Psal. 119. 1. & 167.`, `Heb. 13:6, 16`, `a versu 15: cap. 63.`, `omnes nostræ
+justitiæ sunt sicut pannus menstruatæ`, and `Phil. 3:18` are retained rather
+than silently regularized. In the first question's argument sequence, the
+number following argument 3 is printed as 2; that sequence is retained. The
+Hebrew `זָדוֹן`, `זוד`, `שְׁגָגָה`, `מֶרֶד`, and `רֶשַׁע` and the Greek `ἀδικία`,
+`ἀπείθεια`, `ἀσέβεια`, `ἀποστασία`, and `κατὰ τί` are retained. Isolated edge
+marks, stains, show-through, running heads, signatures, catchwords, and
+ornaments in the controlling images are non-textual or non-substantive
+artifacts; no substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 515 | PDF p. 566 | begins at ROM. 6. 23.]
+
+ROM. 6. 23.
+
+Stipendium peccati, mors est.
+
+Quoniam asserit Paulus omne peccatum indefinitè sumptum, commereri mortem
+æternam, quæ hoc loco opponitur vitæ æternæ, Ideò
+
+[1668 KBNL/UvA witness | logical printed p. 516 | PDF p. 567 | split word joined: Quæritur]
+
+Quæritur, An ferenda sit distinctio peccati mortalis & venialis? Affirmant
+Remonstrantes, dùm, Apol. cap. 11 fol. 130. dicunt, Deum ex toto corde
+diligere, esse, solum Deum verum, non Idola colere; sive sedulum & studiosum
+esse in observatione mandatorum illorum, quæ Deum propriè spectant; nec hic
+exprimi talis justitiæ perfectionem, quam rigidissimum judicium Dei,
+Mathematicè aut Arithmeticè consideratum, ut perfectionem numeris & gradibus
+omnibus absolutam, quæ nævos & imperfectiones præcisè excludat, requirit.
+
+Nos dicimus 1. Omne peccatum in renatis, per accidens esse veniale, estò quòd
+sit gravissimum; eò quòd de eo renatus verè dolens, & pœnitentiam agens,
+illius in Christo, ex Dei misericordiâ, veniam consequatur. 1 Joan. 1.7. Sic
+blasphemiæ & persecutiones Pauli venialia sunt. 1 Tim. 1.13.
+
+2. Peccatum veniale dicitur peccatum infirmitatis, quòd non ex malitiâ
+patratum sit; & est veniale per accidens, quia conjunctum est in eodem subjecto
+cum gravioribus sceleribus, quorum quis veniam consequitur in Christo Jesu.
+Hinc nos gradus peccatorum libentèr agnoscimus. August. Enchirid. cap. 64. &
+Epist. 89. Quædam sunt peccata quæ appellantur crimina; quædam sine quibus hîc
+non vivitur.
+
+Hebræis est quoddam peccatum quod זָדוֹן superbia dicitur, à radice זוד
+superbivit, superbè
+
+[1668 KBNL/UvA witness | logical printed p. 517 | PDF p. 568 | split word joined: arrogantèr]
+
+arrogantèr egit, (cui contradistinguitur שְׁגָגָה: error imprudens, seu peccatum
+ex ignorantia) & מֶרֶד rebellio; & רֶשַׁע impietas; quando manu excelsâ & collo
+extento peccatur. Num. 15:22. Hinc Rom. 6:13. ἀδικία. Eph. 5:6. ἀπείθεια,
+contumacia. 1 Tim. 1:9. ἀσέβεια, impietas. Heb. 12:3. ἀποστασία.
+
+Mortale, ut rectè Thomas in 1â 2æ q. 88. art. 1. ad similitudinem morbi
+dicitur, qui dicitur mortalis, ex eo quod inducit defectum irreparabilem.
+Duplex autem vitæ principium, duplici morti correspondens, est considerandum;
+aliud legale, & sic omne peccatum est in se mortiferum, ut ait Gerson. de vitâ
+spirituali. lect. 1. ad literam A. Et hæc est vita per Justificationem. Aliud
+est principium vitæ per Sanctificationem; & sic quoddam est peccatum tam leve,
+ut seminis Dei & novæ vitæ non sit destructivum & expulsivum. Et hoc sensu,
+Augustinus, peccatum veniale agnoscit, & nos cum illo.
+
+Sed Quæstio est, An sit ullum peccatum, sub Novo Fœdere, veniale suâ naturâ, &
+in relatione ad Dei Legem, à quâ sumenda est formalis ratio peccati, quod ex
+causâ aut modo aut materiæ tenuitate veniale sit & dignum veniâ, & ex rigore
+Legis non excludat demeritoriè è regno cœlorum, nec ex se æternam damnationem
+mereatur? Affirmant Arminani & Pontificii. Nos negamus.
+
+1. Gal. 3:10. Maledictus omnis, qui non permanet in omnibus quæ scripta sunt
+in libro Legis. Sed qui
+
+[1668 KBNL/UvA witness | logical printed p. 518 | PDF p. 569 | split word joined: minimum]
+
+minimum peccatum admittit, non permanet in omnibus quæ scripta sunt in libro
+legis? adeòque subest maledictioni Legis, i. e. morti æternæ. Ezech. 18:4.
+Anima quæ peccat, illa morietur. Rom. 6:23. Stipendium peccati, mors est. Jac.
+2:10. Qui offendit in uno, factus est reus omnium. Nam arguit Jacobus, non à
+magnitudine scelerum, ut volunt Jesuitæ; sed ab Authoritate Legislatoris v.
+11. Qui dixit, non mæchaberis, dixit etiam, non occides. Undè par est infinita
+authoritas Dei, vetantis sive hoc peccatum, sive illud, & prohibentis furtum
+oboli & furtum mille florenorum. Matth. 5:19. Quisquis solverit unum ex
+mandatis hisce & sic docuerit homines, vocabitur minimus in regno cœlorum.
+Matth. 12:36,37. De omni otioso verbo, quod loquitur homo, rationem redditurus
+est in die judicii. At extincto tùm Purgatorio, nec manente loco pœnæ
+temporariæ in die judicii, necesse est homines luant pœnas æternas verborum
+otiosorum, quæ tamen Pontificii & Arminiani propter levitatem materiæ, peccatis
+venialibus accensent.
+
+2. Omne peccatum contra dilectionem Dei est violatio Legis, & æternæ pœnæ
+demeritorium; quia repugnat maximo Legis mandato, quod violatur semper in
+quantum mandata Dei non observamus. Ioan. 14:14. Deut. 10:12. Atqui peccata
+venialia sunt contra dilectionem Dei.
+
+[1668 KBNL/UvA witness | logical printed p. 519 | PDF p. 570]
+
+3. Omne peccatum, contra infinitam Majestatem, meretur æternam pœnam. At
+peccatum (ut vocant) veniale est tale.
+
+2. Quia eadem hostia repræsentans sacrificium unicum Christi, pro peccatis
+ignorantiæ (quæ venialia vocant) & pro gravioribus sceleribus, offerebatur in
+Lege. Lev. 4.5. Heb. 10:4,5.
+
+Quæritur, An peccatum veniale non sit contra Legem, sed præter Legem tantùm?
+Ajunt Adversarii. Negamus nos.
+
+1. Quia veniale prohibetur Lege Dei. Nam quod prohibet genus, prohibet etiam
+speciem. Ut furtum in genere est contra octavum Præceptum; Ergo, etiam furtum
+oboli.
+
+2. Peccatum veniale est contra rectam rationem, nempè, Legem cordi inscriptam.
+Rom. 2:15. Quod pugnat cum albedine quatenùs est color, pugnat cum omni colore.
+Dictamen autem rectæ rationis est Lex divina, de quâ Lex naturæ prædicatur,
+tanquàm genus de specie. At rectæ rationi repugnant peccata venialia; (ut
+furari à proximo, quod suum est, otiosè profundere sermonem) ut concedunt
+Suarez, Azorius, Durandus, licèt neget nullo fronte Bellarminus.
+
+3. Quia omne peccatum privativè opponitur actui morali recto, ut mendacium
+jocosum veritati, quam effari debemus: & verbum aut factum præter Dei Legem,
+non autem contra Dei Legem, idem est quod cæcitas quædam in
+
+[1668 KBNL/UvA witness | logical printed p. 520 | PDF p. 571 | split word joined: animali]
+
+animali præter non contra visum, & mors quædam præter, non contra vitam, uti
+semicæcitas & semimors, quæ sunt media per participationem utriusque extremi.
+At peccata venialia (quæ vocant) non sunt semivirtutes & semivitia; neque in
+actionibus moralibus datur medium per participationem utriusque extremi; uti
+furtum oboli & otiosum verbum non sunt medium quid, inter actum moraliter
+bonum & conformem Dei Legi, & actum malum & Legi Dei repugnantem.
+
+GAL. 5. 17.
+
+Nam caro concupiscit adversùs Spiritum, Spiritus autem adversùs carnem; Hæc
+autem inter se sunt opposita, ut non quæcunque volueritis, eadem faciatis.
+
+Undè necessariò sequitur, voluntatem & rationem, in omnibus renatis, talia
+esse principia actionum præstantissimarum, quæ cùm inquinata sint
+concupiscentiâ naturali, omnia nostra opera, etiam perfectissima, labe aliquâ
+peccati aspergi, necesse est. Hinc
+
+Quæritur, An Opera renatorum præstantissima sint peccatis inquinata? Negant
+Jesuitæ & Arminiani, qui docent nævos & labeculas adhærescentes operibus
+renatorum non esse propriè peccata, aut talia, quæ ex rigore Legis divinæ
+homines cœlis proscribunt, aut æternæ condemnationi obnoxios faciunt. Ut autem
+status Quæstionis figatur, docemus.
+
+[1668 KBNL/UvA witness | logical printed p. 521 | PDF p. 572 | split word joined: Merita]
+
+1. Merita Christi talis esse valoris & potentiæ, ut possint elevare bona opera
+renatorum ad omnimodam puritatem, Legi Dei per omnia conformem; sed quod de
+facto merita Christi hoc præstent, omnimodò pernegamus. Nam merita Christi
+tollunt quidem omnem reatum legalem à nostris operibus bonis, non tamen omnem
+maculam physicam; quia quamvis Justificatio & Remissio nostra sit consummata &
+perfecta in hâc vitâ, quoad ablationem reatus; non est tamen Sanctificatio
+nostra perfecta quoad ablationem maculæ physicæ.
+
+2. Falsissimum est, quod dicunt Adversarii, Becanus, Gregorius de Valentiâ,
+Bellarminus, Pererius, nos docere 1. Bona opera esse peccata mortalia. 2. Bona
+opera renatorum esse bona κατὰ τί & secundùm quid, sed simpliciter esse peccata
+mortalia. Nam docemus opera bona renatorum esse bona. 1. Respectu substantiæ
+actûs. 2. Respectu objecti formalis. 3. Respectu omnium quatuor causarum,
+efficientis, materiæ, formæ, & finis. Psal. 119. 1. & 167. Gal. 5.22. Phil.
+2.13. 1 Cor. 10.31.
+
+3. Docemus labem culpabilem adhærescentem bonis nostris operibus, legalitèr
+quidem tolli per Christum, ita ut opera nostra sint Deo grata, per & propter
+Christum Mediatorem; manere tamen physicè & realitèr eam labem, culpabilitèr
+opera nostra coinquinantem.
+
+[1668 KBNL/UvA witness | logical printed p. 522 | PDF p. 573]
+
+4. Adeò ut bona renatorum opera non sint quidem formaliter & in abstracto
+peccata mortalia: Absit. Hoc enim nobis per invidiam affingunt Adversarii.
+Sunt tamen in concreto & materialitèr, labe peccati inquinata & adspersa; Vel
+sunt quoad substantiam actûs & in suis causis bona, & ea omittere est
+peccatum; sunt verò in modo & gradu & nonnullis circumstantiis, vel potiùs
+circumstantiarum gradibus, culpabili defectu vitiosa. Ideòque hæc opera sunt
+vitiosa, non vitia; peccaminosa, non peccata; culpabilia, non culpæ. Ideòque ad
+talia opera Dominus obnixè hortatur; & qui talia non faciunt, exscindendos,
+tanquàm arbores fructum non ferentes è vineâ Domini, pronunciamus; quinimò
+esse Deo grata, placentia, laudabilia, utilia. Matth. 5:16. 1 Tim. 6:18. Matth.
+26:10. 1 Pet. 2:5. Phil. 4:18. Heb. 13:6, 16.
+
+Non esse tamen adeò perfecta, docemus, quìn nævis & labeculis culpabilibus
+coinquinentur, ità ut remissione in Christo indigeant.
+
+1. Eccles. 7:20. Non est homo justus in terrâ, qui faciat bonum & non peccet.
+Job. 9:3. Si volet litigare cum eo, non poterit respondere ei ad unum è mille.
+v. 28. Recognosco fore, ut non purges me. v. 30. Si lavero me aquis nivalibus,
+& emundavero smegmate manus meas. v. 31. Tùm in foveam demerges me, &
+abominabuntur me vestes meæ. Psal. 143:2. Nè congrediaris judicio cum servo
+tuo, quoniam non
+
+[1668 KBNL/UvA witness | logical printed p. 523 | PDF p. 574]
+
+erit justus coram te ullus vivens. Psal. 130.3. Si tu, Domine, observaveris
+iniquitates, quis sustinebit? At certè si opera renatorum essent omnis peccati
+expertia & verè perfecta, quidni homo esset justus in tremendo Dei judicio,
+coram Deo?
+
+2. Non necesse esset, ut sanctissimi orarent, Remitte nobis peccata nostra, si
+possent opera adeò perfecta, ut omni labe peccati carerent, proferre.
+
+3. Idem patet ex confessione sanctorum. Isa. 64:6. Sed sumus ut immundus omnes
+nos, & sicut panniculus abjectissimus omnes justitiæ nostræ: & diffluimus
+veluti folium omnes nos, & iniquitates nostræ ut ventus auferunt nos. Et hæc
+confessio Ecclesiæ & piorum a versu 15: cap. 63. ad cap. 64. v. 8. Jam verò
+Jehovah, tu pater noster, non loquitur de ceremoniali justitiâ, ut volunt
+Adversarii. 1. Quia ait, omnes nostræ justitiæ sunt sicut pannus menstruatæ.
+2. Quia addit v. 7. Nullus est qui invocet nomen tuum, excitans se ad
+prehendendum te.
+
+4. Quia caro semper spiritui obluctatur in sanctissimis. Rom. 7:18. Gal. 5:17.
+Inhabitat in omnibus concupiscentia. Heb. 12:1. Joan. 1:8. Undè ut homo, cui
+luxata est tibia, non potest rectus incedere sed claudicanter; ità impossibile
+est, ut renati, quibus inest hoc principium moralis luxationis, omnia opera
+præstent, ex
+
+[1668 KBNL/UvA witness | logical printed p. 524 | PDF p. 575 | split word joined: dilectione]
+
+dilectione Dei intensissimâ, & sinceritate in fine actionum per omnia maximâ,
+& fervore, à Lege Dei in omni agendi modo, requisito.
+
+5. Quia homines essent perfecti in hâc vitâ, & Legi per omnia conformes, si
+possent opera bona, nulla labe peccati inquinata, præstare: quod de se negat
+Apostolus. Phil. 3:18.

@@ -1,0 +1,315 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Nonum, De Universali Redemptione, et Caput Decimum, De Fœdere Gratiæ — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 421 at `Quæritur, An
+reprobi, morte Christi, facti sunt Deo reconciliabiles`, without repeating the
+end of Part 26. It completes Chapter IX, then carries the opening exposition of
+Hebrews 8:8–10 and three complete questions in Chapter X. It ends on shared
+printed p. 432 after the fourth argument that the Old Testament fathers had
+spiritual promises and looked by faith to Christ and eternal life. The
+question beginning `Quæritur, An factum sit Fœdus gratiæ cum omnibus & singulis
+mortalibus` later on that page is excluded. Printer line-end and page-end
+divisions have been joined; at every split-word page boundary the new-page
+marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its correction for p. 425 line 17 is applied: the body's `prosuasionem`
+is corrected to `persuasionem`.]
+
+[Printed-form note: The visibly irregular citations `Matth. 11:16`, `Act.
+14:46`, `Gen. 3:14`, `Act. 10:4`, `1 Cor. 10:, 34`, `Apoc. 7:15, 19, 17`,
+`Isa. 45:7. — 14`, and `Jer. 148` are retained rather than silently
+regularized. So are the heading's `HEB. 8:8`, the order `Psal. 73:25` followed
+by verses 26 and 24, and all other printed structures and citations. No Greek,
+Hebrew, or substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 421 | PDF p. 472 | begins at Quæritur, An reprobi, morte Christi]
+
+Quæritur, An reprobi, morte Christi, facti sunt Deo reconciliabiles? Arminiani
+id simpliciter affirmant.
+
+Nos distinguimus, & docemus, eo sensu, eos per mortem Christi factos esse
+reconciliabiles, quo Prosper, resp. ad Capitulum Gallorum, cap. 9. ait, Christum
+esse Salvatorem totius mundi, propter veram naturæ humanæ susceptionem, &
+propter communem in primo homine perditionem. Hinc, licèt Christus pro reprobis
+mortuus non sit, facti tamen sunt per mortem Christi reconciliabiles, hoc
+sensu.
+
+1. Quia Christus naturam, quæ est communis, licèt non quà est communis omnium,
+sed quà est Abrahami patris credentium natura, Heb. 2. 16. assumpserit. Hinc
+Diaboli minimè salvabiles facti sunt per Christum, quippè, qui naturam
+Angelicam non sibi univerit in suâ personâ.
+
+2. Quia Christus expiavit commune peccatum Adami, in ligno crucis, licèt non
+quà commune, sed quà electis & credentibus inest.
+
+[1668 KBNL/UvA witness | logical printed p. 422 | PDF p. 473]
+
+3. Quia gratia prædicationis Evangelii impetrata est morte Christi, reprobis
+in visibili Ecclesiâ natis; & facta est iis oblatio Christi approbativa &
+simplicis complacentiæ. Undè ad cœnam vocantur. Matth. 22. Luca. 14.16. Et ad
+Christum vocantur. Matth. 11:16. Matth. 23:37, 38. 1 Cor. 1:18, 23. Act. 14:46.
+Prov. 1:24, 25. Isa. 6:10, 11. Isa. 65. 2, 3. Hæc autem de Diabolis dici non
+possunt.
+
+At reprobi non sunt, per mortem Christi, facti Deo reconciliabiles.
+
+1. Quasi fieret iis oblatio Christi conditionalis & decretiva, quâ Deus offert
+Christum iis eo modo, quo actu ejus merita ipsis efficaciter applicare statuit;
+uti credentes sunt facti morte Christi reconciliabiles.
+
+2. Non sunt facti reconciliabiles, quasi Christus ipsorum personas in ligno
+crucis gesserit, & pœnas ipsis debitas perpessus fuerit.
+
+3. Nec facti sunt reconciliabiles, quasi Christus iis, morte suâ,
+reconciliationem, remissionem, & æternam salutem commeritus esset.
+
+4. Nec quasi in promissis prædicatis, Deus ipsis, res Evangelio promissas
+intenderet, vel absolutè, vel conditionaliter.
+
+Quæritur, An omnes & singuli, etiam reprobi, teneantur credere Christum pro se
+esse mortuum? Ajunt Remonstrantes. Corvin. contra Molin. cap. 29. §. 16.
+
+[1668 KBNL/UvA witness | logical printed p. 423 | PDF p. 474]
+
+Nos negamus. 1. Quia quod est falsum, nemo tenetur credere. At Deum, vel ad
+gloriam elegisse omnes & singulos, vel Christum esse mortuum pro omnibus &
+singulis, est falsum, ut alibi probatum. Ergo.
+
+2. Quia credere Christum pro omnibus & singulis esse mortuum, non est objectum
+fidei salvificæ proprium & adæquatum. Objectum enim fidei est ens incomplexum,
+nempe, Christus, sufficiens salvator, factus author salutis omnibus ei
+obtemperantibus, & credentibus.
+
+3. Quia Christum mori pro peccatoribus connotat consilium Dei, atque adeò
+decretum Electionis ad gloriam. At consilium, intentio & decretum meæ
+electionis, non est meæ fidei propriè objectum, sed revelatur mihi sensu
+experimentali, & testimonio interno Spiritûs Sancti.
+
+4. Nec omnes electi tenentur immediatè & absque certo ordine, credere, Christum
+pro se esse mortuum. Ergo, multò minùs reprobi tenentur. Prob. Ant. 1. Quia
+tenentur electi, prius esse onusti mole peccatorum, & suæ miseriæ conscii, &
+fiducialiter & cordis innixu recumbere in Christum, tanquàm in Salvatorem
+sufficientem & omnes credentes salvantem; quàm tenentur credere, Christum pro
+se mortuum esse. Quia soli onusti & laborantes, immediatè tenentur venire, i.
+e. credere. Matth. 11,28. Isa. 55.1.
+
+[1668 KBNL/UvA witness | logical printed p. 424 | PDF p. 475]
+
+2. Ad præsumptionem vanam alendam tenerentur, si securi & suæ miseriæ non
+conscii, tenerentur credere, Christum pro se mortuum esse.
+
+Quæritur, An rectè post Arminium Antiperk. dixerit Corvinus contra Molineum cap.
+29. §. 17. Non jure postulari à reprobis, ut credant in Christum mortuum,
+quandoquidem pro ipsis mortuus non sit: quia injustitia est homines condemnari,
+quia fide eam gratiam non amplectuntur, quæ ad ipsos minimè pertineat, neque
+eorum nomine impetrata sit? Nos negamus.
+
+1. Quia æquitas obligationis credendi, quâ reprobi tenentur credere in
+Christum, nititur authoritate & dominio Dei Legislatoris; non autem aliquo jure
+proprietatis, quo Christus ex æternâ electione iis destinatus sit salvator.
+Quia sic dicere potuit Arminius, non obligari reprobos ad credendam vitam
+æternam, remissionem peccatorum; quia Deus in decreto Electionis, vitam
+æternam, ad reprobos minimè pertinere voluit.
+
+2. Christum ad reprobos nullo modo pertinere, dici non potest. Nam 1. Jure
+oblationis Evangelicæ. 2. Jure sufficientiæ mortis Christi. 3. Jure communis
+naturæ assumptæ. 4. Jure communis primæ transgressionis expiatæ à Christo. 5.
+Jure Novi fœderis, ex gratiâ Christi, reprobis prædicati. 6. Jure mandati Dei
+jubentis, ut reprobi fide recipiant Christum, Christus ad ipsos pertinet.
+
+[1668 KBNL/UvA witness | logical printed p. 425 | PDF p. 476]
+
+3. Arminius argumento valido debuit hoc Mysterium Evangelii oppugnâsse (quod
+vermiculos pulvereos adorare & admirari, potiùs quàm scrutari, multò minus
+improbare, par esset) Reprobi tenentur credere in Christum, & fiducialiter in
+ipsum, ut sufficientem Salvatorem omnium credentium recumbere; attamen
+Christus, ex intentione & decreto Dei, eorum Salvator non est, nec destinatus
+iis, ut autor salutis & Mediator.
+
+Quæritur, An nemo potest recumbere fiducialiter in Christum, ut in sufficientem
+Salvatorem, nisi priùs sciat, sibi, ex certâ Dei intentione, datum esse Christum
+in Salvatorem? Ajunt Remonstrantes. Nos negamus.
+
+1. Quia crediturus in Christum non potest habere persuasionem de
+reconciliatione per Christum sibi pactâ, antequàm credat; quia per actum
+credendi ingeneratur talis persuasio.
+
+2. Quia de speciali gratuito Dei amore, in Decreto Electionis, nemo certus
+esse potest, donec in eo sit aliquid, quod specificè discriminet electum à
+non-electo; quia semper ei dubium est in eo casu, An Deus ipsum odio
+reprobationis, an amore gratuito Electionis prosequatur? At fides est primum
+illud, quod specificè discriminat electum à non-electo.
+
+3. Antequàm quis credat, estò quòd Christus pro ipso mortuus sit, eo sensu quo
+pro
+
+[1668 KBNL/UvA witness | logical printed p. 426 | PDF p. 477]
+
+omnibus eum obiisse volunt Arminiani, tàm habet cur timeat æternum interitum,
+quàm cur speret æternam salutem. Quia nondum credenti & fiducialiter in
+Christum recumbenti, nihil constat de efficaci aut inefficaci intentione Dei
+salvandi sese, aut non salvandi sese: Quia per solum actum fiducialem credendi,
+generatur persuasio de Dei efficaci intentione salvandi.
+
+CAPUT DECIMUM.
+
+DE
+
+FŒDERE GRATIÆ.
+
+HEB. 8:8.
+
+Nam incusans eos inquit, Ecce, dies venient, dicit Dominus, quum pangam cum
+domo Israelis & cum domo Juda pactum novum. v. 9. Non secundùm pactum, quod
+feci cum Patribus ipsorum, quo die prehendi manum ipsorum, ut educerem eos ex
+Ægypto: nam ipsi non perstiterunt in illo meo pacto: & ego despexi eos, dicit
+dominus v. 10. Quamobrem hoc est pactum, quod paciscar domui Israelis, post
+dies illos, dicit Dominus, indam leges meas menti eorum, & cordi eorum
+inscribam, & ero ipsis Deus, & ipsi erunt mihi populus.
+
+Habemus hisce versibus 1. Fundamentum fœderis Novi, nempè, quod nitatur Dei
+
+[1668 KBNL/UvA witness | logical printed p. 427 | PDF p. 478]
+
+beneplacito; quo innuit, cum dicit eos incusari peccatorum, cum quibus Deus
+hoc fœdus iniit.
+
+2. Habemus hic promissiones fœderis planè spirituales, nempe, quòd daturus sit
+novum cor, & Leges insculpturus menti eorum.
+
+3. Habemus partes contrahentes in hoc fœdere, nempè, Jehovam & familiam
+Israelis & Juda; non autem omnes & singulos mortales.
+
+4. Astruitur sic etiam perpetuitas & stabilitas Novi fœderis, nempè, quod sit
+æternum & isti priori fœderi, quod violârunt, longè dissimile.
+
+Hinc Quæritur 1. An Deus ex solo libero suo beneplacito, an verò ex ullâ
+necessitate, fœdus gratiæ inierit cum homine? Remonstrantes verbis quidem,
+liberè factum fœdus hoc fuisse docent; sed reipsâ negant.
+
+1. Docent homines omnes solutos & liberatos esse ab eâ obedientiâ, quam exigit
+fœdus Legale. Ita Corvin. contra Molin. cap. 8: §. 7. Ergò, vel hominem lapsum
+exlegem, & nulli Legi obnoxium esse oportuit; vel necesse fuit, ut Deus fœdus
+hoc gratiæ cum omnibus iniret. Atque hæc est prima necessitas.
+
+2. Quia docent neminem peccare posse, nisi adsit ei sufficiens gratia
+obediendi & vitandi peccatum. Undè, vel Deus obligatus fuit ad præstandam
+gratiam sufficientem juxta tenorem hujus fœderis; Vel, si tale fœdus nunquàm
+
+[1668 KBNL/UvA witness | logical printed p. 428 | PDF p. 479]
+
+fecisset, homines in perjurio, homicidio, odio Dei & proximi vixissent, & tamen
+innocentes & peccati expertes fuissent. Atque hæc secunda necessitas est.
+
+3. Docent, Deum justè homines condemnare non posse, propter Adami peccatum, &
+illud quod Originale Peccatum à Theologis dicitur, quod ipsorum judicio
+peccatum non est. Apolog. cap. 7. fol. 68. Corvin. contra Molin. cap. 9. §. 5.
+In Script. Synod. art. 4. pag. 145. Attamen docent omnes Adami posteros nasci
+filios iræ naturâ, reos condemnationis & mortis, tum temporariæ tum æternæ.
+Confess. cap. 7. thes. 3. Arminius, disp. pub. 7. thes. 16. Atqui injustum
+omninò fuit, homines propter nullum peccatum obnoxios esse condemnationi. Quia
+igitur actu mortem æternam infligere non potuit, ideò necessitatus fuit, ad
+fœdus gratiæ faciendum, & ad mittendum Filium suum in carne, nè cogeretur Legem
+operum, Adamo latam, injustissimè exequi in omnibus Adæ posteris. Atque hæc
+tertia necessitas est.
+
+At nos docemus, omnes homines æternæ morti subjectos esse, & Deum fœdus hoc,
+ex mera suâ gratiâ, & nullâ necessitate tali adactum, fecisse. Ezech. 16:8.
+Pertransiens te, cùm viderem te, ecce, tempus tuum tempus amorum. juransque
+tibi, conveni tecum in fœdus, dictum Jehovæ, ut nuberes mihi. Et cap. 36:32.
+Non propter vos facturus sum hoc, &c.
+
+[1668 KBNL/UvA witness | logical printed p. 429 | PDF p. 480]
+
+Hinc facilè satisfieri potest alteri Quæstioni, nempe, Utrum antecedens Dei
+amor, quo in salutem omnium ex naturali affectu propendebat, fuerit fundamentum
+ex quo factum est, ut Deus iniret fœdus cum omnibus mortalibus? Ajunt
+Remonstrantes. Nos negamus.
+
+1. Quia est in Deo affectus antecedens justitiæ, propendens in interitum
+peccatorum; ut fatetur Grevinchov. pag. 20. Ergò, est in Deo æquè fundamentum
+non faciendi fœdus hoc cum homine, atque faciendi fœdus. Quia amori qui in
+creaturas tendit (antecedenti) locus esse non potest, nisi quousque prior amor
+(erga justitiam) permittit. Arminius in declar. art. 19. pag. 12. Si dicant,
+Per mortem Christi, ita satisfactum esse divinæ justitiæ, ut possit ex
+antecedente amore salvare omnes & singulos, adeòque facere Fœdus hoc Gratiæ cum
+omnibus & singulis, ac proindè Deum jam post præstitam satisfactionem pro
+omnibus & singulis, non posse velle eorum interitum. Occurro, non esse
+præstitam talem satisfactionem actualem, nisi omnes & singuli actu in fide
+perseverarent, secundùm doctrinam Adversariorum; ac proindè Deum etiam adhuc
+propendere in interitum omnium & singulorum, nisi crediderint. Deindè, mors
+Christi, est pars fœderis novi, quâ amicis, in Testamento suo Christus
+remissionem & pacem legavit. Ideòque fœdus Gratiæ non est naturâ posterius
+morte
+
+[1668 KBNL/UvA witness | logical printed p. 430 | PDF p. 481]
+
+Christi; quinimò, quia Deus Fœdus Gratiæ cum electis iniit, ideò Christum pro
+iis in mortem dedit.
+
+2. Quia talis amor antecedens est merum somnium; ut alibi probatum est.
+
+Quæritur, An Patres sub Vet. Test. nullas alias promissiones habebant, quàm
+corporales, & eas quæ hujus tantùm vitæ sunt; An verò fide respiciebant in
+Christum, & promissiones de vitâ æternâ? Remonstrantes ajunt Veteris populi
+fidem in spiritualia minimè respexisse. Ita Armin. resp. ad art. 31. Episcop.
+disp. 5. de fœdere Vet. thes. 5.
+
+Nos contra. Judæos salvatos esse per eundem Messiam, & eâdem fide, quâ nos,
+justificatos fuisse, & in promissiones spirituales, de remissione peccatorum &
+vitâ æternâ, respexisse, credimus.
+
+1. Quia Gen. 3:14. Semen benedictum, Adamo est prædicatum. Et Gen. 22:18. In
+semine tuo benedicentur omnes nationes terræ. Isa. 7:14. Ecce, Virgo concipiet
+& pariet puerum, & vocabunt nomen ejus Immanuel: quod citatur à Matthæo cap. 1.
+v. 23. Isa. 9.6. Nobis (Judæis) natus est puer, nobis datus est Filius. Act.
+2.39. Vobis enim facta est promissio & liberis vestris, & omnibus longè post
+futuris, quoscunque advocaverit Dominus Deus noster. Act. 3:24. Sed omnes
+Prophetæ, à Samuele & iis qui, deinceps fuerunt, quotquot locuti sunt, etiam
+prænunciarunt dies istos. Act. 10. 4. Huic etiam omnes Prophetæ testimonium
+dant, remissionem peccatorum
+
+[1668 KBNL/UvA witness | logical printed p. 431 | PDF p. 482]
+
+accepturum per nomen ejus quemvis, qui crediderit in eum. Act. 15:11. Imò per
+gratiam Domini Jesu Christi, credimus nos servatum iri, quemadmodum & illos. 1
+Cor. 10:, 34. Nolim vos ignorare, omnes Patres eandem escam spiritualem edisse,
+& omnes eundem potum spiritualem bibisse. Bibebant enim ex sequente spirituali
+petrâ. Petra autem illa erat Christus.
+
+2. Quia non tantùm credebant & cognoscebant Salvatorem materialiter, (ut volunt
+Arminiani & Sociniani, qui dicunt eos credere in Christum, qui nihil de Christo
+audiverunt) sed etiam formaliter, & sub ratione Mediatoris. Joan. 8:56.
+Abrahamus Pater vester gestivit videre diem meum; & vidit & gavisus est. Et
+Esaias cap. 53. ipsam Historiam Evangelicam Passionis Christi propheticè
+attexuit, non minus quàm Evangelistæ.
+
+3. Quia extant promissiones luculentæ de gratiâ & vitâ æternâ iis conferendis,
+& promissiones merè spirituales. Gen. 17:7. Ero Deus tuus & seminis tui. Deut.
+30:6. Circumcidet Jehovah cor tuum & seminis tui, ad diligendum Jehovam Deum
+tuum ex toto corde tuo. Isa. 49:10. Non esurient neque sitient, neque feriet
+eos æstus aut sol (quod exponitur de gaudiis vitæ æternæ Apoc. 7:15, 19, 17.)
+vers. 15. An oblivisci potest mulier fœtus sui, ut non misereatur filii uteri
+sui? etiam hæ oblivisci possunt, at ego non obliviscar tui. v. 16. En
+
+[1668 KBNL/UvA witness | logical printed p. 432 | PDF p. 483 | ends before Quæritur, An factum sit Fœdus gratiæ]
+
+in manibus sculpsi te. Isa. 45:7. — 14. Et 59:21. Jer. 31:31. — 35. Jer.
+32.40. Ezech. 36.26. De fœdere gratiæ, de matrimonio æterno. Hos. 2:19. inter
+Christum & Ecclesiam, quod per totum Canticum Salomonis planum est.
+
+4. Quia fides & spes credentium sub V. T. innitebatur Deo cum certâ
+expectatione æternæ salutis. Sic Patriarcha Jacob moriens Gen. 49:18. In
+salutem tuam expecto Jehovam. Psal. 73:25. Quis est mihi in cœlis præter te? &
+præter te, nullo delector in terrâ. v. 26. Deficiente carne meâ & animo meo:
+rupes animi mei, & portio mea Deus est in sæculum. Et v. 24. Consilio tuo
+deduces me, & postmodùm in gloriam recipies me. Sic Job. 19:25, 26, 27. Jer.
+148. Jer. 17:7, 8. Psal. 17:15. Psal. 16:10, 11. & 52:1, 2. & 26:1, 2, 3. &
+39. 6, 7, 8. & infinitis aliis locis.

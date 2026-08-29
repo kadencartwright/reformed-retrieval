@@ -1,0 +1,330 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Undecimum, De Modo Conversionis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 477 at `Quæritur, An
+sufficiens gratia ordinariè detur omnibus Euangelii auditoribus?`, without
+repeating Part 31's closing argument. It treats sufficient grace for hearers
+of the Gospel, common grace accompanying the Gospel, the essence of
+conversion, the infusion and necessity of a supernatural habit, the principal
+work in conversion, coercion and liberty under irresistible grace, the inward
+calling of the elect, and what inward calling adds to outward calling. It ends
+within printed p. 488 after the fourth argument of that last question, before
+`Quæritur, Utrum à gratiâ, an à Libero Arbitrio pendeat efficacia gratiæ?`
+Printer line-end and page-end divisions have been joined; at every split-word
+page boundary the new-page marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. It specifies no correction for pp. 477–488.]
+
+[Printed-form note: The duplicated `Assert. 7.` after the sequence `Assertio
+1.` through `Assert. 5.` (with no printed Assertion 6), the nested `1.` within
+the third argument on p. 485, and the visibly irregular forms and citations
+`Matth. 23.23`, `Ioan. 5.45. & 7.28`, `Tit. 2.11`, `Utrùm sita sit`, `regenitus`,
+`Script. Synod. art. 4. pag. 154:155`, `Voluntans`, `art. 3,4. pag. 20`, `qui &
+quotquot`, and `adversaros` are retained rather than silently regularized.
+Greek is retained as printed and normalized to Unicode. The biblical
+quotations, scholastic distinctions between first and second act, the full
+question/response and assertion/argument structures, and all citations are
+preserved. Isolated edge marks, stains, and show-through in the controlling
+images are non-textual artifacts; no substantive marginal note or Hebrew
+passage occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 477 | PDF p. 528 | begins at Quæritur, An sufficiens gratia ordinariè detur omnibus Euangelii auditoribus?]
+
+Quæritur, An sufficiens gratia ordinariè detur
+
+[1668 KBNL/UvA witness | logical printed p. 478 | PDF p. 529]
+
+omnibus Euangelii auditoribus? Ajunt Remonstrantes. Nos sententiam nostram
+proponimus sequentibus assertionibus.
+
+Assertio 1. Literalis notitia & intelligentia Verbi, absque Spiritûs Sancti
+operatione, infidelibus & reprobis datur. Matth. 11.25, 26. Matth. 23.23.
+
+Assert. 2. Spiritus Sanctus per Verbum, reprobos de peccato convincit. Ioan.
+5.45. & 7.28.
+
+Assert. 3. Verbum est instrumentum Spiritui subordinatum, activum, suâque
+ἐνεργείᾳ pollet. 1. Quia Verbum est vivax & validum. 2 Cor. 10.4. Heb. 4.12. 2.
+Quia oratio Ciceronis est efficax & valida; Ergò, multò efficacius est
+Euangelium, gladius, brachium & potentia Dei.
+
+Assert. 4. Qualitas illa efficax & viva, quæ Verbum comitatur, non est
+habitualis Verbo inhærens qualitas; quia multi ad Verbum cæcutiunt &
+obstupescunt.
+
+Assert. 5. Vis illa quæ Verbum comitatur duplex est. Alia insita Verbo, quæ non
+operatur absque Spiritu. Alia adhærens Verbo, quæ est ἐνέργεια Spiritûs Sancti,
+quæ vel convincit vel convertit. Ideò Verbum est validum, sed per Deum, 2 Cor.
+10.4. Est gladius Dei, sed in ore Christi. Apoc. 19.15. Arcus, è quo sagittas
+emittit. Apoc. 6.2.
+
+Assert. 7. Vis Spiritûs Sancti terminatur in mentem, voluntatem, & affectus,
+eas animæ
+
+[1668 KBNL/UvA witness | logical printed p. 479 | PDF p. 530]
+
+potentias animans. At verò ipsum Verbum non animat, nec ulla gratia habitualis
+illud imbuit aut informat. Ideòque Spiritus Sanctus elevat Verbum ad actionem
+nobiliorem, quàm ad actum nudum suadendi. Idcircò Verbum est conversionis
+instrumentum præparatorium, respectu actûs suadendi; at consummatorium,
+respectu actûs physici & supernaturalis, ad quem eliciendum concurrit Spiritus
+Sanctus: quia Verbum, influentiam merè objectivam habet & moralem, & sensum
+Grammaticum & literalem imprimit Intellectui hominis vocati (non ullam aliam
+influentiam, vel Verbi, vel Spiritus Sancti, se agnoscere, profitentur
+Arminiani. Apol. cap. 1. fol. 11.) At verò Verbum est instrumentum elevatum à
+Spiritu Sancto, respectu internæ & supernaturalis revelationis; quia Spiritus
+sensum grammaticum ingerit Intellectui, evidentiâ planè cœlesti, divinâ &
+supernaturali. Hinc Theologi nostri, duplicem revelationem Verbi faciunt:
+aliam literalem, objectivam, moralem, externam, quæ reprobis non deest; aliam
+spiritualem, supernaturalem, realem & internam; & Verbum in utrâque
+revelatione est instrumentum Spiritui Sancto subordinatum, illic
+præparatorium, hic consummatorium. Hinc
+
+Assert. 7. Dicimus, sufficientem gratiam ordinariè non comitari Verbum
+prædicatum.
+
+1. Quia vocatio externa sæpè est absque interna, ut probatum est. 2. Quia
+
+[1668 KBNL/UvA witness | logical printed p. 480 | PDF p. 531]
+
+fatentur Adversarii, Arminius Antiperk. pag. 665. & Corvinus contra Molin. cap.
+36. sect. 4. quandò Verbum prædicatur insignitèr præfractis, tùm quiescere
+ἐνέργειαν Spiritûs, & sic Verbum esse nudam literam. Unde fatentur. 1. Deum
+duas contradictorias voluntates habere circa præfractos illos; quia illos
+invitat per Verbum prædicatum ad resipiscentiam, & interim non vult ut
+resipiscant, quia negat iis gratiam sufficientem. 2. Illusoria esse mandata
+præfractis proposita, non secùs ac si Deus saxa loqui, & pulveres ratiocinari
+juberet; quod sæpè nobis objiciunt, sed frustrà.
+
+3. Quia salvifica gratia est gemma pretiosa, tantùm paucis electis indulta.
+Matth. 13.11. Matth. 16.17. Psal. 25.9, 10. non autem omnibus, qui audiunt
+Euangelium.
+
+4. Quia promissio novi cordis non fit omnibus, sed tantùm filiis promissionis.
+
+Quæritur, An nulla omninò gratia, nè quidem communis comitetur Verbum
+Euangelii? Resp. Actu primo gratia convincens impoenitentes; comitatur Verbum
+Euangelii.
+
+1. Quia sicut lex est litera occidens, ita Euangelium est ministerium
+Spiritûs. 2 Cor. 3.6.
+
+2. Euangelium est Verbum salutiferum. Tit. 2.11. Sermo reconciliationis. 2
+Cor. 5.19.
+
+3. Quia si nulla gratia comitaretur Euangelium, non essent auditores
+Euangelii inexcusatiores
+
+[1668 KBNL/UvA witness | logical printed p. 481 | PDF p. 532]
+
+auditoribus Legis. At sunt inexcusatiores. Ioan. 15.22. Ioan. 3:17. Matth.
+11.21, 22. Matth. 10.15. Heb. 2.3. & 6.4, 5. & 10.29.
+
+At verò actu secundo, ex abusu Euangelii, Euangelium est præfractis, æquè ac
+Lex, litera mortua, liber obsignatus Isa. 29.11. Christus, lapis offensionis,
+& scandalum. Euangelium, odor mortis ad mortem. 2 Cor. 2.16.
+
+Quæritur, Utrùm sita sit essentia Conversionis, in solo actu libero assentiendi
+Verbo & credendi, an verò in infusione novi cordis? Arminiani ejus essentiam
+locant in solo libero credendi actu. Nos conversionem essentialitèr & actu
+primo statuimus, non in actu libero credendi, licèt Conversio activa & actus
+secundus Conversionis ad Deum, qui nobis ut officium imperetur, sit
+essentialiter in tali actu; sed in infusione novæ vitæ.
+
+1. Quia Conversio, quoad actum primum, est solius Dei opus, dantis novum cor,
+regenerantis, vivificantis, Spiritum sanctificantem infundentis. Nos hic planè
+παθητικῶς nos habemus, ut lutum in manu figuli.
+
+2. Quia nova creatio est essentialitèr novæ Dei vitæ infusio. At actus liber
+non est talis infusio.
+
+3. Quia, secundùm Arminianos, homini infundi potest novum cor, i.e. mens
+illuminari & affectus novâ potentiâ imbui, manente voluntate nondùm conversâ &
+renovatâ, eò quòd desit
+
+[1668 KBNL/UvA witness | logical printed p. 482 | PDF p. 533]
+
+unus actus liber assentiendi Deo vocanti. Undè homo habebit novum cor, & novum
+Spiritum infusum; attamen non erit nova creatura; quod absurdum.
+
+4. Quia renatus à non-renato, regenitus à mortuo in peccatis, differret per
+solum actum Liberi Arbitrii; nec esset homo dormiens verè renatus post unum
+actum liberum assentiendi Deo vocanti, quippe, in eo tùm cessat ille actus
+liber.
+
+5. Quia hæc opinio facit regenerationem, habitum multis actibus liberi
+Arbitrii acquisitum; uti habitus Logicæ, Grammaticæ, & Artium, & Scientiarum.
+Et gratia Regenerationis, sic erit nudum nomen.
+
+6. Quia amisso uno hoc actu assentiendi Deo & credendi, non videmus quomodò
+homo non excidat totalitèr gratiâ regenerationis.
+
+Quæritur, An homini in conversione, supernaturalitèr à Deo infundatur aliquis
+habitus supernaturalis; an verò, omnis habitus gratiosus in homine regenito,
+crebris actibus fidei acquiratur? Negant Arminiani infusionem habitus. Nos eam
+asserimus.
+
+1. Quia ità asserit Scriptura. Ezech. 36:26. Cor novum dabo vobis, & spiritum
+novum ponam in medio vestri. Isa. 44:3. Effundam aquam super sitientem, &
+fluenta super aridam; effundam spiritum meum super semen tuum. Zach. 12:10.
+Effundam
+
+[1668 KBNL/UvA witness | logical printed p. 483 | PDF p. 534]
+
+super domum Davidis, spiritum gratiæ & supplicationis. Ier. 31:33. Indam legem
+meam menti eorum, & cordi eorum inscribam eam. Et talem Spiritum, nec merito
+nec crebris actibus liberi arbitrii dari patet, ex Ezech. 36:32. Non propter
+vos, ego hoc facturus sum &c. Erubescite, & pudore afficiamini à viis vestris
+&c.
+
+2. Quia in hoc differt renatus ab irrenato, quod hic habitus supernaturalis
+sit in renatis; in aliis verò minimè. Gal. 2:20. Vivo autem; non amplius ego,
+sed Christus vivit in me; & quam nunc vivo vitam, vivo per Filium Dei, qui
+dilexit me. Eph. 4:23, 24. Ut renovemini spiritu mentis; ut induatis novum
+hominem, qui est secundùm Deum creatus in justitiâ & verâ sanctitate. Actus
+fidei qui cum tunicâ exui potest, non induitur hic. 1 Ioan. 3:9. Qui natus est
+ex Deo, non peccat; nam semen Dei manet in eo. Hæc nativitas est principium
+novæ vitæ Ioan. 1:13.
+
+3. Quia sancti sunt templum Dei, & spiritus habitat in iis. 1 Cor. 3:16. datur
+in iis à Christo, fons aquæ salientis in vitam æternam. Ioan. 4:14. At non sunt
+templum Dei per nudam potentiam credendi; quia potentia credendi nuda non
+denominat peccatorem, habitualitèr fidelem, etiam secundum Adversarios. Nec
+nudus actus, qui transit, & quem homo dormiens exuit, est fons aquæ salientis.
+Ergo, habitus est. At non est habitus nostro labore & studio acquisitus, quia
+
+[1668 KBNL/UvA witness | logical printed p. 484 | PDF p. 535 | split word joined: vocamur]
+
+vocamur gratis, non ex operibus. 2 Timoth. 1:9.
+
+3. Licèt infusio activa vitæ Dei, non sit obedientia, quam Deus à nobis
+flagitat, ut ajunt Arminiani in Script. Synod. art. 4. pag. 154:155. Attamen
+infusio passiva nobis mandatur, & ad novam vitam habendam obligamur, tùm ex
+summâ Legis Matth. 22:37. tùm expressis Dei mandatis. Ezech. 18:31. Eph. 4:24.
+Col. 3:10.
+
+Quæritur, An rectè doceant Remonstrantes, Script. Synod. art. 4. p. 154:155.
+quia habitus non requiritur ad operandum simpliciter, sed tantùm ad melius
+operandum; ideò non requiri infusum habitum, sed sufficere solam gratiam
+sufficientem & concomitantem, absque tali habitu? Nos negamus.
+
+1. Quia habitum aliquem gratiosum, vel potentiam supernaturalem requiri tantùm
+ad faciliùs credendum, & non simplicitèr credendum, est gratia Pelagianorum;
+quia illi dixerunt, gratiam non esse simplicitèr necessariam, sed tantùm ad
+faciliùs credendum; uti navigamus remis, & faciliùs vento: Undè sic, pura
+natura, absque gratiâ, ad actus supernaturales sufficiet.
+
+2. Si eorum habitus crebris actibus acquisitus, est principium formale actuum
+supernaturalium; cur non & habitus infusus potiore jure debet esse tale
+principium? & si acquisitus habitus est tale principium, tota laus, tùm
+conversionis tùm salutis, humanæ industriæ, non gratiæ cœlitùs datæ, debebitur.
+Si verò talis
+
+[1668 KBNL/UvA witness | logical printed p. 485 | PDF p. 536 | split word joined: acquisitus]
+
+acquisitus habitus non est principium formale, Ergo, is habitus, non entitatem,
+sed facilitatem, ad substantiam actus confert.
+
+3. Si non infunditur habitus vitæ Dei nobis, undè manent actus secundi fidei;
+tùm fides, Dei donum non est. 1. Quia non infunditur habitus fidei, nec
+infunditur potentia credendi, quæ hominem fidelem denominat: quia potentia
+credendi, secundùm illos, consistit cum infidelitate finali; & negant ipsum τὸ
+credere infundi, quia sic everteretur Liberum Arbitrium.
+
+Quæritur, An si sola potentia credendi esset à Deo, & actus liber ab homine;
+tamen præcipuum opus conversionis esset à Deo? eò quòd collatio potentiæ
+edendi & bibendi, sit actus nobilior, quàm edere & bibere? Ajunt
+Remonstrantes. Coll. Hag. pag. 335. Nos negamus.
+
+1. Quia collatio potentiæ credendi, secundùm Adversarios, non est collatio novæ
+vitæ Dei, sicut collatio potentiæ edendi & bibendi est collatio vitæ naturalis;
+Nam actu credere, illis est Conversio; & per nudum actum, conversus à
+non-converso differt.
+
+2. Quia potentiæ credendi collatio, non est conversio; nec actus aliquis
+formalis conversionis. Nam confertur talis potentia multis, qui nunquàm
+credunt. At credere, secundùm illos, est Conversio. Ideòque præcipuum opus
+conversionis, Libero Arbitrio datur, Deo adimitur.
+
+[1668 KBNL/UvA witness | logical printed p. 486 | PDF p. 537]
+
+Quæritur, An quia Deus irresistibili vi nos convertat, ideò voluntas sit
+coacta, quia hic sunt (ut ajunt Remonstrantes art. 3,4. pag. 20.) 1. Agens
+externum, irresistibili potentiâ armatum. 2. Voluntans obluctans & renitens. 3.
+Minor resistentia victa à majore? Nos negamus.
+
+1. Quia Voluntas ab externo agente fit ex nolente & invitâ, volens, per
+amotionem cordis saxei, & infusionem cordis novi. Ezech. 36.26.
+
+2. Quia Voluntas volens invita, & contra suam inclinationem agens, est
+voluntas coacta. At nulla est talis Voluntas hic.
+
+Quæritur, An quia Deus indeclinabiliter Voluntatem ad unum determinet, ideò
+Libertatem evertat? Ajunt Remonstrantes. Nos negamus.
+
+1. Quia Deus infinitè sapiens & omnipotens, non evertit naturam causarum
+secundarum, nisi in casu miraculosæ transmutationis substantiarum; ut cùm aquam
+in vinum convertit & baculum Mosis in serpentem. At conversio non est
+miraculosa ejusmodi transmutatio substantiarum; Sed qualitatum ejusdem,
+substantiæ in naturâ suâ permanentis.
+
+2. Quia Deus ità movet liberam voluntatem, ut ipsa sese ad illud idem moveat
+liberrimè, ad quod à Deo præmovetur.
+
+3. Quia si motiva quædam infallibilizantia creata, infallibilitèr flectant
+voluntatem, illibatâ manente Libertate, multò magis ipse
+
+[1668 KBNL/UvA witness | logical printed p. 487 | PDF p. 538 | split word joined: voluntatum]
+
+voluntatum Creator hoc præstare potest.
+
+Quæritur, An soli electi sunt internè vocati? Docent Remonstrantes, art. 3,4.
+pag. 32. omnes in visibili Ecclesiâ, tùm electos, tùm reprobos, internè vocari.
+Nos solos electos internè vocari docemus.
+
+1. Quia Rom. 8:30. Quos præscivit, eos prædestinavit; quos prædestinavit, eos
+vocavit; quos vocavit, justificavit; quos justificavit, eos glorificavit. Ergo
+soli electi & qui justificantur & glorificantur, sunt internè vocati: nam
+externè vocantur etiam reprobi, qui non justificantur & glorificantur.
+
+2. Quia vocati opponuntur 1 Cor. 1.24. iis, quibus Christus & Euangelium,
+scandalo & stultitiæ sunt; ac proindè qui pereunt.
+
+3. Quia quibus solis Deus efficaciter intendit gloriam, iis solis Deus dat
+media efficacia ad gloriam; inter quæ est interna vocatio.
+
+4. Quia soli ii qui & quotquot ad æternam vitam ordinati, vocati sunt, credunt
+ac divinæ vocationi parent. Act. 13.48.
+
+5. Quia interna vocatio fluit ex hoc solo fonte, quod Deus talitèr vocatos ad
+æternam gloriam elegit. Eph. 1.4, 5, 6,
+
+Quæritur, An interna vocatio nihil superaddat externæ vocationi, præter solam
+Dei volitionem & desiderium, quo omnes converti & salvari vult? Ajunt
+Remonstrantes, art. 2. & 3. pag. 10. Nos negamus.
+
+1. Quia superaddit internam gratiam, quæ ex æternâ Dei electione infallibiliter
+efficax est.
+
+[1668 KBNL/UvA witness | logical printed p. 488 | PDF p. 539]
+
+Rom. 8.28. qui etiam dicuntur vocati secundùm propositum ipsius.
+
+2. Quia infallibilis effectus vocationis internæ, est creatio novi cordis &
+novi spiritûs, quo fit ut ambulemus in præceptis Dei. Ezech. 36.26, 27. At
+vocationis externæ nullus est talis effectus.
+
+3. Quia eodem planè modo vocarentur reprobi obdurati & contumaces, quo electi
+certò convertendi. Nam utrisque affulget vocatio externa secundùm Scripturas;
+& Deus utrosque vult salvari, si credendum Adversariis.
+
+4. Quia vocatio externa est mera suasio, & voluntas salvandi vocatos nihil,
+juxta adversaros, reale ponit in vocatis; undè sequitur gratiam conversionis
+internam eorum, esse merum Pelagianismum.

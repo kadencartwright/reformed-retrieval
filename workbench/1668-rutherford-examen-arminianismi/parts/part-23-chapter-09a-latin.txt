@@ -1,0 +1,407 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Nonum, De Universali Redemptione — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 372 at `CAPUT NONUM, De
+Universali Redemptione`, without repeating the end of Chapter VIII from Part
+22. Chapter IX is not reasonably bounded within one working unit; this part
+therefore carries its opening question, whether Christ died for all and each,
+through the complete fifteen-argument answer ending on printed p. 387. The new
+lemma `EPH. 1.7.` and its following question later on that page are excluded.
+Printer line-end and page-end divisions have been joined; at the split-word
+boundaries on pp. 373–374, 374–375, and 376–377, the new-page marker precedes
+the complete joined word. The abbreviation `i. e.` is not a divided word and
+remains on the two pages where its components are printed.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. It supplies no correction for pp. 372–387.]
+
+[Printed-form note: Citations and argument numbers are retained as printed,
+including the difficult `1 JOH. 10:11`, `Eph. 25.25`, `Gal. 1.14`, the
+incomplete `Rom. 9`, and other irregular references. The Greek `λύτρον`, the
+difficult printed `ἀχυρολογίαν`, and `τὸ` is retained and translated or
+explained in the English. No Hebrew or substantive marginal note occurs in
+this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 372 | PDF p. 423 | begins at CAPUT NONUM]
+
+CAPUT NONUM,
+
+De Universali Redemptione.
+
+1 JOH. 10:11.
+
+Ego sum Pastor ille bonus. Pastor bonus animam suam deponit pro ovibus.
+
+Ex hisce verbis Nostri concludunt, λύτρον seu redemptionis pretium tantum pro
+ovibus, seu prædestinatis & electis ad vitam Dei filiis, qui actu salvantur,
+esse persolutum; adeoque Christum animam suam non deposuisse eâ intentione, ut
+omnes & singuli vel fierent salvabiles vel actu salvarentur. Hinc celebris
+controversia, quâ.
+
+Quæritur, An Christus pro omnibus & singulis
+
+[1668 KBNL/UvA witness | logical printed p. 373 | PDF p. 424]
+
+mortuus sit? In statu quæstionis formando, Arminiani varii sunt, nec sibi
+constant.
+
+1. Arminius Antiperk. pag. 673. Illa (effectio immediata mortis Christi) est
+non actualis ab his vel illis ablatio peccatorum, non actualis peccatorum
+remissio, non justificatio, non actualis horum & illorum redemptio, quæ absque
+fide & Spiritu Christi nemini contingunt; sed reconciliatio Dei, remissionis,
+justificationis & redemptionis apud Deum impetratio; quâ factum est, ut Deus
+jam possit, utpotè justitiâ, cui satisfactum est, non obstante, hominibus
+peccatoribus peccata remittere, & spiritum gratiæ largiri: ad quæ effecta cum
+peccatoribus communicanda, propendebat quidem jam antè ex misericordiâ.
+
+Hinc per mortem Christi satisfactum est justitiæ Dei pro peccatis omnium
+mortalium, Ergo (ni fallor) deponitur ira Dei erga peccatores: Deus enim ex
+justitiâ irasci non potest iis, pro quorum peccatis justitiæ Dei cumulatissimè
+satisfactum est. At Remonstrantes in Script. Synod. art. 2. pag. 343.
+contrarium asserunt. Etsi enim (inquiunt) Deus hactenus se propitium omnibus
+exhibeat in Christo, ut velit iram suam adversus ipsos deponere, si credant
+Evangelio; actu tamen ipso, eam non deponit, nisi erga jam credentes.
+
+Hinc sequitur 1. Deum irasci sibi reconciliatis in Christo. 2. Deum plerisque
+irasci, qui non obligantur credere Evangelio, utpotè
+
+[1668 KBNL/UvA witness | logical printed p. 374 | PDF p. 425]
+
+nunquàm revelato. 3. Deum iis irasci, pro quorum peccatis, Justitiæ satisfactum
+est. 4. Actum contingentem & liberum credendi tollere Dei iram, Deumque ex
+irato in placatum commutare. 5. Mortem Christi solam, non esse id, quod
+placatum reddit Deum; sed etiam actum liberi Arbitrii.
+
+2. Morte Christi impetrata est reconciliatio & remissio pro omnibus, idque
+absolutè, sive credant, sive non credant: At actualis reconciliatio & remissio
+nemini applicatur, nisi sub conditione fidei. Coll. Hag.
+
+At impetrata illa remissio est tantum potentialis remissio, quæ consistit cum
+reatu & irâ Dei manente super eos, quibus est impetrata.
+
+Hinc morte Christi, Deus Pater factus est tantùm placabilis, non placatus;
+justitiæ per eam satisfieri potuit, non actu satisfactum: Christusque mortem,
+maledictionem, probra passus est, pro acquisitione solius possibilitatis
+faciendi fœdus novum vel operum vel gratiæ, vel quodvis aliud, quod si impleant
+homines, salventur. Dici non potest Christum pœnas Judæ & Pharaoni debitas
+luisse.
+
+Hinc Christus 1. Pro iis mortuus est, pro quorum peccatis pœnas non luit. 2.
+Mors Christi non est peccatorum expiatoria, sed justitiæ, nescio cujus, tantùm
+reconciliatoria, vel ablatoria pœnæ 3. Nihil aliud requiritur ad actualem
+
+[1668 KBNL/UvA witness | logical printed p. 375 | PDF p. 426]
+
+remissionem omnium & singulorum peccatorum, præter nudum actum liberum
+credendi.
+
+3. Dicunt (Script. Synod. art. 2. pag. 283.) effectum impetrationis hujus non
+esse nudam tantum salvandi potentiam, sed etiam salvandi plenariam voluntatem.
+
+Sed plenaria hæc voluntas, est tantum placabilitas, quâ Deus potest deponere
+iram, ex conditione fidei: At erga neminem nisi actu credentem, actu deponit
+iram.
+
+4. Hactenus volunt omnes per mortem Christi à Deo in gratiam assumptos, ut
+propter solum Adami peccatum, neminem æternis cruciatibus punire vellet.
+Script. Synod. art. 2. pag. 285. Constare volunt finem, fructus, & utilitatem
+mortis Christi: 1. Etsi omnes damnati forent, & quamvis nemini mortalium mors
+Christi applicaretur. 2. Etsi Deus mortem Christi nulli mortalium intenderet
+applicare. Ita Grevinch. contra Ames. pag. 46. 47.
+
+Mihi itaque videtur per mortem Christi redimi potius justitiam Dei, quâ posset
+homines salvare, quàm homines peccatores; & Christum mortuum esse pro Deo, non
+pro miseris peccatoribus. Id quod docent & Jesuitæ. Bellarm. tom. 4. de gratia
+Dei & Libero Arbitrio. l. 2. c. 5. Greg. de Valentiâ, tomo. 2. disp. 8. q. 3.
+de divisione gratiæ. puncto 4. Hoc enim est prorsus Christum se dedisse pro
+omnibus, & mortuum esse pro omnibus, i.
+
+[1668 KBNL/UvA witness | logical printed p. 376 | PDF p. 427]
+
+e. suis meritis comparavisse ex justitiâ æterno Patri omnia subsidia, quibus
+homines opus habent ex parte Dei, ut in gratiam ipsius redeant & salutem
+consequantur.
+
+5. Christum mortuum esse volunt pro omnibus & singulis hominibus; attamen non
+mortuus est pro mundo contumaci, pro infidelibus & impænitentibus, quâ talibus.
+Quia inquiunt Script. Synod. art. 2. pag. 286: 287 Gratia (remissionis)
+impetrata est peccatoribus, quatenus in communi lapsus & peccati statu,
+aliisque peccatis, exceptâ solâ impænitentiâ, considerantur, & quidem eâ lege,
+ut fructus ejus gratiæ ad eos solos rediret, qui in redemptorem credituri
+essent; ad eos verò qui credere nollent, neutiquam pertineret. ---- Infidelibus
+& rebellibus, quâ talibus, gratia impetrata non est.
+
+Hinc 1. Christus mortuus est pro omnibus hominibus, at non pro impœnitentibus
+quà talibus. At impœnitentes sunt homines. Ergo, non pro omnibus simpliciter
+mortuus est.
+
+2. Si pro rebellibus, quà talibus, non est gratia reconciliationis impetrata;
+Ergo, non est absolutè impetrata gratia omnibus, sed conditionatè, si non sint
+rebelles. Ergo, nec Christus absolutè obiit pro omnibus, sed conditionatè, si
+non sint rebelles: ac proinde pro solis non-rebellibus, i. e. pro solis
+credentibus obiit.
+
+3. Infidelitas finalis & impœnitentia, nè quidem morte Christi est expiata; &
+sic est
+
+[1668 KBNL/UvA witness | logical printed p. 377 | PDF p. 428]
+
+simpliciter irremissibile peccatum, pro quo Christus pœnas debitas justitiæ non
+luit.
+
+4. Nulla fuit in Christo intentio moriendi pro rebellibus, quà talibus, nec
+impetrandi morte suâ pro iis gratiam reconciliationis & remissionis: Attamen
+Christus per prædicatores, reconciliationem & remissionem offert rebellibus,
+quà talibus. Isa. 6:9. & 65. 2 Matth. 13. 13:14, 15. Matth. 23.37, 38. Joan.
+9:39. Id est, Christus, malo dolo, (absint blasphemiæ) corde duplici, offert
+rebellibus reconciliationem & remissionem, modò crediderint, eo animo (ut ipse
+dicit in Verbo suo) ut salvarentur; quæ tamen remissio, iis non magis quàm
+Diabolis parta est morte Christi.
+
+5. Quia mors Christi ordine antecedit fidem & infidelitatem, malè inferunt
+Christum non esse mortuum pro fidelibus aut pro infidelibus, quà talibus; nam
+Christus pro infidelibus quà talibus est mortuus; quia pro nobis, cum adhuc
+peccatores & inimici essemus, obiit. Rom. 5:6. pro peccatoribus, pro injustis.
+Ergo, expiavit in ligno crucis, quicquid in nobis erat inimicitiarum &
+impietatis, adeòque infidelitatis erga Deum. Et mortuus est etiam pro
+credentibus, pro amicis, fratribus, ovibus, quà talibus: hoc est, ut nos tales
+efficeret suæ mortis merito & efficaciâ.
+
+6. Frustranea & stulta est ea quæstio, An Christus mortuus sit pro solis
+electis credentibus &
+
+[1668 KBNL/UvA witness | logical printed p. 378 | PDF p. 429]
+
+fratribus, quoad applicationem & fructum mortis suæ? Quia hoc est quærere, an
+Christus, eâ intentione, pro electis & credentibus ità mortuus sit, ut soli
+credentes ex Liberi Arbitrii viribus adjuti gratiâ eam applicaturi sint? Quia
+Christum mori pro hominibus, non includit actum credendi in Christum mortuum,
+formaliter, sed tantùm consequenter & effectivè; quia sic possent homines
+reprehendi, quod Christus pro iis mortuus non sit: item extaret in Evangelio
+talis promissio (crede, ut sic efficias, ut Christus pro te mortuus sit) item
+talis comminatio, Si non credideris, efficies ut Christus pro te sanguinem suum
+minimè effuderit.
+
+7. Ridicula est hæc quæstio, An Christus mortuus sit pro omnibus & singulis
+mortalibus, Pharaone & Saulo, & aliis æternis gehennæ cruciatibus addictis,
+quoad impetratam reconciliationem, cujus ipsi nunquàm magis participes futuri
+sunt, quàm Diaboli.
+
+8. Non quæritur de intrinsecâ mortis Christi sufficientiâ, nempe, an Christus
+pro omnibus & singulis mortuus sit sufficienter. Nam David Pareus eam loquendi
+formulam retractavit; eam ἀχυρολογίαν esse notat Beza: quia Christum mori pro
+hominibus, est, Christum eo consilio & intentione, pro hominibus vitam ponere,
+ut eos actu Deo reconciliatos, Justitiâ, Remissione peccatorum, & Vitâ Æternâ
+donaret. At verò
+
+[1668 KBNL/UvA witness | logical printed p. 379 | PDF p. 430]
+
+mors Christi est in se sufficiens antecedenter ad omne Dei decretum &
+consilium; & dici potest, mortem Christi esse omnibus mortalibus salvandis
+sufficientem, non verò Christum mortuum esse eo fine, ut omnes sufficientèr
+salvaret.
+
+9. An vita, morte Christi parta, omnibus in visibili Ecclesiâ offeratur, sub
+conditione fidei, non quæritur: id enim nos docemus.
+
+Oblatio Christi duplex est. Alia approbativa & simplicis complacentiæ. Matt.
+23.37. Quoties volui congregare &c. Prov. 1. 24. Vocavi & renuistis &c.
+
+Probatur ratione 1. Vocatio externa reprobis fieri nequit, sine oblatione
+aliquâ, quâ Deo vocanti complacitum est complacentiâ simplici, τὸ credere in
+reprobis. Invitatio ad cœnam id probat. Matth. 22. 2. Non peccant in
+promissiones, quibus non facta est oblatio. 3. Non conculcant sanguinem
+Christi, quibus non facta est oblatio: juxta illud; Curavimus Babylonem.
+
+Alia est oblatio intentionalis & decretiva, quæ nomine dationis venit: & hæc
+est oblatio unà cum collatione.
+
+10. Nec denique quæritur, An in Deo sit velleitas & generalis intentio salvandi
+omnes & singulos? Nos negamus talem velleitatem. Adversarii verò per mortem
+Christi docent mutatam esse Dei naturalem velleitatem salvandi omnes, in
+plenarium propositum salvandi omnes
+
+[1668 KBNL/UvA witness | logical printed p. 380 | PDF p. 431]
+
+& singulos, per mortem Christi, modò in Christum crederent. Sed neque potest
+ullus affectus aut voluntas in Deo mutari; neque hoc plenarium propositum
+salvandi omnes, modò crederent, aliud est, quam decretum salvandi omnes
+credentes; quia decretum conditionatum nihil ponit in re, nisi ponatur
+conditio. Et mirum est, nè quidem in Deo fuisse intentionem conditionatam
+salvandi omnes & singulos, modo crederent in Christum mortuum, nisi Christus
+mortem obiisset pro omnibus & singulis: quia cùm voluntas conditionata nihil
+ponat, nisi ponatur conditio; quomodò in Deo non potuit esse talis conditionata
+voluntas, nisi Christus mortuus esset? Est enim, positâ morte Christi, in Deo
+voluntas conditionata salvandi & justificandi omnes mortales, modò Legem
+implerent perfectissimè.
+
+Quæstio itaque est, An Christus, ex æterno Patris & suo consilio & decreto,
+λύτρον in ligno crucis expenderit, omnium mortalium nomine, eo fine, ut omnes
+in ipsum crederent & salvarentur? An verò solorum electorum nomine & vice,
+λύτρον & pretium hoc Deo Patri expenderit? Ajunt Remonstrantes, omnium
+mortalium nomine expensum fuisse. Nos negamus.
+
+1. Quia pro quibus Christus mortuus est; eorum personam in ligno crucis
+sustinuit: At solorum electorum, non verò reproborum personam in ligno crucis
+sustinuit. Ergo, pro solis electis
+
+[1668 KBNL/UvA witness | logical printed p. 381 | PDF p. 432]
+
+mortuus est. Major est Scripturæ: nam mori pro alio est ejus vice, personâ &
+loco mori, ità ut is, pro quo aliquis mortuus est, vivat: Sic David pro
+Absolomo mori optavit: sic Moses, deleri è libro vitæ pro populo Dei; Paulus,
+anathema fieri à Christo pro Judæis optavit, ut Judæi æternam vitam
+consequerentur. Adde, quod Christum mori pro peccatoribus est Christum in se
+perpeti pœnas tùm temporarias, tùm æternas, peccatoribus debitas. Minor patet:
+quia Christus mortuus est pro ovibus suis. Joan. 10.11. pro nobis Rom. 5.8. pro
+injustis, 1 Pet. 3.18. pro amicis suis. Joan. 15.13. pro Ecclesiâ suâ Eph.
+25.25.
+
+2. Quia Christus pro iis solis mortuus est, pro quibus resurrexit è mortuis, &
+intercedit ad dexteram Dei Patris in cælis. At Christus pro solis electis
+resurrexit & intercedit ad dexteram Dei Patris, ut fatentur Adversarii. Ergo,
+mortuus est pro solis electis. Major patet 1. Quia Christus non simpliciter
+obiit pro peccatoribus, sed talem mortem, quam moriendo devicit, & ex quâ
+eluctatus est resurgendo. Hæc autem mors est, quæ in eos pro quibus obiit,
+nunquàm dominabitur, 1 Cor. 15.54, 55. 2. Quia Paulus hæc duo conjungit. Rom.
+4.25. Obiit pro peccatis nostris, & suscitatus est ad nostri justificationem.
+Undè sequitur, pro quorum peccatis Christus obiit, ad eorum Justificationem eum
+resuscitatum fuisse. 3. Quia speciales fructus mortis Christi, sunt ejus
+
+[1668 KBNL/UvA witness | logical printed p. 382 | PDF p. 433]
+
+resurrectio & intercessio, ut nos ejus resurrectionis & novitatis vitæ
+participes fieremus, & quæreremus ea, quæ sunt sursùm ad dexteram Dei Patris.
+Rom. 6.4. Col. 3.1.2. Eph. 2.5. 4. Nec Christus pro nobis perfectus sacerdos
+fuisset, nisi non tantùm corpus suum in ligno crucis pro nobis obtulisset, sed
+etiam in Sanctum Sanctorum virtute sanguinis sui ingressus fuisset. Heb. 9.23,
+24, 25. 5. Quia pro quibus Christus ut Sacerdos obtulit se Deo Patri, pro iis
+ut Sacerdos intercedit & orat. Atqui orat pro solis electis non pro mundo.
+Joan. 17.9. Ergo. Ratio majoris, quia hæc duo præstabat typicus Sacerdos pro
+populo. Lev. 6. Et hisce duobus nostrum verùm summum Pontificem plenissimè
+perfunctum fuisse testatur Apostolus ad Heb. 5.1, 2, 3. & 8.3, 4. & 9.7.
+oportuit sacerdotem nostrum, non tantùm sanguinem suum pro nobis obtulisse, sed
+etiam virtute illius sanguinis, ut nostrum Advocatum, pro nobis comparere in
+cælis Heb. 10.12, 20. & per sanguinem suum & carnis velum, tanquàm per novam &
+vivam viam cælos aperire, & aditum ad Patrem facere.
+
+3. Quia pro quibus Christus mortuus est, eos amore complexus est summo, &
+charitate majore quam habet ullus mortalium. Joan. 15.13. 1 Joan. 3.16. Joan.
+3.16. Eph. 3.14, 20. 1 Joan. 4.10. Rom. 5.10. Atqui Christus omnes & singulos
+mortales tali amore non complectitur.
+
+[1668 KBNL/UvA witness | logical printed p. 383 | PDF p. 434]
+
+4. Quia ii pro quibus Christus mortuus est, sunt reconciliati Deo, Rom. 5.10,
+11. Habent in illo redemptionem, etiam remissionem peccatorum in sanguine
+ipsius. Eph. 1.1.7. Col. 1.13. Redempti sunt à vanâ suâ conversatione, 1 Pet.
+1.18, 19. Castigatio pacis eorum super Christum Isa. 53.5. Ad peccatum eorum
+tollendum, per immolationem sui ipsius manifestatus est Heb. 9.26. Liberati
+sunt à morte futurâ, Rom. 5.9. Facti sunt justitia Dei in Christo, 2 Cor. 5.21.
+Redempti sunt ab execratione Legis, Gal. 3.13, 14. Atqui nihil horum dici potest
+de omnibus mortalibus, quorum plerique sunt sub Lege, sub maledictione, sub irâ
+Dei, in suis peccatis, à morte non liberati, iræ filii, perditi, &c.
+
+5. Quia pro quibus Christus mortuus est, pro iis Christus merito mortis suæ,
+gratiam regenerationis & efficacis vocationis acquisivit. 1. Quia est salvator
+& merito & efficaciâ. 2. Quia in novo fœdere redemptis promittitur novum cor &
+novus Spiritus, Jer. 31.33, 34. Act. 5.31. Rom. 6.4. Heb. 2.14, 15. 3. Quia
+datur gratia Regenerationis in Christo h. e. propter Christum, tanquàm causam
+meritoriam. Eph. 2.4, 5. 2 Tim. 1.9. Tit. 3.5, 6. Atqui Christus gratiam
+regenerationis omnibus mortalibus & reprobis non promeritus est morte suâ, ut
+fatentur Adversarii.
+
+6. Quia juxta Adversarios, constare potest finis, fructus & utilitas mortis
+Christi, etsi nemo mortalium credidisset, & salvatus fuisset. Ergo,
+
+[1668 KBNL/UvA witness | logical printed p. 384 | PDF p. 435]
+
+Christus pro nullis mortuus est, nisi quatenùs credunt; nec potest impetrari
+remissio & vita æterna omnibus, nisi quatenùs credunt aut credituri sunt: Ac
+proindè Christus nihil impetravit nunquàm credentibus.
+
+7. Quia pro quibus Christus obiit, pro iis Diabolus & mors & peccata devicta
+sunt. Col. 2.15. Heb. 2.14. Cor. 15.56, 57, 58. Atqui Diabolus peccatum, & mors
+triumphant in reprobos, qui peccati servi sunt, & in quibus mors & Diabolus
+regnat. Rom. 6.16. Eph. 2.2. 2 Tim. 2.26. 1 Joan. 3.10.
+
+8. Quia pro quibus Christus obiit, iis Deus intendit sanctificationem &
+liberationem ab hoc præsenti malo sæculo. Gal. 1.14. Redemptionem à vanâ suâ
+conversatione, 1 Pet. 1.18. Mortuus est pro iis hoc fine ut mortui peccato,
+viverent Justitiâ, 1 Pet. 2.24. Ut eos redimeret ab omni iniquitate, &
+purificaret sibi populum bonorum operum studiosum Tit. 2.14. Ut Ecclesiam
+sisteret sibi gloriosam, non habentem maculam aut rugam aut tale quid, sed ut
+esset sancta coram eo & inculpata. Eph. 5.25, 26, 27. Atqui Deus in plerisque
+mortalibus nihil tale intendit. 1. Quia multi sunt ex mero Dei beneplacito
+reprobati. Rom. 9. 2. Quia Deus fine intento non excidit. 3. Quia Deus
+plerisque gratiam Evangelii ejusque præconium negat, sine quibus impossibilis
+est talis sanctificatio intenta. 4. Quia inter eos, qui Evangelium audiunt,
+
+[1668 KBNL/UvA witness | logical printed p. 385 | PDF p. 436]
+
+multis negat gratiam internam, electorum specialem. Deut. 29.4. Isa. 6.9. Rom.
+9.15, 16, 17, 18. Rom. 11.4, 5, 6, 7.
+
+9. Quia si Christus pro omnibus & singulis mortuus esset; vanæ essent
+argumentationes Scripturarum consolationum plenæ, à morte Christi petitæ. Rom.
+8.34. Christus mortuus est, Ergo, nemo potest eos, pro quibus mortuus est,
+condemnare. 2 Cor. 5.15. 1 Tim. 1.15. Christus venit ut salvaret peccatores,
+Ergo, v. 17. Regi immortali, æterno, invisibili, sit gloria. Item, Heb. 10.19,
+20, 21. Habemus pontificem, qui sanguine suo cælos aperuit, Ergo, cum
+plerophoriâ appropinquemus. At tales consolationes reproborum & credentium
+paritèr essent communes; quod absurdum.
+
+10. Quia si Christus pro omnibus & singulis obiit; tum Evangelium de partâ
+omnibus & singulis salute, revelaretur; quia intentio salvandi omnes per
+Christi mortem, consistere non potest cum negatione Evangelii plerisque
+nationibus.
+
+11. Quia ii, pro quibus Christus est mortuus, sunt dati à Patre Christo, sui
+ipsorum non sunt, sed empti pretio 1 Cor. 6.19, 20. Sed omnes non sunt dati
+Christo à Patre, quia dati ei perire non possunt. Joan. 6.37, 38. Non omnes
+sunt hæredes, Rom. 8.14. Joan. 1.12. Non omnes sunt Christi, Joan. 8.44.
+
+12. Quia pro quibus Christus mortuus est, pro eorum peccatis in ligno crucis
+debitas pœnas
+
+[1668 KBNL/UvA witness | logical printed p. 386 | PDF p. 437]
+
+Justitiæ divinæ exsolvit, Deoque satisfecit: Sed non pro peccatis omnium &
+singulorum, non pro finali impœnitentiâ & infidelitate rejicientium Christum,
+non pro peccatis multorum qui nec fando quicquam de Christo audiverunt,
+satisfecit. 1. Quia pro infidelibus, quâ talibus, non obiit; uti fatentur
+Adversarii. 2. Quia reprobi peccatorum suorum pœnas in gehennâ in æternùm
+luunt. At Justitia Dei binas satisfactiones pro iisdem peccatis non postulat.
+
+13. Quia sanguis Christi, qui per Spiritum æternum, seipsum inculpatum obtulit
+Deo Patri, emundat conscientiam eorum, pro quibus offertur, ab operibus
+mortuis ad colendum Deum vivum. Heb. 9.14.
+
+At non omnium conscientiæ emundantur à Deo, ut experientiâ notum est.
+
+14. Quia si Christus eo consilio pro omnibus mortuus est, ut omnes salvarentur;
+Tùm 1. Stat electio æterna omnium & singulorum ad vitam æternam. 2. Omnes sunt
+fœderatus Dei populus. 3. Omnes reconciliati sunt Deo. 4. Omnes salvari
+possunt, siquidem velint; & conversio non erit ex gratiâ, sed ex Libero
+Arbitrio.
+
+15. Quia Pelagianum est hoc, ut ait Prosper, Epist. ad Augustin. Pro universo
+genere humano mortuum esse Dominum nostrum Jesum Christum dicunt, & neminem
+prorsùs à redemptione sanguinis ejus exceptum, etiamsi omnem hanc vitam
+alienissimâ ab eo mente pertranseat: quia ad omnes homines
+
+[1668 KBNL/UvA witness | logical printed p. 387 | PDF p. 438 | ends before EPH. 1.7.]
+
+pertineat misericordiæ sacramentum; quo ideò plurimi non renoventur, quia quòd
+nec renovari velle habeant, prænoscantur. Et Concil. Valent. contra Pelag. cap.
+4. Etiam pro illis impiis, qui à mundi exordio usque ad passionem Domini, in
+suâ impietate mortui & æternâ damnatione puniti sunt, effusum esse sanguinem
+Christi definiunt (Pelagiani.) Et Augustinus contra Julianum l. 3. c. 3.
+Redimuntur, sed non liberantur, inquiunt. Hæc paradoxa sunt hæreticorum
+Pelagianorum.

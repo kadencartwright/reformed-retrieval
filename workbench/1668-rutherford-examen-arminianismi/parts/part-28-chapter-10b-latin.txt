@@ -1,0 +1,388 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimum, De Fœdere Gratiæ — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on shared printed p. 432 at `Quæritur, An
+factum sit Fœdus gratiæ cum omnibus & singulis mortalibus`, without repeating
+the end of Part 27. It contains four complete questions in Chapter X: whether
+the covenant of grace was made with every mortal; whether determining grace
+is promised in the New Covenant; whether the covenant is eternal; and whether
+the New-Covenant promises extend equally to all by God's primary intention and
+antecedent will. It ends on shared printed p. 446 after the eighth argument of
+the last question. The lemma `MATT. 10:5` and its following question later on
+that page are excluded. Printer line-end and page-end divisions have been
+joined; at every split-word page boundary the new-page marker precedes the
+complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Three corrections are applied. On p. 433 line 25, the body's `2 Cor.
+16:6` is corrected to `1 Cor. 6:16`. On p. 434 line 7, `Isa. 10:11, 12` is
+corrected to `Isa. 54:9, 10`. On p. 438 line 23, the undivided `334` is
+corrected to `33, 34`, yielding the full printed sequence `Jer. 31:33, 34,
+35`.]
+
+[Printed-form note: The p. 440 running head anomalously reads `CAP. IX.`
+within Chapter X; it is omitted as a running head but disclosed here. The
+visibly irregular citations `Ezech. 168`, `Matth. 10:4, 5`, `Heb. 10:11`,
+`Jer. 32,43`, `Isa. 59.20:21`, `1 Joan. 2:29`, `Heb. 2:12`, `Psal. 1:5`, and
+`1 Joan. 4:14`, together with the forms `non-ens`, `Judæ præditori`,
+`Syllogysmo`, and `accquisivit`, are retained rather than silently regularized.
+The errata-corrected citations are recorded in the preceding note. No Greek,
+Hebrew, or substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 432 | PDF p. 483 | begins at Quæritur, An factum sit Fœdus gratiæ]
+
+Quæritur, An factum sit Fœdus gratiæ cum omnibus & singulis mortalibus, etiam
+cum iis, qui nihil de Christo audiverunt? Ajunt Remonstrantes. Nos negamus.
+Docemus enim omnibus in Ecclesiâ Visibili proponi doctrinam de Fœdere Gratiæ;
+verùm quoad consilium & æternam Dei Electionem factum esse Fœdus Gratiæ cum
+solis Electis. Id patet.
+
+1. Ex ipsius Dei praxi, qui cum Noacho & ejus posteris, cum Abrahamo & ejus
+posteris tantùm, cum populo Judaico & non cum aliis, Fœdus hoc pepigit; & in
+hoc discriminatum esse populum
+
+[1668 KBNL/UvA witness | logical printed p. 433 | PDF p. 484]
+
+Judæorum ab omnibus aliis nationibus, ipse testatur, Deut. 7:7. Psal. 147:19,
+20. Ideò Apostoli, gentibus prædicare Evangelium vetiti sunt. Matth. 10:5, 6.
+Bithynia Evangelizare vetiti sunt; quod faciendum non fuit, si cum omnibus
+factum sit Fœdus Evangelicum.
+
+2. Ex verbis Fœderis id liquet. Jer. 31:31. Ecce, dies veniunt, dictum Jehovæ,
+quibus pangam Fœdus cum domo Israelis, & cum domo Judæ.
+
+3. Promissiones Fœderis non sunt universales. Ergo, neque ipsum Fœdus. Prob.
+Antec. Quia Deus quibusdam tantùm, idque non habito respectu ipsorum
+obedientiæ aut inobedientiæ, propter suum tantùm nomen, cor saxeum amoturum,
+& cor novum & spiritum novum inditurum promittit. Ezech. 36:22, 26, 32. Ideò
+non omnes sunt filii promissionis, sed tantùm electi in semine reputantur.
+Rom. 9:8.
+
+4. Quia quidam dicuntur, absque Christo, abalienati à civili statu Israelis, &
+extranei quod ad pactorum promissionem attinet; & pro speciali & singulari
+gratiâ, Deus Fœdus hoc pangit cum quibusdam, non aliis. Gen. 17:7. Ezech. 168.
+Imò juravi, & Fœdus cum te inivi, dictum Jehovæ, & meus factus es populus.
+Zach. 13:9. 1 Cor. 6:16. Heb. 10:11.
+
+5. Quia quibuscum initum est Fœdus hoc novum Gratiæ, ii à Deo nunquàm
+recedent Jer. 32:40, 41. Deus eos nunquàm spernet,
+
+[1668 KBNL/UvA witness | logical printed p. 434 | PDF p. 485]
+
+propter omnia quæ fecerunt, quin tam immobiliter mansuri sunt in Fœdere, quàm
+Fœdus Dei naturale cum Sole & Lunâ, cum die & nocte. Jer. 31:35, 37. Non magis
+Fœdere hoc excident, quàm mundus aquis Noachi (quod Deus nunquàm futurum esse,
+juravit) obruendus sit. Isa. 54:9, 10. Nec magis auferetur ab iis misericordia
+Fœderalis, quàm Deus Fœdus suum potest profanare, & pronunciatum labiorum
+suorum mutare, & quod per sanctitatem suam juravit se facturum, retractare,
+adeòque mentiri, potest. Psal. 89:34, 35, 36. Ideòque nunquàm peribunt. At
+inter mortales permulti sunt, qui à Deo recedunt, quos Deus spernit &
+derelinquit, qui Fœdere externè proposito excidunt, & in æternùm pereunt.
+Ergo, cum omnibus mortalibus non est hoc Fœdus initum.
+
+6. Quia non constaret discrimen inter Fœdus Gratiæ, quòd est æternum &
+inviolabile, si initur hoc Fœdus cum plerisque id rumpentibus, & Fœdus Operum
+cum Adamo initum, seu Fœdus hoc quatenùs legaliter propositum; quod discrimen
+tamen necessariò manet, ut ait Propheta Jer. 31:31, 32, 33.
+
+7. Alienum est à Dei sapientiâ, quòd Deus Fœdus cum iis Nationibus iniret, &
+Christum fidejussorem Fœderis pro ipsis mortuum exhiberet, quæ tamen nihil,
+vel fando, de illo Fœdere, de promissione Fœderis, de gratiâ &
+
+[1668 KBNL/UvA witness | logical printed p. 435 | PDF p. 486]
+
+misericordiâ Fidejussoris audiverunt; imò, quòd Deus non tantùm suâ
+providentiâ impediret, sed expressè Fœderis promulgationem prohiberet. Act.
+16:7. Matth. 10:4, 5. Et Deus eos pro violatoribus Fœderis Gratiæ, &
+spretoribus mortis, sanguinis, & gratiæ Christi haberet, qui nè sonum vel
+syllabam auribus hauserunt de gratiâ & Fœdere Dei gratioso.
+
+8. Quia necesse foret omnes infantes, ante usum rationis fato functos, in
+æternum salvari; sive ex credentibus, sive ex iis qui sunt extra Ecclesiam, ex
+Paganis, Atheis, nati sint; quia Fœdus hoc Gratiæ, quòd cum ipsis initum esse
+volunt, nunquàm transgressi sunt. Et eos violati Fœderis Operum, aut ullius
+peccati reos esse pernegant; ideòque nec reconciliatione in Christo indigent:
+Ideòque omnes ad unum salventur, oportet. At Scriptura docet, Deo suam
+constare libertatem Electionis & Reprobationis, antequàm infantes quicquam
+boni vel mali fecerint. Rom. 9:11.
+
+Quæritur, An gratia determinans voluntatem ad actus bonos & supernaturales,
+sit res à Deo promissa in Novo fœdere? Negant Remonstrantes. Nos asserimus.
+
+Sed sciendum est, gratiam prædeterminantem duplicem esse. Nam alia est, quâ
+prædeterminatur voluntas quoad specificationem, nempe, ad actiones bonas &
+supernaturales in specie.
+
+[1668 KBNL/UvA witness | logical printed p. 436 | PDF p. 487]
+
+Hæc prædeterminatio fluit ab habitu infuso gratiæ supernaturalis; uti sunt
+credere, sperare, resipiscere. Alia est gratia prædeterminans quoad exercitium,
+quando prædeterminatur voluntas ad hunc vel illum determinatum actum. Hinc
+sententia nostra hisce assertionibus statuitur.
+
+Assertio 1. Gratia prædeterminans quoad specificationem, omnibus verè
+fœderatis in genere promittitur: nempe, circumcisum cor, novus spiritus, novum
+cor. Deut. 30:6. Ezech. 36:26, 27.
+
+Ass. 2. Gratia prædeterminans quoad specificationem in omnibus actibus
+determinatis, fœderatis non promittitur. Quia sic fœderati peccare non
+possent; quod Scripturæ & experientiæ repugnat.
+
+Ass. 3. Gratia prædeterminans quoad specificationem in quibusdam actibus,
+promittitur omnibus fœderatis: nempè, gratia quâ fiat & factum sit, ut verè
+regeniti in peccatum in Spiritum Sanctum, aut finalem Apostasiam incidere non
+possint; neque grande aliquod peccatum toto nisu & impetu voluntatis
+committere possint; quia Semen Dei manet in iis 1. Joan. 3:9. Habent unctionem
+Dei manentem in ipsis 1 Joan. 2:29. Promittitur iis timor Jehovæ, nè in
+sæculum ab ipso recedant Jer. 32:40.
+
+Ass. 4. Sed nos tuemur contra Socinianos, Arminianos & Pontificios, hoc novo
+fœdere promitti talem gratiam, per quam ex habitu
+
+[1668 KBNL/UvA witness | logical printed p. 437 | PDF p. 488]
+
+supernaturali, non possunt non in plerisque actibus Deum diligere, in Christum
+credere, carnem & affectus subigere, resipiscere, & in statu gratiæ
+perseverare.
+
+1. Quia promittitur in hoc fœdere gratia, quâ nunquàm recedamus à Deo Jer.
+32,43. Quâ Spiritus nunquàm recessurus sit à Fœderatis & ab eorum semine,
+aut à semine seminis eorum in sæculum Isa. 59.20:21.
+
+2. Quia promittitur circumcisio cordis ad diligendum Deum ex toto corde, & ex
+totâ animâ. Deut. 30:6. Inscriptio Legis in corde Jer. 31:33. Dei spiritus,
+quo Deus efficit, ut in ejus mandatis ambulemus. Ezech. 36:27.
+
+3. Quia nisi talis gratia prædeterminans promitteretur, nihilo stabilior esset
+status noster in Christo, quàm in primo Adamo; & hic æquè atque illic, proclive
+esset, Dei favore & statu gratiæ excidere: Nec validior esset hic Christus,
+sponsor Novi Fœderis Heb. 2:12. quàm libera voluntas Adami, quâ se & suos omnes
+perdidit.
+
+4. Quia Fœdus Gratiæ non esset ex utrâque parte Fœdus æternum, contra
+luculenta Scripturæ testimonia Jer. 31:35, 36, 37. Jer. 32:40. 41. Isa. 54.10.
+Isa. 59:21.
+
+5. Quia perseverantia Sanctorum nec esset promissa à Deo, nec certa & rata:
+quod falsum esse, ex Scripturis posteà demonstrabimus.
+
+6. Quia nisi talis gratia esset nobis promissa,
+
+[1668 KBNL/UvA witness | logical printed p. 438 | PDF p. 489]
+
+non haberet homo, unde oraret constantem inflexionem voluntatis suæ ad fidem
+& obedientiam; nec undè propter talem inflexionem, in Deum confideret; nec de
+tali influentiâ gratias ageret, contra Scripturas. Psal. 119:27, 29, 33, 34,
+35, 36, 37, 43, 66. Psal. 86.11. Cant. 1:2, 7. Matth. 6:10. Eph. 1:16, 17.
+Eph. 3:14, 15, 16. Col. 1:9. 1 Thess. 5:23. 2 Thess. 1:3.
+
+Quæritur, An Fœdus Gratiæ sit æternum; an verò ità pendeat nostra in hoc
+Fœdere permansio à nutu liberi Arbitrii, ut possimus in eo permanere, vel pro
+arbitratu nostro, eo excidere? Negant Remonstrantes Fœdus hoc esse æternum.
+Nos Fœdus hoc immobile esse & æternum, asserimus.
+
+1. Æternitas Fœderis ex utrâque parte astruitur expressis verbis. Ex parte
+Dei, Jer. 32.40. Et pangam cum ipsis Fœdus perpetuum, ut non averram me à
+benefaciendo ipsis. Et æternitas ejusdem ex parte nostri astruitur ibidem,
+idque ex infallibili Dei promissione: & reverentiam mei indam animo ipsorum,
+ut non recedant à me.
+
+2. Quia finalis perseverantia in gratiâ promittitur Fœderatis. Jer. 32:40, 41.
+Jer. 31:33, 34, 35. Isa. 59:21. Hos. 2:18. Psal. 1:5. 1 Joan. 4:14. Matth.
+16:18. Joan. 6:37. & 10.28, 29. & 14:16.
+
+3. Quia æquè certum, constans & inviolabile est hoc Fœdus, atque est Dei
+naturale Fœdus de perpetuatione diei & noctis, Solis & Lunæ
+
+[1668 KBNL/UvA witness | logical printed p. 439 | PDF p. 490]
+
+revolutionibus. Jer. 31:35, 36, 37. Et quàm id, quod Dei Sancto juramento
+interposito, verissimè esse constat. Heb. 6:18. Et Noachi aquis non obruendum
+esse mundum. Isa. 54:10. Ideòque stabilitum est in Dei immutabilitate &
+veracitate, qui mentiri non potest. Psal. 89:34, 35, 36, 37.
+
+4. Quia innititur sancto & nunquàm violando isto Fœdere, inter Patrem & Filium
+suum, inito, de dando ei semine longævo. Isa. 53:10. Liberis, Isa. 8:18. Heb.
+2:13. de dando ei dominio à mari in mare. Psal. 72:8. Psal. 2:8, 9. Et populo
+voluntario. Psal. 110:3. modò animam ponat pro suis. Fœdus autem hoc inter
+Patrem & Filium, nullo modo irritum esse potest.
+
+5. Frustranea esset mors, & effusio sanguinis Christi, quo Testamentum
+Fœderis confirmatum est; & locus esset alteri Fœderi, alteri Sponsori, qui
+alio sanguine aliud illud Fœdus confirmaret; siquidem hoc Fœdus irritum reddi
+posset.
+
+6. Quia gratia prædeterminans, venia lapsuum, & resipiscentia in hoc Fœdere
+promittuntur.
+
+7. Periret discrimen illud, quod Spiritus Sanctus statuit inter illud Fœdus
+quod pepigerat Jehovah cum domo Israelis, eo die, quo ipsos eduxit ex Ægypto,
+& Fœdus hoc Novum, quod illud irritum & violatum fuerit, hoc verò æternum &
+inviolabile. Jer. 31:31, 32, 33.
+
+[1668 KBNL/UvA witness | logical printed p. 440 | PDF p. 491]
+
+ROM. 9:8.
+
+Sed filii promissionis, pro semine censentur.
+
+Quæritur, An promissiones Novi Fœderis sint universales, & ad omnes ex æquo,
+ex primâ Dei intentione, & antecedente voluntate, spectent? Ajunt
+Remonstrantes.
+
+Nos negamus promissiones ex decreto & intentione Dei, ad ullos nisi ad electos
+pertinere, licèt oblatio rerum promissarum sub conditione, ad omnes & singulos,
+qui sunt in Visibili Ecclesiâ, fiat.
+
+1. Quia non possunt ex Dei intentione ad illos spectare promissiones, qui nec
+audiunt nec audire possunt tales promissiones; imò qui non possunt ex
+prohibente & impediente Dei providentiâ. Est enim Jurisconsultorum axioma,
+Promissiones non promulgatas, non magis esse obligativas ad præstandam
+conditionem promissionum, quàm est Lex non promulgata, sed in mente
+Legislatoris recondita. Quis enim Deum ita loquentem fingeret. Promitto,
+Pagani & Americani, remissionem peccatorum, Justitiam Christi, & vitam
+æternam morte Christi vobis partam; & hæc omnia vobis ab æterno decrevi,
+siquidem credideritis; interim decrevi talem promissionem nunquàm vobis
+revelare, quinimò impediente meâ Providentiâ, obstare quominus vobis
+reveletur.
+
+2. Promissiones de inscriptione Legis in corde. Jer. 31.33. Heb. 8.10. de
+dando corde novo. Ezech.
+
+[1668 KBNL/UvA witness | logical printed p. 441 | PDF p. 492]
+
+36.26. & circumciso. Deut. 30.6. non fiunt reprobis, ex intentione & decreto
+Dei. Quia vel fiunt reprobis absolutè; & sic Deus in omnibus reprobis
+ingeneraret cor novum & spiritum novum; quod experientiæ & Scripturis
+repugnat. Vel conditionatè, Deus daret reprobis cor novum & circumcisum. At
+hoc nusquàm in Scripturis extat (qui hoc vel illud officium præstiterit, Deus
+ei cor novum & Spiritum novum dabit.) Deindè non ex operibus, quæ nos
+feceramus, Deus nos vocat, sed mortuos in peccatis vivificat. Adde, quod
+habere cor novum ex æquo obligat omnes, juxta Arminianos; Ergo, non rectè
+inferunt Adversarii Dei decretum, ex obligatione hominibus impositâ, nempè,
+Deus vult voluntate obligante, ut omnes & singuli credant & obediant Deo &
+salventur; Ergo, decrevit ut omnes & singuli credant & obediant. Et sic si hæ
+promissiones, ad omnes & singulos ex Dei consilio non spectant, nec reliquæ.
+
+3. Deus in promissionibus, vel vult salutem & remissionem omnibus & singulis,
+si crediderint; ita ut conditio suspendat volitionem & decretum remittendi &
+salvandi; vel ut suspendat non quidem Dei decretum, sed actualem remissionem,
+& glorificationem. Primùm dici non potest. Quia indignum est perfectione
+infinitâ divinæ voluntatis, ut ipsius decreta fixa & æterna, ab instabili nutu,
+& actu temporario Liberi
+
+[1668 KBNL/UvA witness | logical printed p. 442 | PDF p. 493]
+
+Arbitrii creati, suspendantur. Si verò conditio suspendat tantùm remissionem
+actualem & temporariam vitæ æternæ collationem; tùm promissiones, ex consilio
+Dei, de dandâ remissione & vitâ æternâ, ad solos implentes conditionem, i. e.
+ad solos credentes pertinent.
+
+1. Quia decretum glorificandi, est æquè restrictum, ac ipsa glorificatio, ut
+ipse Arminius in suâ Declaratione fatetur. Sicut enim Deus neminem nisi
+credentem, glorificat; ita neminem nisi credentem decrevit glorificare: &
+sicut neminem nisi finaliter impœnitentem, condemnat; ità neminem, nisi talem,
+condemnare decrevit.
+
+2. Quia, ut rectè docent Jurisconsulti, Volitio conditionalis, & promissio ex
+hypothesi talis conditionis, nihil ponit, nisi priùs in re ponatur conditio.
+Item, donatio conditionalis, non est donatio, nisi priùs impleatur conditio.
+Item, promissio conditionalis promittentem non obligat, nisi ponatur conditio.
+Quia ergo, Judas proditor, & reprobi nunquàm credunt, volitio salutis Judæ &
+reproborum, nulla unquàm fuit in Deo.
+
+3. Quia juxta summam Evangelii, Deus non intendit dare remissionem & salutem
+reprobis quamlibet & confusè consideratam; sed hanc determinatam, quæ parta
+sit sub modo, vel per modum præmii, sub conditione fidei, ut ubique docent
+Arminiani: Quia non intendit in Evangelio salutem reprobis absolutè & sub
+nullâ
+
+[1668 KBNL/UvA witness | logical printed p. 443 | PDF p. 494]
+
+conditione. Si itaque nunquàm ponatur conditio Fidei, (ut certè in reprobis,
+juxta Adversarios, plerisque; secundùm nos, in nullis) talis conditio est merè
+non-ens & nihil, quippè, nunquàm credunt. Ergo, falsum est, Deum remissionem &
+vitam æternam, per modum præmii conditionati, in promissionibus Judæ
+præditori, & iis qui nunquàm credunt, intendere.
+
+Sed dicunt Adversarii, Dei intentionem in promittendâ salute reprobis,
+suspendi, donec reprobi omnes actu & finaliter credant. Sed hoc est fingere in
+Deo, intentionem ab æterno suspensam; & fingere Deum intendere salutem iis,
+actu incompleto, suspenso, dubio, indeterminato, donec omnes actu credant;
+quod Deus nunquàm futurum esse præscit. Ergo, certum est Deum non ex æquo
+intendisse, & quidem ex primariâ suâ voluntate promittere omnibus & singulis
+hominibus remissionem & vitam æternam.
+
+4. Promissiones Evangelicæ, non latiùs patent ex intentione Dei, quàm Deus
+ipse in Evangelio, eas extendit. At Deus ipse in Evangelio, eas extendit ad
+solos credentes. Qui credit, salvabitur; uti & comminationes, qui non credit,
+condemnabitur. Nam salvatio & fides æquè latè patent. Nemo salvatur, nisi
+credens: & nemo credens, non salvatur. Ergo, intentio Dei salvantis fertur in
+solos credentes.
+
+[1668 KBNL/UvA witness | logical printed p. 444 | PDF p. 495]
+
+Si dicant, Deum intendere plures salvare, modò plures crederent, quàm actu
+salvantur; idque voluntate & intentione antecedente: quia tali antecedente
+intentione, intendit omnes & singulos salvare, modò crederent omnes & singuli.
+
+Respondeo ut suprà, intentionem conditionatam nihil esse, nihil ponere, nisi
+ponatur priùs conditio. At conditio illa nunquàm ponitur. Nam nunquàm omnes
+credunt. Ergò, nunquàm est talis in Deo intentio antecedens. 2. Nusquàm in
+Scripturis dicit Deus, se alios salvare velle, quàm credentes. Alioquì,
+promissio hæc Evangelii esset: Deus vult, intendit, promittit, ante positam
+fidei conditionem, omnes & singulos mortales salvare; quod falsum est.
+
+5. Si promissiones Evangelii, ex intentione Dei, ad omnes & singulos mortales
+pertinerent, adeòque vellet Deus, omnes & singulos salvare, antecedente
+intentione; Ergo, per eandem rationem, comminationes Evangelii ad omnes &
+singulos mortales pertinerent. Ac sic Deus, omnes & singulos mortales,
+antecedente intentione, in æternum perire intenderet, & omnes & singulos
+antecedenter destinaret ad æternum exitium. Ratio, quia æquè conditionata est
+Dei voluntas in comminationibus, atque in promissionibus Evangelicis, & Deus
+æquè propensus in Justitiam, ac in Misericordiam.
+
+[1668 KBNL/UvA witness | logical printed p. 445 | PDF p. 496]
+
+6. Infinita sunt loca, tùm Veteris, tùm Novi Testamenti, ubi Remissio,
+Justitia, & Salus promittitur credenti & resipiscenti. At locus nullus
+comparet, ubi Deus dicit, Decerno & volo, ut omnes & singuli remissionem &
+salutem æternam habeant, modò credant. Item decerno & volo, ut omnes & singuli
+in æternum pereant, modò non credant. Nostra autem sententia est in
+Scripturis; eorum verò minimè. Matth. 11:28. Venite ad me omnes (non
+simpliciter, sed) omnes qui laboratis, & onerati estis. Joan. 3:16. Sic Deus
+dilexit mundum, ut Filium suum unigenitum daret, ut omnis (non simpliciter,
+omnis homo sed) omnis qui credit, non pereat, sed habeat vitam æternam. Sic
+Joan. 5:24. Joan. 7:37. Isa. 55:1. Joan. 11:26. Rom. 3:22. Gal. 3:22. Act.
+10:43. Act. 2:38, 39. Ideòque ex nudâ voculâ (omnes) fallunt Adversarii à
+divisis ad conjuncta: quia rectè observat Prosper, de Vocatione Gentium, lib.
+1. cap. 3. Habere populum Dei plenitudinem suam. Et expressè Scriptura de
+omnibus credentibus, sitientibus, conscientiâ peccatorum onustis, promissiones
+Evangelicas exponit.
+
+7. Non est ea doctrina admittenda, quæ consolationem Christianam æquè latè
+extendit ad omnes homines, homicidas, mœchos, Paganos, Turcas &c. hoc
+Syllogysmo: Promissiones Dei ad omnes pertinent qui homines sunt, sive sint
+Pagani, Turcæ, parricidæ &c.
+
+[1668 KBNL/UvA witness | logical printed p. 446 | PDF p. 497 | ends before MATT. 10:5]
+
+Atqui ego sum homo, Turca, parricida, &c.
+
+Ergo, promissiones Dei ad me pertinent.
+
+8. Ad quos ex intentione Dei pertinent promissiones N. Fœderis, ii verè
+fœderati & in gratiam restituti sunt, & pro iis Christus bona spiritualia
+Fœderis Novi promissa, merito mortis suæ & sanguinis sui, accquisivit. At omnes
+& singuli mortales non sunt Fœderati, nec in gratiam per Christum restituti, &
+reconciliati Deo. Ratio Majoris est, quia promissiones Fœderis ex Dei
+intentione ad Diabolos pertinerent, si Diaboli essent fœderati, & per Christum
+in gratiam restituti & reconciliati. Minor verò patet, quia Pharaonem, Herodem
+&c. in gratiam Dei esse restitutos, & sanguine Agni emptos esse Sodomitas, est
+monstrosum.

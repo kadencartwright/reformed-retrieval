@@ -150,6 +150,86 @@ IA OCR were used only as aids. Page-spanning words, including words split in
 marginalia, were joined with the new page marker placed before the whole joined
 word in both files.
 
+## Part 08 boundary, status, and image audit
+
+Part 08 is a synchronized Latin/English working pair with exactly twenty-six
+markers: printed pp. 118–143, IA leaves 148–173, access-PDF pp. 148–173, and
+DjVu OCR objects 147–172. It begins after Part 07 at the partial right-column
+boundary on printed p. 118 with `Cum non in Graecia modò sed in ipsâ Asia ...`
+and contains the complete remaining continuation of Chapter IX. It ends in the
+left column of printed p. 143 after `... quae mox totum propemodum terrarum
+orbem concusserunt.`, immediately before `CAPUT X` on the same page. The
+Chapter X heading, subtitle, Question I, and marginalium are excluded.
+
+For Part 08, every controlling 300-dpi image, `pdf-148.jpg` through
+`pdf-173.jpg`, was visually inspected at original resolution, and every page
+opening, page ending, column transition, and inter-page or inter-column join
+was audited. The audit included both partial-page boundaries, all printed
+marginalia and their continued entries, and a separate close inspection of the
+partial opening and structural close on p. 143. The images governed every
+reading; IA OCR and PDF text were used only as aids. Page-spanning split words
+were joined and assigned wholly after the later synchronized marker in both
+files.
+
+## Part 09 boundary, status, and image audit
+
+Part 09 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 143–144, IA leaves 173–174, access-PDF pp. 173–174, and
+DjVu OCR objects 172–173. It begins in the left column of printed p. 143
+immediately after Part 08 with `CAPUT X`, the subtitle *Ad Epocham quintam
+quaestiones & dubia*, and Question I, *Quot annos contineat Epocha haec ab
+eversione prioris templi ad mortem Alexandri? & unde constet eorum annorum
+numerus?* It includes the complete answer across the p. 143/p. 144 join and
+ends in the left column of printed p. 144 after `in temporibus stabiliendis
+pondus nos quidem collocandum arbitramur.`
+
+`QUAESTIO II. Quod sit principium septuaginta annorum captivitatis
+Babylonicae?` begins at the top of the right column of p. 144 and is excluded
+in full, together with its answer and marginalium. That heading is the exact
+next restart.
+
+Both controlling 300-dpi images, `pdf-173.jpg` and `pdf-174.jpg`, were visually
+inspected at original detail during transcription and again in the final
+facsimile audit. The audit checked every included portion of all three columns,
+the two partial-page boundaries, the p. 143/p. 144 join, headings, question,
+numbers, names, paragraph sequence, and all three included marginalia. The
+word divided at the join, *tricesimo*, is joined wholly after the p. 144 marker
+in Latin; its corresponding English number, “536,” is likewise wholly after
+that marker. The right-column Question II and its marginalium were separately
+checked for exclusion. The images governed; IA OCR and PDF text were used only
+as aids. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
+## Part 10 boundary, status, and image audit
+
+Part 10 is a synchronized Latin/English working pair with exactly four
+markers: partial printed pp. 144–147, IA leaves 174–177, access-PDF pp.
+174–177, and DjVu OCR objects 173–176. It begins at the top of the right
+column of printed p. 144 immediately after Part 09 with `QUAESTIO II`, *Quod
+sit principium septuaginta annorum captivitatis Babylonicae?*, and the answer
+beginning `Resp. Inter Chronologos & Scripturae Interpretes ...`. It contains
+the complete Question II argument and ends in the right column of printed p.
+147 after `... in nostra potiùs quàm adversâ parte videntur consistere.` The
+p. 147 catchword `QUAE-` is omitted.
+
+`QUAESTIO III. Quis sit verus finis 70. annorum captivitatis Babylonicae?`
+begins at the top of printed p. 148 / IA leaf 178 / access-PDF p. 178 / DjVu
+OCR object 177 and is wholly excluded, together with its answer and
+marginalia. That heading is the exact next restart.
+
+All five supplied 300-dpi images, `pdf-174.jpg` through `pdf-178.jpg`, were
+visually inspected at original detail during transcription and again in the
+final facsimile audit. The audit treated pp. 144–147 as the controlling
+witness and p. 148 as boundary evidence only. It checked the partial p. 144
+opening, every included column and page/column join, all marginalia and their
+continuations, the `Arg.`/`Resp.` sequence and numerals, every citation, name,
+date, number, and foreign-script string, and the exact p. 147 structural close.
+The body word `Tyrum` following the p. 146/p. 147 break is placed wholly after
+the p. 147 marker in both files. The Greek `σοφὸν Φάρμακον` and `Σοφὸν ...
+Φάρμακον` are retained from the image rather than OCR. The images governed;
+IA OCR and PDF text were used only as aids. The pair remains an AI-assisted,
+unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -180,9 +260,17 @@ have not been modernized or endorsed.
 - `parts/part-06-book-01-chapter-08-questions-24-53-english.md`
 - `parts/part-07-book-01-chapter-09a-persian-wars-latin.txt`
 - `parts/part-07-book-01-chapter-09a-persian-wars-english.md`
+- `parts/part-08-book-01-chapter-09b-latin.txt`
+- `parts/part-08-book-01-chapter-09b-english.md`
+- `parts/part-09-book-01-chapter-10-question-01-latin.txt`
+- `parts/part-09-book-01-chapter-10-question-01-english.md`
+- `parts/part-10-book-01-chapter-10-question-02-latin.txt`
+- `parts/part-10-book-01-chapter-10-question-02-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
-04, twenty for Part 05, fourteen for Part 06, and twenty for Part 07. There are
-fourteen current files in seven Latin/English pairs. The files remain
-AI-assisted and unreviewed.
+04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, and twenty-six
+for Part 08, two for Part 09, and four for Part 10. There are twenty current
+files in ten Latin/English pairs, containing 155 synchronized source markers
+per language (310 marker occurrences across all twenty files). The files
+remain AI-assisted and unreviewed.

@@ -1,0 +1,262 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Undecimum, De Modo Conversionis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 488 at `Quæritur, Utrum à
+gratiâ, an à Libero Arbitrio pendeat efficacia gratiæ?`, without repeating
+Part 32's closing argument. It treats whether grace's efficacy depends upon
+grace or free choice, the attribution of non-conversion, two persons furnished
+with equal habitual grace, the intensity of supernatural acts, the causal
+priority of actual grace and the created will, the certainty and
+indeflectibility of conversion, and two Remonstrant accounts of the opening of
+Lydia's heart. It ends on printed p. 496 after the fourth argument of the
+second Lydia question, before `Quæritur, An efficacia gratiæ pendeat ex
+vocatione congruâ?` Printer line-end and page-end divisions have been joined;
+at every split-word page boundary the new-page marker precedes the complete
+joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. It specifies no correction for pp. 488–496.]
+
+[Printed-form note: The enclitic form `Liberone`, the parenthetical `gratia Dei
+ab homine`, the visibly difficult or irregular forms and citations `Augustin.
+Epist. 107. ad Vitalem`, `promissa rationes`, `tota concionis substantia facta
+Iudæ & Simoni Mago`, and `Plato Aristotelis` are retained rather than silently
+regularized. The biblical and patristic quotations, scholastic distinctions
+between formal principle, specification, and first and second act, the full
+question/response and numbered argument structures, and all citations are
+preserved. Isolated edge marks, stains, and show-through in the controlling
+images are non-textual artifacts; no substantive marginal note or Greek or
+Hebrew passage occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 488 | PDF p. 539 | begins at Quæritur, Utrum à gratiâ, an à Libero Arbitrio pendeat efficacia gratiæ?]
+
+Quæritur, Utrum à gratiâ, an à Libero Arbitrio pendeat efficacia gratiæ? Ut
+intelligatur Quæstio, notandum est, non quæri, 1. An à Libero Arbitrio gratia
+habeat suam intrinsecam vim operandi? Nam gratia est principium formale ex se
+actuum supernaturalium; ut utrinque conceditur. 2. Nec quæritur, utrum actualis
+gratiæ efficientia, secundùm specificationem, sit à Libero Arbitrio? Quia non
+est à Libero Arbitrio, sed à naturâ gratiæ, quod gratia agat ad modum gratiæ,
+h. e. modo supernaturali & spirituali, & convenienter suæ naturæ & indoli, ad
+modum agentis ad unum determinati. 3. Nec Quæritur,
+
+[1668 KBNL/UvA witness | logical printed p. 489 | PDF p. 540]
+
+An nolle vel velle, assentire vel dissentire, & tales actus vitales fluant à
+gratiâ, ut à principio formali? Quia ipsa gratia non est, quæ formaliter vult &
+non vult, sed tantùm voluntas habitu gratiæ instructa.
+
+Quæritur, itaque, Utrum à gratiâ actuali determinante, secundùm æternum Dei
+propositum electionis, voluntatem liberam, habituali gratiâ instructam; An
+verò, à Libero Arbitrio, indifferente quidem, sed ad unum oppositorum sese
+determinante, sit Conversio, potiùs quàm non-Conversio, & assensus adhibitus Deo
+vocanti, potiùs quàm dissensus? Arminiani, ab eventu, i. e. ab actuali influxu
+Liberi Arbitrii ex se indifferentis ad agendum vel non agendum, efficientiam &
+actum secundum gratiæ suspendunt. Nos verò actualem gratiæ internæ efficientiam,
+esse volumus. 1. Ab intentione Dei, gratuitò eligentis. 2. Ab habituali gratiâ,
+ut principio formali. Et 3. Ab actuali gratiâ.
+
+1. Quia ità Scriptura, Deut. 30:6. Circumcidet Jehovah cor tuum & cor seminis
+tui, ad diligendum Dominum tuum, ex toto corde. Ezech. 36:26, 27. Cor novum
+etiam dabo vobis, & spiritum novum ponam in medio vestri. Deut. 29:3.
+Probationes illas maximas viderunt oculi tui, signa & prodigia illa maxima. 4.
+Sed non dederat vobis Jehovah cor ad cognoscendum, & oculos ad videndum, & aures
+ad audiendum usque ad hunc diem. Isâ.
+
+[1668 KBNL/UvA witness | logical printed p. 490 | PDF p. 541]
+
+44:3. Nam effundam aquas super sitientem, & fluenta super aridam; effundam
+Spiritum meum super semen tuum, & benedictionem meam super prognatos tuos. v.
+4. Et efflorescent velut inter gramen, velut salices secundùm processus
+aquarum. Ubi efflorescentia & actus secundus gratiæ tribuitur spiritui effuso,
+Zach. 12:10. Et effundam super domum Davidis &c. spiritum gratiæ &
+deprecationum; respicientque ad me quem transfixerunt: plangentque super hoc
+tanquam planctu de unigenito, & amarè plangent de eo, ut amarè quis planget de
+primogenito. Ier. 24:7. Indam cor iis, ad cognoscendum me, & revertentur ad me
+toto corde suo. Matth. 11:25. Gratias ago tibi, Pater, Domine cæli & terræ,
+quoniam hæc abscondideris à sapientibus, & parvulis detexeris. Ita est, ô Pater,
+quoniam ità beneplacitum est coram te. Ioan. 6:37. Quoscunque mihi dedit Pater,
+ii veniunt ad me v. 45. Omnis qui audivit & didicit à Patre, venit ad me.
+Philip. 1:29. Vobis datum est, pro Christo, non solùm in ipsum credere, sed
+etiam pro ipso pati. Phil. 2:13. Deus enim efficit in vobis, & velle & perficere
+pro suo beneplacito.
+
+2. Quia evertitur omnis solida consolatio & patientia Sanctorum, omnis fides,
+omnis gratitudo; si causa efficaciter ad credendum determinans, sit versatilis
+humana Libertas, & non specialis Dei gratia.
+
+3. Pugnat cum verâ humilitate; si enim
+
+[1668 KBNL/UvA witness | logical printed p. 491 | PDF p. 542 | split word joined: actualis]
+
+actualis Conversio est à Libero Arbitrio, non à gratiâ; tùm conversus debet
+sibi, non Deo ejusque gratiæ, gloriam Conversionis.
+
+4. Si efficacia gratiæ quoad eventum, à Libero Arbitrio penderet; tùm Conversio
+& salus erit volentis & currentis, non Dei miserentis; nec Deus miserebitur,
+quorum vult.
+
+5. Frustrà oramus Conversionem hominum, aut gratias conversionis Deo agimus;
+contra Scripturas. Eph. 1:17, 18. 2 Thess. 1:3. Col. 1:12, 13, 14.
+
+6. Evertitur totum ministerium Evangelii, quod eò tendit, ut homo, omni propriâ
+gloriatione exutus, non nisi in Deo, & Christo Servatore suo, ejusque gratiâ
+glorietur. 1 Cor. 1:26, 31. Matth. 11:25. Omnia argumenta superiùs allata, pro
+irresistibili & indeclinabili specialis gratiæ operatione, hanc etiam nostram
+assertionem validè probant.
+
+Quæritur, An non-conversio ascribenda Deo, neganti gratiam efficacem, quâ
+converteretur homo, non verò homini, credere recusanti, & Dei vocationi
+obluctanti; si ideò quis non convertatur, quia Deus negavit gratiam efficacem?
+Remonstrantes dicunt culpam non-conversionis reijci in Deum, non in hominem, si
+efficacia gratiæ non pendeat à Libero Arbitrio. Nos negamus.
+
+1. Quia Deus negans gratiam efficacem, quam nemini dare tenetur, erit causa
+Physica
+
+[1668 KBNL/UvA witness | logical printed p. 492 | PDF p. 543 | split word joined: non-conversionis]
+
+non-conversionis negativè; non verò erit causa moralis & culpabilis
+non-conversionis privativæ & moralis: quia licet Deo facere de suo quod ei
+libitum est.
+
+2. Quia Deus ità negat gratiam efficacem, quam dare non obligatur, ut ipse
+non-conversus contra Dei mandatum, agat & gaudeat se eâ gratiâ efficaci carere,
+& ex innatâ libertate depravatæ voluntatis, Deo vocanti malitiosè obluctetur.
+
+3. Quia Deus hîc est agens supra omnem Legem, homo verò Legi obnoxius & agens
+ex indebito & contra obligationem legalem; Deus verò est hîc Agens, non ex
+debito Justitiæ aut æquitatis naturalis, sed ex puro libero suo beneplacito.
+
+4. Quia si non-conversio hoc nomine Deo imputetur, tùm conversio erit ex bono
+usu & influxu Liberi Arbitrii; quod est gratiam dari secundùm merita, &
+Pelagianum.
+
+Quæritur, An fieri possit ut ex duobus, pari gratiâ habituali præditis, unus
+convertatur quia vult, alter verò non convertatur quia non vult? Ajunt
+Arminiani. Nos negamus.
+
+1. Quia homo conversus per Liberum Arbitrium, se à non-converso separaret, &
+haberet in quo gloriaretur, & diceret, ego habeo actum Conversionis à meipso,
+quem à Deo non recepi, quem alter pari gratiâ instructus habere noluit.
+
+[1668 KBNL/UvA witness | logical printed p. 493 | PDF p. 544]
+
+2. Quia Liberum Arbitrium, non gratia, esset causa conversionis.
+
+3. Quia non esset, cur conversus, gratias suæ conversionis, Deo deferret.
+
+Quæritur, An à Libero Arbitrio, an verò à naturâ gratiæ remissioris &
+intensioris, sit, quod actus supernaturales credendi, resipiscendi, sint
+intensiores vel remissiores. Ajunt Remonstrantes à Libero Arbitrio esse. Nos
+negamus.
+
+1. Quia Paulus ait, 1 Cor. 15:10. ---- Sed ampliùs, quàm omnes illi, laboravi:
+non ego tamen, sed gratia Dei, quæ mecum est.
+
+2. Quia qui intensiùs credit & resipiscit, habet aliquid quod à Deo non
+receperit, & gloriari in eo posset, quasi non recepisset.
+
+3. Quia frustrà oraremus auctiorem fidem, & malè dicerent Apostoli: Domine,
+adauge nobis fidem; & à Libero Arbitrio, non à Dei gratiâ esset auctior &
+intensior fides.
+
+4. Non essent Deo agendæ gratiæ intensioris fidei.
+
+5. Nec in sapiente Dei dispensatione distribuentis gratiam, eâ, quâ ipsi
+videtur, mensurâ, humiliter acquiescendum foret.
+
+6. Si intensior fides est à Libero Arbitrio & non à Dei gratiâ, tùm fides
+simpliciter & in gradu positivo erit etiam à Libero Arbitrio, & non erit Dei
+donum.
+
+Quæritur, An ideò Deus actuali gratiâ influat in
+
+[1668 KBNL/UvA witness | logical printed p. 494 | PDF p. 545]
+
+opus supernaturale, quia voluntas creata influit; An verò, ideò voluntas
+influat, quia Deus priùs naturâ, suâ actuali gratiâ influit? Dicunt
+Remonstrantes, ideò Deum influere in opus; quia voluntas nostra prius naturâ
+influit; non contrà. Nos negamus.
+
+1. Quia gratiosa influentia Dei est causa omnium actuum supernaturalium: Ergo,
+est causa, cur nos Deo vocanti obtemperemus.
+
+2. Quia rectè sponsa, Cant. 1:4. Trahe me, post te curremus.
+
+3. Quia voluntas nostra sic præveniret Dei gratiam; gratia verò non præveniret
+voluntatem.
+
+4. Quia tota gloria Conversionis Libero Arbitrio præeunti, non verò gratiæ,
+quæ tantùm pedissequa foret, deberetur.
+
+5. Quia æterna Dei decreta Electionis, Vocationis, Adoptionis, interna Vocatio,
+Conversio, Perseverantia, adeòque Glorificatio, dependerent à volente &
+currente, non à Dei miserentis gratiâ omni modo gratuitâ.
+
+6. Quia hæc erat blasphema opinio Cassiani, lib. 3. cap. 13. Nonnunquàm (gratia
+Dei ab homine) quosdam conatus bonæ voluntatis vel exigit vel expectat, ne
+penitus dormienti, aut inerti otio dissoluto, sua dona conferre videatur. Ita
+Prosper contra Collatorem. lib. 13. cap. 11. Magna quæstio, utrum quia initium
+bonæ voluntatis præbuerimus,
+
+[1668 KBNL/UvA witness | logical printed p. 495 | PDF p. 546 | split word joined: misereatur]
+
+misereatur nostri Deus; An quia Deus miseretur, consequamur bonæ voluntatis
+initium? Et fuit hoc Cassiani meritum; & contra hoc disputarunt Prosper &
+Hilarius cum Massiliensibus. Augustin. Epist. 107. ad Vitalem.
+
+Quæritur, Undè pendeat certitudo & indeclinabilitas Conversionis, à Liberone
+Arbitrio; an verò à Dei Gratiâ? Arminiani dicunt à Libero Arbitrio. Nos verò à
+Dei Gratiâ.
+
+1. Quia incerta & contingens esset Conversio & numerus electorum salvandorum,
+si non à decreto Electionis & à Dei gratiâ, sed à causâ omnimodò vertibili,
+lubricâ, fallibili, contingente, & ad agendum vel non agendum indifferente,
+certitudo conversionis penderet.
+
+2. Penès Liberum Arbitrium esset, ut nemo mortalium converteretur & salvaretur.
+
+3. Existentia Ecclesiæ, & quòd Christus Rex, Sponsus, Caput, Subditos, Sponsam
+& Membra haberet, à Libero Arbitrio, non à Dei Gratiâ dependeret.
+
+4. Quia Deus non posset plures convertere & salvare, quàm qui actu convertuntur
+& salvantur.
+
+Quæritur, An rectè negent Remonstrantes, Dominum irresistibiliter aperuisse cor
+Lydiæ; quia præceptis, promissis, rationibus & argumentis, cum voluntate ipsius
+egit? Hoc est, an irresistibilitas gratiæ, cum præceptis, promissis, minis
+pugnet? Nos negamus.
+
+[1668 KBNL/UvA witness | logical printed p. 496 | PDF p. 547]
+
+1. Quia Deus in Evangelio fidem præcipit, & tamen eam operatur in nobis eâ
+supereminente magnitudine potentiæ, & efficacitate roboris, quod exercuit in
+Christo, cùm suscitavit eum ex mortuis. Eph. 1:20.
+
+2. Quia irresistibilitas gratiæ, & invictum Dei Dominium in voluntatem, optimè
+consistunt cum libertate voluntatis.
+
+Quæritur, An rectè Remonstrantes, Apol. cap. 17. pag. 184. dicant Dominum
+aperuisse cor Lydiæ, quia tota concionis Paulinæ substantia, præcepta scilicet,
+promissa rationes & argumenta à Deo erant? Nos negamus.
+
+1. Quia sic Deus homines etiam justificare diceretur, quia tota Legis
+substantia, præcepta, promissa, rationes & argumenta Legis à Deo sunt.
+
+2. Quia sic gratia illa interna, quâ Deus cor Lydiæ aperuit, nihil aliud esset
+quàm Pelagiana gratia, nempè, eloquia Dei, quæ præceptis, promissis, rationibus
+& argumentis Legis constant.
+
+3. Quia sic Deus non aliter cor Lydiæ aperuit, quàm Simonis Magi, & Iudæ
+proditoris; quia tota concionis substantia facta Iudæ & Simoni Mago, præcepta,
+nempè, promissa, rationes, & argumenta Legis, à Deo sunt.
+
+4. Sic Plato Aristotelis & Aristoteles discipulorum corda aperit, ut Physicam &
+Metaphysicam intelligant; quia omnia eorum argumenta, ope communioris gratiæ,
+ab illis excogitata sunt.

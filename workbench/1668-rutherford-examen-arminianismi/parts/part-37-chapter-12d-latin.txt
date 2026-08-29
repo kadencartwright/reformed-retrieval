@@ -1,0 +1,311 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 524 at the lemma `ROM.
+7:18.`, without repeating Part 36's closing argument. It contains three
+complete questions: whether the conflict between spirit and flesh is perpetual
+in all the regenerate whenever they perform good works; whether Paul speaks in
+Romans 7 of an unregenerate or a regenerate person; and whether good works are
+necessary as causes of justification and consequently of salvation. It ends
+within printed p. 534 after the fifth and final argument of that last question.
+The new lemma `1 JOAN. 1:7.` and its following question concerning the unity
+and continuity of justification are excluded. Printer line-end and page-end
+divisions have been joined; at every split-word page boundary the new-page
+marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit and supplies no correction for printed pp. 524–534.]
+
+[Printed-form note: The visibly difficult or irregular forms and citations
+`Rom. 7:14,13,24,25`, `omnis habitus; i.e. concupiscentiæ`, `v. 3:4`, `Rom.
+2:10---20`, `præsentia & causalitatis; vel præsentia & efficientia`, `Fœdus
+Gratia`, `Thersite Heautontemerumeno` (printed across a line division as
+`Thersite Heautontemeru-meno`), `Spiritus Sanctus Cor. 4:17`, and `Rom. 9:23`
+are retained rather than silently regularized. In the Romans 7 question's
+argument sequence, the number following argument 3 is again printed as 3; that
+sequence is retained. The Greek `λύτρον` and `κατεργάζεται ἡμῖν` are retained.
+Isolated edge marks, stains, show-through, running heads, signatures,
+catchwords, and ornaments in the controlling images are non-textual or
+non-substantive artifacts; no substantive marginal note or Hebrew occurs in
+this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 524 | PDF p. 575 | begins at ROM. 7:18.]
+
+ROM. 7:18.
+
+---- Velle adest mihi, sed ut quod bonum est efficiam, non assequor. Vers. 23.
+Sed cerno aliam Legem, in membris meis, bellum gerentem adversus Legem mentis
+meæ, & captivum reddentem me legi peccati, quæ est in membris meis.
+
+Hinc patet, Paulum de se asserere, in actionibus suis præstantissimis, esse
+principium vitiosum in contrarium nitens, & fervorem actionis retardans,
+nempè, inhabitantem concupiscentiam: Undè
+
+Quæritur, An lucta inter spiritum & carnem, in omnibus renatis, quotiès bona
+opera præstant, sit perpetua; an verò in quibusdam, utpotè perfectis &
+consummatè renatis, desit ista pugna? Remonstrantes in Confess. cap. 11. sect.
+6. dicunt, quosdam esse perfectè renatos, qui cum voluptate, gaudio &
+delectatione quâdam, sanctimoniæ operam dant, & justitiam ac veritatem ex toto
+corde, & ex totâ animâ, & ex totis viribus suis faciunt. ---- Non quòd nunquàm
+peccent, sed quòd habitus vitiosos exuerint; & si quando peccent, per errorem,
+subreptionem, ac
+
+[1668 KBNL/UvA witness | logical printed p. 525 | PDF p. 576 | split word joined: obnubilationem]
+
+obnubilationem mentis offendunt, non autem ex inhabitante peccato. Et in Apol.
+cap. 11. fol. 128. negant in talibus, necessariò, & semper esse luctam carnis &
+spiritûs; quia habent habitum gratiæ, per quam actiones, quæ anteà molestæ &
+graves erant, facilè ac libentèr volunt ac faciunt.
+
+Nos docemus per infusum habitum gratiæ in regeneratione hominis, habitum
+peccandi acquisitum tolli, naturalem verò subigi & edomari. Tit. 3:3. Ezech.
+36:26,27. Hos. 14.8.
+
+Sed habitualem propensionem ad peccandum, quæ retardat & remittit fervorem
+actionum supernaturalem, & agentem in contrarium inclinat, tolli, falsum est;
+1. Quia est in Paulo renato alia Lex belligerans contra Legem mentis, &
+captivum ipsum ducens ad Legem peccati. Rom. 7:23. Gal. 5:17. Caro concupiscit
+adversùs Spiritum, & Spiritus adversùs carnem; hæc autem inter se opposita
+sunt, ut non quæcunque volueritis, hæc perficiatis. 1 Pet. 2:11. ----
+Abstineatis à carnis cupiditatibus, quæ militant adversùs animam.
+
+Hanc autem luctam ex parte carnis esse culpabilem, patet
+
+1. Quia prohibetur à Spiritu Dei, tanquàm peccatum. Gal. 5:16. Quod caro
+concupiscit, nè perficite. Ergo, peccatum est, quod caro concupiscit.
+
+2. Opponitur Spiritui inclinanti in bonum, & id, quod Legi Dei consonum est.
+
+[1668 KBNL/UvA witness | logical printed p. 526 | PDF p. 577 | split word joined: Exclamat]
+
+3. Exclamat Paulus, se, hujus luctæ nomine captivum esse, peccato mancipatum &
+venditum, & miserum; & liberationem expetit in Christo. Rom. 7:14,13,24,25.
+
+2. Est peccatum in semine, quod est principium omnium actionum moralium, non
+autem mentis obnubilatio. Quia 1 Joan. 1:8. Si dicimus, nos peccatum non
+habere, ideòque non esse habitu interno peccati affectos, nosmet seducimus;
+Ergo, est in omnibus internus habitus peccandi, à quo denominantur peccatores.
+Prov. 20:9. Quis potest dicere, purificavi animum meum? Ergo, est in homine
+quolibet animus non purificatus. Hic autem non potest non esse propensio
+contranitens & reluctans propensioni gratiæ & Spiritûs in homine renato. Ergo,
+semper est lucta habitualis & actu primo (ut ignis aquæ contrarius) in omni
+renato: ac proindè nemo est expers omnis habitûs naturalis peccandi.
+
+3. Jac. 1:14. Unusquisque tentatur, dùm à propriâ cupiditate distrahitur &
+inescatur. Ergo, unusquisque peccans habet internè inescantem cupiditatem; ac
+proindè non peccat solâ mentis obnubilatione.
+
+4. Si sint quidam adeò perfectè renati, ut sint omnis habitus; i.e.
+concupiscentiæ, & omnis habitus acquisiti peccandi expertes; tùm sunt quidam
+qui possunt dicere, scimus, quod in nobis habitet bonum: nos non habemus
+peccatum: nos
+
+[1668 KBNL/UvA witness | logical printed p. 527 | PDF p. 578 | split word joined: purificavimus]
+
+purificavimus animas nostras: Nec necesse est ut dicant, Remitte nobis peccata
+nostra. Sed hoc perquàm sacrilegum est gratiæ Divinæ.
+
+5. Item, tùm sunt quidam, quibus necesse non est, ut orent, Adauge, Domine,
+gratiam in nobis: amove cor lapideum: subige cupiditates carnis. Quia tales
+omnem omninò habitum peccandi, tùm innatum, tùm acquisitum exuerunt: Et sunt in
+eo statu, in quo sunt boni Angeli & Adamus in statu innocentiæ, in quibus est
+peccandi nullus habitus, concupiscentia nulla, nulla ad peccandum propensio.
+
+6. Imò tales dicere possent, Non indigemus Christo Salvatore jam, non Advocato
+& interpellatore pro nobis apud Patrem, magis, quàm boni Angeli & Adamus
+nondum lapsus; quippè, jam omnem habitum & propensionem peccandi exuimus.
+
+7. Non necesse est, ut tales crucifigant veterem hominem & carnales affectus,
+aut subdoment cupiditates militantes adversùs animam.
+
+ROM. 7:14.
+
+Scimus Legem esse spiritualem, ego autem carnalis sum & venditus peccato.
+
+Quæritur, An de homine irrenato & sub Lege existente, hic loquatur Apostolus;
+an de homine renato sub gratiâ? Arminius in expositione cap. 7. epistolæ ad
+Rom. ut convellat istam luctam inter spiritum & carnem in renatis, ait Paulum
+loqui in personâ irrenati, sub lege gementis. Ità olim Pelagiani, ut Augustinus
+ait. Ità Erasmus, Castellio,
+
+[1668 KBNL/UvA witness | logical printed p. 528 | PDF p. 579 | split word joined: Socinus]
+
+Socinus. Nos contrà, eum loqui de verè renato dicimus.
+
+1. Semper continuat sermonem de se. Ego sum carnalis, ego agnosco, ego volo,
+ego nolo, non ego, sed caro in me, gratias ago Deo.
+
+2. Falsum est & Dei verbo repugnans, irrenatum dici posse Legi mortuum, &
+alteri, nempè, Christo maritatum. v. 3:4.
+
+3. Expressè distinguit Paulus v. 5. inter se, de quo loquitur, & irrenatum; seu
+inter se dùm esset irrenatus, & se jam sub hâc luctâ gementem. Quum enim
+essemus in carne, affectus peccatorum per Legem existentes vigebant in membris
+nostris, ad fructum ferendum morti. v. 6. Nunc autem liberati sumus &c. Ecce!
+manifesta status & personæ mutatio; & expressè ait, se liberatum à Lege, &
+continuat sermonem de se liberato à Lege.
+
+3. Consentire Legi, quòd bona sit, & eâ delectari quoad interiorem hominem, est
+solius renati proprium. Psal. 1:2. In Lege Domini delectatio hominis beati. At
+hominis sub Lege, adeòque maledicti, & extranei à Christo, in quo omnes gentes
+terræ benedictæ sunt, quæ beatitudo?
+
+4. Soli renati, non irrenati, habent hominem interiorem. Rom. 2:29. 2 Cor.
+4.16. 1 Pet. 3:4.
+
+5. De irrenato, utpote peccati servo, dici nequit, quòd velit bonum, nolit
+malum, odio habeat peccatum. In renatis verò, Deus operatur novum cor. Ezech.
+36:26. Velle & perficere, pro
+
+[1668 KBNL/UvA witness | logical printed p. 529 | PDF p. 580 | split word joined: gratuitâ]
+
+gratuitâ suâ benevolentiâ Phil. 2:13. Imò, in eo omnes affectus renovantur, ut
+videre est per totum Psalmum 119. delectatio, gaudium, timor, spes, fiducia
+&c. At verò in irrenatis, mens obtenebrata est. Eph. 4:18. Conscientia polluta.
+Tit. 1:15. Imò voluntas, affectus, sensus, oculi, manus, aures, lingua, guttur,
+pedes, & omnia, quæ in iis sunt, polluta sunt. Rom. 2:10---20.
+
+6. Irrenatus mente non servit Legi Dei; nón potest dicere, quod de se hîc dicit
+Paulus v. 17. Non ego, sed peccatum in me: quia totus quantus est, est peccatum
+& peccato mancipatus. Malè verò negatur, hominem irrenatum & sub Lege, qui
+peccat contra lumen conscientiæ, eum totum non peccare, quia lumine naturali
+videt meliora probatque, & sequitur deteriora; nam si hæc ratio valeret, sic
+excusari posset peccatum in Spiritum Sanctum (in quo peccans est supernaturali
+illuminatione longè maximâ, quantam capere potest Diaboli mancipium,
+illustratus) Non ego quoad mentem illuminatam, blasphemias evomo in Deum, sed
+peccatum, quod in me habitat. Et sic omnia peccata irrenatorum, in quibus
+conscientia illuminata appetitui inferiori peccati contranititur, essent
+peccata infirmitatis, non autem regnantia; & eo nomine excusanda, quo Paulus
+hoc capite, se & renatos omnes leviùs peccare asserit.
+
+7. Irrenato peccatum est delectatio, non
+
+[1668 KBNL/UvA witness | logical printed p. 530 | PDF p. 581]
+
+onus. At hic exclamat se captivari, h. e. trahi quasi invitum ad peccandum; se
+miserum & ærumnosum in hoc corpore peccati esse, velle se liberari, & de
+liberatione gratias agit in Christo. Hæc autem in irrenatum non quadrant.
+
+MATTH. 3:10.
+
+Omnis arbor, quæ fructum bonum non fert, exscindetur, & in ignem conjicietur.
+
+Hinc bonorum operum, si salvari velimus, necessitas astruitur. Sed
+
+Quæritur, An bona opera sint necessaria, ut causæ justificationis, adeòque &
+salutis? Ajunt Arminiani. Nos negamus. Sed ad quæstionis clariorem
+determinationem, distinguenda sunt hæc tria. 1. Jus ad vitam æternam. 2.
+Singularis applicatio illius juris ad determinatas & certas personas. 3.
+Actualis possessio vitæ æternæ.
+
+2. Distinguendum est inter causam sine quâ non, seu causam, ut vocat Calvinus,
+inferiorem; & causam superiorem.
+
+Sententiam ergo nostram his assertionibus proponimus.
+
+Assertio 1. Jus ad justitiam & vitam æternam debetur solis meritis Christi;
+non nostris operibus. 1. Quia sanguis Christi est λύτρον pro nobis solutum;
+non nostra opera, non passiones nostræ. Rom. 3:24. Act. 4:12. Eph. 1.7. 1 Pet.
+1:18,19. Apoc. 1:5. 2. Quia nulla vis meritoria nostris operibus inest. Rom.
+8:18, 2 Cor. 4.17.
+
+[1668 KBNL/UvA witness | logical printed p. 531 | PDF p. 582 | split word joined: Assertio]
+
+Assertio. 2. Nec bona opera nostra sunt præviæ dispositiones & causæ ad
+justificationem, sub promissione Dei, nos qualificantes. 1. Quia justificatio
+non est ex operibus; sed ex merâ gratiâ, ut alibi probatum. 2. Quia nulla est
+in Scriptura talis promissio; Qui talia bona opera præstiterit, is
+justificabitur coram Tribunali Dei.
+
+Assertio. 3. Causa applicans juris, vel tituli meritorii ad justitiam & vitam
+æternam, est sola fides; quia sola fides, justitiam Christi, ejusque merita
+apprehendit. Christus autem est justitia nostra, & vita æterna ejus solius
+meritis & sanguine parta est.
+
+Assertio 4. Nihil impedit, quominùs bona opera vocemus causam inferiorem
+actualis possessionis vitæ æternæ. Ità noster Calvinus Instit. lib. 4. cap. 14.
+sect. 21. Istis nihil obstat quominus opera Dominus tanquam causas inferiores
+amplectatur. Sed unde id? nempè, quos suâ misericordiâ æternæ vitæ hæreditati
+destinavit, eos ordinariâ suâ dispensatione, per bona opera inducit in ejus
+possessionem. Quod in ordine dispensationis præcedit, posterioris causam
+nominat. ---- Denique istis locutionibus, series magis notatur, quam causa:
+quia Deus gratias gratis cumulando, ex prioribus causam sumit secundas addendi.
+Hinc illud Bernardi, Bona opera sunt via regni, non causa regnandi: ubi
+excludit tantùm ea, tanquàm causas principales. Ideò Bucerus in Colloquio
+Ratisbonensi anno 1547.
+
+[1668 KBNL/UvA witness | logical printed p. 532 | PDF p. 583]
+
+cap. 6, vocat, causas aliquo modo mercedis æternæ. Zanchius de naturâ Dei.
+lib. 2. cap. 5. & parte 2. de prædestinatione Sanctorum quæst. 3. Sunt causæ
+instrumentalis (inquit) potiùs quàm efficiens; & causa, quam vocant, sine quâ
+non.
+
+Assertio. 5. Bona opera tripliciter intelliguntur habere vim causativam vitæ
+æternæ. 1. Condignè meritoriam; quod ut blasphemum, contra Pontificos
+rejicimus; ut alibi probavimus. 2. Quòd habeant vim inferiorem & causalitatem
+instrumentalem, ex Dei gratiâ, ipsis collatam: ut ait Gisbertus Voetius in
+Thersite Heautontemerumeno sect. 1. cap. 2. uti cursus est causa apprehensæ
+coronæ; certamen, victoriæ; diæta, sanitatis. Nec licet hic distinguere
+accuratè loquendo inter medium & causam, aut inter viam & causam: Cùm enim
+bona opera sint media, non passiva, sed activa, medium hic est causa inferior:
+Undè leves nostræ afflictiones excellenter excellentis gloriæ pondus æternum
+faciunt κατεργάζεται ἡμῖν operantur, causantur nobis; ut loquitur Spiritus
+Sanctus Cor. 4:17. Neque hic possumus distinguere inter causas & signa; quia
+mera signa nullam causalitatem habent; nec aurora ullo modo est causa diei;
+neque fumus causa, vel inferior ignis. Cursus autem noster per bona opera,
+activè se habet ad actualem possessionem vitæ æternæ: Verùm hæc causalitas 1.
+Non est principalis. 2. Non meritoria. 3. Non ab ipsis operibus,
+
+[1668 KBNL/UvA witness | logical printed p. 533 | PDF p. 584]
+
+sed à Dei gratiâ, Ideòque sunt causæ factæ, potiùs quàm innatæ; non suâ vi,
+sed ex dispensatione Dei. Undè sequitur, non necessariam esse in hâc
+quæstione, 1. Distinctionem præsentia & causalitatis; vel præsentia &
+efficientia; nec 2. Distinctionem illam causæ & signi: neque 3. Illam medii seu
+viæ, & causæ: nec 4. Illam medii passivi & activi; nisi prudenter exponantur.
+
+3. Bona opera intelliguntur habere vim causativam vitæ æternæ, principalem,
+dominativam & prædeterminativam, à nostro Libero Arbitrio manantem, non autem à
+Dei gratiâ prædeterminante, uti somniant Arminiani: & hoc modo volunt, bona
+opera esse causas vitæ æternæ; quòd nos blasphemum judicamus.
+
+1. Quia currenti & certanti, qui à Domino ludi vires non accepit, deberetur
+laus & gloria brabii & victoriæ, non Domino, qui merus spectator fuit; si
+absolutè est penès Liberum Arbitrium sese determinare, & à Deo & ejus gratiâ
+nulla est determinatio voluntatis liberæ: & sic bona opera erunt causæ
+principales vitæ æternæ, non Dei gratia.
+
+2. Gloria bonorum operum & vitæ æternæ, non Deo, non Agno pro peccatis nostris
+mactato, non divinæ gratiæ adscribenda foret (quia positis hisce omnibus,
+potest voluntas libera se ad bona opera determinare vel non determinare) sed
+soli libero Arbitrio deferenda esset gloria.
+
+[1668 KBNL/UvA witness | logical printed p. 534 | PDF p. 585]
+
+3. Erit absolutè penès nos, non penès Deum & ejus gratiam, conversio &
+perseverantia & vita æterna, potiùs quàm non-conversio, apostasia, & æterna
+damnatio.
+
+4. Quia Scriptura ubique negat nos ex operibus salvari; sed affirmat id fieri
+ex Dei gratiâ & misericordiâ. Eph. 2:8. Gratiâ servati estis per fidem (& hoc
+non ex vobis, Dei donum est.) v. 9. Non ex operibus, nè quis glorietur. 2 Tim.
+1:9. Qui servavit & vocavit nos vocatione sanctâ, non secundùm opera nostra,
+sed secundùm voluntatem suam & gratiam, quæ data est nobis in Jesu Christo.
+Tit. 3.5. Non ex operibus justis, quæ feceramus nos; sed ex suâ misericordiâ
+servavit nos, per lavacrum regenerationis, & renovationem Spiritûs Sancti.
+Rom. 9:23. Stipendium peccati, mors: Donum autem Dei (non stipendium) est vita
+æterna in Christo Jesu Domino nostro.
+
+5. Quia Fœdus Operum, seu Lex, & Fœdus Gratia, seu Evangelium, confunderentur,
+si salus esset ex operibus nostris. Eadem, quippè, est causa æternæ salutis,
+quæ est nostræ justificationis coram Tribunali Dei. Imò neque volumus bona
+opera, legaliter perfecta, esse necessariò requisita ad possessionem vitæ
+æternæ; sed sufficere opera Evangelicè bona, & Deo per Christum Mediatorem
+grata & accepta.

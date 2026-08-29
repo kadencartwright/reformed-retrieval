@@ -83,9 +83,9 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the first two rejected marks in Chapter XI at the end of
-printed p. 127. Shared-page boundaries preserve each chapter heading in the
-following part rather than duplicating it.
+printed p. 1 through the end of Chapter XII in the upper part of shared printed
+p. 159. Shared-page boundaries preserve each chapter heading in the following
+part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -99,6 +99,8 @@ following part rather than duplicating it.
 | 08 | Chapter IX | printed pp. 103–109 / IA leaves 121–127 / PDF pp. 121–127; stops before `CAP. X.` on p. 110 | 7 |
 | 09 | Chapter X | printed pp. 110–122 / IA leaves 128–140 / PDF pp. 128–140; stops before `CAP. XI.` on shared p. 122 | 13 |
 | 10 | Chapter XI opening; first two false marks | lower part of shared printed p. 122 through p. 127 / IA leaves 140–145 / PDF pp. 140–145; stops before `Tertio` on p. 128 | 6 |
+| 11 | Chapter XI remainder; third through sixth false marks | printed p. 128 through the upper part of shared p. 143 / IA leaves 146–161 / PDF pp. 146–161; stops before `CAP. XII.` | 16 |
+| 12 | Chapter XII; true marks of Moral precepts | lower part of shared printed p. 143 through the upper part of shared p. 159 / IA leaves 161–177 / PDF pp. 161–177; stops before `CAP. XIII.` | 17 |
 
 The files are:
 
@@ -112,8 +114,10 @@ The files are:
 - `parts/part-08-book-01-chapter-09-{latin.txt,english.md}`
 - `parts/part-09-book-01-chapter-10-{latin.txt,english.md}`
 - `parts/part-10-book-01-chapter-11a-false-marks-{latin.txt,english.md}`
+- `parts/part-11-book-01-chapter-11b-false-marks-{latin.txt,english.md}`
+- `parts/part-12-book-01-chapter-12-true-marks-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–10 image audits
+### Part 04 re-audit and Parts 05–12 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -278,6 +282,69 @@ Its final included words are `...atque ita abundè convellitur ea nota, pergamus
 ad aliam.` The third false mark and the remainder of Chapter XI are excluded.
 The next untranslated text is therefore `Tertio, ut effugiant vim hujus
 objectionis adversarii...` on printed p. 128 / IA leaf 146 / PDF p. 146.
+
+Part 11 is a complete, image-audited continuation and conclusion of Chapter XI,
+comprising Brown's rejection of the third through sixth proposed false marks
+of the Moral Law. Every controlling image from `Tertio` on PDF 146 through the
+chapter end in the upper part of PDF 161 was read directly, including all
+fifteen internal joins and the outgoing shared-page stop before `CAP. XII.` OCR
+was used only as a collation aid. Printer-divided words at the p. 128/129, p.
+133/134, p. 138/139, p. 139/140, p. 140/141, and p. 142/143 joins are joined
+with the new marker before the complete Latin word and corresponding English
+word or phrase; the other nine joins fall between complete words. The Latin
+and English contain the identical sixteen-marker sequence.
+
+The terminal errata readings `amisisse` (p. 128, line 22), `positivum` (p. 129,
+lines 9–10), `Quinto` (p. 129, line 29), and `inutilem` (p. 133, line 29) are
+incorporated and disclosed in both file headers. The terminal errata leaf's
+general warning about Greek and Hebrew type is retained there as well. The
+Greek and Hebrew expressions are retained, including the extended Hebrew
+lexical discussion on pp. 130–131 and Brown's citations of Ezekiel on pp.
+132–134. All headings, arguments, quotations, citations, and substantive
+italic distinctions are present. No separate substantive marginal gloss
+occurs in this unit. Running heads, signatures, catchwords, the terminal rule,
+and ornaments are omitted under the stated policy.
+
+The exact Part 11 opening is `Tertio, ut effugiant vim hujus objectionis
+adversarii...`. Its final included words are `...quatenus & cum naturâ
+moraliter conveniunt, & ex eâ integrâ deducuntur.` The rule, `CAP. XII.`, its
+title, and the opening of Chapter XII on the remainder of printed p. 143 are
+excluded. The next untranslated text is therefore `CAP. XII. Proponuntur &
+Explicantur Moralium Praeceptorum notae aliquot Verae.` on shared printed p.
+143 / IA leaf 161 / PDF p. 161.
+
+Part 12 is a complete, image-audited Chapter XII unit of seventeen printed-page
+blocks. Every controlling image from the Chapter XII heading on PDF 161 through
+the chapter end in the upper part of PDF 177 was read directly, including the
+incoming shared-page join after Part 11, all sixteen internal joins, and the
+outgoing shared-page stop before `CAP. XIII.` OCR was used only as a collation
+aid. Printer-divided words at the p. 143/144, p. 145/146, p. 148/149, and p.
+151/152 joins are joined with the new marker before the complete Latin word and
+corresponding English word or phrase; the other twelve joins fall between
+complete words, with catchwords omitted. The Latin and English contain the
+identical seventeen-marker sequence.
+
+The terminal errata readings `vendicarent` (p. 146, line 18), `obligat` (p.
+147, line 33), `ταπεινοφροσύνη` (p. 148, line 28), `perpetuum` (p. 149, lines
+5–6), `observatum` (p. 150, line 7), `afferet` (p. 151, line 2), `καθ’ ἕν`
+(p. 154, line 5), `docebat` (p. 155, line 21), and `testabuntur` (p. 155,
+penultimate line) are incorporated and disclosed in both file headers. The
+terminal errata leaf's general warning about Greek and Hebrew type is retained
+there as well. The Greek forms and phrases (`κριτήρια`, `νομοθεσία`,
+`ἐθελοθρησκεία`, `ταπεινοφροσύνη`, `ἀντίδοτον`, `κατ’ ἰδίαν`, `ἐμφώνως`, and
+`καθ’ ἕν`) and Hebrew particles (`ו` and `כי`) are retained. All headings,
+arguments, quotations, citations, marginal quotation signs, and substantive
+italic distinctions are present. No separate substantive marginal gloss
+occurs. Running heads, signatures, catchwords, rules, and ornaments are omitted
+under the stated policy.
+
+The exact Part 12 opening is `CAP. XII. Proponuntur & Explicantur Moralium
+Praeceptorum notae aliquot Verae. EXaminatis notis illis...`. Its final included
+words are `...postea Lib. III: Cap. XXIII. manifestum faciemus.` The rule,
+`CAP. XIII.`, its title, and the opening of Chapter XIII on the remainder of
+printed p. 159 are excluded. The next untranslated text is therefore `CAP.
+XIII. D. Burmanni de Lege Morali Sententia examinatur.` on shared printed p. 159
+/ IA leaf 177 / PDF p. 177.
 
 ## Review and licensing status
 

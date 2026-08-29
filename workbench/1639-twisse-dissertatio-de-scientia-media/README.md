@@ -148,6 +148,16 @@ Part 11 carries that transition across **printed pp. 66–67 / BSB canvases
 The next unit resumes on printed p. 67 / canvas 00093 with `Sicut (inquit)
 quando in aliqua propositione`.
 
+Part 12 contains Navarrete's complete illustration from the proposition
+`cognosco hominem` and Twisse's closing exclamation. It remains on printed p.
+67 / canvas 00093 and has one identical source marker.
+
+- `parts/part-12-digression-03-section-07-concept-illustration-latin.txt`
+- `parts/part-12-digression-03-section-07-concept-illustration-english.md`
+
+The next unit resumes there at the separately labeled response, `Novas
+distinctiones pro ea qua est subtilitate`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

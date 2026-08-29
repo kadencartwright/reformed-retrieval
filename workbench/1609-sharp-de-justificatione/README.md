@@ -10,6 +10,20 @@ independent English working translation of John Sharp (Johannes Scharpius),
   table of controversies, and the foundational doctrinal summary.
 - `parts/part-01-preliminaries-and-foundation-english.md` — full close English
   translation of the same unit.
+- `parts/part-02-controversy-01-faith-as-knowledge-{latin.txt,english.md}` —
+  first controversy, on whether faith is knowledge.
+- `parts/part-03-controversies-02-03-and-04a-faith-{latin.txt,english.md}` —
+  second and third controversies and the scriptural arguments in the fourth.
+- `parts/part-04-controversy-04b-special-assurance-{latin.txt,english.md}` —
+  remainder of the fourth controversy, on assurance of particular mercy.
+- `parts/part-05-controversy-05-perseverance-{latin.txt,english.md}` — fifth
+  controversy, on whether true believers can fall away from faith.
+- `parts/part-06-controversy-06-faith-and-love-{latin.txt,english.md}` — sixth
+  controversy, on whether true faith can be separated from love and the other
+  virtues.
+- `parts/part-07-controversy-07a-faith-alone-arguments-and-fathers-{latin.txt,english.md}`
+  — opening of the seventh controversy through its arguments and patristic
+  testimonies.
 
 ## Controlling witness and rights
 
@@ -53,6 +67,28 @@ returned HTTP 403 in the working environment. Its relevant component begins at
 `RA1-PA1`; `RA1-PA1`–`RA1-PA18` correspond to e-rara canvases 3–20. The e-rara
 images remain controlling.
 
+## Completed extent and continuation boundary
+
+The paired files now cover the witness continuously through the patristic
+testimonies in the seventh controversy:
+
+| Part | Canvases | Image IDs | Printed pages | Extent |
+|---:|---:|---:|---:|---|
+| 01 | 3–20 | 15574975–15574992 | unnumbered, 3–18 | preliminaries and foundation |
+| 02 | 21–37 | 15574993–15575009 | 19–35 | controversy 1 |
+| 03 | 37–51 | 15575009–15575023 | 35–49 | controversies 2–3 and first portion of 4 |
+| 04 | 52–72 | 15575024–15575044 | 50–70 | remainder of controversy 4 |
+| 05 | 72–93 | 15575044–15575065 | 70–91 | controversy 5 |
+| 06 | 93–98 | 15575065–15575070 | 91–96 | controversy 6 |
+| 07 | 98–105 | 15575070–15575077 | 96–103 | controversy 7 through the patristic testimonies |
+
+Shared boundary pages occur where one controversy ends and the next begins
+lower on the same page; the editorial boundary notes in the paired files state
+which heading is excluded. Part 07 ends after the fourteenth patristic
+testimony on printed p. 103. The next untranscribed text is the heading
+`OBIECTIONES` lower on that page, followed by the first objection to
+justification by faith alone.
+
 ## Witness anomaly
 
 Printed p. 8 begins with `bus, & consiliis damnata fuerunt implacabilis ille`,
@@ -64,6 +100,10 @@ printed repetition; the surrounding dedication reads continuously without it.
 The controversy table on p. 10 also prints singular `promissionis` with plural
 `sint`; the Latin retains the form, while the English conveys the evident
 singular question without silently changing the source transcription.
+Printed p. 101 cites `Ioh. 14.5. & 15.14.` for the statement that no one can
+bring what is clean from what is unclean. The wording points instead to Job
+14:4 and 15:14, but both paired files retain the witness's printed Johannine
+references rather than emending them silently.
 
 ## Editorial method and status
 

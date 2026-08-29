@@ -55,8 +55,14 @@ made here for the Latin transcription, witness images, or metadata.
   examination, beginning on shared printed p. 7 and ending on shared printed
   p. 17.
 - BSB canvas 25, lower portion: the separately headed and numbered
-  `PRAEFATIO. SECTIO PRIMA. DE PRAEDESTINATIONIS ...`; excluded from Part 01
-  and reserved for the next unit.
+  `PRAEFATIO. SECTIO PRIMA. DE PRAEDESTINATIONIS ...`; Part 02 begins here
+  with Perkins's notice, Arminius's prefatory statement, and Twisse's reply.
+- BSB canvas 26, left column: Part 02 ends after Twisse's complete discussion
+  of Arminius's claim to “more accurate doctrine,” immediately before the new
+  paragraph `Sed candorem profitetur Arminius`.
+- BSB canvases 26–27: Part 03 follows Twisse's complete historical argument
+  about Arminius's professed candor through the chronology involving Junius,
+  Perkins, Bertius, and Martin Lydius; it ends in the left column of p. 19.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -82,7 +88,7 @@ marker sequence exactly. It is a close prose translation, not a summary. No
 modern or historical English version supplies its wording. Both files
 explicitly remain AI-assisted and unreviewed.
 
-## Current unit
+## Current units
 
 **Part 01 is complete as an AI-assisted, scan-audited, unreviewed working
 draft.** It covers Twisse's opening authorial preface and the unnumbered first
@@ -96,6 +102,27 @@ and the biblical and scholarly marginalia are retained.
 - Latin: `parts/part-01-preface-opening-latin.txt`
 - English: `parts/part-01-preface-opening-english.md`
 
-The next unit begins on shared printed p. 17 / BSB canvas 25 with Twisse's
-`PRAEFATIO. SECTIO PRIMA` and continues through the numbered prefatory
-sections.
+**Part 02 is complete as an AI-assisted, unreviewed working draft.** It opens
+the separately numbered `PRAEFATIO. SECTIO PRIMA` on shared printed p. 17 /
+BSB canvas 25. It includes Perkins's programmatic notice, Arminius's complete
+prefatory statement, and Twisse's coherent opening treatment of Arminius's
+appeal to more accurate doctrine. It ends on printed p. 18 / canvas 26 at the
+paragraph boundary immediately before Twisse turns to Arminius's professed
+candor. The pair has two identical source markers.
+
+- Latin: `parts/part-02-preface-section-01-accuracy-latin.txt`
+- English: `parts/part-02-preface-section-01-accuracy-english.md`
+
+**Part 03 is complete as an AI-assisted, unreviewed working draft.** It begins
+on printed p. 18 / BSB canvas 26 with `Sed candorem profitetur Arminius` and
+contains Twisse's coherent historical case against Arminius's profession of
+candor. It carries the argument through the chronology of the Junius
+conference and Perkins's book, then through Bertius's account of Martin
+Lydius's commission. It ends in the left column of printed p. 19 / canvas 27
+after `hic profiteri non erubuit`. The pair has two identical source markers.
+
+- Latin: `parts/part-03-preface-section-01-candor-latin.txt`
+- English: `parts/part-03-preface-section-01-candor-english.md`
+
+The next unit resumes in the left column of printed p. 19 / BSB canvas 27
+with `Sed quibus quaeso argumentis`, still within `PRAEFATIO. SECTIO PRIMA`.

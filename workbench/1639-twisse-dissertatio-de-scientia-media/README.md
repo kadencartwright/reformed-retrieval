@@ -383,6 +383,16 @@ canvas 00096 and has one identical marker.
 The next unit resumes there with `Verum, cum dicit Deum intueri res secundum
 quod a parte rei futurae sunt in tempore`.
 
+Part 36 contains Twisse's complete reconstruction of Navarrete's distinction
+between God's side and the thing's side in production and intuition. It
+remains on printed p. 70 / canvas 00096 and has one identical marker.
+
+- `parts/part-36-digression-03-section-07-god-side-thing-side-latin.txt`
+- `parts/part-36-digression-03-section-07-god-side-thing-side-english.md`
+
+The next unit resumes there with `Itaque hoc unum expediendum superest
+Navarretto, ut harum minutiarum explicationem nobis exponat`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening sixty printed pages of Volume II.
-> The seven paired parts are unreviewed and are not publication-ready.
+> close English translations of the opening sixty-four printed pages of
+> Volume II. The ten paired parts are unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -85,7 +85,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 60 is applied and disclosed in the relevant
+completed span through printed p. 64 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 were read from the image, not reconstructed from IA
 OCR. Apparatus notes record printed errata, source-language glosses needed by
@@ -100,7 +100,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Seven paired parts are complete as scan-audited, AI-assisted, unreviewed
+Ten paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -131,13 +131,25 @@ working drafts:
   leaves 66–68; three synchronized markers.
   [Latin](parts/part-07-book-04-chapter-06-objections-04-05-latin.txt) |
   [English](parts/part-07-book-04-chapter-06-objections-04-05-english.md)
+- **Part 08:** Chapter VI, objection 6; printed pp. 60–61 / IA PDF and leaves
+  68–69; two synchronized markers.
+  [Latin](parts/part-08-book-04-chapter-06-objection-06-latin.txt) |
+  [English](parts/part-08-book-04-chapter-06-objection-06-english.md)
+- **Part 09:** Chapter VI, objections 7–9; printed pp. 61–63 / IA PDF and
+  leaves 69–71; three synchronized markers.
+  [Latin](parts/part-09-book-04-chapter-06-objections-07-09-latin.txt) |
+  [English](parts/part-09-book-04-chapter-06-objections-07-09-english.md)
+- **Part 10:** Chapter VI, objections 10–12; printed pp. 63–64 / IA PDF and
+  leaves 71–72; two synchronized markers.
+  [Latin](parts/part-10-book-04-chapter-06-objections-10-12-latin.txt) |
+  [English](parts/part-10-book-04-chapter-06-objections-10-12-english.md)
 
-Part 07 ends after the final response to Objection 5 and before `Obj. 6.` on
-shared printed p. 60. The exact next untranslated text is `Obj. 6. Licet
-teneantur fideles rem mandatam praestare; non tamen tenentur hoc facere vi
-mandati...`, at printed p. 60 / IA PDF 68 / IA leaf 68. Chapter VI remains in
-progress. Every completed pair has an identical source-marker sequence, and
-all seven pairs remain AI-assisted and unreviewed.
+Part 10 ends after the final response to Objection 12 and before `Obj. 13.` on
+shared printed p. 64. The exact next untranslated text is `Obj. 13. Licet
+materia legis non sit abolita, lex tamen ipsa, quatenus lex est, aboletur.`,
+at printed p. 64 / IA PDF 72 / IA leaf 72. Chapter VI remains in progress.
+Every completed pair has an identical source-marker sequence, and all ten
+pairs remain AI-assisted and unreviewed.
 
 ## Licensing
 

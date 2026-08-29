@@ -40,7 +40,9 @@ The same four derivatives were freshly acquired from that stable item for the
 Part 04 re-audit and Parts 05–10 work on 19 August 2026. The plain OCR, DjVu XML,
 and scan-data XML remain byte-identical to the Part 01 captures. Internet
 Archive now serves a regenerated access PDF, so its current checksum is
-recorded separately rather than silently replacing the earlier evidence:
+recorded separately rather than silently replacing the earlier evidence. All
+four derivatives were acquired again for Parts 14–16 on 29 August 2026 and
+were byte-identical to this most recently recorded set:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -83,9 +85,9 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the first definitional argument of Chapter XIII at the top
-of printed p. 163. Shared-page boundaries preserve each new argumentative unit
-in the following part rather than duplicating it.
+printed p. 1 through the conclusion of Chapter XIII in the upper part of
+printed p. 177. Shared-page boundaries preserve each new argumentative unit in
+the following part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -102,6 +104,9 @@ in the following part rather than duplicating it.
 | 11 | Chapter XI remainder; third through sixth false marks | printed p. 128 through the upper part of shared p. 143 / IA leaves 146–161 / PDF pp. 146–161; stops before `CAP. XII.` | 16 |
 | 12 | Chapter XII; true marks of Moral precepts | lower part of shared printed p. 143 through the upper part of shared p. 159 / IA leaves 161–177 / PDF pp. 161–177; stops before `CAP. XIII.` | 17 |
 | 13 | Chapter XIII opening; Burmann's basic definition of the Moral Law | lower part of shared printed p. 159 through the opening lines of p. 163 / IA leaves 177–181 / PDF pp. 177–181; stops before `Distinguit porrò morale` | 5 |
+| 14 | Chapter XIII continuation; immediate and mediated morality | shared printed p. 163 through the opening lines of shared p. 166 / IA leaves 181–184 / PDF pp. 181–184; stops before `Ex dictis colligit tria praeceptorum genera` | 4 |
+| 15 | Chapter XIII continuation; further moral categories and circumstances | shared printed p. 166 through the opening lines of shared p. 170 / IA leaves 184–188 / PDF pp. 184–188; stops before `In sequenti Paragrapho` | 5 |
+| 16 | Chapter XIII remainder; external acts and moral terminology | shared printed p. 170 through the upper part of shared p. 177 / IA leaves 188–195 / PDF pp. 188–195; stops before `CAP. XIV.` | 8 |
 
 The files are:
 
@@ -118,8 +123,11 @@ The files are:
 - `parts/part-11-book-01-chapter-11b-false-marks-{latin.txt,english.md}`
 - `parts/part-12-book-01-chapter-12-true-marks-{latin.txt,english.md}`
 - `parts/part-13-book-01-chapter-13a-burmann-moral-law-{latin.txt,english.md}`
+- `parts/part-14-book-01-chapter-13b-immediate-mediated-morality-{latin.txt,english.md}`
+- `parts/part-15-book-01-chapter-13c-further-moral-categories-{latin.txt,english.md}`
+- `parts/part-16-book-01-chapter-13d-external-acts-and-moral-terminology-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–13 image audits
+### Part 04 re-audit and Parts 05–16 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -379,6 +387,74 @@ Mediatum`, and the remainder of Chapter XIII are excluded. The next
 untranslated text is therefore `Distinguit porrò morale in Immediatum &
 Mediatum, & utrumque explicat axiomate 2. & 3.` on printed p. 163 / IA leaf 181
 / PDF p. 181.
+
+Part 14 is a coherent, image-audited continuation of Chapter XIII covering
+Burmann's distinction between immediate and mediated morality and Brown's
+eight-part response. Every controlling image from the paragraph beginning
+`Distinguit porrò morale` on PDF 181 through the opening lines of PDF 184 was
+read directly, including all three internal joins; the rest of PDF 184 was
+also inspected to verify the outgoing stop. OCR was used only as a collation
+aid. The Latin and English contain the identical four-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+163–166. Its general warning about Greek and Hebrew type is disclosed in both
+file headers, though no Greek or Hebrew occurs in this unit. The printer's
+repeated catchwords at the p. 163/164, p. 164/165, and p. 165/166 joins are
+omitted and placed only after the new marker. All quotations, citations,
+numbered replies, and substantive italic distinctions are retained; no
+separate substantive marginal gloss occurs. The exact Part 14 opening is
+`Distinguit porrò morale in Immediatum & Mediatum, & utrumque explicat axiomate
+2. & 3.` Its final included words are `...postea suo loco ostendemus.` The next
+paragraph is excluded; at this handoff the next untranslated text was `Ex
+dictis colligit tria praeceptorum genera. §. 4.` on shared printed p. 166 / IA
+leaf 184 / PDF p. 184.
+
+Part 15 is a coherent, image-audited continuation of Chapter XIII covering
+Burmann's further classifications of moral precepts and Brown's arguments from
+means, ownership, time, place, gestures, and fasting. Every controlling image
+from `Ex dictis colligit tria praeceptorum genera` on PDF 184 through the
+opening lines of PDF 188 was read directly, including all four internal joins;
+the remainder of PDF 188 was also inspected to verify the outgoing stop. OCR
+was used only as a collation aid. The Latin and English contain the identical
+five-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+166–170. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the page images govern `τραγῳδεῖν` and `ἀκριβείᾳ`. No Hebrew or
+separate substantive marginal gloss occurs. The printer's repeated catchwords
+at all four page joins are omitted and placed only after the new marker. All
+quotations, citations, numbered replies, and substantive italic distinctions
+are retained. The exact Part 15 opening is `Ex dictis colligit tria
+praeceptorum genera. §. 4.` Its final included words are `...& 13: 2, 3. & 14:
+22.` The following paragraph is excluded; at this handoff the next
+untranslated text was `In sequenti Paragrapho Pag. 7. & 8. multis ostendere
+conatur` on shared printed p. 170 / IA leaf 188 / PDF p. 188.
+
+Part 16 is the complete, image-audited remainder of Chapter XIII, covering
+Brown's criticism of Burmann's account of external acts and virtue and the
+chapter's concluding discussion of moral terminology. Every controlling image
+from `In sequenti Paragrapho` on PDF 188 through the chapter end in the upper
+part of PDF 195 was read directly, including all seven internal joins and the
+outgoing shared-page stop before the rule and `CAP. XIV.` OCR was used only as
+a collation aid. The Latin and English contain the identical eight-marker
+sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+170–177. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the page images govern the extended Greek terminology, including
+`ἀρετὴν`, `λόγοις διδακτοῖς πνεύματος ἁγίου`, `δόγματα`, `τὸν νόμον τῶν
+ἐντολῶν`, `ἐντολὴ`, `τῶν ἠθῶν`, `ἠθικὴ`, `φυσικὸν`, `νομικὸν`,
+`λογομαχίαις`, and `κατ’ ἐξοχήν`. No Hebrew occurs. The printed `(N B)` notices
+are retained; no other substantive marginal gloss occurs. Repeated catchwords
+at all seven page joins are omitted and placed only after the new marker. All
+quotations, citations, numbered replies, and substantive italic distinctions
+are retained. The exact Part 16 opening is `In sequenti Paragrapho Pag. 7. &
+8. multis ostendere conatur...`. Its final included words are `...Sed, his
+missis, ad alia pergo.` The rule, `CAP. XIV.`, its title, and the opening of
+Chapter XIV on the remainder of printed p. 177 are excluded. The next
+untranslated text is therefore `CAP. XIV. An Lex ulla Moralis, propter annexam
+determinationem positivam, fiat Lex purè positiva.` on shared printed p. 177 /
+IA leaf 195 / PDF p. 195.
 
 ## Review and licensing status
 

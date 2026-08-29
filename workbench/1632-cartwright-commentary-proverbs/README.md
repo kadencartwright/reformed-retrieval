@@ -422,6 +422,30 @@ human review.
 - `parts/part-19-chapter-19c-latin.txt`
 - `parts/part-19-chapter-19c-english.md`
 
-The next unit begins with `V. 13. AErumnae patri suo filius stolidus...` in
-the left column of shared PDF 408 / printed column 790; restart there,
-excluding all verse 12 text above it.
+**Part 19d is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XIX from `V. 13. AErumnae patri suo
+filius stolidus...` in the left column of shared PDF 408 / printed column 790
+through the final prose of verse 17 on PDF 412 / printed column 799. It stops
+immediately before `Vers. 18.` in that same right column. Latin and English
+have five byte-identical source markers (PDF 408–412; synchronized printed
+columns 790–791 through 798–799) and retain all five verse lemmata, full prose,
+Hebrew, citations, the deliberately unfinished parenthesis after `uxoris`,
+and printed irregularities. The complete files contain 2,277 Latin-file and
+3,263 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 408–412, was inspected at original detail in both-column
+order. The shared PDF-408 marker is intentional: Part 19c ends above `V. 13.`,
+while Part 19d begins with that lemma below it, so no verse 12 prose overlaps
+and none is omitted. The final marker includes only the concluding prose of
+verse 17 above `Vers. 18.`; no verse 18 material is imported. Page-turn
+catchwords were excluded rather than duplicated, while witness forms including
+`Sucordia`, `Mat. 25.4.`, and `conpensationis` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-19-chapter-19d-latin.txt`
+- `parts/part-19-chapter-19d-english.md`
+
+The next unit begins with `Vers. 18. Castiga filium tuum, dum est spes...` in
+the right column of shared PDF 412 / printed column 799; restart there,
+excluding all verse 17 text above it.

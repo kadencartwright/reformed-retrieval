@@ -397,6 +397,31 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-19-chapter-19b-latin.txt`
 - `parts/part-19-chapter-19b-english.md`
 
-The next unit begins with `Vers. 9. Testis falsitatum non erit infons...` in
-the left column of shared PDF 404 / printed column 782; restart there,
-excluding all verse 8 text above it.
+**Part 19c is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XIX from `Vers. 9. Testis falsitatum
+non erit infons...` in the left column of shared PDF 404 / printed column 782
+through the final prose of verse 12 on PDF 408 / printed column 790. It stops
+immediately before `V. 13.` in that same left column. Latin and English have
+five byte-identical source markers (PDF 404–408; synchronized printed columns
+782–783 through 790–791) and retain all four verse lemmata, full prose, Hebrew,
+Greek, citations, the embedded English `he hath metall in him`, and printed
+irregularities. The complete files contain 2,070 Latin-file and 2,987
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 404–408, was inspected at original detail in both-column
+order. The shared PDF-404 marker is intentional: Part 19b ends above `Vers.
+9.`, while Part 19c begins with that lemma below it, so no verse 8 prose
+overlaps and none is omitted. The shared PDF-408 marker includes only the
+concluding prose of verse 12 above `V. 13.`; no verse 13 material is imported.
+The page-turn catchwords `est`, `tiam`, and `latum` were excluded rather than
+duplicated, while witness forms including `imiationem` and `ab oculos` were
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-19-chapter-19c-latin.txt`
+- `parts/part-19-chapter-19c-english.md`
+
+The next unit begins with `V. 13. AErumnae patri suo filius stolidus...` in
+the left column of shared PDF 408 / printed column 790; restart there,
+excluding all verse 12 text above it.

@@ -417,6 +417,20 @@ The next unit resumes on printed p. 72 / canvas 00098 with `DIGRESSIONIS
 TERTIAE SECTIO OCTAVA`, headed `Quid de notitia simplicis intelligentiae qua
 Deus cognosceret futurum`.
 
+Part 39 spans **printed pp. 72–76 / BSB canvases 00098–00102** and contains
+Digression III, Section VIII in full. It includes Navarrete's sixteenth through
+eighteenth conclusions and Twisse's complete responses on simple intelligence,
+the infallible divine cause, futurity, and the divine Idea. It ends immediately
+before `DIGRESSIONIS TERTIAE SECTIO NONA` and has five identical source
+markers.
+
+- `parts/part-39-digression-03-section-08-simple-intelligence-and-divine-idea-latin.txt`
+- `parts/part-39-digression-03-section-08-simple-intelligence-and-divine-idea-english.md`
+
+The next unit resumes on printed p. 76 / canvas 00102 with `DIGRESSIONIS
+TERTIAE SECTIO NONA`, headed `Solvuntur argumenta posita a principio`, and the
+first argument from Augustine, *De civitate Dei* 12.20.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

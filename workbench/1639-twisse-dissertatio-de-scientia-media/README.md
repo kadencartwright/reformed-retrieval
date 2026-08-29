@@ -138,6 +138,16 @@ eternal mode merely with nonexistence. It remains on printed p. 66 / canvas
 The next unit resumes there with `Quod si modus existendi rebus proprius non
 sit adeo excellens`.
 
+Part 11 carries that transition across **printed pp. 66–67 / BSB canvases
+00092–00093** and ends immediately before Navarrete's new illustration at
+`Sicut (inquit)`. Its pair has two byte-identical source markers.
+
+- `parts/part-11-digression-03-section-07-transition-to-illustration-latin.txt`
+- `parts/part-11-digression-03-section-07-transition-to-illustration-english.md`
+
+The next unit resumes on printed p. 67 / canvas 00093 with `Sicut (inquit)
+quando in aliqua propositione`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

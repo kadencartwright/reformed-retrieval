@@ -207,6 +207,16 @@ canvas 00094 and has one identical marker.
 The next unit resumes there with `Et sane libenter fateor prius intelligendam
 esse aeternitatem`.
 
+Part 18 contains Twisse's complete symmetry argument from eternity and
+immensity. It remains on printed p. 68 / canvas 00094 and has one identical
+marker.
+
+- `parts/part-18-digression-03-section-07-eternity-immensity-latin.txt`
+- `parts/part-18-digression-03-section-07-eternity-immensity-english.md`
+
+The next unit resumes there with Navarrete's `Haec dicta sunt ad declarandum
+illum primum sensum antecedentis positi`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

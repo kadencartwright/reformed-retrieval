@@ -954,3 +954,59 @@ arbitrary image count. The next unit begins in the left column of reader image
 `PA161` / printed p. 161 at the lemmata `Vers. 16. Nam adhuc respiciens sub
 Sole loco juris ibi improbitatem` through `Vers. 22. Quapropter videbatur mihi
 nihil esse bonum`.
+
+**Part 42 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 3:16–22 lemma block and the complete exposition of
+divine judgment and the opposing judgment of the flesh on reader images
+`PA161`, `PA163`, `PA165`, `PA167`, `PA169`, and `PA171`. It begins in the
+left column of printed p. 161 at `Vers. 16. Nam adhuc respiciens sub Sole`,
+crosses the image joins at the p. 162 and p. 164 catchwords `non` and `simul`,
+in the division `pro- / digiosam`, and in the division `opor- / tebat`, and
+ends in the left column of printed p. 171 immediately before `Vers. 23. Sed
+rursus ego quum viderem omnes oppressos`. The paired files have six exactly
+identical reader-image markers and retain all seven verse lemmata, the
+two-part analysis, the contrast between divine and carnal judgment, the
+examples of corrupted courts, the argument concerning human brutality and
+the immortality of the soul, the vernacular place names `Stangate-hole` and
+`Shuters hill`, the Greek `ἱστορητικῶς`, `ἀθέους`, `ἄθεοι`, `ἐκ τῶν αἰτίων`,
+and `ἁπλῶς`, and every printed biblical reference. No independent marginal
+notes, Hebrew, or other foreign-script text occurs in this unit. The English
+translator's notes disclose the irregular verse-18 and verse-19
+constructions, the rhetorical terminology, both vernacular place names, the
+Greek terms, and both divided words rather than silently repairing or
+omitting them:
+
+- `parts/part-42-homiliae-chapter-03-verses-16-22-latin.txt`
+- `parts/part-42-homiliae-chapter-03-verses-16-22-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA171` / printed p. 171 at `Vers. 23. Sed rursus ego quum viderem omnes
+oppressos qui afficiuntur sub Sole`.
+
+**Part 43 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 3:23–26 lemma block and the complete remainder
+of the exposition of Chapter III on reader images `PA171`, `PA173`, `PA175`,
+and `PA177`. It begins in the left column of printed p. 171 at `Vers. 23. Sed
+rursus ego quum viderem omnes oppressos`, crosses the image joins after the
+p. 172, p. 174, and p. 176 catchwords `non`, `illico`, and `lætetur`, and ends
+in the left column of printed p. 177 immediately before the dividing rule and
+`CAPUT IV`. The paired files have four exactly identical reader-image markers
+and retain all four initial lemmata, the four-part analytical diagram, the
+exposition of oppression by superiors and equals, the opposed judgments of
+the flesh and the Holy Spirit, the repeated verse-25 and verse-26 lemmata, the
+Greek `Ἐπιτάσις`, and every printed biblical reference. No independent
+marginal notes, Hebrew, or other foreign-script text occurs in this unit. The
+English translator's notes disclose the reformatted analytical diagram, the
+Greek rhetorical term, the physiological `humidum radicale`, all three
+catchwords, and the compressed or irregular `Carnis sensum`, `optare potius
+non vivere`, and `malis ad placidam malorum patientiam` constructions rather
+than silently repairing or omitting them:
+
+- `parts/part-43-homiliae-chapter-03-verses-23-26-latin.txt`
+- `parts/part-43-homiliae-chapter-03-verses-23-26-english.md`
+
+This unit is bounded by the chapter boundary rather than by an arbitrary
+image count. The next unit begins in the left column of reader image `PA177` /
+printed p. 177, after the dividing rule, at `CAPUT IV` and the initial lemmata
+for verses 1–8.

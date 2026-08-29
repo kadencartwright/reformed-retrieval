@@ -167,6 +167,16 @@ Twisse's one-winged-distinction image. It remains on printed p. 67 / canvas
 
 The next unit resumes there with `Nam excellentiorem istum modum essendi`.
 
+Part 14 contains Twisse's complete critique and twofold restatement of
+Navarrete's distinction between passive intrinsic elevation and containment.
+It remains on printed p. 67 / canvas 00093 and has one identical marker.
+
+- `parts/part-14-digression-03-section-07-elevation-distinction-latin.txt`
+- `parts/part-14-digression-03-section-07-elevation-distinction-english.md`
+
+The next unit resumes there with `At si quis diceret, hominem elevari ad
+solium regium`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

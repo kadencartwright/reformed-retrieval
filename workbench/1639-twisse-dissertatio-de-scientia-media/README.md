@@ -353,6 +353,16 @@ remains on printed p. 70 / canvas 00096 and has one identical marker.
 The next unit resumes there with `Rursus, haec rerum existentia in aeternitate
 vel aliquid est vel nihil`.
 
+Part 33 contains Twisse's complete dilemma concerning whether eternal
+existence is something or nothing and whether it can precede its production.
+It remains on printed p. 70 / canvas 00096 and has one identical marker.
+
+- `parts/part-33-digression-03-section-07-eternal-existence-dilemma-latin.txt`
+- `parts/part-33-digression-03-section-07-eternal-existence-dilemma-english.md`
+
+The next unit resumes there with `Certe secundum rationem dicendum esset,
+existentiam rerum in aeternitate nihil aliud esse quam coexistentiam`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

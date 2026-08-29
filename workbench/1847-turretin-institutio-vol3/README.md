@@ -465,3 +465,34 @@ Primatu Petri,” begins below it on that page and is excluded.
 The next restart point is `QUÆSTIO XVII. DE PRIMATU PETRI. An Petrus fuerit
 Pontifex Oecumenicus, et Caput Ecclesiæ, ac Vicarius Christi? Neg. cont.
 Pontif.` on shared printed p. 132 / IA leaf 166 / PDF p. 166.
+
+## Part 17
+
+Part 17 contains the complete Locus XVIII, Question XVII, “De Primatu Petri.”
+It begins with the question heading on shared printed p. 132 / IA leaf 166 /
+PDF p. 166, immediately after Question XVI, and ends with section XXIII on
+shared printed p. 144 / IA leaf 178 / PDF p. 178. Question XVIII begins below
+it on that page and is excluded.
+
+- Latin: `parts/part-17-locus-18-question-17-latin.txt`
+- English: `parts/part-17-locus-18-question-17-english.md`
+- Both files contain thirteen synchronized source-page markers, all twenty-two
+  printed sections (I–V and VII–XXIII), and ten synchronized marginalia
+  blocks. The witness omits section number VI and passes directly from V to
+  VII; both files retain that printed sequence.
+- All thirteen page images and all twelve page joins were checked directly
+  against the scan. The pp. 134–135 and 135–136 joins divide `prædicat` and
+  `vocationem`; each word is joined, with the new-page marker placed before the
+  complete Latin word and its English counterpart. The final Eusebius Greek
+  phrase continues across pp. 143–144 without dividing a word.
+- The transcription retains all printed Greek and both Hebrew terms. `[sic]`
+  identifies the witness’s disruptive `cui successum non est`, both instances
+  of `ad Apostolis`, `nihil mihi discrepat`, `Ponticem`, `ædicabo`,
+  `inaguratio`, `œcemenicus`, `Apostulatu`, and `abnegavereat`; the English
+  translates the evident sense without silently altering the Latin witness.
+  The printed citation `Matth. xvii. 25` in section XXII and `2 Corinth. ii.`
+  in section XXIII are also retained rather than silently corrected.
+
+The next restart point is `QUÆSTIO XVIII. An Petrus Romæ fuerit, ibique
+Episcopatum per plures annos tenuerit? Neg. cont. Pontif.` on shared printed
+p. 144 / IA leaf 178 / PDF p. 178.

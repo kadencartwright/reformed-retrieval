@@ -524,3 +524,31 @@ excluded.
 The next restart point is `QUÆSTIO XIX. DE PRIMATU PAPÆ. An Papa Romanus sit
 Successor Petri in Monarchia, seu Oecumenico Pontificatu? Neg.` on printed p.
 151 / IA leaf 185 / PDF p. 185.
+
+## Part 19
+
+Part 19 contains the complete Locus XVIII, Question XIX, “De Primatu Papæ.” It
+begins with the question heading on printed p. 151 / IA leaf 185 / PDF p. 185
+and ends with section XXIII on shared printed p. 160 / IA leaf 194 / PDF p.
+194. Question XX begins below it on that page and is excluded.
+
+- Latin: `parts/part-19-locus-18-question-19-latin.txt`
+- English: `parts/part-19-locus-18-question-19-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XXIII, and eleven synchronized marginalia blocks.
+- All ten page images and all nine page joins were checked directly against
+  the scan. The pp. 152–153, 153–154, 154–155, and 156–157 joins divide
+  `denominationis`, `Constantinopolitanum`, `Theophilo`, and `Romanos`; each
+  word is joined, with the new-page marker placed before the complete Latin
+  word and its English counterpart.
+- The transcription retains all eighteen printed Greek expressions. `[sic]`
+  identifies the witness’s disruptive `Anciochenus`, `episto`, `Synondi`,
+  `transmirina`, `suaram`, `non appellari`, `manui`, `sedem Romanum`,
+  `considerent`, `ambitionni`, and `dissensum suam`; the English translates the
+  evident sense without silently altering the Latin witness. The anomalous
+  stop in `vivo. et vidente` is also retained.
+
+The next restart point is `QUÆSTIO XX. An Primatus, qui obtinet in Ecclesia
+Romana, ab initio sit constitutus? An vero paulatim et per gradus in decursu
+seculorum invectus sit? Prius Negamus. Poster. Affirm.` on shared printed p.
+160 / IA leaf 194 / PDF p. 194.

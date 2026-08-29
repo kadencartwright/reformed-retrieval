@@ -286,6 +286,15 @@ canvas 00095 and has one identical marker.
 The next unit resumes there with the numbered `Tertio: Notitia quam Deus habet
 de Antichristo est simpliciter intuitiva`.
 
+Part 26 contains the complete numbered third objection. It remains on printed
+p. 69 / canvas 00095 and has one identical marker.
+
+- `parts/part-26-digression-03-section-07-objection-03-latin.txt`
+- `parts/part-26-digression-03-section-07-objection-03-english.md`
+
+The next unit resumes there with `Ad hoc argumentum Navarretti responsio haec
+est`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

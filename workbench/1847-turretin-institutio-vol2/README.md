@@ -13,7 +13,7 @@
 - **Edition:** Edinburgh, John D. Lowe, 1847
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
   Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, through Question I
+  Testamento*, through Question VI
 
 ## Controlling witness and rights
 
@@ -38,14 +38,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–27 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–32 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Question I, from printed p. 3 / PDF 31 through section XIII on printed p. 155 /
-PDF 183. Part 27 also includes the Locus XII divisional title on PDF 177 and
-its blank verso on PDF 178. The sequence comprises 568 numbered sections
-across 150 numbered text pages. Each part is a complete question, and each
-Latin/English pair has an identical source-marker sequence and retains the
-substantive marginal headings.
+Questions I–VI, from printed p. 3 / PDF 31 through section XXXII on printed p.
+191 / PDF 219. Part 27 also includes the Locus XII divisional title on PDF 177
+and its blank verso on PDF 178. The sequence comprises 704 numbered sections
+across 186 numbered text pages and 213 source markers in each language (211
+printed-page markers plus the two divisional-leaf markers in Part 27). The
+complete Latin files contain 102,675 whitespace-delimited words and the
+complete English files 140,307, counted over Parts 01–32 with `wc -w`. Each
+part is a complete question, and each Latin/English pair has an identical
+source-marker sequence and retains the substantive marginal headings.
 
 | Part | Unit | Extent | Last section | Markers | Paired files |
 |---|---|---|---:|---:|---|
@@ -76,6 +79,11 @@ substantive marginal headings.
 | 25 | Locus XI, Question XXV | printed pp. 139–145 / PDFs 167–173 | XXII | 7 | `part-25-locus-11-question-25-{latin.txt,english.md}` |
 | 26 | Locus XI, Question XXVI | printed pp. 145–147 / PDFs 173–175 | X | 3 | `part-26-locus-11-question-26-{latin.txt,english.md}` |
 | 27 | Locus XII, Question I | title and blank verso PDFs 177–178; printed pp. 151–155 / PDFs 179–183 | XIII | 7 | `part-27-locus-12-question-01-{latin.txt,english.md}` |
+| 28 | Locus XII, Question II | printed pp. 155–164 / PDFs 183–192 | XXX | 10 | `part-28-locus-12-question-02-{latin.txt,english.md}` |
+| 29 | Locus XII, Question III | printed pp. 164–169 / PDFs 192–197 | XVII | 6 | `part-29-locus-12-question-03-{latin.txt,english.md}` |
+| 30 | Locus XII, Question IV | printed pp. 169–171 / PDFs 197–199 | XII | 3 | `part-30-locus-12-question-04-{latin.txt,english.md}` |
+| 31 | Locus XII, Question V | printed pp. 171–182 / PDFs 199–210 | XLV | 12 | `part-31-locus-12-question-05-{latin.txt,english.md}` |
+| 32 | Locus XII, Question VI | printed pp. 182–191 / PDFs 210–219 | XXXII | 10 | `part-32-locus-12-question-06-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -218,9 +226,77 @@ page join, the Virgil verse, citations, Greek and Hebrew scripts, and the
 Arabic cognate `אקסם` printed in Hebrew characters. No supplementary witness
 was needed. The visibly printed citation `Act. i. 14` for the “promise of the
 Father” in section X is retained rather than silently corrected; the wording
-occurs at Acts i. 4. The exact next restart is `QUAESTIO II. DE NATURA FOEDERIS
-GRATIAE. Quaenam sint partes contrahentes; Quis Mediator; Quaenam clausulae
-Foederis, tum a parte Dei, tum a parte hominum?` on printed p. 155 / PDF 183.
+occurs at Acts i. 4. Question II defines the covenant of grace, identifies God
+as its author and God, offending man, and Christ the Mediator as its parties,
+and distinguishes the pact between the Father and the Son from the covenant
+made with the elect in Christ. It then expounds the covenant formula “I will
+be your God, and you will be my people,” its saving benefits, and the duties
+of faith, repentance, consecration, worship, and obedience in thirty sections.
+It begins at the Question II heading below the close of Part 27 on printed p.
+155 / PDF 183 and ends before Question III on printed p. 164 / PDF 192. The
+Latin and English files carry all ten page markers in the same sequence and
+retain the substantive marginal headings, citations, and Greek. No
+supplementary witness was needed. Question III distinguishes the senses in
+which the covenant of grace can and cannot be called conditional. It treats
+faith as the sole antecedent and instrumental condition for receiving Christ
+and his righteousness, while treating repentance, holiness, and obedience as
+consequent duties and the way to the covenant's consummation, in seventeen
+sections. It begins at the Question III heading below the close of Part 28 on
+printed p. 164 / PDF 192 and ends before Question IV on printed p. 169 / PDF
+197. The Latin and English files contain 2,615 and 3,392 whitespace-delimited
+words respectively, counted over each complete file with `wc -w`. Both carry
+all six page markers in the same sequence and retain all five substantive
+marginal headings, citations, and Greek. The printer-divided `ho-/mini` at the
+printed pp. 166/167 join is normalized as `homini`, with the incoming marker
+placed before the complete word in both files. No supplementary witness was
+needed. Question IV compares the covenant of works and the covenant of grace
+in five points of agreement and ten points of difference: author, parties,
+foundation, promise, condition, end, manifestation, order, extent, and
+effects. It begins at the Question IV heading below the close of Part 29 on
+printed p. 169 / PDF 197 and ends with section XII before Question V on
+printed p. 171 / PDF 199. The Latin and English files contain 1,092 and 1,533
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all three page markers in the same sequence and retain all
+eleven substantive marginal headings, citations, and Greek. The
+printer-divided `de-/tonat` at the printed pp. 170/171 join is normalized as
+`detonat`, with the incoming marker placed before the complete word in both
+files. No supplementary witness was needed. Question V defends the substantial
+unity of the covenant of grace in the Old and New Testaments against the
+Socinians, Remonstrants, and Anabaptists. It argues from the identity of the
+covenant clause, Mediator, condition, spiritual promises, sacraments, and use
+of the law, then answers objections concerning Old Testament faith, eternal
+life, Christ's death, and the gift of the Spirit in forty-five sections. It
+begins at the Question V heading below the close of Part 30 on printed p. 171 /
+PDF 199 and ends with section XLV before Question VI on printed p. 182 / PDF
+210. The Latin and English files contain 6,523 and 8,746
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all twelve page markers in the same sequence and retain
+all twelve substantive marginal headings, citations, Greek, and Hebrew. The
+printer-divided `ac-/quirendae` at the printed pp. 175/176 join is normalized
+as `acquirendae`, with the incoming marker placed before the complete word in
+both files. No supplementary witness was needed. Question VI denies that the
+covenant of grace was ever universal either in
+its internal acceptance and bestowal or in its external promulgation and
+offer. Against the Remonstrants and advocates of universal grace, it argues
+from the covenant's divine designation, Christ's particular satisfaction,
+its absolute promises, its historically limited promulgation, the necessary
+knowledge of Christ, and its particular sealing, then answers objections from
+the first promise, the covenant with Noah, natural revelation, and the
+generality of New Testament proclamation in thirty-two sections. It begins at
+the Question VI heading below the close of Part 31 on printed p. 182 / PDF 210
+and ends with section XXXII on printed p. 191 / PDF 219, before Question VII
+on printed p. 192 / PDF 220.
+The Latin and English files contain 5,295 and 7,180 whitespace-delimited words
+respectively, counted over each complete file with `wc -w`. Both carry all ten
+page markers in the same sequence and retain all thirteen substantive
+marginal headings, citations, and Greek. The printer-divided `re-/spectu` at
+the printed pp. 186/187 join is normalized as `respectu`, and the Greek
+`θεάν-/θρωπος` at the printed pp. 188/189 join as `θεάνθρωπος`, with the
+incoming marker placed before each complete word in both files. No
+supplementary witness was needed. The exact next restart is `QUAESTIO VII. DE
+DUPLICI OECONOMIA FOEDERIS GRATIAE. Cur Deus unicum Foedus Gratiae
+diversimode dispensare voluerit; Et quotuplex: et qualis fuerit ejus
+Oeconomia?` on printed p. 192 / PDF 220.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

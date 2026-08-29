@@ -83,9 +83,9 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the end of Chapter XII in the upper part of shared printed
-p. 159. Shared-page boundaries preserve each chapter heading in the following
-part rather than duplicating it.
+printed p. 1 through the first definitional argument of Chapter XIII at the top
+of printed p. 163. Shared-page boundaries preserve each new argumentative unit
+in the following part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -101,6 +101,7 @@ part rather than duplicating it.
 | 10 | Chapter XI opening; first two false marks | lower part of shared printed p. 122 through p. 127 / IA leaves 140–145 / PDF pp. 140–145; stops before `Tertio` on p. 128 | 6 |
 | 11 | Chapter XI remainder; third through sixth false marks | printed p. 128 through the upper part of shared p. 143 / IA leaves 146–161 / PDF pp. 146–161; stops before `CAP. XII.` | 16 |
 | 12 | Chapter XII; true marks of Moral precepts | lower part of shared printed p. 143 through the upper part of shared p. 159 / IA leaves 161–177 / PDF pp. 161–177; stops before `CAP. XIII.` | 17 |
+| 13 | Chapter XIII opening; Burmann's basic definition of the Moral Law | lower part of shared printed p. 159 through the opening lines of p. 163 / IA leaves 177–181 / PDF pp. 177–181; stops before `Distinguit porrò morale` | 5 |
 
 The files are:
 
@@ -116,8 +117,9 @@ The files are:
 - `parts/part-10-book-01-chapter-11a-false-marks-{latin.txt,english.md}`
 - `parts/part-11-book-01-chapter-11b-false-marks-{latin.txt,english.md}`
 - `parts/part-12-book-01-chapter-12-true-marks-{latin.txt,english.md}`
+- `parts/part-13-book-01-chapter-13a-burmann-moral-law-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–12 image audits
+### Part 04 re-audit and Parts 05–13 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -345,6 +347,38 @@ words are `...postea Lib. III: Cap. XXIII. manifestum faciemus.` The rule,
 printed p. 159 are excluded. The next untranslated text is therefore `CAP.
 XIII. D. Burmanni de Lege Morali Sententia examinatur.` on shared printed p. 159
 / IA leaf 177 / PDF p. 177.
+
+Part 13 is a coherent, image-audited opening unit of Chapter XIII. It contains
+Brown's statement of the chapter's purpose and his examination of Burmann's
+basic definition of what is moral, ending after Brown's response to Burmann's
+appeal to natural law and the remnants of the divine image. Every controlling
+image from the Chapter XIII heading on PDF 177 through the opening lines of PDF
+181 was read directly, including the incoming shared-page boundary after Part
+12 and all four internal page joins. PDF 181 was also inspected through the
+next paragraph to verify the outgoing stop before `Distinguit porrò morale`.
+OCR was used only as a collation aid. The paired Latin and English files
+contain the identical five-marker sequence.
+
+Printer-divided words at the p. 159/160 and p. 160/161 joins are joined with
+the new marker before the corresponding complete word or phrase. The word
+`nunc` printed as the p. 162 catchword is omitted and transcribed only at its
+proper place after the p. 163 marker. The terminal errata leaf assigns no
+particular correction to printed pp. 159–163; its general warning about Greek
+and Hebrew type remains applicable. The Greek expressions on p. 162 are read
+from the page image as `τὸ γνωστὸν τὸ θεῖον` and `θεοπρεπῆ ἢ θεοειδῆ`.
+All headings, quotations, citations, substantive italic distinctions, and
+Brown's numbered replies are retained. No Hebrew or separate substantive
+marginal gloss occurs. Running heads, signatures, catchwords, the incoming and
+outgoing rules, and ornaments are omitted under the stated policy.
+
+The exact Part 13 opening is `CAP. XIII. D. Burmanni de Lege Morali Sententia
+examinatur. EX praemissis innotescit satis natura Legis Moralis...`. Its final
+included words are `...Et hoc satis superque in antedictis probavimus.` The
+following paragraph, beginning `Distinguit porrò morale in Immediatum &
+Mediatum`, and the remainder of Chapter XIII are excluded. The next
+untranslated text is therefore `Distinguit porrò morale in Immediatum &
+Mediatum, & utrumque explicat axiomate 2. & 3.` on printed p. 163 / IA leaf 181
+/ PDF p. 181.
 
 ## Review and licensing status
 

@@ -1,0 +1,148 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins at the Chapter XIII heading on printed p. 549
+/ PDF 600, the exact restart reserved by Part 41. It includes John 10:28–29,
+the four contemporary positions on perseverance, Rutherford's four preliminary
+replies to hostile characterizations, his sixfold account of what may be lost
+for a time, and the precise statement of the principal question. It ends
+within printed p. 553 after `Negamus nos`, before `Argumentum primum est ab
+Immutabilitate Dei`. Printer line-end and page-end divisions have been joined;
+each new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed errata on PDF 52 contains no correction applicable
+to printed pp. 549–553.]
+
+[Printed-form note: The running heads visibly continue to print `CAP. XII.`
+although Chapter XIII has begun; as a non-substantive running-head error this
+is omitted. The Greek `παῤῥησία` and `πρόσκαιρος` are retained in normalized
+Unicode. No Hebrew or substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 549 | PDF p. 600 | begins at CAPUT DECIMUMTERTIUM]
+
+CAPUT DECIMUMTERTIUM.
+
+DE
+
+Perseverantia Sanctorum.
+
+JOAN. 10:28.
+
+Et ego vitam æternam do ovibus meis, nec peribunt in æternum, neque rapiet
+quisquam eas è manu mea. vers. 29. Pater ille meus, qui mihi eas dedit, major
+est omnibus.
+
+Ex hoc contextu patet, Christum argumentari pro indeclinabili & certâ
+Sanctorum Perseverantiâ, argumento sumpto ab omnipotentiâ Patris sui. Is qui
+major est omnibus & potentior, suis ovibus spoliari non potest, & necesse est
+major & validior sit, quàm omnes, qui oves ipsius è manibus eripere conantur.
+Atqui Patre meo, qui mihi dedit oves, nemo major, nemo potentior.
+
+De Perseverantiâ Sanctorum quatuor hodiè celebriores sunt sententiæ.
+
+Prima est Jesuitarum recentiorum, electos & congruè vocatos secundùm absolutum
+Electionis decretum, nunquàm totalitèr & finalitèr excidere posse; multos tamen
+verè regenitos & justificatos posse finalitèr & totalitèr excidere gratiâ,
+asserentium.
+
+[1668 KBNL/UvA witness | logical printed p. 550 | PDF p. 601]
+
+Secunda Sententia est quorundam Pseudo-Lutheranorum, finalem Apostasiam
+Sanctorum negantium, totalem verò admittentium; hoc est, intercisionem
+plenariam propugnantium, excisionem verò finalem impugnantium.
+
+Tertia est Pontificiorum & Arminianorum, quos rursùs in tres classes dividimus.
+
+1. Pontificii communitèr Apostasiam Sanctorum defendunt, cum suâ doctrinâ de
+incertitudine salutis.
+
+2. Arminius ipse & Collocutores Hagienses pag. 401. dicunt, se caput doctrinæ
+de perseverantiâ Sanctorum non trahere in dubium, sed petere tantùm ampliùs
+institui: negant tamen argumenta Adversariorum fortitèr concludere, renatos non
+posse gratiâ excidere.
+
+3. Discipuli Jacobi Arminii, Remonstrantes in Synodo Dordracenâ; Corvinus
+contra Molineum; Tilenus in Animadversionibus in Canones Synodi Dordracenæ,
+Petrus Bertius de Apostasiâ Sanctorum, docent; verè regenitos & justificatos
+finalitèr & totalitèr excidere posse. Idque 1. Ut Stoicismum fatalis (ut
+calumniantur) & absolutæ Electionis evitent. 2. Ut Deum à causalitate peccati
+(ut ipsis visum est) liberent. 3. Ut libertatem humanam, pessundatâ gratiâ,
+Dominam fastuosam, & independentem fabram Electionis & Reprobationis,
+Salvationis & Damnationis, in solium Dei evehant.
+
+[1668 KBNL/UvA witness | logical printed p. 551 | PDF p. 602]
+
+Quarta & vera Sententia, est verè regenitos & justificatos, nec finalitèr nec
+totalitèr statu gratiæ excidere, nec à Deo deficere, aut in æternum perire
+posse.
+
+Abstergendæ autem primò sunt quædam calumniæ Adversariorum, antequam Statum
+Quæstionis figamus.
+
+1. Bellarminus, Suarez, Gregorius de Valentiâ; excusso omni pudore, imputant
+Joviniani & Begardorum hæresin, Wicklefo, Calvino, Luthero, nempè, nonnullos
+verè per gratiam Dei impeccabiles reddi; id quod negamus; Docemusque verè
+renatos in horrenda & gravia peccata incidere posse, & reatum damnabilem
+sæpenumerò incurrere. Imò hæc ipsa calumnia, ipsos tangit (non nos) qui
+articulum propugnant de possibilitate implendi Legem per Dei gratiam.
+
+2. Calumniantur Arminiani, nos docere verè fideles, quicquid peccent, obligari
+tamen ad credendum persuasione absolutâ, se certos esse de finali suâ
+perseverantiâ. Nos certitudinem persuasionis de finali Perseverantiâ
+cujuslibet fidelis docemus; sed adeò absolutam, & ab omni conditione piæ
+solicitudinis solutam, non docemus: Quin certitudinem hic non ita absolutam
+esse volumus, quâ quis credat se perseveraturum, sive timeat sive non; sed
+hypotheticam, quæ conjuncta sit cum exercitiis assiduis sancti timoris, sedulæ
+fidei, & efficacis charitatis.
+
+[1668 KBNL/UvA witness | logical printed p. 552 | PDF p. 603]
+
+3. Nobis imputant impossibilitatem Sanctorum Apostasiæ, qualis est
+impossibilitas de mutatione Dei, & decretorum divinorum. Nos verò hic docemus
+impossibilitatem Apostasiæ hypotheticam ex hypothesi decreti Electionis & veræ
+Regenerationis; & limitatam & secundùm quid, extrinsecam & modalem, non
+intrinsecam & puram: quinimò quantùm ad nos, habitâ ratione nostræ labilitatis,
+sepositâ Dei gratiâ, posse nos deficere & perire.
+
+4. Invidiosè nobis affingunt inevitabilem Perseverentiam; quasi necesse sit ut
+perseveremus, etsi quod inviti & repugnantes simus, tam fatali fortitudine &
+potentiâ Dei, juxta decretum Dei immutabile, nos premi & trahi; adeòque
+quantumvis carnalitèr securi simus, perseveraturos tamen, quâque vi quâque
+injuriâ. Id planè rejicimus.
+
+Quin docemus. 1. Baptizatos penitus deficere posse.
+
+2. Quin distinguendum putamus inter essentiam specialis gratiæ Electorum, &
+multa quæ in eâ sunt, aut eam comitantur: quæ ad hæc sex revocamus. 1.
+Habitus. 2. Actus. 3. Operandi suavitas, operantem facilitans in suis
+actionibus. 4. Sensus gratiæ. 5. Solida certitudo de statu suo. 6. Pax &
+gaudium conscientiæ. Indè docemus. 1. Habitum gratiæ remitti & minui posse,
+per peccata graviora. 2. Actus gratiosos
+
+[1668 KBNL/UvA witness | logical printed p. 553 | PDF p. 604 | split word joined: intermitti]
+
+intermitti posse. 3. Suavem facilitatem piè operandi, amitti posse. 4. Sensum specialis favoris
+& misericordiæ amitti, & tantùm non deperdi posse. 5. Solidam & firmam
+certitudinem de suâ finali Perseverantiâ elidi & enervari posse. 6.
+Consolationem & pacem conscientiæ, unà cum piâ securitate & παῤῥησίᾳ
+flaccescere & marcescere ad tempus posse, docemus.
+
+Quæstio itaque est. 1. Non de infantibus, sed de adultis. 2. Non de
+temporariis, quos vocant προσκαίρους, sed de verè regenitis & justificatis.
+Nec 3. Quæritur, an absolutè impossibile sit, ut fideles deficiant? nam si
+considerentur ratione suæ insitæ corruptionis, possunt finalitèr deficere.
+
+Hinc Quæritur, An 1. Adulti, 2. Verè regeniti & justificati, 3. Non ratione suæ
+infirmitatis & corruptionis, sed 4. Non obstantibus intercessione Christi,
+principio vitali Fidei, immutabili Dei Fœdere, Electione, custodiâ & virtute
+Dei, ita deficere possunt, ut non tantùm ratione eventus graviter peccent; Sed
+1. Omne jus ad regnum Dei, quod semel in Christo habuerant, amittant. 2.
+Favore & gratiâ gratuitæ Electionis excidant. 3. Totalitèr & finalitèr à statu
+Filiorum Dei amoveantur & recedant? Affirmant Pontificii, Jesuitæ,
+Pseudo-Lutherani, Arminiani, Sociniani. Negamus nos.

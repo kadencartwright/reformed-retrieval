@@ -1,0 +1,82 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within printed p. 568 at `Quæritur, An
+fides temporaria sit hypocritica`, without repeating Part 44's closing reply.
+It contains the complete question whether temporary faith is hypocritical and
+whether abandoning it can be called falling away from Christ, including the
+distinction between a material beginning toward a thing and a formal degree
+within it. It ends within printed p. 570 after the conclusion concerning what
+must be retained and rejected when temporary faith becomes saving faith. The
+new lemma `HEB. 6:4.` is excluded and forms the exact restart for Part 46.
+Printer line-end and page-end divisions have been joined; each new-page marker
+precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed erratum for p. 568 line 18 corrects the body's `quia`
+to `quin`; it is applied below.]
+
+[Printed-form note: The Greek `κατὰ δόξαν` is retained and translated. The
+technical contrasts `gradus ad rem` / `gradus in re` and `initium materiale` /
+`initium formale` are preserved. No Hebrew or substantive marginal note
+occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 568 | PDF p. 619 | resumes at Quæritur, An fides temporaria sit hypocritica]
+
+Quæritur, An fides temporaria sit hypocritica, adeòque temporarii dici
+nequeant deficere, quandò fidem temporariam abdicant, eò quòd nemo deficiat à
+Christo, quin hypocrisin deserat? Affirmant Remonstrantes. Negamus nos.
+
+1. Quia fides hypocritica duobus modis sumitur. 1. Ea fides, quæ præsefert
+veram & salvificam fidem; attamen non est vera & salvifica fides; uti id quod
+præ se fert metallum omninò, sed est lignum coloratum. Et hoc modo fides
+temporaria rectè dicitur hypocritica, quia est fides salvifica apparentèr
+tantùm, non verè; κατὰ δόξαν, non autem reipsa.
+
+2. Fides hypocritica dicitur ea, quæ opponitur falsæ & planè fictæ fidei & quæ
+nihil
+
+[1668 KBNL/UvA witness | logical printed p. 569 | PDF p. 620 | split word joined: omninò]
+
+omninò habet de fide. Hoc sensu fides temporaria non est hypocritica,
+sed est vera in suo gradu, licèt non salvifica: ut æs fulvo colore aurum
+referens non est hypocriticum metallum; est enim verum metallum; attamen
+hypocriticum aurum. Sic homo pictus non est ens purè fictum, neque quid
+figuratum fictitium & ementitium; sed est verè ens & verè figuratum quid, non
+tamen verè homo.
+
+Communia enim attributa essentialia in eâdem categoriâ, dici possunt de
+multis, & negari specialiora; ut hoc est substantia, est corpus
+essentialitèr, non tamen vivens, non animatum. Sic fides temporaria in genere
+fidei salvificæ, est hypocritica & apparentèr tantùm fides; at verò non est
+quoad omnes gradus ficta & hypocritica. Et rectè dicitur fides temporaria
+gradus ad rem, seu initium materiale; non gradus in re, seu in specie, vel
+initium formale fidei justificantis; uti flavedo est gradus ad rem respectu
+albedinis, habens aliquid de essentiâ coloris; non est tamen essentialitèr
+albedo, sed ab eâ specie distincta; ideòque est tantùm gradus ad speciem: At
+verò album ut duo, est gradus ad albedinem ut quatuor vel quinque, & quidem
+gradus in re & initium formale, & differt ab albedine ut quatuor, gradu non
+specie & naturâ. Sic embryo est gradus ad rem respectu hominis vivi & animati;
+& tamen specie distinguitur ab homine; infans verò in utero animatus & animâ
+rationali
+
+[1668 KBNL/UvA witness | logical printed p. 570 | PDF p. 621 | split word joined: actuatus]
+
+actuatus est gradus ad virum perfectæ staturæ adultum, & quidem
+gradus in re, gradu, non specie & naturâ à viro adulto distinctus.
+
+Sicut igitur, ad hoc ut embryo fiat homo animatus, necesse est abjiciat formam
+essentialem embryonis; non tamen totam essentiam, quia retinet massam
+seminalem; ità ut fides temporaria fiat salvifica & justificans, necesse est
+exuat formam specificam fidei temporariæ, non tamen necesse est, ut exuat omne
+illud, quod est de essentiâ fidei; quia manere debet assensus adhibitus omni
+Dei verbo. Ideò necesse est, ut temporarius abjiciat illud, quod fictum &
+falsum est in fide temporariâ, si velit hypocrisin deserere, & qui hoc facit
+eatenùs à Christo non deficit, si modò retineat illud quod est materiale in
+fide temporariâ, nempè, assentiri Dei verbo tanquam vero; qui verò hæc
+abdicat, eatenùs à Christo deficit.

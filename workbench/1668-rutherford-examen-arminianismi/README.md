@@ -1006,3 +1006,95 @@ argument structure.
 
 - Latin: `parts/part-41-chapter-12h-latin.txt`
 - English: `parts/part-41-chapter-12h-english.md`
+
+**Part 42 is complete as a scan-audited working draft.** It begins on printed
+p. 549 / PDF 600 at `CAPUT DECIMUMTERTIUM. DE Perseverantia Sanctorum.`, the
+exact restart reserved by Part 41. It contains the John 10:28–29 lemma, the
+four contemporary positions on perseverance, Rutherford's four preliminary
+replies to hostile characterizations, his sixfold account of what may be lost
+for a time, and the precise statement of the principal question. It ends
+within printed p. 553 / PDF 604 after `Negamus nos`, before the first argument
+from God's immutability. The pair has five byte-identical synchronized markers
+for pp. 549–553. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered the chapter heading, lemma, positions, replies,
+question, every page join, Greek, and the absence of Hebrew and substantive
+marginalia. The printed errata has no applicable correction for pp. 549–553.
+The split word `intermitti` is joined with the p. 553 marker before the whole
+word and its English equivalent. The Greek `παῤῥησία` and `πρόσκαιρος` are
+retained and translated or explained. The English follows the Latin at clause
+level while preserving the complete position, reply, distinction, and
+question structures.
+
+- Latin: `parts/part-42-chapter-13a-latin.txt`
+- English: `parts/part-42-chapter-13a-english.md`
+
+**Part 43 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 553 / PDF 604 at `Argumentum primum est ab Immutabilitate
+Dei`, without repeating Part 42's statement of the question. It contains the
+complete twenty-argument defense of the saints' total and final perseverance
+and ends within printed p. 563 / PDF 614 after the final argument from divine
+knowledge and providence. The new lemma `MATTH. 13:20.` is excluded and forms
+the exact restart for Part 44. The pair has eleven byte-identical synchronized
+markers for pp. 553–563. A page-by-page image audit against the controlling
+KBNL/UvA Google Books images covered all eleven frames, every page join, the
+complete argument structure, biblical, patristic, covenantal, and polemical
+citations, Greek, and the absence of Hebrew and substantive marginalia. The
+printed errata's corrections of `obsignant` to `obsignat` on p. 557 and
+`tarbitrium` to `arbitrium` on p. 560 are applied and documented. The split
+words `prædestinavit`, `Deus`, `omnipotentiam`, `dati`, `Salvati`, `nemo`, and
+`possunt` are joined with the new-page marker before the whole word and its
+English equivalent. The witness's numbering relapse from argument 16 to `14.`
+on p. 561 and the difficult or irregular citations are retained or disclosed
+rather than silently regularized. The English follows the Latin at clause
+level while preserving the complete twenty-argument structure.
+
+- Latin: `parts/part-43-chapter-13b-latin.txt`
+- English: `parts/part-43-chapter-13b-english.md`
+
+**Part 44 is complete as a scan-audited working draft.** It begins within
+shared printed p. 563 / PDF 614 at the lemma `MATTH. 13:20.`, without repeating
+Part 43's final argument. It contains the complete six-argument question
+whether temporary faith is essentially saving faith and differs only in
+duration. It ends within printed p. 568 / PDF 619 after the final reply
+concerning the parable's use of `crescere`. The following question whether
+temporary faith is hypocritical is excluded and forms the exact restart for
+Part 45. The pair has six byte-identical synchronized markers for pp. 563–568.
+A page-by-page image audit against the controlling KBNL/UvA Google Books
+images covered all six frames, both shared-page boundaries, every page join,
+the lemma, question, objection, response, six arguments, biblical citations,
+Greek, and the absence of Hebrew and substantive marginalia. The p. 565
+erratum correcting `visibilitatis` to `risibilitatis` is applied and
+documented; the p. 568 erratum falls after this unit and is reserved for Part
+45. The split words `bonâ`, `honesti`, `salvificæ`, and `multi` are joined with
+each new-page marker before the whole word and its English equivalent. The
+printed repetition of argument number 3 and the difficult or irregular
+citations are retained or disclosed. The English follows the Latin at clause
+level while preserving the complete lemma, question, objection, response, and
+argument structures.
+
+- Latin: `parts/part-44-chapter-13c-latin.txt`
+- English: `parts/part-44-chapter-13c-english.md`
+
+**Part 45 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 568 / PDF 619 at `Quæritur, An fides temporaria sit
+hypocritica`, without repeating Part 44's closing reply. It contains the
+complete question whether temporary faith is hypocritical and whether
+abandoning it can be called falling away from Christ, including Rutherford's
+distinction between a material beginning toward a thing and a formal degree
+within it. It ends within printed p. 570 / PDF 621 after the conclusion
+concerning what must be retained and rejected when temporary faith becomes
+saving faith. The new lemma `HEB. 6:4.` is excluded and forms the exact restart
+for Part 46. The pair has three byte-identical synchronized markers for pp.
+568–570. A page-by-page image audit against the controlling KBNL/UvA Google
+Books images covered all three frames, both shared-page boundaries, every page
+join, the full question and distinctions, Greek, and the absence of Hebrew and
+substantive marginalia. The p. 568 erratum correcting `quia` to `quin` is
+applied and documented. The split words `omninò` and `actuatus` are joined with
+each new-page marker before the whole word and its English equivalent. The
+technical contrasts `gradus ad rem` / `gradus in re` and `initium materiale` /
+`initium formale` are preserved and explained. The English follows the Latin
+at clause level while preserving the complete question, analogy, distinction,
+and conclusion structures.
+
+- Latin: `parts/part-45-chapter-13d-latin.txt`
+- English: `parts/part-45-chapter-13d-english.md`

@@ -1,0 +1,149 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 563 at the lemma `MATTH.
+13:20.`, without repeating Part 43's final argument. It contains the complete
+six-argument question whether temporary faith is essentially saving faith and
+differs only in duration. It ends within printed p. 568 after the final reply
+concerning the parable's use of `crescere`. The following question whether
+temporary faith is hypocritical is excluded and forms the exact restart for
+Part 45. Printer line-end and page-end divisions have been joined; each
+new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed erratum for p. 565 line 9 corrects the body's
+`visibilitatis` to `risibilitatis`; it is applied below. The p. 568 correction
+falls after this unit's endpoint and is reserved for Part 45.]
+
+[Printed-form note: The question's Greek and its citations and quotations are
+retained in normalized Unicode. The witness's numbering repeats `3.` after
+argument 2; it is retained. The forms `Psal. 1:5`, `Matth. 7:7`, `Jer. 2:17,
+20`, and `Joan. 15:5` are retained rather than silently regularized. No Hebrew
+or substantive marginal note occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 563 | PDF p. 614 | begins at MATTH. 13:20.]
+
+MATTH. 13:20.
+
+Sed is, qui recipit semen in locis petrosis, est qui audit Verbum, & statim
+cum gaudio id recipit. vers. 21. Non habet autem radicem in se, sed temporarius
+est, &c.
+
+Hinc Quæritur, An Fides πρόσκαιρος & temporaria, sit essentialitèr Fides
+salvifica, non specie & naturâ, sed solo accidente, nempè, duratione differens
+à salvificâ eorum, qui Verbum recipiunt in terrâ
+
+[1668 KBNL/UvA witness | logical printed p. 564 | PDF p. 615 | split word joined: bonâ]
+
+bonâ: sicut semen excrescens
+in terrâ petrosâ & in terrâ bonâ, sunt fruges ejusdem speciei? Remonstrantes
+in Script. Synod. p. 129:130. ita docent, quia Lucas cap. 8. dicit de iis, 1.
+Ad tempus credunt. 2. Cum gaudio sermonem recipiunt, quod est indicium animi
+docilis & probi. Nos negamus, eam esse fidem verè salvificam, quinimò à
+salvificâ, naturâ & specie differre contendimus.
+
+1. Quia differentia specifica fidei sumitur ab objecto formali fidei. At
+objectum fidei temporariæ non est Christus, quâ Christus, & Euangelii
+promissiones, quâ tales (quia illud objectum durat tempore persecutionis, at
+objectum hîc deficit, ortâ persecutione) sed aliquid Euangelii & aliquid
+Christi; nempè, prosperitas externa; vel Euangelium, quatenus externâ
+prosperitate vestitum: Ideò desinente prospero Euangelii successu, deficit
+fides; sicut sublatâ causâ, tollitur effectus.
+
+Objectio. At nulla est ratio veri in prosperitate externâ; Non, ergò, objectum
+hoc est formale, quia non pertinet ad objectum Intellectûs.
+
+Resp. Prosperitas externa est motivum, non formalis ratio; nec credunt
+Euangelium, quâ est bonum supernaturale. Objectum autem fidei temporariæ est
+veritas Euangelicarum promissionum, quâ jucunda, vel quâ bona in genere boni
+jucundi & boni utilis habentis promissiones vitæ præsentis & futuræ; non boni
+
+[1668 KBNL/UvA witness | logical printed p. 565 | PDF p. 616 | split word joined: honesti]
+
+honesti, vel in genere bonorum honestorum: Adeò ut objectum fidei temporariæ
+sit quasi bonum Physicum naturalitèr movens & permovens appetitum: Et objectum
+Fidei Salvificæ sit bonum morale & moralitèr honestum.
+
+2. Quia in definitione accidentis & adjuncti alicujus per additamentum,
+subjectum, seu potius σχέσις & habitudo inter subjectum & accidens sumitur in
+definitione; ut homo in definitione risibilitatis; nasus in definitione simi;
+equus in definitione hinnibilitatis: Et σχέσις hominis ad risibilitatem,
+essentialitèr distinguit risibilitatem ab omnibus aliis qualitatibus illius
+generis. Quia igitur subjectum fidei salvificæ est cor honestum & bonum,
+καρδία καλὴ καὶ ἀγαθή. Luc. 8:15. Subjectum verò Fidei temporariæ, est cor
+petrosum & durum, & saxeum & lapideum, quod proprium est hominis irregeniti.
+Ezech. 36:26. & Ezech. 11:19. & hominis ῥίζαν οὐκ ἔχοντος, radicem non
+habentis, i. e. in Christo per veram fidem non radicati & stabiliti. Col. 2:7.
+ἐν Χριστῷ οὐκ ἐρριζωμένοι, NON insiti nec plantati in Christo, ut in terrâ
+humidâ. Ideò Fides hæc temporaria specie differt ab illa, quæ est in iis, qui
+radicati sunt in Christo, & habent cor honestum & bonum. Et quemadmodum homo
+honestus & bonus & radicatus in Christo, specie theologicâ & essentiâ
+(secundùm esse morale, ut sic loquar) differt ab homine inhonesto & improbo,
+qui non radicatus est in Christo, & destitutus est vitali succo
+
+[1668 KBNL/UvA witness | logical printed p. 566 | PDF p. 617 | split word joined: salvificæ]
+
+salvificæ gratiæ (uti terra lapidea & petrosa omni succo destituitur) ita fides hujus à
+fide illius, differt specie, & non solâ duratione, aut firmiori aut minùs firmâ
+radicatione in subjecto, uti minùs & magis album differunt.
+
+3. Ideò & hâc solâ de causâ deficiunt temporarii, Matth. 13:6. Διὰ τὸ μὴ ἔχειν
+ῥίζαν, ἐξηράνθη. Quia non habent radicem, ideo arescunt: Et Marc. 4:7. Διὰ τὸ
+μὴ ἔχειν ἰκμάδα, Quia non habebant humorem, id est, quia carebant Spiritu
+gratiæ sanctificantis, qui solus fœcundos facit homines naturâ aridos. Et hoc
+est signum homines aridos & petrosos & saxeo corde non posse orto Sole
+Persecutionis non arescere & deficere. At homines habentes veram fidem,
+necessariò deficere tempore persecutionis, nec est verum, nec audent id
+Arminiani asserere.
+
+4. Fides salvifica necessariò bonos fructus profert ex principio vitali &
+supernaturali, ut & omnes verè fideles. Psal. 1:5. Matth. 7:7. Jer. 2:17,20.
+Joan. 15:5. Is qui manet in me, & in quo ego maneo, hic fert fructum multum.
+Fides, ergo, temporaria, quæ fructus non profert (quod facit omnis
+temporarius, cujus fides est semen in spicam nunquam adolescens) est fides
+mortua, & non magis est verè & essentialitèr fides, quàm fides Dæmonum Jac.
+2:19. aut cadaver inanime, vivens est. Neque est quod respondeatur temporarium
+esse vivum; nam hoc est petere principium.
+
+5. Scopus hujus Parabolæ est (eò quòd
+
+[1668 KBNL/UvA witness | logical printed p. 567 | PDF p. 618 | split word joined: multi]
+
+multi frequentèr concurrebant ad ipsum
+Christum audiendum, qui tamen postea resilierunt & defecerunt ab illo)
+ostendere, qui sint boni & honesti auditores, qui temporarii & minimè sinceri;
+& habent fidem tantùm gloriosam coram mundo, non veram & salvificam.
+
+6. Si ideò fides temporaria est vera fides, quia in textu vocatur fides; tùm ii
+veram fidem habent, quibus Christus sese committere nolebat, Joan. 2:24. Aut
+si ideò est vera fides & salvifica, quia temporarii crescunt ad tempus; pari
+ratione, qui serviunt divitiis & voluptatibus, ac proindè Christo Domino
+alteri servire non possunt, in quibus semen Verbi suffocatur à solicitudinibus
+divitiarum & voluptatibus, haberent veram & salvificam fidem; quia Luc. 8:7.
+Καὶ συμφυεῖσαι αἱ ἄκανθαι ἀπέπνιξαν αὐτό. Et simul enatæ (cum semine) spinæ,
+suffocârunt semen. Qui autem Mammonæ mancipantur, salvificè credere non
+possunt, etiam fatentibus Adversariis. Si verò ideò dicuntur credere
+salvificè, 1. Quia assentiuntur Euangelio. 2. Verbum audiunt cum gaudio. 3.
+Fidem profitentur: Tùm Herodes qui audiebat Joannem Mar. 6:20. ἡδέως libenter
+& cum voluptate, & Simon Magus qui ἐπίστευσε credidit Act. 8:13. Fidem
+haberent salvificam. Non enim iis defuerunt assensus, gaudium & professio;
+defuit tamen essentialitèr requisitum, nempè, bonum & honestum cor & succus
+vitalis. Denique leve est,
+
+[1668 KBNL/UvA witness | logical printed p. 568 | PDF p. 619]
+
+quod dicunt Adversarii, non negari, quòd habeant
+radicem; sed tantùm non habere radicem in seipsis; quia radix debet esse in
+solo eo, quod radicem habet: alioqui temporarii habent à seipsis principium, à
+quo fluit eorum fides vana & fallax, nempè, cor petrosum.
+
+Nec crescere in hâc Parabolâ est aliud, quàm coram mundo, tanquàm semen cum
+spe messis fallaci enasci, & promittere inanem spem messis, ubi tamen nulla
+est vera radix; quamvis verbum crescere quando tribuitur semini in bonam
+terram sparso, idem sit quod vegetare ex verâ radice; neque absurdum est idem
+verbum diversimodè significare, quandò diversis subjectis applicatur.

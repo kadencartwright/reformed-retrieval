@@ -197,6 +197,16 @@ printed p. 68 / canvas 00094 and has one identical marker.
 The next unit resumes there with `Forte tamen istud restringis duntaxat ad
 istud instans temporis`.
 
+Part 17 contains Twisse's complete coexistence argument and his distinction
+between God's eternity and operative power. It remains on printed p. 68 / BSB
+canvas 00094 and has one identical marker.
+
+- `parts/part-17-digression-03-section-07-coexistence-argument-latin.txt`
+- `parts/part-17-digression-03-section-07-coexistence-argument-english.md`
+
+The next unit resumes there with `Et sane libenter fateor prius intelligendam
+esse aeternitatem`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

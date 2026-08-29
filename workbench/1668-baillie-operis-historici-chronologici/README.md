@@ -264,6 +264,40 @@ as aids. Page-spanning words were joined and placed wholly after the later
 synchronized marker. The pair remains an AI-assisted, unreviewed draft and is
 not publication-ready.
 
+## Part 13 boundary and status
+
+Part 13 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 154 and 156 and complete p. 155, IA leaves
+184–186, access-PDF pp. 184–186, and DjVu OCR objects 183–185. It begins in
+the left column of printed p. 154 immediately after Part 12 with `QUAESTIO V.
+Quis fuerit Ahasuerus Estherae maritus, & ad quae tempora historia Estherae
+referenda sit?`, contains Question V in full, and ends at the top of the left
+column of printed p. 156 after `determinare non possumus, nec est necesse.`
+
+`QUAESTIO VI. De jejunio Estherae & Judaeorum Cap. 4. v. 16. Num totis tribus
+diebus & tribus noctibus ab omni potu & omni cibo abstinuerint?` begins below
+it in the same column and is wholly excluded. All three controlling 300-dpi
+images, `pdf-184.jpg` through `pdf-186.jpg`, were used for the transcription;
+OCR and PDF text served only as aids. Page-spanning words were joined and
+placed wholly after the later synchronized marker. The pair remains an
+AI-assisted, unreviewed draft and is not publication-ready.
+
+## Part 14 boundary and status
+
+Part 14 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 156–157, IA leaves 186–187, access-PDF pp. 186–187, and
+DjVu OCR objects 185–186. It begins in the left column of printed p. 156
+immediately after Part 13 with `QUAESTIO VI`, contains Question VI in full,
+and ends in the left column of printed p. 157 after `suae ad Regem
+supplicationes offerrentur.` The marginalium divided across the p. 156/p. 157
+break is joined after the p. 157 marker in both files.
+
+`QUAESTIO VII. Quomodo concilietur Esdrae quartum v. 6, 7. cum ejusdem sexto
+vers. 14, 15?` begins immediately below in the same column and is wholly
+excluded. Both controlling 300-dpi images, `pdf-186.jpg` and `pdf-187.jpg`,
+were used for the transcription; OCR and PDF text served only as aids. The
+pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -304,12 +338,16 @@ have not been modernized or endorsed.
 - `parts/part-11-book-01-chapter-10-question-03-english.md`
 - `parts/part-12-book-01-chapter-10-question-04-latin.txt`
 - `parts/part-12-book-01-chapter-10-question-04-english.md`
+- `parts/part-13-book-01-chapter-10-question-05-latin.txt`
+- `parts/part-13-book-01-chapter-10-question-05-english.md`
+- `parts/part-14-book-01-chapter-10-question-06-latin.txt`
+- `parts/part-14-book-01-chapter-10-question-06-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
-for Part 08, two for Part 09, four for Part 10, two for Part 11, and six for
-Part 12. There are twenty-four current files in twelve Latin/English pairs,
-containing 163 synchronized source markers per language (326 marker
-occurrences across all twenty-four files). The files remain AI-assisted and
-unreviewed.
+for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
+12, three for Part 13, and two for Part 14. There are twenty-eight current
+files in fourteen Latin/English pairs, containing 168 synchronized source
+markers per language (336 marker occurrences across all twenty-eight files).
+The files remain AI-assisted and unreviewed.

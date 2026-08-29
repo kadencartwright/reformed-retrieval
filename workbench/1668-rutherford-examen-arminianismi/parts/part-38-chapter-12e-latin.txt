@@ -1,0 +1,158 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 534 at the lemma `1 JOAN.
+1:7.`, without repeating Part 37's closing argument. It contains the complete
+question whether justification is one complete and continuous act or is
+interrupted whenever the justified sin. It ends within printed p. 540 after
+the distinction between the legal removal of sin in justification and its
+real, gradual removal in sanctification. The new lemma printed `ACT. 13:43.`
+but corrected by the errata to `Act. 10.43.` is excluded. Printer line-end and
+page-end divisions have been joined; at every split-word page boundary the
+new-page marker precedes the complete joined word.]
+
+[Errata note: The printed errata on PDF 52 has been checked against the whole
+unit. Its correction for printed p. 540 line 2, changing the following lemma
+from `Act. 13:43.` to `Act. 10.43.`, falls immediately after this unit and is
+therefore reserved for Part 39. No printed correction applies to the text
+included here.]
+
+[Printed-form note: The visibly difficult or irregular forms and citations
+`Isa. 44:23`, `Rom. 9:23`, `pais illi`, and `Rom. 8:30`, and the legal phrase
+`in fictione juris`, are retained rather than silently regularized. The Greek
+`ἄγραφον` is retained. Isolated edge marks, stains, show-through, running
+heads, signatures, catchwords, and ornaments in the controlling images are
+non-textual or non-substantive artifacts; no substantive marginal note or
+Hebrew occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 534 | PDF p. 585 | begins at 1 JOAN. 1:7.]
+
+1 JOAN. 1:7.
+
+---- Et sanguis Filii ejus Jesu Christi purificat nos ab omni peccato.
+
+[1668 KBNL/UvA witness | logical printed p. 535 | PDF p. 586]
+
+Undè habemus, Justificationem esse plenariam remissionem omnium omninò
+peccatorum. Undè
+
+Quæritur, An justificatio nostra sit unus, completus, continuus, adeòque non
+iterandus actus; an verò interrumpatur & abrumpatur Justificatio, quoties
+justificati peccant, & de novo justificentur, quoties credunt & resipiscunt?
+Justificationem esse successivam, interrumpi & intercidi, & suis gradibus
+promoveri & perfici, docent Adversarii. Arminius, disp. 48. thes. 12. Episcop.
+disp. 22. thes. 12. Nos verò asserimus Justificationem esse unicum actum
+individuum, cujus sensus indiès renovari possit; ipsam verò nullis gradibus
+perfici, sed totum in indivisibili poni.
+
+1. Quia qui justificantur, eorum peccata omnia, sanguine Christi abluuntur. 1
+Joan. 1:7. Eorum peccata, tanquàm nubes, delentur. Isa. 44:23. In profundum
+maris conjiciuntur omnia. Mich. 7:19. Ità ut si quæratur iniquitas Israëlis,
+non inveniatur, nullaque extet. Ier. 50:20. Nunquam, ergo, eorum peccata semel
+remissa, ità de novo imputantur, ut necessaria sit nova Justificatio.
+
+2. Qualem remissionem Christus in ligno crucis impetravit, talem credenti
+confert in Justificatione. Atqui plenariam omnium & singulorum peccatorum, in
+cruce impetravit. Ergo, &c. Ratio majoris. Quia ἄγραφον & absurdum est, Jesum
+Christum pro nonnullis credentium
+
+[1668 KBNL/UvA witness | logical printed p. 536 | PDF p. 587 | split word joined: peccatis]
+
+peccatis satisfecisse in ligno crucis, ipsos verò credentes, alia atque alia
+peccata in gehennâ expiaturos; erit enim Christus sic, semisalvator &
+Redemptor imperfectus talium hominum. Atqui Christus, Heb. 9:12. obtinuit
+æternam redemptionem. & Col. 1:20. pacem fecit in cruce. Omne igitur bellum &
+causam dissidii amovit.
+
+3. Ex hâc sententiâ sequitur, intercidi Dei favorem in Christo specialem, &
+decretum Electionis retractari & mutari & rescindi in horas; si quoties credunt
+& resipiscunt electi, justificantur, adeòque prædestinentur oportet. Rom. 8:30.
+Et quotiès peccant, totiès retractetur justificatio, & rescindatur decretum
+Electionis, & ejus loco succedat decretum Reprobationis. Sic enim Dei
+decretorum contrariorum & actuum immanentium diligendi & odio habendi,
+imputandi & non imputandi peccata, infinitæ penè circumrotationes &
+circumvolutiones forent, unà cum inconstantis Liberi Arbitrii nostri mobilibus
+& inconstantibus actibus.
+
+4. Fœdus Gratiæ. Ier. 31. dicitur æternum; & continuatio & perseverantia
+fœderatorum in Fœdere æterna. Ier. 32:40. Isa. 54.10, 11. Isa. 59. ult. Non,
+ergo, est intercisa & interrupta: Alitèr sequeretur, verè credentes hoc Fœdere
+excidere; neque omnes quos Deus prædestinat, vocat, & justificat, eos
+glorificandos esse; quod tamen expressè dicit Apostolus. Rom. 8:30.
+
+[1668 KBNL/UvA witness | logical printed p. 537 | PDF p. 588 | split word joined: Sequitur]
+
+5. Sequitur, neminem completè justificari, & nemini omnia peccata in profundum
+maris projici, donec quis cursum absolvat in Fide & Resipiscentiâ; quod cum
+infinitis Scripturæ locis pugnat.
+
+6. Vel justificatione excidit justificatus propter quodvis peccatum leve, ex
+infirmitate, vel (ut Sophistæ loquuntur) veniale, vel tantùm propter atrociora
+delicta. Si primum; tùm centiès quolibet die, justificatio iteranda &
+reiteranda foret; quod Sacra Scriptura nunquàm innuit. Si propter leviora non
+excidit justificatus justificatione, ad ea leviora diluenda non erit opus
+remissione in Christi sanguine: Non, ergò, sunt peccata omnino; & si sunt
+peccata, justificatus non implet Legem Dei, & non justificatur operibus bonis.
+Si propter atrociora duntaxat peccata excidit justificatione; illa atrociora
+vel sunt expiata sanguine Christi, vel non. Si primum, tùm satisfactio Christi,
+& remissio impetrata à Christo, per partes apprehenditur à credente, una pars
+post alteram, tertia post secundam, quarta post tertiam. Si itaque aliquis
+moritur, antequam rejustificetur post excisionem à justificatione; dimidiâ ex
+parte justificatus est, & pro peccatis ipsius est satisfactum, & planè remissa
+est altera pars peccatorum; altera verò pais illi luenda est in æternum in
+gehennâ; & is qui semel verè credit, in æternum condemnatur;
+
+[1668 KBNL/UvA witness | logical printed p. 538 | PDF p. 589]
+
+quod absurdum. Si verò non sunt expiata sanguine Christi, sunt simpliciter
+irremissibilia, qualia sunt peccata Diabolorum.
+
+Tota autem difficultas hujus quæstionis ex eò pendere videtur, quòd peccata
+remitti videantur priusquam committantur; cùm renatus necesse habeat post
+peccata singula, saltem atrociora, de novo apprehendere & applicare sibi
+remissionem peccatorum in Christo. Sed facilè tollitur difficultas. Sancti
+quidem quotidiè orant remissionem peccatorum; sed semel justificati orant
+sensum & renovationem remissionis jam semel apprehensæ & applicatæ. Neque
+absurdum, imò verò necessarium est, omnia renatorum peccata, tùm jam commissa,
+tùm in posterùm committenda, unico sacrificio Christi jam olim expiata esse, &
+in mente & intentione Dei jam deleta; & sensum illius expiationis jam factæ,
+iterùm atque iterùm per novos credendi actus apprehendi ac applicari. Hoc enim
+probè tenendum est, remissionem peccatorum minimè efficere ut peccata jam non
+sint peccata, aut ut peccator non sit jam peccator, quod attinet ad Physicam &
+realem inhærentiam peccati in subjecto; sed tantùm efficere ut peccata non
+imputentur, i. e. ut auferatur moralis obligatio ad pœnam, divinæ iræ
+satisfactoriam: haud alitèr quàm remissio à terreno Rege, Proditori &
+Læsæ-Majestatis reo, ex merâ Principis gratiâ
+
+[1668 KBNL/UvA witness | logical printed p. 539 | PDF p. 590 | split word joined: indulta]
+
+indulta, non efficit ut iste, cui indulgetur, desinat esse Proditor; sed tantùm
+ut desinat esse Proditor plectendus capite, & liberatus ab omni obligatione
+legali, quâ ante indultam remissionem nexus tenebatur ad capitale supplicium
+Proditionis perpetiendum. Nam remissio regia non retractat ullâ actione
+Physicâ, actus proditionis, quos patravit is, qui capite plectendus fuisset.
+
+Undè peccata duobus modis tolluntur. 1. Legaliter & in fictione juris (ut
+loquuntur) ablatione planè judiciali & forensi. Et hoc modo in Justificatione
+tolluntur peccata, non ut non sint, sed ut non imputentur, ut loquitur
+Augustinus. Ideòque justificatio infert in justificato, non mutationem aliquam
+Physicam; sed tantùm moralem seu legalem, quâ homo ab obligatione ad pœnam
+exsolvatur: ea autem exsolutio tota simul fit in mente Dei, & tota simul
+apprehenditur à credente, quùm primùm justificatur; & sensus illius indiès
+renovatur & reiteratur.
+
+2. Peccata tolluntur realitèr, & Physicè, quoad inhærentiam Physicam in
+subjecto; & sic tolluntur in Sanctificatione, in hâc quidem vitâ inchoatè &
+imperfectè, quemadmodum Sanctificatio nostra in hâc vitâ imperfecta est &
+inchoata: Ideòque expellit peccatum actione Physicâ per partes duntaxat &
+successivè; sicut lux matutina vel primæ auroræ, tenebras nocturnas,
+
+[1668 KBNL/UvA witness | logical printed p. 540 | PDF p. 591 | split word joined: non nisi]
+
+non nisi successivè & gradatim expellit.

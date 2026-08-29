@@ -1,0 +1,68 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 540 at the Acts 10:43
+lemma, without repeating Part 38's closing distinction. It contains the
+complete question whether faith is considered in justification by its natural
+inclusion of obedience or correlatively as apprehending Christ's
+righteousness. It ends within printed p. 541 after the fourth and final
+argument, before the new lemma `1 TIM. 1:15.` Printer line-end and page-end
+divisions have been joined; the new-page marker precedes the whole word at the
+single split-word boundary.]
+
+[Errata note: The printed errata on PDF 52 corrects the body's `ACT. 13:43.`
+on printed p. 540 line 2 to `Act. 10.43.` The correction is applied in the
+heading below, with the original printed reading recorded here. No other
+printed correction applies to this unit.]
+
+[Printed-form note: The visibly irregular `fidem correlativè tantum
+justificare`, `tùm beatus erit, cui imputantur opera absque gratia`, and
+Socinus citation `Prælect. cap. 17.` are retained rather than silently
+regularized. Isolated edge marks, stains, show-through, running heads,
+signatures, catchwords, and ornaments in the controlling images are
+non-textual or non-substantive artifacts; no substantive marginal note,
+Greek, or Hebrew occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 540 | PDF p. 591 | begins at corrected ACT. 10:43.]
+
+ACT. 10:43.
+
+Ei testimonium dant omnes Prophetæ, remissionem peccatorum accepturum per
+nomen ejus, quemvis, qui crediderit in eum.
+
+Ex hoc loco patet fidem unicum esse instrumentum apprehendendi Christum.
+Verùm de naturâ fidei, graves quæstiones extant inter nos & Arminianos.
+
+Quæritur, An rectè doceant Apol. cap. 10. sect. 1. Fidem, in negotio
+justificationis, non alitèr considerari, quàm quatenus proprietate suâ
+naturali, obedientiam, i. e. conversionem, resipiscentiam & mandatorum
+observationem includit; non autem correlativè, ut apprehendit Christi
+justitiam? Nos negamus; & tuemur fidem correlativè tantum justificare.
+
+1. Patet ex hoc contextu citato, & Rom. 4:6. Sicut etiam David declarat beatum
+eum hominem, cui Deus imputat justitiam absque operibus.
+
+2. Si Fides essentialiter includit Opera in hâc actione, tùm beatus erit, cui
+imputantur opera absque gratia. Rom. 11:6. Quod si per gratiam, non jam ex
+operibus, alioqui gratia non jam est gratia: Sic ex operibus, jam non ex
+gratiâ, alioqui opus jam non esset opus.
+
+3. Quia si Fides hic consideratur, ut includit Resipiscentiam, Fides
+justificat, ut est Resipiscentia; & sic Resipiscentia ipsa justificat, quod est
+absurdum.
+
+[1668 KBNL/UvA witness | logical printed p. 541 | PDF p. 592 | split word joined: Quia]
+
+4. Quia hic est merus Socinianismus. Socinus in Prælect. cap. 17. Fides non
+est ullius satisfactionis apprehensio, sed Christi præceptorum obedientia, sub
+spe futuræ immortalitatis. Et per hanc rationem, si resipiscere vitamque
+emendare, sub fiduciâ assequendi vitam æternam, est Fides; Ergo, obedire Legi
+sub fiduciâ consequendi vitam æternam, per opera Legis, erit justificatio
+Legalis; Et sic in Lege, hoc sensu homines justificarentur Fide, sicut & in
+Evangelio.

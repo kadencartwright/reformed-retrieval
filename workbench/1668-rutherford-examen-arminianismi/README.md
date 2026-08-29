@@ -899,3 +899,56 @@ structures.
 
 - Latin: `parts/part-37-chapter-12d-latin.txt`
 - English: `parts/part-37-chapter-12d-english.md`
+
+**Part 38 is complete as a scan-audited working draft.** It begins within
+shared printed p. 534 / PDF 585 at the lemma `1 JOAN. 1:7.`, without repeating
+Part 37's closing argument. It contains the complete question whether
+justification is one complete, continuous, unrepeatable act or is interrupted
+whenever a justified person sins. It ends within shared printed p. 540 / PDF
+591 after Rutherford distinguishes the legal and forensic removal of sin in
+justification from its real, physical, gradual removal in sanctification. The
+following Acts lemma and question concerning faith's apprehension of Christ
+are excluded and form the exact restart for Part 39. The pair has seven
+byte-identical synchronized markers for pp. 534–540. The controlling KBNL/UvA
+Google Books images and embedded OCR were compared across every included
+frame, both shared-page boundaries, every page join, the complete question and
+six-argument structure, biblical, covenantal, legal, and polemical citations,
+Greek, and the absence of Hebrew and substantive marginalia. The printed
+errata's correction of the following p. 540 lemma from `Act. 13:43.` to `Act.
+10.43.` falls outside this unit and is reserved for Part 39. The split words
+`peccatis`, `Sequitur`, `indulta`, and `non nisi` are joined with each new-page
+marker before the whole word and its English equivalent. The visibly
+difficult or irregular forms and citations `Isa. 44:23`, `Rom. 9:23`, `pais
+illi`, `Rom. 8:30`, and `in fictione juris` are retained or disclosed rather
+than silently regularized. The Greek `ἄγραφον` is retained and explained. The
+English follows the Latin at clause level while preserving the complete
+lemma, question, response, analogy, distinction, and numbered argument
+structures.
+
+- Latin: `parts/part-38-chapter-12e-latin.txt`
+- English: `parts/part-38-chapter-12e-english.md`
+
+**Part 39 is complete as a scan-audited working draft.** It begins within
+shared printed p. 540 / PDF 591 at the lemma printed `ACT. 13:43.` and corrected
+by the edition's errata to `ACT. 10:43.`, without repeating Part 38's closing
+distinction. It contains the complete question whether faith is considered in
+justification by its natural inclusion of obedience or correlatively as
+apprehending Christ's righteousness. It ends within shared printed p. 541 /
+PDF 592 after the fourth and final argument. The new lemma `1 TIM. 1:15.` and
+its following questions concerning the nature of saving faith are excluded
+and form the exact restart for Part 40. The pair has two byte-identical
+synchronized markers for pp. 540–541. The controlling KBNL/UvA Google Books
+images and embedded OCR were compared across both included frames, both
+shared-page boundaries, the page join, the complete question and four-argument
+structure, biblical and Socinian citations, and the absence of foreign script
+and substantive marginalia. The p. 540 erratum is applied transparently; no
+other printed correction applies. The split word `Quia` is joined with the
+new-page marker before the whole word and its English equivalent. The visibly
+irregular formulations `fidem correlativè tantum justificare`, `tùm beatus
+erit, cui imputantur opera absque gratia`, and `Prælect. cap. 17.` are retained
+or disclosed rather than silently regularized. The English follows the Latin
+at clause level while preserving the lemma, question, response, citation, and
+numbered argument structures.
+
+- Latin: `parts/part-39-chapter-12f-latin.txt`
+- English: `parts/part-39-chapter-12f-english.md`

@@ -304,6 +304,16 @@ on printed p. 69 / canvas 00095 and has one identical marker.
 The next unit resumes there at Twisse's `RESP. At nihil terminat notitiam
 nostram intuitivam nisi quod existit simpliciter`.
 
+Part 28 contains Twisse's complete comparison of human, angelic, and divine
+intuitive cognition. It remains on printed p. 69 / canvas 00095 and has one
+identical marker.
+
+- `parts/part-28-digression-03-section-07-intuitive-knowledge-comparison-latin.txt`
+- `parts/part-28-digression-03-section-07-intuitive-knowledge-comparison-english.md`
+
+The next unit resumes there with `Rursus hinc sequitur, aut Deum habere
+notitiam intuitivam rerum de novo`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

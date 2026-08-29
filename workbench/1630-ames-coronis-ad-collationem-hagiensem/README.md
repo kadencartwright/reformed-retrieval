@@ -74,24 +74,31 @@ It remains explicitly AI-assisted and unreviewed. No CC0 dedication is made
 for these workbench files; see the repository's [licensing
 scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
-## Completed unit
+## Completed units
 
-**Part 01 is complete as an AI-unreviewed, image-audited working draft.** It
-contains Article I, Chapters I–III: the statement and analysis of the
-Remonstrant position, Ames's defense of the division of the question, and the
-first argument from the scriptural language of election. It begins at the
-Article I heading on printed p. 1 / BSB canvas 13 and ends with the last
-sentence of Chapter III in the top four lines of printed p. 16 / canvas 28:
-`...cum discrimen apertum facit inter Iudam Apostolum, et caeteros, non de
-omnibus vobis loquor.` The `CAP. IV` heading lower on that shared page is
-excluded.
+**Parts 01–05 are complete as AI-assisted, unreviewed working drafts.** They
+cover the whole of Article I, Chapters I–XV, from the Article I heading on
+printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
+printed p. 92 / canvas 102. The files are divided as follows:
 
-- Latin: `parts/part-01-article-01-chapters-01-03-latin.txt`
-- English: `parts/part-01-article-01-chapters-01-03-english.md`
-- Both files contain sixteen synchronized source markers for printed pp. 1–16
-  / BSB canvases 13–28.
-- Direct image control confirmed all pages, all fifteen page joins, the Greek
-  expressions on pp. 5, 7, and 14–15, and the shared-page endpoint.
+- Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
+- Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
+- Part 03: Chapters VII–X, canvases 51–68 / printed pp. 39–56.
+- Part 04: Chapters XI–XII, canvases 69–86 / printed pp. 57–76, including the
+  anomalous printed pp. 75–76 on canvases 85–86 (intended pp. 73–74).
+- Part 05: Chapters XIII–XV, canvases 87–102 / printed pp. 77–92.
 
-The next unit begins with `CAP. IV. Argumentum secundum` on the lower part of
-printed p. 16 / BSB canvas 28.
+Part 05 contains Ames's third through fifth arguments against conditional
+election and completes Article I. It begins with `CAP. XIII. Argumentum
+tertium` at the top of printed p. 77 / canvas 87 and ends with
+`...neque Remonstrantes (in ista saltem parte) favere Confessioni, neque
+Confessionem illis.` on printed p. 92 / canvas 102. The catchword `Articulus`
+at the foot of that page is excluded.
+
+- Latin: `parts/part-05-article-01-chapters-13-15-latin.txt`
+- English: `parts/part-05-article-01-chapters-13-15-english.md`
+- Both Part 05 files contain sixteen synchronized source markers for printed
+  pp. 77–92 / BSB canvases 87–102.
+
+The next unit begins with `Articulus Secundus, De Redemptione Universali` and
+`CAPUT I. Status quaestionis eruitur` on printed p. 93 / BSB canvas 103.

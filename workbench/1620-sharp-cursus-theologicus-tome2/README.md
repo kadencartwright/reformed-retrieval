@@ -65,6 +65,26 @@ canonizatione`. The pair contains sixteen synchronized printed-column markers:
 - `parts/part-01-church-triumphant-question-01-latin.txt`
 - `parts/part-01-church-triumphant-question-01-english.md`
 
+**Part 02 is complete as an AI-assisted, unreviewed working draft.** It
+contains the complete Question II, on the canonization of the saints, in
+printed columns 24–27. It ends immediately before `QUAESTIO III. De cultu
+sanctorum` and contains four synchronized printed-column markers:
+
+- `parts/part-02-church-triumphant-question-02-latin.txt`
+- `parts/part-02-church-triumphant-question-02-english.md`
+
+**Part 03 is complete as an AI-assisted, unreviewed working draft.** It
+contains the complete Question III, on the worship of the saints, in printed
+columns 27–33. It ends after the response to Objection 5, immediately before
+`QUAESTIO quarta. De intercessione Sanctorum pro nobis`, and contains seven
+synchronized printed-column markers:
+
+- `parts/part-03-church-triumphant-question-03-latin.txt`
+- `parts/part-03-church-triumphant-question-03-english.md`
+
+The next continuation boundary is therefore the start of Question IV in
+printed column 33 on BSB canvas 17.
+
 ## Review and licensing notice
 
 The transcription and translation are **AI-assisted and unreviewed**. Their

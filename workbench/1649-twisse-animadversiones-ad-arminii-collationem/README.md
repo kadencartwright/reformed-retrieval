@@ -184,9 +184,23 @@ pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-05-proposition-12-section-02-latin.txt`
 - `parts/part-05-proposition-12-section-02-english.md`
 
+## Part 06: exact authorial boundary
+
+Part 06 occupies **first-body printed pp. 51–52 / BSB canvases 63–64** and has
+two synchronized source markers. It begins on the shared right column of p.
+51 with `SECTIO TERTIA` and contains the complete Junius–Arminius exchange,
+including Arminius's three-stage reformulation and defence of his argument.
+It stops on p. 52 immediately before Twisse's separately labeled `RESP.`
+
+- `parts/part-06-proposition-12-section-03-exchange-latin.txt`
+- `parts/part-06-proposition-12-section-03-exchange-english.md`
+
+The next unit resumes on first-body printed p. 52 / BSB canvas 64 with
+`RESP. Nunc fatetur Junius`, and must repeat that shared-page marker.
+
 ## Status
 
-**Parts 01–05 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–06 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the

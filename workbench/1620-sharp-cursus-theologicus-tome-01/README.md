@@ -75,6 +75,34 @@ is used as the request's first complete disputation/lecture-sized authorial
 unit rather than padding Part 01 with an incomplete portion of the much longer
 topic on Scripture.
 
+## Completed continuation and current boundary
+
+The paired continuation now runs without a content gap from the opening of
+the tome through the end of `QUAESTIO IX. De Necessitate Scripturae`. Units
+that share a numbered column meet at the printed internal heading in that
+column; neither pair duplicates matter across that heading.
+
+| Part | Complete authorial unit | Fixed-edition columns | BSB frames |
+|---:|---|---:|---:|
+| 02 | `DE SACRA SCRIPTURA`, Controversy I: canon | 8–25 | 00018–00027 |
+| 03 | Controversy II: authentic edition | 25–35 | 00027–00032 |
+| 04 | Controversy III: vernacular translations | 35–41 | 00032–00035 |
+| 05 | Controversy IV: reading Scripture | 41–48 | 00035–00038 |
+| 06 | Controversy V: public sacred rites | 48–53 | 00038–00041 |
+| 07 | Controversy VI: authority | 54–69 | 00041–00049 |
+| 08 | Controversy VII: clarity | 69–82 | 00049–00055 |
+| 09 | Controversy VIII: interpretation | 82–120 | 00055–00074 |
+| 10 | Question IX: necessity | 121–125 | 00075–00077 |
+
+For each row the normal pair is stored under `parts/` as a normalized Latin
+transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
+with the same part number and descriptive stem.
+
+**Exact resume boundary:** Part 10 ends in column 125 at BSB frame 00077 with
+`ne Vetus quidem Testamentum habuerunt.` The heading `CONTROVERSIA IX. De
+Perfectione Scripturae` begins later in the same column and is excluded. That
+heading is the next untranscribed text.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` and `i/j` are

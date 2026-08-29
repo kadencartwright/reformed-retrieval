@@ -128,6 +128,16 @@ source marker.
 The next unit resumes there with `At incredibile est, ut tam projectè
 comparatio institueretur`.
 
+Part 10 contains Twisse's complete concluding reductio against comparing the
+eternal mode merely with nonexistence. It remains on printed p. 66 / canvas
+00092 and has one identical marker.
+
+- `parts/part-10-digression-03-section-07-comparative-reductio-latin.txt`
+- `parts/part-10-digression-03-section-07-comparative-reductio-english.md`
+
+The next unit resumes there with `Quod si modus existendi rebus proprius non
+sit adeo excellens`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

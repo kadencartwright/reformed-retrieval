@@ -198,9 +198,21 @@ It stops on p. 52 immediately before Twisse's separately labeled `RESP.`
 The next unit resumes on first-body printed p. 52 / BSB canvas 64 with
 `RESP. Nunc fatetur Junius`, and must repeat that shared-page marker.
 
+## Part 07: exact authorial boundary
+
+Part 07 resumes at that `RESP.` and contains Twisse's complete opening
+clarification of Junius's “negative act.” It ends on p. 52 after `merum Dei
+beneplacitum`, before Twisse turns to the meritorious cause.
+
+- `parts/part-07-proposition-12-section-03-response-opening-latin.txt`
+- `parts/part-07-proposition-12-section-03-response-opening-english.md`
+
+The next unit resumes on p. 52 / canvas 64 with `Hujus actus causam
+meritoriam extra Deum`.
+
 ## Status
 
-**Parts 01–06 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–07 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the

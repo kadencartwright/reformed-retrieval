@@ -83,6 +83,18 @@ byte-identical synchronized markers.
 - `parts/part-05-digression-03-section-07-objection-01-latin.txt`
 - `parts/part-05-digression-03-section-07-objection-01-english.md`
 
+Part 06 begins at `Secundò arguitur` on shared **printed p. 66 / BSB canvas
+00092** and contains the complete second objection, including Twisse's clearer
+restatement. It stops immediately before the marginally labeled `Respons.` and
+the words `Admodum prolixa & in longum deducta responsione`. Its pair has one
+byte-identical source marker.
+
+- `parts/part-06-digression-03-section-07-objection-02-latin.txt`
+- `parts/part-06-digression-03-section-07-objection-02-english.md`
+
+The next unit resumes on printed p. 66 / canvas 00092 at that `Respons.` and
+must repeat the shared-page marker.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

@@ -245,6 +245,16 @@ It remains on printed p. 68 / canvas 00094 and has one identical marker.
 The next unit resumes there with `Neque hujusmodi consequentia; Antichristus
 non est, ergo non terminat notitiam intuitivam Dei`.
 
+Part 22 contains Twisse's complete distinction between a future thing's
+capacity to terminate intuitive knowledge and its actually doing so. It
+remains on printed p. 68 / canvas 00094 and has one identical marker.
+
+- `parts/part-22-digression-03-section-07-capacity-and-actuality-latin.txt`
+- `parts/part-22-digression-03-section-07-capacity-and-actuality-english.md`
+
+The next unit resumes there with `Sed neque antecedens est restrictum;
+Antichristus non est`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

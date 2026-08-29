@@ -3,8 +3,8 @@
 > **Working edition begun:** This directory contains an AI-assisted,
 > diplomatic-normalized Latin transcription and an independent close English
 > translation. Both are unreviewed working files, not a published critical
-> edition. Every page in Parts 01–02 was read directly from facsimile images; OCR
-> was used only as a finding and drafting aid.
+> edition. Every included page was read directly from facsimile images; OCR was
+> used only as a finding and drafting aid.
 
 ## Work identity
 
@@ -35,8 +35,8 @@ For page-by-page reading, the 1610 edition was read in the British Museum copy
 digitized by Google Books as
 [`LHRmAAAAcAAJ`](https://books.google.com/books?id=LHRmAAAAcAAJ). Its embedded
 record declares the volume public domain and supplies stable page IDs. The two
-records agree on author, full title, imprint, and pagination. Part markers
-markers use the printed page number and Google page ID because those are the
+records agree on author, full title, imprint, and pagination. Part markers use
+the printed page number and Google page ID because those are the
 direct, stable page locators available for each inspected image; the e-rara
 PDM record and IIIF manifest remain the rights audit and canonical source
 links. Image pixels, not either site's OCR, control the text.
@@ -99,6 +99,72 @@ a new division on the sin of angels.
 - Apparently anomalous printed biblical locators, including `Ioh. 1.13.27`,
   `Psal. 51.40`, `Matth. 15.29`, and `Heb. 5.9`, are retained without silent
   emendation.
+
+## Part 03 boundary
+
+Part 03 resumes with the ruled `CAPUT VII` on printed p. 52 and runs through
+printed p. 66 / Google Books `PA52`–`PA66`. It contains complete Chapters
+VII–X: the sin of angels, the first human sin, the propagation of Adam's sin,
+and the existence and unity of original sin. It stops after Chapter X's answer
+that original sin is both guilt and punishment; Chapter XI begins later on the
+same printed p. 66 and is excluded.
+
+- Latin: `parts/part-03-book-01-chapters-07-10-latin.txt`
+- English: `parts/part-03-book-01-chapters-07-10-english.md`
+- Both files contain fifteen synchronized markers: printed pp. 52–66 / Google
+  Books `PA52`–`PA66`.
+- The repeated use of p. 66 in Part 04 reflects the authorial boundary within
+  that page rather than duplicated text.
+
+## Part 04 boundary
+
+Part 04 resumes with `CAPUT XI` on printed p. 66 and runs through printed p. 82
+/ Google Books `PA66`–`PA82`. It contains complete Chapters XI–XIII on the
+nature, subject, and extent of original sin. It ends after Chapter XIII's
+answer that only Adam's first sin passes to his descendants; Chapter XIV
+begins later on p. 82 and is excluded.
+
+- Latin: `parts/part-04-book-01-chapters-11-13-latin.txt`
+- English: `parts/part-04-book-01-chapters-11-13-english.md`
+- Both files contain seventeen synchronized markers: printed pp. 66–82 /
+  Google Books `PA66`–`PA82`.
+- The repeated use of p. 82 in Part 05 records the clean mid-page transition
+  from Chapter XIII to Chapter XIV.
+
+## Part 05 boundary
+
+Part 05 resumes with `CAPUT XIV` on printed p. 82 and runs through the
+patristic testimony in Chapter XV on printed p. 100 / Google Books
+`PA82`–`PA100`. It contains all of Chapter XIV and Chapter XV's affirmative
+arguments and testimonies concerning the persistence of original sin in the
+reborn. It stops immediately before the `Obiectiones` in the latter part of p.
+100.
+
+- Latin: `parts/part-05-book-01-chapter-14-and-15a-latin.txt`
+- English: `parts/part-05-book-01-chapter-14-and-15a-english.md`
+- Both files contain nineteen synchronized markers: printed pp. 82–100 /
+  Google Books `PA82`–`PA100`.
+- The repeated use of p. 100 in Part 06 records the mid-page transition from
+  the testimonies to the objections; no text is duplicated.
+
+## Part 06 boundary
+
+Part 06 resumes at Chapter XV's `Obiectiones` in the latter part of printed p.
+100 and runs through printed p. 113 / Google Books `PA100`–`PA113`. It contains
+the complete series of nineteen objections and responses concerning original
+sin in the reborn and thereby completes Chapter XV. It stops at the end of the
+chapter; the ruled `CAPUT XVI` on actual sin begins on printed p. 114 and is
+excluded.
+
+- Latin: `parts/part-06-book-01-chapter-15b-latin.txt`
+- English: `parts/part-06-book-01-chapter-15b-english.md`
+- Both files contain fourteen synchronized markers: printed pp. 100–113 /
+  Google Books `PA100`–`PA113`.
+- The p. 100/101 join in `concupiscentia` and the later joins in `Novi`,
+  `peccatum`, and the citation `de amiss. gratiae` place the new marker before
+  the complete joined word or phrase and at its corresponding English text.
+- The excluded opening of p. 114 was checked to confirm the new chapter
+  boundary.
 
 ## Status
 

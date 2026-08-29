@@ -446,6 +446,31 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-19-chapter-19d-latin.txt`
 - `parts/part-19-chapter-19d-english.md`
 
-The next unit begins with `Vers. 18. Castiga filium tuum, dum est spes...` in
-the right column of shared PDF 412 / printed column 799; restart there,
-excluding all verse 17 text above it.
+**Part 19e is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XIX from `Vers. 18. Castiga filium
+tuum, dum est spes...` in the right column of shared PDF 412 / printed column
+799 through the final prose of verse 20 on PDF 416 / printed column 806. It
+stops immediately before `V. 21.` in that same left column. Latin and English
+have five byte-identical source markers (PDF 412–416; synchronized printed
+columns 798–799 through 806–807) and retain all three verse lemmata, full prose,
+Hebrew, Greek, citations, bracketed wording, the analytical tree, and printed
+irregularities. The complete files contain 1,643 Latin-file and 2,371
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 412–416, was inspected at original detail in both-column
+order. The shared PDF-412 marker is intentional: Part 19d ends above `Vers.
+18.`, while Part 19e begins with that lemma below it, so no verse 17 prose
+overlaps and none is omitted. The shared PDF-416 marker includes only the
+concluding prose of verse 20 above `V. 21.`; no verse 21 material is imported.
+Page-turn catchwords were excluded rather than duplicated, while the printed
+`ad morte`, unmatched parentheses around `seu tolleret`, `aestu`, and the
+Greek expressions were retained. This remains an AI-assisted working edition
+requiring qualified human review.
+
+- `parts/part-19-chapter-19e-latin.txt`
+- `parts/part-19-chapter-19e-english.md`
+
+The next unit begins with `V. 21. Multae sunt cogitationes...` in the left
+column of shared PDF 416 / printed column 806; restart there, excluding all
+verse 20 text above it.

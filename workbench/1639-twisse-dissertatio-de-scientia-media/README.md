@@ -255,6 +255,16 @@ remains on printed p. 68 / canvas 00094 and has one identical marker.
 The next unit resumes there with `Sed neque antecedens est restrictum;
 Antichristus non est`.
 
+Part 23 contains Twisse's complete analysis of simple and qualified being,
+including willed and known being. It remains on printed p. 68 / canvas 00094
+and has one identical marker.
+
+- `parts/part-23-digression-03-section-07-simple-and-qualified-being-latin.txt`
+- `parts/part-23-digression-03-section-07-simple-and-qualified-being-english.md`
+
+The next unit resumes there with `Quod vero distinguitis de modo existendi
+alio atque alio rebus temporalibus competenti`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

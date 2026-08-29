@@ -158,6 +158,15 @@ Part 12 contains Navarrete's complete illustration from the proposition
 The next unit resumes there at the separately labeled response, `Novas
 distinctiones pro ea qua est subtilitate`.
 
+Part 13 contains the complete opening sentence of that response, including
+Twisse's one-winged-distinction image. It remains on printed p. 67 / canvas
+00093 and has one identical marker.
+
+- `parts/part-13-digression-03-section-07-new-distinctions-latin.txt`
+- `parts/part-13-digression-03-section-07-new-distinctions-english.md`
+
+The next unit resumes there with `Nam excellentiorem istum modum essendi`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

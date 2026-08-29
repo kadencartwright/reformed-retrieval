@@ -1,9 +1,9 @@
 # John Brown, *De causa Dei contra antisabbatarios*, Volume II (1676)
 
-> **Working edition in progress:** This directory contains an AI-assisted,
-> scan-audited diplomatic-normalized Latin transcription and an independent
-> close English translation of the opening unit of Volume II. Both files are
-> unreviewed and are not publication-ready.
+> **Working edition in progress:** This directory contains AI-assisted,
+> scan-audited diplomatic-normalized Latin transcriptions and independent
+> close English translations of the opening sixty printed pages of Volume II.
+> The seven paired parts are unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -84,37 +84,60 @@ and Hebrew are retained. Running heads, signatures, catchwords, ornaments,
 and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
-The terminal errata leaf was checked in full. Its sole correction affecting
-this unit is applied at printed p. 6, line 39: the text's `sui ipsius` is
-corrected to `sibi ipsi`; the intervention is recorded in both paired files.
-No substantive marginalia occur on printed pp. 1–16. The Hebrew and Greek on
-p. 4 were read from the image, not reconstructed from IA OCR. Apparatus notes
-record the printed erratum, source-language glosses needed by the English,
-and the edition's anomalous citation `Luc. 3:39` on p. 12 without silently
-repairing it.
+The terminal errata leaf was checked in full. Every correction affecting the
+completed span through printed p. 60 is applied and disclosed in the relevant
+paired files. No substantive marginalia occur in the completed span. The
+Hebrew and Greek on p. 4 were read from the image, not reconstructed from IA
+OCR. Apparatus notes record printed errata, source-language glosses needed by
+the English, and anomalous citations without silently repairing them.
 
 The English is a complete independent translation of the accompanying Latin,
 not a summary. Biblical quotations are translated from Brown's wording, and
 his citations are retained. Technical distinctions such as materially,
 formally, specifically, covenant of works, and legal/evangelical
-administration are translated consistently. Both files remain AI-assisted
-and unreviewed pending line-by-line review by a competent Latinist.
+administration are translated consistently. All files remain AI-assisted and
+unreviewed pending line-by-line review by a competent Latinist.
 
-## Part 01 boundary and status
+## Completed parts and continuation boundary
 
-**Part 01 is complete as a scan-audited, AI-assisted, unreviewed working
-draft.** It covers the opening sixteen-page structural unit of Volume II:
-Book IV's introduction and complete forty-eight-chapter prospectus on printed
-pp. 1–3, followed by all of Chapter I, “General points proposed concerning the
-nature of the Decalogue,” on printed pp. 4–16. On shared printed p. 16 it stops
-after Chapter I's final complete sentence and excludes the new heading and
-text of Chapter II.
+Seven paired parts are complete as scan-audited, AI-assisted, unreviewed
+working drafts:
 
-- Latin: [`parts/part-01-book-04-chapter-01-latin.txt`](parts/part-01-book-04-chapter-01-latin.txt)
-- English: [`parts/part-01-book-04-chapter-01-english.md`](parts/part-01-book-04-chapter-01-english.md)
-- Source span: printed pp. 1–16 / IA PDF 9–24 / IA leaves 9–24
-- Markers: sixteen synchronized full source markers in each file
-- Review status: AI-assisted and unreviewed
+- **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
+  printed pp. 1–16 / IA PDF and leaves 9–24; sixteen synchronized markers.
+  [Latin](parts/part-01-book-04-chapter-01-latin.txt) |
+  [English](parts/part-01-book-04-chapter-01-english.md)
+- **Part 02:** all of Chapter II; printed pp. 16–25 / IA PDF and leaves
+  24–33; ten synchronized markers.
+  [Latin](parts/part-02-book-04-chapter-02-latin.txt) |
+  [English](parts/part-02-book-04-chapter-02-english.md)
+- **Part 03:** all of Chapter III; printed pp. 25–31 / IA PDF and leaves
+  33–39; seven synchronized markers.
+  [Latin](parts/part-03-book-04-chapter-03-latin.txt) |
+  [English](parts/part-03-book-04-chapter-03-english.md)
+- **Part 04:** all of Chapter IV; printed pp. 32–47 / IA PDF and leaves
+  40–55; sixteen synchronized markers.
+  [Latin](parts/part-04-book-04-chapter-04-latin.txt) |
+  [English](parts/part-04-book-04-chapter-04-english.md)
+- **Part 05:** all of Chapter V; printed pp. 47–54 / IA PDF and leaves
+  55–62; eight synchronized markers.
+  [Latin](parts/part-05-book-04-chapter-05-latin.txt) |
+  [English](parts/part-05-book-04-chapter-05-english.md)
+- **Part 06:** Chapter VI, objections 1–3; printed pp. 54–58 / IA PDF and
+  leaves 62–66; five synchronized markers.
+  [Latin](parts/part-06-book-04-chapter-06-objections-01-03-latin.txt) |
+  [English](parts/part-06-book-04-chapter-06-objections-01-03-english.md)
+- **Part 07:** Chapter VI, objections 4–5; printed pp. 58–60 / IA PDF and
+  leaves 66–68; three synchronized markers.
+  [Latin](parts/part-07-book-04-chapter-06-objections-04-05-latin.txt) |
+  [English](parts/part-07-book-04-chapter-06-objections-04-05-english.md)
+
+Part 07 ends after the final response to Objection 5 and before `Obj. 6.` on
+shared printed p. 60. The exact next untranslated text is `Obj. 6. Licet
+teneantur fideles rem mandatam praestare; non tamen tenentur hoc facere vi
+mandati...`, at printed p. 60 / IA PDF 68 / IA leaf 68. Chapter VI remains in
+progress. Every completed pair has an identical source-marker sequence, and
+all seven pairs remain AI-assisted and unreviewed.
 
 ## Licensing
 

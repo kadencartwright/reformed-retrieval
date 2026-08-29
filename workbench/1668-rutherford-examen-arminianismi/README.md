@@ -952,3 +952,57 @@ numbered argument structures.
 
 - Latin: `parts/part-39-chapter-12f-latin.txt`
 - English: `parts/part-39-chapter-12f-english.md`
+
+**Part 40 is complete as a scan-audited working draft.** It begins within
+shared printed p. 541 / PDF 592 at the lemma `1 TIM. 1:15.`, without repeating
+Part 39's closing argument. It contains the three opening assertions drawn
+from the lemma and the complete seven-argument question whether saving faith
+is a special trust in mercy or the Remonstrants' confidence in following the
+way prescribed by Christ. It ends within shared printed p. 547 / PDF 598 after
+the Smalcius quotation in argument 7. The new question `Quæritur, An Verbum
+Dei est unicum & solum instrumentum` is excluded and forms the exact restart
+for Part 41. The pair has seven byte-identical synchronized markers for
+pp. 541–547. The controlling KBNL/UvA Google Books images and embedded OCR
+were compared across all seven included frames, both shared-page boundaries,
+every page join, the lemma, opening assertions, complete question and
+seven-argument structure, biblical and polemical citations, Hebrew, Greek,
+and the absence of substantive marginalia. The printed errata has no
+applicable correction for pp. 541–547. The split words `verbis`, `rationem`,
+`firmus`, and `tantùm` are joined with each new-page marker before the whole
+word and its English equivalent. The visibly difficult or irregular citations
+and forms `Joan. 6:46`, `2 Sam. 22.19`, and `Ier. 34:4` are retained or
+disclosed rather than silently regularized. The Hebrew lexical examples and
+the Greek `ἄξιος πάσης ἀποδοχῆς`, `πιστεύειν ἐπὶ`, `εἰς Θεόν`, `ἔρχεσθαι εἰς
+τὸν Χριστὸν`, and `τὸν Χριστὸν λαμβάνειν` are retained and translated or
+explained. The English follows the Latin at clause level while preserving the
+lemma, question, quotations, distinctions, and numbered argument structure.
+
+- Latin: `parts/part-40-chapter-12g-latin.txt`
+- English: `parts/part-40-chapter-12g-english.md`
+
+**Part 41 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 547 / PDF 598 at `Quæritur, An Verbum Dei est unicum & solum
+instrumentum`, without repeating Part 40's closing Smalcius quotation. It
+contains the complete five-argument question whether the Word alone is both
+the preparatory and consummating instrument in generating faith, or whether
+the Holy Spirit also acts immediately, really, and physically upon the mind
+and will. It ends with Chapter XII at the foot of printed p. 548 / PDF 599
+after the final response concerning enthusiasm. The heading `CAPUT
+DECIMUMTERTIUM. DE Perseverantia Sanctorum.` on printed p. 549 / PDF 600 is
+excluded and forms the exact restart for Part 42. The pair has two
+byte-identical synchronized markers for pp. 547–548. The controlling KBNL/UvA
+Google Books
+images and embedded OCR were compared across both included frames, both
+shared-page boundaries, the page join, the complete question and
+five-argument structure, biblical and Synod of Dort citations, and the absence
+of substantive marginalia and foreign script. The printed errata has no
+applicable correction for pp. 547–548. The visibly irregular `moralis Verbis
+operatio` and `citra omnem Verbi Dei actionum` are retained and disclosed
+rather than silently emended; the readings partly crossed by dark image blots
+remain recoverable from the controlling image and embedded OCR. The English
+follows the Latin at clause
+level while preserving the question, response, distinctions, and numbered
+argument structure.
+
+- Latin: `parts/part-41-chapter-12h-latin.txt`
+- English: `parts/part-41-chapter-12h-english.md`

@@ -1,0 +1,172 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within printed p. 541 at the lemma `1 TIM.
+1:15.`, without repeating Part 39's closing argument. It contains the three
+opening assertions drawn from the lemma and the complete seven-argument
+question whether saving faith is a special trust in mercy or the Remonstrants'
+confidence in following the way prescribed by Christ. It ends within printed
+p. 547 after the Smalcius quotation in argument 7, before the new question
+`Quæritur, An Verbum Dei est unicum & solum instrumentum`. Printer line-end
+and page-end divisions have been joined; each new-page marker precedes the
+whole word at a split-word boundary.]
+
+[Errata note: The printed errata on PDF 52 contains no correction applicable
+to printed pp. 541–547.]
+
+[Printed-form note: The witness's citations and forms `Confess. cap. 11: sect.
+2.`, `Joan. 6:46.`, `2 Sam. 22.19.`, and `Ier. 34:4.`, together with its
+Hebrew and Greek lexical discussion, are retained rather than silently
+regularized. Hebrew and Greek are transcribed in normalized Unicode. Isolated
+edge marks, stains, show-through, running heads, signatures, catchwords, and
+ornaments in the controlling images are non-textual or non-substantive
+artifacts; no substantive marginal note occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 541 | PDF p. 592 | begins at 1 TIM. 1:15.]
+
+1 TIM. 1:15.
+
+Certus est hic sermo & dignus omnibus modis, qui recipiatur, Christum Jesum
+venisse in mundum, ut peccatores servaret, quorum ego primus.
+
+Habemus hisce verbis tria à Paulo asserta de fide.
+
+1. Quod ipsius objectum sit Verbum Dei, quà verum. Unde Verbum Evangelicum
+dicitur certus sermo in relatione ad Intellectum, qui certus esse debet de
+veritate Verbi Evangelici.
+
+2. Quòd ipsius objectum sit bonum in relatione ad cor, voluntatem & affectus.
+Unde Evangelium dicitur sermo ἄξιος πάσης ἀποδοχῆς, sermo dignus, qui omnibus
+modis recipiatur; & hoc est formale objectum & specificum fidei salvificæ,
+nempe, Christus non tantùm, quà vera narrans, quæ intellectus apprehendit; sed
+quà bona promittens, nempè, remissionem peccatorum, justitiam & vitam æternam.
+
+3. Effectum inseparabilem fidei ponit his
+
+[1668 KBNL/UvA witness | logical printed p. 542 | PDF p. 593 | split word joined: verbis]
+
+verbis, quorum ego primus. Undè verè & salvificè credens, sibi nominatim omnes
+promissiones Evangelicas applicat. Unde
+
+Quæritur, An Fides non sit fiducia specialis misericordiæ; sed talis fiducia
+(ut definiunt Remonstrantes, Confess. cap. 11: sect. 2.) quâ firmiter statuo,
+non fieri posse, ut alitèr quàm per Jesum Christum, & aliâ, quàm per ipsum
+præscriptâ, ratione, æternam mortem evadam, ac vitam æternam consequar? Nos
+negamus.
+
+1. Quia objectum Fidei hoc modo non est Christus ejusque erga omnes credentes
+misericordia; sed Historia Evangelii, quâ firmiter credo, quod, non nisi per
+Christum & ejus rationem in Evangelio præscriptam, gehennam evadam & æternam
+vitam consequar. Hoc modo confidebant Judæi in Mosem & Joshuam propter terram
+promissam, nempè, non aliâ ratione, quàm eâ, quæ à Mose & Joshuâ præscripta
+esset, se ex Ægypto evasûros & terram promissionis assecuturos. Hoc modo
+credere in Christum, est tantùm credere Christo narranti, per resipiscentiam &
+fidem, homines consequi vitam æternam: Hæc autem est fides Historica, quæ est
+in Dæmonibus & multis reprobis. Illi enim credere possunt & firmiter statuere,
+fieri non posse, ut aliter quàm per Jesum Christum, & aliâ, quàm per ipsum
+præscriptâ, ratione, æternam mortem evadant, & salutem æternam consequantur.
+Hujus
+
+[1668 KBNL/UvA witness | logical printed p. 543 | PDF p. 594]
+
+enim Fidei objectum non est Christus mortuus pro peccatis, & factus à Deo
+nobis sapientia, justitia, sanctificatio, & redemptio; sed nuda via perveniendi
+ad vitam æternam à Christo præscripta, i. e. mera litera Evangelii, & narratio
+Historica.
+
+2. Per rationem à Christo præscriptam, per quam evadamus mortem æternam, &
+consequamur vitam æternam, intelligunt (ut ipsi ibidem exponunt, Confess. cap.
+11. sect. 4.) viam veræ obedientiæ, seu bonorum operum (ita enim ibidem
+definiunt, obsequiosam suam fiduciam). Unde fides hæc est Arminianorum &
+Socinianorum; Ego fiducialiter recumbo & innitor bonis meis operibus, à Christo
+præscriptis in Evangelio, quibus certò confido, me iis & non aliâ ratione ad
+salutem æternam perventurum, & mortem æternam evasurum. Unde nec syllabam
+habent de Christo mortuo & satisfaciente pro peccatis nostris, in objecto suæ
+Fidei. Theologi autem nostri validè concludunt Christum esse verum Deum,
+consubstantialem Patri, eò quòd Christus sit objectum Fidei, & Mediator &
+Sponsor noster, qui, morte suâ & sanguine, pro peccatis nostris plenissimè Deo
+Patri satisfecit: Illi verò volunt Christum esse objectum fidei, quatenùs
+historicè narrat & declarat nobis veram rationem & viam perveniendi ad æternam
+salutem, quo pacto Apostoli, in suis Scriptis Canonicis narrantes etiam nobis
+veram
+
+[1668 KBNL/UvA witness | logical printed p. 544 | PDF p. 595 | split word joined: rationem]
+
+rationem & viam perveniendi ad æternam salutem, sunt objectum Fidei. Undè satis
+liquet eos clam denegare Christum esse Deum Patri consubstantialem; deindè
+definire nobis fiduciam salvificam & Fidem, esse meram confidentiam in nostris
+bonis operibus, à Christo præscriptis. Contrà verò Paulus Rom. 4. contendit
+Abrahami Justificationem per fidem, excludere omnem fiduciam & gloriationem in
+bonis operibus.
+
+Certum est Evangelium Jesu Christi, quod bona opera imperat, ut causas
+inferiores vitæ æternæ, esse Fidei objectum tantùm quo, & Christum Mediatorem,
+mortuum pro peccatis, esse objectum quod. Undè egregiè definiunt Fidem,
+Fiduciam & confidentiam in bonis nostris operibus, à Christo præscriptis ut
+æternam vitam consequamur: Nam quæ spes, quàm evanida consolatio hic? quàm
+instabile gaudium? quàm fallacem, futilem & umbratilem pacem conscientiæ
+adferat fiducialis innixus in bona opera nostra, in die tentationis & extremo
+vitæ puncto, quis nescit? Testantur Papistarum resipiscentium, apud nos,
+conscientiæ vacillantes, qui fiduciam in suis operibus & meritis, in agone
+mortis abjiciunt, fastidio habent, & ad solam à Christo pretiosâ suâ morte &
+sanguine præstitam satisfactionem, confugiunt.
+
+3. Vera Fides in Scripturis non est tantùm
+
+[1668 KBNL/UvA witness | logical printed p. 545 | PDF p. 596 | split word joined: firmus]
+
+firmus assensus viæ colendi Deum à Christo præscriptæ, quæ fides Historica &
+dogmatica est Pontificiorum; sed præter assensum mentis definitur per cordis in
+Deum per Mediatorem fiduciam, & innixum fiducialem per devolutionem peccatoris
+in Jehova sinum. Unde אֶל & שָׁעַן עַל πιστεύειν ἐπὶ vel εἰς Θεόν. Prov. 3.5.
+Fide in Domino toto corde tuo בְּטַח אֶל יְהוָה Isa. 50.10. Psa. 71.6. & 125.1.
+Ita Jesa. 48.2. Super Deo Israël innixi sunt. נִסְמְכוּ à סָמַךְ nixus, innixus
+fuit. Psa. 112.8. Suffultum est cor ejus. Et verbum inusitatum שָׁעַן in Niphal
+נִשְׁעַן inniti, incumbere, quod occurrit, Jesa. 31.1. 2 Sam. 1.6. Saul innixus
+erat super hastam, etiam hic adhibetur. Isa. 10.20. Et qui evaserunt ex domo
+Jaacobi, innitentur super Jehovam Sanctum Israëlis. Undè est & מִשְׁעָן Scipio,
+baculus 2 Sam. 22.19. Isa. 3.1. Scipio panis. Sic Deo in Christo innitimur,
+tanquam lassus viator baculo aut scipioni. Sic Hebræi exprimunt etiam confidere
+per verbum, quod devolvere se in Deum significat. Psal. 22.8. גֹּל אֶל־יְהוָה
+devolvet se in (propriè Volvere ad) Jehovam. Sic Ier. 34:4. Exercitus cæli
+volventur sicut liber. Gen. 29:10. Jaakob revolvit lapidem ab ore putei. Psal.
+37:5. Devolve vias tuas super Jehovam. Undè, qui credit, se & onera sua in Deum
+convolvit & contorquet; quod longè plus est, quam Deo vera narranti assentire.
+Sic ἔρχεσθαι εἰς τὸν Χριστὸν, venire ad Christum
+
+[1668 KBNL/UvA witness | logical printed p. 546 | PDF p. 597]
+
+Joan. 6:37. Matth. 11.28:29. Est credere Joan. 6:46. Sic πιστεύειν εἰς vel ἐπὶ
+Θεὸν Rom. 10:11. Joan. 14:1. Sic τὸν Χριστὸν λαμβάνειν, Joan. 1:12.
+
+4. Fides & innixus in Deum, opponitur confidentiæ in equis, curribus, carne, &
+brachio hominum. Isa. 31:1. Ier. 17:5. At confidere & inniti equo, non est
+credere equo vera loquenti; sed equi robori & velocitati, affectu & fiduciâ
+inniti ac acquiescere. Fides, ergo, essentialitèr est fiducia in corde.
+
+5. Fidei opponitur timor. Matth. 8:26. Quid timidi estis, ô vos modicæ Fidei?
+Timor autem non est in mente, sed in corde & affectibus. Cùm autem contraria
+sint in eodem subjecto, sequitur, etiam fidem non esse nudum assensum in mente,
+sed fiduciam in corde.
+
+6. Objectum fidei justificantis est Dei misericordia in Christo, quâ impium
+justificat. Rom. 4:5. At talis fiduciæ Remonstrantium, quâ statuimus, non aliâ
+ratione, quàm eâ, quæ à Christo in Evangelio præscripta est, nos salvatum iri,
+objectum non magis est misericordia erga electos & credentes, quàm Omnipotentia,
+Veracitas & justitia Dei, quùm credimus octo animas in Arca Noachi salvatos
+fuisse, aut Deum posse maxillâ asininâ mille Philistæos occidere.
+
+7. Fides hæc Remonstrantium est merus Socinianismus. Nam Smalcius, Socinianus,
+Libro de divinitate Christi, cap. 14. definit fidem, non
+
+[1668 KBNL/UvA witness | logical printed p. 547 | PDF p. 598 | split word joined: tantùm]
+
+tantùm assensum, sed etiam fiduciam, quâ spem & fiduciam collocamus in
+Christo; ab eo toti pendemus, cum firmâ spe consequendi ea, quæ ipse sibi
+obedientibus promisit, i. e. si ex ejus præscripto vitam correxerimus, & c.

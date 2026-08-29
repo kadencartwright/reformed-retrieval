@@ -1,0 +1,75 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Duodecimum, De Justificatione Peccatoris — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within printed p. 547 at `Quæritur, An
+Verbum Dei est unicum & solum instrumentum`, without repeating Part 40's
+closing Smalcius quotation. It contains the complete five-argument question
+whether the Word alone is both the preparatory and consummating instrument in
+generating faith, or whether the Holy Spirit also acts immediately, really,
+and physically upon the mind and will. It ends with Chapter XII at the foot of
+printed p. 548 after the final response concerning enthusiasm. The heading
+`CAPUT DECIMUMTERTIUM. DE Perseverantia Sanctorum.` on printed p. 549 / PDF
+600 is excluded and forms the exact restart for Part 42. Printer line-end and
+page-end divisions have been joined.]
+
+[Errata note: The printed errata on PDF 52 contains no correction applicable
+to printed pp. 547–548.]
+
+[Printed-form note: The visibly irregular `moralis Verbis operatio` and `citra
+omnem Verbi Dei actionum` are retained rather than silently emended. Dark ink
+or scanning blots partly cross
+`simul` on p. 547 and `omnipotentiæ` on p. 548, but the readings remain
+recoverable from the controlling image and its embedded OCR. Other isolated
+edge marks, stains, show-through, running heads, signatures, catchwords, and
+ornaments are non-textual or non-substantive artifacts; no substantive
+marginal note, Greek, or Hebrew occurs in this part.]
+
+[1668 KBNL/UvA witness | logical printed p. 547 | PDF p. 598 | resumes at Quæritur, An Verbum Dei]
+
+Quæritur, An Verbum Dei est unicum & solum instrumentum, tùm præparatorium,
+tùm consummatorium Fidei ingenerandæ, ita ut verum dicant Remonstrantes in
+Act. Synod. Dordrac. art. 3, 4. Pag. 62. & 128. nullam requiri actionem Spiritus
+Sancti immediatam in mentem & voluntatem, ad fidem producendam; sed sufficere
+solam actionem Verbi objectivam, moralem, suasoriam?
+
+Nos agnoscimus fidem esse ex auditu; sed tamen etiam simul credimus, Spiritum
+Sanctum quasdam actiones immediatas habere in mentem & voluntatem, easque non
+morales, sed reales & Physicas, quibus potentiam & habitum supernaturalem
+infundendo in nobis creat.
+
+1. Quia solo allicio morali, Deus homines ad se non trahit, nec suadendo
+duntaxat infunduntur vires supernaturales credendi: ut Orator declamando,
+claudo vim ambulandi, cæco facultatem visivam integram restituere, mortuum
+resuscitare, non potest.
+
+2. Si verbum est unicum & solum consummatorium instrumentum Fidei; nullæ
+nobiliores actiones requiruntur, quàm quæ à Pastore perfici possunt; quod
+absurdum.
+
+[1668 KBNL/UvA witness | logical printed p. 548 | PDF p. 599]
+
+3. Quia solus Deus efficit per gratiam efficacem, velle & operari: Sed si
+eminentior hic actio nulla sit, quàm moralis Verbis operatio; Deus per gratiam
+suam ità efficit velle & operari, ut penès voluntatem liberam sit finaliter Deo
+operanti velle, repugnare & pertinacitèr nolle.
+
+4. Actio Dei ingenerandi fidem, est actus omnipotentiæ talis, quâ Deus Christum
+è mortuis suscitavit. Eph. 1:19,20. Et actu creandi non inferior. 2 Cor. 4:6.
+Adeòque irresistibilis. Sed si tota res transigitur actione Verbi duntaxat
+morali, eâque tùm præparatoriâ, tùm consummatoriâ; nulla erit hic actio
+omnipotentiæ.
+
+5. Nec hic aliquid Enthusiasticum agnoscimus, licèt hic sit actio
+omnipotentiæ, ad quam causatio Verbi moralis pertingere nequeat; Quia. 1.
+Enthusiasmus est cùm expectatur inspiratio citra omnem Verbi Dei actionum. Hìc
+moralem Verbi actionem, necessariam esse docemus; licèt eminentiorem, nempe,
+realem & Physicam requiramus. 2. Enthusiasmus est, cùm expectatur aliquid
+faciendum, quod est præter vel contra Dei Verbum. Nos autem expectamus eandem
+infusionem spiritûs regenerationis, & collationem cordis novi, quam Deus in
+Fœdere Evangelico nobis promisit; non verò aliam.

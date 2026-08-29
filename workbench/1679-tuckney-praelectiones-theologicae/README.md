@@ -183,6 +183,32 @@ Tuckney's own position and is excluded.
   supplies the contextually necessary “not.” No unresolved source damage or
   illegible reading occurs in this part.
 
+## Part 07: sixth unit of the Romans 1:17 lecture
+
+Part 07 states Tuckney’s own position that every kind of work is excluded
+from constituting justification, invokes Cardinal Contarini on resting upon
+Christ’s imputed righteousness, and establishes the first of two foundations
+for evaluating the opposing positions: the safer interpretation assigns less
+to us and more to grace. It begins with `4. At 4. in loco nobis expedita est
+fides omnia significari ...` partway down printed p. 88 / IA leaf 96 and ends
+with `Nostra ergo quae totum hoc gratiae tribuit ... congruentior` partway
+down printed p. 90 / IA leaf 98. The next sentence, `2. Secundum fundamentum
+hoc esto`, begins the second foundation and is excluded.
+
+- Latin: `parts/part-07-romans-01-17-justification-06-latin.txt`
+- English: `parts/part-07-romans-01-17-justification-06-english.md`
+- Extent: three synchronized markers, printed pp. 88–90 / IA leaves 96–98
+- Source audit: the incoming p. 88 boundary, every included image and page
+  join, the p. 90 endpoint, and the following second-foundation sentence were
+  visually compared with the controlling facsimile; page-structured OCR was
+  used only for navigation and collation.
+- Scripts and disclosure: the two Greek expressions on printed pp. 88 and 90
+  are retained in both files. The p. 88 `λογομαχία`, which is badly garbled
+  in OCR, was resolved from a magnified image crop. The witness’s erroneous
+  `Rom. 3. 14.` beside the quotation of Romans 3:24 is retained in the Latin
+  and identified in the English. No unresolved source damage or illegible
+  reading occurs in this part.
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

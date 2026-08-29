@@ -496,3 +496,31 @@ it on that page and is excluded.
 The next restart point is `QUÆSTIO XVIII. An Petrus Romæ fuerit, ibique
 Episcopatum per plures annos tenuerit? Neg. cont. Pontif.` on shared printed
 p. 144 / IA leaf 178 / PDF p. 178.
+
+## Part 18
+
+Part 18 contains the complete Locus XVIII, Question XVIII, “An Petrus Romæ
+fuerit, ibique Episcopatum per plures annos tenuerit?” It begins with the
+question heading on shared printed p. 144 / IA leaf 178 / PDF p. 178,
+immediately after Question XVII, and ends with section XIX on printed p. 150 /
+IA leaf 184 / PDF p. 184. Question XIX begins on the next printed page and is
+excluded.
+
+- Latin: `parts/part-18-locus-18-question-18-latin.txt`
+- English: `parts/part-18-locus-18-question-18-english.md`
+- Both files contain seven synchronized source-page markers, the complete
+  section sequence I–XIX, and nine synchronized marginalia blocks.
+- All seven page images and all six page joins were checked directly against
+  the scan. The pp. 144–145 join divides `traditionis`, and the pp. 148–149
+  join divides the Greek `μυστηριώδες`; each word is joined, with the new-page
+  marker placed before the complete Latin word and its English counterpart.
+- The transcription retains all twenty printed Greek expressions. `[sic]`
+  identifies the witness’s malformed `cup. 14`; the ungrammatical marginal
+  heading `Fontes Solutionem`, the fused `nonscripta`, and the anomalous comma
+  in `totum hoc iniquitatis, mysterium` are retained without silent
+  regularization. The English translates the evident sense while preserving
+  the synchronized structure.
+
+The next restart point is `QUÆSTIO XIX. DE PRIMATU PAPÆ. An Papa Romanus sit
+Successor Petri in Monarchia, seu Oecumenico Pontificatu? Neg.` on printed p.
+151 / IA leaf 185 / PDF p. 185.

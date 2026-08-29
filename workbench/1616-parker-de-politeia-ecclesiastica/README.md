@@ -17,14 +17,14 @@ inventory.
 
 ## Edition decision and explicit collation caveat
 
-Part 01 is controlled by the Bayerische Staatsbibliothek copy of *Roberti
+Parts 01–04 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
 Parkeri De politeia ecclesiastica libri duo* (1638), digitized as
 [`bsb10507786`](https://www.digitale-sammlungen.de/en/view/bsb10507786). Its
 [IIIF manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10507786/manifest)
-provides stable, complete images for the opening. Page images, not the BSB OCR,
-govern the transcription.
+provides stable, complete images through the present stopping point. Page
+images, not the BSB OCR, govern the transcription.
 
-This is a **local control decision for Part 01 only**, not an edition-level
+This is a **local control decision for the present parts**, not an edition-level
 claim. The 1616 witness is a three-book publication (`[18], 368, 456` pages),
 whereas the 1638 title explicitly announces two books. The two Google copies
 of 1616 consulted—[`VgoNE2Lg9RUC`](https://books.google.com/books?id=VgoNE2Lg9RUC)
@@ -38,6 +38,11 @@ substantive variant in this unit. That sample does **not** establish that 1638
 is a duplicate, revision, continuation, or replacement of 1616. Every later
 unit requires renewed collation, and the two-book 1638 witness cannot control
 the third book unique to the 1616 publication.
+
+Parts 02–04 continue under the provisional 1638 control decision but have not
+been represented as a renewed full collation against 1616. Their wording must
+therefore not be used to infer agreement between the editions. The current work
+remains within Book I, which is present in the 1638 witness.
 
 ## Part 01: exact authorial unit and source map
 
@@ -70,6 +75,29 @@ canvases 24–27 repeat the textual leaves represented by canvases 22–23 and
 28–29. They are excluded; no authorial text is omitted. Source markers use
 the retained canvas sequence and are identical in the paired files.
 
+## Parts 02–04: continuation map and current boundary
+
+The continuation is strictly chapter-defined. Part 02 begins with chapter 8 on
+the lower portion of printed page 21 and completes chapter 13 before chapter 14
+on printed page 38. Part 03 contains chapters 14–19 and ends after the first
+delay to exact reformation on printed page 53. Part 04 resumes at the exact
+README and file boundary with chapter 20 on printed page 54 and completes
+chapters 20–24 on the upper portion of printed page 63. Chapter 25, which begins
+the third defect in England's reformation, is excluded.
+
+| Part | Coherent unit | Printed pages | Endpoint |
+| --- | --- | ---: | --- |
+| 02 | Book I, chapters 8–13 | 21 (lower)–37 | End of the third alleged absurdity |
+| 03 | Book I, chapters 14–19 | 38–53 | End of the first delay to exact reformation |
+| 04 | Book I, chapters 20–24 | 54–63 (upper) | End of the second defect in England's reformation |
+
+Part 04 treats the second and third alleged delays to reform, identifies
+self-satisfaction as the third delay, and develops Parker's first two defects
+in the English reformation: lack of a scriptural rule and failure to conform to
+the primitive Church. Printed page 63 is shared with the excluded chapter 25;
+the source marker is retained in both paired files, but no text of chapter 25 is
+included.
+
 ## Editorial method and apparatus
 
 Latin long *s*, ligatures, line-end divisions, and typographic `u/v` are
@@ -91,3 +119,9 @@ translated or explained but not promoted into Parker's prose.
 
 - `parts/part-01-book-01-chapters-01-07-latin.txt`
 - `parts/part-01-book-01-chapters-01-07-english.md`
+- `parts/part-02-book-01-chapters-08-13-latin.txt`
+- `parts/part-02-book-01-chapters-08-13-english.md`
+- `parts/part-03-book-01-chapters-14-19-latin.txt`
+- `parts/part-03-book-01-chapters-14-19-english.md`
+- `parts/part-04-book-01-chapters-20-24-latin.txt`
+- `parts/part-04-book-01-chapters-20-24-english.md`

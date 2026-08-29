@@ -95,6 +95,18 @@ byte-identical source marker.
 The next unit resumes on printed p. 66 / canvas 00092 at that `Respons.` and
 must repeat the shared-page marker.
 
+Part 07 resumes at that `Respons.` and contains Navarrete's complete statement
+of the first of his two senses of `Nunc Antichristus non est`. It stops on
+printed p. 66 / canvas 00092 immediately before `Et sic (inquit) Consequens`,
+where he begins drawing the consequence. Its pair has one byte-identical
+source marker.
+
+- `parts/part-07-digression-03-section-07-response-02-first-sense-latin.txt`
+- `parts/part-07-digression-03-section-07-response-02-first-sense-english.md`
+
+The next unit resumes on p. 66 / canvas 00092 with `Et sic (inquit)
+Consequens ut recte inferatur`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

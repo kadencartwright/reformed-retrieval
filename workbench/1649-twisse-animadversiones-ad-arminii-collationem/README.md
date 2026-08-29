@@ -160,9 +160,33 @@ and the pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-04-proposition-12-section-01-latin.txt`
 - `parts/part-04-proposition-12-section-01-english.md`
 
+## Part 05: exact authorial boundary
+
+Part 05 occupies **first-body printed pp. 50–51 / BSB canvases 62–63** and has
+two synchronized source markers. It resumes on the shared right column of
+printed p. 50 with `SECTIO SECUNDA` and contains that section in full:
+Junius's denial of the minor, Arminius's two supporting arguments, and
+Twisse's complete response concerning divine good pleasure, conditional
+destination, efficacious assistance, and preserving grace.
+
+The unit stops in the right column of printed p. 51 / canvas 63 after the
+marginal reference ending:
+
+> `… Angelorum salus curata est gratia conservationis & confirmationis,
+> hominum gratia restaurationis.`
+
+It stops immediately before the ruled heading `SECTIO TERTIA` on that same
+column. The next part must therefore begin with `SECTIO TERTIA` and repeat the
+marker for **first-body printed p. 51 / BSB canvas 63**; it must not advance
+directly to p. 52. The Latin and English markers are byte-identical, and the
+pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-05-proposition-12-section-02-latin.txt`
+- `parts/part-05-proposition-12-section-02-english.md`
+
 ## Status
 
-**Parts 01–04 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–05 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the

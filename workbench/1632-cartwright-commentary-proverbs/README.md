@@ -355,6 +355,27 @@ forms. Contextual readings are retained, and no passage is marked illegible.
 - `parts/part-18-chapter-18-latin.txt`
 - `parts/part-18-chapter-18-english.md`
 
-The next unit begins with `CAPUT XIX.` below the ornament on shared PDF 396 /
-printed column 767; restart there with Chapter XIX verse 1, excluding all
-Chapter XVIII text above it.
+**Part 19a is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the beginning of Chapter XIX from `CAPUT XIX.`
+below the ornament in the right column of shared PDF 396 / printed column 767
+through the final prose of verse 4 on PDF 400 / printed column 775. It stops
+immediately before `V. 5.` in that same right column. Latin and English have
+five byte-identical source markers (PDF 396–400; synchronized printed columns
+766–767 through 774–775) and retain all four verse lemmata, full prose, Hebrew,
+Greek, citations, and printed irregularities. The complete files contain
+1,848 Latin-file and 2,625 English-file whitespace-delimited words,
+respectively, including headers and markers.
+
+Every core image, PDF 396–400, was inspected at original detail in both-column
+order. The shared PDF-396 marker is intentional: Part 18 ends above the
+ornament, while Part 19a begins below it, so no Chapter XVIII prose overlaps
+and none is omitted. The final marker includes only the concluding prose of
+verse 4 above `V. 5.`; no verse 5 material is imported. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-19-chapter-19a-latin.txt`
+- `parts/part-19-chapter-19a-english.md`
+
+The next unit begins with `V. 5. Testis falsitatum non erit innocens...` in
+the right column of shared PDF 400 / printed column 775; restart there,
+excluding all verse 4 text above it.

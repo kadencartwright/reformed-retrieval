@@ -276,6 +276,16 @@ The next unit resumes on printed p. 69 / BSB canvas 00095 with `NAVARR. Vis
 tamen in omni temporis instanti res futuras existere in aeternitate`, the
 continuation signaled by the p. 68 catchword `Vis`.
 
+Part 25 contains that complete argument and Twisse's counterargument through
+his conclusion about the substituted opinion. It remains on printed p. 69 /
+canvas 00095 and has one identical marker.
+
+- `parts/part-25-digression-03-section-07-future-things-in-every-instant-latin.txt`
+- `parts/part-25-digression-03-section-07-future-things-in-every-instant-english.md`
+
+The next unit resumes there with the numbered `Tertio: Notitia quam Deus habet
+de Antichristo est simpliciter intuitiva`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

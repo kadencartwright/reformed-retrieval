@@ -393,6 +393,18 @@ remains on printed p. 70 / canvas 00096 and has one identical marker.
 The next unit resumes there with `Itaque hoc unum expediendum superest
 Navarretto, ut harum minutiarum explicationem nobis exponat`.
 
+Part 37 spans **printed pp. 70–71 / BSB canvases 00096–00097** and contains
+the remainder of Twisse's response in full: his critique of the God-side /
+thing-side distinction, account of production into intentional being, and
+unchanging divine cognition of future, present, and past things. It stops
+immediately before the numbered `Quinto` and has two identical markers.
+
+- `parts/part-37-digression-03-section-07-production-and-intentional-presence-latin.txt`
+- `parts/part-37-digression-03-section-07-production-and-intentional-presence-english.md`
+
+The next unit resumes on printed p. 71 / canvas 00097 with `NAVARR. Quinto,
+Deus cognoscit modo Antichristum sicut est`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

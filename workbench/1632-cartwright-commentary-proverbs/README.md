@@ -376,6 +376,27 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-19-chapter-19a-latin.txt`
 - `parts/part-19-chapter-19a-english.md`
 
-The next unit begins with `V. 5. Testis falsitatum non erit innocens...` in
-the right column of shared PDF 400 / printed column 775; restart there,
-excluding all verse 4 text above it.
+**Part 19b is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XIX from `V. 5. Testis falsitatum non
+erit innocens...` in the right column of shared PDF 400 / printed column 775
+through the final prose of verse 8 on PDF 404 / printed column 782. It stops
+immediately before `Vers. 9.` in that same left column. Latin and English have
+five byte-identical source markers (PDF 400–404; synchronized printed columns
+774–775 through 782–783) and retain all four verse lemmata, full prose, Hebrew,
+Greek, citations, bracketed wording, and printed irregularities. The complete
+files contain 1,979 Latin-file and 2,840 English-file whitespace-delimited
+words, respectively, including headers and markers.
+
+Every core image, PDF 400–404, was inspected at original detail in both-column
+order. The shared PDF-400 marker is intentional: Part 19a ends above `V. 5.`,
+while Part 19b begins with that lemma below it, so no verse 4 prose overlaps
+and none is omitted. The final marker includes only the concluding prose of
+verse 8 above `Vers. 9.`; no verse 9 material is imported. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-19-chapter-19b-latin.txt`
+- `parts/part-19-chapter-19b-english.md`
+
+The next unit begins with `Vers. 9. Testis falsitatum non erit infons...` in
+the left column of shared PDF 404 / printed column 782; restart there,
+excluding all verse 8 text above it.

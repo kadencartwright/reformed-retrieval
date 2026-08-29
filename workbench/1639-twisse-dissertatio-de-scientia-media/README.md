@@ -314,6 +314,16 @@ identical marker.
 The next unit resumes there with `Rursus hinc sequitur, aut Deum habere
 notitiam intuitivam rerum de novo`.
 
+Part 29 contains Twisse's complete reductio of “simple existence in eternity”
+as `simpliciter non simpliciter`. It remains on printed p. 69 / canvas 00095
+and has one identical marker.
+
+- `parts/part-29-digression-03-section-07-simply-not-simply-latin.txt`
+- `parts/part-29-digression-03-section-07-simply-not-simply-english.md`
+
+The next unit resumes there with the numbered `Quarto, Deus non producit res
+in sua aeternitate`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

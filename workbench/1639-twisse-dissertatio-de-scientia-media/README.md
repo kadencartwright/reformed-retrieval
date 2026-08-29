@@ -265,6 +265,17 @@ and has one identical marker.
 The next unit resumes there with `Quod vero distinguitis de modo existendi
 alio atque alio rebus temporalibus competenti`.
 
+Part 24 contains Twisse's complete concluding rejection of the two alleged
+modes of temporal existence as unproved. It remains on printed p. 68 / canvas
+00094 and has one identical marker.
+
+- `parts/part-24-digression-03-section-07-unproved-modes-latin.txt`
+- `parts/part-24-digression-03-section-07-unproved-modes-english.md`
+
+The next unit resumes on printed p. 69 / BSB canvas 00095 with `NAVARR. Vis
+tamen in omni temporis instanti res futuras existere in aeternitate`, the
+continuation signaled by the p. 68 catchword `Vis`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

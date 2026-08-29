@@ -363,6 +363,16 @@ It remains on printed p. 70 / canvas 00096 and has one identical marker.
 The next unit resumes there with `Certe secundum rationem dicendum esset,
 existentiam rerum in aeternitate nihil aliud esse quam coexistentiam`.
 
+Part 34 contains Twisse's positive account of intentional production and his
+building-before-the-foundation reductio. It remains on printed p. 70 / canvas
+00096 and has one identical marker.
+
+- `parts/part-34-digression-03-section-07-intentional-production-latin.txt`
+- `parts/part-34-digression-03-section-07-intentional-production-english.md`
+
+The next unit resumes there with `Verumtamen etiam hic radius ipsissimae
+veritatis emicat`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

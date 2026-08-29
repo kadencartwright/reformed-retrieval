@@ -246,6 +246,24 @@ transcription; OCR and PDF text served only as aids. The marginalium divided
 across the p. 148/p. 149 break is joined after the p. 149 marker in both files.
 The pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 12 boundary and status
+
+Part 12 is a synchronized Latin/English working pair with exactly six markers:
+partial printed pp. 149 and 154 and complete pp. 150–153, IA leaves 179–184,
+access-PDF pp. 179–184, and DjVu OCR objects 178–183. It begins in the left
+column of printed p. 149 immediately after Part 11 with `QUAESTIO IV. Utrum
+Baltasar an Darius Medus ultimus fuerit Chaldaeorum Rex?`, contains Question
+IV in full, and ends at the top of the left column of printed p. 154 after
+`Sed de criticis & conjecturis satis.`
+
+`QUAESTIO V. Quis fuerit Ahasuerus Estherae maritus, & ad quae tempora
+historia Estherae referenda sit?` begins below it in the same column and is
+wholly excluded. All six controlling 300-dpi images, `pdf-179.jpg` through
+`pdf-184.jpg`, were used for the transcription; OCR and PDF text served only
+as aids. Page-spanning words were joined and placed wholly after the later
+synchronized marker. The pair remains an AI-assisted, unreviewed draft and is
+not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -284,11 +302,14 @@ have not been modernized or endorsed.
 - `parts/part-10-book-01-chapter-10-question-02-english.md`
 - `parts/part-11-book-01-chapter-10-question-03-latin.txt`
 - `parts/part-11-book-01-chapter-10-question-03-english.md`
+- `parts/part-12-book-01-chapter-10-question-04-latin.txt`
+- `parts/part-12-book-01-chapter-10-question-04-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
-for Part 08, two for Part 09, four for Part 10, and two for Part 11. There are
-twenty-two current files in eleven Latin/English pairs, containing 157
-synchronized source markers per language (314 marker occurrences across all
-twenty-two files). The files remain AI-assisted and unreviewed.
+for Part 08, two for Part 09, four for Part 10, two for Part 11, and six for
+Part 12. There are twenty-four current files in twelve Latin/English pairs,
+containing 163 synchronized source markers per language (326 marker
+occurrences across all twenty-four files). The files remain AI-assisted and
+unreviewed.

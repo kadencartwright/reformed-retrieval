@@ -26,7 +26,8 @@ and page-level hOCR at
 `https://api.digitale-sammlungen.de/ocr/bsb00014667/{canvas}`. Page images, not
 hOCR, govern every reading.
 
-The digital sequence was audited at its opening and at the Part 01 boundary:
+The digital sequence was audited at its opening and through the current Part
+08 boundary:
 
 - canvas 1 is the 1615 title page;
 - canvases 1–24 contain the twelve preliminary leaves: title, dedicatory
@@ -36,6 +37,9 @@ The digital sequence was audited at its opening and at the Part 01 boundary:
   division near the foot of canvas 25;
 - Chapter II begins below that rule on the same canvas and continues on canvas
   26 / printed p. 2.
+- canvas 35 is numbered p. 11; Chapter VII occupies the middle of its left
+  column, and Chapter VIII begins below it, continues in the right column, and
+  ends above the rule preceding Chapter IX.
 
 The catalogued title, author, date, extent, holding institution, shelfmark,
 BSB identifier, and VD17 identifier agree with the title page and manifest.
@@ -79,7 +83,29 @@ boundary is preferable to an arbitrary 15–20-page division.
 - The `CAPUT II` heading and every word below it are excluded. Part 02 can
   therefore begin without overlap or omission at that heading on canvas 25.
 
-No independent Latinist or historian of theology has reviewed either file.
+## Parts 02–08
+
+The continuation now contains seven further complete chapters, each in a
+normal Latin/English pair. The files retain matching witness, printed-page,
+and locator markers; each part ends at the ruled boundary before the next
+chapter.
+
+| Part | Complete unit | Latin | English |
+| --- | --- | --- | --- |
+| 02 | Book I, Chapter II, “Whether true theology exists, what it is, and its subject” | [`part-02-book-01-chapter-02-latin.txt`](parts/part-02-book-01-chapter-02-latin.txt) | [`part-02-book-01-chapter-02-english.md`](parts/part-02-book-01-chapter-02-english.md) |
+| 03 | Book I, Chapter III, “On archetypal theology” | [`part-03-book-01-chapter-03-latin.txt`](parts/part-03-book-01-chapter-03-latin.txt) | [`part-03-book-01-chapter-03-english.md`](parts/part-03-book-01-chapter-03-english.md) |
+| 04 | Book I, Chapter IV, “On ectypal theology” | [`part-04-book-01-chapter-04-latin.txt`](parts/part-04-book-01-chapter-04-latin.txt) | [`part-04-book-01-chapter-04-english.md`](parts/part-04-book-01-chapter-04-english.md) |
+| 05 | Book I, Chapter V, “On the Highest Good” | [`part-05-book-01-chapter-05-latin.txt`](parts/part-05-book-01-chapter-05-latin.txt) | [`part-05-book-01-chapter-05-english.md`](parts/part-05-book-01-chapter-05-english.md) |
+| 06 | Book I, Chapter VI, “On the blessedness of rational creatures” | [`part-06-book-01-chapter-06-latin.txt`](parts/part-06-book-01-chapter-06-latin.txt) | [`part-06-book-01-chapter-06-english.md`](parts/part-06-book-01-chapter-06-english.md) |
+| 07 | Book I, Chapter VII, “On Christ’s theology according to his humanity” | [`part-07-book-01-chapter-07-latin.txt`](parts/part-07-book-01-chapter-07-latin.txt) | [`part-07-book-01-chapter-07-english.md`](parts/part-07-book-01-chapter-07-english.md) |
+| 08 | Book I, Chapter VIII, “On the theology of the blessed” | [`part-08-book-01-chapter-08-latin.txt`](parts/part-08-book-01-chapter-08-latin.txt) | [`part-08-book-01-chapter-08-english.md`](parts/part-08-book-01-chapter-08-english.md) |
+
+Part 08 ends above the `CAPUT IX` rule in the right column of canvas 35 /
+printed p. 11. The next part can therefore begin at Chapter IX without overlap
+or omission.
+
+No independent Latinist or historian of theology has reviewed any Latin or
+English file in this workbench.
 No CC0 dedication is made for any file in this workbench directory; the
 repository's path-based licensing scope is stated in
 [`LICENSING.md`](../../LICENSING.md).

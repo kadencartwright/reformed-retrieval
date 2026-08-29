@@ -226,6 +226,25 @@ restricted-to-unrestricted diagnosis. It remains on printed p. 68 / canvas
 
 The next unit resumes there with `Si vero sensus illius antecedentis sit`.
 
+Part 20 contains Navarrete's complete second-sense paragraph, including the
+Ferrariensis and Cajetan reference. It remains on printed p. 68 / canvas 00094
+and has one identical marker.
+
+- `parts/part-20-digression-03-section-07-second-sense-latin.txt`
+- `parts/part-20-digression-03-section-07-second-sense-english.md`
+
+The next unit resumes there at Twisse's separately labeled response, `Videat
+unusquisque; an uspiam hujusmodi provisionibus instructus accedat Navarrettus`.
+
+Part 21 contains Twisse's complete opening temporal argument in that response.
+It remains on printed p. 68 / canvas 00094 and has one identical marker.
+
+- `parts/part-21-digression-03-section-07-temporal-argument-latin.txt`
+- `parts/part-21-digression-03-section-07-temporal-argument-english.md`
+
+The next unit resumes there with `Neque hujusmodi consequentia; Antichristus
+non est, ergo non terminat notitiam intuitivam Dei`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

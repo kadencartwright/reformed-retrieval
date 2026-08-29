@@ -70,14 +70,35 @@ numbers are omitted. The English is a fresh close translation from this
 transcription. Parker and Sanford's speculative etymologies are translated as
 arguments made by the text, not silently corrected into modern linguistics.
 
+## Part 05 boundary
+
+Part 05 resumes at the exact boundary after Part 04. It contains Book II
+§§9–12 complete, beginning with `Quae cum ita sint, proximum est, ut mors Adami
+qualis fuerit videamus` in the upper portion of printed p. 13 (RA1-PA13). It
+ends in the upper portion of printed p. 17 (RA1-PA17) with §12's complete
+sentence `quo veritas se, (ex Democrati puteo tandem aliquando eruta,) non suo
+tantum robore, sed etiam erroris infirmitate commendet.` Section 13, beginning
+`Sex igitur citantur e scripturis loci`, is excluded. The paired files span
+five exact witness markers without breaking a numbered section.
+
 ## Files
 
 - `parts/part-01-book-01-sections-01-12-latin.txt` — complete normalized Latin
   for the delimited unit, with nineteen exact witness markers.
 - `parts/part-01-book-01-sections-01-12-english.md` — complete independent
   English translation with the same marker sequence.
+- `parts/part-02-book-01-sections-13-20-latin.txt` and its paired English file
+  — Book I §§13–20, with seventeen identical witness markers.
+- `parts/part-03-book-01-sections-21-28-latin.txt` and its paired English file
+  — Book I §§21–28, with fifteen identical witness markers.
+- `parts/part-04-book-01-section-29-book-02-sections-01-08-latin.txt` and its
+  paired English file — Book I §29 and Book II §§1–8, with sixteen identical
+  witness markers.
+- `parts/part-05-book-02-sections-09-12-latin.txt` — complete normalized Latin
+  for Book II §§9–12, with five exact witness markers.
+- `parts/part-05-book-02-sections-09-12-english.md` — fresh English translation
+  with the same marker sequence.
 
 The workbench files are not included in the repository's scoped CC0 dedication
 for published English texts. See the [licensing scope](../../LICENSING.md).
-No CC0 dedication is made for this README, the Latin transcription, or either
-workbench file.
+No CC0 dedication is made for this README or the workbench files.

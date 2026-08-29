@@ -1,8 +1,8 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Part 01 files contain
-> a full diplomatic-normalized transcription and English working
-> translation of the opening coherent authorial unit. They have not received
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–05 contain
+> full diplomatic-normalized transcriptions and English working
+> translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
 > be represented as a publication-ready edition.
 
@@ -43,6 +43,45 @@ p. 20; the separately headed **Digression II** begins below them on that shared
 page and is excluded. The files therefore stop at a genuine authorial boundary
 rather than an arbitrary page edge. Both files contain the same twenty source
 markers and no text from Digression II.
+
+## Parts 02–05 boundaries and files
+
+Part 02 spans **Book I, printed pp. 20–35 / BSB canvases 46–61**. It begins
+with `DIGRESSIO SECUNDA` on the shared lower part of p. 20, includes that
+digression in full and Digression III, Section I in full, and stops in the
+upper part of shared p. 35 immediately before `SECTIO SECUNDA`. Its pair has
+sixteen synchronized markers.
+
+- `parts/part-02-digressions-02-and-03-section-01-latin.txt`
+- `parts/part-02-digressions-02-and-03-section-01-english.md`
+
+Part 03 spans **Book I, printed pp. 35–49 / BSB canvases 61–75**. It begins
+with Digression III, Section II on the shared lower part of p. 35, contains
+Sections II and III in full, and stops at the end of p. 49 immediately before
+`SECTIO QUARTA` on p. 50. Its pair has fifteen synchronized markers.
+
+- `parts/part-03-digression-03-sections-02-and-03-latin.txt`
+- `parts/part-03-digression-03-sections-02-and-03-english.md`
+
+Part 04 spans **Book I, printed pp. 50–64 / BSB canvases 76–90**. It contains
+Digression III, Sections IV–VI in full and stops at the end of p. 64
+immediately before `SECTIO SEPTIMA` on p. 65. Its pair has fifteen synchronized
+markers.
+
+- `parts/part-04-digression-03-sections-04-06-latin.txt`
+- `parts/part-04-digression-03-sections-04-06-english.md`
+
+Part 05 spans **Book I, printed pp. 65–66 / BSB canvases 91–92**. It begins
+Digression III, Section VII and contains its complete first disputational
+exchange: the first objection, Navarrete's reply, and Twisse's full
+counter-reply. It stops in the left column of shared p. 66 after
+`… contempletur & comprehendat`, immediately before the separately labeled
+`Secundò arguitur`. The next part must begin with `Secundò arguitur` and repeat
+the marker for **printed p. 66 / BSB canvas 00092**. Its pair has two
+byte-identical synchronized markers.
+
+- `parts/part-05-digression-03-section-07-objection-01-latin.txt`
+- `parts/part-05-digression-03-section-07-objection-01-english.md`
 
 ## Editorial method and cautions
 

@@ -1596,3 +1596,48 @@ an arbitrary image count. The next unit begins in the right column of reader
 image `PA233` / printed p. 234 at `Caput VI` and the lemmata for verses 1–6,
 beginning `Vers. 1. Est malum quod vidi sub Sole, idque maximum super
 homines`.
+
+**Part 70 is complete as an AI-assisted, unreviewed first working draft.** It
+opens Chapter VI with the Ecclesiastes 6:1–6 lemma block, the chapter summary
+and division, and the complete exposition of verse 1 on reader images `PA233`
+and `PA235`. It begins in the right column of printed p. 234 at `Caput VI` and
+`Vers. 1. Est malum quod vidi sub Sole, idque maximum super homines`, crosses
+the printed-page join after the p. 234 catchword `passim`, and ends in the left
+column of printed p. 235 immediately before the repeated verse-2 lemma. The
+paired files have two exactly identical reader-image markers and retain the
+six opening lemmata, the chapter's summary and bipartite division, the account
+of the evil's universality, and the comparison between human exaggeration and
+the Holy Spirit's truthful description. The English translator's note
+discloses the catchword join:
+
+- `parts/part-70-homiliae-chapter-06-verse-01-latin.txt`
+- `parts/part-70-homiliae-chapter-06-verse-01-english.md`
+
+This unit is bounded by the exact repeated verse-2 lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader
+image `PA235` / printed p. 236 at `Vers. 2. Viro cui dederit Deus ipse
+divitias, facultatesque, & honorem`.
+
+**Part 71 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:2 lemma and its complete homiletic
+exposition on reader images `PA235`, `PA237`, and `PA239`. It begins in the
+right column of printed p. 236 at `Vers. 2. Viro cui dederit Deus ipse
+divitias, facultatesque, & honorem`, crosses the image and printed-page joins
+after the p. 236 and p. 238 catchwords `absumuntur` and `usum`, and ends in the
+left column of printed p. 239 immediately before the repeated verse-3 lemma.
+The paired files have three exactly identical reader-image markers and retain
+the comparison of the miser to a starving man surrounded by food, the
+discussion of the prosperity of the wicked, the ascending sequence of wealth
+and honors, the account of God's justice in granting riches, and the stranger
+who consumes the miser's accumulated wealth. They also retain the printed
+Greek `δῶρον ... ἄδωρον` and `ἐπὶ τὸ πολὺ` and every biblical reference. The
+English translator's notes explain the Greek, disclose the printed `Deum`
+construction, and record both catchword joins:
+
+- `parts/part-71-homiliae-chapter-06-verse-02-latin.txt`
+- `parts/part-71-homiliae-chapter-06-verse-02-english.md`
+
+This unit is bounded by the exact repeated verse-3 lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA239` / printed p. 239 at `Vers. 3. Si gignat quis centenos liberos, & annos
+multos vivat`.

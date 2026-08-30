@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–50 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–51 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -579,7 +579,32 @@ English counterparts, `weakened` and `Antichrist`.
 - `parts/part-50-penottus-book-03-chapter-17-arguments-04-07-and-recap-english.md`
 
 The next unit resumes on printed p. 94 / canvas 00120 with `Colligitur (inquit)
-evidenter ex verbis Thom. 1. p. q. 14. artic. 13. bis verbis`.
+evidenter ex verbis Thom. 1. p. q. 14. artic. 13. his verbis`.
+
+Part 51 spans **printed pp. 94–98 / BSB canvases 00120–00124** and completes
+Penottus, Book III, Chapter XVII. It begins with `Colligitur (inquit) evidenter
+ex verbis Thom.` and contains Penottus's arguments from Aquinas on intuitive
+knowledge, angelic cognition, the reach of intellect, will, and omnipotence,
+Ferrariensis, *Contra Gentiles* 1.66, Scripture, and the Fathers, together with
+Twisse's complete responses. It stops on the upper part of shared p. 98 at the
+chapter's authorial close, immediately before the separately headed `DIGRESSIO
+QUARTA`, and has five identical source markers plus one identical marginal
+citation. The printer's page-end division `tempo-` / `re` across pp. 94–95 is
+joined as `tempore`, with the p. 95 marker immediately before the complete word
+and its English counterpart, `time`. The p. 95 catchword `ab`, the p. 96
+catchword `in-`, and the p. 97 catchword `tantum` are represented only by their
+textual occurrences at the heads of pp. 96–98; the corresponding markers stand
+immediately before `ab essentia` / `from the essence`, `inquam` / `I say`, and
+`tantum quaeritur` / `the only question`. The witnessed Greek `καχεξίαν` is
+retained in both files, with an English gloss.
+
+- `parts/part-51-penottus-book-03-chapter-17-concluding-arguments-latin.txt`
+- `parts/part-51-penottus-book-03-chapter-17-concluding-arguments-english.md`
+
+The next unit resumes on printed p. 98 / canvas 00124 with `DIGRESSIO QUARTA`,
+headed `Ad partes vocatur Penottus quod attinet ad ea, quae Cap. 5. disserit in
+responsione ad argumenta quaedam prolata adversus propositionem secundam Capite
+quarto propositam`, and must repeat the shared-page marker.
 
 ## Editorial method and cautions
 
@@ -591,11 +616,11 @@ are represented in paired `[Marginalia: ...]` blocks where the page layout
 permits separation; abbreviated citations remain intentionally conservative.
 
 The opening unit has Greek but no Hebrew. The Greek forms `ὁμοζύγαμα` (printed
-p. 4) and `ὧδε γὰρ` (printed p. 12) are retained in the Latin and translated in
-the English. No Greek or Hebrew has been silently romanized. The exact accents,
-several tightly set marginal references, and residual difficult readings need a
-future specialist image collation. The present transcription and translation
-are complete working drafts, but they remain explicitly AI-assisted and
-unreviewed.
+p. 4) and `ὧδε γὰρ` (printed p. 12), and the Part 51 form `καχεξίαν` (printed p.
+96), are retained in the Latin and translated or glossed in the English. No
+Greek or Hebrew has been silently romanized. The exact accents, several tightly
+set marginal references, and residual difficult readings need a future
+specialist image collation. The present transcription and translation are
+complete working drafts, but they remain explicitly AI-assisted and unreviewed.
 
 No global status ledger or manifest is changed by this initial workbench unit.

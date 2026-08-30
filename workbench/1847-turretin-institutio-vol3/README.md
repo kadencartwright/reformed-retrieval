@@ -791,3 +791,30 @@ is excluded.
 The next restart point is `QUÆSTIO XXIX. DE POTESTATE ECCLESIASTICA. An
 Ecclesiæ aliqua Potestas spiritualis competat, distincta a Politica? Affirm.`
 on shared printed p. 232 / IA leaf 266 / PDF p. 266.
+
+## Part 29
+
+Part 29 contains the complete Locus XVIII, Question XXIX, “De Potestate
+Ecclesiastica.” It begins with the question heading on shared printed p. 232 /
+IA leaf 266 / PDF p. 266, immediately after Question XXVIII, and ends with
+section XXV on shared printed p. 239 / IA leaf 273 / PDF p. 273. Question XXX
+begins below it on that page and is excluded.
+
+- Latin: `parts/part-29-locus-18-question-29-latin.txt`
+- English: `parts/part-29-locus-18-question-29-english.md`
+- Both files contain eight synchronized source-page markers, the complete
+  section sequence I–XXV, and sixteen synchronized marginalia blocks.
+- The scan verification covered all eight page images and all seven page
+  joins. The pp. 232–233, 233–234, 237–238, and 238–239 joins divide
+  `anarchiam`, `ordinantem`, `verbo`, and `corporalis`; each word is joined,
+  with the new-page marker placed before the complete Latin word and its
+  English counterpart.
+- The transcription retains all thirty-five printed Greek expressions and the
+  malformed marginal headings `Ad Eccles. V. T.` and `Fontes solutionem`.
+  `[sic]` identifies the witness’s disruptive `corruptionem` where the context
+  calls for correction; the English translates the evident sense without
+  silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XXX. An Potestas Ecclesiastica versetur
+circa dogmata Fidei, et circa Symbola et Confessiones Fidei? Affirm.` on shared
+printed p. 239 / IA leaf 273 / PDF p. 273.

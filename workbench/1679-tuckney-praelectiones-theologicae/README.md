@@ -329,6 +329,18 @@ excluded.
 - English: `parts/part-14-romans-01-17-justification-13-english.md`
 - Extent: two synchronized markers, printed pp. 113–114 / IA leaves 121–122
 
+## Part 15: fourteenth unit of the Romans 1:17 lecture
+
+Part 15 completes the second argument and develops the affirmative proof of
+the third from regenerate believers and Abraham. It runs from `Arg. 2` on
+printed p. 114 / IA leaf 122 through the appeal to Chrysostom on printed p.
+115 / IA leaf 123. The next question, `Quid ad haec Bellarminus?`, begins
+Tuckney's answers to Bellarmine and is excluded.
+
+- Latin: `parts/part-15-romans-01-17-justification-14-latin.txt`
+- English: `parts/part-15-romans-01-17-justification-14-english.md`
+- Extent: two synchronized markers, printed pp. 114–115 / IA leaves 122–123
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

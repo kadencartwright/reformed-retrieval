@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–39.
+checked page by page against canvases 9–40.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -119,16 +119,22 @@ made here for the Latin transcription, witness images, or metadata.
   four-part reply on power, willing, divine concurrence, and Adam's voluntary
   turning away; it ends on p. 31 immediately before `SECTIO DUODECIMA NOTIO
   X`.
+- BSB canvases 39–40: Part 15 contains the complete `SECTIO DUODECIMA NOTIO
+  X`, from Perkins's proposition attributing the whole government of the world
+  and execution of justice to God through Arminius's observations and
+  Twisse's reply on divine administration, justice, natural notions,
+  Pelagians, philosophers, and natural reason; it ends on p. 32 immediately
+  before `SECTIO DECIMA TERTIA`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
 - BSB canvases 809–816: terminal index and binding matter.
 
 The preliminary and body boundaries above were inspected in the continuous
-canvas sequence through canvas 39. Part 01 has seventeen synchronized
+canvas sequence through canvas 40. Part 01 has seventeen synchronized
 printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–39. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–40. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -347,7 +353,24 @@ the printed response numbering is retained, and the witness forms
 - Latin: `parts/part-14-preface-section-11-notion-09-doing-good-and-divine-concurrence-latin.txt`
 - English: `parts/part-14-preface-section-11-notion-09-doing-good-and-divine-concurrence-english.md`
 
-The next untranslated unit begins with the centered `SECTIO DUODECIMA NOTIO
-X` in the lower portion of printed p. 31 / BSB canvas 39 and Perkins's
-proposition `Non partem sed totam mundi gubernationem & justitiae executionem
-Deo autori tribuendam`.
+**Part 15 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO DUODECIMA NOTIO X`,
+beginning in the lower portion of shared printed p. 31 / BSB canvas 39 with
+Perkins's proposition `Non partem sed totam mundi gubernationem & justitiae
+executionem Deo autori tribuendam`. It preserves Arminius's initial
+qualification on justice and mercy, his three numbered observations about
+natural notions on p. 32, and Twisse's replies on divine administration,
+justice, natural knowledge, the Pelagians and Arminians, and Greek and Latin
+philosophers. It ends in the upper portion of printed p. 32 / canvas 40
+immediately before the centered `SECTIO DECIMA TERTIA`. The pair has two
+identical source markers; no word crosses the p. 31–32 boundary, and the Greek
+`θεοὶ δωτῆρες ἐάων` and `θεῖόν τι` and substantive marginal references
+`Act. 1.` and `Phys. 2.` are retained.
+
+- Latin: `parts/part-15-preface-section-12-notion-10-divine-government-and-justice-latin.txt`
+- English: `parts/part-15-preface-section-12-notion-10-divine-government-and-justice-english.md`
+
+The next untranslated unit begins with the centered `SECTIO DECIMA TERTIA`
+in the upper portion of printed p. 32 / BSB canvas 40 and Perkins's sentence
+`Hujus jam doctrinae his è principiis compositae specimen tibi & imitationem
+exhibeo`.

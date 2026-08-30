@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–34.
+checked page by page against canvases 9–35.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -89,6 +89,12 @@ made here for the Latin transcription, witness images, or metadata.
   of effecting and permissive decrees and Twisse's four-part reply on the
   creature's changes, divine providence, and the illustration of God's glory;
   it ends on p. 26 immediately before `SECTIO SEPTIMA NOTIO V`.
+- BSB canvases 34–35: Part 10 contains the complete `SECTIO SEPTIMA NOTIO V`,
+  from Perkins's proposition on honoring God's hidden judgments and his
+  excerpt from Augustine through Arminius's four observations and Twisse's
+  four-part reply on hidden judgments, divine compassion, Romans 9, and the
+  creature's comparative littleness; it ends on p. 27 immediately before
+  `SECTIO OCTAVA NOTIO VI`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -97,7 +103,7 @@ made here for the Latin transcription, witness images, or metadata.
 The preliminary and body boundaries above were inspected in the continuous
 canvas sequence. Part 01 has seventeen synchronized printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–33. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–35. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -237,6 +243,22 @@ marker, and the substantive `pag. 27. 28.` marginal reference is retained.
 - Latin: `parts/part-09-preface-section-06-notion-04-divine-immutability-latin.txt`
 - English: `parts/part-09-preface-section-06-notion-04-divine-immutability-english.md`
 
-The next untranslated unit begins with the centered `SECTIO SEPTIMA NOTIO V`
-on printed p. 26 / BSB canvas 34 and Perkins's proposition `Judicia Dei
-occulta & inscrutabilia honoranda esse & agnoscenda`.
+**Part 10 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO SEPTIMA NOTIO V`, beginning
+on shared printed p. 26 / BSB canvas 34 with Perkins's proposition `Judicia
+Dei occulta & inscrutabilia honoranda esse & agnoscenda` and his extended
+excerpt from Augustine. It preserves Arminius's four observations and
+Twisse's complete four-part reply on hidden divine judgments, compassion and
+the divine will, the objection in Romans 9, and the creature's comparative
+littleness before God. It continues through printed p. 27 / canvas 35 and ends
+immediately before the centered `SECTIO OCTAVA NOTIO VI`. The pair has two
+identical source markers; the p. 26–27 boundary falls between the complete
+words `mendacii` and `ori`, the Greek `τὸ σωφρονεῖν` is retained, and the
+substantive marginal reference to Augustine is preserved.
+
+- Latin: `parts/part-10-preface-section-07-notion-05-hidden-divine-judgments-latin.txt`
+- English: `parts/part-10-preface-section-07-notion-05-hidden-divine-judgments-english.md`
+
+The next untranslated unit begins with the centered `SECTIO OCTAVA NOTIO VI`
+on printed p. 28 / BSB canvas 36 and Perkins's proposition `Nihil boni posse
+fieri, nisi Deo absolute volente & faciente`.

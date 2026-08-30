@@ -272,6 +272,37 @@ retained rather than silently regularized. The long Greek
 quotation from Josephus on printed p. 129 and the Greek forms on printed pp.
 127 and 133 have been checked directly against both copies.
 
+**Part 11 is the complete second chapter of Book III.** It begins with the
+`CAPUT II` heading on printed p. 141 and continues through the final response
+on printed p. 159, stopping before the `CAPUT` catchword for Chapter III:
+
+- e-rara canvases 151–169 / printed pp. 141–159;
+- same-impression Augsburg comparison canvases 165–183;
+- Book III, Chapter II, *De Monarchia Petri*;
+- next unit: Chapter III, *De Monarchia Pontificis Romani*, beginning on
+  printed p. 160.
+
+The paired files carry nineteen identical source markers. The four words split
+in the running text at page boundaries—`interpretationes` (pp. 142/143),
+`peccata` (pp. 150/151), `succo` (pp. 154/155), and `solummodo` (pp.
+157/158)—are joined and placed wholly after the incoming marker in both files.
+The bottom-of-page forms `diffi-` (p. 141), `preta-` (p. 142), `successoribus`
+(p. 143), `aut` (p. 144), `dicimus` (p. 145), `pars,` (p. 146), `jam` (p.
+147), `aut` (p. 148), `potestatem` (p. 149), `ta, &` (p. 150), `ponitur` (p.
+151), `princi-` (p. 152), `etiam` (p. 153), `co ci-` (p. 154), `& di-` (p.
+155), `fui` (p. 156), `lummo-` (p. 157), `cathe-` (p. 158), and `CAPUT` (p.
+159) are catchwords rather than additional or duplicated text and are
+excluded. The controlling and comparison images agree throughout this
+chapter's setting. The witness's citation `Apoc. 20.21.` on printed p. 142,
+its form `arrrogare` on printed p. 153, its repeated point `12` on printed pp.
+149 and 152 followed by point `14` on printed p. 153, its citations `Ioh.
+20.15.17.` on printed p. 154 and `Act. 28.2.` on printed p. 155, its phrase
+`Petrus 28. habuit` on printed p. 158, and its form `cathedra` on printed p.
+159 are retained rather than silently regularized. The Greek `ἀσύγκλωσα` on
+printed p. 151 and `ποιμαίνειν`,
+`ποιμένες`, `βόσκειν`, and `καθὼς` on printed pp. 154 and 157 have been checked
+directly against both copies.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -313,3 +344,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-09-book-02-chapter-03-english.md`
 - `parts/part-10-book-03-chapter-01-latin.txt`
 - `parts/part-10-book-03-chapter-01-english.md`
+- `parts/part-11-book-03-chapter-02-latin.txt`
+- `parts/part-11-book-03-chapter-02-english.md`

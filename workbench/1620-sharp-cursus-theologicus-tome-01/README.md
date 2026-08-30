@@ -78,13 +78,13 @@ topic on Scripture.
 ## Completed continuation and current boundary
 
 The paired continuation now runs without a content gap from the opening of
-the tome through the end of `CONTROVERSIA IX. De Perfectione Scripturae` and
-therefore completes the entire opening tract `DE SACRA SCRIPTURA`. The
-continuation includes the meanings of tradition, state of the controversy,
-positive arguments, testimonies of the Fathers, and all twenty-eight printed
-objections with their responses. Units that share a numbered column meet at
-the printed internal heading or objection boundary in that column; neither
-pair duplicates matter across the join.
+the tome through the introduction and first three questions of `DE DEO`. It
+includes the complete opening tract `DE SACRA SCRIPTURA`, with the meanings of
+tradition, state of the final controversy, positive arguments, testimonies of
+the Fathers, and all twenty-eight printed objections with their responses. It
+then continues through the existence, unity, and essence of God. Units that
+share a numbered column meet at the printed internal heading or question
+boundary in that column; neither pair duplicates matter across the join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -100,18 +100,24 @@ pair duplicates matter across the join.
 | 11 | Controversy IX: perfection, positive case and patristic testimonies | 125–136 | 00077–00082 |
 | 12 | Controversy IX: perfection, objections 1–5 | 136–151 | 00082–00090 |
 | 13 | Controversy IX: perfection, objections 6–28 | 151–170 | 00090–00099 |
+| 14 | `DE DEO`: introduction and Questions I–III | 170–180 | 00099–00104 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
 with the same part number and descriptive stem.
 
-**Exact resume boundary:** Part 13 ends in column 170 at BSB frame 00099 with
-the response to Objection 28, `in quo & a nobis imitandi sunt.` The ornamental
-heading `DE DEO` begins later in the same column and is excluded. That heading
-and its following introduction are the next untranscribed text. Part 13 begins
-at the exact Part-12 join with `Obiect. 6. Ioh. ult. v. ult.`, spans portions
-of twenty numbered columns, and adds approximately 1.2% of Tome I's 1,574
-numbered columns.
+**Part-13/Part-14 join:** Part 13 ends in column 170 at BSB frame 00099 with
+the response to Objection 28, `in quo & a nobis imitandi sunt.` Part 14 begins
+later in the same column at the ornamental heading `DE DEO`; no matter between
+the sentence and heading is omitted or duplicated.
+
+**Exact resume boundary:** Part 14 ends in column 180 at BSB frame 00104 with
+the final sentence on the name *Elohim*, `De hoc nomine pluribus ubi de
+Trinitate.` The heading `QUAESTIO IV. Qualis sit Deus: ubi de attributis
+Divinis agitur.` begins immediately afterward in the same column and is
+excluded. That heading and its following treatment of the divine attributes
+are the next untranscribed text. Part 14 spans portions of eleven numbered
+columns.
 
 ## Editorial method and status
 
@@ -171,3 +177,20 @@ Both files are AI-assisted and unreviewed.
   Nicaea's condemnation of Arius “from Scripture” is false, although the
   surrounding argument appears to require “not from Scripture.” Both files
   retain the printed wording, and the English notes the anomaly.
+
+## Printed anomalies in Part 14
+
+- In Question I, column 172 prints `Isa. 57.24.`, although Isaiah 57 has no
+  verse 24. The locator is retained and noted in the English.
+- In Question II, column 174 prints `Deus` in the Tertullian quotation where
+  the grammar and argument appear to require `Deos`. The Latin retains the
+  reading, and the English notes its rendering of the apparent sense.
+- In Question III, column 176 prints `Galat. 1.` for the occurrence of
+  `φύσις`; Galatians 4:8 appears to be intended. The printed locator is
+  retained and noted in the English.
+- Column 177 prints `Exod. 13.15.` in the discussion of the divine name;
+  Exodus 3:15 appears to be intended. The printed locator is retained and
+  noted in the English.
+- The Hebrew and small Greek types in columns 174–180 have been normalized to
+  Unicode directly from the page images but should receive specialist
+  collation before publication.

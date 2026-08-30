@@ -33,7 +33,8 @@ The manifest identifies the object as Tome II, Geneva: Chouët, 1620, extent
 570 printed columns plus six leaves, and exposes 292 canvases with page-level
 hOCR. The page images govern; hOCR is used only as a navigation and
 transcription aid. Part 01 was compared line by line with the eight BSB images
-for canvases 5–12. No e-rara text, modern edition, or modern translation was
+for canvases 5–12. Part 07 was compared line by line with the eleven BSB images
+for canvases 26–36. No e-rara text, modern edition, or modern translation was
 used.
 
 ## Editorial method
@@ -110,8 +111,20 @@ printed-column markers:
 - `parts/part-06-church-triumphant-question-05-objections-latin.txt`
 - `parts/part-06-church-triumphant-question-05-objections-english.md`
 
-The next continuation boundary is therefore `CONTROVERSIA II. De cultu
-Imaginum`, beginning in printed column 51 on BSB canvas 26.
+**Part 07 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the complete `CONTROVERSIA II. De cultu Imaginum` in
+printed columns 51–71: Question I on the distinction between images, idols,
+and likenesses; Question II on images of God; Question III on the worship of
+images of Christ and the saints; and Question IV on placing images in
+churches. It ends after the response to Question IV, Objection 7, immediately
+before `CONTROVERSIA III. De reliquiis Sanctorum`, and contains twenty-one
+synchronized printed-column markers:
+
+- `parts/part-07-church-triumphant-controversy-02-images-latin.txt`
+- `parts/part-07-church-triumphant-controversy-02-images-english.md`
+
+The next continuation boundary is therefore `CONTROVERSIA III. De reliquiis
+Sanctorum`, beginning later in printed column 71 on BSB canvas 36.
 
 ## Review and licensing notice
 

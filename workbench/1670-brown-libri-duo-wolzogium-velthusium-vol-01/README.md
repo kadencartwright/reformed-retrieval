@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Thirteen paired parts are complete as AI-assisted, scan-audited working drafts:
+Fourteen paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -119,6 +119,9 @@ Thirteen paired parts are complete as AI-assisted, scan-audited working drafts:
 - **Part 13:** all of Section XXV, examining Wolzogen's account of Reason as
   instrument, guide, norm, and principle in interpreting Scripture, printed
   pp. 118–128 / ONB canvases 172–182; eleven synchronized source markers.
+- **Part 14:** all of Section XXVI, examining Wolzogen's account of usage of
+  speech as the norm of interpretation, printed pp. 128–130 / ONB canvases
+  182–184; three synchronized source markers.
 
 The files are:
 
@@ -148,9 +151,10 @@ The files are:
 - `parts/part-12-the-spirits-work-and-human-corruption-english.md`
 - `parts/part-13-reason-as-instrument-guide-and-norm-latin.txt`
 - `parts/part-13-reason-as-instrument-guide-and-norm-english.md`
+- `parts/part-14-usage-of-speech-and-the-norm-of-interpretation-latin.txt`
+- `parts/part-14-usage-of-speech-and-the-norm-of-interpretation-english.md`
 
-Part 13 ends with Section XXV on printed p. 128 / ONB canvas 182 after Brown's
-sentence `Verum de his satis, hoc in loco; ad sequentia transeamus.` Section
-XXVI, beginning `Ad usum sermonis, (de quo postremo loco sermonem facit)
-explicandum accedit pag. 70. 71. &c.`, is excluded. Part 14 should resume there
-on the same canvas.
+Part 14 ends with Section XXVI on printed p. 130 / ONB canvas 184 after the
+quotation's sentence `Qui notitiam rei non habet, illum notitia nominis non
+sublevabit.` Section XXVII, beginning `Quibus non displicere possunt quae habet
+pag. 73?`, is excluded. Part 15 should resume there on the same canvas.

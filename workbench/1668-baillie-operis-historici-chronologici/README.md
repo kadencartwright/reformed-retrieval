@@ -369,6 +369,44 @@ and all printed marginalia are retained, as is the witness reading
 `injicereretur`. The pair remains an AI-assisted, unreviewed draft and is not
 publication-ready.
 
+## Part 19 boundary and status
+
+Part 19 is a synchronized Latin/English working pair with exactly eight
+markers: partial printed pp. 166 and 173 and complete pp. 167–172, IA leaves
+196–203, access-PDF pp. 196–203, and DjVu OCR objects 195–202. It begins at
+the top of the right column of printed p. 166 immediately after Part 18 with
+`QUAESTIO XI. Quod sit verum principium septuaginta hebdomadarum Danielis?`,
+contains Question XI in full, and ends in the left column of printed p. 173
+after `Sed nulla historicorum fides Jesuiticam impudentiam intra modestiae &
+veritatis claustra valet continere.`
+
+`QUAESTIO XII. Quis sit finis hebdomadum Danielis?` begins below it in the
+right column and is wholly excluded. All eight controlling 300-dpi images,
+`pdf-196.jpg` through `pdf-203.jpg`, were used for the transcription; OCR
+served only as an aid. Page-spanning words were joined and placed wholly after
+the later synchronized marker. The Hebrew and Greek strings and all included
+printed marginalia are retained. The pair remains an AI-assisted, unreviewed
+draft and is not publication-ready.
+
+## Part 20 boundary and status
+
+Part 20 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 173 and 175 and complete p. 174, IA leaves
+203–205, access-PDF pp. 203–205, and DjVu OCR objects 202–204. It begins in
+the right column of printed p. 173 immediately after Part 19 with `QUAESTIO
+XII. Quis sit finis hebdomadum Danielis?`, contains Question XII in full, and
+ends in the left column of printed p. 175 after `ob vastatum ante tot annos
+templum & urbem.`
+
+`QUAESTIO XIII. Unde incipiant & ubi desinant Danielis septem hebdomadae, &
+quamobrem à reliquis hebdomadis dividantur?` begins below it in the same
+column and is wholly excluded. All three controlling 300-dpi images,
+`pdf-203.jpg` through `pdf-205.jpg`, were used for the transcription; OCR
+served only as an aid. Page-spanning words were joined and placed wholly after
+the later synchronized marker. The Greek strings and all included printed
+marginalia are retained. The pair remains an AI-assisted, unreviewed draft and
+is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -421,13 +459,17 @@ have not been modernized or endorsed.
 - `parts/part-17-book-01-chapter-10-question-09-english.md`
 - `parts/part-18-book-01-chapter-10-question-10-latin.txt`
 - `parts/part-18-book-01-chapter-10-question-10-english.md`
+- `parts/part-19-book-01-chapter-10-question-11-latin.txt`
+- `parts/part-19-book-01-chapter-10-question-11-english.md`
+- `parts/part-20-book-01-chapter-10-question-12-latin.txt`
+- `parts/part-20-book-01-chapter-10-question-12-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
-Part 17, and five for Part 18. There are thirty-six current files in
-eighteen Latin/English pairs, containing 181 synchronized source markers per
-language (362 marker occurrences across all thirty-six files). The files
-remain AI-assisted and unreviewed.
+Part 17, five for Part 18, eight for Part 19, and three for Part 20. There are
+forty current files in twenty Latin/English pairs, containing 192 synchronized
+source markers per language (384 marker occurrences across all forty files).
+The files remain AI-assisted and unreviewed.

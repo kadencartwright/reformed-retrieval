@@ -1283,3 +1283,85 @@ it on that page and is excluded.
 The next restart point is `QUÆSTIO XIII. An Baptismus sit absolute necessarius
 ad salutem? Neg. cont. Pontif.` on shared printed p. 330 / IA leaf 364 / PDF p.
 364.
+
+## Part 47
+
+Part 47 contains the complete Locus XIX, Question XIII, “An Baptismus sit
+absolute necessarius ad salutem?” It begins with the question heading on shared
+printed p. 330 / IA leaf 364 / PDF p. 364, immediately after Question XII, and
+ends with section XXIII on shared printed p. 335 / IA leaf 369 / PDF p. 369.
+Question XIV begins below it on that page and is excluded.
+
+- Latin: `parts/part-47-locus-19-question-13-latin.txt`
+- English: `parts/part-47-locus-19-question-13-english.md`
+- Both files contain six synchronized source-page markers, the complete
+  section sequence I–XXIII, and eleven synchronized marginalia blocks.
+- The scan verification covered all six page images and all five page joins.
+  The pp. 330–331 join falls within section IV; the pp. 331–332 join falls
+  between sections IX and X; the pp. 332–333 join falls within section XVI;
+  the pp. 333–334 join falls within section XIX; and the pp. 334–335 join
+  divides `infantibus`. The complete Latin word and its English counterpart are
+  placed after the p. 335 marker.
+- The transcription retains all four printed Greek expressions, the witness’s
+  `Suares`, `communior`, `quo ex occasione`, `nonalligata`, `libro. 4`,
+  abbreviations, and citations. `[sic]` identifies the printed `Matth. iv. 6`,
+  whose quoted matter
+  corresponds to Matthew 4:16; the English translates the evident sense
+  without silently altering the citation.
+
+The next restart point is `QUÆSTIO XIV. DE LEGITIMO BAPTISMI MINISTERIO. An
+Baptismus Laicorum aut Mulierum ullo in casu licitus sit? Neg. cont. Pontif.`
+on shared printed p. 335 / IA leaf 369 / PDF p. 369.
+
+## Part 48
+
+Part 48 contains the complete Locus XIX, Question XIV, “De Legitimo Baptismi
+Ministerio.” It begins with the question heading on shared printed p. 335 / IA
+leaf 369 / PDF p. 369, immediately after Question XIII, and ends with section
+XIV on printed p. 337 / IA leaf 371 / PDF p. 371. Question XV begins on the
+next printed page and is excluded.
+
+- Latin: `parts/part-48-locus-19-question-14-latin.txt`
+- English: `parts/part-48-locus-19-question-14-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–XIV, and seven synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 335–336 join falls within section I after `hanc`; the pp. 336–337 join
+  falls within section VIII after `baptizatus`. No word is divided at either
+  join, and the markers occupy the corresponding clause boundaries in both
+  files.
+- The transcription retains both occurrences of the printed Greek
+  `γυναικοβαπτισμὸν`, the title’s `MINISTERIO`, and the witness’s abbreviations
+  and citations. `[sic]` identifies the printed `Joan. iv. 12`, whose stated
+  proposition corresponds to John 4:2; the English translates the evident
+  sense without silently altering the citation.
+
+The next restart point is `QUÆSTIO XV. An Baptismus ab Hæreticis administratus
+sit legitimus? Dist.` on printed p. 338 / IA leaf 372 / PDF p. 372.
+
+## Part 49
+
+Part 49 contains the complete Locus XIX, Question XV, “An Baptismus ab
+Hæreticis administratus sit legitimus?” It begins with the question heading on
+printed p. 338 / IA leaf 372 / PDF p. 372 and ends with section VII on shared
+printed p. 340 / IA leaf 374 / PDF p. 374. Question XVI begins below it on that
+page and is excluded.
+
+- Latin: `parts/part-49-locus-19-question-15-latin.txt`
+- English: `parts/part-49-locus-19-question-15-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–VII, and two synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 338–339 join divides `baptizandos`; the complete Latin word and its
+  English counterpart are placed after the new-page marker. The pp. 339–340
+  join falls within section VII after `iterandum` and divides no word.
+- The transcription retains all three printed Greek expressions and the
+  witness’s `Carthargi.`, `ut a jure communionis`, `factæ que`, `ut ut`, and
+  `participationem eorum erroribus` without silently regularizing them. The
+  erroneous running head `LOCUS NONUS DECIMUS` on printed p. 340 is omitted
+  under the stated editorial method; the English translates the evident
+  sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XVI. An Baptismus Johannis idem fuerit
+essentialiter cum Baptismo Christi? Affir. cont. Pontif.` on shared printed p.
+340 / IA leaf 374 / PDF p. 374.

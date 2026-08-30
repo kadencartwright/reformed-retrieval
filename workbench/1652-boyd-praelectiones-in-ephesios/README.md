@@ -73,6 +73,7 @@ same scan can legitimately close one part and open the next:
 | 28 | XXVIII | 156–161 | 112–117 | `Superest jam postrema objectionum classis, ad Electionis ac reprobationis immutabilem certitudinem spectantium` through the fourth class of objections, the alleged erasure of the elect from the book of life, the scriptural testimonies for losing faith and righteousness, and their answers, ending `quibus minorem illam principalem stabilire conantur adversarii` before Lecture XXIX |
 | 29 | XXIX | 161–166 | 117–122 | `Jam secundo loco, ad exempla quod attinet` through the alleged examples of lost faith, the extended defense of Solomon's final repentance, and the first four philosophical, baptismal, and ecclesiological arguments against perseverance, ending `Quare non est, quod hic nunc immoremur` before Lecture XXX |
 | 30 | XXX | 166–171 | 122–127 | `Quinta & postrema ratio à Bellarmino allata est hæc` through the fifth argument from uncertainty and despair, three further arguments concerning Adam's fall, union with Christ, and the coexistence of sin and grace, the patristic confirmations, and the general close of the refutation of four classes of objections, ending `finem tandem imponemus` before Lecture XXXI |
+| 31 | XXXI | 171–175 | 127–131 | `Superest nunc tantùm, ut priusquam totum hunc Locum Theologicum concludamus` through the survey of Pelagian, scholastic, Roman, Ubiquitarian, universal-election, universal-redemption, universal-calling, mutability, and sufficient-grace errors, ending with the announcement of three scriptural counterexamples, `quorum nos specimen in his tribus duntaxat afferemus`, before `Primò, Esai. 5` and Lecture XXXII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -142,8 +143,9 @@ English translation:
 | 28 | The immutable certainty of election and perseverance | [`part-28-praelection-28-immutability-and-perseverance-latin.txt`](parts/part-28-praelection-28-immutability-and-perseverance-latin.txt) | [`part-28-praelection-28-immutability-and-perseverance-english.md`](parts/part-28-praelection-28-immutability-and-perseverance-english.md) |
 | 29 | Examples and arguments concerning the loss of faith and perseverance | [`part-29-praelection-29-examples-and-arguments-on-perseverance-latin.txt`](parts/part-29-praelection-29-examples-and-arguments-on-perseverance-latin.txt) | [`part-29-praelection-29-examples-and-arguments-on-perseverance-english.md`](parts/part-29-praelection-29-examples-and-arguments-on-perseverance-english.md) |
 | 30 | Certainty of salvation and the final arguments on perseverance | [`part-30-praelection-30-certainty-and-final-arguments-latin.txt`](parts/part-30-praelection-30-certainty-and-final-arguments-latin.txt) | [`part-30-praelection-30-certainty-and-final-arguments-english.md`](parts/part-30-praelection-30-certainty-and-final-arguments-english.md) |
+| 31 | A survey and refutation of errors against predestination | [`part-31-praelection-31-errors-against-predestination-latin.txt`](parts/part-31-praelection-31-errors-against-predestination-latin.txt) | [`part-31-praelection-31-errors-against-predestination-english.md`](parts/part-31-praelection-31-errors-against-predestination-english.md) |
 
-The completed sequence now extends through Lecture XXX. Its successive subjects
+The completed sequence now extends through Lecture XXXI. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -376,6 +378,19 @@ A patristic coda invokes
 Cyprian, Augustine, Chrysostom, Gregory, Thomas, Origen, and Theophylact before
 the lecture closes the four classes of objections and Lecture XXXI begins its
 survey of errors opposed to predestination.
+Lecture XXXI catalogues seven earlier errors and then examines at greater
+length an Ubiquitarian synthesis of universal conditional election,
+redemption, calling, and sufficient grace. Boyd argues that this synthesis
+makes the divine will idle and dependent on creaturely choice, reverses the
+order of causes and foreknowledge, confuses the sufficiency of Christ's merit
+with a universal intention to redeem, and conflicts with the historical
+calling of the Gentiles and the experience of peoples without the gospel. He
+answers appeals to natural revelation and patristic universal language,
+rejects mutable election and a grace flexible toward either belief or
+unbelief, and closes by distinguishing merely sufficient grace from the
+effectual, renewing, cooperating, confirming, and persevering grace described
+by Augustine. Lecture XXXII begins with the first of three announced
+scriptural counterexamples.
 
 ## Validation
 
@@ -384,10 +399,13 @@ Run the existing work-local structural validators from the repository root:
 ```sh
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part01.py
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part02.py
+python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part31.py
 ```
 
 These check UTF-8 and line hygiene, exact marker sequence and parity,
 AI/unreviewed disclosures, minimum full-text size, required closes and
-marginalia, and the available source-map structure. All later pairs follow the
-same marker-parity and hygiene requirements. This workbench sequence does not
-modify global ledgers, the publication manifest, or repository checksums.
+marginalia, exact cross-page joins, and the available source-map structure.
+Part 31 now has its own work-local validator; the intervening later pairs
+follow the same marker-parity and hygiene requirements. This workbench sequence
+does not modify global ledgers, the publication manifest, or repository
+checksums.

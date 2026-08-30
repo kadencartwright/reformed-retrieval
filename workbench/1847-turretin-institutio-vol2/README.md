@@ -13,7 +13,7 @@
 - **Edition:** Edinburgh, John D. Lowe, 1847
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
   Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, through Question VI
+  Testamento*, through Question VII
 
 ## Controlling witness and rights
 
@@ -38,15 +38,15 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–32 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–33 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Questions I–VI, from printed p. 3 / PDF 31 through section XXXII on printed p.
-191 / PDF 219. Part 27 also includes the Locus XII divisional title on PDF 177
-and its blank verso on PDF 178. The sequence comprises 704 numbered sections
-across 186 numbered text pages and 213 source markers in each language (211
+Questions I–VII, from printed p. 3 / PDF 31 through section XLIX on printed p.
+206 / PDF 234. Part 27 also includes the Locus XII divisional title on PDF 177
+and its blank verso on PDF 178. The sequence comprises 753 numbered sections
+across 201 numbered text pages and 228 source markers in each language (226
 printed-page markers plus the two divisional-leaf markers in Part 27). The
-complete Latin files contain 102,675 whitespace-delimited words and the
-complete English files 140,307, counted over Parts 01–32 with `wc -w`. Each
+complete Latin files contain 110,794 whitespace-delimited words and the
+complete English files 151,069, counted over Parts 01–33 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -84,6 +84,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 30 | Locus XII, Question IV | printed pp. 169–171 / PDFs 197–199 | XII | 3 | `part-30-locus-12-question-04-{latin.txt,english.md}` |
 | 31 | Locus XII, Question V | printed pp. 171–182 / PDFs 199–210 | XLV | 12 | `part-31-locus-12-question-05-{latin.txt,english.md}` |
 | 32 | Locus XII, Question VI | printed pp. 182–191 / PDFs 210–219 | XXXII | 10 | `part-32-locus-12-question-06-{latin.txt,english.md}` |
+| 33 | Locus XII, Question VII | printed pp. 192–206 / PDFs 220–234 | XLIX | 15 | `part-33-locus-12-question-07-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -293,10 +294,29 @@ marginal headings, citations, and Greek. The printer-divided `re-/spectu` at
 the printed pp. 186/187 join is normalized as `respectu`, and the Greek
 `θεάν-/θρωπος` at the printed pp. 188/189 join as `θεάνθρωπος`, with the
 incoming marker placed before each complete word in both files. No
-supplementary witness was needed. The exact next restart is `QUAESTIO VII. DE
-DUPLICI OECONOMIA FOEDERIS GRATIAE. Cur Deus unicum Foedus Gratiae
-diversimode dispensare voluerit; Et quotuplex: et qualis fuerit ejus
-Oeconomia?` on printed p. 192 / PDF 220.
+supplementary witness was needed. Question VII explains why God dispensed the
+one covenant of grace in two administrations and traces the Old Testament
+economy through its three periods from Adam to Abraham, Abraham to Moses, and
+Moses to Christ. It expounds the first promise, the Abrahamic covenant, the
+Mosaic legislation, and the external and internal aspects, characteristics,
+and benefits of the old economy, then describes the New Testament economy in
+the incarnation, abrogation of the ceremonies, outpouring of the Spirit,
+calling of the nations, adoption, liberty, sanctification, and eternal life,
+in forty-nine sections. It begins at the Question VII heading on printed p.
+192 / PDF 220 and ends with section XLIX on printed p. 206 / PDF 234, before
+Question VIII on the same page. The Latin and English files contain 8,119 and
+10,762 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all fifteen page markers in the same sequence
+and retain all thirty-four substantive marginal headings, citations, Greek,
+and Hebrew. The printer-divided `fatisce-/rent` at the printed pp. 192/193
+join, `ho-/minis` at pp. 196/197, `pro-/missionem` at pp. 197/198, and
+`Eccle-/siae` at pp. 204/205 are normalized as `fatiscerent`, `hominis`,
+`promissionem`, and `Ecclesiae`, with the incoming marker placed before each
+complete word in both files. No supplementary witness was needed. The exact
+next restart is `QUAESTIO VIII. DE DISCRIMINE V. ET N. FOEDERIS. Quomodo
+differant inter se V. et N. Foedus, An essentialiter, et quoad substantiam
+doctrinae, An accidentaliter, quoad dispensationis modum? Dist.` on printed p.
+206 / PDF 234.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

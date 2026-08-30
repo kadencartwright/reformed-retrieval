@@ -474,6 +474,18 @@ Penottus, headed `GULIELMUS TWISSIUS IN GABRIELIS PENOTTI Propugnaculi humanae
 Libertatis LIBRI TERTII CAP. XVII`, followed by `Coexistentia creaturarum ab
 aeterno ex ipso D. Thoma, & ejus expositoribus adhuc refutatur`.
 
+Part 43 remains on **printed p. 85 / BSB canvas 00111** and opens Penottus,
+Book III, Chapter XVII. It contains the chapter heading and Penottus's complete
+opening proposition on Thomas's distinction between coexistence in a proper
+and an alien measure. It ends immediately before Twisse's separately labeled
+`Respons.` and has one identical source marker.
+
+- `parts/part-43-penottus-book-03-chapter-17-opening-latin.txt`
+- `parts/part-43-penottus-book-03-chapter-17-opening-english.md`
+
+The next unit resumes on printed p. 85 / canvas 00111 at `Respons. Omnino
+assentior Penotto, dum distinctionem illam de rerum omnium existentia...`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

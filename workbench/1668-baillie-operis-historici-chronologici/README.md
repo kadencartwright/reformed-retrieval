@@ -1115,6 +1115,37 @@ placed wholly after the p. 289 marker in both files. OCR served only as a
 reading aid. The pair remains an AI-assisted, unreviewed draft and is not
 publication-ready.
 
+## Part 52 boundary, status, and image audit
+
+Part 52 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 289 and 291 and complete p. 290, IA leaves
+319–321, access-PDF pp. 319–321, and DjVu OCR objects 318–320. It begins in
+the left column of printed p. 289 immediately after Part 51 with the exact
+restart `Locus hic requirit ut de rebus Romanorum aliqua carptim delibemus.`
+It opens Baillie's Roman excursus, follows the destruction of Corinth and
+Carthage, Numantia and the Gracchi, the Jugurthine War, and Marius's victories
+over the Teutones and Cimbri, and ends in the right column of printed p. 291
+after `sextum Consulatum cupidissimè appetitum, & largitione magnâ mercatum
+vix potuit obtinere.`
+
+The following paragraph is wholly excluded. Its exact restart is `In hoc
+Consulatu Metellum oppressit: Saturninus Tribunus plebis legem tulit de
+divisione agrorum in Gallia, quos Marius suis armis acquisiverat:`. The
+adjacent marginalium `Marii fraude Metellus exulat` is likewise excluded.
+This is a coherent authorial boundary between Marius's external victories and
+Baillie's next episode concerning Marius's domestic political violence.
+
+All three controlling 300-dpi page images, `page-319.jpg` through
+`page-321.jpg`, governed the transcription and were visually inspected at
+original detail, including both partial-page boundaries, every page and
+column transition, names, numbers, and all ten included verbal marginalia.
+The repeated catchword at the pp. 289/290 transition was omitted and
+`Secundum` placed wholly after the p. 290 synchronized marker. The repeated
+catchword at the pp. 290/291 transition was likewise omitted and `duo` placed
+wholly after the p. 291 marker in both files. OCR served only as a reading
+aid. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1233,6 +1264,8 @@ have not been modernized or endorsed.
 - `parts/part-50-book-01-chapter-12-question-09-english.md`
 - `parts/part-51-book-01-chapter-13a-aristobulus-to-pompeys-settlement-latin.txt`
 - `parts/part-51-book-01-chapter-13a-aristobulus-to-pompeys-settlement-english.md`
+- `parts/part-52-book-01-chapter-13b-roman-expansion-to-marius-and-the-cimbri-latin.txt`
+- `parts/part-52-book-01-chapter-13b-roman-expansion-to-marius-and-the-cimbri-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1246,7 +1279,7 @@ three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
 eight for Part 42, five for Part 43, eleven for Part 44, four for Part 45,
 eight for Part 46, seven each for Parts 47 and 48, eight for Part 49, and five
-for Part 50, and three for Part 51. There are one hundred two current files in
-fifty-one Latin/English pairs, containing 335 synchronized source markers per
-language (670 marker occurrences across all one hundred two files). The files
-remain AI-assisted and unreviewed.
+for Part 50, and three each for Parts 51 and 52. There are one hundred four
+current files in fifty-two Latin/English pairs, containing 338 synchronized
+source markers per language (676 marker occurrences across all one hundred
+four files). The files remain AI-assisted and unreviewed.

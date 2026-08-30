@@ -41,8 +41,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
 - IA scans `n236`–`n245`: Part 04, Book I, Chapter V, printed pp. 19–28.
 - IA scans `n245`–`n248`: Part 05, the sixth question of Book I (printed as
   Chapter VII), printed pp. 28–31.
-- The next unit begins at the excluded `CAP. VII. De comparatione authoritatis
-  Papae et Concilii generalis` heading on printed p. 32 / IA scan `n249`.
+- IA scans `n249`–`n253`: Part 06, Book I, Chapter VII, printed pp. 32–36.
+- The next unit begins at the excluded `LIBER SECUNDUS. DE ECCLESIA. CAP. I.
+  De Ecclesiae definitione` heading on the lower portion of printed p. 36 / IA
+  scan `n253`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -132,5 +134,18 @@ the completion of argument 7 on printed p. 31 / IA scan `n248`.
   the sixth question; the Latin retains both features, while the filenames and
   translation metadata identify the logical chapter as VI.
 
-The next unit begins at the excluded `CAP. VII. De comparatione authoritatis
-Papae et Concilii generalis` heading on printed p. 32 / IA scan `n249`.
+**Part 06 is complete as an AI-assisted working draft.** It contains Book I,
+Chapter VII, comparing the authority of the Pope and a general council. It
+begins at the Chapter VII heading on printed p. 32 / IA scan `n249` and ends
+on the upper portion of printed p. 36 / IA scan `n253` with the final sentence
+of argument 11. The Book II heading and text on that shared page are excluded.
+
+- `parts/part-06-book-01-chapter-07-latin.txt`
+- `parts/part-06-book-01-chapter-07-english.md`
+- Both files contain five synchronized source markers for printed pp. 32–36 /
+  IA scans `n249`–`n253`.
+- All eleven numbered arguments and replies are present.
+
+The next unit begins at the excluded `LIBER SECUNDUS. DE ECCLESIA. CAP. I. De
+Ecclesiae definitione` heading on the lower portion of printed p. 36 / IA scan
+`n253`.

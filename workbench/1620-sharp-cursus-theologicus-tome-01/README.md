@@ -78,11 +78,12 @@ topic on Scripture.
 ## Completed continuation and current boundary
 
 The paired continuation now runs without a content gap from the opening of
-the tome through the complete positive-case division of `CONTROVERSIA IX. De
-Perfectione Scripturae` (the meanings of tradition, state of the controversy,
-arguments, and testimonies of the Fathers). Units that share a numbered column
-meet at the printed internal heading in that column; neither pair duplicates
-matter across that heading.
+the tome through Objection 5 in the objections division of `CONTROVERSIA IX.
+De Perfectione Scripturae`. The continuation includes the meanings of
+tradition, state of the controversy, positive arguments, testimonies of the
+Fathers, and the first five objections with their responses. Units that share
+a numbered column meet at the printed internal heading or objection boundary
+in that column; neither pair duplicates matter across the join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -96,15 +97,18 @@ matter across that heading.
 | 09 | Controversy VIII: interpretation | 82–120 | 00055–00074 |
 | 10 | Question IX: necessity | 121–125 | 00075–00077 |
 | 11 | Controversy IX: perfection, positive case and patristic testimonies | 125–136 | 00077–00082 |
+| 12 | Controversy IX: perfection, objections 1–5 | 136–151 | 00082–00090 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
 with the same part number and descriptive stem.
 
-**Exact resume boundary:** Part 11 ends in column 136 at BSB frame 00082 with
-the interlinear gloss's sentence `multa illa quae Christus tunc reticuit
-neminem habere determinare.` The heading `OBIECTIONES` begins later in the
-same column and is excluded. That heading is the next untranscribed text.
+**Exact resume boundary:** Part 12 ends in column 151 at BSB frame 00090 with
+Augustine's sentence `Electa, inquit, sunt ut scriberentur, quae saluti
+credentium sufficere visa sunt.` `Obiect. 6. Ioh. ult. v. ult.` begins later in
+the same column and is excluded. That objection is the next untranscribed
+text. Part 12 occupies 15.5 columns, approximately 0.98% of Tome I's 1,574
+numbered columns.
 
 ## Editorial method and status
 
@@ -134,3 +138,18 @@ Both files are AI-assisted and unreviewed.
 - The small Greek types are legible but should receive specialist collation
   before publication. They have been normalized to standard Unicode accents
   without changing the words represented by the witness.
+
+## Printed anomalies in Part 12
+
+- In Objection 1, column 136 prints `non posterius` twice. Both the Latin and
+  English retain the duplicated “not the latter”; the apparent correction
+  `non prius` / “not the former” is not silently introduced.
+- The objection between Objections 2 and 4 is numbered `Obiect. 6` in column
+  140, and another Objection 6 begins in column 151. The first apparent error
+  for Objection 3 is retained in both paired files.
+- Within the objection apparently intended as Objection 3, the printed
+  instance sequence proceeds from 10 to 12 and then returns to 11. The order
+  is retained.
+- Column 148 prints the locators `Ioh. 21.1. & 26. 1. ad Cor. 26.2.`. They are
+  retained, while the English notes that John 20:1, 26 and 1 Corinthians 16:2
+  may have been intended.

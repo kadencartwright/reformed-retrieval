@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–42.
+checked page by page against canvases 9–46.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -131,16 +131,21 @@ made here for the Latin transcription, witness images, or metadata.
   patristic testimony, Pelagianism, and disagreements among Reformed
   theologians; it ends with Twisse's outline of the three-book treatise on p.
   34, immediately before Book I.
-- BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
-  p. 35 after the thirty-four-page preface complex.
+- BSB canvases 43–46: Part 17 contains the complete Book I, Part I, `SECTIO
+  PRIMA`, beginning on printed p. 35 with the full displayed heading
+  `VINDICIARUM GRATIAE, POTESTATIS, AC PROVIDENTIAE DEI, LIBRI PRIMI. PARS
+  PRIMA, DE PRAEDESTINATIONE` and ending in the upper portion of printed p. 38
+  immediately before `SECTIO SECUNDA`.
+- BSB canvas 46, lower portion: Book I, Part I, `SECTIO SECUNDA` begins on
+  shared printed p. 38.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
 - BSB canvases 809–816: terminal index and binding matter.
 
 The preliminary and body boundaries above were inspected in the continuous
-canvas sequence through canvas 43. Part 01 has seventeen synchronized
+canvas sequence through canvas 46. Part 01 has seventeen synchronized
 printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–43. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–46. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -395,6 +400,28 @@ grammatically unexpected `paratam` is not silently emended.
 - Latin: `parts/part-16-preface-section-13-doctrinal-sample-and-patristic-testimony-latin.txt`
 - English: `parts/part-16-preface-section-13-doctrinal-sample-and-patristic-testimony-english.md`
 
-The next untranslated unit begins with `VINDICIARUM GRATIAE, POTESTATIS, AC
-PROVIDENTIAE DEI, LIBRI PRIMI. PARS PRIMA, DE PRAEDESTINATIONE` on printed p.
-35 / BSB canvas 43 and the centered `SECTIO PRIMA`.
+**Part 17 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete Book I, Part I, `SECTIO PRIMA`, beginning on
+printed p. 35 / BSB canvas 43 with the witness's full displayed heading
+`VINDICIARUM GRATIAE, POTESTATIS, AC PROVIDENTIAE DEI, LIBRI PRIMI. PARS
+PRIMA, DE PRAEDESTINATIONE`. It preserves Perkins's definition, Arminius's
+four observations, and Twisse's replies on the object and genus of
+predestination, predestination in Christ, present-life blessings, divine
+counsel, and temporal equality. It continues through the upper portion of
+printed p. 38 / canvas 46 and ends after `De ultimo praedestinationis fine,
+quae dicenda habes edissere`, immediately before the centered `SECTIO
+SECUNDA`. The pair has four identical source markers; the p. 35–36 split word
+`ju-` / `stificare` is normalized as `justificare` after the p. 36 marker, and
+the p. 37–38 marker preserves the witness's split Thomistic citation. Greek
+`πολλοί μαθηταί κρείττονες διδασκάλων`, `προγεγραμμένους εἰς κρίσιν`,
+`πρόθεσιν`, `βουλὴν τοῦ θελήματος Θεοῦ`, and `πρόγνωσις`, together with both
+substantive marginal notes, are retained. The witness forms `lineae`,
+`phrases`, and `in Iesus Christo` are not silently emended.
+
+- Latin: `parts/part-17-book-01-part-01-section-01-definition-of-predestination-latin.txt`
+- English: `parts/part-17-book-01-part-01-section-01-definition-of-predestination-english.md`
+
+The next untranslated unit begins with the centered `SECTIO SECUNDA` and
+Perkins's proposition `Praedestinationis ultimus finis est declaratio gloriae
+Dei, in illius partim misericordia, partim justitia` in the lower portion of
+printed p. 38 / BSB canvas 46.

@@ -1286,3 +1286,61 @@ argumentative structures.
 
 - Latin: `parts/part-52-chapter-13k-latin.txt`
 - English: `parts/part-52-chapter-13k-english.md`
+
+**Part 53 is complete as a scan-audited working draft.** It resumes near the
+top of shared printed p. 606 / PDF 655 at the lemma `ROM. 7.17.`, without
+repeating Part 52's closing conclusion about pagans. It contains three
+complete questions: whether all sins of the regenerate are sins of infirmity;
+whether the regenerate can sin by deliberate counsel, with their whole
+endeavor and full consent; and whether the Spirit's resistance to the flesh
+diminishes every sin of the regenerate. It ends within printed p. 617 / PDF
+666 after the seventh and final assertion and the complete reply to the
+Remonstrant objection about contrary wills. The following question whether
+grave sins extinguish the Holy Spirit and faith is excluded and forms the
+exact restart for Part 54. The pair has twelve byte-identical synchronized
+markers for partial pp. 606 and 617 and complete pp. 607–616. A page-by-page
+image audit against the controlling KBNL/UvA Google Books images covered all
+twelve included frames, both shared-page boundaries, every page join, the
+lemma, all three questions and their complete numbered and assertion
+structures, biblical and polemical citations, Greek, and the absence of Hebrew
+and substantive marginalia. The printed errata has no applicable correction.
+The split words `labes`, `Peccatur`, `voluntate`, `ignis`, `adulterium`,
+`remissior`, and `voluntarium` are joined with their new-page markers before
+the whole words and their English equivalents. The witness's `cum avaritiâ
+consensu`, the Greek `προαιρέσει`, `ἁμαρτίαν ποιεῖν οὐ δύναται`,
+`ἀναισθησίᾳ`, `ἀνομίας`, and `ὁρμή`, and the difficult or irregular citations
+are retained or disclosed rather than silently regularized. The English
+follows the Latin at clause level while preserving all three questions, the
+distinctions, objections, analogies, and seven-assertion structure.
+
+- Latin: `parts/part-53-chapter-13l-latin.txt`
+- English: `parts/part-53-chapter-13l-english.md`
+
+**Part 54 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 617 / PDF 666 at the question whether grave sins extinguish
+the Holy Spirit and faith, without repeating Part 53's closing reply about the
+spiritual struggle. It contains five complete questions: the survival of
+habitual faith under atrocious sins; the intrinsic and extrinsic principles
+of perseverance; whether an apostate can rise again by bare knowledge; whether
+God abandons believers before they abandon him; and whether justly
+excommunicated regenerate persons remain believers and children of God. It
+ends on printed p. 624 / PDF 673 after the second and final argument of the
+last question, completing Chapter XIII. The heading and opening of Chapter XIV
+are excluded and form the exact restart for Part 55. The pair has eight
+byte-identical synchronized markers for partial pp. 617 and 624 and complete
+pp. 618–623. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all eight included frames, both shared-page
+boundaries, every page join, all five questions and their complete assertion
+and numbered structures, biblical, Calvinian, and polemical citations, Greek,
+and the absence of Hebrew and substantive marginalia. The printed errata has
+no applicable correction. The split words `æternam` and `voluntatis` are
+joined with their new-page markers before the whole words and their English
+equivalents. The witness's contrast between `necessitate consequentis` and
+`necessitate consequentiæ`, its visible `Ezech. 11.14.`, the Greek `εὐδοκίας`,
+`παῤῥησία`, and `πληροφορία`, and the difficult or irregular citations are
+retained or disclosed rather than silently regularized. The English follows
+the Latin at clause level while preserving the complete five-question
+structure and Chapter XIII's clean endpoint.
+
+- Latin: `parts/part-54-chapter-13m-latin.txt`
+- English: `parts/part-54-chapter-13m-english.md`

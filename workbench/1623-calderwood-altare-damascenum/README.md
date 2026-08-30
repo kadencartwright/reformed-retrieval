@@ -66,9 +66,9 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–29 contain none of the appended documents. Parts 01–26 do not
+prose. Parts 01–30 contain none of the appended documents. Parts 01–26 do not
 reach the embedded Tilenus refutation; Part 27 opens Chapter V by reporting
-and quoting Tilenus’s claims before Calderwood answers them. Parts 07–29 also
+and quoting Tilenus’s claims before Calderwood answers them. Parts 07–30 also
 include long passages that Calderwood expressly quotes from Thomas Brightman,
 Tilenus, Eusebius, Scaliger, Luther, German theologians, Francis Bacon,
 English jurists,
@@ -90,13 +90,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-nine numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the third of Chapter V’s four announced issues,
-ending in the upper portion of printed p. 318, but
+Thirty numbered Latin/English units are present. They now carry the main text
+from printed p. 1 through all four of Chapter V’s announced issues, ending in
+the upper portion of printed p. 319, but
 the inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
-This update does not silently clear those flags: Parts 09–29 begin exactly at
+This update does not silently clear those flags: Parts 09–30 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -130,6 +130,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 27 | Chapter V: English episcopacy, German superintendents, and the royal derivation of jurisdiction | printed pp. 303–310 / PDFs 315–322, last boundary page partial | 8 paired and image-audited |
 | 28 | Chapter V: singular exercise of episcopal jurisdiction | printed pp. 310–313 / PDFs 322–325, both boundary pages partial | 4 paired and image-audited |
 | 29 | Chapter V: delegation of episcopal jurisdiction | printed pp. 313–318 / PDFs 325–330, both boundary pages partial | 6 paired and image-audited |
+| 30 | Chapter V: extensive episcopal power and oversized dioceses | printed pp. 318–319 / PDFs 330–331, both boundary pages partial | 2 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -1114,7 +1115,50 @@ and both boundaries.
 - Latin: `parts/part-29-chapter-05-deputation-of-episcopal-jurisdiction-latin.txt`
 - English: `parts/part-29-chapter-05-deputation-of-episcopal-jurisdiction-english.md`
 
-All twenty-nine units remain **AI-assisted and unreviewed**. They require
+### Part 30 bounds and evidence
+
+Part 30 resumes exactly after Part 29’s `Atque haec de deputatione
+jurisdictionis` in the upper portion of printed p. 318 / IA leaf 330 / PDF p.
+330 at:
+
+`Quod ad quartum attinet, extensivam nempe Episcoporum potestatem`
+
+It contains the fourth and last of Chapter V’s four announced issues,
+extensive episcopal power. Calderwood argues that English dioceses are too
+large for either ordinary common presbyteral government or extraordinary
+provincial government to be maintained. He quotes Parker on the excessive
+circuit of English dioceses, Camden on York’s absorption of seven neighboring
+bishoprics and the size of Lincoln, Augustine on the advantage of small
+neighboring realms, Lyndwood on the practical difficulty of obtaining chrism,
+Gregory’s directions to Augustine on placing bishops close enough to assemble
+for ordinations, and Camden’s enumeration of English provinces and sees. All
+visible marginal citations and quotation boundaries are retained.
+
+Part 30 ends in the upper portion of printed p. 319 / IA leaf 331 / PDF p. 331
+at:
+
+`De incommodis & injuriis extensivae potestatis egimus capite superiori.`
+
+The immediately following paragraph, `Sunt & alia praeter quatuor ista
+observanda in Episcopatu Anglicano`, explicitly moves beyond the four announced
+issues and is excluded. This gives Part 30 two identical Latin and English
+source markers and seven byte-identical marginalia records. At the p. 318/319
+boundary the printer-divided `ci-` / `tius` is joined, with the incoming marker
+placed before the complete Latin word and the corresponding English phrase;
+the p. 318 catchword `citius` is omitted without duplication. The anomalous
+1623 readings `extaordinarium` and `Licolniensem` are retained in the Latin and
+translated by their evident senses.
+
+The controlling Internet Archive images for IA leaves 330–331, corresponding
+to access-PDF pp. 330–331, were freshly acquired at full resolution and
+inspected against both files. The IA OCR and the 1708 Leiden reset assisted
+reading only; the 1623 images governed wording, typography, quotations,
+citations, the page join, and both boundaries.
+
+- Latin: `parts/part-30-chapter-05-extensive-episcopal-power-latin.txt`
+- English: `parts/part-30-chapter-05-extensive-episcopal-power-english.md`
+
+All thirty units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

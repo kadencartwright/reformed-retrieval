@@ -69,6 +69,7 @@ same scan can legitimately close one part and open the next:
 | 24 | XXIV | 137–142 | 93–98 | `Atque hucusque totam Prædestinationis doctrinam` through the division of opposing arguments and the first three objections against predestination—concerning the decree's absoluteness, universal saving will, and universal redemption—and their answers, ending `nec veritatis appositæ lumen, nedum oppositæ limam aut collidentis aut elidentis impetum ferre possint` before Lecture XXV |
 | 25 | XXV | 142–148 | 98–104 | `Nunc & quartam objectionem in medium afferamus` through the fourth and fifth objections in the first class, the transition to the alleged impelling causes of election, and the arguments from foreseen faith, works, and Christ's merit, ending `sed ejus potiùs effectum sive consequens, ut ex se manifestum est` before Lecture XXVI |
 | 26 | XXVI | 148–151 | 104–107 | `Atque hactenus rejecta argumenta, pro falsis Electionis nostræ causis προηγουμέναις allata` through replies concerning Romans 9, the alleged impelling cause of reprobation, Hosea 13:9, unbelief, and divine hatred, followed by the transition to objections concerning the means of execution and the recalled objection about Christ's mediation, ending `nihil hîc repetemus in præsentiâ` before Lecture XXVII |
+| 27 | XXVII | 151–156 | 107–112 | `De Reprobatione verò, quandoquidem in ejus executione peccatum præcipuè locum habeat` through the objection that willing an end entails willing its means, the threefold divine will or providence, God's sustaining, permitting, directing, and ordering of sinful acts, the distinction between sin's relation to God and to its creaturely author, and the three senses of sin, ending `quibus gratiam haud mediocrem pro hâc tam utili operâ industriâque nos debituros profitemur` before Lecture XXVIII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -134,8 +135,9 @@ English translation:
 | 24 | Objections against predestination | [`part-24-praelection-24-objections-against-predestination-latin.txt`](parts/part-24-praelection-24-objections-against-predestination-latin.txt) | [`part-24-praelection-24-objections-against-predestination-english.md`](parts/part-24-praelection-24-objections-against-predestination-english.md) |
 | 25 | Immutability and the alleged causes of election | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt) | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md) |
 | 26 | The alleged impelling cause of reprobation | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt) | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md) |
+| 27 | The permission and ordering of sin | [`part-27-praelection-27-permission-and-ordering-of-sin-latin.txt`](parts/part-27-praelection-27-permission-and-ordering-of-sin-latin.txt) | [`part-27-praelection-27-permission-and-ordering-of-sin-english.md`](parts/part-27-praelection-27-permission-and-ordering-of-sin-english.md) |
 
-The completed sequence now extends through Lecture XXVI. Its successive subjects
+The completed sequence now extends through Lecture XXVII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -318,6 +320,19 @@ lecture closes by explaining that condemnation necessarily presupposes sin
 even though sin does not move God to make the decree, interpreting God's
 hatred of Esau as rejection rather than passion, and briefly transitioning
 to the third class of objections before Lecture XXVII.
+Lecture XXVII answers the principal objection from the means appointed to
+reprobation's execution: that God's willing the just condemnation of sinners
+would make him will, decree, or author sin. It distinguishes three modes of
+the divine will or providence—good pleasure, sustaining dispensation, and
+permission—and subdivides the last into permission, the presentation of
+occasions, and the ordering of evil works to good ends. It explains God's
+ordinary concurrence with the creature's being and action while locating the
+action's defect in the creature, then distinguishes God's approving will from
+his permissive, directing, and ordering will. Its final analysis considers
+sin concretely in its two relations, to God as permitting and ordering it and
+to the creature as committing it, and materially, formally, and concretely,
+ending before Lecture XXVIII turns to the immutable certainty of election and
+reprobation.
 
 ## Validation
 

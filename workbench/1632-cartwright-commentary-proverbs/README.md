@@ -619,6 +619,32 @@ requiring qualified human review.
 - `parts/part-20-chapter-20c-latin.txt`
 - `parts/part-20-chapter-20c-english.md`
 
-The next unit begins with `V. 13. Ne diligas somnum, ne pauper fias: aperi
-oculos tuos, & satiator pane.` in the right column of shared PDF 437 / printed
-column 849; restart there, excluding the final verse 12 prose above it.
+**Part 20d is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `V. 13. Ne diligas somnum, ne
+pauper fias: aperi oculos tuos, & satiator pane.` in the right column of shared
+PDF 437 / printed column 849 through the final prose of verse 15 on PDF 440 /
+printed column 854. It stops immediately before `Vers. 16.` in that same left
+column. Latin and English have four byte-identical source markers (PDF
+437–440; synchronized printed columns 848–849 through 854–855) and retain all
+three verse lemmata, full prose, Hebrew, Greek, citations, bracketed wording,
+and printed irregularities. The complete files contain 1,354 Latin-file and
+1,949 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 437–440, was inspected at original detail in both-column
+order. The shared PDF-437 marker is intentional: Part 20c ends above `V. 13.`,
+while Part 20d begins with that lemma below it, so no verse 12 prose overlaps
+and none is omitted. The final PDF-440 marker includes only the concluding
+prose of verse 15 above `Vers. 16.`; no verse 16 material is imported.
+Page-turn catchwords `vires`, `partes`, and `veluti` were excluded rather than
+duplicated, while witness forms including `subeundum`, `praefidentes`,
+`ἐπὶ τὸ πολὺ`, and `ζωγραφεῖται` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-20-chapter-20d-latin.txt`
+- `parts/part-20-chapter-20d-english.md`
+
+The next unit begins with `Vers. 16. Accipe vestem ejus qui fidejubet pro
+alieno, & pignus ab eo accipe, qui fidejubet pro peregrinis.` in the left
+column of shared PDF 440 / printed column 854; restart there, excluding the
+final verse 15 prose above it.

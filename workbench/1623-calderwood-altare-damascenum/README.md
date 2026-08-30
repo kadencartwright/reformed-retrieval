@@ -87,12 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Eighteen numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the lower portion of printed p. 259, but the
+Nineteen numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the upper portion of printed p. 267, but the
 inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–18 begin exactly at their audited predecessor boundaries and do not
+Parts 09–19 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -115,6 +115,7 @@ alter either inherited part.
 | 16 | Chapter IV: argument 6, ordination and the equality of ministerial power | printed pp. 215–243 / PDFs 227–255, both boundary pages partial | 29 paired and image-audited |
 | 17 | Chapter IV: argument 6, jurisdiction and presbyteral government | printed pp. 243–252 / PDFs 255–264, both boundary pages partial | 10 paired and image-checked |
 | 18 | Chapter IV: argument 6, Jerome on common presbyteral government | printed pp. 252–259 / PDFs 264–271, both boundary pages partial | 8 paired and image-audited |
+| 19 | Chapter IV: argument 6, early bishops as presidents in presbyteries | printed pp. 259–267 / PDFs 271–279, both boundary pages partial | 9 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -623,7 +624,52 @@ boundaries.
 - Latin: `parts/part-18-chapter-04-argument-06-jerome-on-presbyteral-government-latin.txt`
 - English: `parts/part-18-chapter-04-argument-06-jerome-on-presbyteral-government-english.md`
 
-All eighteen units remain **AI-assisted and unreviewed**. They require complete
+### Part 19 bounds and evidence
+
+Part 19 begins exactly where Part 18 ends, in the lower portion of shared
+printed p. 259 / IA leaf 271 / PDF p. 271, at:
+
+`Quod ad rem ipsam attinet, cum dicunt in ipsis primordiis non`
+
+It turns from Jerome's position to the historical question itself. Calderwood
+rejects the claim that diocesan bishops became necessary only after the
+apostles departed and were their designated successors; argues instead that
+presbyters were the apostles' first appointments and final custodians of
+particular churches; and treats the earliest post-apostolic bishops as
+permanent presidents in presbyteries rather than princes over them. The unit
+then assembles evidence from Pseudo-Ignatius, Irenaeus, Origen, Tertullian,
+Cyprian, Jerome, Gregory, and early councils to argue that presbyters sat and
+judged with their bishop. It retains the attributed quotations, all visible
+marginal citations, and the Greek terms and passages, including
+`πρωτοπρεσβύτεροι`, `σύμβουλοι καὶ συνέδροι`, the accusation against
+Chrysostom, and `κανονικὴ ψῆφος`.
+
+Part 19 ends in the upper portion of printed p. 267 / IA leaf 279 / PDF p. 279
+at:
+
+`Concilium tamen istud recentius est.`
+
+The immediately following `A presbyterorum suffragiis in Conciliis
+Provincialibus` begins a distinct argument from presbyters' votes in
+provincial councils and is excluded. This gives Part 19 nine identical Latin
+and English source markers, p. 259 partial through p. 267 partial, and eight
+byte-identical marginalia records. Printer-divided words at the p. 260/261,
+261/262, 263/264, 265/266, and 266/267 boundaries are joined; every incoming
+marker is placed before the complete Latin word and the corresponding English
+word or phrase.
+
+The controlling access-PDF images for PDFs 271–279 were freshly rendered and
+inspected page by page against both files, including a higher-resolution check
+of the dense Greek and marginalia on PDFs 274–275. The access PDF and its
+OCR/scandata aids match the identity and hashes documented under Part 16. The
+IA OCR and 1708 Leiden reset assisted reading only; the 1623 images governed
+wording, typography, quotations, citations, Greek, joins, and both
+boundaries.
+
+- Latin: `parts/part-19-chapter-04-argument-06-early-presbyteries-latin.txt`
+- English: `parts/part-19-chapter-04-argument-06-early-presbyteries-english.md`
+
+All nineteen units remain **AI-assisted and unreviewed**. They require complete
 comparison by a qualified Latin editor before quotation or publication.
 
 ## Licensing

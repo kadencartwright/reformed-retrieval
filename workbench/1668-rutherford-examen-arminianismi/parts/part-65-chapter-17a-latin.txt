@@ -1,0 +1,455 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumseptimum, De Synodis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within shared printed p. 692 / PDF 741 at
+the heading and opening of Chapter XVII, without repeating Chapter XVI's
+closing Whitaker analogy. It contains the eight preliminary considerations on
+synods, three assertions concerning general councils and synodical authority,
+and the ensuing defense of authoritative synodical jurisdiction. It ends
+within shared printed p. 710 after denying that the qualified authority of
+synods should be abolished. The following question whether synods are useful
+and suitable means for deciding controversies is excluded and forms the exact
+restart for Part 66. Printer line-end and page-end divisions have been joined;
+catchwords have been omitted, and each new-page marker precedes the whole word
+at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. The witness's `Schola
+Parisiensis`, `Oecumenico`, `Occam`, `Peverius`, and difficult or irregular
+forms and citations are retained rather than silently regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 692 | PDF p. 741 | begins at CAPUT XVII]
+
+CAPUT XVII.
+
+DE SYNODIS.
+
+ACTOR. 15.6.
+
+Congregati sunt igitur Apostoli & Presbyteri, ut dispicerent de hâc re.
+
+Habemus hic illustre testimonium pro Authoritate Conciliorum. In quâ Quæstione
+peccatum est, tùm à Pontificiis tùm Separatistis; dùm illi Conciliorum
+authoritatem supra modum extollunt, ἀναμαρτησίαν ipsis attribuendo; hi vero
+eandem deprimunt infra, quam par est. Nos mediâ viâ incedentes, inquirimus
+quantum Conciliis tribuendum sit, dùm Arminiani omnem necessitatem Conciliorum
+tollunt. Undè has considerationes, loco distinctionum præmittimus.
+
+1. Constitutiones Synodorum intelliguntur
+
+[1668 KBNL/UvA witness | logical printed p. 693 | PDF p. 742 | split word joined: obligare]
+
+obligare, vel authoritativè, quasi mandata Dei; vel charitativè, quasi consilia
+& hortationes.
+
+2. Amica hortatio seu consilium obligat, tùm propter intrinsecam bonitatem in
+objecto seu materia, eò quod fratrum consilium sit ipsum Verbum Dei; tùm
+propter authoritatem amici consulentis & hortantis; Omnis enim consulens, qua
+talis, est superior; Omnibus autem superioribus, juxta Mandatum quintum
+Decalogi, obediendum.
+
+3. Indè duplex superioritas agnoscenda est in quinto Mandato Decalogi; Alia est
+Dominii & Jurisdictionis; alia est Reverentiæ & Donorum. Prior superioritas est
+subjectum inadæquatum & angustius quinti Mandati.
+
+4. Omnes amici, fratres, æquales, præditi majore gratiâ, experientiâ & lumine,
+quatenus ex Dei Verbo æquum & bonum nobis consulunt, agnoscendi sunt pro
+superioribus. Siquidem David repudiasset consilium & suasionem Abigailis ab
+inordinatâ vindictâ ipsum dehortantis, Dei etiam consilium repudiasset & in
+quintum Mandatum Decalogi peccasset, non minus quam si summus Pontifex aut
+Propheta Dei, illud idem pro authoritate propheticâ mandasset, quod Abigail
+tantùm privatim suaserat. Verùm hoc discrimine, quod privati suasores sunt
+superiores superioritate Reverentiæ, non Jurisdictionis, neque habent
+potestatem Censurarum
+
+[1668 KBNL/UvA witness | logical printed p. 694 | PDF p. 743 | split word joined: Ecclesiasticarum]
+
+Ecclesiasticarum, quas exercerent in suorum consiliorum & hortationum
+spretores & contemptores; quam tamen potestatem habet Synodus & Ecclesia.
+
+5. Distinguendum inter potestatem judicandi seu aptitudinem, & jus
+Ecclesiasticum ad judicandum. Presbyterium aliquod inferius, jus habet
+judicandi de multis rebus, de quibus actu judicare non potest propter defectum
+donorum; ideoque tales causæ Synodis, vel Provincialibus, vel Nationalibus,
+committendæ sunt.
+
+6. Licet regimen Ecclesiæ per Synodos sit juris positivi, tamen hoc fundamento
+substrato, quod Dominus Salvator cuilibet Ecclesiæ particulari, potestatem
+clavium commiserit, Regimen Ecclesiarum unitarum, vel in Provinciâ, vel in
+Natione, est juris naturæ.
+
+7. Necessariæ sunt Synodi Ecclesiæ ad benè esse, semperque sunt in Ecclesiâ
+Visibili Synodi, vel ex paucioribus, ut in Ecclesiâ Parochiali, vel ex pluribus
+conflatæ, ut in Ecclesiâ Provinciali, Nationali, vel in Concilio Generali &
+Oecumenico: Nam magis & minus non variant speciem. Et quo argumento probatur,
+licitum esse Synodum Parochialem congregari, eodem etiam demonstratur, licitam
+esse Synodum Generalem totius Ecclesiæ Catholicæ Visibilis.
+
+8. Quicunque concedit consociationem authoritatum Ecclesiarum particularium,
+is necesse
+
+[1668 KBNL/UvA witness | logical printed p. 695 | PDF p. 744]
+
+est fateatur authoritatem Synodorum, tùm Provincialium, tùm Nationalium, supra
+Ecclesias particulares.
+
+Hinc nostra prima Assertio. Generale Concilium, seu Synodus Generalis est
+congregatio Pastorum, Doctorum & Seniorum, nomine & authoritate Jesu Christi,
+facta ex omnibus Visibilibus Ecclesiis, ad unum aliquem locum, ad tractandum ea
+quæ concernunt Ecclesiæ fidem, mores, & εὐταξίαν seu Disciplinæ rectam
+administrationem. De hâc definitione videri potest Jacobus de Almain, de
+potestate Eccles. & Laicâ cap. 15. nec non Joh. Gerson. tractatu de potestate
+Ecclesiæ, qui eandem tradunt definitionem Concilii, nisi quod velint Synodum
+Generalem constare ex iis tantùm, qui sunt in statu Hierarchico, & congregandam
+esse nomine & authoritate Pontificis Romani: Quamvis Almain concedat Concilium
+Generale congregari posse, nullâ interveniente Authoritate Pontificis Romani
+in tribus casibus. 1. Quandò Papa est naturalitèr mortuus, vel civilitèr, i.e.
+excommunicatus ob crimen aut hæresin aliquam; quia notum est (inquit) sedem
+Apostolicam duos annos vacasse. 2. Quandò Papa aversus est & Reformationem
+recusat. 3. Quandò designata fuerunt tempus & locus à proximâ Synodo Generali;
+uti factum in Concilio Basiliensi.
+
+Fatentur Pontificii ex illo Matth. 18. Dic
+
+[1668 KBNL/UvA witness | logical printed p. 696 | PDF p. 745 | split word joined: Ecclesiæ]
+
+Ecclesiæ, rectè probari Concilium Generale esse juris divini. 1. Quia Concilium est
+medium salvandi & ædificandi omnes, tùm Pastores, tùm Apostolos. 2. Quia
+Apostoli, quamvis prophetando & scripturam Canonicam scribendo, θεόπνευστοι &
+infallibiles fuerunt; alias tamen errare potuerunt. Et si Petrus Judaismo
+pertinaciter adhæsisset, neque Paulo aut Ecclesiæ corripienti obtemperasset,
+proculdubiò excommunicatus fuisset. 3. Per Ecclesiam Matth. 18. non possumus
+intelligere solos Prælatos & Episcopos, inquit Schola Parisiensis de Potestate
+Ecclesiæ. pag. 17. quia Christus illis verbis alloquitur Petrum, Prælatum. Non
+potest autem Petrus (inquiunt Almain & Gerson) & accusator, & judex, & testis
+esse. Ergo existimant ipsum Petrum obligatum esse ad obtemperandum Ecclesiæ.
+4. Data est potestas Clavium immediatè à Christo, omnibus Rectoribus Ecclesiæ
+Catholicæ Visibilis. Ergo, exercitium hujus potestatis. Etsi impossibile sit
+Ecclesiæ Christianæ, necessitate quadam physicâ, propter bella in Orbe
+Christiano invalescentia, aut alia impedimenta; est tamen moralitèr licitum:
+multa enim sunt inconvenientia, adeoque hic & nunc inexpedientia, ex pravitate
+humanæ naturæ quæ tamen moraliter licita sunt.
+
+Assert. 2. Quilibet particularis Pastor, etiam extra Synodum, habet Potestatem
+Jurisdictionis in prædicando & determinando veritatem
+
+[1668 KBNL/UvA witness | logical printed p. 697 | PDF p. 746 | split word joined: secundùm]
+
+secundùm Dei Verbum. Jer. 1.10. Vide, præficio te, hodierno die, gentibus ipsis
+& regnis, ad extirpandum, & demoliendum, & ad perdendum, & ad destruendum; ad
+ædificandum, & ad plantandum. Ecce, præfectura & potestas tribuitur uni certo
+Pastori, separato ab Ecclesiâ. 1 Tim. 6.17. Iis qui divites sunt in hoc seculo,
+denuncia ne efferantur animo. 2 Tim. 4.1. Obtestor igitur ego te, in conspectu
+Dei &c. prædica sermonem &c. Potuit igitur Paulus, qua Pastor, ante factam
+determinationem Synodicam, Act. 15. prædicando determinare Circumcisionem non
+esse necessariam, & necessariò abstinendum esse à suffocatis, à sanguine, &
+fornicatione. Non tamen habet singularis Pastor plenam potestatem
+Jurisdictionis circa suos actus prædicandi.
+
+1. Quoniam potest Ecclesia justis de causis, ipsum tali potestate privare.
+
+2. Quoniam non potest uti censurâ Excommunicationis in spretores Verbi
+prædicati, nisi interveniente Potestate Jurisdictionis totius Ecclesiæ.
+
+3. Quia ipse solus non potest Synodicè determinare eandem veritatem, quam
+Potestate Pastorali jam antea concionando determinaverat; quia unus singularis
+Pastor non est Synodus. Adeoque Apostolus Jacobus Act. 15.15. tantùm dicere
+potest, Hæc mea est sententia &c. Quamvis igitur illa sententia Jacobi esset ipsum
+
+[1668 KBNL/UvA witness | logical printed p. 698 | PDF p. 747 | split word joined: Verbum]
+
+Verbum, quod Jacobus ut ordinarius Pastor, prædicare potuit; non est tamen
+dogma Synodicum nec Constitutio Ecclesiastica, nisi quatenus ab Ecclesiâ
+Synodicè congregatâ determinatur. Sic Samuel, qua Propheta, potestate immediatâ
+ungendi Davidem in Regem, instructus est: Attamen Samuel, qua membrum Regni
+Israelitici, non habet potestatem, seorsim & separatim à toto regno, ungendi
+Davidem in Regem Hebrone. Illa enim Unctio & Inauguratio Davidis in Regem, non
+potuit fieri, nisi ab universis Ordinibus Regni; non autem ab uno aliquo
+Propheta.
+
+Assert. 3. Est authoritativa Potestas in Synodis, obligandi omnes Ecclesias
+particulares in isto loco, in quo congregata fuit Synodus.
+
+1. Quia si communibus suffragiis Ecclesiæ Synodicè congregatæ, Act. 1.
+Matthias in Apostolatum cooptatur; tum omnes Ecclesiæ particulares obligantur
+habere Matthiam pro Apostolo. Neque potest eludi hæc consequentia, quasi hæc
+Synodus fuerit Apostolica & extraordinaria.
+
+1. Quia Adversarii citant hunc ipsum locum ad stabiliendam potestatem
+ordinariam totius multitudinis, qua cœtus omnium Christianorum jus habet suos
+Pastores eligendi liberis suffragiis, ad secundum usque adventum Christi.
+
+2. Jacobus de Almain, & alii Pontificii, ex hoc loco validè concludunt, Petrum,
+adeoque Papam, subjectum esse Concilio Generali,
+
+[1668 KBNL/UvA witness | logical printed p. 699 | PDF p. 748 | split word joined: quoniam]
+
+quoniam ipse Petrus, Matthiam in Apostolum eligere noluit, nisi consentientibus reliquis
+Apostolis, & universâ Ecclesiâ illic Synodicè congregatâ.
+
+3. Si synodus hæc fuit extraordinaria & Apostolica, quorsùm requiruntur
+suffragia totius multitudinis? Quicquid enim Potestate extraordinariâ &
+Apostolicâ concluditur, illud concludi potest & debet absque consensu, &
+suffragiis multitudinis.
+
+2. Sic etiam Act. 6. Si Apostoli non ordinârint, potestate ordinariâ Synodicâ,
+septem Diaconos, sed Potestate Apostolicâ & extraordinariâ, Quorsùm Electio
+Diaconorum tribuitur universæ multitudini? v. 5. Placuit autem hic sermo toti
+præsenti multitudini, & elegerunt Stephanum, &c.
+
+3. Act. 15. Synodus plurium Ecclesiarum Visibilium, Synodica decreta (quæ cap.
+16.4. vocantur δόγματα τῶν Ἀποστόλων καὶ Πρεσβυτέρων, & quæ aliarum Ecclesiarum
+Visibilium obligativa sunt) statuit v. 18. Synodorum, ergo, jus & authoritas est
+in particulares Ecclesias. Qui dicunt hanc Synodum non esse regulam & exemplar
+Synodorum aliarum, longè falluntur; Eorum ratio nititur triplici privilegio
+hujus Synodi. 1. Quòd fuerit Synodus Apostolica. 2. Quòd adfuerit Synodo
+Spiritus Sanctus. 3. Quòd res Synodicè determinata, fuerit ipsissima Scriptura
+Canonica.
+
+[1668 KBNL/UvA witness | logical printed p. 700 | PDF p. 749]
+
+Sed respondemus 1. Synodum non magis denominandam esse Apostolicam eò, quòd
+Apostoli membra fuerunt hujus Synodi; quàm appellanda est Presbyterialis &
+Ecclesiastica eò, quòd membra hujus Synodi non tantùm fuerunt Apostoli, sed
+etiam Presbyteri, fratres, & (si Adversariis credendum) universa plebs.
+
+2. Hæc responsio via aperta est eludendis omnibus promissionibus, factis
+Pastoribus Verbi & Ecclesiæ Christi, usque ad consummationem mundi. Nam omnes
+hæ promissiones factæ sunt primariò ipsis Apostolis. Hæ enim promissiones,
+(Ecce, vobiscum sum, usque ad consummationem seculi. Item, Mittam ad vos alium
+Paracletum, Spiritum Sanctum, qui ducet vos in omnem veritatem. Item, Dabo
+vobis os & sapientiam, cui resistere non poterunt adversarii. Joan. 16.13.
+Matth. 28.20. Matth. 10.19,20. Lucæ 21.14,15.) impletæ sunt Act. 2. & Act.
+5.29. Act. 4.8,9,10. quando Apostoli repleti sunt Spiritu Sancto. Verùm quoniam
+hæ promissiones, & factæ & impletæ fuerunt in Apostolis; sequitur, stante
+hypothesi Adversariorum, easdem nobis minimè fieri; quippe, qui neque sumus
+Apostoli neque immediatè inspirati, neque Synodicè congregati in nomine
+Christi, promissionem habemus de tali præsentiâ Spiritûs Apostolici, qui &
+promissus & reverâ effusus est in Apostolos. At hoc valdè absurdum est. Idem
+enim Spiritus Sanctus, licèt
+
+[1668 KBNL/UvA witness | logical printed p. 701 | PDF p. 750]
+
+non in eadem mensurâ, qui Apostolis promissus; Universæ Ecclesiæ Catholicæ
+usque ad consummationem seculi, Synodicè congregandæ, & nobis est promissus.
+
+3. Quòd vero Apostoli in hac Synodo, nobis exemplar Synodi Ecclesiasticæ &
+ordinariæ, non autem Apostolicæ & extraordinariæ, typum & vivam effigiem
+præbuerint, ad nostram imitationem usque ad finem mundi, patet ex variis
+circumstantiis in textu. Nam v. 2. Paulus & Barnabas missi sunt tanquam Legati
+Ecclesiæ ad Apostolos & Seniores super hac quæstione. Jam verò Paulus, qua
+Apostolus, universum mysterium Euangelii, per supernaturalem revelationem,
+Gal. 1.12,16,17. perfectè cognovit, Eph. 3.3,4,9. Non ergo, missus fuit, qua
+Apostolus, ad plus cognoscendum per determinationem Synodicam, quam jam antea
+perfectè cognôrat. Missus, ergo, fuit ad Synodum, qua ordinarius Pastor, & ad
+nostram imitationem in talibus casibus perpetuam.
+
+2. Quia congregati sunt Apostoli v. 6. ad dispiciendum de hac re. At vero qua
+Apostoli, adjumento aliquo Synodico, nullo modo indiguerunt; Imò Paulus, Gal.
+1.16,17. dùm edoceretur Mysterium Euangelii, cum carne & sanguine, adeoque cum
+nullâ Synodo, consultavit. Congregati sunt igitur Apostoli, qua ordinarii
+Pastores, ad nostram imitationem.
+
+[1668 KBNL/UvA witness | logical printed p. 702 | PDF p. 751]
+
+3. Dicitur v. 7. Multam fuisse disceptationem & disputationem de hâc re. At
+verò Apostoli, quâ Apostoli, in Scripturâ Canonicâ tradendâ, neque
+disputatione, neque disceptatione, neque cum aliis communicatis consiliis opus
+habuerunt; nam in scribendâ Sacrâ Scripturâ, fuerunt immediatâ irradiatione
+Spiritûs planè infallibilis, illustrati.
+
+4. Sententias suas ordine proponunt in Synodo. Primò Petrus v. 7. deindè
+Paulus & Barnabas v. 12. & omnium postremus Jacobus v. 13. cujus sententiæ
+reliquis exactiori & pleniori, universa Synodus, assistente Spiritu Sancto, v.
+22. acquievit. Atqui si sententias suas, quâ Apostoli proposuissent, nulla
+subesset ratio cur universa Synodus Jacobi sententiæ potiùs acquiesceret, quàm
+Petri, aut Pauli, aut Barnabæ; siquidem par illuminatio & infallibilitas
+Apostolica omnes ex æquo ducebat.
+
+5. Denique decretum Synodi sententia est, cui Apostoli, Presbyteri, Fratres &
+suo etiam loco universa Ecclesia, post operosam disceptationem & veritatis
+indagationem, communicatis hinc indè consiliis, paritèr acquieverunt. At
+nusquam Scripturarum legimus, Fratres vel esse immediatè Θεόπνευστοι, &
+infallibiles, vel collaterales causas cum Apostolis in Canonicâ Scripturâ
+dictitandâ vel exarandâ. Poterant enim ipsi Apostoli, siquidem usi fuissent
+Spiritu Apostolico,
+
+[1668 KBNL/UvA witness | logical printed p. 703 | PDF p. 752]
+
+extra Synodum, dogma hoc de abstinentiâ à sanguine, à suffocatis, & à
+scortatione, credendum proponere omnibus omnino Ecclesiis, non minus quam
+Articulum de Christi morte, de resurrectione; nisi ipsis propositum fuisset,
+ad omnem posteritatem relinquere exemplar Synodorum, & quid faciendum sit in
+Ecclesiâ, ad consummationem seculi, quoties oriuntur Quæstiones controversæ,
+& sententiæ pugnantes de Articulis Fidei; nempè, juxta praxin Apostolorum,
+committendam esse Quæstionem determinationi Synodicæ Pastorum, Doctorum &
+Seniorum.
+
+Primò itaque sic argumentamur. Si secundùm Legis Naturam, nemo potest esse
+Judex in suâ causâ tum appellari & provocari potest à Presbyterio unius
+particularis Congregationis, ad Presbyterium plurium Congregationum Synodicè
+coactarum. Atqui prius verum, Ergo etiam Posterius.
+
+Nam 1. Quando Paulo & Barnabæ magna disputatio fuit cum falsis fratribus de
+necessitate circumcisionis Act. 15.1,2. & ipsi in istâ causâ Judices esse non
+potuerunt, in quorum sententiâ pars adversa vellet acquiescere, provocarunt ad
+Synodum Hierosolymitanam. Quando etiam Ecclesiæ Græcorum & Hebræorum de
+eleemosynis certarunt, & neutri parti in alteram fuit aliqua Jurisdictionis
+Potestas, res delata est ad Synodum ex duodecim Apostolis &
+
+[1668 KBNL/UvA witness | logical printed p. 704 | PDF p. 753 | split word joined: Particularibus]
+
+Particularibus Ecclesiis conflatam, ibique res judicata & determinata est.
+
+2. Alienum est à Sapientiâ & Providentiâ Christi, ut nullum remedium de
+sublevandis tenuioribus & afflictis, quoties opprimuntur à Particularibus
+Ecclesiis, instituerit; quod tamen Christi curæ proprium est, Psal. 72.4.
+Experientia etiam clamat Diotrephen interdùm dominari, & malum servum
+conservos suos excommunicare. Conquestus est Hieronymus contra Luciferanos,
+quod tempore Constantii & Valentini, Arianorum potirentur. Et Athanasius in
+Libro de vita solitariâ, conquestus est, haud alitèr Ecclesiam ab Arianis
+opprimi, quam olim tempore Eliæ oppressa fuit à Sacerdotibus Baaliticis. Et
+Basilius Epist. 17. Nobis jam dicere licet (inquit) quòd hoc tempore, neque sit
+princeps, neque Propheta, neque preces, neque oblatio, neque incensum; Unde
+Author libri, qui inscribitur Onus Ecclesiæ sive Occam, sive alius, cap. 42. Et
+Franciscus Picus Mirandula in Oratione ad Leonem decimum, calamitates Ecclesiæ
+deplorant, neque esse fidem, neque veritatem, neque religionem, neque
+disciplinam; dignitates Ecclesiasticas, Beneficia, Episcopatus, & ipsam
+dignitatem Papalem, & omnia in Ecclesiâ esse venalia. Unde Occam, Jacobus de
+Almain, necessariam esse Synodum Oecumenicam clamitarunt, eò quod Papa in
+propriâ causâ non potest esse Judex. Unde Imperator,
+
+[1668 KBNL/UvA witness | logical printed p. 705 | PDF p. 754 | split word joined: Ludovicus]
+
+Ludovicus Bavarus, ut est in Chronico Germanico lib. 4. pag. 297. provocavit à Papa
+Joanne 21. malè informato, ad Concilium Generale, & Papam meliùs informandum.
+Excommunicatus enim fuerat Imperator, eò quod titulum Imperatoris, citra
+confirmationem Papæ, usurpasset. Sigismundus Dux Austriæ, à Pio secundo, ad
+proximè succedentem Papam, & Generale Concilium provocavit. Ita Philippus
+Pulcher, à Bonifacio 8. ad sedem Apostolicam & Concilium Generale provocavit;
+ut ait Platina in vita Bonifacii. Glossa etiam Juris Canonici, can. 27. quæst.
+3. ne quis in propriâ causâ judicet, vetat. Universitas Parisiensis à Leone 10.
+qui impiè rejecit Concilium Basiliense, necnon Lutherus ab eodem Leone ad
+Concilium Generale provocavit.
+
+Ex quibus omnibus liquet, juris Naturæ esse, ut læsi & oppressi à Presbyteriis
+particularibus Ecclesiarum, provocent ad Synodos Generaliores & superiores.
+
+2. Quandò communes hostes, Hæresiarchæ & Pseudo-doctores multas Ecclesias
+particulares polluunt & vastant, debent omnes particulares Ecclesiæ, ipsius
+naturæ instinctu, coire in unam Synodum Generalem, unitis & conjunctis
+authoritatibus, ad communem hostem propulsandum. Itaque Jacobus de Almain vult
+potestatem convocandi Synodum Generalem charitativam & denunciativam esse
+penès omnes privatas
+
+[1668 KBNL/UvA witness | logical printed p. 706 | PDF p. 755]
+
+personas; licèt potestas authoritativa sit in solo Papa, vel, ut nos docemus,
+in omnibus Rectoribus. Unde tractatu de Auth. Eccles. cap. ult. propos. 4. Si
+enim (inquit) ligata fuerit dextera manus, aut ad nutum imaginationis
+pertinacitèr nollet vacare defensioni corporis, apud sinistram tunc defendendi
+corpus tota residebit authoritas; Et si una pars Provinciæ, inimicis volentibus
+eam destruere, nollet occurrere, quis dubitat reliquam partem, quamvis sit
+minor numero, pro tunc habere authoritatem, totam Provinciam defendendi? Et
+certè hoc naturæ admodùm consentaneum est, si hostes extranei Regnum aliquod,
+vel Regni Provinciam invaderent, omnes incolas regni, conjunctis copiis ad
+publicum hostem repellendum, ipso jure naturæ, obligatos esse. Eodem modo,
+quando plures Ecclesiæ particulares consociatæ, unum Visibile corpus
+efficiunt, & unam externam & visibilem communionem inter se colunt, tùm in
+Verbo, tùm in Sacramentorum participatione, tùm in mutuis monitionibus,
+hortationibus &c. sub uno Christo capite, visibiliter unitæ, debent conjunctis
+copiis omnes errores, scandala, hæresiarchas, repellere, & è regno isto
+Visibili Christi ejicere; idque non tantum qua Christiani, sed etiam qua
+Ecclesiæ: quippe, omnis pars, omnesque partes etiam simul junctæ, saluti &
+incolumitati totius prospicere & consulere debent.
+
+[1668 KBNL/UvA witness | logical printed p. 707 | PDF p. 756]
+
+Ratio hujus connexionis est, quia si communio donorum inter Christianos vigere
+debet, tum etiam & communio authoritatum inter sorores Ecclesias, qua tales.
+Nititur hoc argumentum necessitate Synodorum. Coguntur enim Adversarii fateri
+necessitatem Synodorum, quibus sorores Ecclesiæ, mutuis consiliis, monitionibus
+& hortationibus, sese invicem juvent. Negant autem Synodorum Authoritatem, &
+potestatem Jurisdictionis in Ecclesias particulares; sed hoc revera est negare
+necessitatem Synodorum. Synodus enim Hierosolymitana Act. 15. quam illi
+agnoscunt pro conventu Ecclesiastico, licito & necessario, sua dogmata &
+decreta, non tantùm per modum consilii & fraternæ suasionis, sed per modum
+authoritatis & potestatis Jurisdictionis, Ecclesiis particularibus imperavit &
+imposuit. v. 28. Visum est enim Spiritui Sancto ac nobis, nè quod amplius
+imponeremus vobis onus; præter necessaria ista. Onus autem mandati imponere,
+non est duntaxat consulere aut suadere. Et Cap. 16.4. Prout autem transibant
+urbes, tradebant iis dogmata observanda, quæ decreta fuerant ab Apostolis &
+Presbyteris, qui Hierosolymis erant. Neque est Synodus commentum Pontificiorum,
+sed institutio Christi. Unde statutum in Concilio Basiliensi, ut cogeretur
+Concilium Generale intra quinque annos; deindè intra septem annos post
+dissolutionem Concilii; & tertiò quolibet
+
+[1668 KBNL/UvA witness | logical printed p. 708 | PDF p. 757 | split word joined: decennio]
+
+decennio cogendum esse Concilium Oecumenicum; neque fas esse Pontifici Romano
+præscriptum illud tempus transgredi; Ideoque purioris Disciplinæ assertores
+inter Pontificios, ut Gerson de Ecclesiâ, & Franciscus Zabarella tract. de
+Schismate, gravitèr conquesti sunt, quod contra, quam statutum fuerat in
+Concilio Constantiensi & Basiliensi, nulla essent jam Concilia Generalia. Et
+fatetur Bellarm. de Concil. lib. 1. cap. 6. convocatum fuisse Concilium Pisanum
+contra Julium secundum, ideoque rejectum fuisse illud Concilium ab eodem Julio
+in Concilio Lateranensi. Et quia pleraque Concilia Generalia Pontifices
+Romanos damnarunt & Papali dignitate exuerunt, necnon hæreses & errores
+Ecclesiæ Romanæ censuris ferire ausa sunt; indè est, quod qui pro Papali
+dignitate & Sedis Romanæ Primatu strenuè contenderunt, ausi sunt negare
+necessitatem Conciliorum Generalium. Ideo Bellarm. de Concil. lib. 1. cap. 10.
+Quemadmodùm (inquit) annis illis trecentis post Christum natum, Ecclesia sine
+Conciliis Generalibus, incolumis mansit; sic etiam potuisset aliis trecentis,
+& rursùs aliis quingentis, atque aliis mille permanere. Et Peverius Comment.
+in Exod. 19. Disp. 2. num. 14. Frustra (inquit) fit per plura, quod æque commodè
+fieri potest per pauciora. Et Pighius lib. 6. cap. 10. De Eccles. Hierarchiâ,
+vocat Concilium Generale Constantini magni inventum, authoritate Verbi Dei
+destitutum. Et
+
+[1668 KBNL/UvA witness | logical printed p. 709 | PDF p. 758]
+
+dixit Clemens septimus, Concilia Generalia quodammodò esse utilia; Si verò
+Primatus Pontificis Romani, ejusque potestas in quæstionem vocetur, periculosa
+esse.
+
+Similiter etiam Arminiani negant necessitatem Conciliorum, uti & Sociniani;
+Unde Remonstrantes in Apolog. cap. 15. fol. 289. docent, decisionem factam in
+Synodo, non leviter habendam, quin & merito inclinare animos nostros ad
+acriorem decisionis factæ considerationem; Sed ut ea cuiquam præscribat, aut
+dissentientem cogat ad assensum aut obsequium, ratio non permittit. Ex Episcop.
+disp. 33. thes. 4. Ad veritatis divinæ stabilimentum (inquit) & hæreseon,
+errorumque averruncationem vel extirpationem, eo tantùm casu Synodos utiles
+esse statuimus, si ad deliberandum, ventilandum, examinandum, & rationibus
+argumentisque persuadendum congregentur. Litium finem facere circa Religionis
+Capita alitèr, quam persuadendo, est tyrannidem in Ecclesiam invehere, &
+libertatem Conscientiarum, si non omnino tollere, saltem vehementèr astringere
+& ligare. Ita Sociniani, Theophilus Nicolaides in refutatione Tract. de
+Eccles. ait, hac ratione (Synodicâ) errores aut controversias non tolli, sed
+tantùm vim inferri conscientiis nostris.
+
+Similitèr Separatistæ, negantes authoritatem Synodorum, dicunt decreta
+Synodica tantùm valere, quantum authoritatis & rationis è Dei Verbo adferunt; &
+ea decreta, suasoria esse, non
+
+[1668 KBNL/UvA witness | logical printed p. 710 | PDF p. 759 | split word joined: mandatoria]
+
+mandatoria aut imperatoria, nisi vis inferatur conscientiis. At si valeret hæc
+ratio, sequeretur prædicationem Verbi, omnesque Pastores mandantes fidem &
+obedientiam in nomine Christi, suadere tantùm, non autem pro authoritate
+imperare posse. Nam tantum valet Verbum prædicatum, non minus quam Decretum
+Synodicum, quantum authoritatis & rationis habet ex Dei Verbo. At certum est
+Pastores in Dei nomine imperare posse. Gal. 6.9,10. 1 Thess. 2.13. Deinde
+nullis fidei confessionibus, Symbolis Orthodoxæ doctrinæ, aut Declarationibus
+authoritas constaret; quia omnia Symbola fidei & omnes confessiones tantùm
+authoritatis obtinent, quantum habent ex Dei Verbo. Negamus tamen Synodorum
+conclusiones esse authoritatis absolutæ, illimitatæ, & peremptoriæ; indè tamen
+non concluditur, omnem authoritatem Synodorum abrogari.

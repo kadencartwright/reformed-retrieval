@@ -1,0 +1,180 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumseptimum, De Synodis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within shared printed p. 710 / PDF 759 at
+the question whether synods are useful and suitable means for deciding
+controversies, without repeating Part 65's defense of synodical jurisdiction.
+It contains that complete question and its eight arguments, followed by the
+complete question whether voters in a synod must be wholly indifferent and
+bound to neither party. It ends within shared printed p. 716 after the fifth
+response to the latter question. The heading and opening question of Chapter
+XVIII are excluded and form the exact restart for Part 67. Printer line-end
+and page-end divisions have been joined; catchwords have been omitted, and
+each new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. The witness's repeated argument
+number `2.`, its jump from `2.` to `4.`, and difficult or irregular forms and
+citations, including `Matth. 16.20.`, are retained rather than silently
+regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 710 | PDF p. 759 | resumes at Sed ut, cæteris adversariis]
+
+Sed ut, cæteris adversariis nunc omissis, propius & pede collato cum
+Remonstrantibus agamus;
+
+Quæritur, An Synodi nec sint utiles nec decidendis controversiis media idonea?
+Ajunt Remonstrantes, & consultiùs multò omnes Doctores Christianos judicant
+debuisse abstinere Symbolis, Confessionibus, regulis conficiendis. Ita
+Episcopius disp. 26. thes. 10. Remonstrantium Præfatio in Confessionem suam,
+pag. 10. Ita Sociniani, Smalcius
+
+[1668 KBNL/UvA witness | logical printed p. 711 | PDF p. 760]
+
+in refutatione libri de errore Arianorum lib. 1. cap. 1. pag. 6.
+
+Nos docemus, Synodorum declarationibus, quatenùs cum Dei Verbo conveniunt,
+standum esse.
+
+1. Si deferendus est errans frater ad Ecclesiam, decidentem contra Hæreticum,
+vel dicentem sententiam in fratrem, qui fratrem offendit, & excommunicandus
+est, qui non audit Ecclesiam; tum Synodis est potestas decisiva. Non tantùm,
+ergo, ad suadendum, ventilandum, consultandum, examinandum, cogi debent, ut
+illi docent. Sed prius est verum. Matth. 18.16.
+
+2. Si Christus promisit, se suis adfuturum, coactis in nomine Christi,
+judicialitèr ferentibus sententiam; tum eorum sententiæ standum. At prius
+dictum est Matth. 16.20.
+
+3. Act. 15.29. Apostoli, Presbyteri, & fratres, Synodicè coacti, dogmata
+tradunt, quibus in Domino obediendum, & quæ vocantur Act. 16.4. Τὰ δόγματα τὰ
+κεκριμένα ὑπὸ τῶν Ἀποστόλων καὶ Πρεσβυτέρων, quæ tamen quilibet singularis
+Apostolus per se, absque Synodo, infallibilitèr determinare posset, nisi mens
+eorum fuisset, Synodi exemplar proponere.
+
+Dicunt quidem; Sed ad hominum vacillantium & falsorum fratrum animos
+revincendos, Synodum coëgerunt; non quod Synodi habeant
+
+[1668 KBNL/UvA witness | logical printed p. 712 | PDF p. 761 | split word joined: aliquid]
+
+aliquid authoritatis & juris in conscientias, hoc factum.
+
+Sed hoc est totum concedere; quia omnes Synodi, hominum causâ coguntur.
+Scriptura in se omnes hæreses damnat; & privatus Doctor, ex Scripturis potest
+hæreses refutare. Sed ad homines convincendos, cogi voluit Dominus Synodos,
+quarum decisiones, non nisi κατ’ ἄλλο, & quatenus cum Dei Verbo conveniunt,
+conscientias constringunt. Adde, quod hæc ratio militaret contra Synodum
+Parochialem, non minus quam Nationalem; imò in Ecclesiâ Corinthiacâ, non
+necesse fuisset, cogeretur populus ad excommunicandum Incestuosum; poterat
+Paulus hoc per se fecisse; voluit tamen Deus Excommunicationem fieri Synodicè,
+ad convincendos homines pervicaces.
+
+4. Synodorum authoritati standum, si sententiæ Synodali Excommunicationis, à
+Spiritu Sancto imperatæ, acquiescendum. 1 Cor. 5.4.
+
+5. Si nullius authoritatis est doctrina & decisio Synodica; nec Symbolum, quod
+vocatur Apostolicum, alicujus erit autoritatis, quod Synodorum approbatione ita
+invaluit, & cujus ipsi Remonstrantes authoritatem agnoscunt: semperque fides
+innixa Articulis Symboli & capitibus fidei, erit dubia, fluctuans, vacillans &
+horaria, non fixa.
+
+6. Malè Ecclesia Thyatirensis & Pergamensis
+
+[1668 KBNL/UvA witness | logical printed p. 713 | PDF p. 762 | split word joined: reprehenderetur]
+
+reprehenderetur, eò quod Pseudo-doctores non eliminaret; si Synodicè coactæ
+Ecclesiæ, nulla esset divinitùs concessa potestas, sententias ex Verbo Dei
+authoritativas ferendi & dicendi, contra erroneas & hæreticas doctrinas.
+
+7. Nulla esset Presbyteris & Ecclesiis potestas, suos Ministros eligendi;
+contrà, Act. 1.24,25. Act. 6.5. Act. 13.2. Act. 14.25. 1 Tim. 4.14. si nulla
+esset potestas, nulla authoritativa Synodorum sententia, cui standum esset.
+Hinc malè dicit Episcop. disp. de Synodis. Multo præstabilius & necessarium
+esse, ut singulæ Ecclesiæ sua mala, tolerando, suadendo, & consulendo, curare
+studeant. Item thes. 4. Eo tantum casu utiles esse statuimus (Synodos) si ad
+deliberandum, ventilandum, examinandum, & rationibus argumentisque
+persuadendum, Synodici conventus congregentur. At sic nulla Ecclesia, peccata
+remittere, peccata retinere, hæreticum condemnare potest. Sed omnes hæreses &
+blasphemias debet tolerare, & non aliter quam solâ suasione, ex Ecclesiâ
+errores velle eliminare & extirpare: Nullas rationes decidendi lites in
+Ecclesiâ, Christus reliquisset, authoritatem nullam, si solâ suâ suasione res
+peragenda sit; quia semper habent Hæretici, quod opponant; Nulla esset
+Ministrorum Verbi coactorum authoritas, per Dei Verbum, contradicentibus,
+judicialitèr silentium imponendi.
+
+8. Ex eo negant Verbum Dei in ore Synodi,
+
+[1668 KBNL/UvA witness | logical printed p. 714 | PDF p. 763 | split word joined: conscientias]
+
+conscientias hominum finaliter obligare, quia hæretici non vident id esse Dei
+Verbum, quod tamen Verbum Dei verè dictitat esse Verbum Dei. At si hoc valeret,
+non tantùm canon Synodi, sed nè quidèm canon & verba Prophetarum, Christi, &
+Apostolorum, conscientias obligarent; quia Sadducæi non vident Verbum Dei esse,
+quod ait Christus, mortuos resuscitandos; non vident Hymeneus & Philetus,
+Verbum Dei esse, quod ait Paulus, non elapsam jam, sed futuram tantùm esse
+Resurrectionem.
+
+Quæritur, An indifferentes planè, & nulli parti adstricti debeant esse, qui jus
+suffragiorum habent in Synodo? Ajunt Remonstrantes, Confess. cap. 25. sect. 2.
+ubi hoc sic exponunt, qui ad Synodos delegantur, verè sint liberi; & durante
+litis examine, nulli personæ, vel Ecclesiæ, vel Confessioni, &c. sed soli Deo
+& Christo, ejusque sancto Verbo, simpliciter adstricti. Ratio est in Apol. cap.
+25. fol. 287. Quia judex, in judicio contradictorio, non debet esse altera
+pars litis.
+
+Resp. Suffragator delegatus debet esse liber, hoc est, durante lite, nulli
+personæ, Ecclesiæ aut Confessioni, sed soli Dei Verbo juratus; debet nulli
+confessioni qua est humana esse juratus, vel durante vel finito litis examine.
+Sed si volunt, Suffragatorem nulli simpliciter parti, etiam quæ Verbo Dei
+consentanea est, adstrictum esse, nugas ferunt.
+
+1. Quia
+
+[1668 KBNL/UvA witness | logical printed p. 715 | PDF p. 764]
+
+Petrus & Paulus & Jacobus, ante coactam Synodum Hierosolymitanam, mente suâ
+prædamnârunt Circumcisionis & Ceremoniarum aliarum necessitatem. Act. 15. Sic
+Elias ante coactam Synodum cum Prophetis Baaliticis, prædamnavit Baaliticum
+cultum. 1 Reg. 18. Et Nicodemus & Josephus, à Christi partibus stare, ante
+animo suo constituerunt, quàm ad Concilium proficiscerentur. Nec aliquis hos,
+illegitima Concilii membra diceret.
+
+2. Quia volunt Judices debere respectu veritatis, esse instar materiæ primæ,
+indifferentis ex se, aut tabulæ rasæ, aut mundæ chartæ, cui nihil est
+inscriptum, quorum mens est in bivio. At exercitatiores oportet habeant sensus,
+qui radicati sunt in Veritate, & in Christo per fidem stabiliti; nam qui
+indifferentes planè sunt circa aliquam divinam veritatem, ii sunt qui quovis
+doctrinæ vento circumagi possunt, quorum lux venalis in foro exponitur.
+
+2. Quia innuunt sic Synodos ad nullam rem utiles esse. Si enim materia Canonum
+est Articulus Fundamentalis, tùm Suffragator eò melior est, quò infidelior;
+quod absurdissimum. Nam si fide divinâ credit Articulum Fundamentalem in
+Canonem redigendum, tum non est liber, sed alteri parti adstrictus per fidem.
+Si non credit, sed in hâc parte est infidelis, tùm quò infidelior, eò magis
+licitus & debitus est
+
+[1668 KBNL/UvA witness | logical printed p. 716 | PDF p. 765 | split word joined: Suffragator]
+
+Suffragator. Sed reverâ negant, de Articulis Fundamentalibus ullos Canones
+condi posse, quia Fundamentalia non sunt verè controversa. Si verò materia Canonum sit
+aliquid verè controversum, à Fundamentalibus contradistinctum, non opus
+Canonibus est: Nam si sit verè controversum, etiam finito litis examine,
+possunt omnes esse liberi, & neutri parti adstricti: Et sic quorsùm Synodus? ad
+ludum populo faciendum.
+
+4. Nec Remonstrantes accesserunt ad Synodum Dordracenam liberi, & non adstricti
+sententiæ Arminii, quam antequam cogeretur Synodus, Scriptis, in Academiis &
+Pulpitis docuerant.
+
+5. Jus veritasque, in nostrâ potestate non sunt; Ita Apologistæ loco citato.
+Nemo, Ergo, accedit, aut rarus sit oportet, qui nulli parti adstrictus venit ad
+Synodum.

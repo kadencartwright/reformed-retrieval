@@ -1602,3 +1602,88 @@ question, citations, and complete six-argument structure.
 
 - Latin: `parts/part-63-chapter-16c-latin.txt`
 - English: `parts/part-63-chapter-16c-english.md`
+
+**Part 64 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 689 / PDF 738 at the question whether the distinction of
+presbyters into teaching and ruling presbyters is a novel invention, without
+repeating Part 63's closing appeal to the Fathers. It contains that complete
+question and its scriptural case, together with the answer to the Remonstrant
+reading of 1 Timothy 5:17. It ends near the top of shared printed p. 692 / PDF
+741 after Whitaker's academic analogy. The heading and opening of Chapter XVII
+are excluded and form the exact restart for Part 65. The pair has four
+byte-identical synchronized markers for partial pp. 689 and 692 and complete
+pp. 690–691. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all four included frames, both shared-page
+boundaries, every page join, the complete question and its response, biblical
+and polemical citations, Greek, and the absence of Hebrew and substantive
+marginalia. The printed errata has no applicable correction. The split words
+`qui` and `indè` are joined with their new-page markers before the whole words
+and their English equivalents. The Greek `εὕρημα`, `καλῶς προεστῶτες`,
+`διακριτικόν`, `μὴ κοπιῶντες ἐν τῷ λόγῳ`, `Κοπιᾶν`, `Κατὰ τὸν ἴδιον κόπον`,
+`Ὅτι ὁ κόπος ὑμῶν οὐκ ἔστι κενός`, and `Καὶ κόπου τῆς ἀγάπης`, together with
+the witness's progression from printed `1.` to `4.` and its difficult or
+irregular forms and citations, are retained or disclosed rather than silently
+regularized. The English is a fresh translation from the accompanying Latin
+and preserves the complete argument and Whitaker's concluding analogy.
+
+- Latin: `parts/part-64-chapter-16d-latin.txt`
+- English: `parts/part-64-chapter-16d-english.md`
+
+**Part 65 is complete as a scan-audited working draft.** It begins within
+shared printed p. 692 / PDF 741 at the heading and opening of Chapter XVII,
+without repeating Chapter XVI's closing analogy. It contains the eight
+preliminary considerations on synods, three assertions concerning general
+councils and synodical authority, and the ensuing defense of authoritative
+synodical jurisdiction from Acts 1, 6, and 15, natural law, ecclesiastical
+appeals, and united action against common enemies. It ends within shared
+printed p. 710 / PDF 759 after denying that the qualified authority of synods
+should be abolished. The following question whether synods are useful and
+suitable means for deciding controversies is excluded and forms the exact
+restart for Part 66. The pair has nineteen byte-identical synchronized markers
+for partial pp. 692 and 710 and complete pp. 693–709. A page-by-page image
+audit against the controlling KBNL/UvA Google Books images covered all
+nineteen included frames, both shared-page boundaries, every page join, the
+chapter heading and lemma, all eight considerations and three assertions, the
+extended arguments and historical examples, biblical, patristic, scholastic,
+and polemical citations, Greek, and the absence of Hebrew and substantive
+marginalia. The printed errata has no applicable correction. The split words
+`obligare`, `Ecclesiasticarum`, `Ecclesiæ`, `secundùm`, `Verbum`, `quoniam`,
+`Particularibus`, `Ludovicus`, `decennio`, and `mandatoria` are joined with
+their new-page markers before the whole words and their English equivalents.
+The Greek `ἀναμαρτησίαν`, `εὐταξίαν`, `θεόπνευστοι`, `δόγματα τῶν Ἀποστόλων
+καὶ Πρεσβυτέρων`, and `Θεόπνευστοι`, together with the witness's difficult or
+irregular wording, names, and citations, are retained or disclosed rather than
+silently regularized. The English is a fresh translation from the accompanying
+Latin and preserves the distinctions, assertions, quotations, appeals, and
+extended jurisdictional argument.
+
+- Latin: `parts/part-65-chapter-17a-latin.txt`
+- English: `parts/part-65-chapter-17a-english.md`
+
+**Part 66 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 710 / PDF 759 at the question whether synods are useful and
+suitable means for deciding controversies, without repeating Part 65's
+defense of synodical jurisdiction. It contains that complete question and its
+eight arguments, followed by the complete question whether voters in a synod
+must be wholly indifferent and bound to neither party. It ends within shared
+printed p. 716 / PDF 765 after the fifth response to the latter question. The
+heading and opening question of Chapter XVIII are excluded and form the exact
+restart for Part 67. The pair has seven byte-identical synchronized markers
+for partial pp. 710 and 716 and complete pp. 711–715. A page-by-page image
+audit against the controlling KBNL/UvA Google Books images covered all seven
+included frames, both shared-page boundaries, every page join, both complete
+questions and their argumentative structures, biblical and polemical
+citations, Greek, and the absence of Hebrew and substantive marginalia. The
+printed errata has no applicable correction. The split words `aliquid`,
+`reprehenderetur`, `conscientias`, and `Suffragator` are joined with their
+new-page markers before the whole words and their English equivalents. The
+Greek `Τὰ δόγματα τὰ κεκριμένα ὑπὸ τῶν Ἀποστόλων καὶ Πρεσβυτέρων` and `κατ’
+ἄλλο`, the witness's repeated argument number `2.`, its jump from `2.` to
+`4.`, and difficult or irregular citations including `Matth. 16.20.` are
+retained or disclosed rather than silently regularized. The English is a
+fresh translation from the accompanying Latin and preserves both complete
+questions, the eight arguments of the first, and the source's irregular
+numbering in the second.
+
+- Latin: `parts/part-66-chapter-17b-latin.txt`
+- English: `parts/part-66-chapter-17b-english.md`

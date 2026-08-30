@@ -1,0 +1,105 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumsextum, De Ministris Verbi — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within shared printed p. 689 / PDF 738 at
+the question whether the distinction between teaching and ruling presbyters is
+a novel invention, without repeating Part 63's closing appeal to the Fathers.
+It contains that complete question and its four scriptural arguments, together
+with the answer to the Remonstrant reading of 1 Timothy 5:17. It ends near the
+top of printed p. 692 after Whitaker's academic analogy. The heading and
+opening of Chapter XVII are excluded and form the exact restart for Part 65.
+Printer line-end and page-end divisions have been joined; catchwords have been
+omitted, and each new-page marker precedes the whole word at a split-word
+boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. The witness's progression from
+printed `1.` to `4.`, its `novitium εὕρημα`, `ærarii Ministris`, `in amplo
+cœtu`, and difficult or irregular forms and citations, including `Act. 6.2,3.`,
+`1 Tim. 5.1.3.`, and the mixed-script phrases, are retained rather than
+silently regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 689 | PDF p. 738 | resumes at Quæritur, An Presbyterorum distinctio]
+
+Quæritur, An Presbyterorum distinctio in Presbyteros docentes & Presbyteros
+regentes, sit novitium εὕρημα? Ajunt Remonstrantes Apol. cap. 21. fol. 228.
+
+Nos negamus. 1. Quia Scriptura expressè Presbyteros regentes agnoscit. Rom.
+12.7,8. Ubi distinguit Prophetas in Doctores & Pastores; & Presbyteros regentes
+ab utrisque distinguit. v. 7. Is cui est ministerium, in ministerio suo sit; &
+is, qui est doctor, in doctrinâ suâ (nempè Doctoris est) v. 8. Et is qui
+exhortator est, in exhortatione, (is est Pastor) & qui largitur, in largiendo;
+& qui præest, in diligentiâ: is est Presbyter regens, qui Diaconis & ærarii
+Ministris contradistinguitur. 1 Cor. 12.28. Et alios quidem constituit Deus in
+Ecclesiâ; primùm Apostolos, deindè Prophetas, tertiò Doctores, deindè
+potestates, deindè dona sanationum, opitulationes, gubernationes, genera
+linguarum. Si ab Apostolis, Prophetis & Doctoribus contradistinguit
+gubernationes i.e. custodes disciplinæ Ecclesiasticæ, seu Seniores; tum
+Presbyteri regentes sunt divinæ institutionis. Sic Act. 15.23. In Synodo
+Hierosolymitanâ definiverunt & subscripserunt Apostoli, Presbyteri & Fratres.
+Istis per eorum manus scriptis; Apostoli, Presbyteri & Fratres, iis qui sunt
+Antiochiæ, & in Syriâ & in Ciliciâ Fratribus,
+
+[1668 KBNL/UvA witness | logical printed p. 690 | PDF p. 739 | split word joined: qui]
+
+qui sunt ex gentibus, salutem. Nec potest quis in amplo cœtu, simul Verbo Dei
+& precibus vacare (quod Pastorum est) & gubernationi omnium simul intendere
+curam, quam oportet. Act. 6.2,3.
+
+4. Et si unicuique datum est donum, prout Deus vult, ad ædificationem. 1 Cor.
+12.7. tum quibus donum Gubernationis datum, ei datum ad officium gubernandi
+est: Nam dono Gubernationis multi pollent, qui docere non possunt. Et 1 Tim.
+5.17. Qui bene præsunt Presbyteri, duplice honore digni habeantur; maximè qui
+laborant in sermone & doctrinâ. Hinc concludimus, duas esse species
+Presbyterorum; alii sunt, qui tantùm bene præsunt; alii qui simul laborant in
+doctrinâ. i.e. alii regentes tantum, & hi digni sunt honore; sed sunt alii
+simul docentes, & in verbo laborantes; qui longè majore honore sunt digni.
+
+Remonstrantes dicunt, nihil aliud velle Paulum, quàm Pastores dono gubernandi
+præditos, duplici honore dignos; sed multò magis duplici honore dignos, qui
+non tantùm eo dono præditi sunt, sed etiam, qui docendo & prædicando gnavitèr
+laborant; nec inde sequi duo esse Presbyterorum genera.
+
+Contrà 1. Staret fortè hæc expositio, si Paulus dixisset in genere,
+Presbyterum honore dignum, multò magis gnavum & sedulum in prædicando; Sed
+Paulus ait in specie καλῶς προεστῶτες qui bene præsunt, tanquam unam speciem;
+
+[1668 KBNL/UvA witness | logical printed p. 691 | PDF p. 740 | split word joined: indè]
+
+indè enumerat aliam speciem, nempè Presbyteros in Verbo laborantes.
+
+2. Non est hoc, (καλῶς προεστῶτες) διακριτικόν, sed, ut notant Profess.
+Leydenses in Censurâ cap. 21. sect. 5. communis officii indicium est. Sunt enim
+duplici honore digni, respectu Viduarum, (quas honorandas dicit) & reliquorum
+vulgarium senum, seu ætate presbyterorum. 1 Tim. 5.1.3.
+
+3. Per hanc interpretationem μὴ κοπιῶντες ἐν τῷ λόγῳ, non laborantes in Verbo,
+sed tantùm benè præsidentes, ut Episcopi (Ità exponit Cajetanus in locum, cum
+Pontificiis) essent digni duplici honore: & sic muti canes essent duplici
+honore honorandi, quod absurdum est. Sed benè præesse includit τὸ laborare in
+Verbo, ut Heb. 13.17. Obedite iis, qui præsunt vobis. Act. 20.28. Præesse
+gregibus includit fideliter pascere gregem, tanquam totum includens partem.
+(Nemo enim benè præest Familiæ, nisi qui Verbo Dei, tanquam clave aperiente
+regnum Dei, & claudente, utitur.) Et hoc modo Paulus, idem bis diceret, Benè
+laborantes in Verbo, duplici honore digni sunt; & non tantùm illi, sed &
+laborantes in Verbo duplici honore digni sunt.
+
+4. Κοπιᾶν, laborare, non notat necessariò lassitudinem in laborando, sed
+positivè laborem notat. 1 Cor. 3.8. Κατὰ τὸν ἴδιον κόπον. 1 Cor. 15.58. Ὅτι ὁ
+κόπος ὑμῶν οὐκ ἔστι κενός. 1 Thess.
+
+[1668 KBNL/UvA witness | logical printed p. 692 | PDF p. 741]
+
+1.3. Καὶ κόπου τῆς ἀγάπης. Certè, si dico (inquit Whittakerus) omnes
+Academici, qui benè student, duplici honore digni sunt, maximè illi qui
+laborant in studio Theologiæ, vel innuo non omnes incumbere Theologiæ, vel
+insulsè loquor.

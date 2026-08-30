@@ -932,6 +932,22 @@ beginning `Nec tamen diffiteor`, are excluded.
 - English: `parts/part-54-romans-04-05-abraham-30-english.md`
 - Extent: three synchronized markers, printed pp. 272–274 / IA leaves 280–282
 
+## Part 55: thirty-first unit of the Romans 4:5 lecture
+
+Part 55 answers three objections to Tuckney's exposition of Hebrews 12:23:
+that the righteous were perfected before death, that the Old Testament
+saints were perfected only when released from limbo by Christ, and that the
+passage refers solely to final-judgment consummation. Tuckney locates
+perfection in the separated soul while reserving the highest, embodied
+degree for the resurrection. It runs from `Nec tamen diffiteor` on printed
+p. 274 / IA leaf 282 through the third response on printed p. 276 / IA leaf
+284. The final proof beginning `Ultimo ad sententiam nostram stabiliendam`
+is excluded.
+
+- Latin: `parts/part-55-romans-04-05-abraham-31-latin.txt`
+- English: `parts/part-55-romans-04-05-abraham-31-english.md`
+- Extent: three synchronized markers, printed pp. 274–276 / IA leaves 282–284
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

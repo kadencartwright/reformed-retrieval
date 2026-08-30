@@ -1198,6 +1198,33 @@ qualified human review.
 - `parts/part-22-chapter-22c-latin.txt`
 - `parts/part-22-chapter-22c-english.md`
 
-The next unit begins with `Vers. 8. Seminator iniquitatis metet molestiam, &
-virga furoris sui consumetur.` in the left column of shared PDF 494 / printed
-column 972; restart at that lemma, excluding every verse 7 sentence above it.
+**Part 22d is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `Vers. 8. Seminator
+iniquitatis metet molestiam, & virga furoris sui consumetur.` in the left
+column of shared PDF 494 / printed column 972 through the final prose of verse
+9 on PDF 495 / printed column 975, ending `satis abundè compertum est.` It
+stops immediately before `V. 10. Ejice derisorem, & exibit contentio; &
+cessabit lis, & ignominia.` in that same right column. Latin and English have
+two byte-identical source markers (PDF 494–495; synchronized printed columns
+972–973 through 974–975) and retain both verse lemmata, full in-scope prose,
+Hebrew, citations, abbreviations, and printing irregularities. The complete
+files contain 766 Latin-file and 1,140 English-file whitespace-delimited
+words, respectively, including headers and markers.
+
+Every core image, PDF 494–495, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-494 marker begins only at
+`Vers. 8.` in the left column; every verse 7 sentence above it is excluded. At
+the PDF-494/495 turn, the catchword `una` was excluded rather than duplicated:
+whole `una` and its corresponding English `one` are assigned to PDF 495. The
+final PDF-495 marker contains only the verse 9 prose ending `satis abundè
+compertum est.` above `V. 10.`; no verse 10 material is imported. Witness
+forms including `reportaturos`, `non nunquam`, `altero totius`, `indigis`,
+`siquis`, `exporrecta`, `momentaneis`, and `Eliz.` were retained. This remains
+an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22d-latin.txt`
+- `parts/part-22-chapter-22d-english.md`
+
+The next unit begins with `V. 10. Ejice derisorem, & exibit contentio; &
+cessabit lis, & ignominia.` in the right column of shared PDF 495 / printed
+column 975; restart at that lemma, excluding every verse 9 sentence above it.

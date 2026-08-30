@@ -499,6 +499,20 @@ excluded.
 - English: `parts/part-27-romans-04-05-abraham-03-english.md`
 - Extent: three synchronized markers, printed pp. 174–176 / IA leaves 182–184
 
+## Part 28: fourth unit of the Romans 4:5 lecture
+
+Part 28 gives Tuckney's complete exposition of Romans 4:1: the inferential
+force of `igitur`, the interrogative and communicative form of Paul's
+question, the construction and meaning of `secundum carnem`, and two pastoral
+corollaries concerning scriptural examples and peaceable theological
+conference. It runs from `In hoc primo Commate summa Argumenti` on printed p.
+177 / IA leaf 185 through the conclusion of the second corollary on printed
+p. 185 / IA leaf 193. The centered heading `Rom. IV. 2.` is excluded.
+
+- Latin: `parts/part-28-romans-04-05-abraham-04-latin.txt`
+- English: `parts/part-28-romans-04-05-abraham-04-english.md`
+- Extent: nine synchronized markers, printed pp. 177–185 / IA leaves 185–193
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

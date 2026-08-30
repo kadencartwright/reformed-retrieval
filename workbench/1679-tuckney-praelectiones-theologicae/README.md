@@ -1374,6 +1374,21 @@ beginning `Faxit, quaesumus, misericors Deus`, is excluded.
 - English: `parts/part-81-romans-04-05-abraham-57-english.md`
 - Extent: two synchronized markers, printed pp. 311–312 / IA leaves 319–320
 
+## Part 82: first unit on articles of faith and human reason
+
+Part 82 begins the separately foliated sequence on the thesis that articles
+of faith must not be measured by the standard of human reason. It includes
+the inaugural prayer, announces both theses, identifies five classes of
+adversaries, and defines the senses of *articles of faith* and objective and
+subjective *reason*. It runs from `Faxit, quaesumus, misericors Deus` on
+new-series fol. 1 / IA leaf 321 through the statement of the controversy
+near the foot of new-series fol. 4 / IA leaf 324. The following concessions,
+beginning `Concedimus itaque, Ex parte objecti`, are excluded.
+
+- Latin: `parts/part-82-articles-of-faith-and-reason-01-latin.txt`
+- English: `parts/part-82-articles-of-faith-and-reason-01-english.md`
+- Extent: four synchronized markers, new-series fols. 1–4 / IA leaves 321–324
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

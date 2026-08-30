@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–14 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–15 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -98,8 +98,10 @@ upper portion of printed p. 141 / canvas 151. Part 13 completes Article II,
 Chapter VIII, from its heading lower on that page through the end of the
 seventh argument in the upper portion of printed p. 143 / canvas 153. Part 14
 completes Article II, Chapter IX, from its heading lower on that page through
-its concluding historical discussion on printed p. 153 / canvas 163. The files
-are divided as follows:
+its concluding historical discussion on printed p. 153 / canvas 163. Part 15
+completes Article II with Chapter X, from its heading on printed p. 154 /
+canvas 164 through its concluding discussion of Romans 11:12 on printed p. 171
+/ canvas 181. The files are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -131,6 +133,9 @@ are divided as follows:
   belong to this unit.
 - Part 14: Article II, Chapter IX, canvases 153–163 / printed pp. 143–153; only
   the lower portion of canvas 153 belongs to this unit.
+- Part 15: Article II, Chapter X, canvases 164–181 / printed pp. 154–162, the
+  anomalous repeated printed p. 162 on canvas 173 (intended p. 163), and
+  printed pp. 164–171.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -268,7 +273,25 @@ rather than silently regularized.
 - Both Part 14 files contain eleven synchronized source markers for BSB
   canvases 153–163 / printed pp. 143–153.
 
-The next untranslated unit begins with `CAP. X. De Scripturae testimoniis
-suffulciendae sua thesi, à Remonstrantibus productis.` and `Primum desumitur
-ex Ioh. 3. 16. Sic Deus dilexit mundum, ut Filium suum unigenitum dederit`
-on printed p. 154 / BSB canvas 164.
+Part 15 examines the two principal scriptural testimonies produced in support
+of the Remonstrants’ thesis, John 3:16 and 1 John 2:2. It begins with `CAP. X.
+De Scripturae testimoniis suffulciendae sua thesi, à Remonstrantibus
+productis.` and `Primum desumitur ex Ioh. 3. 16. Sic Deus dilexit mundum, ut
+Filium suum unigenitum dederit` on printed p. 154 / canvas 164 and ends with
+`...sicut in Iacobo ad portum Fidei orthodo. defens. cap. 29. manifesto videre
+est.` on printed p. 171 / canvas 181. The witness’s Greek `ἀνάκλασις καὶ
+ἀντίστασις` and `ἱλασμὸν`, its `Isai. 44. 3. & omnes etiam homines`, `1.
+Ioha. 2. 2.`, `insiti sunt olea`, and `promissio eorum` wording, and its
+abbreviated `orthodo. defens.` reference are retained rather than silently
+regularized. The printed
+pagination repeats p. 162 on canvas 173 and then resumes at p. 164, omitting
+p. 163; both paired files record this anomaly explicitly.
+
+- Latin: `parts/part-15-article-02-chapter-10-latin.txt`
+- English: `parts/part-15-article-02-chapter-10-english.md`
+- Both Part 15 files contain eighteen synchronized source markers for BSB
+  canvases 164–181 and the printed-page sequence described above.
+
+The next untranslated unit begins with `Articulus Tertius, DE CAUSA FIDEI.`
+and `Thesis tertia hoc modo sonat: HOMINEM fidem salutarem à se ipso non habere,
+nec vi liberi sui arbitrii` on printed p. 172 / BSB canvas 182.

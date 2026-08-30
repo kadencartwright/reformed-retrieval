@@ -958,3 +958,83 @@ title for Locus XIX follows on the next scan leaf and is excluded.
 
 The next restart point is the divisional title `LOCUS DECIMUS NONUS. DE
 SACRAMENTIS.` on the unnumbered page at IA leaf 319 / PDF p. 319.
+
+## Part 35
+
+Part 35 begins Locus XIX, “De Sacramentis,” and contains its complete Question
+I, “De Voce et Definitione Sacramenti.” It begins with the exact divisional
+title on the unnumbered page at IA leaf 319 / PDF p. 319, resumes after the
+blank scan leaf with the repeated locus title and question heading on printed
+p. 287 / IA leaf 321 / PDF p. 321, and ends with section XVII on shared printed
+p. 292 / IA leaf 326 / PDF p. 326. Question II begins below it on that page and
+is excluded.
+
+- Latin: `parts/part-35-locus-19-question-01-latin.txt`
+- English: `parts/part-35-locus-19-question-01-english.md`
+- Both files contain seven synchronized source-page markers (the divisional
+  title plus six numbered content pages), the complete section sequence
+  I–XVII, and eleven synchronized marginalia blocks.
+- The scan verification covered all seven content images, the intervening
+  blank leaf at PDF p. 320, and all five numbered-page joins. The pp. 289–290
+  and 290–291 joins divide `signum` and the relative `quo`; each marker is
+  placed before the corresponding continuation in both files. The separate
+  divisional-title marker is retained rather than silently assigning that page
+  a printed number.
+- The transcription retains all printed Greek and Hebrew, as well as the
+  witness’s `extet`, abbreviated `simi.`, and isolated `N.`; the English
+  translates the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO II. DE NECESSITATE SACRAMENTORUM. An
+necesse fuerit Sacramenta in Ecclesia institui, et an usus eorum sit
+necessarius? D.` on shared printed p. 292 / IA leaf 326 / PDF p. 326.
+
+## Part 36
+
+Part 36 contains the complete Locus XIX, Question II, “De Necessitate
+Sacramentorum.” It begins with the question heading on shared printed p. 292 /
+IA leaf 326 / PDF p. 326, immediately after Question I, and ends with section X
+on shared printed p. 294 / IA leaf 328 / PDF p. 328. Question III, “De Signo
+Sacramentali,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-36-locus-19-question-02-latin.txt`
+- English: `parts/part-36-locus-19-question-02-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–X, and seven synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 292–293 join divides the clause at `occasio / occurrit`; the marker is
+  placed at the corresponding boundary in both files. The pp. 293–294 join
+  falls between sections VII and VIII.
+- The transcription retains the printed Greek `ἀσώματος`, `μονόπλευρον`, and
+  `δίπλευρον`, together with the two-line Latin poetic citation. `[sic]`
+  identifies the witness’s disruptive `gratia Dei salutaria`; the English
+  translates the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO III. DE SIGNO SACRAMENTALI. Quænam sit
+natura signi, quod requiritur in Sacramento?` on shared printed p. 294 / IA
+leaf 328 / PDF p. 328.
+
+## Part 37
+
+Part 37 contains the complete Locus XIX, Question III, “De Signo
+Sacramentali.” It begins with the question heading on shared printed p. 294 /
+IA leaf 328 / PDF p. 328, immediately after Question II, and ends with section
+XIII on printed p. 296 / IA leaf 330 / PDF p. 330. Question IV, “De Unione
+Sacramentali,” begins on the next printed page and is excluded.
+
+- Latin: `parts/part-37-locus-19-question-03-latin.txt`
+- English: `parts/part-37-locus-19-question-03-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–XIII, and six synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 294–295 and 295–296 joins divide the clauses at `significant / ea` and
+  `reipsa / dari`; each marker is placed at the corresponding boundary in both
+  files.
+- The transcription retains all printed Greek and the witness’s citation
+  `lib. 3. ad Maxi. cap. 22`. The section VI fragment opens a quotation at
+  `sufficere` without a closing quotation mark; the Latin retains that
+  punctuation, while the English identifies and balances the quotation.
+
+The next restart point is `QUÆSTIO IV. DE UNIONE SACRAMENTALI. An forma
+Sacramentorum essentialis et interna sita sit in relatione signi ad signatum,
+et in eorum unione mere σχετικῇ? Affirm. cont. Pontifi.` on printed p. 297 / IA
+leaf 331 / PDF p. 331.

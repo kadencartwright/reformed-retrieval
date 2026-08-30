@@ -941,7 +941,38 @@ remains an AI-assisted working edition requiring qualified human review.
 - `parts/part-21-chapter-21e-latin.txt`
 - `parts/part-21-chapter-21e-english.md`
 
-The next unit begins with `V. 15. Laetitiae est justo exercere jus; quod est
-contritioni operarius iniquitatis.` in the right column of shared PDF 469 /
-printed column 923; restart at that lemma, excluding the final verse 14
+**Part 21f is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `V. 15. Laetitiae est justo
+exercere jus; quod est contritioni operarius iniquitatis.` in the right column
+of shared PDF 469 / printed column 923 through the final prose of verse 16 on
+PDF 471 / printed column 927, ending `in morte manere, scilicet aeterna.` It
+stops immediately before `V. 17. Vir egestatis erit amator laetitiae; & amator
+vini, & olei non erit dives.` in that same right column. Latin and English have
+three byte-identical source markers (PDF 469–471; synchronized printed columns
+922–923 through 926–927) and retain both verse lemmata, full in-scope prose,
+Hebrew, Greek, citations, abbreviations, and printing irregularities. The
+complete files contain 1,115 Latin-file and 1,547 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 469–471, was inspected at original detail in
+left-then-right column order. The shared PDF-469 marker begins only at `V. 15.`
+in the right column; the final verse 14 sentence above it is excluded. At the
+PDF-469/470 turn, the divided fragment `ferven-` and catchword `tiorem` were
+excluded rather than duplicated: the preceding `Proph. amorem suum` remains
+under PDF 469, while `ferventiorem` and its corresponding English wording are
+assigned wholly to PDF 470. At the PDF-470/471 turn, the catchword `verò` was
+excluded: `maximè` and its corresponding English wording remain under PDF 470,
+while `verò` and its corresponding English wording are assigned wholly to PDF
+471. The final PDF-471 marker ends with the concluding verse 16 sentence above
+`V. 17.`; no verse 17 material is imported. Witness forms including `foelici`,
+`infoelici`, `utriq;`, `proprij`, `officij`, `Pij`, `Pijs`, `effectum
+erroris`, and `plurimum differunt` were retained. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-21-chapter-21f-latin.txt`
+- `parts/part-21-chapter-21f-english.md`
+
+The next unit begins with `V. 17. Vir egestatis erit amator laetitiae; &
+amator vini, & olei non erit dives.` in the right column of shared PDF 471 /
+printed column 927; restart at that lemma, excluding the final verse 16
 sentence above it.

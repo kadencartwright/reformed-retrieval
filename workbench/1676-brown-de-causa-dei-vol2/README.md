@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations through printed page 254 of Volume II. The
-> forty-three paired parts remain unreviewed and are not publication-ready.
+> close English translations through printed page 258 of Volume II. The
+> forty-four paired parts remain unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -85,7 +85,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 254 is applied and disclosed in the relevant
+completed span through printed p. 258 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, XX, XXI,
 XXII, and XXIII were read from the images, not reconstructed from IA OCR.
@@ -101,7 +101,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Forty-three paired parts are complete as scan-audited, AI-assisted, unreviewed
+Forty-four paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -320,13 +320,20 @@ working drafts:
   leaves 248–262; fifteen synchronized markers.
   [Latin](parts/part-43-book-04-chapter-23-morality-from-words-latin.txt) |
   [English](parts/part-43-book-04-chapter-23-morality-from-words-english.md)
+- **Part 44:** all of Chapter XXIV, answering fifteen objections against the
+  fourth commandment's moral character, including objections from its alleged
+  absence in the New Testament, its positive determination, polar regions,
+  works of necessity, and the change of day; printed pp. 254–258 / IA PDF and
+  leaves 262–266; five synchronized markers.
+  [Latin](parts/part-44-book-04-chapter-24-objections-latin.txt) |
+  [English](parts/part-44-book-04-chapter-24-objections-english.md)
 
-Part 43 ends with Chapter XXIII's nineteenth consideration on printed p. 254.
-The exact next untranslated chapter text is `CAP. XXIV.` later on printed p.
-254 / IA PDF 262 / IA leaf 262, followed by `Solvuntur Objectiones
-Adversariorum.` Chapters VI through XXIII are complete. Every completed pair
-has an identical source-marker sequence, and all forty-three pairs remain
-AI-assisted and unreviewed.
+Part 44 ends with Chapter XXIV's response to its fifteenth objection on
+printed p. 258. The exact next untranslated chapter text is `CAP. XXV.` later
+on printed p. 258 / IA PDF 266 / IA leaf 266, followed by `Refutatur primarium
+D. Burmanni argumentum`. Chapters VI through XXIV are complete. Every
+completed pair has an identical source-marker sequence, and all forty-four
+pairs remain AI-assisted and unreviewed.
 
 ## Licensing
 

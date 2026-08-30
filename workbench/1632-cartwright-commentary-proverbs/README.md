@@ -1355,7 +1355,45 @@ human review.
 - `parts/part-22-chapter-22h-latin.txt`
 - `parts/part-22-chapter-22h-english.md`
 
-The next unit begins with the ruled `Vers. 17. Inclina aurem tuam, & audi verba
-sapientum; & cor tuum admove, ut cognoscas me.` in the right column of shared
-PDF 502 / printed column 989; restart at that lemma, excluding every verse 16
-sentence above it and all left-column text before it.
+**Part 22i is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with the grouped verses 17–21, from
+the ruled `Vers. 17. Inclina aurem tuam, & audi verba sapientum; & cor tuum
+admove, ut cognoscas me.` in the right column of shared PDF 502 / printed
+column 989 through the final verse-21 prose on PDF 505 / printed column 995,
+ending `Verbi autem divini notitiam, hanc consulendi facultatem suppeditare,
+David abunde confirmat Psal. 119.` It stops immediately before the ruled
+`Vers. 22. Ne deripias tenuem, quia tenuis est; & ne conteras afflictum in ipsa
+porta.` in that same right column. Latin and English have four byte-identical
+source markers (PDF 502–505; synchronized printed columns 988–989 through
+994–995) and retain all five verse lemmata, full in-scope prose, the analytical
+structure, Greek, citations, abbreviations, macrons, punctuation, and printing
+irregularities. The complete files contain 1,428 Latin-file and 2,074
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 502–505, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-502 marker begins only at the
+ruled `Vers. 17.` in the right column; every verse 16 sentence above it and all
+left-column text are excluded. At the PDF-502/503 turn, the page-bottom
+catchword `v. 21.` was excluded, and the complete verse-21 lemma with its
+English translation is assigned wholly to PDF 503. At the PDF-503/504 turn,
+the catchword `in` was excluded: PDF 503 ends at `voluptate nos sermo non
+afficiat,`, while whole `in animo tamen reservatus...` and its corresponding
+English wording are assigned to PDF 504. At the PDF-504/505 turn, the catchword
+`nostrum` was excluded: PDF 504 ends at `v. 19. Aliud argumentum, quo studium`,
+while whole `nostrum erga caelestem...` and its corresponding English wording
+are assigned to PDF 505. The final PDF-505 marker contains all in-scope prose
+in the left column and only the verse-21 prose in the right column through
+`David abunde confirmat Psal. 119.`; the ruled verse 22 lemma and all text
+below it are excluded. Witness forms including `init.`, `laxatosq;`, `Agurem`,
+`Betshabam`, `experimentū`, `abditiss.`, `cogitationū`, `omniū`,
+`ἐρωτηματικῶς`, `deniq;`, and `λοξίου` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22i-latin.txt`
+- `parts/part-22-chapter-22i-english.md`
+
+The next unit begins with the ruled `Vers. 22. Ne deripias tenuem, quia tenuis
+est; & ne conteras afflictum in ipsa porta.` in the right column of shared PDF
+505 / printed column 995; restart at that lemma, excluding all verse 21 prose
+above it and all left-column text before it.

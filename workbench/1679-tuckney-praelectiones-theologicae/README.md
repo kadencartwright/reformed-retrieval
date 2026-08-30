@@ -574,6 +574,24 @@ significatione`, is excluded.
 - English: `parts/part-32-romans-04-05-abraham-08-english.md`
 - Extent: eight synchronized markers, printed pp. 208–215 / IA leaves 216–223
 
+## Part 33: ninth unit of the Romans 4:5 lecture
+
+Part 33 completes the second subordinate question in Tuckney's imputation
+inquiry: what it means for something to be imputed `in justitiam`. It
+distinguishes the righteousness of an act from that of a person, uses
+Phinehas to distinguish particular vindication from universal
+justification, and contrasts the old covenant's demand for complete
+obedience with Christ's righteousness and faith's instrumental reception
+under the covenant of grace. It runs from `Secundum est de Phraseos hujus
+significatione` on printed p. 215 / IA leaf 223 through the conclusion of
+the phrase-level inquiry on printed p. 217 / IA leaf 225. The third question,
+`Ad tertium tandem quaesitum devenimus circa imputationem justitiae Christi`,
+is excluded.
+
+- Latin: `parts/part-33-romans-04-05-abraham-09-latin.txt`
+- English: `parts/part-33-romans-04-05-abraham-09-english.md`
+- Extent: three synchronized markers, printed pp. 215–217 / IA leaves 223–225
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -458,6 +458,19 @@ Romans 4:5 is excluded.
 - English: `parts/part-24-romans-01-17-justification-23-english.md`
 - Extent: seven synchronized markers, printed pp. 155–161 / IA leaves 163–169
 
+## Part 25: first unit of the Romans 4:5 lecture
+
+Part 25 opens the new lecture on Romans 4:5, surveys its first five verses,
+and develops the structure and method of Paul's argument from Abraham's
+example. It runs from the centered `THESES ET PRAELECTIONES THEOLOGICAE. Rom.
+IV. 5.` on printed p. 161 / IA leaf 169 through the formal summary of the
+Abraham argument on printed p. 168 / IA leaf 176. The following dialectical
+objection, `Sed priusquam ad horum omnium texturam`, is excluded.
+
+- Latin: `parts/part-25-romans-04-05-abraham-01-latin.txt`
+- English: `parts/part-25-romans-04-05-abraham-01-english.md`
+- Extent: eight synchronized markers, printed pp. 161–168 / IA leaves 169–176
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

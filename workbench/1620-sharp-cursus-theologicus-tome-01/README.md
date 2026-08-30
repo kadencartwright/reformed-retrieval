@@ -86,9 +86,10 @@ then continues through the existence, unity, and essence of God, the opening
 taxonomy and rules of the divine attributes, the complete treatments of
 divine simplicity and infinity, including eternity, immutability, and
 immensity, and the opening rule for communicable attributes with the complete
-treatments of divine life and divine wisdom or knowledge. Units that share a
-numbered column meet at the printed internal heading or section boundary in
-that column; neither pair duplicates matter across the join.
+treatments of divine life, divine wisdom or knowledge, and the divine will.
+Units that share a numbered column meet at the printed internal heading or
+section boundary in that column; neither pair duplicates matter across the
+join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -109,6 +110,7 @@ that column; neither pair duplicates matter across the join.
 | 16 | Question IV: divine infinity, eternity, immutability, and immensity | 188–192 | 00110–00112 |
 | 17 | Question IV: communicable attributes and divine life | 192–193 | 00112–00113 |
 | 18 | Question IV: divine wisdom or knowledge | 194–196 | 00113–00114 |
+| 19 | Question IV: divine will | 197–200 | 00115–00116 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
@@ -149,13 +151,20 @@ Part 17 spans portions of two numbered columns; the word `comprehendere`
 crosses their boundary and is represented by a synchronized split in both
 files.
 
-**Exact resume boundary:** Part 18 ends at the foot of column 196 at BSB frame
+**Part-18/Part-19 join:** Part 18 ends at the foot of column 196 at BSB frame
 00114 with the fifth use of the doctrine of divine wisdom, `quia Deo inscio
-nobis non accidunt.` The heading `De Voluntate Dei.` begins at the top of
-column 197 on BSB frame 00115 and is excluded. The treatment of the divine
-will is the next untranscribed text. In Part 18 the Greek word `βλεπομένων`
-and the Latin word `cogitationis` cross numbered-column boundaries and are
-represented by synchronized splits in both files.
+nobis non accidunt.` Part 19 begins at the top of column 197 on BSB frame
+00115 with `De Voluntate Dei.` No text is omitted or duplicated at the join.
+In Part 18 the Greek word `βλεπομένων` and the Latin word `cogitationis` cross
+numbered-column boundaries and are represented by synchronized splits in both
+files.
+
+**Exact resume boundary:** Part 19 ends in column 200 at BSB frame 00116 with
+the list of names given to the one divine will, `castitas, &c.` The heading
+`De Veritate Dei.` begins immediately afterward in the same column and is
+excluded. The treatment of divine truth is the next untranscribed text. In
+Part 19 the Latin words `beneplaciti` and `Malum` cross numbered-column
+boundaries and are represented by synchronized splits in both files.
 
 ## Editorial method and status
 
@@ -265,5 +274,27 @@ Both files are AI-assisted and unreviewed.
   6:30, appears to be intended. The printed locator is retained and noted in
   the English.
 - The small Greek types in columns 194–196 have been normalized to Unicode
+  directly from the page images but should receive specialist collation before
+  publication.
+
+## Printed anomalies in Part 19
+
+- Column 197 prints `Num. 29.19.` in support of the immutability of God’s will;
+  Numbers 23:19 appears to be intended. It also prints `Proverb. 29.21.`, where
+  Proverbs 19:21 appears to be intended, and `Ezec. 9.28.`, although Ezekiel 9
+  has no verse 28. All three locators are retained and noted in the English.
+- Column 198 prints Lombard, *Sentences*, `lib. 1. distinctione 145.`; the
+  apparent intended reference is book 1, distinction 45. The printed number is
+  retained and noted in the English.
+- Column 198 prints `1. Cor. 10.32.` for God’s willing his own glory before all
+  things; 1 Corinthians 10:31 appears to be intended. The printed locator is
+  retained and noted in the English.
+- Column 199 prints `Habac. 1.43.`, although Habakkuk 1 has no verse 43;
+  Habakkuk 1:13 appears to be intended. The printed locator is retained and
+  noted in the English.
+- Column 200 prints the anomalous phrase `Haec vnicas Dei voluntas`. The Latin
+  retains `unicas` under the edition’s normalized `u/v` convention, while the
+  English gives the apparent sense and records the wording in a note.
+- The small Greek types in columns 197–198 have been normalized to Unicode
   directly from the page images but should receive specialist collation before
   publication.

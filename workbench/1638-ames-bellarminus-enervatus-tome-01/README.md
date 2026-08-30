@@ -219,6 +219,32 @@ regularized. The Greek `ψυχὴ`, `ᾅδης`, `διεσκορπίσθη τὰ
 `ἀνθρωποπάθειαν`, `πορεύεσθαι`, and `οὖσιν` on pp. 105–110 have been checked
 directly against the controlling images.
 
+**Part 09 is the complete third and final chapter of Book II.** It begins with
+the `CAPUT III` heading on printed p. 116, after the `CAPUT` catchword at the
+foot of shared printed p. 115. It includes the complete thesis on Christ the
+Mediator and its concluding internal section on whether Christ merited
+anything for himself, continuing through point `22` and the end of Book II on
+printed p. 125:
+
+- e-rara canvases 126–135 / printed pp. 116–125;
+- same-impression Augsburg comparison canvases 140–149;
+- Book II, Chapter III, *De Christo Mediatore*;
+- next unit: Book III, Chapter I, *De regimine Ecclesiae*, beginning on
+  printed p. 126.
+
+The paired files carry ten identical source markers. The two words split by
+page boundaries—`substantialis` (pp. 122/123) and `rationis` (pp. 124/125)—are
+joined and placed wholly after the incoming marker in both files. The
+bottom-of-page forms `CAPUT` (p. 115), `2. Bellar.` (p. 116), `natura` (p.
+117), `est, esse` (p. 118), `Christus` (p. 119), `aliud` (p. 120), `Deus` (p.
+121), `stantia-` (p. 122), `ex parte` (p. 123), `nis` (p. 124), and `BEL-` (p.
+125) are catchwords rather than additional or duplicated text and are
+excluded. The controlling and comparison images agree throughout the
+chapter's setting. The witness's accusative form `Christum innocens` on
+printed p. 116 and its jump from numbered point `4` to point `6` across pp.
+118–119 are retained rather than silently regularized. Its Greek
+`θεάνθρωπος` on printed p. 118 has been checked directly against both copies.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -256,3 +282,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-07-book-02-chapter-02a-english.md`
 - `parts/part-08-book-02-chapter-02b-latin.txt`
 - `parts/part-08-book-02-chapter-02b-english.md`
+- `parts/part-09-book-02-chapter-03-latin.txt`
+- `parts/part-09-book-02-chapter-03-english.md`

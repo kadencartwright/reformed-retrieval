@@ -626,6 +626,22 @@ first scriptural proof on printed p. 223 / IA leaf 231. The next proof,
 - English: `parts/part-35-romans-04-05-abraham-11-english.md`
 - Extent: three synchronized markers, printed pp. 221–223 / IA leaves 229–231
 
+## Part 36: twelfth unit of the Romans 4:5 lecture
+
+Part 36 gives Tuckney's second proof for imputed righteousness from 1
+Corinthians 1:30. It distinguishes the several ways Christ becomes wisdom,
+righteousness, sanctification, and redemption for believers, answers
+Bellarmine's efficient-cause reading, and argues that Bellarmine and
+Cornelius a Lapide concede the substance of applying Christ's satisfaction
+as though believers themselves had satisfied. It runs from `Secundo licet
+ῥητῶς in Sacra Pagina non occurrat` on printed p. 223 / IA leaf 231 through
+the completion of the 1 Corinthians proof on printed p. 225 / IA leaf 233.
+The next testimony, introduced by `Et ad locum alium accedamus`, is excluded.
+
+- Latin: `parts/part-36-romans-04-05-abraham-12-latin.txt`
+- English: `parts/part-36-romans-04-05-abraham-12-english.md`
+- Extent: three synchronized markers, printed pp. 223–225 / IA leaves 231–233
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

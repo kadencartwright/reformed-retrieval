@@ -1172,3 +1172,61 @@ numbered structures.
 
 - Latin: `parts/part-48-chapter-13g-latin.txt`
 - English: `parts/part-48-chapter-13g-english.md`
+
+**Part 49 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 579 / PDF 628 at the lemma whose printed `PHIL. 2:21.` is
+corrected by the errata leaf to `PHIL. 2:12.`, without repeating Part 48's
+closing treatment of Solomon. It contains the complete question whether
+exhortations that engender fear destroy the force of God's absolute promise
+of perseverance, including the objection concerning irresistible
+preservation, the distinctions among kinds of fear, and the complete reply to
+the Synodists' syllogism about threats of eternal death. It ends near the top
+of printed p. 586 / PDF 635 after the conclusion concerning the intended
+audiences of evangelical promises and threats. The new question `Quæritur, An
+Remonstrantes rectè sic contra Perseverantiam necessariam fidelium,
+rethoricentur juxta nos?` is excluded and forms the exact restart for Part 50.
+The pair has eight byte-identical synchronized markers for partial pp. 579 and
+586 and complete pp. 580–585. A page-by-page image audit against the
+controlling KBNL/UvA Google Books images covered all eight included frames,
+both shared-page boundaries, every page join, the corrected lemma, the full
+question, objection, distinctions and quoted syllogism, biblical and
+polemical citations, Greek, and the absence of Hebrew and substantive
+marginalia. The printed p. 579 line-23 erratum is applied and documented. The
+split words `puero`, `peccata`, and `non-credentium` are joined with their
+new-page markers before the whole words and their English equivalents. The
+lemma's repeated `In timore & timore`, the irregular citations `Psal. 119:19`
+and `Rom. 8:53---39`, and the Greek `χρῆμά τι` are retained and translated or
+explained. The partly obscured `Ergo` on p. 585 was confirmed against the
+intact British Library Google Books exemplar. The English follows the Latin
+at clause level while preserving the complete argumentative structure.
+
+- Latin: `parts/part-49-chapter-13h-latin.txt`
+- English: `parts/part-49-chapter-13h-english.md`
+
+**Part 50 is complete as a scan-audited working draft.** It resumes near the
+top of shared printed p. 586 / PDF 635 at the question whether the
+Remonstrants rightly declaim against the necessary perseverance of believers,
+without repeating Part 49's closing conclusion. It contains three complete
+questions: the seven-point reply to that rhetorical attack; whether those
+certain of eternal life can be moved to obedience by its promise; and whether
+believers' liability to death unless they repent entails a total fall from
+grace. It ends within printed p. 593 / PDF 642 after the third and final
+argument of the last question. The new lemma `MATTH. 16:18.` and its
+exposition are excluded and form the exact restart for Part 51. The pair has
+eight byte-identical synchronized markers for partial pp. 586 and 593 and
+complete pp. 587–592. A page-by-page image audit against the controlling
+KBNL/UvA Google Books images covered all eight included frames, both
+shared-page boundaries, every page join, all three questions and their
+numbered structures, the extended pen-and-writer analogy, biblical,
+Augustinian, and polemical citations, Greek, and the absence of Hebrew and
+substantive marginalia. No printed correction applies within this unit. The
+split words `certitudine`, `Nihil`, `artificiosè`, `elevatum`, `currendum`, and
+`filialis` are joined with their new-page markers before the whole words and
+their English equivalents. The Greek `ἀσύστατα`, the technical `conditio
+Juridicorum`, and visibly difficult or irregular forms and citations are
+retained and translated or explained rather than silently regularized. The
+English follows the Latin at clause level while preserving the quoted
+Remonstrant speech, distinctions, analogies, and complete numbered structures.
+
+- Latin: `parts/part-50-chapter-13i-latin.txt`
+- English: `parts/part-50-chapter-13i-english.md`

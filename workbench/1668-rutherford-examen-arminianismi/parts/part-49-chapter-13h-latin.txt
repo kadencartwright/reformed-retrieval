@@ -1,0 +1,183 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within printed p. 579 at the lemma corrected
+by the printed errata to `PHIL. 2:12.`, without repeating Part 48's closing
+treatment of Solomon. It contains the complete question whether exhortations
+that engender fear destroy the force of God's absolute promise of
+perseverance, including the objection concerning irresistible preservation,
+the distinctions among kinds of fear, and the reply to the Synodists'
+syllogism about threats of eternal death. It ends near the top of printed
+p. 586 after the conclusion concerning the intended audiences of evangelical
+promises and threats. The new question `Quæritur, An Remonstrantes rectè sic
+contra Perseverantiam necessariam fidelium, rethoricentur juxta nos?` is
+excluded and forms the exact restart for Part 50. Printer line-end and page-end
+divisions have been joined; each new-page marker precedes the whole word at a
+split-word boundary.]
+
+[Errata note: The printed erratum for p. 579 line 23 directs `pro 21 l. 12`.
+The body's lemma heading `PHIL. 2:21.` is therefore corrected below to `PHIL.
+2:12.`]
+
+[Printed-form note: The lemma's visibly repeated `In timore & timore`, the
+irregular citations `Psal. 119:19` and `Rom. 8:53---39`, and the Greek `χρῆμά
+τι` are retained rather than silently regularized. The partly obscured `Ergo`
+on p. 585 was confirmed against the intact British Library Google Books
+exemplar. No Hebrew or substantive marginal note occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 579 | PDF p. 628 | begins at PHIL. 2:12. (printed 2:21; erratum applied)]
+
+PHIL. 2:12.
+
+--- In timore & timore operamini opus salutis vestræ.
+
+Quæritur, An quia hortationes suâ naturâ inserviunt ad metum ingenerandum,
+ideò pereat ratio promissionis, quâ Deus absolutè Perseverantiam promittit?
+Ajunt Remonstrantes. Script. Synod. p. 278. Negamus nos.
+
+[1668 KBNL/UvA witness | logical printed p. 580 | PDF p. 629]
+
+1. Quia ad Perseverantiam Physicam & brutam, omnisque cognitionis expertem,
+hortationes & suasiones morales, ad metum ingenerandum de non-perseverantiâ,
+essent ridiculæ: ut si Deus cœlum & terram hortaretur, ut in suo esse
+perseverent, quæ tamen necessitate Physicâ perseveratura sunt. Psal. 119:19.
+Perseverant ad hunc diem. At verò hortationes morales, ad ingenerandum metum
+comparatæ, media sunt aptissima iis, qui moralitèr, ethicè, & ex certâ
+cognitione, absolutè perseveraturi sunt ex promissione divinâ.
+
+2. Non tollitur ratio promissionis Perseverantiæ absolutæ, quandò sanctus piè
+metuit nè deficiat; quia metus nè deficiam, tanquam medium non-deficientiæ,
+etiam absolutè promittitur. Jer. 32:40, 41.
+
+3. Quia metus nè deficiam non pugnat cum promissione, quâ promittitur fore, ut
+nunquam deficiam; non magis, quàm fides Davidis, quâ credebat se fore Regem
+Israelis, pugnabat cum piâ cautelâ, quâ iram & manus Sauli ipsum interfecturi
+fugiebat. Sic fides Josephi & Mariæ (quâ credebant, Deum irresistibili virtute
+suâ, Christum infantem in vivis conservaturum, donec ad ætatem provectiorem
+adultus, in ligno crucis pro peccatis mundi victimam sese Deo offeret) minimè
+pugnabat cum piâ cautelâ, quâ Josephus & Maria fugerunt in Ægyptum cum
+
+[1668 KBNL/UvA witness | logical printed p. 581 | PDF p. 630 | split word joined: puero]
+
+puero, idque ex speciali Dei mandato, nè Herodes Christum infantem cum
+reliquis infantibus interficeret. Fides namque quâ credo fore, ut absolutè
+perseverem, & metus, quo timeo nè non perseverem, non habent objecta
+contradictoriè opposita; & contradictio non est ad idem: Quia objectum Fidei
+est Deus irresistibili suâ gratiâ operans in me cautelam, nè deficiam; &
+objectum metus est defectio, ex hypothesi quod ego culpabilitèr negligens, &
+minùs cautus fuero in perseverando. Objectum Fidei hîc est actio Dei
+irresistibilis promissa: nam actio mea perseverandi non est propriè fidei
+objectum. Objectum Metus est culpabilis mea negligentia & carentia pii
+timoris.
+
+Dices, non necesse esse, ut metuas nè deficias; quia Deus irresistibilitèr
+efficiet nè deficias. Resp. 1. Efficit ut metuam nè deficiam, ità ut iste Metus
+medium sit ad non-deficientiam procurandam. 2. Dei non-effectio pii metus in
+me non est objectum timoris pii; imò peccatum est illud timere, quod fide
+divinâ credendum est fore: Sed objectum timoris formalitèr est mea negligentia
+naturalis & securitas, non autem Apostasia mea. Itaque timor propriè dictus de
+eventu, locum hîc non habet, sed tantùm cautela & pia mediorum cura. 3. Duplex
+est timor; alius circa finem, nempè, æternam mortem. Alius circa media
+tendentia ad eum finem, nempè,
+
+[1668 KBNL/UvA witness | logical printed p. 582 | PDF p. 631 | split word joined: peccata]
+
+peccata mea. Metus circa finem duplex est; alius absolutus, alius
+conditionatus. Absolutus timor circa finem, est quandò quis timet de morte
+æternâ quoad eventum infligendâ. Hic metus in renatis non imperatur in
+hortationibus aut comminationibus; est enim metus desperationis, ad quem Deus
+nullos hortatur; & est formalitèr culpa infidelitatis, timere, nè iste eventus
+fiat, aversio cujus est penes solum Deum, juxta illud vulgatum; Nostrum est
+officia, Dei verò eventus curare: Quia metus propriè dictus obligat nos ad
+credendum, Deum veracem esse in comminationibus; adeòque actu inflicturum
+malum, quod comminatur. At credere Deum actu inflicturum mortem æternam, è
+diametro pugnat cum fide, quâ tenetur electus credere finalem perseverantiam
+& vitam æternam.
+
+Alius verò est metus conditionatus; estque horror & metus de morte æternâ mihi
+infligendâ, non simplicitèr, sed mihi ultrò negligenti diem salutis, vel si
+neglexero diem salutis. Hic metus non potest non esse in eo, qui credit fide
+legali, comminationibus Dei tùm Legalibus tùm Evangelicis. Prior metus, qui
+desperationis dicitur, quia formalitèr includit peccatum, justificatis imperari
+non potest. Metus verò horroris, qui conditionatus dicitur, optimè potest esse
+in eo, qui certò persuasus est, se malum, quoad eventum, infligendum,
+effugiturum. Quis
+
+[1668 KBNL/UvA witness | logical printed p. 583 | PDF p. 632]
+
+enim non horret & metuit, qui videt caput alteri gladio abscindi, etsi
+persuadeatur se eam mortem evasurum? Quis stans in margine ripæ, juxta
+imminentem voraginem profundissimi fluvii, non cohorresceret, etsi certò sciat
+se illîc nunquam submersum iri? juxta illud, 2 Cor. 5:11. Scientes igitur
+terrorem Domini, persuademus hominibus &c. Persuasissimum habuit Paulus se
+nullis machinis mundi, carnis, aut Diaboli, posse separari à charitate Dei quæ
+est in Christo Jesu. Rom. 8:53---39. Attamen non defuit Paulo experimentalis
+horror & tremor de extremo judicio.
+
+Alius est etiam timor circa media; & hic duplex etiam est: alius
+conditionatus, alius absolutus. Conditionatus est, cùm renatus, ex hypothesi
+quòd deseratur, & ad tempus, de favore Dei & suâ perseverantiâ, dubitat &
+timet; & stante eâ dubitatione, non metuere sed securum esse, est malum &
+peccatum, quamvis simplicitèr, dubitantem conscientiam & metum deponere
+teneatur. Undè metus iste est rationalis χρῆμά τι ex illâ hypothesi. Alius est
+absolutus Timor circa media, quandò quis renatus timet, nè suæ segnitiæ
+indulgeat, & oscitantiæ suæ & supinæ negligentiæ pœnas luat. Et hic Timor
+(quandò illius Objectum est finalis oscitantia & incuria cum impœnitentiâ)
+idem est, quod desperatio de suâ perseverantiâ, & damnabilis est; quia qui sic
+
+[1668 KBNL/UvA witness | logical printed p. 584 | PDF p. 633]
+
+metuit, dubitat de eventu, qui est proprius Dei; & dubitat, utrum Deus
+promissiones suas de indendo cordi pio timore Jer. 32:40. implebit. Quandò
+verò Objectum hujus timoris est nativa inclinatio ad defectionem, estque nihil
+aliud, quàm cura faciendi quod Deus jubet, & cautela & fuga desidiæ,
+oscitantiæ, rebellionis; tum est metus pius, & genuinus effectus hortationum &
+comminationum.
+
+Hinc facile est respondere ad illud Synodistarum art. 5. pag. 292. Quæ nullo
+modo efficere possunt id, ad quod efficiendum, naturâ suâ comparata sunt, illa
+frustrà ad id efficiendum, tanquam media adhibentur. At comminationes mortis
+æternæ, fidelibus factæ, si illi deficere nequeunt, nullo modo efficere possunt
+id, ad quod efficiendum, naturâ suâ comparatæ sunt. Ergo &c. Minor probatur.
+Quia comminationes comparatæ sunt ad ingenerandum mali metum, nempè, mortis
+æternæ. At in fidelibus persuasis, quòd defecturi nunquam sint, metus mortis
+æternæ ingenerari nequit: Certam enim fiduciam habent, quòd Deus ipsis malum
+illud æternæ mortis infligere neque velit neque possit, propter decretum
+Electionis absolutum factum.
+
+Resp. Comminationes mortis æternæ, respectu verè regenitorum, impropriæ
+comminationes sunt; habent enim aliquid peculiare, quod non est in
+comminationibus humanis; quemadmodùm & promissiones respectu reproborum,
+
+[1668 KBNL/UvA witness | logical printed p. 585 | PDF p. 634 | split word joined: non-credentium]
+
+non-credentium. Non enim respectu regenitorum, & quatenùs iis factæ sunt,
+sunt propriè dictæ comminationes; quia hæc comminatio (Volo mortem æternam
+infligere Petro, siquidem impœnitens fuerit) æquipollet huic, (Volo infligere
+mortem æternam Petro, siquidem ego negavero ei credendi & resipiscendi gratiam
+efficacem:) Et hæc rursùs æquipollet huic (Volo ut Petrus in æternùm moriatur,
+siquidem ego eum ab æterno reprobavi) Hæc autem suppositio nihil omninò ponit,
+quia conditio nihil ponit, quandò conditionatum est non-ens & nihil: Petrus
+autem non est ab æterno reprobatus; Ideòque falsa minor, & falsa ejus
+probatio; quia Deus non vult ut Petrus credens, metuat æternam mortem. Nec
+comminationes comparatæ sunt ad ingenerandum metum mortis æternæ; sed
+comparatæ sunt ad cautelam & usum anxium mediorum, more hominis metuentis
+mortem æternam. Hæc enim comminatio (Si David non fugerit è Ceilâ, Saulus eum
+interficiet) non comparatur ad ingenerandum Davidi timorem, nè unquam sit Rex
+Israelis, & ad diffidendum Deo, qui per prophetam dixit, eum fore Regem
+Israelis. Si Deus dicit Christo (fuge populum te lapidare conantem) non licet
+hinc inferre, (Ergo, metue nè tu per mortem crucis, mundum unquam redimas.)
+Quod alibi dictum de promissionibus Evangelicis, omnibus & singulis in
+Visibili Ecclesiâ prædicatis, sed ad solos filios
+
+[1668 KBNL/UvA witness | logical printed p. 586 | PDF p. 635]
+
+promissionis, ut loquitur Paulus, Rom. 9. reipsâ spectantibus; id hîc dicendum
+de comminationibus Evangelicis, in promiscuâ turbâ prædicatis, sed in Dei
+intentione ad solos reprobos & irregenitos spectantibus.

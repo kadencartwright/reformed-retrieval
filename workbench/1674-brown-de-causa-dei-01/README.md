@@ -62,7 +62,7 @@ page-structured collation aid for Parts 46–47. The access PDF, plain OCR, and
 DjVu XML were freshly acquired once more for Parts 48–49 on 30 August 2026 and
 are byte-identical to the recorded derivatives. All four derivatives were
 freshly acquired again for Part 50 on 30 August 2026 and remain byte-identical
-to that set:
+to that set; the same locally retained derivatives govern Part 51:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -106,9 +106,10 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XVII on logical printed p. 357. Shared-page boundaries preserve each
-new argumentative unit in the following part rather than duplicating it. The
-witness's visible pagination jumps from 256 to 275 at PDF 275; from that point
+Chapter XVIII in the upper part of shared logical printed p. 364. Shared-page
+boundaries preserve each new argumentative unit in the following part rather
+than duplicating it. The witness's visible pagination jumps from 256 to 275 at
+PDF 275; from that point
 the continuous logical numbering used in the markers is eighteen lower than
 the visible numbers, while the IA-leaf and PDF references identify the exact
 images without ambiguity.
@@ -165,6 +166,7 @@ images without ambiguity.
 | 48 | Book II, Chapter XV; observance of principal and solemn time is a part of worship | logical printed pp. 334–340 / IA leaves 352–358 / PDF pp. 352–358; visible pp. 352–358; stops before `CAP. XVI.` on p. 341 | 7 |
 | 49 | Book II, Chapter XVI; Walaeus's and other contrary arguments weighed | logical printed p. 341 through the upper part of shared logical p. 349 / IA leaves 359–367 / PDF pp. 359–367; visible pp. 359–367; stops before `CAP. XVII.` | 9 |
 | 50 | Book II, Chapter XVII; days are not all equal in holiness | lower part of shared logical printed p. 349 through logical p. 357 / IA leaves 367–375 / PDF pp. 367–375; visible pp. 367–375; stops before `CAP. XVIII.` on logical p. 358 | 9 |
+| 51 | Book II, Chapter XVIII; contrary arguments against the distinction of days examined | logical printed p. 358 through the upper part of shared logical p. 364 / IA leaves 376–382 / PDF pp. 376–382; visible pp. 376–382; stops before `CAP. XIX.` | 7 |
 
 The files are:
 
@@ -218,8 +220,9 @@ The files are:
 - `parts/part-48-book-02-chapter-15-observance-is-worship-{latin.txt,english.md}`
 - `parts/part-49-book-02-chapter-16-wallaeus-objections-{latin.txt,english.md}`
 - `parts/part-50-book-02-chapter-17-days-not-equal-in-holiness-{latin.txt,english.md}`
+- `parts/part-51-book-02-chapter-18-contrary-arguments-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–50 image audits
+### Part 04 re-audit and Parts 05–51 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1377,6 +1380,37 @@ quibuscunque?` The following rule, signature `Yy 3`, catchword `CAP.`, and `CAP.
 XVIII.` on logical printed p. 358 are excluded. The next untranslated text is
 therefore `CAP. XVIII. Examinantur Rationes Adversariorum Contrariae.` on logical
 printed p. 358 / IA leaf 376 / PDF p. 376.
+
+Part 51 is the complete, image-audited eighteenth chapter of Book II. It answers
+twelve contrary arguments against distinguishing days under the Gospel,
+including appeals to Romans 14, Galatians 4, and Colossians 2 and arguments from
+Jean de Labadie's manuscript. Every controlling image from the Chapter XVIII
+heading on PDF 376 through the chapter end on PDF 382 was read directly,
+including all six internal joins and the outgoing shared-page stop before `CAP.
+XIX.` OCR and the byte-identical page-structured DjVu XML were used only as
+collation aids. The Latin and English contain the identical seven-marker
+sequence. The visible witness numbers these pages 376–382; the markers retain
+the continuous logical sequence 358–364 and record the exact IA leaves and PDF
+pages. The stop is the exact Chapter XVIII/XIX boundary.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 376–382. Its general warning about deficient Greek and Hebrew type is
+disclosed in both file headers, and the controlling images govern `phraseωs`,
+`καιρούς`, and `τὰ ἀσθενῆ καὶ πτωχὰ στοιχεῖα`; no Hebrew or separate substantive
+marginal gloss occurs. Printer-divided words at the logical pp. 358/359, 360/361,
+362/363, and 363/364 joins are joined with the new marker before the complete
+Latin word and corresponding English word or phrase. The other two joins fall
+between complete words; running heads, signatures, catchwords, the rule, and
+the Chapter XIX heading are omitted. All twelve objections, numbered
+responses, citations, the extended quotation from Hoornbeeck, and substantive
+italic distinctions are retained.
+
+The exact Part 51 opening is `CAP. XVIII. Examinantur Rationes Adversariorum
+Contrariae.` Its final included words are `...& respectu istius tum praecepti,
+tum usûs, vulgari sacratiorum.` The following rule and `CAP. XIX.` are excluded.
+The next untranslated text is therefore `CAP. XIX. Generalia quaedam de Loco in
+ordine ad Religionem proponuntur, ejusque necessitas & utilitas ostenditur.` on
+shared logical printed p. 364 / IA leaf 382 / PDF p. 382.
 
 ## Review and licensing status
 

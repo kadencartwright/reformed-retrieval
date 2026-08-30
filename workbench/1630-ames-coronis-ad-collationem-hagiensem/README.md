@@ -76,10 +76,12 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–05 are complete as AI-assisted, unreviewed working drafts.** They
-cover the whole of Article I, Chapters I–XV, from the Article I heading on
-printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
-printed p. 92 / canvas 102. The files are divided as follows:
+**Parts 01–06 are complete as AI-assisted, unreviewed working drafts.** Parts
+01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
+on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
+printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
+on redemption through its concluding four-point synthesis on printed p. 103 /
+canvas 113. The files are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -87,18 +89,24 @@ printed p. 92 / canvas 102. The files are divided as follows:
 - Part 04: Chapters XI–XII, canvases 69–86 / printed pp. 57–76, including the
   anomalous printed pp. 75–76 on canvases 85–86 (intended pp. 73–74).
 - Part 05: Chapters XIII–XV, canvases 87–102 / printed pp. 77–92.
+- Part 06: Article II, Chapter I, canvases 103–113 / printed pp. 93–97, the
+  anomalous printed p. 67 on canvas 108 (intended p. 98), and printed
+  pp. 99–103.
 
-Part 05 contains Ames's third through fifth arguments against conditional
-election and completes Article I. It begins with `CAP. XIII. Argumentum
-tertium` at the top of printed p. 77 / canvas 87 and ends with
-`...neque Remonstrantes (in ista saltem parte) favere Confessioni, neque
-Confessionem illis.` on printed p. 92 / canvas 102. The catchword `Articulus`
-at the foot of that page is excluded.
+Part 06 establishes the state of the question for Article II. It begins with
+`Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
+quaestionis eruitur` on printed p. 93 / canvas 103 and ends with
+`...reconciliatione praeparata iam actu fruantur.` in the upper portion of
+printed p. 103 / canvas 113. The source's erroneous `Ioh. 2. 16.` and
+`Gen. 1. 18.` citations are retained with comparisons to John 3:16 and Gen.
+15:18, and canvas 108's printed page number is recorded as `67 (sic; intended
+p. 98)`. Chapter II begins lower on canvas 113 and is excluded.
 
-- Latin: `parts/part-05-article-01-chapters-13-15-latin.txt`
-- English: `parts/part-05-article-01-chapters-13-15-english.md`
-- Both Part 05 files contain sixteen synchronized source markers for printed
-  pp. 77–92 / BSB canvases 87–102.
+- Latin: `parts/part-06-article-02-chapter-01-latin.txt`
+- English: `parts/part-06-article-02-chapter-01-english.md`
+- Both Part 06 files contain eleven synchronized source markers for BSB
+  canvases 103–113 and the printed-page sequence described above.
 
-The next unit begins with `Articulus Secundus, De Redemptione Universali` and
-`CAPUT I. Status quaestionis eruitur` on printed p. 93 / BSB canvas 103.
+The next untranslated unit begins with `CAP. II. Argumentum primum. Pag. 117.`
+and `In istoc argumento, quaestio prima in axiomate discreto proponitur` lower
+on printed p. 103 / BSB canvas 113.

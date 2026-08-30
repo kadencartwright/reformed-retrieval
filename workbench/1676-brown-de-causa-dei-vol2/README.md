@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and sixteen printed
-> pages of Volume II. The thirty paired parts are unreviewed and are not
+> close English translations of the opening one hundred and nineteen printed
+> pages of Volume II. The thirty-one paired parts are unreviewed and are not
 > publication-ready.
 
 ## Work and edition
@@ -86,7 +86,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 116 is applied and disclosed in the relevant
+completed span through printed p. 119 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapter VII were read from the images, not
 reconstructed from IA OCR. Apparatus notes record printed errata,
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty-one paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -240,13 +240,19 @@ working drafts:
   markers.
   [Latin](parts/part-30-book-04-chapter-10-arguments-latin.txt) |
   [English](parts/part-30-book-04-chapter-10-arguments-english.md)
+- **Part 31:** all of Chapter XI, arguing in twenty-two ways that the covenant
+  made with the Israelites was not a mixed covenant, with one objection and
+  response; printed pp. 116–119 / IA PDF and leaves 124–127; four synchronized
+  markers.
+  [Latin](parts/part-31-book-04-chapter-11-no-mixed-covenant-latin.txt) |
+  [English](parts/part-31-book-04-chapter-11-no-mixed-covenant-english.md)
 
-Part 30 ends with Chapter X's twenty-seventh argument and before `CAP. XI.` on
-shared printed p. 116. The exact next untranslated text is `CAP. XI. Foedus
-cum Israëlitis ictum non fuit foedus mixtum.`, at printed p. 116 / IA PDF 124
-/ IA leaf 124. Chapters VI through X are complete. Every completed pair has an
-identical source-marker sequence, and all thirty pairs remain AI-assisted and
-unreviewed.
+Part 31 ends with Chapter XI's response to the objection and before `CAP.
+XII.` on printed p. 120. The exact next untranslated text is `CAP. XII. Foedus
+cum Israëlitis ictum non fuit foedus subserviens.`, at printed p. 120 / IA PDF
+128 / IA leaf 128. Chapters VI through XI are complete. Every completed pair
+has an identical source-marker sequence, and all thirty-one pairs remain
+AI-assisted and unreviewed.
 
 ## Licensing
 

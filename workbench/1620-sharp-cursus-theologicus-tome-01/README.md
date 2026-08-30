@@ -82,9 +82,11 @@ the tome through the introduction and first three questions of `DE DEO`. It
 includes the complete opening tract `DE SACRA SCRIPTURA`, with the meanings of
 tradition, state of the final controversy, positive arguments, testimonies of
 the Fathers, and all twenty-eight printed objections with their responses. It
-then continues through the existence, unity, and essence of God. Units that
-share a numbered column meet at the printed internal heading or question
-boundary in that column; neither pair duplicates matter across the join.
+then continues through the existence, unity, and essence of God, the opening
+taxonomy and rules of the divine attributes, and the complete treatment of
+divine simplicity. Units that share a numbered column meet at the printed
+internal heading or section boundary in that column; neither pair duplicates
+matter across the join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -101,6 +103,7 @@ boundary in that column; neither pair duplicates matter across the join.
 | 12 | Controversy IX: perfection, objections 1–5 | 136–151 | 00082–00090 |
 | 13 | Controversy IX: perfection, objections 6–28 | 151–170 | 00090–00099 |
 | 14 | `DE DEO`: introduction and Questions I–III | 170–180 | 00099–00104 |
+| 15 | Question IV: attributes and divine simplicity | 180–188 | 00104–00106, 00109–00110 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
@@ -111,13 +114,24 @@ the response to Objection 28, `in quo & a nobis imitandi sunt.` Part 14 begins
 later in the same column at the ornamental heading `DE DEO`; no matter between
 the sentence and heading is omitted or duplicated.
 
-**Exact resume boundary:** Part 14 ends in column 180 at BSB frame 00104 with
+**Part-14/Part-15 join:** Part 14 ends in column 180 at BSB frame 00104 with
 the final sentence on the name *Elohim*, `De hoc nomine pluribus ubi de
-Trinitate.` The heading `QUAESTIO IV. Qualis sit Deus: ubi de attributis
-Divinis agitur.` begins immediately afterward in the same column and is
-excluded. That heading and its following treatment of the divine attributes
-are the next untranscribed text. Part 14 spans portions of eleven numbered
-columns.
+Trinitate.` Part 15 begins immediately afterward in the same column at
+`QUAESTIO IV. Qualis sit Deus: ubi de attributis Divinis agitur.` No text is
+omitted or duplicated at the join.
+
+**BSB imaging sequence in Part 15:** Frame 00107 is a defective exposure of
+columns 185–186, with the leaf folded and other columns intruding into the
+image. Frame 00108 repeats columns 183–184, and frame 00109 supplies the clear
+retake of columns 185–186. The transcription therefore maps columns 185–186
+to frame 00109 and does not use the obscured exposure to fill readings.
+
+**Exact resume boundary:** Part 15 ends in column 188 at BSB frame 00110 with
+the fourth use of the doctrine of simplicity, `nempe Deo similes sine ulla
+mixtura peccati.` The internal heading `De Infinitate Dei.` begins immediately
+afterward in the same column and is excluded. The treatment of divine
+infinity is the next untranscribed text. Part 15 spans portions of nine
+numbered columns.
 
 ## Editorial method and status
 
@@ -192,5 +206,14 @@ Both files are AI-assisted and unreviewed.
   Exodus 3:15 appears to be intended. The printed locator is retained and
   noted in the English.
 - The Hebrew and small Greek types in columns 174–180 have been normalized to
+  Unicode directly from the page images but should receive specialist
+  collation before publication.
+
+## Printed anomalies in Part 15
+
+- In the first argument for divine simplicity, column 185 prints `Exodi 3.6.`
+  for God’s calling himself *EST* without a predicate; Exodus 3:14 appears to
+  be intended. The printed locator is retained and noted in the English.
+- The Hebrew and small Greek types in columns 180–186 have been normalized to
   Unicode directly from the page images but should receive specialist
   collation before publication.

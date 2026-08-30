@@ -725,7 +725,36 @@ requiring qualified human review.
 - `parts/part-20-chapter-20g-latin.txt`
 - `parts/part-20-chapter-20g-english.md`
 
-The next unit begins with `V. 25. Tendicula est homini qui deglutit sacrum; &
-post vota requirere [tendicula est.` in the left column of shared PDF 448 /
-printed column 870; restart there, excluding the final verse 24 prose above
-it. Its commentary continues into the right column / printed column 871.
+**Part 20h is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `V. 25. Tendicula est homini qui
+deglutit sacrum; & post vota requirere [tendicula est.` in the left column of
+shared PDF 448 / printed column 870 through the final prose of verse 27 on PDF
+452 / printed column 878. It stops immediately before `V. 28.` in that same
+left column. Latin and English have five byte-identical source markers (PDF
+448–452; synchronized printed columns 870–871 through 878–879) and retain all
+three verse lemmata, full prose, Hebrew, Greek, citations, bracketed wording,
+and printed irregularities. The complete files contain 1,867 Latin-file and
+2,653 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 448–452, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-448 marker is intentional:
+Part 20g ends above `V. 25.`, while Part 20h begins with that lemma below it,
+so no verse 24 prose overlaps and none is omitted. The final PDF-452 marker
+includes only the concluding sentence of verse 27 above `V. 28.`; no verse 28
+material is imported. Page-turn catchwords `monio`, `In`, `tiuntur`, and
+`docemur` were excluded rather than duplicated. The divided `testimonio` and
+`discutiuntur`, with their corresponding English phrases, were assigned to
+the receiving PDF-449 and PDF-451 markers. Witness forms including
+`post nova Dei donatione`, `illecebrae`, `quam qui à`, `obscurans`,
+`manebant`, `circumfor.`, `fugienda`, `delegantur`, and `ἀγχινοίας` were
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-20-chapter-20h-latin.txt`
+- `parts/part-20-chapter-20h-english.md`
+
+The next unit begins with `V. 28. Benignitas, & veritas custodient Regem: &
+eadem benignitate sustentat solium suum.` in the left column of shared PDF
+452 / printed column 878; restart there, excluding the final verse 27 sentence
+above it. Its commentary continues into the right column / printed column 879.

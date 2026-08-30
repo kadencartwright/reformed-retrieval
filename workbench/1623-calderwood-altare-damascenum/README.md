@@ -87,14 +87,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-three numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the first complete internal argument sequence
-on printed p. 287, but the inherited Part 02 English file remains incomplete
-and therefore prevents
-calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
-Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–23 begin exactly at their audited predecessor boundaries and do not
-alter either inherited part.
+Twenty-four numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the complete Roman-presbyter subargument in the
+upper portion of printed p. 290, but the inherited Part 02 English file remains
+incomplete and therefore prevents calling that span a continuous paired draft.
+The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
+This update does not silently clear those flags: Parts 09–24 begin exactly at
+their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
 |---|---|---|---|
@@ -121,6 +120,7 @@ alter either inherited part.
 | 21 | Chapter IV: argument 6, decline of presbyteries and excommunication | printed pp. 268–275 / PDFs 280–287, both boundary pages partial | 8 paired and image-audited |
 | 22 | Chapter IV: argument 6, concluding synthesis from order and jurisdiction | printed pp. 275–280 / PDFs 287–292, first boundary page partial | 6 paired and image-audited |
 | 23 | Chapter IV: extensive episcopal power and the equality of local churches | printed pp. 281–287 / PDFs 293–299, last boundary page partial | 7 paired and image-audited |
+| 24 | Chapter IV: Roman presbyters and common government after parish division | printed pp. 287–290 / PDFs 299–302, both boundary pages partial | 4 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -833,7 +833,55 @@ joins, and both boundaries.
 - Latin: `parts/part-23-chapter-04-extensive-power-and-local-churches-latin.txt`
 - English: `parts/part-23-chapter-04-extensive-power-and-local-churches-english.md`
 
-All twenty-three units remain **AI-assisted and unreviewed**. They require
+### Part 24 bounds and evidence
+
+Part 24 begins exactly where Part 23 ends, in the lower portion of shared
+printed p. 287 / IA leaf 299 / PDF p. 299, at:
+
+`Sed negamus id factum esse primis illis saeculis.`
+
+It contains Calderwood’s complete historical subargument from the former
+equality of Roman presbyters after the division into titles or parishes. He
+uses Bellarmine and Field on the late distinction between cardinal and
+non-cardinal presbyters; argues that parish division did not abolish common
+presbyteral government; tests the claim that the Roman bishop was universal
+pastor of all the city’s parishes; and treats Gregory’s stations as common
+gatherings of both people and presbyters. The pair retains the attributed
+quotations and every visible marginal citation.
+
+Part 24 ends in the upper portion of printed p. 290 / IA leaf 302 / PDF p. 302
+at:
+
+`...sic & Presbyteri earum & in commune pascebant & dirigebant ut ante divisam
+massam. Ecclesiae totalis.`
+
+The immediately following `Concedatur Episcopum non modo inspectorem, sed
+etiam Pastorem distinctarum Paroeciarum in civitate & fuisse` explicitly opens
+the next inquiry, whether the city bishop’s office also extended into the
+adjoining region, and is excluded. This gives Part 24 four identical Latin and
+English source markers, p. 287 partial through p. 290 partial, and two
+byte-identical marginalia records. The abbreviated p. 287 catchword
+`posterio-` is omitted before the complete `posterioribus` on p. 288. The
+printer-divided `Episcopus` and `multitudinem` at the p. 288/289 and 289/290
+boundaries are joined, with each incoming marker placed before the complete
+Latin word and the corresponding English word or phrase.
+
+The anomalous 1623 stop after `massam` in the closing phrase `ut ante divisam
+massam. Ecclesiae totalis` is retained in the Latin; the English translates
+the evident continuous construction.
+
+The exact controlling Internet Archive access PDF documented above was used,
+and its PDFs 299–302 were freshly rendered at 220 dpi and inspected page by
+page against both files. Its page count, byte size, and SHA-256, and the hashes
+of the OCR/scandata aids, match the acquisition evidence already documented
+under Part 16. The IA OCR and the 1708 Leiden reset assisted reading only; the
+1623 images governed wording, typography, quotations, citations, joins, and
+both boundaries.
+
+- Latin: `parts/part-24-chapter-04-roman-presbyters-and-common-government-latin.txt`
+- English: `parts/part-24-chapter-04-roman-presbyters-and-common-government-english.md`
+
+All twenty-four units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

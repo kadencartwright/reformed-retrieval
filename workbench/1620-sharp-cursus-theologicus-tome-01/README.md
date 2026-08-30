@@ -78,12 +78,13 @@ topic on Scripture.
 ## Completed continuation and current boundary
 
 The paired continuation now runs without a content gap from the opening of
-the tome through Objection 5 in the objections division of `CONTROVERSIA IX.
-De Perfectione Scripturae`. The continuation includes the meanings of
-tradition, state of the controversy, positive arguments, testimonies of the
-Fathers, and the first five objections with their responses. Units that share
-a numbered column meet at the printed internal heading or objection boundary
-in that column; neither pair duplicates matter across the join.
+the tome through the end of `CONTROVERSIA IX. De Perfectione Scripturae` and
+therefore completes the entire opening tract `DE SACRA SCRIPTURA`. The
+continuation includes the meanings of tradition, state of the controversy,
+positive arguments, testimonies of the Fathers, and all twenty-eight printed
+objections with their responses. Units that share a numbered column meet at
+the printed internal heading or objection boundary in that column; neither
+pair duplicates matter across the join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -98,16 +99,18 @@ in that column; neither pair duplicates matter across the join.
 | 10 | Question IX: necessity | 121–125 | 00075–00077 |
 | 11 | Controversy IX: perfection, positive case and patristic testimonies | 125–136 | 00077–00082 |
 | 12 | Controversy IX: perfection, objections 1–5 | 136–151 | 00082–00090 |
+| 13 | Controversy IX: perfection, objections 6–28 | 151–170 | 00090–00099 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
 with the same part number and descriptive stem.
 
-**Exact resume boundary:** Part 12 ends in column 151 at BSB frame 00090 with
-Augustine's sentence `Electa, inquit, sunt ut scriberentur, quae saluti
-credentium sufficere visa sunt.` `Obiect. 6. Ioh. ult. v. ult.` begins later in
-the same column and is excluded. That objection is the next untranscribed
-text. Part 12 occupies 15.5 columns, approximately 0.98% of Tome I's 1,574
+**Exact resume boundary:** Part 13 ends in column 170 at BSB frame 00099 with
+the response to Objection 28, `in quo & a nobis imitandi sunt.` The ornamental
+heading `DE DEO` begins later in the same column and is excluded. That heading
+and its following introduction are the next untranscribed text. Part 13 begins
+at the exact Part-12 join with `Obiect. 6. Ioh. ult. v. ult.`, spans portions
+of twenty numbered columns, and adds approximately 1.2% of Tome I's 1,574
 numbered columns.
 
 ## Editorial method and status
@@ -153,3 +156,18 @@ Both files are AI-assisted and unreviewed.
 - Column 148 prints the locators `Ioh. 21.1. & 26. 1. ad Cor. 26.2.`. They are
   retained, while the English notes that John 20:1, 26 and 1 Corinthians 16:2
   may have been intended.
+
+## Printed anomalies in Part 13
+
+- Column 153 prints `Matth. 28.9.10. & 29.` even though Matthew 28 has no verse
+  29. The locator is retained and noted in the English.
+- Column 157 prints Augustine, *City of God* `20.10`; the quoted statement is
+  found in chapter 19. The printed chapter number is retained and noted in the
+  English.
+- Column 160 prints a second `Obiect. 12` and then proceeds to Objection 14.
+  The sequence is retained rather than silently changing the second number to
+  13.
+- In the response to Objection 23, column 164 prints that the Council of
+  Nicaea's condemnation of Arius “from Scripture” is false, although the
+  surrounding argument appears to require “not from Scripture.” Both files
+  retain the printed wording, and the English notes the anomaly.

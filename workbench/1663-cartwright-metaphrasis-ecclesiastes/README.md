@@ -1227,3 +1227,94 @@ This unit is bounded by the exact next repeated verse lemma rather than by an
 arbitrary image count. The next unit begins in the right column of reader
 image `PA201` / printed p. 202 at `Vers. 2. Ne acceleres ore tuo, & animus tuus
 ne festinet proferre quicquam coram ipso Deo`.
+
+**Part 53 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:2 lemma and its complete homiletic
+exposition on reader images `PA201`, `PA203`, and `PA205`. It begins in the
+right column of printed p. 202 at `Vers. 2. Ne acceleres ore tuo`, crosses the
+image joins after the p. 202 and p. 204 catchwords `dedu-` and `ac-`, and ends
+in the right column of printed p. 206 immediately before the repeated lemma
+`Vers. 3. Quia ut prodit somnium multa occupatione`. The paired files have
+three exactly identical reader-image markers and retain the two cautions
+governing speech to God, the examples of Jephthah, David, Job, Jeremiah,
+Jonah, Elijah, and Christ, the critique of repetitive papist prayer, and every
+printed biblical reference. No independent marginal notes, Greek, Hebrew, or
+other foreign-script text occurs in this unit. The English translator's notes
+disclose both catchword joins, the printed `in suis periculis`, the `Iudic. 9.`
+reference, and `Battologias` rather than silently repairing or omitting them:
+
+- `parts/part-53-homiliae-chapter-05-verse-02-latin.txt`
+- `parts/part-53-homiliae-chapter-05-verse-02-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader
+image `PA205` / printed p. 206 at `Vers. 3. Quia ut prodit somnium multa
+occupatione, ita vox stolidi multitudine verborum`.
+
+**Part 54 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:3 lemma and its complete homiletic
+exposition on reader images `PA205` and `PA207`. It begins in the right column
+of printed p. 206 at `Vers. 3. Quia ut prodit somnium multa occupatione`,
+crosses the image and printed-page join after the p. 206 catchword `Philo-`,
+and ends near the top of printed p. 207 immediately before the repeated lemma
+`Vers. 4. Quum nuncupaveris votum Deo`. The paired files have two exactly
+identical reader-image markers and retain the argument against much speaking,
+the account of dreams as the return of daytime impressions, Cartwright's
+application to the Lord's Day, the reference to Aristotle's *Ethics*, and
+every printed biblical reference. No independent marginal notes, Greek,
+Hebrew, or other foreign-script text occurs in this unit. The English
+translator's notes disclose the catchword join and the sense of `Philosophus
+in Eth.` rather than silently expanding or omitting them:
+
+- `parts/part-54-homiliae-chapter-05-verse-03-latin.txt`
+- `parts/part-54-homiliae-chapter-05-verse-03-english.md`
+
+This short unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins near the top of reader
+image `PA207` / printed p. 207 at `Vers. 4. Quum nuncupaveris votum Deo, ne
+differito persolvere illud`.
+
+**Part 55 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:4 lemma and its complete homiletic
+exposition on reader images `PA207` and `PA209`. It begins near the top of
+printed p. 207 at `Vers. 4. Quum nuncupaveris votum Deo`, crosses the image and
+printed-page join after the p. 208 catchword `flabel-`, and ends in the left
+column of printed p. 209 immediately before the repeated lemma `Vers. 5.
+Melius est ut non voveas`. The paired files have two exactly identical
+reader-image markers and retain the distinctions between voluntary promises
+and sworn vows, between performance and timely performance, the examples of
+Saul and Jacob, the critique of papist offerings, and every printed biblical
+reference. No independent marginal notes, Greek, Hebrew, or other
+foreign-script text occurs in this unit. The English translator's notes
+disclose the catchword join, the printed `Levit. 17. 10.` reference, and the
+difficult `cautio fracta` rather than silently repairing or omitting them:
+
+- `parts/part-55-homiliae-chapter-05-verse-04-latin.txt`
+- `parts/part-55-homiliae-chapter-05-verse-04-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA209` / printed p. 209 at `Vers. 5. Melius est ut non voveas, quàm ut voveas
+ac non persolvas`.
+
+**Part 56 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:5 lemma and its complete homiletic
+exposition on the single reader image `PA209`. It begins in the left column of
+printed p. 209 at `Vers. 5. Melius est ut non voveas`, continues across the
+opening to printed p. 210, and ends immediately before the repeated lemma
+`Vers. 6. Ne permittito ori tuo`. The paired files have one exactly identical
+reader-image marker and retain the comparison between making vows, paying
+vows, and not vowing, Cartwright's reconciliation of Deuteronomy 23 with
+Psalm 76, his comparison with anger and marriage, and every printed biblical
+reference. No independent marginal notes, Greek, Hebrew, or other
+foreign-script text occurs in this unit. The English translator's notes
+disclose that the biblical wording is translated from the printed Latin and
+that both boundaries fall within one reader image:
+
+- `parts/part-56-homiliae-chapter-05-verse-05-latin.txt`
+- `parts/part-56-homiliae-chapter-05-verse-05-english.md`
+
+This short unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins in the right column of
+reader image `PA209` / printed p. 210 at `Vers. 6. Ne permittito ori tuo ut
+peccato obstringat carnem tuam`.

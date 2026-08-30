@@ -1562,6 +1562,22 @@ Part 97 begins the exposition of Matthew 5:13. Tuckney applies Christ's images o
 - English: `parts/part-97-concio-ad-clerum-02-english.md`
 - Extent: three synchronized markers, new-series fols. 36–38 / IA leaves 356–358
 
+## Part 98: third unit of the 1650 clergy sermon for the doctoral degree
+
+Part 98 completes the sermon’s second main division on the ministry’s dignity
+and excellence. Tuckney develops the salt image as a sign of the ministry’s
+usefulness, defends its twofold honor of reverence and material support, and
+ends by requiring ministers to make their profession visible in their actions.
+It runs from `Quod secundum erat, Ministerii scilicet dignitas & praestantia`
+on new-series fol. 38 / IA leaf 358 through the maxim `ut nomen congruat
+actioni, actio respondeat nomini` on new-series fol. 40 / IA leaf 360. The
+third main division on ministerial duty, beginning `Caveamus itaque ne dum in
+dignitate ista asserenda seduli fuerimus`, is excluded.
+
+- Latin: `parts/part-98-concio-ad-clerum-03-latin.txt`
+- English: `parts/part-98-concio-ad-clerum-03-english.md`
+- Extent: three synchronized markers, new-series fols. 38–40 / IA leaves 358–360
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

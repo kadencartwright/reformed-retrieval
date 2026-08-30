@@ -121,6 +121,26 @@ controlling and comparison images agree throughout this chapter's setting.
 The witness's return from numbered point `32` to `23` on printed p. 55 and its
 form `Cathrdra` on printed p. 57 are retained rather than silently corrected.
 
+**Part 05 is the complete sixth and final chapter of Book I.** It begins with
+the `CAPUT VI` heading on printed p. 59 and continues through the last response
+on printed p. 81, stopping at the end of Book I:
+
+- e-rara canvases 69–91 / sequential printed pp. 59–81;
+- same-impression Augsburg comparison canvases 83–105;
+- Chapter VI, *De sufficientia Scripturae*;
+- next unit: Book II, Chapter I, *De Scientia animae Christi*, beginning on
+  printed p. 82.
+
+The paired files carry twenty-three identical source markers. The seven words
+split by page boundaries—`conservata` (pp. 59/60), `dispensabatur` (pp. 64/65),
+`revelanda` (pp. 65/66), `omnia` (pp. 73/74), `instructos` (pp. 74/75),
+`fundamento` (pp. 77/78), and `canonico` (pp. 80/81)—are joined and placed
+wholly after the incoming marker in both files. The controlling and comparison
+images agree throughout this chapter's setting. Both copies print the numeral
+`47` on the leaf that is sequentially printed p. 76; the synchronized marker
+records the sequential page as p. 76, and this shared same-impression
+mispagination is not silently treated as a different textual boundary.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -131,7 +151,8 @@ edition's erroneous point numbering on printed p. 10 (`6` before `5`) is
 retained rather than silently regularized. The Greek wordplay quoted from
 Jerome on printed p. 12 has been checked directly against the image. Chapter
 V's Greek `ἀναλογίαν` on printed p. 53 has likewise been checked against both
-copies.
+copies. Chapter VI's Greek `πᾶσα`, `ὅλη`, and `τὰ ἱερὰ γράμματα` on printed p.
+74 have likewise been checked against both copies.
 
 The English is a full new translation of the paired Latin, not a summary. No
 modern English translation was used. These files are explicitly **AI-assisted
@@ -149,3 +170,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-03-book-01-chapter-04-english.md`
 - `parts/part-04-book-01-chapter-05-latin.txt`
 - `parts/part-04-book-01-chapter-05-english.md`
+- `parts/part-05-book-01-chapter-06-latin.txt`
+- `parts/part-05-book-01-chapter-06-english.md`

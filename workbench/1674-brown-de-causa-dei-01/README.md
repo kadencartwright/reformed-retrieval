@@ -57,7 +57,7 @@ and remain byte-identical to the recorded derivatives; the same locally
 retained derivatives govern Parts 36–37. The access PDF and plain OCR were
 freshly acquired once more for Parts 38–39 on 30 August 2026 and remain
 byte-identical to the recorded derivatives; the same locally retained
-derivatives govern Parts 40–42:
+derivatives govern Parts 40–44:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -101,7 +101,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter IX on the upper part of logical printed p. 274. Shared-page boundaries
+Chapter XI on the upper part of logical printed p. 287. Shared-page boundaries
 preserve each new argumentative unit in the following part rather than
 duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
 275; from that point the continuous logical numbering used in the markers is
@@ -152,6 +152,8 @@ identify the exact images without ambiguity.
 | 40 | Book II, Chapter VII; duration and frequency, separately and jointly | lower part of shared logical printed p. 263 through the upper part of shared logical p. 268 / IA leaves 281–286 / PDF pp. 281–286; visible pp. 281–286; stops before `CAP. VIII.` | 6 |
 | 41 | Book II, Chapter VIII; usefulness of determining when or the beginning | lower part of shared logical printed p. 268 through the upper part of shared logical p. 270 / IA leaves 286–288 / PDF pp. 286–288; visible pp. 286–288; stops before `CAP. IX.` | 3 |
 | 42 | Book II, Chapter IX; modes of determining the aspects of time | lower part of shared logical printed p. 270 through logical p. 274 / IA leaves 288–292 / PDF pp. 288–292; visible pp. 288–292; stops before `CAP. X.` on logical p. 275 | 5 |
+| 43 | Book II, Chapter X; principal and solemn time and its necessary determination | logical printed p. 275 through the upper part of shared logical p. 281 / IA leaves 293–299 / PDF pp. 293–299; visible pp. 293–299; stops before `CAP. XI.` | 7 |
+| 44 | Book II, Chapter XI; no human power to determine principal and solemn time | lower part of shared logical printed p. 281 through the upper part of shared logical p. 287 / IA leaves 299–305 / PDF pp. 299–305; visible pp. 299–305; stops before `CAP. XII.` | 7 |
 
 The files are:
 
@@ -197,8 +199,10 @@ The files are:
 - `parts/part-40-book-02-chapter-07-duration-and-frequency-{latin.txt,english.md}`
 - `parts/part-41-book-02-chapter-08-when-or-beginning-{latin.txt,english.md}`
 - `parts/part-42-book-02-chapter-09-modes-of-determination-{latin.txt,english.md}`
+- `parts/part-43-book-02-chapter-10-principal-solemn-time-{latin.txt,english.md}`
+- `parts/part-44-book-02-chapter-11-no-human-power-to-determine-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–42 image audits
+### Part 04 re-audit and Parts 05–44 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1117,6 +1121,56 @@ X.` on logical printed p. 275 are excluded. The next untranslated text is
 therefore `CAP. X. De Tempore Praecipuo - solenni ejusque necessariâ
 Determinatione, ad Dei Cultum.` on logical printed p. 275 / IA leaf 293 / PDF
 p. 293.
+
+Part 43 is the complete, image-audited tenth chapter of Book II, defining
+principal and solemn time, arguing that its duration must accommodate public,
+domestic, and solitary worship, and specifying the respects in which its
+determination must be sufficient. Every controlling image from the Chapter X
+heading on PDF 293 through the chapter end on PDF 299 was read directly,
+including all six internal joins and the outgoing shared-page stop before
+`CAP. XI.` OCR was used only as a collation aid. The Latin and English contain
+the identical seven-marker sequence. The visible witness numbers these pages
+293–299; the markers retain the continuous logical sequence 275–281 and
+record the exact IA leaves and PDF pages.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 293–299. Its general warning about Greek and Hebrew type is disclosed in
+both file headers, and the controlling images govern `δυσβάστακτον`,
+`φιλανθρωπία`, and `κατ’ ἐξοχήν`; no Hebrew or separate substantive marginal
+gloss occurs. Printer-divided words at the logical pp. 276/277, 277/278,
+278/279, and 279/280 joins are joined with the new marker before the complete
+Latin word or corresponding English phrase. The other two joins fall between
+complete words; catchwords and the rule are omitted. All headings, numbered
+arguments, citations, and substantive distinctions are retained. The exact
+Part 43 ending is `...Sufficiens est, ut sit Tempus Praecipuum & Solenne.` The
+following rule and `CAP. XI.` are excluded. The next untranslated text at that
+handoff was `CAP. XI. Homini non licet hoc Tempus Praecipuum-Solenne
+determinare.` on shared logical printed p. 281 / IA leaf 299 / PDF p. 299.
+
+Part 44 is the complete, image-audited eleventh chapter of Book II, arguing
+that the power to determine principal and solemn time belongs neither to
+pagans, private church members, civil magistrates, nor individuals acting for
+themselves. Every controlling image from the Chapter XI heading on PDF 299
+through the chapter end on PDF 305 was read directly, including all six
+internal joins and the outgoing shared-page stop before `CAP. XII.` OCR was
+used only as a collation aid. The Latin and English contain the identical
+seven-marker sequence. The visible witness numbers these pages 299–305; the
+markers retain the continuous logical sequence 281–287 and record the exact IA
+leaves and PDF pages.
+
+The terminal errata readings `liberum sit quod` (visible p. 301, line 4) and
+`ac` for printed `ad` (the same page, line 31) are incorporated and disclosed
+in both file headers. Its general warning about Greek and Hebrew type is
+retained there as well, though neither script occurs in this unit. No separate
+substantive marginal gloss occurs. Printer-divided words at the logical pp.
+283/284 and 284/285 joins are joined with the new marker before the complete
+Latin word or corresponding English word or phrase. The other four joins fall
+between complete words; catchwords and the rule are omitted. All headings,
+numbered arguments, citations, and substantive distinctions are retained. The
+exact Part 44 ending is `...hominibus competere.` The following rule and `CAP.
+XII.` are excluded. The next untranslated text is `CAP. XII. Ecclesiae non
+licet Tempus hoc Praecipuum & Solenne determinare.` on shared logical printed
+p. 287 / IA leaf 305 / PDF p. 305.
 
 ## Review and licensing status
 

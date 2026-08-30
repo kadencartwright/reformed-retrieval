@@ -52,6 +52,8 @@ same scan can legitimately close one part and open the next:
 | 07 | VII | 60–63 | 18–21 | `Prælectio septima` through its concluding `Amen` |
 | 08 | VIII | 63–68 | 21–26 | `Prælectio octava` through its concluding `Amen` |
 | 09 | IX | 69–71 | 27–29 | `In versum 8, &c.` through `dicta sunto` before Lecture X |
+| 10 | X | 71–75 | 29–33 | `Sequitur jam versu proximo, pars ejusdem secunda` through `de ipsâ recollectione dicta sunto` |
+| 11 | XI | 75–80 | 33–38 | `Quod ad secundum membrum attinet` through its concluding `Amen` |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -100,8 +102,10 @@ English translation:
 | 07 | Observations on election | [`part-07-praelection-07-observations-on-election-latin.txt`](parts/part-07-praelection-07-observations-on-election-latin.txt) | [`part-07-praelection-07-observations-on-election-english.md`](parts/part-07-praelection-07-observations-on-election-english.md) |
 | 08 | Redemption in Christ | [`part-08-praelection-08-redemption-in-christ-latin.txt`](parts/part-08-praelection-08-redemption-in-christ-latin.txt) | [`part-08-praelection-08-redemption-in-christ-english.md`](parts/part-08-praelection-08-redemption-in-christ-english.md) |
 | 09 | Effectual calling and spiritual wisdom | [`part-09-praelection-09-effectual-calling-latin.txt`](parts/part-09-praelection-09-effectual-calling-latin.txt) | [`part-09-praelection-09-effectual-calling-english.md`](parts/part-09-praelection-09-effectual-calling-english.md) |
+| 10 | The mystery of God’s will and recapitulation in Christ | [`part-10-praelection-10-mystery-and-recapitulation-latin.txt`](parts/part-10-praelection-10-mystery-and-recapitulation-latin.txt) | [`part-10-praelection-10-mystery-and-recapitulation-english.md`](parts/part-10-praelection-10-mystery-and-recapitulation-english.md) |
+| 11 | The scope and time of recapitulation | [`part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt) | [`part-11-praelection-11-scope-and-time-of-recapitulation-english.md`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-english.md) |
 
-The completed sequence now extends through Lecture IX. Its successive subjects
+The completed sequence now extends through Lecture XI. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -118,6 +122,16 @@ distinguishes its external and internal aspects, and expounds the abundance of
 spiritual wisdom and understanding in Ephesians 1:8. It distinguishes wisdom
 from practical prudence by their objects, relates both to saving illumination,
 and traces the gift through Christ to the riches of the Father's grace.
+Lecture X then expounds the revealed mystery of God's will in Ephesians
+1:9–10, the two senses of recapitulation, humanity's twofold dispersion from
+God and neighbor, and three ancient readings of the restoration and gathering
+of believers under Christ the head. Lecture XI continues with the scope of
+the things in heaven and on earth, the debated relation of angels to that
+gathering, Christ as its center, and the fullness and dispensation of the
+times. Its concluding observations treat effectual calling, faith as a
+spiritual gift, the sufficiency and depth of Scripture, wisdom joined to
+Christian practice, the unity of the Church militant and triumphant under
+Christ alone, and patient hope for the final consummation.
 
 ## Validation
 

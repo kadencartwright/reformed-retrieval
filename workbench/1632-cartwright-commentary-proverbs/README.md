@@ -878,7 +878,38 @@ edition requiring qualified human review.
 - `parts/part-21-chapter-21c-latin.txt`
 - `parts/part-21-chapter-21c-english.md`
 
-The next unit begins with `V. 10. Anima improbi expetit malum; gratiam non
-consequitur in oculis ejus proximus ejus.` in the right column of shared PDF
-464 / printed column 913; restart at that lemma, excluding the final verse 9
+**Part 21d is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `V. 10. Anima improbi expetit
+malum; gratiam non consequitur in oculis ejus proximus ejus.` in the right
+column of shared PDF 464 / printed column 913 through the final prose of verse
+12 on PDF 467 / printed column 919, ending `qui per injuriam damnatus est.` It
+stops immediately before `V. 13. Obthurans aurem à clamore tenuis, etiam ipse
+clamabit, & non respondebitur.` in that same right column. Latin and English
+have four byte-identical source markers (PDF 464–467; synchronized printed
+columns 912–913 through 918–919) and retain all three verse lemmata, full
+in-scope prose, Hebrew, Greek, citations, abbreviations, and printing
+irregularities. The complete files contain 1,378 Latin-file and 1,987
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 464–467, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-464 marker begins only at `V.
+10.` in the right column; the final verse 9 sentence above it is excluded. The
+final PDF-467 marker ends with the concluding verse 12 sentence above `V. 13.`
+in the right column; no verse 13 material is imported. Page-turn catchwords
+`quam`, `Prior`, and `Verum` were excluded rather than duplicated. The wording
+`quam si dixisset`, `Prior sententia`, and `Verum quidem est`, with its
+corresponding English wording, was assigned wholly to receiving PDF 465, PDF
+466, and PDF 467 markers. Witness forms including the repeated `dicit`,
+`attahit`, `comperiamur`, `sicut de priori`, `praeteritis`,
+`προσωποληψίας`, `Poenae enim metu`, `Perrari`, and `invidia prosperitatis`
+were retained. This remains an AI-assisted working edition requiring
+qualified human review.
+
+- `parts/part-21-chapter-21d-latin.txt`
+- `parts/part-21-chapter-21d-english.md`
+
+The next unit begins with `V. 13. Obthurans aurem à clamore tenuis, etiam ipse
+clamabit, & non respondebitur.` in the right column of shared PDF 467 /
+printed column 919; restart at that lemma, excluding the final verse 12
 sentence above it.

@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XIV
+  Statu Christi*, begun through Question XV
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–52 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–53 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XIV, from printed p. 3 / PDF 31
-through section XV on printed p. 313 / PDF 341. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XV, from printed p. 3 / PDF 31
+through section XIV on printed p. 317 / PDF 345. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,173 numbered sections across 305 unique numbered
-text pages and 349 source markers in each language (345 printed-page markers
+268. The sequence comprises 1,187 numbered sections across 309 unique numbered
+text pages and 354 source markers in each language (350 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 168,289 whitespace-delimited words and the complete English files
-229,905, counted over Parts 01–52 with `wc -w`. Each part is a complete question,
+contain 170,830 whitespace-delimited words and the complete English files
+233,318, counted over Parts 01–53 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -107,6 +107,7 @@ the substantive marginal headings.
 | 50 | Locus XIII, Question XII | printed pp. 304–306 / PDFs 332–334 | VIII | 3 | `part-50-locus-13-question-12-{latin.txt,english.md}` |
 | 51 | Locus XIII, Question XIII | printed pp. 306–309 / PDFs 334–337 | XVI | 4 | `part-51-locus-13-question-13-{latin.txt,english.md}` |
 | 52 | Locus XIII, Question XIV | printed pp. 309–313 / PDFs 337–341 | XV | 5 | `part-52-locus-13-question-14-{latin.txt,english.md}` |
+| 53 | Locus XIII, Question XV | printed pp. 313–317 / PDFs 341–345 | XIV | 5 | `part-53-locus-13-question-15-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -805,10 +806,29 @@ specified OCR excerpt was used only as an aid. No supplementary witness was
 needed. The Question XV heading and body later on printed p. 313 / PDF 341 are
 excluded.
 
-Part 52's exact next restart is `QUAESTIO XV. DE DESCENSU CHRISTI AD INFEROS.
-An Anima Christi, statim post separationem sui a Corpore, translata fuerit in
-Paradisum? An vero localiter descenderit ad Inferos? Prius Affirm.; Poster.
-Neg.; contra Pontif. et Luther.` on printed p. 313 / PDF 341.
+Question XV denies against Roman Catholics and Lutherans that Christ's soul
+descended locally to limbo, purgatory, or the place of the damned after his
+death, and argues that it was immediately received into Paradise. It answers
+the principal proof texts, with extended attention to Christ's promise to the
+thief, the meaning of the lower parts of the earth, and 1 Peter 3:19, in
+fourteen sections. It begins at the Question XV heading below section XV of
+Part 52 on printed p. 313 / PDF 341 and ends with section XIV on printed p. 317
+/ PDF 345 immediately before Question XVI. The Latin and English files contain
+2,541 and 3,413 whitespace-delimited words respectively, counted over each
+complete file with `wc -w`. Both carry all five printed-page markers in the
+same sequence and retain both substantive marginal headings, citations, and
+scan-exact Greek and Hebrew. The printed pp. 313/314 join falls between the
+end of §V's first paragraph and `Ut eo modo`; the pp. 314/315 join between
+`descendit` and `ad inferos`; the pp. 315/316 join between `sentiret` and §XI's
+third proof; and the pp. 316/317 join within Andradius's quotation between
+`meritas jam` and `infidelitatis suæ pœnas luunt`. The five supplied page
+images are the controlling witness; the specified OCR excerpt was used only
+as an aid. No supplementary witness was needed. The Question XVI heading and
+body later on printed p. 317 / PDF 345 are excluded.
+
+Part 53's exact next restart is `QUAESTIO XVI. An Descensus ad Inferos recte ad
+Cruciatus infernales, et ad statum abjectissimum sub dominio mortis in
+sepulchro referatur? Affirm.` on printed p. 317 / PDF 345.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

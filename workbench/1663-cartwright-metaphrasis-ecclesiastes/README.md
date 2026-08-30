@@ -1869,3 +1869,91 @@ and threshing, and the references to Proverbs 3, Hebrews 12, Matthew 5, Romans
 This unit is bounded by the exact repeated verse-4 lemma rather than by an
 arbitrary image count. The next unit begins on reader image `PA257` / printed
 p. 258 at `Vers. 4. Animus sapientum erit in loco luctus`.
+
+**Part 84 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 7:4 lemma and its complete homiletic
+exposition on reader images `PA257` and `PA259`. It begins on printed p. 258
+at `Vers. 4. Animus sapientum erit in loco luctus`, crosses the image join
+after the p. 258 catchword `Iobo` and the printed-page join within
+`concluderetur`, and ends on printed p. 260 immediately before the repeated
+verse-5 lemma. The paired files have two exactly identical reader-image
+markers and retain the examples of Job, Psalm 137, Amos, Zimri, the Persian
+court, and every printed biblical reference:
+
+- `parts/part-84-homiliae-chapter-07-verse-04-latin.txt`
+- `parts/part-84-homiliae-chapter-07-verse-04-english.md`
+
+This unit is bounded by the exact repeated verse-5 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA259` / printed
+p. 260 at `Vers. 5. Melius est audire increpationem sapientis`.
+
+**Part 85 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 7:5 lemma and its complete homiletic
+exposition on reader images `PA259` and `PA261`. It begins on printed p. 260
+at `Vers. 5. Melius est audire increpationem sapientis`, crosses the image
+join within `probe`, and ends on printed p. 261 immediately before the
+repeated verse-6 lemma. The paired files have two exactly identical
+reader-image markers and retain the formal proposition and assumption, the
+examples of David, Ahab, and Micaiah, the comparison of flattery to music and
+enchantment, and every printed biblical reference:
+
+- `parts/part-85-homiliae-chapter-07-verse-05-latin.txt`
+- `parts/part-85-homiliae-chapter-07-verse-05-english.md`
+
+This unit is bounded by the exact repeated verse-6 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA261` / printed
+p. 261 at `Vers. 6. Nam ut strepitus spinarum sub olla`.
+
+**Part 86 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 7:6 lemma and its complete homiletic
+exposition on reader image `PA261`. It begins on printed p. 261 at `Vers. 6.
+Nam ut strepitus spinarum sub olla`, crosses the printed-page join within
+`exhilarat`, and ends on printed p. 262 immediately before the repeated
+verse-7 lemma. The paired files have one exactly identical reader-image marker
+and retain the prolepsis and reply, the comparison of foolish laughter to
+burning thorns, and the references to Job 20, Psalms 118 and 37, Amos 8, and
+Job 16:
+
+- `parts/part-86-homiliae-chapter-07-verse-06-latin.txt`
+- `parts/part-86-homiliae-chapter-07-verse-06-english.md`
+
+This unit is bounded by the exact repeated verse-7 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA261` / printed
+p. 262 at `Vers. 7. Quum oppressio adigat ad insaniam sapientem`.
+
+**Part 87 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 7:7 lemma and its complete homiletic
+exposition on reader images `PA261` and `PA263`. It begins on printed p. 262
+at `Vers. 7. Quum oppressio adigat ad insaniam sapientem`, crosses the image
+join within `redit`, and ends on printed p. 263 immediately before the
+verse-8–9 lemma block. The paired files have two exactly identical
+reader-image markers and retain the twofold account of oppression and
+bribery, the comparison of wolves and lambs, the reference to Moses, and the
+hybrid Greek adverb `synecdochicῶs`:
+
+- `parts/part-87-homiliae-chapter-07-verse-07-latin.txt`
+- `parts/part-87-homiliae-chapter-07-verse-07-english.md`
+
+This unit is bounded by the exact verse-8–10 lemma block rather than by an
+arbitrary image count. The next unit begins on reader image `PA263` / printed
+p. 263 at `Vers. 8. Melior est finis rei principio ejus`, followed by the
+lemmata for verses 9 and 10.
+
+**Part 88 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 7:8–10 lemma block, the summary and division, and
+the complete joint exposition on reader images `PA263`, `PA265`, and `PA267`.
+It begins on printed p. 263 at `Vers. 8. Melior est finis rei principio ejus`,
+crosses the image join within `affirmavit` and the next image join after the
+p. 266 catchword `Prov.`, and ends on printed p. 268 immediately before the
+verse-11 lemma. The paired files have three exactly identical reader-image
+markers and retain the examples of Joash and David, the proverb of new brooms,
+the comparison with a cauldron, city wall, and paper fortification, every
+printed biblical reference, and the Greek `δωροδοκία`, `καιρῷ δουλεύειν`, and
+`μειώσεις`:
+
+- `parts/part-88-homiliae-chapter-07-verses-08-10-latin.txt`
+- `parts/part-88-homiliae-chapter-07-verses-08-10-english.md`
+
+This joint unit is bounded by the exact verse-11 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA267` / printed
+p. 268 at `Vers. 11. Bona est sapientia cum possessione`.

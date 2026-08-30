@@ -66,12 +66,14 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–26 contain none of the appended documents and do not reach the
-embedded Tilenus refutation. Parts 07–22 do, however, include long passages
-that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
-Scaliger, patristic writers, imperial and conciliar legislation, English
-canons, canonists, and other named writers; the paired files retain their
-quotation boundaries and attributions.
+prose. Parts 01–27 contain none of the appended documents. Parts 01–26 do not
+reach the embedded Tilenus refutation; Part 27 opens Chapter V by reporting
+and quoting Tilenus’s claims before Calderwood answers them. Parts 07–27 also
+include long passages that Calderwood expressly quotes from Thomas Brightman,
+Tilenus, Eusebius, Scaliger, Luther, German theologians, English jurists,
+patristic writers, imperial and conciliar legislation, English canons,
+canonists, and other named writers; the paired files retain their quotation
+boundaries and attributions.
 
 ## Editorial method
 
@@ -87,12 +89,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-six numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the end of Chapter IV on printed p. 302, but
+Twenty-seven numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the first of Chapter V’s four announced issues,
+ending in the lower portion of printed p. 310, but
 the inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
-This update does not silently clear those flags: Parts 09–26 begin exactly at
+This update does not silently clear those flags: Parts 09–27 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -123,6 +126,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 24 | Chapter IV: Roman presbyters and common government after parish division | printed pp. 287–290 / PDFs 299–302, both boundary pages partial | 4 paired and image-audited |
 | 25 | Chapter IV: rural bishops, small ancient dioceses, and later diocesan expansion | printed pp. 290–301 / PDFs 302–313, both boundary pages partial | 12 paired and image-audited |
 | 26 | Chapter IV: the presiding bishop and chapter close | printed pp. 301–302 / PDFs 313–314, first boundary page partial | 2 paired and image-audited |
+| 27 | Chapter V: English episcopacy, German superintendents, and the royal derivation of jurisdiction | printed pp. 303–310 / PDFs 315–322, last boundary page partial | 8 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -969,7 +973,54 @@ citations, Greek, the page join, and both boundaries.
 - Latin: `parts/part-26-chapter-04-presiding-bishop-and-chapter-close-latin.txt`
 - English: `parts/part-26-chapter-04-presiding-bishop-and-chapter-close-english.md`
 
-All twenty-six units remain **AI-assisted and unreviewed**. They require
+### Part 27 bounds and evidence
+
+Part 27 resumes exactly after Part 26’s `Pergamus ad Episcopatum Anglicanum`
+at the top of printed p. 303 / IA leaf 315 / PDF p. 315 with the centered
+heading:
+
+`CAP. V. De Episcoporum in Ecclesia Anglicana Dignitate & Potestate.`
+
+It contains the chapter’s opening comparison of the English episcopate with
+apostles and evangelists, the ancient presbyteral senate, Roman episcopacy,
+and German superintendents. Calderwood reports and quotes Tilenus, adduces
+Luther and the Smalcald Articles on the identity of bishop and presbyter,
+distinguishes the German superintendent described by Zepper from an English
+bishop, and quotes Gualter on abuses among Lutheran superintendents. It then
+retains Calderwood’s four-part division of the English episcopate and completes
+the first issue, the derivation of episcopal jurisdiction from the Crown,
+including the extended quotations from Edward Coke, Whitgift, and the writer
+against Spalatensis. All visible marginal citations and the Greek etymological
+and Athenian terms are retained.
+
+Part 27 ends in the lower portion of printed p. 310 / IA leaf 322 / PDF p. 322
+at:
+
+`...de derivatione potestatis Episcoporum ab authoritate regia.`
+
+The immediately following paragraph, `Quod ad secundum attinet`, opens the
+second announced issue, singular exercise of episcopal authority, and is
+excluded. This gives Part 27 eight identical Latin and English source markers
+and eighteen byte-identical marginalia entries. Printer-divided words at the
+p. 303/304, 307/308, and 309/310 boundaries are joined, with each incoming
+marker placed before the complete Latin word and the corresponding English
+word or phrase; catchwords are omitted without duplication. The anomalous
+1623 construction `finitimisque regiones` is retained in the Latin and
+translated by its evident sense.
+
+The controlling Internet Archive access PDF documented above was freshly
+acquired and its PDFs 315–322 were rendered at 240 dpi and inspected page by
+page against both files; PDF p. 320 was also rendered at 500 dpi for a dense
+quotation check. The PDF’s page count, byte size, and SHA-256, and the hashes
+of the OCR/scandata aids, match the acquisition evidence already documented
+under Part 07. The IA OCR and the 1708 Leiden reset assisted reading only; the
+1623 images governed wording, typography, quotations, Greek, citations,
+joins, and both boundaries.
+
+- Latin: `parts/part-27-chapter-05-anglican-episcopacy-and-royal-jurisdiction-latin.txt`
+- English: `parts/part-27-chapter-05-anglican-episcopacy-and-royal-jurisdiction-english.md`
+
+All twenty-seven units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

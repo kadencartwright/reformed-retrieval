@@ -1255,6 +1255,42 @@ working edition requiring qualified human review.
 - `parts/part-22-chapter-22e-latin.txt`
 - `parts/part-22-chapter-22e-english.md`
 
-The next unit begins with `V. 12. Oculi Iehovae custodiunt scientiam: sed
-pervertit verba perfidiosi.` in the left column of shared PDF 497 / printed
-column 978; restart at that lemma, excluding every verse 11 sentence above it.
+**Part 22f is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `V. 12. Oculi Iehovae
+custodiunt scientiam: sed pervertit verba perfidiosi.` in the left column of
+shared PDF 497 / printed column 978 through the final prose of verse 13 on PDF
+499 / printed column 982, ending `Quamobrem à recto tramite deviantes
+periculis omne genus se objiciunt.` It stops immediately before `V. 14. Puteus
+profundus est os extranearum: in eum corruet, cui Dominus indignatur.` in the
+right column of that page. Latin and English have three byte-identical source
+markers
+(PDF 497–499; synchronized printed columns 978–979 through 982–983) and retain
+both verse lemmata, full in-scope prose, Hebrew, Greek, citations,
+abbreviations, the embedded Latin saying, and printing irregularities. The
+complete files contain 1,259 Latin-file and 1,787 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 497–499, was inspected at original and enlarged detail in
+left-then-right column order. The shared PDF-497 marker begins only at `V. 12.`
+in the left column; every verse 11 sentence above it is excluded. At the
+PDF-497/498 turn, the catchword fragment `Poste-` was excluded rather than
+duplicated: whole `Posteriore` and its corresponding English `In the latter`
+are assigned to PDF 498. At the PDF-498/499 turn, both the divided body
+fragment `perstre-` and the catchword `punt` were excluded: whole
+`perstrepunt` and its corresponding English `resounds` are assigned to PDF
+499. The final PDF-499 marker contains only the verse 13 prose in the left
+column ending `Quamobrem à recto tramite deviantes periculis omne genus se
+objiciunt.`; the ruled `V. 14.` lemma, all of its commentary, and all
+right-column text are excluded. Witness forms including `ocium`, `Deniq;`,
+`sc. licet`, `quicquid sit, sit`, `sperârunt`, `עיני`, `אמר`, `ארי`,
+`ἐπὶ τὸ πολὺ`, `αὐτοκατάκριτος`, `labori-fugas`, and `.n.` were
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-22-chapter-22f-latin.txt`
+- `parts/part-22-chapter-22f-english.md`
+
+The next unit begins with `V. 14. Puteus profundus est os extranearum: in eum
+corruet, cui Dominus indignatur.` in the right column of shared PDF 499 /
+printed column 983; restart at that lemma, excluding every verse 13 sentence
+in the left column before it.

@@ -1633,6 +1633,23 @@ imprimis agmen ducunt Scripturae loca`, is excluded.
 - English: `parts/part-101-determinatio-de-sacrificio-christi-01-english.md`
 - Extent: three synchronized markers, new-series fols. 45–47 / IA leaves 365–367
 
+## Part 102: second unit of the 1652 determination on Christ’s sacrifice
+
+Part 102 presents the first two scriptural arguments for the prior thesis.
+Tuckney first reads the biblical language that Christ died “for us” as
+vicarious substitution, then argues from the language of expiation,
+propitiation, and the mercy seat. His extended answer to Socinian objections
+distinguishes benevolent love from complacent love, explains divine wrath
+toward the elect and its effects upon Christ, and defends reconciliation as
+mutual. It runs from `Quorum ea imprimis agmen ducunt Scripturae loca` on
+new-series fol. 47 / IA leaf 367 through the conclusion that Christ’s death
+renders God propitious on new-series fol. 49 / IA leaf 369. The third argument,
+beginning `Argumentum tertium ex iis locis desumptum est`, is excluded.
+
+- Latin: `parts/part-102-determinatio-de-sacrificio-christi-02-latin.txt`
+- English: `parts/part-102-determinatio-de-sacrificio-christi-02-english.md`
+- Extent: three synchronized markers, new-series fols. 47–49 / IA leaves 367–369
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

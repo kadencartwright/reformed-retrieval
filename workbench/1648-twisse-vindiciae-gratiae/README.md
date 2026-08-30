@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–35.
+checked page by page against canvases 9–36.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -95,6 +95,12 @@ made here for the Latin transcription, witness images, or metadata.
   four-part reply on hidden judgments, divine compassion, Romans 9, and the
   creature's comparative littleness; it ends on p. 27 immediately before
   `SECTIO OCTAVA NOTIO VI`.
+- BSB canvas 36: Part 11 contains the complete `SECTIO OCTAVA NOTIO VI`, from
+  Perkins's proposition that nothing good can be done unless God absolutely
+  wills and does it through Arminius's distinction between general and special
+  concurrence and Twisse's two-part reply on persuasion, concurrence,
+  efficient causation, and conditional divine operation; it ends on p. 28
+  immediately before `SECTIO NONA NOTIO VII`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -259,6 +265,22 @@ substantive marginal reference to Augustine is preserved.
 - Latin: `parts/part-10-preface-section-07-notion-05-hidden-divine-judgments-latin.txt`
 - English: `parts/part-10-preface-section-07-notion-05-hidden-divine-judgments-english.md`
 
-The next untranslated unit begins with the centered `SECTIO OCTAVA NOTIO VI`
-on printed p. 28 / BSB canvas 36 and Perkins's proposition `Nihil boni posse
-fieri, nisi Deo absolute volente & faciente`.
+**Part 11 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO OCTAVA NOTIO VI` on
+printed p. 28 / BSB canvas 36, from Perkins's proposition `Nihil boni posse
+fieri, nisi Deo absolutè volente & faciente` through Arminius's distinction
+between general concurrence and the special assistance of grace and Twisse's
+complete two-part reply on persuasion, general and special concurrence,
+efficient causation, commanded and elicited acts, and conditional divine
+operation. It ends immediately before the centered `SECTIO NONA NOTIO VII`.
+The pair has one identical source marker; no page-boundary join occurs, and
+the printed paragraph numbering and inline biblical and scholarly references
+are retained.
+
+- Latin: `parts/part-11-preface-section-08-notion-06-special-grace-latin.txt`
+- English: `parts/part-11-preface-section-08-notion-06-special-grace-english.md`
+
+The next untranslated unit begins with the centered `SECTIO NONA NOTIO VII`
+on printed p. 28 / BSB canvas 36 and Perkins's proposition `Nihil mali posse
+caveri nisi Deo impediente: & eatenus malum cavemus quatenus Deus vel magis
+vel minus impedit`.

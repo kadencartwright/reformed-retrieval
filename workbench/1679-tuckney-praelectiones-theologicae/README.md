@@ -1554,6 +1554,14 @@ Part 96 begins the distinct `Concio ad Clerum` delivered in the Church of Blesse
 - English: `parts/part-96-concio-ad-clerum-01-english.md`
 - Extent: three synchronized markers, new-series fols. 34–36 / IA leaves 354–356
 
+## Part 97: second unit of the 1650 clergy sermon for the doctoral degree
+
+Part 97 begins the exposition of Matthew 5:13. Tuckney applies Christ's images of the city, lamp, light, and salt especially to the ministerial office, divides the text into the people's condition, the ministry's dignity, and ministers' duty, and completes the first division. There he denies that calling the people “earth” licenses clerical contempt, then derives from the image three lessons in humility concerning their low place, earthly disposition, and need of gospel seasoning. It runs from centered `MATTH. V. 13` and `Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς`, followed by `Ut verum fuerit quod Hugoni Grotio placuit`, on new-series fol. 36 / IA leaf 356 through the completed third lesson and call to pity ministers while revering their office on new-series fol. 38 / IA leaf 358. The second division beginning `Quod secundum erat, Ministerii scilicet dignitas & praestantia` is excluded.
+
+- Latin: `parts/part-97-concio-ad-clerum-02-latin.txt`
+- English: `parts/part-97-concio-ad-clerum-02-english.md`
+- Extent: three synchronized markers, new-series fols. 36–38 / IA leaves 356–358
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

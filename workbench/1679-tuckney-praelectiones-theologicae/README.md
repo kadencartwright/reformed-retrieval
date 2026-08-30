@@ -513,6 +513,20 @@ p. 185 / IA leaf 193. The centered heading `Rom. IV. 2.` is excluded.
 - English: `parts/part-28-romans-04-05-abraham-04-english.md`
 - Extent: nine synchronized markers, printed pp. 177–185 / IA leaves 185–193
 
+## Part 29: fifth unit of the Romans 4:5 lecture
+
+Part 29 gives Tuckney's complete exposition of Romans 4:2. It compares two
+contrary reconstructions of Paul's syllogism concerning Abraham's boasting,
+answers the patristic and Roman arguments for boasting `apud Deum`, defends
+the negative reading, and closes with four doctrinal and pastoral
+corollaries. It runs from the centered `Rom. IV. 2.` on printed p. 186 / IA
+leaf 194 through the fourth corollary on printed p. 195 / IA leaf 203. The
+centered heading `Rom. IV. 3.` is excluded.
+
+- Latin: `parts/part-29-romans-04-05-abraham-05-latin.txt`
+- English: `parts/part-29-romans-04-05-abraham-05-english.md`
+- Extent: ten synchronized markers, printed pp. 186–195 / IA leaves 194–203
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

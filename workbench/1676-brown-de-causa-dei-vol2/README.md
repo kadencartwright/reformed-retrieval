@@ -2,9 +2,9 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and nineteen printed
-> pages of Volume II. The thirty-one paired parts are unreviewed and are not
-> publication-ready.
+> close English translations of the opening one hundred and twenty-seven
+> printed pages of Volume II. The thirty-two paired parts are unreviewed and
+> are not publication-ready.
 
 ## Work and edition
 
@@ -86,7 +86,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 119 is applied and disclosed in the relevant
+completed span through printed p. 127 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapter VII were read from the images, not
 reconstructed from IA OCR. Apparatus notes record printed errata,
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty-one paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty-two paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -246,12 +246,18 @@ working drafts:
   markers.
   [Latin](parts/part-31-book-04-chapter-11-no-mixed-covenant-latin.txt) |
   [English](parts/part-31-book-04-chapter-11-no-mixed-covenant-english.md)
+- **Part 32:** all of Chapter XII, presenting Cameron's and Amyraut's account
+  of a subservient covenant and answering it in twenty-eight numbered
+  arguments; printed pp. 120–127 / IA PDF and leaves 128–135; eight
+  synchronized markers.
+  [Latin](parts/part-32-book-04-chapter-12-no-subservient-covenant-latin.txt) |
+  [English](parts/part-32-book-04-chapter-12-no-subservient-covenant-english.md)
 
-Part 31 ends with Chapter XI's response to the objection and before `CAP.
-XII.` on printed p. 120. The exact next untranslated text is `CAP. XII. Foedus
-cum Israëlitis ictum non fuit foedus subserviens.`, at printed p. 120 / IA PDF
-128 / IA leaf 128. Chapters VI through XI are complete. Every completed pair
-has an identical source-marker sequence, and all thirty-one pairs remain
+Part 32 ends with Chapter XII's twenty-eighth argument and before `CAP. XIII.`
+later on printed p. 127. The exact next untranslated text is `CAP. XIII. Non
+fuit foedus externum merum, legale, aut typicum.`, at printed p. 127 / IA PDF
+135 / IA leaf 135. Chapters VI through XII are complete. Every completed pair
+has an identical source-marker sequence, and all thirty-two pairs remain
 AI-assisted and unreviewed.
 
 ## Licensing

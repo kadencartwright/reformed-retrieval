@@ -40,7 +40,9 @@ Edition spelling and Ames's numbering are otherwise retained. Running heads,
 signatures, catchwords, scan notices, and non-authorial marks are omitted.
 Printed-page markers are retained in both files in an identical sequence.
 Where the end of chapter II shares printed page 14 with the opening of chapter
-III, Part 01 stops before the `CAP. III` heading.
+III, Part 01 stops before the `CAP. III` heading. Likewise, where Book II and
+Book III share printed page 59, Part 08 stops before `LIBER TERTIUS` and Part
+09 begins with that heading.
 
 The witness's printed chapter numbering is preserved without silent
 correction. After chapter IV it prints `CAP. VI. De Charactere` and then prints
@@ -54,10 +56,11 @@ reply.
 
 ## Completed units
 
-**Parts 01–08 are complete as AI-assisted, unreviewed working drafts.** They
+**Parts 01–09 are complete as AI-assisted, unreviewed working drafts.** They
 cover the TOME III title page, Ames's dedication to the Frisian supreme court,
 Book I through the end of chapter VIII, and all of Book II, *De Baptismo*
-(printed pages 1–59).
+(printed pages 1–59), and all of Book III, *De Confirmatione* (printed pages
+59–66).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -89,7 +92,10 @@ Book I through the end of chapter VIII, and all of Book II, *De Baptismo*
 - **Part 08:** Book II, *De Baptismo*, complete, printed pages 46–59.
   - `parts/part-08-book-02-baptism-latin.txt`
   - `parts/part-08-book-02-baptism-english.md`
+- **Part 09:** Book III, *De Confirmatione*, complete, printed pages 59–66.
+  - `parts/part-09-book-03-confirmation-latin.txt`
+  - `parts/part-09-book-03-confirmation-english.md`
 
-The next untranslated boundary is `LIBER TERTIUS. DE CONFIRMATIONE`, followed
-by `CAPUT I`, on printed page 59, immediately after Book II's closing remarks
-on baptismal ceremonies.
+The next untranslated boundary is `LIBER QUARTUS. DE SACRAMENTO EUCHARISTIAE`,
+followed by `CAP. I`, on printed page 67, immediately after Book III's closing
+remarks on the ceremonies of Confirmation.

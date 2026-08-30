@@ -1399,3 +1399,56 @@ both complete question and argument structures.
 
 - Latin: `parts/part-56-chapter-14b-latin.txt`
 - English: `parts/part-56-chapter-14b-english.md`
+
+**Part 57 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 640 / PDF 689 at the question whether the certainty of
+perseverance required of believers must exceed the certainty afforded by the
+indifferent acts of free choice, without repeating Part 56's closing argument
+for knowledge of eternal election. It contains that complete four-point
+question and ends near the top of printed p. 642 / PDF 691 at the clean
+endpoint of Chapter XIV. The heading and opening of Chapter XV are excluded
+and form the exact restart for Part 58. The pair has three byte-identical
+synchronized markers for partial p. 640, complete p. 641, and partial p. 642.
+A page-by-page image audit against the controlling KBNL/UvA Google Books
+images covered all three included frames, both shared-page boundaries, every
+page join, the complete question and its numbered structure, biblical and
+polemical citations, Greek, and the absence of Hebrew and substantive
+marginalia. The printed errata has no applicable correction. The split words
+`absolutam` and `esse` are joined with their new-page markers before the whole
+words and their English equivalents. The Greek `ἀσύστατα` and `ἀφόβως`, the
+witness's difficult `humanæ Libertati, miserrimæ tutrici`, and its irregular
+forms and citations are retained or disclosed rather than silently
+regularized. The English follows the Latin at clause level while preserving
+the complete argument and its distinction between slavish fear and holy
+caution.
+
+- Latin: `parts/part-57-chapter-14c-latin.txt`
+- English: `parts/part-57-chapter-14c-english.md`
+
+**Part 58 is complete as a scan-audited working draft.** It begins within
+shared printed p. 642 / PDF 691 at the heading and opening of Chapter XV,
+without repeating Chapter XIV's closing distinction between fear of ruin and
+holy caution. It contains the exposition of Matthew 18:17 and the complete
+three-point question whether the Remonstrants rightly define the visible
+church as a gathering of believers who profess saving doctrine. It ends
+within printed p. 644 / PDF 693 after the analogy of a painted man. The
+following question whether a New Testament church entirely without
+presbyters possesses the power of the keys is excluded and forms the exact
+restart for Part 59. The pair has three byte-identical synchronized markers
+for partial pp. 642 and 644 and complete p. 643. A page-by-page image audit
+against the controlling KBNL/UvA Google Books images covered all three
+included frames, both shared-page boundaries, every page join, the chapter
+heading and lemma, the introductory exposition, the complete question and its
+three-point structure, polemical citations, and the absence of foreign
+scripts and substantive marginalia. The printed errata has no applicable
+correction. The split words `Remonstrantibus` and `semper` are joined with
+their new-page markers before the whole words and their English equivalents.
+The witness's repeated `Ecclesia talis est talis`, the technical contrasts
+`à priori` / `à posteriori` and `quoad nos` / `in foro Dei`, and its difficult
+or irregular forms and citations are retained or disclosed rather than
+silently regularized. The English follows the Latin at clause level while
+preserving the exposition, quotation, distinctions, and complete numbered
+structure.
+
+- Latin: `parts/part-58-chapter-15a-latin.txt`
+- English: `parts/part-58-chapter-15a-english.md`

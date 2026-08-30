@@ -1,0 +1,91 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumquintum, De Ecclesia, Ejusque Notis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within shared printed p. 642 at the heading
+and opening of Chapter XV, without repeating Chapter XIV's closing distinction
+between fear of ruin and holy caution. It contains the exposition of Matthew
+18:17 and the complete three-point question whether the Remonstrants rightly
+define the visible church as a gathering of believers who profess saving
+doctrine. It ends within printed p. 644 after the analogy of a painted man.
+The following question whether a New Testament church entirely without
+presbyters possesses the power of the keys is excluded and forms the exact
+restart for Part 59. Printer line-end and page-end divisions have been joined;
+each new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: No Greek, Hebrew, or substantive marginal note occurs in
+this unit. The witness's repeated `Ecclesia talis est talis`, the technical
+contrasts `à priori` / `à posteriori` and `quoad nos` / `in foro Dei`, and its
+difficult or irregular forms and citations are retained rather than silently
+regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 642 | PDF p. 691 | resumes at CAPUT XV.]
+
+CAPUT XV.
+
+DE
+
+Ecclesia, ejusque notis.
+
+MATTH. 18.17.
+
+Si neglexerit illos audire; Dic Ecclesiæ.
+
+DIC Ecclesiæ, id est, Dic Præsulibus & Præsidentibus; ut exponit
+Chrysostomus. Pareus clariùs: Dic Presbyteris, Pastoribus repræsentantibus
+Ecclesiam. Necesse autem non est, ut hic Pontificiis, qui Verba hæc obtorto
+collo ad suam hierarchiam stabiliendam trahunt, refellendis insistamus. Nam
+Lyranus, hic delirans, ait Dic Ecclesiæ, id est, Prælato per denuntiationem
+publicam. Et Cajetanus commentario in h.l. Nec ratio nec usus suadet,
+congregandam esse Ecclesiam, ad corrigendum fratrem impœnitentem solius
+peccati in me commissi; sed tam ratio quam vetustissimus mos habet, ut dicatur
+Capiti Ecclesiæ. Hæc à nostris alibi examinantur & refelluntur. Nobis hic cum
+
+[1668 KBNL/UvA witness | logical printed p. 643 | PDF p. 692 | split word joined: Remonstrantibus]
+
+Remonstrantibus est negotium, qui aliam & diversam à Nostris & Papistis,
+hujus loci expositionem asserunt.
+
+Quæritur ergò, An Remonstrantes rectè definiant Ecclesiam visibilem Apol. cap.
+22. cœtum credentium, qui salutarem doctrinam profitentur? Esto (inquiunt)
+quòd tales non verè credant; sunt tamen Ecclesia quoad nos, licèt non in foro
+Dei.
+
+Resp. Talis cœtus, nè quidem quoad nos, haberi potest pro Ecclesiâ. Quia verum
+est, à priori nos non posse certò, certitudine fidei, scire, an tales homines
+verè credant, nec nè? Quia an alius salvificè credat, non est meæ fidei
+objectum formalitèr. At verò à posteriori possumus scire Ecclesiam; quia
+certitudine fidei scire possumus & debemus, an illa sit salutaris doctrina,
+quam iste cœtus profitetur? At non potest aliquis cœtus & multitudo sanam
+doctrinam profiteri, quin necesse sit illic vera Ecclesia electorum &
+vocatorum, licèt permulti illic sint hypocritæ. Sed hæc, nè quidem quoad nos,
+est vera Ecclesia. Quia credere, Remonstrantibus est, firmiter statuere, nullâ
+aliâ ratione, quàm eâ quæ præscriptio est ab Jesu Christo, nos ad salutem
+pervenire posse. At hoc credunt & credere possunt Anabaptistæ, Pontificii,
+Sociniani, Antitrinitarii, Tritheitæ, Ariani, &c.
+
+2. Nec est hæc Ecclesia visibilis, quæ (ut rectè notârunt Professores
+Leydenses doctissimi)
+
+[1668 KBNL/UvA witness | logical printed p. 644 | PDF p. 693 | split word joined: semper]
+
+semper definitur in Scripturis, tùm à statu interno, tùm externo, qui &
+Christum caput, totumque ministerium sacrum, & media colligendi Ecclesiam,
+continet: Et Ecclesia talis est talis, penès quam est potestate ministeriali,
+h.e. clavium potestate, collatâ à Christo, offendicula tollere. At hic cœtus
+non est talis.
+
+3. Si talis cœtus sit Ecclesia salutarem doctrinam tantùm profitens, esto quòd
+nec electi nec efficacitèr vocati sint (cùm omni Ecclesiæ, quoad nos veræ,
+adjungere nosmet debeamus; ut illi fatentur.) sequitur; nos debere nosmet
+jungere Ecclesiæ & cœtui hypocritarum; qui cœtus, si ex electis, aut
+efficacitèr vocatis, nullis constet, non magis est Ecclesia, quàm homo pictus
+est homo.

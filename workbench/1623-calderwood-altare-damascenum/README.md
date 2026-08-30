@@ -66,8 +66,8 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–21 contain none of the appended documents and do not reach the
-embedded Tilenus refutation. Parts 07–21 do, however, include long passages
+prose. Parts 01–22 contain none of the appended documents and do not reach the
+embedded Tilenus refutation. Parts 07–22 do, however, include long passages
 that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
 Scaliger, patristic writers, imperial and conciliar legislation, English
 canons, canonists, and other named writers; the paired files retain their
@@ -87,12 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-one numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the upper portion of printed p. 275, but the
+Twenty-two numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the end of printed p. 280, but the
 inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–21 begin exactly at their audited predecessor boundaries and do not
+Parts 09–22 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -118,6 +118,7 @@ alter either inherited part.
 | 19 | Chapter IV: argument 6, early bishops as presidents in presbyteries | printed pp. 259–267 / PDFs 271–279, both boundary pages partial | 9 paired and image-audited |
 | 20 | Chapter IV: argument 6, presbyteral votes in provincial councils | printed pp. 267–268 / PDFs 279–280, both boundary pages partial | 2 paired and image-audited |
 | 21 | Chapter IV: argument 6, decline of presbyteries and excommunication | printed pp. 268–275 / PDFs 280–287, both boundary pages partial | 8 paired and image-audited |
+| 22 | Chapter IV: argument 6, concluding synthesis from order and jurisdiction | printed pp. 275–280 / PDFs 287–292, first boundary page partial | 6 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -745,7 +746,46 @@ joins, and both boundaries.
 - Latin: `parts/part-21-chapter-04-argument-06-decline-of-presbyteries-and-excommunication-latin.txt`
 - English: `parts/part-21-chapter-04-argument-06-decline-of-presbyteries-and-excommunication-english.md`
 
-All twenty-one units remain **AI-assisted and unreviewed**. They require
+### Part 22 bounds and evidence
+
+Part 22 begins exactly where Part 21 ends, in the upper portion of shared
+printed p. 275 / IA leaf 287 / PDF p. 287, at:
+
+`Cum itaque presbytero competat utraque potestas & ordinis & iurisdictionis`
+
+It contains Calderwood’s concluding synthesis of argument 6 from the powers
+of both order and jurisdiction, Spalatensis’s account of essential and
+accessory ecclesiastical power, the response to Tilenus’s charge that Aerius
+was condemned as a heretic for abolishing the distinction between bishops and
+presbyters, and the evidence Calderwood adduces from Jerome, the fathers,
+medieval dissenters, and Reformation writers. It retains the attributed
+quotations, every visible marginal citation, and the 1623 witness’s
+substantive readings where the 1708 Leiden reset differs.
+
+Part 22 ends at the foot of printed p. 280 / IA leaf 292 / PDF p. 292 at:
+
+`...semper agnitam Presbyterorum plenam & legitimam potestatem etiam saeculis
+corruptissimis.`
+
+The immediately following heading, `De Episcopi potestate extensiva`, on
+printed p. 281 is excluded. This gives Part 22 six identical Latin and English
+source markers, p. 275 partial through p. 280, and six byte-identical
+marginalia records. Printer-divided words at the p. 275/276, 276/277,
+277/278, and 278/279 boundaries are joined, with each incoming marker placed
+before the complete Latin word and the corresponding English word or phrase.
+
+The exact controlling Internet Archive access PDF documented above was
+freshly acquired and its PDFs 287–292 were rendered at 240 dpi and inspected
+page by page against both files. Its page count, byte size, and SHA-256, and
+the hashes of the OCR/scandata aids, match the acquisition evidence already
+documented under Part 16. The IA OCR and the 1708 Leiden reset assisted
+reading only; the 1623 images governed wording, typography, quotations,
+citations, joins, and both boundaries.
+
+- Latin: `parts/part-22-chapter-04-argument-06-concluding-synthesis-latin.txt`
+- English: `parts/part-22-chapter-04-argument-06-concluding-synthesis-english.md`
+
+All twenty-two units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

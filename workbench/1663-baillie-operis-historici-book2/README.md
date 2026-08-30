@@ -176,8 +176,25 @@ tamen post eum lectum ex supra scriptis putavi immutandum.`
 
 The next excluded heading is `QUAESTIO XI. Qui Joannis 2. 20. templum
 aedificatum dicatur annis quadraginta sex, & tamen a Solomone templum
-perfectum est annis septem ...?` The boundary is question-complete and includes
-no body text from Question XI.
+perfectum est annis septem 1. Reg. 6. 38. prout secundum a Zorobabele Ezrae 6.
+15. perfectum est anno Darii sexto postquam captum esset Cyri secundo, & mox
+interruptum ad Darii secundum Ezrae 3. 8. & 4. 24?` The boundary is
+question-complete and includes no body text from Question XI.
+
+## Part 12 boundary
+
+Part 12 resumes with the complete excluded Question XI heading in the remainder
+of printed p. 71 / PDF-IA leaf 409 / OCR object 408. It weighs six readings of
+the temple’s forty-six years in John 2:20, rejecting an appeal to hostile
+testimony, Augustine’s allegories, computations based on Solomon’s or
+Zerubbabel’s temples, and a composite Jesuit calculation. It concludes that
+the Jews referred to Herod’s long-continuing construction and adornment of the
+temple then present. It ends with Question XI within printed p. 74 / PDF-IA
+leaf 412 / OCR object 411 at `videtur haec sententia explodi ut absurda.`
+
+The next excluded heading is `QUAESTIO XII. Quid sit Σάββατον δευτερόπρωτον
+secundo primum Luc. 6. 1?` The boundary is question-complete and includes no
+body text from Question XII.
 
 ## Editorial method and apparatus
 
@@ -220,6 +237,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-10-joseph-rather-than-mary-question-09-english.md`
 - `parts/part-11-magi-question-10-latin.txt`
 - `parts/part-11-magi-question-10-english.md`
+- `parts/part-12-temple-forty-six-years-question-11-latin.txt`
+- `parts/part-12-temple-forty-six-years-question-11-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -252,3 +271,6 @@ objects 401–405.
 The Part 11 pair contains four synchronized source markers, from the remainder
 of logical printed p. 68 through p. 71 / IA leaves-access-PDF pp. 406–409 / OCR
 objects 405–408.
+The Part 12 pair contains four synchronized source markers, from the remainder
+of logical printed p. 71 through the first column of p. 74 / IA leaves-access-PDF pp.
+409–412 / OCR objects 408–411.

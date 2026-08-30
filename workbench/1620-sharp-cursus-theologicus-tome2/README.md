@@ -37,7 +37,8 @@ for canvases 5–12. Part 07 was compared line by line with the eleven BSB image
 for canvases 26–36. Part 08 was compared line by line with the nine BSB images
 for canvases 36–44. Part 09 was compared line by line with the five BSB images
 for canvases 44–48. Part 10 was compared line by line with the six BSB images
-for canvases 48–53. No e-rara text, modern edition, or modern translation was
+for canvases 48–53. Part 11 was compared line by line with the two BSB images
+for canvases 54–55. No e-rara text, modern edition, or modern translation was
 used.
 
 ## Editorial method
@@ -167,9 +168,19 @@ markers:
 - `parts/part-10-church-militant-internal-causes-government-forms-latin.txt`
 - `parts/part-10-church-militant-internal-causes-government-forms-english.md`
 
-The next continuation boundary is therefore `QUAESTIO II. An fuerit stabilita
-Monarchia à Christo in persona Petri`, at the beginning of printed column 107
-on BSB canvas 54.
+**Part 11 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It opens Question II, whether Christ established monarchy in the
+person of Peter, and contains the complete initial series of Arguments 1–15 in
+printed columns 107–110. It ends after the interlinear Gloss cited in Argument
+15, immediately before `OBIECTIONES`; it contains four synchronized
+printed-column markers:
+
+- `parts/part-11-church-militant-petrine-monarchy-opening-arguments-latin.txt`
+- `parts/part-11-church-militant-petrine-monarchy-opening-arguments-english.md`
+
+The next continuation boundary is therefore `OBIECTIONES. Obiect. 1. Si
+Petrus est petra super quam aedificat Christus Ecclesiam`, later in printed
+column 110 on BSB canvas 55.
 
 ## Review and licensing notice
 

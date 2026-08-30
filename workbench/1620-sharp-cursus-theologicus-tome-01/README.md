@@ -83,11 +83,12 @@ includes the complete opening tract `DE SACRA SCRIPTURA`, with the meanings of
 tradition, state of the final controversy, positive arguments, testimonies of
 the Fathers, and all twenty-eight printed objections with their responses. It
 then continues through the existence, unity, and essence of God, the opening
-taxonomy and rules of the divine attributes, and the complete treatments of
+taxonomy and rules of the divine attributes, the complete treatments of
 divine simplicity and infinity, including eternity, immutability, and
-immensity. Units that share a numbered column meet at the printed
-internal heading or section boundary in that column; neither pair duplicates
-matter across the join.
+immensity, and the opening rule for communicable attributes with the complete
+treatment of divine life. Units that share a numbered column meet at the
+printed internal heading or section boundary in that column; neither pair
+duplicates matter across the join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -106,6 +107,7 @@ matter across the join.
 | 14 | `DE DEO`: introduction and Questions I–III | 170–180 | 00099–00104 |
 | 15 | Question IV: attributes and divine simplicity | 180–188 | 00104–00106, 00109–00110 |
 | 16 | Question IV: divine infinity, eternity, immutability, and immensity | 188–192 | 00110–00112 |
+| 17 | Question IV: communicable attributes and divine life | 192–193 | 00112–00113 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
@@ -133,12 +135,18 @@ the fourth use of the doctrine of simplicity, `nempe Deo similes sine ulla
 mixtura peccati.` Part 16 begins immediately afterward in the same column at
 `De Infinitate Dei.` No text is omitted or duplicated at the join.
 
-**Exact resume boundary:** Part 16 ends in column 192 at BSB frame 00112 with
+**Part-16/Part-17 join:** Part 16 ends in column 192 at BSB frame 00112 with
 the sixth use of the doctrine of immensity, `Ergo non est necesse ut Angelos
-invocemus.` The internal heading `De attributis κοινωνητοῖς.` begins
-immediately afterward in the same column and is excluded. The treatment of
-the communicable attributes is the next untranscribed text. Part 16 spans
-portions of five numbered columns.
+invocemus.` Part 17 begins immediately afterward in the same column at `De
+attributis κοινωνητοῖς.` No text is omitted or duplicated at the join.
+
+**Exact resume boundary:** Part 17 ends at the foot of column 193 at BSB frame
+00113 with the third use of the doctrine of divine life, `Ergo in aeternum
+vivemus.` The heading `De Sapientia seu Scientia Dei.` begins at the top of
+column 194 on the same frame and is excluded. The treatment of divine wisdom
+or knowledge is the next untranscribed text. Part 17 spans portions of two
+numbered columns; the word `comprehendere` crosses their boundary and is
+represented by a synchronized split in both files.
 
 ## Editorial method and status
 

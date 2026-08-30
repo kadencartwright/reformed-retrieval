@@ -738,3 +738,56 @@ on that page and is excluded.
 The next restart point is `QUÆSTIO XXVII. DE IMMUNITATE CLERICORUM. An Personæ
 Ecclesiasticæ exemptæ sint a Jurisdictione et subjectione Magistratus Civilis?
 Neg. contra Pontificios.` on shared printed p. 219 / IA leaf 253 / PDF p. 253.
+
+## Part 27
+
+Part 27 contains the complete Locus XVIII, Question XXVII, “De Immunitate
+Clericorum.” It begins with the question heading on shared printed p. 219 / IA
+leaf 253 / PDF p. 253, immediately after Question XXVI, and ends with section
+XXVIII on shared printed p. 228 / IA leaf 262 / PDF p. 262. Question XXVIII,
+“De Stipendiis Ministrorum, et Bonis Ecclesiasticis,” begins below it on that
+page and is excluded.
+
+- Latin: `parts/part-27-locus-18-question-27-latin.txt`
+- English: `parts/part-27-locus-18-question-27-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XXVIII, and twelve synchronized marginalia blocks.
+- The scan verification covered all ten page images and all nine page joins.
+  The pp. 221–222, 222–223, 223–224, and 227–228 joins divide `obedientiam`,
+  `potestatem`, `Bellarm.`, and `privilegia`; each word is joined, with the
+  new-page marker placed before the complete Latin word and its English
+  counterpart.
+- The transcription retains all ten printed Greek expressions. `[sic]`
+  identifies the witness’s disruptive `Clericuli`, `qui` governing the implied
+  neuter plural *bona*, `matrimoniorium`, `Sacredoribus`, `facit`, `Johannem
+  XXII.`, and `consientiam`; the English translates the evident sense without
+  silently altering the Latin witness. The unmatched closing parenthesis in
+  the 1 Peter 2:13 citation is also retained in the Latin and regularized in
+  the English.
+
+## Part 28
+
+Part 28 contains the complete Locus XVIII, Question XXVIII, “De Stipendiis
+Ministrorum, et Bonis Ecclesiasticis.” It begins with the question heading on
+shared printed p. 228 / IA leaf 262 / PDF p. 262, immediately after Question
+XXVII, and ends with section XIX on printed p. 232 / IA leaf 266 / PDF p. 266.
+Question XXIX, “De Potestate Ecclesiastica,” begins below it on that page and
+is excluded.
+
+- Latin: `parts/part-28-locus-18-question-28-latin.txt`
+- English: `parts/part-28-locus-18-question-28-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XIX, and nine synchronized marginalia blocks.
+- The scan verification covered all five page images and all four page joins.
+  The pp. 229–230 and 230–231 joins divide `redderetur` and `spontaneis`; each
+  word is joined, with the new-page marker placed before the complete Latin
+  word and its English counterpart.
+- The transcription retains all fourteen printed Greek expressions and the
+  malformed marginal heading `Fontes Solutionem`. `[sic]` identifies the
+  witness’s disruptive `necessaris`, fused `necibum`, and `liberalioria`; the
+  English translates the evident sense without silently altering the Latin
+  witness.
+
+The next restart point is `QUÆSTIO XXIX. DE POTESTATE ECCLESIASTICA. An
+Ecclesiæ aliqua Potestas spiritualis competat, distincta a Politica? Affirm.`
+on shared printed p. 232 / IA leaf 266 / PDF p. 266.

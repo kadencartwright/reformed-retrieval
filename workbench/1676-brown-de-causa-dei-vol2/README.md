@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and sixty printed
-> pages of Volume II. The thirty-four paired parts are unreviewed and
+> close English translations of the opening one hundred and seventy-one
+> printed pages of Volume II. The thirty-six paired parts are unreviewed and
 > are not publication-ready.
 
 ## Work and edition
@@ -86,7 +86,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 160 is applied and disclosed in the relevant
+completed span through printed p. 171 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapters VII and XIV were read from the images,
 not reconstructed from IA OCR. Apparatus notes record printed errata,
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty-four paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty-six paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -264,12 +264,24 @@ working drafts:
   synchronized markers.
   [Latin](parts/part-34-book-04-chapter-14-covenant-of-works-leads-to-messiah-latin.txt) |
   [English](parts/part-34-book-04-chapter-14-covenant-of-works-leads-to-messiah-english.md)
+- **Part 35:** all of Chapter XV, distinguishing the Decalogue considered in
+  itself from its function in the Mosaic administration and arguing in
+  thirty-two printed points that it is not the formula or stipulation of the
+  covenant of grace; printed pp. 160–167 / IA PDF and leaves 168–175; eight
+  synchronized markers.
+  [Latin](parts/part-35-book-04-chapter-15-decalogue-not-formula-covenant-of-grace-latin.txt) |
+  [English](parts/part-35-book-04-chapter-15-decalogue-not-formula-covenant-of-grace-english.md)
+- **Part 36:** all of Chapter XVI, arguing that the Decalogue does not contain
+  the pure and simple covenant of grace and nothing else; printed pp. 167–171
+  / IA PDF and leaves 175–179; five synchronized markers.
+  [Latin](parts/part-36-book-04-chapter-16-decalogue-not-pure-covenant-of-grace-latin.txt) |
+  [English](parts/part-36-book-04-chapter-16-decalogue-not-pure-covenant-of-grace-english.md)
 
-Part 34 ends with Chapter XIV's thirteenth argument and before `CAP. XV.` on
-printed p. 160. The exact next untranslated text is `CAP. XV.`, at printed p.
-160 / IA PDF 168 / IA leaf 168, followed by `Decalogus non est formula foederis
-gratiae.` Chapters VI through XIV are complete. Every completed pair has an
-identical source-marker sequence, and all thirty-four pairs remain
+Part 36 ends with Chapter XVI's thirtieth argument and before `CAP. XVII.` on
+printed p. 171. The exact next untranslated text is `CAP. XVII.`, at printed
+p. 171 / IA PDF 179 / IA leaf 179, followed by `Examinantur rationes contrariae
+D. Burmanni.` Chapters VI through XVI are complete. Every completed pair has
+an identical source-marker sequence, and all thirty-six pairs remain
 AI-assisted and unreviewed.
 
 ## Licensing

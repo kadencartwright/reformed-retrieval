@@ -70,6 +70,7 @@ same scan can legitimately close one part and open the next:
 | 25 | XXV | 142–148 | 98–104 | `Nunc & quartam objectionem in medium afferamus` through the fourth and fifth objections in the first class, the transition to the alleged impelling causes of election, and the arguments from foreseen faith, works, and Christ's merit, ending `sed ejus potiùs effectum sive consequens, ut ex se manifestum est` before Lecture XXVI |
 | 26 | XXVI | 148–151 | 104–107 | `Atque hactenus rejecta argumenta, pro falsis Electionis nostræ causis προηγουμέναις allata` through replies concerning Romans 9, the alleged impelling cause of reprobation, Hosea 13:9, unbelief, and divine hatred, followed by the transition to objections concerning the means of execution and the recalled objection about Christ's mediation, ending `nihil hîc repetemus in præsentiâ` before Lecture XXVII |
 | 27 | XXVII | 151–156 | 107–112 | `De Reprobatione verò, quandoquidem in ejus executione peccatum præcipuè locum habeat` through the objection that willing an end entails willing its means, the threefold divine will or providence, God's sustaining, permitting, directing, and ordering of sinful acts, the distinction between sin's relation to God and to its creaturely author, and the three senses of sin, ending `quibus gratiam haud mediocrem pro hâc tam utili operâ industriâque nos debituros profitemur` before Lecture XXVIII |
+| 28 | XXVIII | 156–161 | 112–117 | `Superest jam postrema objectionum classis, ad Electionis ac reprobationis immutabilem certitudinem spectantium` through the fourth class of objections, the alleged erasure of the elect from the book of life, the scriptural testimonies for losing faith and righteousness, and their answers, ending `quibus minorem illam principalem stabilire conantur adversarii` before Lecture XXIX |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -136,8 +137,9 @@ English translation:
 | 25 | Immutability and the alleged causes of election | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt) | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md) |
 | 26 | The alleged impelling cause of reprobation | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt) | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md) |
 | 27 | The permission and ordering of sin | [`part-27-praelection-27-permission-and-ordering-of-sin-latin.txt`](parts/part-27-praelection-27-permission-and-ordering-of-sin-latin.txt) | [`part-27-praelection-27-permission-and-ordering-of-sin-english.md`](parts/part-27-praelection-27-permission-and-ordering-of-sin-english.md) |
+| 28 | The immutable certainty of election and perseverance | [`part-28-praelection-28-immutability-and-perseverance-latin.txt`](parts/part-28-praelection-28-immutability-and-perseverance-latin.txt) | [`part-28-praelection-28-immutability-and-perseverance-english.md`](parts/part-28-praelection-28-immutability-and-perseverance-english.md) |
 
-The completed sequence now extends through Lecture XXVII. Its successive subjects
+The completed sequence now extends through Lecture XXVIII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -333,6 +335,19 @@ sin concretely in its two relations, to God as permitting and ordering it and
 to the creature as committing it, and materially, formally, and concretely,
 ending before Lecture XXVIII turns to the immutable certainty of election and
 reprobation.
+Lecture XXVIII begins the fourth and final class of objections against
+predestination, those directed against the immutable certainty of election
+and reprobation. It answers arguments from renewed biblical “election,” the
+book of life, Paul's wishes and self-discipline, Peter's command to confirm
+one's calling, and Judas's apostolic election. It then begins the principal
+objection that the elect can lose justifying faith and righteousness,
+distinguishing true faith from outward profession, temporary belief,
+historical knowledge, and a superficial taste of heavenly gifts. Its detailed
+answers treat Ezekiel 18, the rocky soil, the vine and branches, love growing
+cold, falling from grace in Galatians, shipwreck and departure from faith,
+Hebrews 6, and 2 Peter 2, concluding that the elect may grievously wound faith
+and conscience but neither wholly abandon faith nor finally fall from
+Christ's saving grace.
 
 ## Validation
 

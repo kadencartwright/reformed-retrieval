@@ -1052,6 +1052,22 @@ in loco probare pergit`, is excluded.
 - English: `parts/part-61-romans-04-05-abraham-37-english.md`
 - Extent: two synchronized markers, printed pp. 284–285 / IA leaves 292–293
 
+## Part 62: thirty-eighth unit of the Romans 4:5 lecture
+
+Part 62 answers Castellio's claim that death cannot heal without making
+killers physicians, saving the wicked, preventing anyone's perdition, and
+rendering Christ unnecessary. Tuckney grants the first three consequences
+only for death considered in itself. Christ, however, transforms death by
+his merit and Spirit: what was hell's vestibule becomes heaven's gate, the
+departure from sin, and entrance into glory. It runs from `Proximo in loco
+probare pergit` on printed p. 285 / IA leaf 293 through this direct response
+on printed p. 286 / IA leaf 294. Castellio's further three objections,
+beginning `Huic itaque levi armaturae`, are excluded.
+
+- Latin: `parts/part-62-romans-04-05-abraham-38-latin.txt`
+- English: `parts/part-62-romans-04-05-abraham-38-english.md`
+- Extent: two synchronized markers, printed pp. 285–286 / IA leaves 293–294
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

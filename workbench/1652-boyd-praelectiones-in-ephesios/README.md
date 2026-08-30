@@ -66,6 +66,7 @@ same scan can legitimately close one part and open the next:
 | 21 | XXI | 119–126 | 77–84 | `In quibus vobis paulò distinctius exprimendis & enarrandis adhuc visum est immorari` through the gifts peculiar to the elect, the internal and external signs of election, and `quod primum ac præcipuum erat Corollarium nobis ex doctrinâ præcedente deducendum` before Lecture XXII |
 | 22 | XXII | 126–130 | 84–88 | `Secundum Corollarium, ad Electionis conjugata, h.e. Electos ipsos pertinebit` through the fixed number of the elect, the final election corollary, and the name, scriptural basis, definition, two acts, and final causes of reprobation, ending `Atque hæc de ejus causâ finali dicta sunto` before Lecture XXIII |
 | 23 | XXIII | 130, 133–137 | 88–93 | `Sequitur nunc ut ejus effecta sive consequentia attingamus` through the distinction between effects and consequences, divine desertion, reprobation's conditions and comparison with election, three uses, and rules for judging persons, ending `à salutis limine arceamus aut excludamus` before Lecture XXIV; scans 131–132 are redundant captures of printed pages 87–88 and are not separately transcribed |
+| 24 | XXIV | 137–142 | 93–98 | `Atque hucusque totam Prædestinationis doctrinam` through the division of opposing arguments and the first three objections against predestination—concerning the decree's absoluteness, universal saving will, and universal redemption—and their answers, ending `nec veritatis appositæ lumen, nedum oppositæ limam aut collidentis aut elidentis impetum ferre possint` before Lecture XXV |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -128,8 +129,9 @@ English translation:
 | 21 | The gifts and signs distinguishing the elect | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt) | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md) |
 | 22 | The fixed number of the elect and the causes of reprobation | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt) | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md) |
 | 23 | The effects and consequences of reprobation | [`part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt) | [`part-23-praelection-23-effects-and-consequences-of-reprobation-english.md`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-english.md) |
+| 24 | Objections against predestination | [`part-24-praelection-24-objections-against-predestination-latin.txt`](parts/part-24-praelection-24-objections-against-predestination-latin.txt) | [`part-24-praelection-24-objections-against-predestination-english.md`](parts/part-24-praelection-24-objections-against-predestination-english.md) |
 
-The completed sequence now extends through Lecture XXIII. Its successive subjects
+The completed sequence now extends through Lecture XXIV. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -276,6 +278,18 @@ final state. The lecture closes by applying those rules to people outside the
 visible Church, deaths clouded by illness, and ancestors who lived under the
 papacy, affirming that Christ preserved living members even amid
 Antichristian corruption.
+Lecture XXIV opens the answer to objections against predestination by dividing
+them into four classes. It treats the first three objections in the class
+attacking the form of the decree: that an absolute decree makes destruction
+the end of creation, that biblical statements about God's will to save all
+people entail universal election, and that the gospel command to believe
+entails an effectual redemption of every hearer. Its answers distinguish two
+senses of “absolute,” several senses of “all,” God's revealed call from his
+hidden counsel, and a promise from its particular application. The lecture
+also develops its final answer through the conditional threat to Nineveh,
+different kinds of divine command, and the responsibility of those who reject
+the gospel, before closing the third objection immediately prior to Lecture
+XXV's fourth objection.
 
 ## Validation
 

@@ -644,7 +644,34 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-20-chapter-20d-latin.txt`
 - `parts/part-20-chapter-20d-english.md`
 
-The next unit begins with `Vers. 16. Accipe vestem ejus qui fidejubet pro
-alieno, & pignus ab eo accipe, qui fidejubet pro peregrinis.` in the left
-column of shared PDF 440 / printed column 854; restart there, excluding the
-final verse 15 prose above it.
+**Part 20e is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `Vers. 16. Accipe vestem ejus
+qui fidejubet pro alieno, & pignus ab eo accipe, qui fidejubet pro
+peregrinis.` in the left column of shared PDF 440 / printed column 854 through
+the final prose of verse 18 on PDF 443 / printed column 860. It stops
+immediately before `Vers. 19.` in that same left column. Latin and English
+have four byte-identical source markers (PDF 440–443; synchronized printed
+columns 854–855 through 860–861) and retain all three verse lemmata, full
+prose, Hebrew, citations, the embedded English proverb, and printed
+irregularities. The complete files contain 1,644 Latin-file and 2,284
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 440–443, was inspected at original and enlarged detail
+in both-column order. The shared PDF-440 marker is intentional: Part 20d ends
+above `Vers. 16.`, while Part 20e begins with that lemma below it, so no verse
+15 prose overlaps and none is omitted. The final PDF-443 marker includes only
+the concluding prose of verse 18 above `Vers. 19.`; no verse 19 material is
+imported. Page-turn catchwords `Scopus`, `Prov.`, and `Deum` were excluded
+rather than duplicated, while witness forms including `זלה`, `nec sicut
+hominem`, `Sweet meat must have sower sawce`, `stabilitor`, and `singularum
+lucem` were retained. This remains an AI-assisted working edition requiring
+qualified human review.
+
+- `parts/part-20-chapter-20e-latin.txt`
+- `parts/part-20-chapter-20e-english.md`
+
+The next unit begins with `Vers. 19. Revelanti arcanum, qui ambulat cum
+detractione, & blando labiis suis ne te admisceto.` in the left column of
+shared PDF 443 / printed column 860; restart there, excluding the final verse
+18 prose above it.

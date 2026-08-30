@@ -1038,3 +1038,81 @@ The next restart point is `QUÆSTIO IV. DE UNIONE SACRAMENTALI. An forma
 Sacramentorum essentialis et interna sita sit in relatione signi ad signatum,
 et in eorum unione mere σχετικῇ? Affirm. cont. Pontifi.` on printed p. 297 / IA
 leaf 331 / PDF p. 331.
+
+## Part 38
+
+Part 38 contains the complete Locus XIX, Question IV, “De Unione
+Sacramentali.” It begins with the question heading on printed p. 297 / IA leaf
+331 / PDF p. 331 and ends with section XII on shared printed p. 299 / IA leaf
+333 / PDF p. 333. Question V begins below it on that page and is excluded.
+
+- Latin: `parts/part-38-locus-19-question-04-latin.txt`
+- English: `parts/part-38-locus-19-question-04-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–XII, and seven synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 297–298 join falls between the printed Greek `τῷ / φανταστικῶς`; the
+  marker is placed at the corresponding boundary in both files. The pp.
+  298–299 join falls between sections X and XI.
+- The transcription retains all printed Greek, the marginal heading’s
+  disruptive `mortalis` marked `[sic]`, and the witness’s biblical citation
+  `Gal. iii. 17.` The English translates the evident sense without silently
+  altering the Latin witness.
+
+The next restart point is `QUÆSTIO V. An Sacramenta sint tantum notæ et tesseræ
+Professionis nostræ? An vero etiam signa et sigilla gratiæ Dei, de remissione
+peccatorum, et regeneratione Spiritus? Affirm. contr. Socin. et Pontif.` on
+shared printed p. 299 / IA leaf 333 / PDF p. 333.
+
+## Part 39
+
+Part 39 contains the complete Locus XIX, Question V, on the sacraments as marks
+of profession and as signs and seals of God’s grace. It begins with the
+question heading on shared printed p. 299 / IA leaf 333 / PDF p. 333,
+immediately after Question IV, and ends with section XVI on shared printed p.
+302 / IA leaf 336 / PDF p. 336. Question VI, “De Verbo Sacramentali,” begins
+below it on that page and is excluded.
+
+- Latin: `parts/part-39-locus-19-question-05-latin.txt`
+- English: `parts/part-39-locus-19-question-05-english.md`
+- Both files contain four synchronized source-page markers, the complete
+  section sequence I–XVI, and eight synchronized marginalia blocks.
+- The scan verification covered all four page images and all three page joins.
+  The pp. 301–302 join divides `nostræ`; the complete word and its English
+  counterpart are placed after the p. 302 marker. The other joins divide no
+  word.
+- The transcription retains all printed Greek, the unmatched closing
+  parenthesis in `Roman. iv. 11.)`, and the witness’s biblical citations,
+  including `Gal. iii. 3`. The English translates the evident sense without
+  silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO VI. DE VERBO SACRAMENTALI. An verbum
+sacramentale sit verbum prædicatum et concionale, an vero consecratorium, quod
+sit operativum? Prius Affir. Poster. Neg. cont. Pontif.` on shared printed p.
+302 / IA leaf 336 / PDF p. 336.
+
+## Part 40
+
+Part 40 contains the complete Locus XIX, Question VI, “De Verbo Sacramentali.”
+It begins with the question heading on shared printed p. 302 / IA leaf 336 /
+PDF p. 336, immediately after Question V, and ends with section XIV on shared
+printed p. 304 / IA leaf 338 / PDF p. 338. Question VII, “De Intentione
+Ministri,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-40-locus-19-question-06-latin.txt`
+- English: `parts/part-40-locus-19-question-06-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–XIV, and eight synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 303–304 join falls within section X after `Nec`; the marker is placed at
+  the corresponding clause boundary in both files. The pp. 302–303 join falls
+  between sections III and IV.
+- The transcription retains the printed forms `concionatorium`, `nonnisi`, and
+  `ignoratione Elenchi`, together with the witness’s biblical citations; the
+  English translates the evident sense without silently altering the Latin
+  witness.
+
+The next restart point is `QUÆSTIO VII. DE INTENTIONE MINISTRI. An ad essentiam
+et efficiam Sacramenti, necessaria sit intentio Ministri, saltem faciendi id
+quod facit Ecclesia? Neg. cont. Pontif.` on shared printed p. 304 / IA leaf 338
+/ PDF p. 338.

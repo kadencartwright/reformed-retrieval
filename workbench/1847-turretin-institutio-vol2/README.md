@@ -11,9 +11,10 @@
 - **Title:** *Institutio theologiae elencticae*
 - **Volume:** *Pars secunda* (Volume II)
 - **Edition:** Edinburgh, John D. Lowe, 1847
-- **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
-  Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, complete in twelve questions
+- **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
+  XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
+  Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
+  Statu Christi*, begun through Question I
 
 ## Controlling witness and rights
 
@@ -38,16 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–38 are complete as AI-assisted, scan-checked working drafts.**
-Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Questions I–XII, from printed p. 3 / PDF 31 through section XXV on printed p.
-237 / PDF 265, completing Locus XII. Part 27 also includes the Locus XII
-divisional title on PDF 177 and its blank verso on PDF 178. The sequence
-comprises 872 numbered sections across 232 unique numbered text pages and 262
-source markers in each language (260 printed-page markers plus the two
-divisional-leaf markers in Part 27). The complete Latin files contain 127,892
-whitespace-delimited words and the complete English files 174,396, counted
-over Parts 01–38 with `wc -w`. Each
+**Parts 01–39 are complete as AI-assisted, scan-checked working drafts.**
+Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
+Questions I–XII, and Locus XIII, Question I, from printed p. 3 / PDF 31 through
+section XL on printed p. 254 / PDF 282. Part 27 also includes the Locus XII
+divisional title on PDF 177 and its blank verso on PDF 178; Part 39 includes
+the Locus XIII divisional title on PDF 267 and its blank verso on PDF 268. The
+sequence comprises 912 numbered sections across 246 unique numbered text pages
+and 278 source markers in each language (274 printed-page markers plus four
+divisional-leaf markers in Parts 27 and 39). The complete Latin files contain
+135,523 whitespace-delimited words and the complete English files 184,634,
+counted over Parts 01–39 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -91,6 +93,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 36 | Locus XII, Question X | printed pp. 218–226 / PDFs 246–254 | XXXII | 9 | `part-36-locus-12-question-10-{latin.txt,english.md}` |
 | 37 | Locus XII, Question XI | printed pp. 227–230 / PDFs 255–258 | XVII | 4 | `part-37-locus-12-question-11-{latin.txt,english.md}` |
 | 38 | Locus XII, Question XII | printed pp. 231–237 / PDFs 259–265 | XXV | 7 | `part-38-locus-12-question-12-{latin.txt,english.md}` |
+| 39 | Locus XIII, Question I | title and blank verso PDFs 267–268; printed pp. 241–254 / PDFs 269–282 | XL | 16 | `part-39-locus-13-question-01-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -429,12 +432,34 @@ the Latin with `[sic]`; the parallel construction and grammar require
 section XIV on printed p. 234 is likewise retained with `[sic]`; the expected
 form is `circumcisionem`. No supplementary witness was needed.
 
-The next source sequence is blank PDF 266, the unnumbered Locus XIII
-divisional title on PDF 267 (`LOCUS DECIMUS TERTIUS. DE PERSONA ET STATU
-CHRISTI.`), blank PDF 268, and then the exact next question restart `QUAESTIO
-PRIMA. An Messias promissus jam venerit? Affirm. contra Judaeos.` on printed
-p. 241 / PDF 269. None of those four interstitial or Locus XIII pages is
-included in Part 38.
+Question I of Locus XIII argues against the Jews that the promised Messiah has
+already come. It first establishes a divinely appointed time for the advent
+from the removal of Judah's scepter in Genesis xlix, Daniel's seventy weeks,
+and the promised glory of the second temple. It then argues from the fall of
+the Jewish commonwealth, the cessation of pagan oracles and idolatry, the
+calling of the nations, and Jewish and pagan confessions, before answering the
+principal objections concerning Elijah, the last days, Mount Zion, messianic
+peace, the sun and moon, Ezekiel's temple, Israel's salvation, and Gog and
+Magog in forty sections. Part 39 begins with the unnumbered Locus XIII
+divisional title on PDF 267, explicitly marks its blank verso on PDF 268, then
+retains the title as repeated above Question I on printed p. 241 / PDF 269. It
+ends with section XL on printed p. 254 / PDF 282 immediately before Question
+II. The Latin and English files contain 7,631 and 10,238
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry the same sixteen source markers in the same sequence (the
+title, blank verso, and fourteen printed pages) and retain all thirteen
+substantive marginal headings, citations, Greek, and Hebrew. The
+printer-divided `ad-/ventum` at the printed pp. 244/245 join,
+`tan-/dem` at pp. 249/250, `ad-/ditamenta` at pp. 250/251, `ne-/fanda` at
+pp. 251/252, and `sum-/ma` at pp. 253/254 are normalized as `adventum`,
+`tandem`, `additamenta`, `nefanda`, and `summa`, with the incoming marker
+placed before each complete word in both files. The visibly printed English
+conjunction in the Latin phrase `de Gog and Magog dicitur` in section XL is
+retained with `[sic]`. No supplementary witness was needed.
+
+Part 39's exact next restart is `QUAESTIO II. An Jesus Nazarenus sit verus
+Messias? Affirm. contra Judaeos.` below section XL on printed p. 254 / PDF 282.
+PDF 283 begins the continuation of Question II and is excluded from Part 39.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

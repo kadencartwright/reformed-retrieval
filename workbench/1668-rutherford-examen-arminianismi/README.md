@@ -1718,3 +1718,36 @@ Chapter XVIII's clean endpoint.
 
 - Latin: `parts/part-67-chapter-18-latin.txt`
 - English: `parts/part-67-chapter-18-english.md`
+
+**Part 68 is complete as a scan-audited working draft.** It begins within
+shared printed p. 728 / PDF 777 at the exact heading, Romans 13:4 lemma, and
+opening question of Chapter XIX, without repeating Chapter XVIII's closing
+argument concerning ecclesiastical discipline. It contains four complete
+questions: capital punishment and war; the civil punishment of heresy;
+deliberate error where eternal salvation is at issue; and whether a heretic is
+blasphemous despite professed reverence for Scripture and willingness to die
+for his belief. It ends within shared printed p. 739 / PDF 788 after the
+complete third argument of the fourth question. The following question on the
+magistrate's supremacy in the external government of the church is excluded
+and forms the exact restart for Part 69. The pair has twelve byte-identical
+synchronized markers for partial pp. 728 and 739 and complete pp. 729–738. A
+page-by-page image audit against the controlling KBNL/UvA Google Books images
+covered all twelve included frames, both shared-page boundaries, every page
+join, the exact chapter heading and lemma, all four complete questions and
+their numbered arguments and assertions, biblical and polemical citations,
+Greek, and the absence of Hebrew and substantive marginalia. The printed
+errata has no applicable correction. The split words `Remonstrantes`,
+`Ceremoniali`, `sicariis`, `tyrannus`, `sacrificat`, `recusârint`, and `nititur`
+are joined with their new-page markers before the whole words and their
+English equivalents; catchwords are omitted. The Greek `ἀδιάφορον` and both
+occurrences of `Καρδιογνώστης`, together with the witness's difficult or
+irregular wording and citations, including the lemma's `quis`, `Orthodoxias`,
+`publici`, `feres`, `Christi è Apostolorum`, `de de occulto`, `Heterodoxias`,
+`1 Pet. 13,14.`, `Judaisimum`, `statuentium iis`, and `Ezræ 10.8.`, are retained
+or disclosed rather than silently regularized. The English is a fresh
+translation from the accompanying Latin and preserves the four questions, their
+distinctions, six assertions on the civil treatment of religious error, and
+the clean endpoint before the next major question.
+
+- Latin: `parts/part-68-chapter-19a-latin.txt`
+- English: `parts/part-68-chapter-19a-english.md`

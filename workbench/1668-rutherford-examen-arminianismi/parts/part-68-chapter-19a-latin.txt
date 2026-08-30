@@ -1,0 +1,314 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## CAPUT XIX. DE MAGISTRATU. — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within shared printed p. 728 / PDF 777 at
+the exact heading, lemma, and opening question of Chapter XIX, without
+repeating Chapter XVIII's closing argument concerning ecclesiastical
+discipline. It contains four complete questions: capital punishment and war;
+the civil punishment of heresy; deliberate error where eternal salvation is
+at issue; and whether a heretic is blasphemous despite professed reverence for
+Scripture and willingness to die for his belief. It ends within shared printed
+p. 739 after the complete third argument of the fourth question. The following
+question on the magistrate's supremacy in the external government of the
+church is excluded and forms the exact restart for Part 69. Printer line-end
+and page-end divisions have been joined; catchwords have been omitted, and
+each new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. The witness's difficult or
+irregular forms and citations, including the lemma's `quis`, `Orthodoxias`,
+`publici`, `feres`, `Christi è Apostolorum`, `de de occulto`, `Heterodoxias`,
+`1 Pet. 13,14.`, `Judaisimum`, `statuentium iis`, and `Ezræ 10.8.`, are retained
+rather than silently regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 728 | PDF p. 777 | begins at CAPUT XIX]
+
+CAPUT XIX.
+
+DE MAGISTRATU.
+
+ROM. 13.4.
+
+Dei enim minister tuo bono est. Quòd si feceris, quod malum est, metue: non
+enim frustrà gladium gerit: Nam Dei minister est, vindex ad iram ei, quis, quod
+malum est, fecerit.
+
+Quæritur, An Magistratui liceat flagitiosos & homicidas capitali supplicio
+afficere?
+
+[1668 KBNL/UvA witness | logical printed p. 729 | PDF p. 778 | split word joined: Remonstrantes]
+
+Remonstrantes aliqui negant: ut Henricus Welsing, lib. de officio hominis
+Christiani. p. 1. Henricus Slatius in apertâ Declar. pag. 53. Joan. Geisteranus
+de officio Magistratûs: Et Sociniani. Ostorodius Instit. Relig. cap. 28.
+Smalcius disp. 6. de Magistratu civili, contra Frantzium, Negant, Magistratum
+posse sanguinem fundere; negant, Bella Christianis esse licita. Societas
+Remonstrantium in Confessione sua, id quidem non negat; Sed nec satis apertè
+asserit, ut Professores Leydenses bene notârunt. Quorum Censurâ puncti, in Apol.
+cap. 12. p. 141. apertiùs loquuntur; sed cùm scirent, esse inter suos, qui id
+publicis scriptis negâssent, tolerandos esse ajunt, qui tenent, non licere
+Magistratui, sanguinis effusione & capitali supplicio animadvertere in sontes.
+
+Nos id omninò licere affirmamus, & contrariam sententiam, ut erroneam, apertè
+improbamus & rejicimus.
+
+1. Quia Gen. 9.6. Qui effundit sanguinem hominis, per hominem sanguis illius
+effunditor. Exod. 21.14. Cùm autem quis arrogaverit contra proximum suum,
+occidere eum astu, ab altari meo rapito eum ad mortem. Num. 35.31. At nè
+accipito pretium redemptionis pro ullo occisore, qui sons sit dignus morte; sed
+omninò morti traditor. Quòd verò hæc non sit Lex Judicialis & temporaria, sed
+Legis Naturæ; ex effectu patet; quod alitèr expiari nequeat sanguis innocuus;
+quod de Lege
+
+[1668 KBNL/UvA witness | logical printed p. 730 | PDF p. 779 | split word joined: Ceremoniali]
+
+Ceremoniali, aut Judiciali, nunquam dicitur. Vers. 33. Ut non contaminetis
+terram ipsam, in quâ eritis; quia sanguis iste contaminaturus esset terram
+hanc: pro eâ autèm terrâ, fieri non posset expiatio, nisi per sanguinem
+effundentis eum. Matth. 26.52. Omnes qui acceperint gladium, gladio peribunt.
+Non autèm omnes occisores, de facto gladio peribunt. Ergo, loquitur Christus de
+jure, quod habet Magistratus.
+
+2. Quia Remonstrantes locum Gen. 9.6. urgent, non tantùm contra occisionem, sed
+& contra effusionem ullam sanguinis. At nullis distinctionibus vitari potest,
+quin sub N. Test. licitum sit Magistratui gladium gerere; quia, institutione
+divinâ, Rom. 13. gladium gerit, tanquàm minister Dei, ad vindictam. At gladius
+est instrumentum, non multæ pecuniariæ, sed effusionis sanguinis.
+
+Et loci multi sunt in N. T. si ad literam premantur, uti eos exponunt cum
+Anabaptistis Arminiani, qui nullam ultionem, vel pecuniariam vel ullo modo
+corporalem, sumere de parricidis aut matricidis vel flagitiosissimis sicariis &
+regicidis, licitam esse evidenter probant. Et sic erit necesse ut Magistratus,
+parricidium & regicidium compenset bono & dilectione, ut expressè est Matth. 5.
+39,43. Imò nec resistendum ei, qui vult ferro & incendio & vivicomburio, Regem,
+Parentes, Patriam, è medio tollere; & talibus
+
+[1668 KBNL/UvA witness | logical printed p. 731 | PDF p. 780 | split word joined: sicariis]
+
+sicariis, tantùm benè precandum, benefaciendum. Undè Magistratus tantùm gladium
+gerit, ut orationibus, & suavibus precationibus, & mollibus verbis blandiatur
+omnibus Ecclesiæ & Reip. execrandis pestibus; Et contra mitissima sua præcepta
+ipse Christus egit, qui flagello è funiculis facto, venditores & emptores e
+Templo ejecit. Nec mihi dabunt in toto N. T. locum (nisi locus Matth. 5. de
+privatis hominibus, vindictam privatæ ultionis vi arripientibus, exponatur) ex
+quo concludent, Magistratum alium esse, quàm inermem Monitorem, qui nec gladio,
+nec ullâ vi jure uti potest in maleficos & sontes execratissimos. Proferant
+locum! Imò, hoc modo, furanti & manibus non laboranti non negandum alimentum,
+nec ulla pœna alicui infligenda; sed expectandum fulmen è cœlis in capita
+omnium sontium: Et sic Magistratus & Rex, nomina erunt. Ubi enim in N. T. sunt
+leges de Incestu, Adulterio, Furto, de Sodomiâ, & portentosâ libidine inter
+homines & bestias, morte puniendis?
+
+3. Subjici nos oportet Regibus & Præsidibus, qui mittuntur ad ultionem
+facinorosorum, & laudem benè agentium. 1 Pet. 2.13,14.
+
+4. Si occisio hominum in Bello esset illicita, Joannes Baptista militibus
+rogantibus viam ad vitam æternam, malè respondisset, ipsos in vitâ illâ illicitâ
+absque reprehensione vivere sinendo, &
+
+[1668 KBNL/UvA witness | logical printed p. 732 | PDF p. 781]
+
+modum & rationem tantùm, quâ viverent in homicidiis nefandis, docendo. Lucæ 3.
+14. Ità & Petrus, Cornelii saluti minùs consuluisset, Act. 10. Nec potuit fides,
+quâ in Israele non erat major, Matth. 8. in Centurione, nec justitia & vera ad
+Deum conversio in Cornelio, consistere cum quotidianâ in Bello conversatione;
+si Bellum illicitum esset.
+
+5. Quia multa Bella, Duce, Auspice & Approbatore Christo, Agno, fiunt in
+Apocalypsi contra Draconem & Bestiam. Sic 1 Cor. 9.7. Lucæ 3.14. & 14.31,32.
+
+6. Docent Adversarii, Magistratum pro quantitate culpæ, pœnas irrogare debere.
+Ergo, sanguinis effusione ad mortem, plectendum est homicidium.
+
+7. Naturæ Lex est, vim vi repellere, &, in justâ vitæ tutelâ, occidere potiùs
+quàm occidi.
+
+Quæritur, Annon Magistratûs sit, Hæreticum punire? An verò consentaneum sit
+Legibus clementissimi Salvatoris nostri Jesu Christi, ut Magistratus toleret in
+Rep. Judæos, Turcas, Papistas, Arianos, Socinianos, Libertinos, & omnes
+Hæreticos, puro mentis errore errantes?
+
+In hâc Quæstione, hæ observandæ sunt distinctiones. 1. Distinguendum cum
+Bullingero decad. 2. ser. 8. inter Hæresiarcham, & seductos homines.
+
+2. Cum Polyandro, in Synopsi Purioris Theologiæ.
+
+[1668 KBNL/UvA witness | logical printed p. 733 | PDF p. 782]
+
+disp. 50. thes. 57. inter blasphemum, & alium heterodoxum.
+
+3. Inter universalem à Christianitate Apostatam, & inter articulum
+Fundamentalem oppugnantem aut negantem.
+
+4. Aliud est 1. Scientia. 2. Aliud, conscientia. 3. Aliud, externa professio.
+
+5. Aliud est professio positiva; aliud, negativa.
+
+6. Aliud est pœna vulgaris; aliud, pœna capitalis.
+
+7. Aliud est error curabilis; aliud, incurabilis.
+
+8. Aliud est potestas cumulativa; aliud, privativa.
+
+Assertio 1. Libertas puræ scientiæ & opinionis concedi debet à Magistratu
+omnibus hominibus, hactenus, quòd Magistratus neminem cogere possit ad hoc vel
+illud in Religione opinandum vel sentiendum. Quia actus mentis, cùm sint
+interni, Magistratûs Authoritati non subjiciuntur. Magistratus informationem
+mentis, per Doctores & Pastores imperare potest; sed non opinationem mentis.
+
+Assert. 2. Potestas Magistratûs in conscientiam, directè & immediatè, nulla est;
+indirectè tamen & secundariò, est Magistratûs in conscientiam potestas
+cumulativa; quia potest imperare, ut quis mediis omnibus Orthodoxias sollicitè
+& gnavitèr incumbat. At privativa nulla est; quia rectè sentiendi de Deo
+libertate, conscientiam privare non potest Rex, non
+
+[1668 KBNL/UvA witness | logical printed p. 734 | PDF p. 783 | split word joined: tyrannus]
+
+tyrannus, non potestas ulla creata.
+
+Assert. 3. Magistratus, Hæreticum ad professionem sanæ fidei negativam cogere
+debet, h. e. compellere debet & potest Hæreticum, nè in exercitio Religionis
+quicquam externè profiteatur, doceat, aut disseminet, quod sanæ fidei contrarium
+est. Hinc omnes, palam & apertè falsam Religionem profitentes, puniendos esse
+putamus pro qualitate delicti.
+
+1. Quia Magistratus gladium gerit ad ultionem facinorosorum, Rom. 13.4. 1 Pet.
+13,14. At tales Hæretici, sunt malefici; & Hæresis est opus carnis, Gal. 5.20.
+Rex autem non est Minister Dei, si perperàm de Divinâ Majestate sentientes &
+profitentes non coërceat.
+
+2. Quos Ecclesia Ecclesiasticè punire debet, ut scandalosos, eos Magistratus
+Christianus, quà Custos, Nutritius, Tutor, Defensor & Protector Ecclesiæ, punire
+debet pœnâ civili: id Custodis, Tutoris, & Protectoris officium postulat. At
+Ecclesia contradicentes convincere, & contumaces excommunicare, & tanquàm
+Hæreticos vitare debet.
+
+3. Falsa Religio in Deum publica, vel est peccatum publicum, vel non. Si
+posterius, homines in quâlibet Sectâ vel Religione possunt salvari; quod
+absurdum, cùm sit una fides. Eph. 4.5. & per solius Jesu nomen, salus. Act. 4.
+12. Si prius, debet Minister Dei illud punire & coërcere.
+
+[1668 KBNL/UvA witness | logical printed p. 735 | PDF p. 784]
+
+4. Quia si valeret hæc ratio Remonstrantium, Hæreticos non esse gladio
+coërcendos, quia solâ ratione, non ferro, flammâ, & vi suadetur Religio; tùm
+probaret hæc ratio, nè quidem Blasphemos & Hæresiarchas (qui in conscientiis
+suis erroneis credunt, se obligari summo scelere, si suos exitiales Hæreses de
+Christo Pseudo-prophetâ non doceant, & quidem in publicis locis) esse
+coërcendos. At docent licere & debere Magistratum, exitialium errorum Doctoribus
+interdicere templis & locis publicis. At sic respondendum; Suadendum esse
+ratione, non debere talem Hæresiarcham, doctrinam, quam salutarem & necessariam
+animabus salvandis credit, in locis publici docere; non autem vi & gladio eum
+arcendum à Templis publicis.
+
+Assert. 4. Magistratus, Hæreticum ad professionem sanæ fidei positivam, & ad
+profitendam tanquàm salutarem veritatem, quod blasphemiam esse putat, non potest
+directè cogere; quia sic ad hypocrisin posset eum cogere: Sed ad deponendam
+conscientiam erroneam, in causis, in mediis, & rationibus & motivis pensitandis,
+audiendis, & addiscendis, potest cogere.
+
+Assert. 5. Magistratus, blasphemos, & hæreticè & blasphemè de Deo profitentes,
+& à Christianitate ad Judaisimum, aut aliam falsam Religionem deficientes,
+debet supplicio capitali afficere.
+
+1. Quia hoc Deus mandat, Exod. 22.20. Qui
+
+[1668 KBNL/UvA witness | logical printed p. 736 | PDF p. 785 | split word joined: sacrificat]
+
+sacrificat aliis Diis, præterquam Deo soli, ut anathema perditor. Lex est Deut.
+13. Somniatorem, & ad serviendum alienis Diis tentantem, absque ullâ indulgentiâ
+occidendum. Adoratorem Solis & Lunæ, lapidibus obruendum. Lev. 24.16. Quicunque
+maledixerit Deo suo, feres peccatum suum; & qui blasphemârit nomen Domini,
+morte multetur.
+
+Hæ quidem leges ad nos non spectant, quà Judiciales (ut notat Beza de
+Hæreticis puniendis) 1. Quòd à Mose, non à nostro Magistratu; Israelitis, non
+nobis præscribuntur. 2. Quòd de corporeis sacrificiis &c. loquuntur. 3. Quòd
+contra somniatores factæ fuerunt. Hæc inter nos nunc cessant. At quod attinet ad
+æquitatem naturalem, non potest probari ex Scripturis, has Leges esse ex iis,
+quæ morte Christi sublatæ sunt; nisi dixerint, morte Christi effectum, ut
+blasphemare Dei nomen, cùm fuerit peccatum inter Judæos, nobis licitum aut
+ἀδιάφορον sit; aut si peccatum sit, esse peccatum morte Christi sublatum,
+saltèm hactenus, ut non debeat à Magistratu puniri.
+
+2. Quia laudantur edicta Regis Nebuchadnezaris, quæ ad Legem Politicam ac
+Judicialem Judæorum non spectabant. Dan. 3.29. & Artaxerxis, Ezræ 6.11. &
+7.25,26. mortem & eradicationem statuentium iis, qui blasphemiam dixerint in
+Jehovam, & Legi Dei parere
+
+[1668 KBNL/UvA witness | logical printed p. 737 | PDF p. 786 | split word joined: recusârint]
+
+recusârint. Ita 2 Chron. 15,13. Ezræ 10.8.
+
+3. Hoc non parùm confirmant exempla Jehu, qui Baalis Sacerdotes trucidavit;
+Josiæ, Sacerdotes Excelsorum mactantis; Eliæ, Sacerdotes Baalis ad torrentem
+Kison interficientis; Petri, Ananiam & Sapphiram cædentis; Pauli, Elymam Magum
+cæcitate percutientis. Hæc omnia probant à minore, multò magis licere
+Magistratui Christiano blasphemos neci devovere, cùm Justitia utrobique sit
+naturalis, cùm gravissimum sit hoc peccatum, parricidio non inferius.
+
+Assert. 6. Ubi homines seducti ab aliis, errant; ibi multâ patientiâ & cum omni
+lenitate agendum, resipiscentibus ignoscendum, & utcunque leviori pœnâ errantes
+coërcendi sunt.
+
+Quæritur, An nemo deditâ operâ erret, aut errare se sibi persuadeat, cùm de
+æternâ salute suâ agitur? Ajunt Remonstrantes, Apol. fol. 278. Nos negamus.
+
+1. Quia deditâ operâ, Jeroboamus, ad regnum stabiliendum, vitulos aureos
+erexit; & consultò, Solomon alienis Diis litavit: & utrique constabat agi de
+æternâ salute.
+
+2. Quia sic non posset quis mentiri, Deum esse corporeum, peccati authorem,
+turpis lucri aut inanis gloriæ causâ: quod experientiæ repugnat.
+
+Quæritur, An Hæreticus ille blasphemus non sit, qui suam blasphemiam è Dei
+Verbo probare
+
+[1668 KBNL/UvA witness | logical printed p. 738 | PDF p. 787 | split word joined: nititur]
+
+nititur; & tantâ Verbi Divini reverentiâ tangitur, ut mallet mille mortes
+subire, quàm eam deserere? Remonstrantes, talem Hæreticum, innocuum, probum, &
+pium statuunt. Apol. cap. 24. fol. 263.
+
+Nos negamus. 1. Quia quorum conscientia cauterio exusta est, ita judicialitèr à
+Deo obdurari possunt, ut suam Hæresin, Verbo Dei conformem credant, & pro ea
+mortem subeant: ut patet in Baalis Sacerdotibus, & in Judæis, qui ex V. Test.
+Filium Mariæ, Impostorem esse contendunt, & pro illâ suâ religione mori parati,
+sunt.
+
+2. Quia sic blasphemus Deo abominabilis nunquàm in rerum naturâ reperiretur,
+qui fascinatâ conscientiâ crederet, Christum esse seductorem Dei Patris hostem
+acerrimum, ejusque Religionem, esse fabulam; licitum, imò pium esse, occidere
+Christum & Apostolos; quod Scripturis adversatur. Quid enim dicendum est de iis,
+qui gnatorum Molecho immolationem, credunt esse obsequium Dei religiosum, quale
+Deus Abrahamo imperavit? Jer. 7.31. Item de interfectoribus Christi è
+Apostolorum Matth. 26.65,66. 1 Cor. 2.8. Joh. 16.2,3.
+
+3. Quia palmaris ratio, cur Magistratui non liceat Hæreticum capitali supplicio
+afficere, est, quia Magistratus, & mortalium nemo, potest de de occulto cordis
+judicare, an teneat eam blasphemiam contra dictamen conscientiæ? At sic, qui
+tuetur Deum esse corpus in Idolo colendum, & Filium Dei esse Impostorem, & esse
+tres
+
+[1668 KBNL/UvA witness | logical printed p. 739 | PDF p. 788]
+
+Deos, non potest non tolerari; Imò, qui gangrænam falsæ suæ doctrinæ aliis
+affricet, per corporalem vim, locis publicis arceri non potest; (contra, quod
+ipsi docent. Apol. cap. 24. fol. 257.) Quia an ad blasphemiam accedat interna
+pervicacia, solus Καρδιογνώστης novit. Et sic Moses, & Reges Israelis, &
+populus, ad cultum falsorum Deorum sollicitantem, lapidare non potuerunt; quia
+fieri potuit, ut ista Hæresis, esset ipsa pietas & innocentia. Quid? An populus
+occulta cordis novit? Nec potest ullus Hæreticus, sit Hymenæus, qui fidei
+naufragium fecit, excommunicari; imò nec publicè nomine Heterodoxias corripi,
+aut ullâ censurâ notari posset; eò quòd, sitnè pervicax, an verò simplici
+mentis errore seductus? solus Καρδιογνώστης novit, non Ecclesia, nec aliquis
+mortalium.

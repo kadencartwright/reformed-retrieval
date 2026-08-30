@@ -2052,3 +2052,22 @@ numbering as verse 2 without silently harmonizing them:
 This unit is bounded by the exact repeated `Praestitutum meum` lemma rather
 than by an arbitrary image count. The next unit begins on reader image `PA305`
 / printed p. 306 at `Vers. 2. Praestitutum meum, praestitutum regis observa`.
+
+**Part 94 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the complete homiletic exposition of Ecclesiastes 8:1 on reader
+images `PA305`, `PA307`, and `PA309`. It begins on printed p. 306 at the
+repeated `Praestitutum meum` lemma, which the edition numbers `Vers. 2`,
+crosses the image joins within the divided `observa- / tione` and `indu- /
+cit`, and ends on printed p. 309 immediately before the repeated lemma for
+Ecclesiastes 8:2. The paired files have three exactly identical reader-image
+markers and retain the examples of the Amalekite, Rechab and Baanah, Saul’s
+servants, Christ and his mother, Joab, and the Levites, every printed biblical
+reference, the edition’s repeated misnumbering, and the source’s irregular
+`illi ... sibi` construction:
+
+- `parts/part-94-homiliae-chapter-08-verse-01-latin.txt`
+- `parts/part-94-homiliae-chapter-08-verse-01-english.md`
+
+This unit is bounded by the exact repeated verse-2 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA309` / printed
+p. 309 at `Vers. 2. Ne perturbate à facie ejus abito`.

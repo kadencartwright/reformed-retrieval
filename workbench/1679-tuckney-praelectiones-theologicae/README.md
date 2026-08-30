@@ -692,6 +692,22 @@ excluded.
 - English: `parts/part-39-romans-04-05-abraham-15-english.md`
 - Extent: six synchronized markers, printed pp. 237–242 / IA leaves 245–250
 
+## Part 40: sixteenth unit of the Romans 4:5 lecture
+
+Part 40 completes Tuckney's contextual and theological proof from Romans
+5:12. It argues from Paul's repeated focus on Adam's one sin and from infant
+death, then answers accounts based on imitation, occasion, or propagation
+without imputation. It closes the excursus by restating the inference from
+participation in Adam's imputed sin to participation in Christ's imputed
+righteousness. It runs from `1. Ut observavit Chrysostomus` on printed p.
+242 / IA leaf 250 through Tuckney's explicit closure of the Romans 5:12
+excursus on printed p. 244 / IA leaf 252. The resumed proof of the wider
+argument, beginning `Minorem probavimus ex Rom. 5.12`, is excluded.
+
+- Latin: `parts/part-40-romans-04-05-abraham-16-latin.txt`
+- English: `parts/part-40-romans-04-05-abraham-16-english.md`
+- Extent: three synchronized markers, printed pp. 242–244 / IA leaves 250–252
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

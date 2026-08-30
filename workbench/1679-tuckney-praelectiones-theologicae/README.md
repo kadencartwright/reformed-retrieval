@@ -1434,6 +1434,22 @@ The following separately headed determination on the moral law, beginning
 - English: `parts/part-85-articles-of-faith-and-reason-04-english.md`
 - Extent: four synchronized markers, new-series fols. 11–14 / IA leaves 331–334
 
+## Part 86: first unit on the moral law under the gospel
+
+Part 86 begins Tuckney's determination that the moral law binds believers
+under the gospel. It includes the opening prayer, the historical account of
+ancient and modern Antinomianism, Tuckney's defense of Luther and Calvin,
+the formal thesis and outline, and the preliminary removal of the judicial
+and ceremonial laws from the question. It runs from `Determinatio
+Quaestionis` on new-series fol. 15 / IA leaf 335 through the conclusion on
+the ceremonial law on new-series fol. 19 / IA leaf 339. The definition of
+the moral law, beginning `De Lege tantum morali igitur instituitur quaestio`,
+is excluded.
+
+- Latin: `parts/part-86-moral-law-01-latin.txt`
+- English: `parts/part-86-moral-law-01-english.md`
+- Extent: five synchronized markers, new-series fols. 15–19 / IA leaves 335–339
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

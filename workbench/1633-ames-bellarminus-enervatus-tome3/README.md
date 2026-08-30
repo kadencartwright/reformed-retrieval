@@ -54,9 +54,10 @@ reply.
 
 ## Completed units
 
-**Parts 01–07 are complete as AI-assisted, unreviewed working drafts.** They
+**Parts 01–08 are complete as AI-assisted, unreviewed working drafts.** They
 cover the TOME III title page, Ames's dedication to the Frisian supreme court,
-and Book I through the end of chapter VIII (printed pages 1–45).
+Book I through the end of chapter VIII, and all of Book II, *De Baptismo*
+(printed pages 1–59).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -85,6 +86,10 @@ and Book I through the end of chapter VIII (printed pages 1–45).
 - **Part 07:** Book I chapter VIII, *De Caeremoniis*, printed pages 39–45.
   - `parts/part-07-book-01-chapter-08-ceremonies-latin.txt`
   - `parts/part-07-book-01-chapter-08-ceremonies-english.md`
+- **Part 08:** Book II, *De Baptismo*, complete, printed pages 46–59.
+  - `parts/part-08-book-02-baptism-latin.txt`
+  - `parts/part-08-book-02-baptism-english.md`
 
-The next unit begins with `LIBER SECUNDUS. DE BAPTISMO` at the foot of printed
-page 45 and continues with Book II, chapter I, on printed page 46.
+The next untranslated boundary is `LIBER TERTIUS. DE CONFIRMATIONE`, followed
+by `CAPUT I`, on printed page 59, immediately after Book II's closing remarks
+on baptismal ceremonies.

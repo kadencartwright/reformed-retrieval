@@ -848,6 +848,34 @@ after the later synchronized marker. All included printed marginalia and both
 Greek adverbs are retained. The pair remains an AI-assisted, unreviewed draft
 and is not publication-ready.
 
+## Part 42 boundary and status
+
+Part 42 is a synchronized Latin/English working pair with exactly eight
+markers: partial printed pp. 231 and 238 and complete pp. 232–237, IA leaves
+261–268, access-PDF pp. 261–268, and DjVu OCR objects 260–267. It begins in
+the left column of printed p. 231 immediately after Part 41 with `CAPUT XII`,
+the subtitle *Ad Epocham sextam Quaestiones & dubia*, and `QUAESTIO I`, *De
+temporibus tibiarum & pedum Statuae Nebuchadnezaris Danielis 2. v. 33.* It
+contains Question I in full and ends in the left column of printed p. 238
+after `sed quàm levibus argumentis fortasse postea perpendemus.`
+
+`QUAESTIO II. Quaeritur de tempore Bestiae quartae Danielis 7. v. 7. &
+sequentibus.` begins at the top of the right column of p. 238 and is wholly
+excluded. Its answer begins `Resp. Tot tantaeque difficultates, ac inter
+auctores discrepantiae hîc occurrunt ...`; that heading is the exact next
+restart.
+
+All eight controlling 300-dpi page images, `pdf-261.jpg` through
+`pdf-268.jpg`, were visually inspected at original detail during transcription
+and in a final facsimile audit. The audit checked both partial-page boundaries,
+every included column and page join, headings, names, citations, numbers,
+foreign-script strings, and all printed marginalia. Words divided across the
+pp. 231/232, 232/233, 233/234, 234/235, and 235/236 joins were placed wholly
+after the later synchronized marker in both files; the whole-word catchwords
+at the pp. 236/237 and 237/238 joins were omitted. The images governed; IA OCR
+and fresh local OCR served only as aids. The pair remains an AI-assisted,
+unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -946,6 +974,8 @@ have not been modernized or endorsed.
 - `parts/part-40-book-01-chapter-11k-antiochus-eupator-and-demetrius-english.md`
 - `parts/part-41-book-01-chapter-11l-maccabean-succession-and-later-seleucids-latin.txt`
 - `parts/part-41-book-01-chapter-11l-maccabean-succession-and-later-seleucids-english.md`
+- `parts/part-42-book-01-chapter-12-question-01-latin.txt`
+- `parts/part-42-book-01-chapter-12-question-01-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -956,8 +986,8 @@ Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
-Part 37, two for Part 38, three for Part 39, two for Part 40, and five for Part
-41. There are eighty-two current files in forty-one Latin/English pairs,
-containing 269 synchronized source markers per language (538 marker
-occurrences across all eighty-two files). The files remain AI-assisted and
-unreviewed.
+Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
+and eight for Part 42. There are eighty-four current files in forty-two
+Latin/English pairs, containing 277 synchronized source markers per language
+(554 marker occurrences across all eighty-four files). The files remain
+AI-assisted and unreviewed.

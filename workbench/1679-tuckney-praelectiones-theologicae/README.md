@@ -304,6 +304,19 @@ opens the fifth objection and is excluded.
 - English: `parts/part-12-romans-01-17-justification-11-english.md`
 - Extent: three synchronized markers, printed pp. 109–111 / IA leaves 117–119
 
+## Part 13: twelfth unit of the Romans 1:17 lecture
+
+Part 13 completes the fifth and sixth objections and closes the inquiry into
+ceremonial works. It begins `Quinto enim in loco` on printed p. 111 / IA leaf
+119 and ends as Tuckney notes Alfonso de Castro's alternative answer on
+printed p. 113 / IA leaf 121. The next sentence, `Sic enim ille loco prius
+notato, Potest adhuc aliter responderi ...`, quotes that alternative and is
+excluded.
+
+- Latin: `parts/part-13-romans-01-17-justification-12-latin.txt`
+- English: `parts/part-13-romans-01-17-justification-12-english.md`
+- Extent: three synchronized markers, printed pp. 111–113 / IA leaves 119–121
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

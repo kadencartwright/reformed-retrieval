@@ -610,6 +610,22 @@ Christi justitia nobis`, is excluded.
 - English: `parts/part-34-romans-04-05-abraham-10-english.md`
 - Extent: five synchronized markers, printed pp. 217–221 / IA leaves 225–229
 
+## Part 35: eleventh unit of the Romans 4:5 lecture
+
+Part 35 opens Tuckney's proof that Christ's righteousness is truly imputed
+for justification. Against the objection that Scripture nowhere uses the
+formula verbatim, it argues from Romans 4:6 and 11 that Scripture expressly
+speaks of imputed righteousness, infers that this alien righteousness can
+belong only to Christ, and distinguishes its imputation from the infusion
+of inherent righteousness. It runs from `Jam accedimus ad secundum
+quaesitum` on printed p. 221 / IA leaf 229 through the conclusion of the
+first scriptural proof on printed p. 223 / IA leaf 231. The next proof,
+`Secundo licet ῥητῶς in Sacra Pagina non occurrat`, is excluded.
+
+- Latin: `parts/part-35-romans-04-05-abraham-11-latin.txt`
+- English: `parts/part-35-romans-04-05-abraham-11-english.md`
+- Extent: three synchronized markers, printed pp. 221–223 / IA leaves 229–231
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

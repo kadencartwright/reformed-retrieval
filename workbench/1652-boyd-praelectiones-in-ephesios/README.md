@@ -62,6 +62,7 @@ same scan can legitimately close one part and open the next:
 | 17 | XVII | 100–103 | 58–61 | `Quod ad hujus doctrinæ tractationem ipsam attinet` through its cautions, general definition of predestination, and treatment of creation and the permitted fall before Lecture XVIII |
 | 18 | XVIII | 103–107 | 61–65 | `Sequitur nunc ut ad ejus partes sive species descendamus` through the definition and two acts of election, Christ as the elect head and foundation, and `Hactenus igitur de Christi ipsius, Electorum capitis & fundamenti, gratuitâ Electione dixisse sufficiat` before Lecture XIX |
 | 19 | XIX | 108–113 | 66–71 | `Sequitur nunc, ut Electos Christo unitos consideremus` through the elect angels and humanity, the efficient, impelling, and final causes of election, and `Atque hæc de causâ Electionis nostræ finali disseruisse sufficiat` before Lecture XX; scan 107 has only the omitted catchword `Sequitur` |
+| 20 | XX | 113–119 | 71–77 | `Sequuntur jam, priusquam ad effecta veniamus` through the four conditions and four temporal effects of election, the opening corollary on its signs and assurance, and `Ita etiam cum vero Spiritus Sancti testimonio, multa alia dona, gratiæque speciales conjuncta sunt` before Lecture XXI |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -120,8 +121,9 @@ English translation:
 | 17 | Cautions and the definition of predestination | [`part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt) | [`part-17-praelection-17-cautions-and-definition-of-predestination-english.md`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-english.md) |
 | 18 | Election and Christ the foundation | [`part-18-praelection-18-election-and-christ-the-foundation-latin.txt`](parts/part-18-praelection-18-election-and-christ-the-foundation-latin.txt) | [`part-18-praelection-18-election-and-christ-the-foundation-english.md`](parts/part-18-praelection-18-election-and-christ-the-foundation-english.md) |
 | 19 | The elect and the causes of election | [`part-19-praelection-19-the-elect-and-causes-of-election-latin.txt`](parts/part-19-praelection-19-the-elect-and-causes-of-election-latin.txt) | [`part-19-praelection-19-the-elect-and-causes-of-election-english.md`](parts/part-19-praelection-19-the-elect-and-causes-of-election-english.md) |
+| 20 | The conditions, effects, and signs of election | [`part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt) | [`part-20-praelection-20-conditions-effects-and-signs-of-election-english.md`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-english.md) |
 
-The completed sequence now extends through Lecture XIX. Its successive subjects
+The completed sequence now extends through Lecture XX. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -224,6 +226,16 @@ gratuitous election of Christ’s humanity, with Augustine, as an argument for
 the gratuitous election of his members. It concludes by distinguishing God’s
 glory as election’s supreme final cause from salvation, holiness, adoption,
 and glory as subordinate ends or stages in the decree’s execution.
+Lecture XX then identifies election as eternal, free and gratuitous,
+immutable, and knowable only from its effects. It treats the temporal promise,
+exhibition, application, and consummation of the Mediator, distinguishes the
+universal gospel command from the promise made to believers, and answers the
+charge that the outward call conflicts with God’s decree. It then relates
+election to faith, effectual calling, justification, adoption, sanctification,
+perseverance, and glorification. Its closing corollary begins the treatment of
+assurance from election’s effects, locating the Spirit’s testimony in the
+gospel’s practical application and distinguishing it from carnal presumption
+by prayer, filial reverence, obedience, and the accompanying graces.
 
 ## Validation
 

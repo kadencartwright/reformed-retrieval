@@ -1179,3 +1179,54 @@ The next restart point is `QUÆSTIO IX. DE DISCRIMINE SACRAMENTORUM VET. ET
 NOVI TEST. An differentia Sacramentorum Vet. et Novi Test. in eo consistat,
 quod illa adumbrarint gratiam, hæc contineant, illa figuram, hæc ipsum corpus
 habeant? Neg.` on shared printed p. 315 / IA leaf 349 / PDF p. 349.
+
+## Part 43
+
+Part 43 contains the complete Locus XIX, Question IX, “De Discrimine
+Sacramentorum Vet. et Novi Test.” It begins with the question heading on shared
+printed p. 315 / IA leaf 349 / PDF p. 349, immediately after Question VIII, and
+ends with section XVIII on printed p. 319 / IA leaf 353 / PDF p. 353. Question
+X, “De Charactere,” begins on the next printed page and is excluded.
+
+- Latin: `parts/part-43-locus-19-question-09-latin.txt`
+- English: `parts/part-43-locus-19-question-09-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XVIII, and seven synchronized marginalia blocks.
+- The scan verification covered all five page images and all four page joins.
+  The pp. 315–316 join places the complete `externis` and its English
+  counterpart after the new-page marker; the pp. 317–318 join falls between
+  `Bellarminus / stabiliendæ` and the corresponding English words. The other
+  joins divide no word.
+- The transcription retains the printed Greek `διορθώσεως`, both occurrences
+  of `σχέσει`, and `ἀντίτυπα`, together with the witness’s `scili.`, `gravisus`,
+  both occurrences of `eadam`, `terrennis`, `cap. iii. 21, 1æ`, and `Coloss.
+  ii 11`. The English translates the evident sense without silently altering
+  the Latin witness.
+
+The next restart point is `QUÆSTIO X. DE CHARACTERE. An in tribus Sacramentis,
+Baptismo, Confirmatione, et Ordine, imprimatur character in anima, id est,
+signum spirituale et indelebile? Neg. cont. Pontif.` on printed p. 320 / IA
+leaf 354 / PDF p. 354.
+
+## Part 44
+
+Part 44 contains the complete Locus XIX, Question X, “De Charactere.” It begins
+with the question heading on printed p. 320 / IA leaf 354 / PDF p. 354 and ends
+with section XV on shared printed p. 322 / IA leaf 356 / PDF p. 356. Question
+XI, “De Baptismo,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-44-locus-19-question-10-latin.txt`
+- English: `parts/part-44-locus-19-question-10-english.md`
+- Both files contain three synchronized source-page markers, the complete
+  section sequence I–XV, and three synchronized marginalia blocks.
+- The scan verification covered all three page images and both page joins. The
+  pp. 320–321 join falls between sections VI and VII; the pp. 321–322 join
+  divides the Isaiah quotation between `visuras / gloriam`, with the marker at
+  the corresponding boundary in both files.
+- The transcription retains the printed Greek `καρδιογνώστης`, the malformed
+  `chacactere`, and the witness’s `sequioribus`, `Exech.`, abbreviations, and
+  citations. The English translates the evident sense without silently
+  altering the Latin witness.
+
+The next restart point is `QUÆSTIO XI. DE BAPTISMO. Quid sit Baptismus, et
+Quotuplex?` on shared printed p. 322 / IA leaf 356 / PDF p. 356.

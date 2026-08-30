@@ -917,6 +917,21 @@ turn to biblical arguments, `Ad Divina tandem`, is excluded.
 - English: `parts/part-53-romans-04-05-abraham-29-english.md`
 - Extent: two synchronized markers, printed pp. 271–272 / IA leaves 279–280
 
+## Part 54: thirtieth unit of the Romans 4:5 lecture
+
+Part 54 turns from patristic testimony to Scripture. Tuckney assesses the
+weaker arguments from Leviticus, Romans 6:7, and 1 Corinthians 15:26, then
+develops the stronger case from Ephesians 5:27, Jude 24, Ecclesiastes 12:7,
+and Hebrews 12:23. He reads the “spirits of the righteous made perfect” as
+all righteous souls fully consecrated and separated from sin at death. It
+runs from `Ad Divina tandem` on printed p. 272 / IA leaf 280 through that
+positive exposition on printed p. 274 / IA leaf 282. The objections,
+beginning `Nec tamen diffiteor`, are excluded.
+
+- Latin: `parts/part-54-romans-04-05-abraham-30-latin.txt`
+- English: `parts/part-54-romans-04-05-abraham-30-english.md`
+- Extent: three synchronized markers, printed pp. 272–274 / IA leaves 280–282
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -554,6 +554,26 @@ between complete words and is retained at the corresponding syntactic point
 in both files. All six included printed marginalia are retained. The pair
 remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 29 boundary and status
+
+Part 29 is a synchronized Latin/English working pair with exactly ten markers:
+partial printed pp. 194 and 203 and complete pp. 195–202, IA leaves 224–233,
+access-PDF pp. 224–233, and DjVu OCR objects 223–232. It begins in the right
+column of printed p. 194 immediately after Part 28 with `QUAESTIO XXI. Quo anno
+mortuus sit Alexander, & quot annos habeat Epocha prae manibus?`, contains the
+complete direct answer, and continues through the expressly attached `Addenda
+ad Quaestionem XXI`, including the full discussion of the Hebrew letter forms
+used in antiquity and the closing notice about the age of the vowel points. It
+ends in the left column of printed p. 203 after `non valdè propendebit.`
+
+`CAPUT XI. Res gestas continens Epochae sextae ab Alexandri Magni morte ad
+Aristobuli in Judaeâ Regnum.` begins below it in the same column and is wholly
+excluded. All ten controlling 300-dpi images, `pdf-224.jpg` through
+`pdf-233.jpg`, governed the transcription; OCR served only as an aid. Words
+divided across page boundaries were joined and placed wholly after the later
+synchronized marker, and all included printed marginalia are retained. The
+pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -626,6 +646,8 @@ have not been modernized or endorsed.
 - `parts/part-27-book-01-chapter-10-question-19-english.md`
 - `parts/part-28-book-01-chapter-10-question-20-latin.txt`
 - `parts/part-28-book-01-chapter-10-question-20-english.md`
+- `parts/part-29-book-01-chapter-10-question-21-latin.txt`
+- `parts/part-29-book-01-chapter-10-question-21-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -634,7 +656,7 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25, and
-three each for Parts 26 and 27, and two for Part 28. There are fifty-six current
-files in twenty-eight Latin/English pairs, containing 219 synchronized source
-markers per language (438 marker occurrences across all fifty-six files). The
-files remain AI-assisted and unreviewed.
+three each for Parts 26 and 27, two for Part 28, and ten for Part 29. There are
+fifty-eight current files in twenty-nine Latin/English pairs, containing 229
+synchronized source markers per language (458 marker occurrences across all
+fifty-eight files). The files remain AI-assisted and unreviewed.

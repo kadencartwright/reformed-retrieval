@@ -1505,3 +1505,29 @@ excluded.
 The next restart point is `QUÆSTIO XXI. DE SACRA CŒNA. Quid sit Sacra Cœna,
 et quibus nominibus præcipue tam in Scriptura, quam apud Veteres insigniatur?`
 on shared printed p. 359 / IA leaf 393 / PDF p. 393.
+
+## Part 55
+
+Part 55 contains the complete Locus XIX, Question XXI, “De Sacra Cœna.” It
+begins with the question heading on shared printed p. 359 / IA leaf 393 / PDF
+p. 393, immediately after Question XX, and ends with section XVI on shared
+printed p. 365 / IA leaf 399 / PDF p. 399. Question XXII begins below it on
+that page and is excluded.
+
+- Latin: `parts/part-55-locus-19-question-21-latin.txt`
+- English: `parts/part-55-locus-19-question-21-english.md`
+- Both files contain seven synchronized source-page markers, the complete
+  section sequence I–XVI, and fourteen synchronized marginalia blocks.
+- The scan verification covered all seven page images and all six page joins.
+  The pp. 359–360, 360–361, 361–362, 362–363, 363–364, and 364–365 joins fall
+  within sections I, V, VII, IX, XI, and XIV respectively and divide no word.
+- The transcription retains every printed Greek and Hebrew expression and the
+  witness’s abbreviations, spelling, capitalization, punctuation, and
+  citations. `[sic]` identifies the disruptive `admonemus`, `honorum`,
+  `ἀνέστε`, `distribtione`, `benedecti`, `Sacercotes`, and `baptisato`. The
+  printed resurrection hymn also has several nonstandard accents and forms;
+  these are retained, while the English translates its evident sense.
+
+The next restart point is `QUÆSTIO XXII. Cur Sacra Cœna a Domino sit
+instituta, et quibus partibus constet?` on shared printed p. 365 / IA leaf 399
+/ PDF p. 399.

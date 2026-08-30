@@ -373,21 +373,64 @@ pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-12-proposition-13-and-proposition-14-section-01-latin.txt`
 - `parts/part-12-proposition-13-and-proposition-14-section-01-english.md`
 
+## Part 13: exact authorial boundary
+
+Part 13 begins with `SECTIO SECUNDA` on the shared right column of **first-body
+printed p. 60 / BSB canvas 72** and contains Proposition XIV, Section II in
+full: Arminius's argument that Adam could not perform the law without
+supernatural grace, Junius's distinction between the common and particular
+law, Arminius's rejoinder, and Twisse's complete response concerning natural
+power, holy obedience, and the different ways grace may restrain sin. It
+continues through **first-body printed p. 62 / BSB canvas 74**, with three
+synchronized source markers.
+
+At the first join the p. 60 text ends with `dicis`; its catchword `non` is
+omitted and the p. 61 marker precedes the full opening `non fuisse`, while the
+English marker correspondingly precedes “it did not.” Within p. 61 the printer
+divides `ist-` / `hoc`; the normalized Latin joins the single printed word
+`isthoc`. At the second join the printer divides `supernatura-` / `lem`; the
+Latin joins `supernaturalem` and places the p. 62 marker before the complete
+word, while the English marker occupies the corresponding position before
+“supernatural grace.”
+
+The printed `cessantem` in Twisse's p. 62 reprise of Arminius's phrase is
+retained in the Latin, although the earlier text has `constantem` and the
+syntax calls for that sense; the English therefore renders “consisted” and
+identifies the printed reading in brackets. The Greek `ἀκρίβεια` is retained
+and rendered “precision” with a transliteration. The apparent p. 61 hOCR
+fragments at the column boundary and the p. 62 inline `Rom. 2.` are not
+separate marginal annotations; no printed marginal annotation occurs within
+this unit.
+
+The unit stops in the right column of printed p. 62 after Twisse's sentence
+ending:
+
+> `… Vide an non commodum fuerit ista ad Adami transgressionem accommodare.`
+
+It stops immediately before the centered heading `SECTIO TERTIA` lower on the
+same page. The next part must therefore begin with `SECTIO TERTIA` and repeat
+the marker for **first-body printed p. 62 / BSB canvas 74**; it must not advance
+directly to p. 63. The Latin and English markers are byte-identical, and the
+pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-13-proposition-14-section-02-latin.txt`
+- `parts/part-13-proposition-14-section-02-english.md`
+
 ## Status
 
-**Parts 01–12 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–13 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 60 of 135,
-a continuation-position estimate of about 44.4% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 62 of 135,
+a continuation-position estimate of about 45.9% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 9.9% of their combined printed-page extent. Because p. 60 is shared
-with the untranslated Proposition XIV, Section II, these are position
-estimates, not a claim that 60 complete pages—or the same percentage of
+at about 10.2% of their combined printed-page extent. Because p. 62 is shared
+with the untranslated Proposition XIV, Section III, these are position
+estimates, not a claim that 62 complete pages—or the same percentage of
 words—have been reviewed.
 
-No global status ledger or manifest is updated by this Part 12 continuation,
+No global status ledger or manifest is updated by this Part 13 continuation,
 and no claim of human review is made.

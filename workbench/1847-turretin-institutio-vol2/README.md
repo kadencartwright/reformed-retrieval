@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question IV
+  Christi Mediatorio*, begun through Question V
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–61 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–62 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–IV,
-from printed p. 3 / PDF 31 through section XXII of Question IV on printed p.
-344 / PDF 372. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–V,
+from printed p. 3 / PDF 31 through section XIII of Question V on printed p.
+348 / PDF 376. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,306 numbered
-sections across 333 unique numbered text pages and 386 source markers in each
-language (380 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 184,087 whitespace-delimited
-words and the complete English files 251,226, counted over Parts 01–61 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,319 numbered
+sections across 337 unique numbered text pages and 391 source markers in each
+language (385 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 186,069 whitespace-delimited
+words and the complete English files 253,847, counted over Parts 01–62 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -119,6 +119,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 59 | Locus XIV, Question II | printed pp. 334–339 / PDFs 362–367 | XXIII | 6 | `part-59-locus-14-question-02-{latin.txt,english.md}` |
 | 60 | Locus XIV, Question III | printed pp. 339–340 / PDFs 367–368 | VIII | 2 | `part-60-locus-14-question-03-{latin.txt,english.md}` |
 | 61 | Locus XIV, Question IV | printed pp. 340–344 / PDFs 368–372 | XXII | 5 | `part-61-locus-14-question-04-{latin.txt,english.md}` |
+| 62 | Locus XIV, Question V | printed pp. 344–348 / PDFs 372–376 | XIII | 5 | `part-62-locus-14-question-05-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1014,9 +1015,34 @@ citations `Heb. viii. 25` and `Joh. xvi. 6` in sections VII and IX are retained
 with `[sic]`; the intended passages are Hebrews 7:25 and John 14:6. The
 Question V heading and body later on printed p. 344 / PDF 372 are excluded.
 
-Part 61's exact next restart is `QUAESTIO V. DE TRIPLICI OFFICIO CHRISTI. Cur
-Christus Mediator triplex Munus sustinere debuerit?` on printed p. 344 / PDF
-372.
+Question V of Locus XIV explains why Christ's one mediatorial office is
+threefold: prophetic, priestly, and kingly. It first traces that office through
+predestination, mission, and calling—the last comprising anointing and
+inauguration—and then grounds its three parts in Scripture, humanity's
+ignorance, guilt, and bondage, the announcement, acquisition, and application
+of salvation, the mediator's acts toward God and humanity, Old Testament
+types, and the divine wisdom, mercy, and power. It closes by showing how a
+single work, such as the cross, gospel, or gift of the Spirit, can express all
+three offices, in thirteen sections. It begins at the Question V heading below
+section XXII of Part 61 on printed p. 344 / PDF 372 and ends with section XIII
+on printed p. 348 / PDF 376 immediately before Question VI. The Latin and
+English files contain 1,982 and 2,621 whitespace-delimited words respectively,
+counted over each complete file with `wc -w`. Both carry all five printed-page
+markers in the same sequence and retain all fourteen substantive marginal
+headings, citations, and scan-exact Greek. At the printed pp. 344/345 join,
+the printer-divided `se-/legit` is normalized as `selegit`, with the incoming
+marker placed before the complete word in both files. The pp. 345/346 join
+falls within section V between `propter` and `infirmitatem`. At the pp. 346/347
+join, the printer-divided `miseri-/et` is normalized as `miseria et`, with the
+incoming marker placed before the complete words. The pp. 347/348 join falls
+within section XIII between `quæ est` and `Altare Sacerdotis`. The five
+controlling facsimile images were audited against both files; the OCR excerpt
+was used only as an aid. No supplementary witness was needed. Question VI
+later on printed p. 348 / PDF 376 is excluded.
+
+Part 62's exact next restart is `QUAESTIO VI. An Christus raptus fuerit in
+Cœlum ante inchoatum publicum Ministerium, ut ibi a Patre doceretur? Neg.;
+contra Socin.` on printed p. 348 / PDF 376.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

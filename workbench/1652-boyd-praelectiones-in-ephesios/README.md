@@ -60,6 +60,7 @@ same scan can legitimately close one part and open the next:
 | 15 | XV | 92–96 | 50–54 | `Atque hactenus prius ex illis duobus membris executi sumus` through its four-stage synopsis and concluding `Amen` before Lecture XVI |
 | 16 | XVI | 96–100 | 54–58 | `Sequitur Loci communis Theologici, de æterna Sanctorum Prædestinatione sive Electione, Methodica Tractatio` through its defense of teaching election and reprobation and concluding `Amen` before Lecture XVII |
 | 17 | XVII | 100–103 | 58–61 | `Quod ad hujus doctrinæ tractationem ipsam attinet` through its cautions, general definition of predestination, and treatment of creation and the permitted fall before Lecture XVIII |
+| 18 | XVIII | 103–107 | 61–65 | `Sequitur nunc ut ad ejus partes sive species descendamus` through the definition and two acts of election, Christ as the elect head and foundation, and `Hactenus igitur de Christi ipsius, Electorum capitis & fundamenti, gratuitâ Electione dixisse sufficiat` before Lecture XIX |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -116,8 +117,9 @@ English translation:
 | 15 | The Spirit’s earnest and the consummation of redemption | [`part-15-praelection-15-earnest-and-redemption-latin.txt`](parts/part-15-praelection-15-earnest-and-redemption-latin.txt) | [`part-15-praelection-15-earnest-and-redemption-english.md`](parts/part-15-praelection-15-earnest-and-redemption-english.md) |
 | 16 | The public teaching and uses of predestination | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt) | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md) |
 | 17 | Cautions and the definition of predestination | [`part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt) | [`part-17-praelection-17-cautions-and-definition-of-predestination-english.md`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-english.md) |
+| 18 | Election and Christ the foundation | [`part-18-praelection-18-election-and-christ-the-foundation-latin.txt`](parts/part-18-praelection-18-election-and-christ-the-foundation-latin.txt) | [`part-18-praelection-18-election-and-christ-the-foundation-english.md`](parts/part-18-praelection-18-election-and-christ-the-foundation-english.md) |
 
-The completed sequence now extends through Lecture XVII. Its successive subjects
+The completed sequence now extends through Lecture XVIII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -198,6 +200,18 @@ election and reprobation, and defines predestination as God’s eternal decree
 concerning the final state of rational creatures. It closes by identifying
 creation and the permitted fall as means common to the execution of both
 parts, while denying that God is the culpable cause of Adam’s defection.
+Lecture XVIII descends from predestination in general to election. It surveys
+the scriptural senses of election, defines the eternal decree concerning the
+elect, and distinguishes within the simple divine counsel a prior act
+concerning the saving end from a subsequent act concerning its appointed
+means. It rejects foreseen faith as the meaning of divine foreknowledge,
+compares the two acts in their causes and objects, and then treats Christ both
+as the coeternal Son who elects and as the elect God-man, Mediator, head, bond,
+and foundation in whom the rest are chosen. Its concluding argument uses the
+gratuitous election of Christ’s human nature as a mirror of believers’
+gratuitous election and maintains that Christ’s being sent for the salvation
+of the elect magnifies divine mercy without making those saved more excellent
+than their Savior.
 
 ## Validation
 

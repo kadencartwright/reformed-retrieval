@@ -1571,3 +1571,28 @@ This unit is bounded by the exact next lemma block rather than by an arbitrary
 image count. The next unit begins in the right column of reader image `PA227`
 / printed p. 228 at the lemmata for verses 18–20, beginning `Vers. 18. Ecce
 quod vidi ego, bonum pulchrum esse comedere ac bibere`.
+
+**Part 69 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 5:18–20 lemma block, the summary and division, and
+the complete exposition of verses 18–20 on reader images `PA227`, `PA229`,
+`PA231`, and `PA233`. It begins in the right column of printed p. 228 at `Vers.
+18. Ecce quod vidi ego, bonum pulchrum esse comedere ac bibere`, crosses the
+image and printed-page joins after the p. 228, p. 230, and p. 232 catchwords
+`men-`, `assi-`, and `peres,`, and ends in the left column of printed p. 233
+immediately before `Caput VI`. The paired files have four exactly identical
+reader-image markers and retain the distinction between lawful use and
+avaricious or excessive consumption, the five supporting reasons, the
+exposition of enjoyment as a divine gift, the anticipated objection concerning
+slender means, and every printed biblical reference. No independent marginal
+notes, Greek, Hebrew, or other foreign-script text occurs in this unit. The
+English translator's notes disclose the `tamen` / `autem` variation in the two
+verse-20 lemmata and all three catchword joins:
+
+- `parts/part-69-homiliae-chapter-05-verses-18-20-latin.txt`
+- `parts/part-69-homiliae-chapter-05-verses-18-20-english.md`
+
+This unit is bounded by the exact next chapter and lemma block rather than by
+an arbitrary image count. The next unit begins in the right column of reader
+image `PA233` / printed p. 234 at `Caput VI` and the lemmata for verses 1–6,
+beginning `Vers. 1. Est malum quod vidi sub Sole, idque maximum super
+homines`.

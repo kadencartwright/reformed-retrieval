@@ -211,6 +211,20 @@ The next excluded heading is `QUAESTIO XIII. An & quare Christus, ultimum suum
 Pascha una nocte maturius celebraverit quam caeteri Judaei?` The boundary is
 question-complete and includes no body text from Question XIII.
 
+## Part 14 boundary
+
+Part 14 resumes with the excluded Question XIII heading in the remainder of
+printed p. 79 / PDF-IA leaf 417 / OCR object 416. It surveys three principal
+readings of the date of Christ’s last Passover, rejects the recent Greek claim
+that Christ celebrated on the thirteenth of Nisan and the claim that Christ
+and the other Jews celebrated together on the fourteenth, and argues that
+Christ kept the legal fourteenth while the other Jews deferred their Passover
+to the fifteenth. It ends with Question XIII near the top of printed p. 86 /
+PDF-IA leaf 424 / OCR object 423 at `quae nos jam refutavimus.`
+
+The next excluded heading is `QUAESTIO XIV. De hora Passionis Christi.` The
+boundary is question-complete and includes no body text from Question XIV.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -256,6 +270,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-12-temple-forty-six-years-question-11-english.md`
 - `parts/part-13-second-first-sabbath-question-12-latin.txt`
 - `parts/part-13-second-first-sabbath-question-12-english.md`
+- `parts/part-14-last-passover-question-13-latin.txt`
+- `parts/part-14-last-passover-question-13-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -294,3 +310,6 @@ of logical printed p. 71 through the first column of p. 74 / IA leaves-access-PD
 The Part 13 pair contains six synchronized source markers, from the remainder
 of logical printed p. 74 through the first column of p. 79 / IA
 leaves-access-PDF pp. 412–417 / OCR objects 411–416.
+The Part 14 pair contains eight synchronized source markers, from the remainder
+of logical printed p. 79 through the opening of p. 86 / IA
+leaves-access-PDF pp. 417–424 / OCR objects 416–423.

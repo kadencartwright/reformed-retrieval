@@ -698,7 +698,34 @@ remains an AI-assisted working edition requiring qualified human review.
 - `parts/part-20-chapter-20f-latin.txt`
 - `parts/part-20-chapter-20f-english.md`
 
-The next unit begins with `V. 22. Ne dicas, rependam malum: expecta Iehovam,
-& ipse servabit te.` in the right column of shared PDF 445 / printed column
-865; restart there, excluding the final verse 21 prose above it. Its
-commentary continues onto PDF 446 / printed column 866.
+**Part 20g is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `V. 22. Ne dicas, rependam
+malum: expecta Iehovam, & ipse servabit te.` in the right column of shared PDF
+445 / printed column 865 through the final prose of verse 24 on PDF 448 /
+printed column 870. It stops immediately before `V. 25.` in that same left
+column. Latin and English have four byte-identical source markers (PDF
+445–448; synchronized printed columns 864–865 through 870–871) and retain all
+three verse lemmata, full prose, Hebrew, Greek, citations, bracketed wording,
+and printed irregularities. The complete files contain 1,354 Latin-file and
+1,862 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 445–448, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-445 marker is intentional:
+Part 20f ends above `V. 22.`, while Part 20g begins with that lemma below it,
+so no verse 21 prose overlaps and none is omitted. The final PDF-448 marker
+includes only the concluding prose of verse 24 above `V. 25.` in the left
+column; no verse 25 material or later right-column prose is imported.
+Page-turn catchwords `omnes`, `Est`, and `si in` were excluded rather than
+duplicated, while witness forms including `Deut. 32. 52.`, the repeated
+`lapis: & lapis`, `oneribus`, `Prov. 16. 16.`, `μείωσιν`, and
+`ἐπαναγωγικῶς` were retained. This remains an AI-assisted working edition
+requiring qualified human review.
+
+- `parts/part-20-chapter-20g-latin.txt`
+- `parts/part-20-chapter-20g-english.md`
+
+The next unit begins with `V. 25. Tendicula est homini qui deglutit sacrum; &
+post vota requirere [tendicula est.` in the left column of shared PDF 448 /
+printed column 870; restart there, excluding the final verse 24 prose above
+it. Its commentary continues into the right column / printed column 871.

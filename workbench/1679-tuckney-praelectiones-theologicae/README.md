@@ -1522,6 +1522,14 @@ Part 92 gives Tuckney's five-point close reading of Christ's words in Matthew 5:
 - English: `parts/part-92-moral-law-07-english.md`
 - Extent: two synchronized markers, new-series fols. 30–31 / IA leaves 350–351
 
+## Part 93: eighth unit on the moral law under the gospel
+
+Part 93 completes Tuckney's scriptural confirmation with the apostolic testimony. It explains the characteristic movement of Paul's epistles from gospel doctrine to holy conduct, notes that the apostles never accepted the charge of abrogating the moral law, and shows that they instead reject that invention, uphold the law, and exhort obedience by the lawgiver's authority. It runs from `Apostolos vero, eorumque testimonia quod spectat, duo ista notatu digna sunt` on new-series fol. 31 / IA leaf 351 through `Atque hactenus de Sacrarum Scripturarum hoc asserentium testimoniis` on new-series fol. 32 / IA leaf 352. The new heading `Argumenta idem probantia`, followed by the arguments from the law itself, is excluded.
+
+- Latin: `parts/part-93-moral-law-08-latin.txt`
+- English: `parts/part-93-moral-law-08-english.md`
+- Extent: two synchronized markers, new-series fols. 31–32 / IA leaves 351–352
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

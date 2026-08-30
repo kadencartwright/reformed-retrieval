@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Nine paired parts are complete as AI-assisted, scan-audited working drafts:
+Ten paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -106,6 +106,9 @@ Nine paired parts are complete as AI-assisted, scan-audited working drafts:
   Spirit, reason, and usage of speech among the means of interpretation,
   printed pp. 94–104 / ONB canvases 148–158; eleven synchronized source
   markers.
+- **Part 10:** the opening of Section XXIII on the Spirit's unbound and
+  mediated efficacy and the Apostles as infallible interpreters, printed pp.
+  105–108 / ONB canvases 159–162; four synchronized source markers.
 
 The files are:
 
@@ -127,9 +130,10 @@ The files are:
 - `parts/part-08-the-interpreter-and-rule-of-interpretation-english.md`
 - `parts/part-09-the-nature-and-means-of-interpretation-latin.txt`
 - `parts/part-09-the-nature-and-means-of-interpretation-english.md`
+- `parts/part-10-the-spirits-efficacy-in-interpretation-latin.txt`
+- `parts/part-10-the-spirits-efficacy-in-interpretation-english.md`
 
-Part 09 ends on ONB canvas 158 after `Hîc autem etiam Rationem conjungit.` The
-page-foot `XXIII.` is a catchword for the next page and is omitted. Section
-XXIII begins `Propositâ sententiâ, ad eam explicandam accedit` on printed p.
-105 / ONB canvas 159 and is excluded. Part 10 should resume at the full section
-heading on that canvas.
+Part 10 ends within Section XXIII on printed p. 108 / ONB canvas 162 after
+Wolzogen's sentence `Nam prima illa nunc nulla est, si vel maximè fuerit olim
+aliqua.` Brown's response, beginning `Resp. Mirum sanè nunc nemini videri
+debet`, is excluded. Part 11 should resume there on the same canvas.

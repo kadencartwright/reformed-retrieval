@@ -1957,3 +1957,23 @@ printed biblical reference, and the Greek `δωροδοκία`, `καιρῷ δ�
 This joint unit is bounded by the exact verse-11 lemma rather than by an
 arbitrary image count. The next unit begins on reader image `PA267` / printed
 p. 268 at `Vers. 11. Bona est sapientia cum possessione`.
+
+**Part 89 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 7:11–15 lemma block, the summary and division, and
+the complete joint exposition on reader images `PA267`, `PA269`, `PA271`,
+`PA273`, and `PA275`. It begins on printed p. 268 at `Vers. 11. Bona est
+sapientia cum possessione`, crosses the image joins within `pronunciavit`,
+`divitiis`, and `ratione`, and ends on printed p. 276 after the complete
+exposition of verse 15 and before the verse-16 lemma on `PA277`. The paired
+files have five exactly identical reader-image markers and retain the shared
+analytical division, the comparisons of wisdom and wealth, the dromedary and
+tortoise contrast, the bird-and-snare image, every printed biblical reference,
+and the Greek `τῶν ἀδυνάτων`, `πολυποικίλης`, `περιαυτολογία`, and
+`θεοπνεύστως`:
+
+- `parts/part-89-homiliae-chapter-07-verses-11-15-latin.txt`
+- `parts/part-89-homiliae-chapter-07-verses-11-15-english.md`
+
+This joint unit is bounded by the exact verse-16 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA277` / printed
+p. 277 at `Vers. 16. Ne esto justus nimium`.

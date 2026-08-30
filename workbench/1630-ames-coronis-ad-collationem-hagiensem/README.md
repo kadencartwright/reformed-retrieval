@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–12 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–13 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -94,8 +94,10 @@ through the end of the fourth argument in the upper portion of printed p. 128
 on that page through the end of the fifth argument in the upper portion of
 printed p. 135 / canvas 145. Part 12 completes Article II, Chapter VII, from
 its heading lower on that page through the end of the sixth argument in the
-upper portion of printed p. 141 / canvas 151. The files are divided as
-follows:
+upper portion of printed p. 141 / canvas 151. Part 13 completes Article II,
+Chapter VIII, from its heading lower on that page through the end of the
+seventh argument in the upper portion of printed p. 143 / canvas 153. The
+files are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -121,6 +123,9 @@ follows:
   to this unit.
 - Part 12: Article II, Chapter VII, canvases 145–151 / printed pp. 135–141;
   only the lower portion of canvas 145 and the upper portion of canvas 151
+  belong to this unit.
+- Part 13: Article II, Chapter VIII, canvases 151–153 / printed pp. 141–143;
+  only the lower portion of canvas 151 and the upper portion of canvas 153
   belong to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
@@ -227,7 +232,22 @@ corrected, as is its Greek definition of love from Aristotle.
 - Both Part 12 files contain seven synchronized source markers for BSB
   canvases 145–151 / printed pp. 135–141.
 
-The next untranslated unit begins with `CAP. VIII. Argumentum septimum. Pag.
-196.` and `Pro quibuscunque Christus est mortuus, atque remissionem peccatorum
-& reconciliationem cum Deo impetravit` lower on printed p. 141 / BSB canvas
-151.
+Part 13 answers the seventh argument: for all those for whom Christ died and
+procured remission and reconciliation, he also procured deliverance from the
+bondage of sin and the Spirit of regeneration. It begins with `CAP. VIII.
+Argumentum septimum. Pag. 196.` and `Pro quibuscunque Christus est mortuus,
+atque remissionem peccatorum & reconciliationem cum Deo impetravit` lower on
+printed p. 141 / canvas 151 and ends with `...quae duo simul coniunguntur in
+foedere novo, Ieremiae 31. 33. 34.` in the upper portion of printed p. 143 /
+canvas 153. The witness's `Roma. 6. 5. 6.`, its `reconciliationem ad
+liberationem` wording, and the distinct `ver.` / `vers.` / `versu` forms are
+retained rather than silently regularized.
+
+- Latin: `parts/part-13-article-02-chapter-08-latin.txt`
+- English: `parts/part-13-article-02-chapter-08-english.md`
+- Both Part 13 files contain three synchronized source markers for BSB
+  canvases 151–153 / printed pp. 141–143.
+
+The next untranslated unit begins with `CAP. IX. Argumentum octavum. Pag.
+198.` and `Quibus Christus Reconciliator est factus, eorum & Intercessor
+factus est` lower on printed p. 143 / BSB canvas 153.

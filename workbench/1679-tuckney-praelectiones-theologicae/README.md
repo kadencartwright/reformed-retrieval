@@ -365,6 +365,19 @@ est`, is excluded.
 - English: `parts/part-17-romans-01-17-justification-16-english.md`
 - Extent: six synchronized markers, printed pp. 121–126 / IA leaves 129–134
 
+## Part 18: seventeenth unit of the Romans 1:17 lecture
+
+Part 18 completes the ninth and tenth arguments and answers the first
+remaining objection, a grammatical and contextual appeal to Galatians 2:16
+and the Vulgate's `nisi per fidem`. It runs from `Nil ergo Mantissae loco` on
+printed p. 126 / IA leaf 134 through the close of that response on printed p.
+131 / IA leaf 139. The second objection, `Ad quam non minus forsan confert
+2dae objectionis consideratio`, is excluded.
+
+- Latin: `parts/part-18-romans-01-17-justification-17-latin.txt`
+- English: `parts/part-18-romans-01-17-justification-17-english.md`
+- Extent: six synchronized markers, printed pp. 126–131 / IA leaves 134–139
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

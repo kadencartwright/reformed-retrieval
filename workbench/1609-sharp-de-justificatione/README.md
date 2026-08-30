@@ -26,6 +26,8 @@ independent English working translation of John Sharp (Johannes Scharpius),
   testimonies.
 - `parts/part-08-controversy-07b-objections-01-22-{latin.txt,english.md}` —
   objections 1–22 in the seventh controversy and Sharp's complete responses.
+- `parts/part-09-controversy-07c-objections-23-37-{latin.txt,english.md}` —
+  objections 23–37 and the conclusion of the seventh controversy.
 
 ## Controlling witness and rights
 
@@ -71,8 +73,8 @@ images remain controlling.
 
 ## Completed extent and continuation boundary
 
-The paired files now cover the witness continuously through Objection XXII and
-its response in the seventh controversy:
+The paired files now cover the witness continuously through Objection XXXVII,
+its response, and the end of the seventh controversy:
 
 | Part | Canvases | Image IDs | Printed pages | Extent |
 |---:|---:|---:|---:|---|
@@ -84,15 +86,19 @@ its response in the seventh controversy:
 | 06 | 93–98 | 15575065–15575070 | 91–96 | controversy 6 |
 | 07 | 98–105 | 15575070–15575077 | 96–103 | controversy 7 through the patristic testimonies |
 | 08 | 105–116 | 15575077–15575088 | 103–114 | controversy 7, objections 1–22 |
+| 09 | 116–125 | 15575088–15575097 | 114–123 | controversy 7, objections 23–37 and conclusion |
 
 Shared boundary pages occur where one controversy or coherent subsection ends
 and the next begins lower on the same page; the editorial boundary notes in
 the paired files state which heading is excluded. Part 08 resumes at the exact
 Part 07 boundary with the heading `OBIECTIONES` lower on printed p. 103 and
 carries the seventh controversy through the complete response to Objection
-XXII near the top of printed p. 114. The next untranscribed text is `Obiect.
-XXIII. Si fides sola iustificat, quia relatiuè iustificat`, lower on that same
-page.
+XXII near the top of printed p. 114. Part 09 resumes at the exact boundary with
+`Obiect. XXIII. Si fides sola iustificat, quia relativè iustificat`, lower on
+that page, and completes the remaining objections and responses near the top
+of printed p. 123. The next untranscribed text is the heading `CONTROVERSIA
+OCTAVA` and its question `AN IVSTITIA NOBIS INHAERENS SIT FORMALIS CAVSA
+IVSTIFICATIONIS?`, lower on that same page.
 
 ## Witness anomaly
 
@@ -108,7 +114,11 @@ singular question without silently changing the source transcription.
 Printed p. 101 cites `Ioh. 14.5. & 15.14.` for the statement that no one can
 bring what is clean from what is unclean. The wording points instead to Job
 14:4 and 15:14, but both paired files retain the witness's printed Johannine
-references rather than emending them silently.
+references rather than emending them silently. Part 09 likewise retains three
+apparently defective printed references: `Luc. 9.50.` beside Mark 5:36 for
+“believe only” (apparently Luke 8:50), `Matth. 10.27.` for justification in the
+sense of declaring righteous (apparently Matthew 11:19), and `Gen. 15.16.` for
+Abraham's prior righteousness by faith (apparently Genesis 15:6).
 
 ## Editorial method and status
 

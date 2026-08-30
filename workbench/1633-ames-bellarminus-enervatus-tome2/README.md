@@ -56,8 +56,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
   ministers, printed pp. 81–86.
 - IA scans `n303`–`n316`: Part 15, Book III, Chapter IV, on the distinction
   between a bishop and a presbyter, printed pp. 86–99.
-- The next unit begins at the excluded `CAP. V. De Coelibatu.` heading on
-  printed p. 99 / IA scan `n316`.
+- IA scans `n316`–`n323`: Part 16, Book III, Chapter V, on clerical celibacy,
+  printed pp. 99–106.
+- The next unit begins at the excluded `DE DIGAMIA.` heading on printed p. 106
+  / IA scan `n323`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -355,3 +357,32 @@ follow on that shared page are excluded.
 
 The next unit begins at the excluded `CAP. V. De Coelibatu.` heading on printed
 p. 99 / IA scan `n316`.
+
+**Part 16 is complete as an AI-assisted working draft.** It contains Book III,
+Chapter V, on clerical celibacy. It begins at the `CAP. V. De Coelibatu.`
+heading on the lower portion of printed p. 99 / IA scan `n316` and ends with
+the complete reply to point 23 on the upper portion of printed p. 106 / IA
+scan `n323`. The appended `DE DIGAMIA` question and all text beneath it on that
+shared page are excluded.
+
+- `parts/part-16-book-03-chapter-05-celibacy-latin.txt`
+- `parts/part-16-book-03-chapter-05-celibacy-english.md`
+- Both files contain eight synchronized source markers for printed pp. 99–106
+  / IA scans `n316`–`n323`.
+- The opening question, all fourteen of Bellarmine's arguments, and all of
+  Ames's counterarguments through point 23 are present, including the closing
+  testimonies attributed to Emperor Maximilian, Espencaeus, and Polydore
+  Vergil.
+- The two Greek expressions in the discussion of Titus 1:8 and 1 Corinthians
+  9:5 are retained in normalized Unicode in both files. No authorial
+  marginalia appear in this unit.
+- Printer-divided `ratione` at the pp. 100–101 turn and `pastoralem` at the pp.
+  101–102 turn are joined; in each file the incoming page marker precedes the
+  complete joined word or its English equivalent.
+- The witness's references `1 Cor. 7,22`, `Eccles. 4,4`, and `Is. 36,12` are
+  retained rather than silently corrected or harmonized; the wording attached
+  to the first two points respectively to 1 Corinthians 7:29 and Ecclesiastes
+  4:8.
+
+The next unit begins at the excluded `DE DIGAMIA.` heading on printed p. 106 /
+IA scan `n323`.

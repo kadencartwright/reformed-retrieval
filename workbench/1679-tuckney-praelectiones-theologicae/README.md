@@ -821,6 +821,24 @@ is excluded.
 - English: `parts/part-47-romans-04-05-abraham-23-english.md`
 - Extent: three synchronized markers, printed pp. 259–261 / IA leaves 267–269
 
+## Part 48: twenty-fourth unit of the Romans 4:5 lecture
+
+Part 48 introduces Bellarmine's and Castellio's objection that faith must be
+perfected in this life because it will be abolished in the next. Tuckney
+frames two questions, then gives the first two replies to the first: an
+imperfect faith can fulfill its wayfaring office by Christ's power, and its
+abolition in glory is itself a perfection through fulfillment and changed
+mode. He closes by distinguishing innocent creaturely limitation from the
+culpable imperfection that disqualifies inherent righteousness from
+justifying. It runs from `Unum tantum restat accuratius perpendendum` on
+printed p. 261 / IA leaf 269 through that distinction on printed p. 263 / IA
+leaf 271. The third inquiry, beginning `Sed tertio inquirendum restat`, is
+excluded.
+
+- Latin: `parts/part-48-romans-04-05-abraham-24-latin.txt`
+- English: `parts/part-48-romans-04-05-abraham-24-english.md`
+- Extent: three synchronized markers, printed pp. 261–263 / IA leaves 269–271
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

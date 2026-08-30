@@ -1116,6 +1116,22 @@ ridet Castellio`, is excluded.
 - English: `parts/part-65-romans-04-05-abraham-41-english.md`
 - Extent: two synchronized markers, printed pp. 288–289 / IA leaves 296–297
 
+## Part 66: forty-second unit of the Romans 4:5 lecture
+
+Part 66 answers Castellio's ridicule of the claim that remaining sin checks
+pride. Tuckney surveys interpretations of Paul's thorn in the flesh, then
+argues that lighter temptations may restrain graver falls and that this
+troublesome antidote remains until death. Theophylact, Calvin, Bellarmine,
+Augustine, and Cornelius a Lapide support the thorn's prolonged duration.
+It runs from `At hoc inprimis ridet Castellio` on printed p. 289 / IA leaf
+297 through Augustine's qualification concerning concupiscence on printed
+p. 290 / IA leaf 298. Castellio's counterreading, beginning `Sed hic
+insurgit Castellio`, is excluded.
+
+- Latin: `parts/part-66-romans-04-05-abraham-42-latin.txt`
+- English: `parts/part-66-romans-04-05-abraham-42-english.md`
+- Extent: two synchronized markers, printed pp. 289–290 / IA leaves 297–298
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

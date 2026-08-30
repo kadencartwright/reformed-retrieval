@@ -904,6 +904,34 @@ after the p. 242 marker; its English equivalent is likewise placed wholly
 after that marker. OCR served only as a reading aid. The pair remains an
 AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 44 boundary and status
+
+Part 44 is a synchronized Latin/English working pair with exactly eleven
+markers: partial printed p. 242 and complete pp. 243–252, IA leaves 272–282,
+access-PDF pp. 272–282, and DjVu OCR objects 271–281. It begins in the right
+column of printed p. 242 immediately after Part 43 with `QUAESTIO III. De
+tempore, temporibus, & dimidio temporis.` and the response beginning
+`Sententiam hanc in tempus, tempora, & divisionem seu dimidium temporis
+legimus ...`. It contains Question III in full and ends at the foot of the
+right column of printed p. 252 after `Novitatis & singularitatis affectatio
+rarò cuiquam benè cessit.`
+
+`QUAESTIO IV. Quid de diebus his mille trecentis Dan. 8. v. 14. sentiendum?`
+begins at the top of printed p. 253 / IA leaf 283 / access-PDF p. 283 / DjVu
+OCR object 282 and is wholly excluded; that heading is the exact next restart.
+
+All eleven controlling 300-dpi page images, `pdf-272.jpg` through
+`pdf-282.jpg`, governed the transcription and were checked at original detail;
+`pdf-283.jpg` was checked as boundary evidence only. The audit covered the
+partial p. 242 opening, every page and column transition, all marginalia,
+numbers, names, and the Hebrew and Greek strings. Whole-word catchwords at the
+pp. 248/249, 249/250, 250/251, and 252/253 transitions were omitted. Words
+divided across the pp. 242/243, 245/246, 246/247, 247/248, and 251/252
+transitions were joined and placed wholly after the later synchronized marker
+in both files.
+OCR served only as a reading aid. The pair remains an AI-assisted, unreviewed
+draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1006,6 +1034,8 @@ have not been modernized or endorsed.
 - `parts/part-42-book-01-chapter-12-question-01-english.md`
 - `parts/part-43-book-01-chapter-12-question-02-latin.txt`
 - `parts/part-43-book-01-chapter-12-question-02-english.md`
+- `parts/part-44-book-01-chapter-12-question-03-latin.txt`
+- `parts/part-44-book-01-chapter-12-question-03-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1017,7 +1047,7 @@ Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
-eight for Part 42, and five for Part 43. There are eighty-six current files in
-forty-three Latin/English pairs, containing 282 synchronized source markers per
-language (564 marker occurrences across all eighty-six files). The files
-remain AI-assisted and unreviewed.
+eight for Part 42, five for Part 43, and eleven for Part 44. There are
+eighty-eight current files in forty-four Latin/English pairs, containing 293
+synchronized source markers per language (586 marker occurrences across all
+eighty-eight files). The files remain AI-assisted and unreviewed.

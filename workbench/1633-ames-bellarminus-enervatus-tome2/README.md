@@ -50,8 +50,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
   section of Book III, Chapter II, printed pp. 62–67.
 - IA scans `n284`–`n286`: Part 12, the complete `De Vocatione` section of Book
   III, Chapter II, printed pp. 67–69.
-- The next unit begins at the excluded `De Electione.` heading on the lower
-  portion of printed p. 69 / IA scan `n286`.
+- IA scans `n286`–`n298`: Part 13, the complete `De Electione` section of Book
+  III, Chapter II, printed pp. 69–81.
+- The next unit begins at the excluded `CAP. III. De ordinibus Ministrorum.`
+  heading on the lower portion of printed p. 81 / IA scan `n298`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -269,3 +271,30 @@ shared page are excluded.
 
 The next unit begins at the excluded `De Electione.` heading on the lower
 portion of printed p. 69 / IA scan `n286`.
+
+**Part 13 is complete as an AI-assisted working draft.** It concludes Book III,
+Chapter II with the complete third topical section, `De Electione`. It begins
+at that heading on the lower portion of printed p. 69 / IA scan `n286` and ends
+with the final sentence of numbered point 34 on the upper portion of printed p.
+81 / IA scan `n298`. The Chapter III heading and text that follow on that shared
+page are excluded.
+
+- `parts/part-13-book-03-chapter-02-election-latin.txt`
+- `parts/part-13-book-03-chapter-02-election-english.md`
+- Both files contain thirteen synchronized source markers for printed pp.
+  69–81 / IA scans `n286`–`n298`.
+- All numbered points 16–34 in the election section are present, including
+  Bellarmine's arguments and Ames's counterarguments.
+- Printer-divided `electionem` at the pp. 71–72 turn, `necdum` at the pp. 72–73
+  turn, `Pastorum` at the pp. 73–74 turn, `quorum` at the pp. 74–75 turn,
+  `Ecclesiae` at the pp. 76–77 turn, and `ordinariam` at the pp. 78–79 turn are
+  joined; in each file the incoming page marker precedes the complete joined
+  word or its English equivalent.
+- The point 30 discussion retains the witness's Greek terms in normalized
+  Unicode, including `χειροτονήσαντες`, `συγκατεψηφίσθη`, and related forms.
+- In point 30 the witness prints the malformed `ordinatinationem`; the Latin
+  retains it, while the English renders the evident intended sense,
+  “ordination.”
+
+The next unit begins at the excluded `CAP. III. De ordinibus Ministrorum.`
+heading on the lower portion of printed p. 81 / IA scan `n298`.

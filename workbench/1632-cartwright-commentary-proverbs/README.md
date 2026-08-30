@@ -972,7 +972,39 @@ working edition requiring qualified human review.
 - `parts/part-21-chapter-21f-latin.txt`
 - `parts/part-21-chapter-21f-english.md`
 
-The next unit begins with `V. 17. Vir egestatis erit amator laetitiae; &
-amator vini, & olei non erit dives.` in the right column of shared PDF 471 /
-printed column 927; restart at that lemma, excluding the final verse 16
+**Part 21g is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `V. 17. Vir egestatis erit
+amator laetitiae; & amator vini, & olei non erit dives.` in the right column
+of shared PDF 471 / printed column 927 through the final prose of verse 18 on
+PDF 473 / printed column 931, ending `in domum suam, tanquam domesticos
+cooptaturum, Psal 101. 6.` It stops immediately before `V. 19. Melius est
+habitare in terra deserti, quàm cum muliere contentionum, & indignationis.`
+in that same right column. Latin and English have three byte-identical source
+markers (PDF 471–473; synchronized printed columns 926–927 through 930–931)
+and retain both verse lemmata, full in-scope prose, Hebrew, Greek, citations,
+abbreviations, and printing irregularities. The complete files contain 1,226
+Latin-file and 1,702 English-file whitespace-delimited words, respectively,
+including headers and markers.
+
+Every core image, PDF 471–473, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-471 marker begins only at `V.
+17.` in the right column; the final verse 16 sentence above it is excluded. At
+the PDF-471/472 turn, the catchword fragment `dehor-` was excluded rather than
+duplicated: the body ends `hoc Prov.` under PDF 471, while `dehortatur` and its
+corresponding English wording are assigned wholly to PDF 472. At the
+PDF-472/473 turn, the catchword `Scopus` was excluded: the verse 18 lemma ends
+the PDF-472 body, while `Scopus` and its corresponding English wording are
+assigned wholly to PDF 473. The final PDF-473 marker ends with the concluding
+verse 18 prose above `V. 19.`; no verse 19 material is imported. Witness forms
+including `1. Ioh. 2. 5. 6, 7.`, `delibutione`, `faraci`, `frangendum`,
+`virisimile`, `ἀθέας`, `λυτρὸν`, `justiss.`, `injustiss.`, and `Psal 101. 6.` were
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-21-chapter-21g-latin.txt`
+- `parts/part-21-chapter-21g-english.md`
+
+The next unit begins with `V. 19. Melius est habitare in terra deserti, quàm
+cum muliere contentionum, & indignationis.` in the right column of shared PDF
+473 / printed column 931; restart at that lemma, excluding the final verse 18
 sentence above it.

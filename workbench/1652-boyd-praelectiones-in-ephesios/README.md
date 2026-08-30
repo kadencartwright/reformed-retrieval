@@ -61,6 +61,7 @@ same scan can legitimately close one part and open the next:
 | 16 | XVI | 96–100 | 54–58 | `Sequitur Loci communis Theologici, de æterna Sanctorum Prædestinatione sive Electione, Methodica Tractatio` through its defense of teaching election and reprobation and concluding `Amen` before Lecture XVII |
 | 17 | XVII | 100–103 | 58–61 | `Quod ad hujus doctrinæ tractationem ipsam attinet` through its cautions, general definition of predestination, and treatment of creation and the permitted fall before Lecture XVIII |
 | 18 | XVIII | 103–107 | 61–65 | `Sequitur nunc ut ad ejus partes sive species descendamus` through the definition and two acts of election, Christ as the elect head and foundation, and `Hactenus igitur de Christi ipsius, Electorum capitis & fundamenti, gratuitâ Electione dixisse sufficiat` before Lecture XIX |
+| 19 | XIX | 108–113 | 66–71 | `Sequitur nunc, ut Electos Christo unitos consideremus` through the elect angels and humanity, the efficient, impelling, and final causes of election, and `Atque hæc de causâ Electionis nostræ finali disseruisse sufficiat` before Lecture XX; scan 107 has only the omitted catchword `Sequitur` |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -118,8 +119,9 @@ English translation:
 | 16 | The public teaching and uses of predestination | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt) | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md) |
 | 17 | Cautions and the definition of predestination | [`part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt) | [`part-17-praelection-17-cautions-and-definition-of-predestination-english.md`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-english.md) |
 | 18 | Election and Christ the foundation | [`part-18-praelection-18-election-and-christ-the-foundation-latin.txt`](parts/part-18-praelection-18-election-and-christ-the-foundation-latin.txt) | [`part-18-praelection-18-election-and-christ-the-foundation-english.md`](parts/part-18-praelection-18-election-and-christ-the-foundation-english.md) |
+| 19 | The elect and the causes of election | [`part-19-praelection-19-the-elect-and-causes-of-election-latin.txt`](parts/part-19-praelection-19-the-elect-and-causes-of-election-latin.txt) | [`part-19-praelection-19-the-elect-and-causes-of-election-english.md`](parts/part-19-praelection-19-the-elect-and-causes-of-election-english.md) |
 
-The completed sequence now extends through Lecture XVIII. Its successive subjects
+The completed sequence now extends through Lecture XIX. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -212,6 +214,16 @@ gratuitous election of Christ’s human nature as a mirror of believers’
 gratuitous election and maintains that Christ’s being sent for the salvation
 of the elect magnifies divine mercy without making those saved more excellent
 than their Savior.
+Lecture XIX then considers the elect as united to Christ, first treating the
+election and confirmation of the blessed angels in Christ as their head and
+then returning to the election of saved humanity. It identifies the Trinity
+as the principal efficient cause and God’s free good pleasure as the sole
+impelling cause, rejecting human free choice, foreseen works, foreseen faith,
+and Christ’s mediatorial merit as antecedent causes of the decree. It uses the
+gratuitous election of Christ’s humanity, with Augustine, as an argument for
+the gratuitous election of his members. It concludes by distinguishing God’s
+glory as election’s supreme final cause from salvation, holiness, adoption,
+and glory as subordinate ends or stages in the decree’s execution.
 
 ## Validation
 

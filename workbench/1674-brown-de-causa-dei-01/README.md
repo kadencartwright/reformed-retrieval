@@ -50,7 +50,8 @@ freshly acquired again for Parts 22–24 on 30 August 2026 and remain
 byte-identical to the recorded derivatives. The access PDF and plain OCR were
 freshly acquired once more for Parts 25–27 on 30 August 2026 and likewise
 remain byte-identical to the recorded derivatives. They were freshly acquired
-again for Parts 28–29 on the same date and remain byte-identical to that set:
+again for Parts 28–29 on the same date and remain byte-identical to that set;
+the same locally retained derivatives govern Parts 30–32:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -93,9 +94,9 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the upper part of Chapter XV on printed p. 224. Shared-page
-boundaries preserve each new argumentative unit in the following part rather
-than duplicating it.
+printed p. 1 through the end of Chapter XV and Book I on printed p. 231.
+Shared-page boundaries preserve each new argumentative unit in the following
+part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -128,6 +129,9 @@ than duplicating it.
 | 27 | Chapter XV continuation; Ezekiel 20 and positive precepts | lower part of shared printed p. 211 through the lower part of shared p. 217 / IA leaves 229–235 / PDF pp. 229–235; stops before `Ex hactenus dictis liquet satis` | 7 |
 | 28 | Chapter XV continuation; positive moral precepts and faith in Christ | lower part of shared printed p. 217 through the lower part of shared p. 219 / IA leaves 235–237 / PDF pp. 235–237; stops before `Secundò, praeceptum prohibens matrimonium contrahi` | 3 |
 | 29 | Chapter XV continuation; incest, natural shame, and external acts | lower part of shared printed p. 219 through the upper part of shared p. 224 / IA leaves 237–242 / PDF pp. 237–242; stops before `Tertiò, Praeceptum prohibens polygamiam` | 6 |
+| 30 | Chapter XV continuation; polygamy and rash divorce | lower part of shared printed p. 224 through p. 225 / IA leaves 242–243 / PDF pp. 242–243; stops before `Quarto. Hoc liquet etiam in octavo praecepto` | 2 |
+| 31 | Chapter XV continuation; ownership and political magistracy | printed p. 226 through the lower part of shared p. 227 / IA leaves 244–245 / PDF pp. 244–245; stops before `Celeberrimus Hoornbekius in libro vernaculo` | 2 |
+| 32 | Chapter XV and Book I conclusion; supporting testimonies | lower part of shared printed p. 227 through p. 231 / IA leaves 245–249 / PDF pp. 245–249; includes `Finis Libri primi.` | 5 |
 
 The files are:
 
@@ -160,8 +164,11 @@ The files are:
 - `parts/part-27-book-01-chapter-15f-ezekiel-20-and-positive-precepts-{latin.txt,english.md}`
 - `parts/part-28-book-01-chapter-15g-positive-moral-precepts-and-faith-{latin.txt,english.md}`
 - `parts/part-29-book-01-chapter-15h-incest-natural-shame-and-external-acts-{latin.txt,english.md}`
+- `parts/part-30-book-01-chapter-15i-polygamy-and-divorce-{latin.txt,english.md}`
+- `parts/part-31-book-01-chapter-15j-property-and-magistracy-{latin.txt,english.md}`
+- `parts/part-32-book-01-chapter-15k-testimonies-and-conclusion-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–29 image audits
+### Part 04 re-audit and Parts 05–32 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -806,6 +813,75 @@ substantive italic distinctions are retained. The exact Part 29 opening is
 are `...esse morale bonum vel malum.` The following paragraph is excluded. The
 next untranslated text is therefore `Tertiò, Praeceptum prohibens polygamiam`
 on shared printed p. 224 / IA leaf 242 / PDF p. 242.
+
+Part 30 is a coherent, image-audited continuation of Chapter XV containing
+Brown's third example of a moral-positive precept, the prohibition of polygamy
+and rash divorce, and his complete reply to the adversary's arguments from
+creation, marital union, and the nations' knowledge. Both controlling images
+from `Tertiò, Praeceptum prohibens polygamiam` on PDF 242 through the end of
+PDF 243 were read directly, including the internal join; the opening and the
+outgoing stop were also checked against their shared-page contexts. OCR was
+used only as a collation aid. The Latin and English contain the identical
+two-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+224–225. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the controlling images govern `πολυγαμεῖν`, `πολυγαμίαν`,
+`αὐθεντία`, and `צרה`. No separate substantive marginal gloss occurs. The
+catchwords `nisi` and `Quarto` are omitted and placed only after the following
+marker or in the following part as applicable. All extended quotations,
+numbered replies, citations, foreign-script terms, and substantive italic
+distinctions are retained. The exact Part 30 opening is `Tertiò, Praeceptum
+prohibens polygamiam`. Its final included words are `...vel non fuisse
+licitum.` The following paragraph is excluded. The next untranslated text at
+that handoff was `Quarto. Hoc liquet etiam in octavo praecepto` on printed p.
+226 / IA leaf 244 / PDF p. 244.
+
+Part 31 is a coherent, image-audited continuation of Chapter XV containing
+Brown's fourth and fifth examples, from the eighth and fifth commandments,
+concerning the division of ownership and obedience to political magistrates.
+Both controlling images from `Quarto. Hoc liquet etiam in octavo praecepto` on
+PDF 244 through the lower part of PDF 245 were read directly, including the
+internal join; the remainder of PDF 245 was inspected to verify the outgoing
+stop. OCR was used only as a collation aid. The Latin and English contain the
+identical two-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+226–227. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the controlling images govern `πλεονεκτεῖν τὸ ἕτερον` and
+`δόγμα`. No Hebrew or separate substantive marginal gloss occurs. The
+catchwords `Deum` and `naturale` are omitted and placed only after the
+following marker or in the following part as applicable. All quotations,
+numbered replies, citations, and substantive italic distinctions are retained.
+The exact Part 31 opening is `Quarto. Hoc liquet etiam in octavo praecepto`.
+Its final included words are `...ad propositum nostrum multum facere.` The
+following paragraph is excluded. The next untranslated text at that handoff
+was `Celeberrimus Hoornbekius in libro vernaculo` on shared printed p. 227 / IA
+leaf 245 / PDF p. 245.
+
+Part 32 is the coherent, image-audited conclusion of Chapter XV and Book I. It
+contains Brown's appeal to Hoornbeeck and Grotius and both complete numbered
+series from Nathanael Johnson arguing that some positive precepts are moral.
+Every controlling image from `Celeberrimus Hoornbekius in libro vernaculo` on
+PDF 245 through `Finis Libri primi.` on PDF 249 was read directly, including
+all four internal joins. PDF 250 was also inspected as the blank verso after
+the book end. OCR was used only as a collation aid. The Latin and English
+contain the identical five-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+227–231. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the controlling images govern `ἀποσυναγωγῆς`, `πολίτευμα ἐν
+οὐρανοῖς`, `κατ' ἐξοχήν`, and `ἐν πνεύματι καὶ ἀληθείᾳ`. No Hebrew or separate
+substantive marginal gloss occurs. The printer-divided word `remissione` at
+the p. 230/231 join is joined with the new marker before the complete Latin
+word and corresponding English phrase. The catchwords `naturale`,
+`resipiscentiam`, `Dei`, and `Finis` are omitted and placed only after the
+following markers where applicable; the book-end ornament is omitted under
+the stated policy. The exact Part 32 opening is `Celeberrimus Hoornbekius in
+libro vernaculo`. Its final included words are `Finis Libri primi.` The next
+untranslated text is the Book II title and prospectus, `DE CAUSA DEI CONTRA
+ANTISABBATARIOS. LIBER SECUNDUS, De Cultu ac Tempore Solenni.`, on printed p.
+233 / IA leaf 251 / PDF p. 251.
 
 ## Review and licensing status
 

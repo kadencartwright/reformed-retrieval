@@ -822,6 +822,32 @@ the later synchronized marker, and all included printed marginalia are
 retained. The pair remains an AI-assisted, unreviewed draft and is not
 publication-ready.
 
+## Part 41 boundary and status
+
+Part 41 is a synchronized Latin/English working pair with exactly five
+markers: partial printed pp. 227 and 231 and complete pp. 228–230, IA leaves
+257–261, access-PDF pp. 257–261, and DjVu OCR objects 256–260. It begins at
+the top of the right column of printed p. 227 immediately after Part 40 with
+`Ad Demetrium accessit Alcimus cum multis contra Judam Maccabaeum calumniis
+...`. It contains Alcimus’s appeal to Demetrius; the victories and death of
+Judas Maccabaeus; Jonathan’s leadership, capture, and death; the struggles of
+Demetrius, Alexander Bala, Ptolemy Philometor, Antiochus, and Tryphon; Simon’s
+leadership and death; Antiochus Sidetes’s Parthian campaign; the subsequent
+Seleucid and Ptolemaic conflicts; and the principates of John Hyrcanus and
+Aristobulus. It ends in the left column of printed p. 231 with Baillie’s
+explicit close of the sixth epoch’s history and his transition toward Roman
+world rule.
+
+`CAPUT XII. Ad Epocham sextam Quaestiones & dubia.` begins immediately below
+on the same page and is wholly excluded, together with Question I. The five
+controlling 300-dpi page images, `pdf-257.jpg` through `pdf-261.jpg`, governed
+the transcription; OCR served only as an aid. The whole-word catchwords at the
+p. 227/p. 228, p. 228/p. 229, and p. 230/p. 231 boundaries are omitted, while
+the body word divided at the p. 229/p. 230 boundary is joined and placed wholly
+after the later synchronized marker. All included printed marginalia and both
+Greek adverbs are retained. The pair remains an AI-assisted, unreviewed draft
+and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -918,6 +944,8 @@ have not been modernized or endorsed.
 - `parts/part-39-book-01-chapter-11j-seleucus-and-antiochus-epiphanes-english.md`
 - `parts/part-40-book-01-chapter-11k-antiochus-eupator-and-demetrius-latin.txt`
 - `parts/part-40-book-01-chapter-11k-antiochus-eupator-and-demetrius-english.md`
+- `parts/part-41-book-01-chapter-11l-maccabean-succession-and-later-seleucids-latin.txt`
+- `parts/part-41-book-01-chapter-11l-maccabean-succession-and-later-seleucids-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -928,7 +956,8 @@ Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
-Part 37, two for Part 38, three for Part 39, and two for Part 40. There are
-eighty current files in forty Latin/English pairs, containing 264 synchronized
-source markers per language (528 marker occurrences across all eighty files).
-The files remain AI-assisted and unreviewed.
+Part 37, two for Part 38, three for Part 39, two for Part 40, and five for Part
+41. There are eighty-two current files in forty-one Latin/English pairs,
+containing 269 synchronized source markers per language (538 marker
+occurrences across all eighty-two files). The files remain AI-assisted and
+unreviewed.

@@ -2152,3 +2152,24 @@ divine punishment, and the source's irregular `effectum assignatur` and
 This unit is bounded by the exact repeated verse-11 lemma rather than by an
 arbitrary image count. The next unit begins on reader image `PA321` / printed
 p. 321 at `Vers. 11. Quamvis peccatori facienti malum centies`.
+
+**Part 99 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 8:11–12 lemmata and their complete joint
+exposition on reader images `PA321` and `PA323`. It begins on printed p. 321 at
+`Vers. 11. Quamvis peccatori facienti malum centies`, crosses the printed-page
+join before the verse-12 lemma, crosses the image join within the divided
+`cen- / ties`, and ends on printed p. 323 immediately before the repeated
+lemma for verse 13, which the edition misnumbers `Vers. 12`. The paired files
+have two exactly identical reader-image markers and retain the contrast
+between the recompense of the godly and the punishment of Tyrants, every
+printed biblical reference, the pursuit of offenders by the curses, the
+description of those who fear before God's face, and the Greek qualification
+`ἐπὶ τὸ πολὺ`:
+
+- `parts/part-99-homiliae-chapter-08-verses-11-12-latin.txt`
+- `parts/part-99-homiliae-chapter-08-verses-11-12-english.md`
+
+This joint unit is bounded by the exact repeated verse-13 lemma rather than by
+an arbitrary image count. The next unit begins on reader image `PA323` /
+printed p. 323 at the repeated but misnumbered `Vers. 12. Est vanitas quae fit
+super terram` (verse 13).

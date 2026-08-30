@@ -1034,6 +1034,24 @@ excluded.
 - English: `parts/part-60-romans-04-05-abraham-36-english.md`
 - Extent: three synchronized markers, printed pp. 282–284 / IA leaves 290–292
 
+## Part 61: thirty-seventh unit of the Romans 4:5 lecture
+
+Part 61 answers Castellio's alleged absurdity that faith should complete in
+one instant what it did not complete throughout life. Tuckney argues from
+natural motion, the accelerating course of providence, Christ's aid in the
+final struggle, Samson's last victory, accumulated mortification, ripened
+fruit, a collapsing wall, the woodcutter's final stroke, and the abolition
+of Antichrist. Death completes a habit of repentance and godliness that has
+already progressively weakened sin. It runs from `Tertio accedamus ad
+secundum ejus Argumentum` on printed p. 284 / IA leaf 292 through the close
+of Tuckney's answer concerning the power of faith on printed p. 285 / IA
+leaf 293. The objection concerning the power of death, beginning `Proximo
+in loco probare pergit`, is excluded.
+
+- Latin: `parts/part-61-romans-04-05-abraham-37-latin.txt`
+- English: `parts/part-61-romans-04-05-abraham-37-english.md`
+- Extent: two synchronized markers, printed pp. 284–285 / IA leaves 292–293
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -1644,3 +1644,33 @@ The next restart point is `QUÆSTIO XXVI. DE SENSU VERBORUM SACRAMENTALIUM. An
 Verba Cœnæ proprie et literaliter κατὰ τὸ ῥητὸν, an vero tropice et
 Sacramentaliter sint intelligenda? Prius Neg. Post. Affir contra Pontif. et
 Lutheran.` on shared printed p. 396 / IA leaf 430 / PDF p. 430.
+
+## Part 60
+
+Part 60 opens Locus XIX, Question XXVI, “De Sensu Verborum Sacramentalium.” It
+begins with the question heading on shared printed p. 396 / IA leaf 430 / PDF
+p. 430, immediately after Question XXV, and ends at the coherent boundary
+after section XIII on shared printed p. 404 / IA leaf 438 / PDF p. 438. The
+remainder of Question XXVI is excluded.
+
+- Latin: `parts/part-60-locus-19-question-26-sections-01-13-latin.txt`
+- English: `parts/part-60-locus-19-question-26-sections-01-13-english.md`
+- Both files contain nine synchronized source-page markers, the section
+  sequence I–XIII, and four synchronized marginalia blocks.
+- The scan verification covered all nine page images and all eight page joins.
+  The pp. 400–401 and 403–404 joins divide `gloriosum` and `significabat`;
+  each complete Latin word and its English counterpart is placed after the
+  new-page marker. The other six joins divide no word.
+- The transcription retains every printed Greek and Hebrew expression and the
+  witness’s abbreviations, spelling, capitalization, punctuation, and
+  citations. `[sic]` identifies the malformed `Novis Testamenti` and
+  `anologia`; the English translates the evident sense.
+- The witness numbers the next section `XIV` and later on the same printed
+  page numbers the following section `XIV` again. Part 60 stops before the
+  first of those duplicated numbers and does not silently repair either one.
+
+The next restart point is `XIV. Tertio, quoad Agnum Paschalem, perperam
+reponitur, “Non extare hanc phrasim, Agnus est Pascha, in Scriptura; nec verba
+illa, Pascha hoc Jehovæ de agno mactato et manducato enunciari, sed vel de
+cæremonia, vel de festo, vel de sacrificio transitus. (Ex. xii. 11.)` on
+shared printed p. 404 / IA leaf 438 / PDF p. 438.

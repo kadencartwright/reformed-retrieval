@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question I
+  Statu Christi*, begun through Question II
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–39 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–40 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Question I, from printed p. 3 / PDF 31 through
-section XL on printed p. 254 / PDF 282. Part 27 also includes the Locus XII
+Questions I–XII, and Locus XIII, Questions I–II, from printed p. 3 / PDF 31
+through section XXXII on printed p. 264 / PDF 292. Part 27 also includes the Locus XII
 divisional title on PDF 177 and its blank verso on PDF 178; Part 39 includes
 the Locus XIII divisional title on PDF 267 and its blank verso on PDF 268. The
-sequence comprises 912 numbered sections across 246 unique numbered text pages
-and 278 source markers in each language (274 printed-page markers plus four
+sequence comprises 944 numbered sections across 256 unique numbered text pages
+and 289 source markers in each language (285 printed-page markers plus four
 divisional-leaf markers in Parts 27 and 39). The complete Latin files contain
-135,523 whitespace-delimited words and the complete English files 184,634,
-counted over Parts 01–39 with `wc -w`. Each
+141,072 whitespace-delimited words and the complete English files 192,027,
+counted over Parts 01–40 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -94,6 +94,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 37 | Locus XII, Question XI | printed pp. 227–230 / PDFs 255–258 | XVII | 4 | `part-37-locus-12-question-11-{latin.txt,english.md}` |
 | 38 | Locus XII, Question XII | printed pp. 231–237 / PDFs 259–265 | XXV | 7 | `part-38-locus-12-question-12-{latin.txt,english.md}` |
 | 39 | Locus XIII, Question I | title and blank verso PDFs 267–268; printed pp. 241–254 / PDFs 269–282 | XL | 16 | `part-39-locus-13-question-01-{latin.txt,english.md}` |
+| 40 | Locus XIII, Question II | printed pp. 254–264 / PDFs 282–292 | XXXII | 11 | `part-40-locus-13-question-02-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -457,9 +458,38 @@ placed before each complete word in both files. The visibly printed English
 conjunction in the Latin phrase `de Gog and Magog dicitur` in section XL is
 retained with `[sic]`. No supplementary witness was needed.
 
-Part 39's exact next restart is `QUAESTIO II. An Jesus Nazarenus sit verus
-Messias? Affirm. contra Judaeos.` below section XL on printed p. 254 / PDF 282.
-PDF 283 begins the continuation of Question II and is excluded from Part 39.
+Question II argues against the Jews that Jesus of Nazareth is the true Messiah.
+It first applies the Old Testament criteria of the Messiah's birth—its time,
+forerunner, place, tribe and family, and manner—to Jesus, with extended defenses
+of the Bethlehem and virgin-birth prophecies. It then argues from the criteria
+of the Messiah's divine person, threefold office, and twofold state; from
+Christ's doctrine, miracles, resurrection, gift of the Holy Spirit, and the
+calling of the nations; from Christianity's establishment, preservation, and
+propagation despite the apparent weakness of Christ, the demanding doctrine,
+the low condition of its heralds, and their simple manner of teaching; and
+finally from the absurd consequences of denying Jesus to be the Christ. It
+answers objections concerning messianic peace, the gradual destruction of
+idolatry, John the Baptist's inquiry, the synagogue's rejection, and the
+abrogation of the ceremonial law in thirty-two sections. It begins at the
+Question II heading below section XL on printed p. 254 / PDF 282 and ends with
+section XXXII on printed p. 264 / PDF 292 immediately before Question III. The
+Latin and English files contain 5,549 and 7,393 whitespace-delimited words
+respectively, counted over each complete file with `wc -w`. Both carry all
+eleven printed-page markers in the same sequence and retain all eighteen
+substantive marginal headings, citations, Greek, and Hebrew. The printer-divided
+`Domi-/natoris` at the printed pp. 255/256 join, `Daemo-/num` at pp. 259/260,
+`testi-/monium` at pp. 260/261, and `vir-/tutem` at pp. 261/262 are normalized
+as `Dominatoris`, `Daemonum`, `testimonium`, and `virtutem`, with the incoming
+marker placed before each complete word in both files. The visibly printed
+citation `Isaias, xxv. 4, 5` for wording found in Isaiah xxxv. 4–5 and the forms
+`Christianisimi`, `persuasuassimae`, and `pigmanta` are retained in the Latin
+with `[sic]` rather than silently corrected. No supplementary witness was
+needed. PDF 293 was consulted only to confirm that its continuation of
+Question III is later content and is excluded.
+
+Part 40's exact next restart is `QUAESTIO III. DE INCARNATIONIS NECESSITATE. An
+necesse fuerit Filium Dei Incarnari? Affirm.` below section XXXII on printed p.
+264 / PDF 292.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

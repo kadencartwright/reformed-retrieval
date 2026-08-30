@@ -773,6 +773,21 @@ excluded.
 - English: `parts/part-44-romans-04-05-abraham-20-english.md`
 - Extent: three synchronized markers, printed pp. 252–254 / IA leaves 260–262
 
+## Part 45: twenty-first unit of the Romans 4:5 lecture
+
+Part 45 answers Bellarmine's first specific challenge to the necessity of
+imputation. Tuckney distinguishes sin's guilt from its indwelling stain and
+sin's dominion from its continued presence, affirms complete forgiveness of
+guilt, and gives three reasons why imputation remains necessary before and
+after justification. It runs from `Sed jam tandem accedamus ad duas illas
+alias` on printed p. 254 / IA leaf 262 through the conclusion of this first
+response on printed p. 257 / IA leaf 265. Bellarmine's second specific
+challenge, beginning `2. Secunda etiam ejus necessitas est`, is excluded.
+
+- Latin: `parts/part-45-romans-04-05-abraham-21-latin.txt`
+- English: `parts/part-45-romans-04-05-abraham-21-english.md`
+- Extent: four synchronized markers, printed pp. 254–257 / IA leaves 262–265
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

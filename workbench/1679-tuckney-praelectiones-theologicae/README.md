@@ -1328,6 +1328,20 @@ IA leaf 316. The fifth argument, beginning `Quinto, ut rem`, is excluded.
 - English: `parts/part-78-romans-04-05-abraham-54-english.md`
 - Extent: two synchronized markers, printed pp. 307–308 / IA leaves 315–316
 
+## Part 79: fifty-fifth unit of the Romans 4:5 lecture
+
+Part 79 develops the first four branches of Tuckney's fifth argument against
+Osiander. It distinguishes evangelical justification from inherent renewal,
+locates forgiveness within justification's definition, answers Osiander's
+reading of Romans 4:25, and grounds justification in Christ's obedience,
+blood, death, and priesthood. It runs from `Quinto, ut rem` on printed p. 308
+/ IA leaf 316 through the fourth branch on printed p. 310 / IA leaf 318. The
+fifth branch, beginning `Quae et quinta sit`, is excluded.
+
+- Latin: `parts/part-79-romans-04-05-abraham-55-latin.txt`
+- English: `parts/part-79-romans-04-05-abraham-55-english.md`
+- Extent: three synchronized markers, printed pp. 308–310 / IA leaves 316–318
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

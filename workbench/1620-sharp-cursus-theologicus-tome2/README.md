@@ -35,7 +35,8 @@ hOCR. The page images govern; hOCR is used only as a navigation and
 transcription aid. Part 01 was compared line by line with the eight BSB images
 for canvases 5–12. Part 07 was compared line by line with the eleven BSB images
 for canvases 26–36. Part 08 was compared line by line with the nine BSB images
-for canvases 36–44. No e-rara text, modern edition, or modern translation was
+for canvases 36–44. Part 09 was compared line by line with the five BSB images
+for canvases 44–48. No e-rara text, modern edition, or modern translation was
 used.
 
 ## Editorial method
@@ -136,8 +137,24 @@ markers:
 - `parts/part-08-church-triumphant-controversy-03-relics-latin.txt`
 - `parts/part-08-church-triumphant-controversy-03-relics-english.md`
 
-The next continuation boundary is therefore `DE ECCLESIA Militante`,
-beginning later in printed column 87 on BSB canvas 44.
+**Part 09 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It begins the treatment `DE ECCLESIA Militante` later in printed
+column 87, defines the Church Militant and its head, distinguishes Christ’s
+supreme government from subordinate ministerial government, and completes
+the treatment of the external efficient and final causes of ministerial
+church government in printed columns 87–96. It includes the complete Question
+I, on whether external church government belongs chiefly to secular princes,
+and Question II, on whether it belongs chiefly to bishops and presbyters. It
+ends after the four secondary ends of human ministry, immediately before
+`Hactenus de causis externis, Internae sequuntur, materia nempe et forma`, and
+contains ten synchronized printed-column markers:
+
+- `parts/part-09-church-militant-head-external-causes-latin.txt`
+- `parts/part-09-church-militant-head-external-causes-english.md`
+
+The next continuation boundary is therefore `Hactenus de causis externis,
+Internae sequuntur, materia nempe et forma`, later in printed column 96 on BSB
+canvas 48.
 
 ## Review and licensing notice
 

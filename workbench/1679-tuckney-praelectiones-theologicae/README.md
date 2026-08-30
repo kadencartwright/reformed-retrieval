@@ -1546,6 +1546,14 @@ Part 95 completes the determination. Tuckney formally condemns the Antinomian op
 - English: `parts/part-95-moral-law-10-english.md`
 - Extent: one synchronized marker, new-series fol. 34 / IA leaf 354
 
+## Part 96: first unit of the 1650 clergy sermon for the doctoral degree
+
+Part 96 begins the distinct `Concio ad Clerum` delivered in the Church of Blessed Mary on May 8, 1650, and contains its complete opening prayer. Tuckney confesses natural and gracious ruin, pleads Christ's blood and the Spirit's efficacy, intercedes for the universal, British, and Irish churches, civil rulers, ministers, both universities, and Emmanuel College, and closes with the Lord's Prayer. It runs from `CONCIO AD CLERUM pro Doctoratus gradu in Templo B. Mariae habita Maji 8vo. 1650. ORATIO` on new-series fol. 34 / IA leaf 354 through the final `Amen` of the Lord's Prayer on new-series fol. 36 / IA leaf 356. The sermon text headed `MATTH. V. 13` and beginning `Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς` is excluded.
+
+- Latin: `parts/part-96-concio-ad-clerum-01-latin.txt`
+- English: `parts/part-96-concio-ad-clerum-01-english.md`
+- Extent: three synchronized markers, new-series fols. 34–36 / IA leaves 354–356
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

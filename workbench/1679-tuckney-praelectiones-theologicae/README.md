@@ -1498,6 +1498,14 @@ excluded.
 - English: `parts/part-89-moral-law-04-english.md`
 - Extent: four synchronized markers, new-series fols. 25–28 / IA leaves 345–348
 
+## Part 90: fifth unit on the moral law under the gospel
+
+Part 90 completes the third distinction by examining the moral law as confirmed by Christ. Tuckney joins the written law to the Spirit's inward work, rejects the opposition between love and divine command, and defends the continuing authority of Scripture. It runs from `Tertium ejus membrum legem moralem ut a Christo in Evangelio confirmatam respicit` on new-series fol. 28 / IA leaf 348 through the appeal to John's Gospel, epistle, and Apocalypse on new-series fol. 30 / IA leaf 350. The formal confirmation, beginning `Sed diutius multo quam par erat`, is excluded.
+
+- Latin: `parts/part-90-moral-law-05-latin.txt`
+- English: `parts/part-90-moral-law-05-english.md`
+- Extent: three synchronized markers, new-series fols. 28–30 / IA leaves 348–350
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

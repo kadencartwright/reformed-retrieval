@@ -1995,3 +1995,22 @@ and the Greek `Κατὰ ζῆλος`, `ἐπὶ τὸ πολὺ`, and `πάγχ
 This joint unit is bounded by the exact verse-20 lemma rather than by an
 arbitrary image count. The next unit begins on reader image `PA281` / printed
 p. 282 at `Vers. 20. Quamvis homo nemo sit justus in terra`.
+
+**Part 91 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 7:20–22 lemma block, the summary and division, and
+the complete joint exposition on reader images `PA281`, `PA283`, `PA285`, and
+`PA287`. It begins on printed p. 282 at `Vers. 20. Quamvis homo nemo sit
+justus in terra`, carries the p. 284 catchword `uno` into the next image,
+crosses the following image join within the divided `impatien- / tia`, and
+ends on printed p. 288 after the complete exposition of verse 22 and before
+the verse-23 lemma block. The paired files have four exactly identical
+reader-image markers and retain the household-governance argument, every
+printed biblical reference, the source's irregular constructions, the Hebrew
+`הדברים`, and the Greek `τεκμήριον`:
+
+- `parts/part-91-homiliae-chapter-07-verses-20-22-latin.txt`
+- `parts/part-91-homiliae-chapter-07-verses-20-22-english.md`
+
+This joint unit is bounded by the exact verse-23–29 lemma block rather than by
+an arbitrary image count. The next unit begins on reader image `PA289` /
+printed p. 289 at `Vers. 23. Omnia illa probavi in sapientia`.

@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–11 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–12 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -92,7 +92,10 @@ II, Chapter V, from its heading at the top of printed p. 125 / canvas 135
 through the end of the fourth argument in the upper portion of printed p. 128
 / canvas 138. Part 11 completes Article II, Chapter VI, from its heading lower
 on that page through the end of the fifth argument in the upper portion of
-printed p. 135 / canvas 145. The files are divided as follows:
+printed p. 135 / canvas 145. Part 12 completes Article II, Chapter VII, from
+its heading lower on that page through the end of the sixth argument in the
+upper portion of printed p. 141 / canvas 151. The files are divided as
+follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -116,6 +119,9 @@ printed p. 135 / canvas 145. The files are divided as follows:
 - Part 11: Article II, Chapter VI, canvases 138–145 / printed pp. 128–135; only
   the lower portion of canvas 138 and the upper portion of canvas 145 belong
   to this unit.
+- Part 12: Article II, Chapter VII, canvases 145–151 / printed pp. 135–141;
+  only the lower portion of canvas 145 and the upper portion of canvas 151
+  belong to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -206,6 +212,22 @@ regularized.
 - Both Part 11 files contain eight synchronized source markers for BSB
   canvases 138–145 / printed pp. 128–135.
 
-The next untranslated unit begins with `CAP. VII. Argumentum sextum. Pag.
-193.` and `Pro quibus Christus proprie est mortuus, eos & summe dilexit.`
-lower on printed p. 135 / BSB canvas 145.
+Part 12 answers the sixth argument: those for whom Christ properly died he
+also loved supremely, and those whom he loves supremely receive not only
+salvation merited but salvation actually applied. It begins with `CAP. VII.
+Argumentum sextum. Pag. 193.` and `Pro quibus Christus proprie est mortuus,
+eos & summe dilexit.` lower on printed p. 135 / canvas 145 and ends with
+`...ut laesae iustitiae cumulate satisfieri possit.` in the upper portion of
+printed p. 141 / canvas 151. The witness's surprising references `1. Iohan. 2.
+16.`, `Ephes. 1. 2.`, and `Ephes. 3. 18. 16.` are retained rather than silently
+corrected, as is its Greek definition of love from Aristotle.
+
+- Latin: `parts/part-12-article-02-chapter-07-latin.txt`
+- English: `parts/part-12-article-02-chapter-07-english.md`
+- Both Part 12 files contain seven synchronized source markers for BSB
+  canvases 145–151 / printed pp. 135–141.
+
+The next untranslated unit begins with `CAP. VIII. Argumentum septimum. Pag.
+196.` and `Pro quibuscunque Christus est mortuus, atque remissionem peccatorum
+& reconciliationem cum Deo impetravit` lower on printed p. 141 / BSB canvas
+151.

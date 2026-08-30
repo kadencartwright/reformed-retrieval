@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question IV
+  Statu Christi*, begun through Question V
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–42 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–43 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–IV, from printed p. 3 / PDF 31
-through section XI on printed p. 270 / PDF 298. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–V, from printed p. 3 / PDF 31
+through section XIX on printed p. 274 / PDF 302. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 977 numbered sections across 262 unique numbered
-text pages and 297 source markers in each language (293 printed-page markers
+268. The sequence comprises 996 numbered sections across 266 unique numbered
+text pages and 302 source markers in each language (298 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 144,524 whitespace-delimited words and the complete English files
-196,802, counted over Parts 01–42 with `wc -w`. Each part is a complete question,
+contain 146,628 whitespace-delimited words and the complete English files
+199,754, counted over Parts 01–43 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -97,6 +97,7 @@ the substantive marginal headings.
 | 40 | Locus XIII, Question II | printed pp. 254–264 / PDFs 282–292 | XXXII | 11 | `part-40-locus-13-question-02-{latin.txt,english.md}` |
 | 41 | Locus XIII, Question III | printed pp. 264–268 / PDFs 292–296 | XXII | 5 | `part-41-locus-13-question-03-{latin.txt,english.md}` |
 | 42 | Locus XIII, Question IV | printed pp. 268–270 / PDFs 296–298 | XI | 3 | `part-42-locus-13-question-04-{latin.txt,english.md}` |
+| 43 | Locus XIII, Question V | printed pp. 270–274 / PDFs 298–302 | XIX | 5 | `part-43-locus-13-question-05-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -545,6 +546,35 @@ Part 42's exact next restart is `QUAESTIO V. DE NATURA ASSUMPTA. An Natura
 Humana assumpta a Λόγῳ fuerit nostrae per omnia similis excepto peccato, et
 Caro ejus ex substantia B. Virginis desumpta? An vero coelitus delapsa? Prius
 Affirm., Poster. Neg., contra Anabaptistas.` on printed p. 270 / PDF 298.
+
+Question V asks whether the human nature assumed by the Word was like ours in
+all things except sin and whether Christ took his flesh from the substance of
+the blessed Virgin rather than bringing it down from heaven. Against the
+Anabaptists, after surveying the related Manichaean, Marcionite,
+Valentinian, and Apollinarian errors, it argues from Christ's names as man and
+Son of Man, the biblical designations of the woman's, Abraham's, David's, and
+the Virgin's seed and fruit, his participation in flesh and blood, his
+assumption of Abraham's seed, his genealogy, and redemption's demand for the
+same nature in which sin was committed. It then answers objections from
+Christ as the Lord and bread from heaven, the language of likeness, the mode
+of his human subsistence, generation from a woman, conception from the Holy
+Spirit, Mary's divine maternity, and descent from Adam in nineteen sections.
+It begins at the Question V heading below section XI on printed p. 270 / PDF
+298 and ends with section XIX on printed p. 274 / PDF 302 immediately before
+Question VI. The Latin and English files contain 2,104 and 2,952
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all five printed-page markers in the same sequence and
+retain all thirteen substantive marginal headings, citations, and scan-exact
+Greek. All four page joins fall between complete words: `carnem` / `et`,
+`communis` / `sit`, `fuit` / `sanctitate`, and `sumatur` / `concrete`, with
+the incoming marker placed between those words in both files. The visibly
+printed citation `Heb. ii. 26` in section VII is retained rather than silently
+corrected; the passage is Heb. ii. 16. No supplementary witness was needed.
+The heading and body of Question VI are later content and are excluded.
+
+Part 43's exact next restart is `QUAESTIO VI. DE VERITATE INCARNATIONIS, ET
+UNIONE HYPOSTATICA. An filius Dei Naturam Humanam in Unitatem Personae
+assumpserit? Affirm. contra Socin.` on printed p. 274 / PDF 302.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

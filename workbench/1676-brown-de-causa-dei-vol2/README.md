@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations through printed page 276 of Volume II. The
-> forty-five paired parts remain unreviewed and are not publication-ready.
+> close English translations through printed page 286 of Volume II. The
+> forty-six paired parts remain unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -89,10 +89,11 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 276 is applied and disclosed in the relevant
+completed span through printed p. 286 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, XX, XXI,
-XXII, XXIII, and XXV were read from the images, not reconstructed from IA OCR.
+XXII, XXIII, XXV, and XXVI were read from the images, not reconstructed from IA
+OCR.
 Apparatus notes record printed errata, source-language glosses needed by the
 English, and anomalous citations without silently repairing them.
 
@@ -105,7 +106,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Forty-five paired parts are complete as scan-audited, AI-assisted, unreviewed
+Forty-six paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -339,14 +340,19 @@ working drafts:
   `271` to `274`, without a textual lacuna.
   [Latin](parts/part-45-book-04-chapter-25-burmann-primary-argument-latin.txt) |
   [English](parts/part-45-book-04-chapter-25-burmann-primary-argument-english.md)
+- **Part 46:** all of Chapter XXVI, arguing against Walaeus and Strangius that
+  the fourth precept is not partly moral and partly ceremonial, and answering
+  their distinctions and three arguments; printed pp. 277–286 / IA PDF and
+  leaves 283–292; ten synchronized markers.
+  [Latin](parts/part-46-book-04-chapter-26-not-partly-ceremonial-latin.txt) |
+  [English](parts/part-46-book-04-chapter-26-not-partly-ceremonial-english.md)
 
-Part 45 ends with Chapter XXV's answer to Burmann's principal argument on
-printed p. 276. The exact next untranslated chapter text is `CAP. XXVI.` on
-printed p. 277 / IA PDF 283 / IA leaf 283, followed by `Praeceptum quartum non
-esse partim morale, partim Ceremoniale evincitur, contra D. Walaeum & D.
-Strangium.` Chapters VI through XXV are complete. Every completed pair has an
-identical source-marker sequence, and all forty-five pairs remain AI-assisted
-and unreviewed.
+Part 46 ends with Chapter XXVI's preliminary reply to Walaeus and Strangius on
+printed p. 286. The exact next untranslated chapter text is `CAP. XXVII.` on
+printed p. 287 / IA PDF 293 / IA leaf 293, followed by `Rationes D. Walaei & D.
+Strangii, pro contrariâ sententiâ, examinantur.` Chapters VI through XXVI are
+complete. Every completed pair has an identical source-marker sequence, and
+all forty-six pairs remain AI-assisted and unreviewed.
 
 ## Licensing
 

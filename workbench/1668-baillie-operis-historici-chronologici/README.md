@@ -661,6 +661,50 @@ are joined and placed wholly after the later synchronized marker, and all
 included printed marginalia are retained. The pair remains an AI-assisted,
 unreviewed draft and is not publication-ready.
 
+## Part 34 boundary and status
+
+Part 34 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 214 and 216 and complete p. 215, IA leaves
+244–246, access-PDF pp. 244–246, and DjVu OCR objects 243–245. It begins in
+the right column of printed p. 214 immediately after Part 33 with `Intereà
+Ptolemaeus Philadelphus in Aegypto florebat in pace ...`. It contains
+Philadelphus’s family and literary court; the account and criticism of the
+Septuagint traditions; the war and marriage settlement with Antiochus Theos;
+the murders of Berenice and Laodice; Ptolemy Euergetes’s Asian campaign; and
+the wars, captivity, and death of Seleucus Callinicus. It ends in the right
+column of p. 216 after Callinicus dies in the nineteenth year of his reign,
+leaving his sons Seleucus and Antiochus.
+
+The next paragraph, `Seleucus juvenis acer sed imprudens magno impetu ...`,
+begins immediately below and is wholly excluded. The three controlling
+300-dpi page images, `pdf-244.jpg` through `pdf-246.jpg`, governed the
+transcription; OCR served only as an aid. The running text following the p.
+215 catchword is placed after the p. 216 marker, and all included printed
+marginalia and Greek strings are retained. The pair remains an AI-assisted,
+unreviewed draft and is not publication-ready.
+
+## Part 35 boundary and status
+
+Part 35 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 216 and 218 and complete p. 217, IA leaves
+246–248, access-PDF pp. 246–248, and DjVu OCR objects 245–247. It begins in
+the right column of printed p. 216 immediately after Part 34 with `Seleucus
+juvenis acer sed imprudens magno impetu ...`. It contains Seleucus Ceraunus’s
+brief reign; Antiochus the Great’s accession; the complete revolt and defeat
+of Molo; the removal of Hermias; Theodotus’s surrender of Syria; the war with
+Ptolemy Philopator through Raphia; Philopator’s death; the betrayal and death
+of Achaeus; and Antiochus’s renewed Syrian and Egyptian campaign. It ends in
+the left column of p. 218 after Roman envoys turn Antiochus back from Egypt
+and he rewards the Jews and the Jerusalem temple.
+
+The next paragraph, `Successorum Alexandri potentia & gloria jam vergebat in
+occasum ...`, begins immediately below and is wholly excluded. The three
+controlling 300-dpi page images, `pdf-246.jpg` through `pdf-248.jpg`, governed
+the transcription; OCR served only as an aid. The body word divided at the p.
+217/p. 218 boundary is joined and placed wholly after the later synchronized
+marker, and all included printed marginalia are retained. The pair remains an
+AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -743,6 +787,10 @@ have not been modernized or endorsed.
 - `parts/part-32-book-01-chapter-11c-last-diadochi-english.md`
 - `parts/part-33-book-01-chapter-11d-pyrrhus-latin.txt`
 - `parts/part-33-book-01-chapter-11d-pyrrhus-english.md`
+- `parts/part-34-book-01-chapter-11e-philadelphus-and-callinicus-latin.txt`
+- `parts/part-34-book-01-chapter-11e-philadelphus-and-callinicus-english.md`
+- `parts/part-35-book-01-chapter-11f-antiochus-magnus-and-philopator-latin.txt`
+- `parts/part-35-book-01-chapter-11f-antiochus-magnus-and-philopator-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -752,7 +800,7 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
-30, four for Part 31, and three each for Parts 32 and 33. There are sixty-six
-current files in thirty-three Latin/English pairs, containing 244 synchronized
-source markers per language (488 marker occurrences across all sixty-six
-files). The files remain AI-assisted and unreviewed.
+30, four for Part 31, and three each for Parts 32–35. There are seventy current
+files in thirty-five Latin/English pairs, containing 250 synchronized source
+markers per language (500 marker occurrences across all seventy files). The
+files remain AI-assisted and unreviewed.

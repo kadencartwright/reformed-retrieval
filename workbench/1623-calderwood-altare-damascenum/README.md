@@ -66,9 +66,9 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–30 contain none of the appended documents. Parts 01–26 do not
+prose. Parts 01–31 contain none of the appended documents. Parts 01–26 do not
 reach the embedded Tilenus refutation; Part 27 opens Chapter V by reporting
-and quoting Tilenus’s claims before Calderwood answers them. Parts 07–30 also
+and quoting Tilenus’s claims before Calderwood answers them. Parts 07–31 also
 include long passages that Calderwood expressly quotes from Thomas Brightman,
 Tilenus, Eusebius, Scaliger, Luther, German theologians, Francis Bacon,
 English jurists,
@@ -90,9 +90,10 @@ modern selection.
 
 ## Current progress and audit state
 
-Thirty numbered Latin/English units are present. They now carry the main text
-from printed p. 1 through all four of Chapter V’s announced issues, ending in
-the upper portion of printed p. 319, but
+Thirty-one numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through all four of Chapter V’s announced issues and
+the following treatment of bishops’ civil dignity and pomp, ending in the
+lower portion of printed p. 323, but
 the inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
@@ -131,6 +132,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 28 | Chapter V: singular exercise of episcopal jurisdiction | printed pp. 310–313 / PDFs 322–325, both boundary pages partial | 4 paired and image-audited |
 | 29 | Chapter V: delegation of episcopal jurisdiction | printed pp. 313–318 / PDFs 325–330, both boundary pages partial | 6 paired and image-audited |
 | 30 | Chapter V: extensive episcopal power and oversized dioceses | printed pp. 318–319 / PDFs 330–331, both boundary pages partial | 2 paired and image-audited |
+| 31 | Chapter V: bishops’ civil dignity, titles, precedence, and pomp | printed pp. 319–323 / PDFs 331–335, both boundary pages partial | 5 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -1158,7 +1160,60 @@ citations, the page join, and both boundaries.
 - Latin: `parts/part-30-chapter-05-extensive-episcopal-power-latin.txt`
 - English: `parts/part-30-chapter-05-extensive-episcopal-power-english.md`
 
-All thirty units remain **AI-assisted and unreviewed**. They require
+### Part 31 bounds and evidence
+
+Part 31 resumes exactly at the boundary specified by Part 30 in the lower
+portion of printed p. 319 / IA leaf 331 / PDF p. 331 at:
+
+`Sunt & alia praeter quatuor ista observanda in Episcopatu Anglicano ut pompa
+& dignitas aliaque quae in sequentibus nobis occurrent.`
+
+It first closes the treatment of archbishops and turns to bishops simply so
+called. Within the branch `In Republica`, Calderwood examines their title of
+lords by reason of episcopal baronies, their ownership or administration of
+ecclesiastical property, their precedence among the English nobility, and
+their display in clothing, household, food, and buildings. The unit preserves
+his long quotations from Spalatensis on ecclesiastical ownership and
+episcopal luxury, Jean Bédé on territorial lordship, Gerson on clerical pomp,
+Ammianus Marcellinus on provincial bishops, Luther on princely bishops,
+Gratian’s contrast between golden priests and golden chalices, the French
+orator Ferrier at Trent, and Duarenus on princely largesse, together with all
+visible marginal citations and quotation boundaries.
+
+Part 31 ends in the lower portion of printed p. 323 / IA leaf 335 / PDF p. 335
+after:
+
+`...non plus malorum inter homines & calamitatum exiliisse videatur. ait
+Duarenus.`
+
+The immediately following displayed branch, `In Ecclesia ratione Vocationis
+aut Functionis. Ratione Vocationis externae ad Episcopatum`, is excluded. This
+gives Part 31 five identical Latin and English source markers and seventeen
+byte-identical marginalia records. The printer-divided `col-` / `legium` at
+the p. 319/320 turn and `so-` / `brietatem` at the p. 321/322 turn are joined;
+each incoming marker stands before the complete Latin word and its
+corresponding English word. The p. 320 catchword `saeculi` and p. 322
+catchword `sed` are omitted without duplication.
+
+The anomalous 1623 readings `reverentia etiam extrema`, `perpetua numini`, and
+singular `commendat` are retained in the Latin. The 1708 reset regularizes
+them to `externa`, `perpetuo`, and `commendant`; the English renders the first
+literally and gives the last two their evident sense without emending the
+controlling transcription.
+
+The controlling Internet Archive access PDF and OCR aids were freshly
+acquired for this session. The PDF has 1,088 pages and 112,133,031 bytes, with
+SHA-256
+`61a924c73503fe167e52c078dd20295cfdc32f2a15977918ff8878f135cce7aa`;
+its pp. 331–335 were freshly rendered at 240 dpi and inspected page by page
+against both files. The IA OCR and the 1708 Leiden reset assisted reading
+only; the 1623 images governed wording, typography, quotations, citations,
+joins, and both boundaries.
+
+- Latin: `parts/part-31-chapter-05-episcopal-dignity-and-pomp-latin.txt`
+- English: `parts/part-31-chapter-05-episcopal-dignity-and-pomp-english.md`
+
+All thirty-one units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

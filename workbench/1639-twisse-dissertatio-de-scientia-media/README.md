@@ -542,7 +542,26 @@ two identical markers.
 - `parts/part-48-penottus-book-03-chapter-17-proposition-03-english.md`
 
 The next unit resumes on printed p. 88 / canvas 00114 at `Respons. Diserte
-dicit Thomas futurum esse praesens eo prout actu habet esse in seipso...`.
+dicit Thomas futurum esse praesens Deo prout actu habet esse in seipso...`.
+
+Part 49 spans **printed pp. 88–89 / BSB canvases 00114–00115** and contains
+Twisse's complete response to Penottus's third proposition. It examines
+Aquinas's road-and-elevated-observer illustration, contrasts real presence with
+objective and willed being, and argues that the eternity of divine vision
+precedes rather than results from its measurement by eternity. It ends
+immediately before Penottus's `Quarto, Esto, ista rerum coexistentia possibilis
+esset` and has two identical source markers. The printer's page-end division
+`no-` / `ster` is joined as `noster`, with the p. 89 marker placed immediately
+before the complete word and before its English counterpart, `our`. The Latin
+retains the witnessed reading `ab liqua altitudine`; the corresponding English
+renders its evident sense, “from some height.”
+
+- `parts/part-49-penottus-book-03-chapter-17-response-to-proposition-03-latin.txt`
+- `parts/part-49-penottus-book-03-chapter-17-response-to-proposition-03-english.md`
+
+The next unit resumes on printed p. 89 / canvas 00115 with Penottus's fourth
+proposition, `Quarto, Esto, ista rerum coexistentia possibilis esset, tamen
+instituto Thomae omnino deservire non potest`.
 
 ## Editorial method and cautions
 

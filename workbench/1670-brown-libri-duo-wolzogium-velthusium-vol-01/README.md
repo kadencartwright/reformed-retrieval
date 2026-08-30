@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Ten paired parts are complete as AI-assisted, scan-audited working drafts:
+Eleven paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -109,6 +109,10 @@ Ten paired parts are complete as AI-assisted, scan-audited working drafts:
 - **Part 10:** the opening of Section XXIII on the Spirit's unbound and
   mediated efficacy and the Apostles as infallible interpreters, printed pp.
   105–108 / ONB canvases 159–162; four synchronized source markers.
+- **Part 11:** the remainder of Section XXIII, defending the Spirit's
+  immediate efficacy against Wolzogen's objections concerning apostolic
+  infallibility and Enthusiasm, printed pp. 108–113 / ONB canvases 162–167;
+  six synchronized source markers.
 
 The files are:
 
@@ -132,8 +136,10 @@ The files are:
 - `parts/part-09-the-nature-and-means-of-interpretation-english.md`
 - `parts/part-10-the-spirits-efficacy-in-interpretation-latin.txt`
 - `parts/part-10-the-spirits-efficacy-in-interpretation-english.md`
+- `parts/part-11-the-spirits-immediate-efficacy-defended-latin.txt`
+- `parts/part-11-the-spirits-immediate-efficacy-defended-english.md`
 
-Part 10 ends within Section XXIII on printed p. 108 / ONB canvas 162 after
-Wolzogen's sentence `Nam prima illa nunc nulla est, si vel maximè fuerit olim
-aliqua.` Brown's response, beginning `Resp. Mirum sanè nunc nemini videri
-debet`, is excluded. Part 11 should resume there on the same canvas.
+Part 11 ends with Section XXIII on printed p. 113 / ONB canvas 167 after
+Brown's sentence `Sed quaenam sint Spiritus S. partes in sequentibus nobis
+explicas.` Section XXIV, beginning `Quo minus autem (inquit p. 64.) pervidere
+queamus`, is excluded. Part 12 should resume there on the same canvas.

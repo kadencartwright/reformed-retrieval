@@ -777,6 +777,51 @@ joined and placed wholly after the later synchronized marker, and all included
 printed marginalia are retained. The pair remains an AI-assisted, unreviewed
 draft and is not publication-ready.
 
+## Part 39 boundary and status
+
+Part 39 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 224 and 226 and complete p. 225, IA leaves
+254–256, access-PDF pp. 254–256, and DjVu OCR objects 253–255. It begins in
+the left column of printed p. 224 immediately after Part 38 with `Antiochus
+Magnus duos post se filios reliquit ...`. It contains Seleucus Philopator’s
+reign and death; Antiochus Epiphanes’ seizure of the kingdom and designs upon
+Egypt; the high priesthoods of Onias, Jason, and Menelaus; Popilius’s embassy;
+the persecution at Jerusalem; Mattathias’s revolt; Judas Maccabaeus’s early
+victories; and Antiochus Epiphanes’ death. It ends in the right column of
+printed p. 226 after Antiochus dies of phthiriasis on the borders of Persia
+and Media.
+
+The next paragraph, `Dum miserum cadaver Antiochiam deferret Philippus ...`,
+begins immediately below and is wholly excluded. The three controlling
+300-dpi page images, `pdf-254.jpg` through `pdf-256.jpg`, governed the
+transcription; OCR served only as an aid. The body word divided at the p.
+224/p. 225 boundary is joined and placed wholly after the later synchronized
+marker. All included printed marginalia, both Greek strings, and the Hebrew
+string are retained. The pair remains an AI-assisted, unreviewed draft and is
+not publication-ready.
+
+## Part 40 boundary and status
+
+Part 40 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 226–227, IA leaves 256–257, access-PDF pp. 256–257, and
+DjVu OCR objects 255–256. It begins in the right column of printed p. 226
+immediately after Part 39 with `Dum miserum cadaver Antiochiam deferret
+Philippus ...`. It contains Antiochus Eupator’s accession and campaign against
+Judas Maccabaeus; Eleazar’s death beneath the elephant; the peace with Judas;
+the deaths of Philip, Menelaus, and Jason; Onias’s temple in Egypt; and
+Demetrius’s escape from Rome, return, and killing of Eupator and Lysias. It
+ends in the left column of printed p. 227 after the complete extinction of
+Antiochus Epiphanes’ line.
+
+The next paragraph, `Ad Demetrium accessit Alcimus cum multis contra Judam
+Maccabaeum calumniis ...`, begins at the top of the right column and is wholly
+excluded. The two controlling 300-dpi page images, `pdf-256.jpg` and
+`pdf-257.jpg`, governed the transcription; OCR served only as an aid. The body
+word divided at the p. 226/p. 227 boundary is joined and placed wholly after
+the later synchronized marker, and all included printed marginalia are
+retained. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -869,6 +914,10 @@ have not been modernized or endorsed.
 - `parts/part-37-book-01-chapter-11h-antiochus-hannibal-and-philopoemen-english.md`
 - `parts/part-38-book-01-chapter-11i-philip-perseus-and-roman-cruelty-latin.txt`
 - `parts/part-38-book-01-chapter-11i-philip-perseus-and-roman-cruelty-english.md`
+- `parts/part-39-book-01-chapter-11j-seleucus-and-antiochus-epiphanes-latin.txt`
+- `parts/part-39-book-01-chapter-11j-seleucus-and-antiochus-epiphanes-english.md`
+- `parts/part-40-book-01-chapter-11k-antiochus-eupator-and-demetrius-latin.txt`
+- `parts/part-40-book-01-chapter-11k-antiochus-eupator-and-demetrius-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -879,7 +928,7 @@ Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
-Part 37, and two for Part 38. There are seventy-six current files in
-thirty-eight Latin/English pairs, containing 259 synchronized source markers
-per language (518 marker occurrences across all seventy-six files). The files
-remain AI-assisted and unreviewed.
+Part 37, two for Part 38, three for Part 39, and two for Part 40. There are
+eighty current files in forty Latin/English pairs, containing 264 synchronized
+source markers per language (528 marker occurrences across all eighty files).
+The files remain AI-assisted and unreviewed.

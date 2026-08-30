@@ -1318,3 +1318,116 @@ This short unit is bounded by the exact next repeated verse lemma rather than
 by an arbitrary image count. The next unit begins in the right column of
 reader image `PA209` / printed p. 210 at `Vers. 6. Ne permittito ori tuo ut
 peccato obstringat carnem tuam`.
+
+**Part 57 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:6 lemma and its complete homiletic
+exposition on reader images `PA209` and `PA211`. It begins in the right column
+of printed p. 210 at `Vers. 6. Ne permittito ori tuo`, crosses the image and
+printed-page join after the p. 210 catchword `præ-`, and ends near the top of
+printed p. 212 immediately before the repeated lemma `Vers. 7. Nam ut
+multitudini somniorum vanitates`. The paired files have two exactly identical
+reader-image markers and retain the warning against rash vows, the account of
+Christ as the uncreated Angel of the Covenant, the golden-calf example, the
+discussion of devoted property, the Greek `μετωνυμίᾳ`, and every printed
+biblical reference. The English translator's notes disclose the catchword,
+the Greek rhetorical expression, and the contextual rendering of `sociis`
+rather than silently repairing or omitting them:
+
+- `parts/part-57-homiliae-chapter-05-verse-06-latin.txt`
+- `parts/part-57-homiliae-chapter-05-verse-06-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins near the top of reader image
+`PA211` / printed p. 212 at `Vers. 7. Nam ut multitudini somniorum vanitates,
+ita verbis multis inerunt`.
+
+**Part 58 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:7 lemma and its complete homiletic
+exposition on the single reader image `PA211`. It begins near the top of
+printed p. 212 at `Vers. 7. Nam ut multitudini somniorum vanitates` and ends
+in the same column immediately before the repeated lemma `Vers. 8. Si
+oppressionem pauperis`. The paired files have one exactly identical
+reader-image marker and retain the comparison between multiplied vows and
+multiplied dreams, the identification of fear as the fountain of lawful
+worship, and every printed biblical reference. No independent marginal notes,
+Greek, Hebrew, or other foreign-script text occurs in this unit. The English
+translator's note records that both boundaries fall within the same reader
+image:
+
+- `parts/part-58-homiliae-chapter-05-verse-07-latin.txt`
+- `parts/part-58-homiliae-chapter-05-verse-07-english.md`
+
+This short unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins in the right column of
+reader image `PA211` / printed p. 212 at `Vers. 8. Si oppressionem pauperis,
+interversionemque juris ac justitiæ videris in ipsa provincia`.
+
+**Part 59 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:8 lemma and its complete homiletic
+exposition on reader images `PA211`, `PA213`, and `PA215`. It begins in the
+right column of printed p. 212 at `Vers. 8. Si oppressionem pauperis`, crosses
+the image joins after the p. 212 and p. 214 catchwords `quod` and `Deum`, and
+ends in the left column of printed p. 215 immediately before the lemma block
+for verses 9–12. The paired files have three exactly identical reader-image
+markers and retain the treatment of judicial oppression as an apparent
+obstacle to the happiness of the godly, the distinction between God and the
+elect angels as higher watchers, the examples of Elisha and guardian angels,
+and every printed biblical reference. No independent marginal notes, Greek,
+Hebrew, or other foreign-script text occurs in this unit. The English
+translator's notes disclose both catchword joins, the compressed parenthesis,
+the repeated `referat`, and the printed `Rom. 6. vers. 7.` reference rather
+than silently repairing or omitting them:
+
+- `parts/part-59-homiliae-chapter-05-verse-08-latin.txt`
+- `parts/part-59-homiliae-chapter-05-verse-08-english.md`
+
+This unit is bounded by the exact next lemma block rather than by an arbitrary
+image count. The next unit begins in the left column of reader image `PA215` /
+printed p. 215 at the lemmata for verses 9–12, beginning `Vers. 9. Iam
+emolumentum terræ pro omnibus est: Regi de agro servitur`.
+
+**Part 60 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 5:9–12 lemma block, the summary and division, and the
+complete exposition of verse 9 on reader images `PA215` and `PA217`. It begins
+in the left column of printed p. 215 at `Vers. 9. Iam emolumentum terræ pro
+omnibus est`, crosses the image and printed-page join after the p. 216
+catchword `emolu-`, and ends in the right column of printed p. 218 immediately
+before the repeated lemma `Vers. 10. Qui amat pecuniam`. The paired files have
+two exactly identical reader-image markers and retain all four initial
+lemmata, the comparison of agriculture with animal husbandry, the examples of
+Cain, Jacob, Egyptian revenues, the royal mowing, and Uzziah, the romanized
+Hebrew `Ærez` and `sadeh`, and every printed biblical reference. The English
+translator's notes disclose the romanized Hebrew, the phrase `regii
+fœnisecii`, and the catchword join rather than silently repairing or omitting
+them:
+
+- `parts/part-60-homiliae-chapter-05-verse-09-latin.txt`
+- `parts/part-60-homiliae-chapter-05-verse-09-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader
+image `PA217` / printed p. 218 at `Vers. 10. Qui amat pecuniam, non satiatur
+pecunia`.
+
+**Part 61 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:10 lemma and its complete homiletic
+exposition on reader images `PA217` and `PA219`. It begins in the right column
+of printed p. 218 at `Vers. 10. Qui amat pecuniam`, crosses the image and
+printed-page join after the p. 218 catchword `uti-`, and ends in the left
+column of printed p. 219 immediately before the repeated lemma `Vers. 11. Quum
+multum est bonum istud`. The paired files have two exactly identical
+reader-image markers and retain the account of barter and the invention of
+money, the comparison between necessary and luxury arts, the examples of
+Jewish reliance upon money and the patriarchs' animal husbandry, and every
+printed biblical and classical reference. No independent marginal notes,
+Greek, Hebrew, or other foreign-script text occurs in this unit. The English
+translator's notes disclose the catchword join and the unexpressed subject of
+`inanes & vanas esse` rather than silently repairing or omitting them:
+
+- `parts/part-61-homiliae-chapter-05-verse-10-latin.txt`
+- `parts/part-61-homiliae-chapter-05-verse-10-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA219` / printed p. 220 at `Vers. 11. Quum multum est bonum istud, multi sunt
+qui comedunt ipsum`.

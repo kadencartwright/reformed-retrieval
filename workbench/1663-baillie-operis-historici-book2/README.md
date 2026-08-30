@@ -1,6 +1,6 @@
 # Robert Baillie, *Operis historici et chronologici*, Book II (1668 issue)
 
-> **Working edition in progress:** This directory contains an AI-assisted,
+> **Complete working draft:** This directory contains an AI-assisted,
 > unreviewed diplomatic-normalized Latin transcription and independent close
 > English working translation of Book II only. It is not a critical edition or
 > publication-ready text. Every reading and translation should be checked by a
@@ -257,6 +257,25 @@ The next excluded heading is `QUAESTIO XVI. Ad quae tempora Actorum Capitis
 septimi versus decimussextus referendus sit?` The boundary is
 question-complete and includes no body text from Question XVI.
 
+## Part 17 boundary
+
+Part 17 resumes with the excluded Question XVI heading in the second column of
+printed p. 95 / PDF-IA leaf 433 / OCR object 432. It examines the four textual
+and historical difficulties in Acts 7:16 concerning Hamor and Shechem, the
+purchase price, the patriarchs’ removal and burial, and whether the purchase
+should be attributed to Abraham or Jacob. It accepts the Greek construction
+identifying Hamor as Shechem’s father, interprets *kesitah* as a coin, limits
+the removal from Egypt to Jacob and Joseph while taking Stephen’s plural as
+synecdoche, and reviews proposed corrections before preferring—without fully
+endorsing—the patronymic reading of `Abraham`. It ends with Question XVI and
+Book II within printed p. 98 / PDF-IA leaf 436 / OCR object 435 at `ut malim
+meliorem expectare, quum isti meum calculum animitus addere.`
+
+The next excluded page opens `DIATRIBA PROOEMIALIS`. The boundary is both
+question-complete and book-complete and includes no text from the separate
+diatribe. The seventeen paired parts now cover Book II continuously from its
+unnumbered opening leaf (logical printed p. 1) through the end of printed p. 98.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -308,6 +327,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-15-hour-of-passion-question-14-english.md`
 - `parts/part-16-number-of-passovers-question-15-latin.txt`
 - `parts/part-16-number-of-passovers-question-15-english.md`
+- `parts/part-17-acts-7-16-question-16-latin.txt`
+- `parts/part-17-acts-7-16-question-16-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -355,3 +376,6 @@ leaves-access-PDF pp. 424–428 / OCR objects 423–427.
 The Part 16 pair contains six synchronized source markers, from the second
 column of logical printed p. 90 through the second column of p. 95 / IA
 leaves-access-PDF pp. 428–433 / OCR objects 427–432.
+The Part 17 pair contains four synchronized source markers, from the second
+column of logical printed p. 95 through the end of Book II on p. 98 / IA
+leaves-access-PDF pp. 433–436 / OCR objects 432–435.

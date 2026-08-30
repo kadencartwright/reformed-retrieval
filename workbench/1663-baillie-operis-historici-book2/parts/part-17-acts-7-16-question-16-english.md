@@ -1,0 +1,78 @@
+# ROBERT BAILLIE
+
+## HISTORICAL AND CHRONOLOGICAL WORK
+
+### BOOK II
+
+Close working translation from the normalized Latin transcription of the 1668
+Amsterdam edition. The page images of Internet Archive
+`operishistoricie00bail` are the controlling witness; OCR is used only as an
+aid. This part contains the remainder of p. 95 and pp. 96–98, through the end
+of Question XVI and Book II. The editorial work is AI-assisted and has not yet
+been reviewed.
+
+[Logical printed p. 95 | IA leaf 433 | access PDF 433 | OCR object 432]
+
+## QUESTION XVI
+
+### To what times should verse 16 of Acts chapter 7 be referred?
+
+This question appears rather slight to some, and Jerome expressly calls it a little question in his 105th epistle. Yet, as it seems to me, the reverend Father’s expression is entirely ironic. He puts the question to his detractors as though it were slight and leaves it for them to resolve, but he himself—something many complain of—never attempted to resolve it. Chronologists could easily agree about the time of the event if interpreters agreed about the passage’s true meaning. Four points are raised concerning its meaning. First, how Hamor is called the son of Shechem by Stephen, when Moses declares him Shechem’s father. Second, how the burial place at Shechem was bought for a price in silver, when Genesis 33 says that Jacob bought it for a price in lambs. Third, how the patriarchs were carried to Shechem and buried there, when Joseph alone was buried there. Fourth, how Abraham bought that field from Hamor, when Genesis 33 ascribes that purchase from Hamor to Jacob. Sufficiently suitable answers are brought to the first three questions, but in my judgment no answer yet appears to the fourth that would fully satisfy any candid person. It is not for nothing that so many learned men of every party profess this question to be very difficult and almost insoluble. Rivet, a man of the highest judgment, says on Genesis 23, “The difficulty is almost insoluble and has wonderfully tormented the minds of all interpreters.” Lou—
+
+[Marginalia: The statement and difficulty of the question.]
+
+[Logical printed p. 96 | IA leaf 434 | access PDF 434 | OCR object 433]
+
+—is de Dieu calls the passage at Acts 7:16 extremely difficult and of inexplicable difficulty. It is not merely that, as Salmeron says on Acts 4, “there are serious doubts here,” but, as à Lapide says, they are most entangled and difficult. Pererius says on Genesis 23, “The question is exceedingly grave and arduous, and in the judgment of some inextricable; it is surrounded by difficulties on every side, and I do not know which way to turn.”
+
+In any event, one can readily answer the first of the questions: how is Hamor called the son of Shechem by Stephen and Shechem’s father by Moses? The Latin translator of Acts wrongly adds the word *son*, since the authentic Greek has nothing of the kind. It reads Ἐμμὸρ τοῦ Συχὲμ, which, according to the most learned papists, can be supplied as suitably by *father* as by *son*, as Beza correctly proves from both profane and sacred literature. Here, however, *father* must necessarily be supplied, since Moses expressly calls Hamor the father of Shechem.
+
+The Latin reading appears quite ancient, for the Syriac translator, lest by following the Latin translator he contradict Moses, omits the words *son of Shechem* altogether and reads only *from the sons of Hamor*.
+
+The Arabic copy used by Beza and Junius follows the Syriac in this, but the far superior copy which we now have in the polyglot Bibles follows the Latin word for word, as does the Ethiopic translator.
+
+Bede affirms that he saw in a certain Greek copy not Ἐμμὸρ τοῦ Συχὲμ but Ἐμμὸρ ἐν Συχὲμ. It is certainly read this way today in that most excellent manuscript formerly at Alexandria and now in London. This correctly admits Tremellius’s exposition: “from the sons of Hamor, the prince in Shechem,” or “from the Shechemites.” There is no reason to linger over this solution of Bede, since the true exposition of the passage is sufficiently clear to anyone comparing the ordinary Greek texts with the words of Moses in Genesis 33:19. Much less do we wish to linger over another interpretation by the same Bede. To reconcile the Latin translator with Moses, he invented two men named Shechem, so that Hamor is called both the father and the son of Shechem, just as a grandfather and grandson commonly bear the same name.
+
+To defend the authority of the Tridentine Latin version, the Jesuits Salmeron, Pererius, à Lapide, and Lorinus follow Lyranus, who prefers to hold that Hamor had two names and was also called Segor. These claims are empty, are proved by no argument, and do not concern us, since we know that several thousand errors remain in the authoritative Latin texts even after all the corrections of the pontiffs.
+
+Our old English version read “Hamor the son of Shechem,” but the more recent one now reads more correctly “the father of Shechem.”
+
+As for the second question, how was the field at Shechem bought for a price in silver when Jacob bought it for one hundred lambs in Genesis 33:19? Those who understand Stephen to speak of Abraham’s purchase are not constrained here, because it is manifest that Abraham bought the double cave at Hebron with money weighed out. Indeed, they take from this their principal argument for proving that Stephen’s purchase should not be explained of Jacob, who gave no money for his little field but only lambs. Yet the answer is not difficult, for the word קְשִׂיטָה means a coin no less than a lamb. The Old Latin, however, as well as Junius and all the versions commonly used today—the old and new English, Dutch, French, and Italian—translate it as *coins*, perhaps because coins were stamped with the image of a lamb, just as all money once bore the image of an animal; for before coins, merchandise was exchanged for livestock. The word occurs only three times in the Bible: first in Genesis 33:19; second in Joshua 24:11, where the statement is exactly the same as in Genesis; and third in Job 42:11, where the matter itself shows that it should be translated as *coin* rather than *lamb*. Consult not only Buxtorf’s Hebrew dictionary and Pagninus’s *Thesaurus* with Mercerus’s additions, as well as the Chaldean dictionary of the younger Buxtorf, but especially Rabbi David Kimchi’s *Roots* under קְשִׂיטָה. You will find that this word is more correctly translated *coin* than *lamb*, and that Rabbi Akiba—not Rabbi Aquila, as Hammond wrongly writes—discovered on his Arabian journey—not an African one, as the younger Buxtorf has it—that the Arabs, among whom this and many other words are in greater use than among the Hebrews, always use it for a coin and not an animal. From this Arabic usage he proves that it should be interpreted this way in the passage before us.
+
+The third question is more difficult but nevertheless soluble: How were the fathers carried to Shechem and placed in Abraham’s tomb, when Moses says that Joseph alone was carried to Shechem and buried there, and Jacob alone, but none of his sons, was buried in Abraham’s tomb at Hebron? Anyone with the leisure may read Rivet, Pareus, Junius, and Pererius on Genesis 23 and 33 and also on Acts 7; Bede, Calvin, Beza, Gualter, Piscator, Deodati, the English and Dutch annotators, Mentzer, Lyranus, Lorinus, à Lapide, Estius, Salmeron, Louis de Dieu, Grotius, Hammond, and others both papist and Protestant. He will find great variety in their answers to this question. Many hold that not Joseph alone but also the other patriarchs were carried from Egypt and buried at Shechem before Joseph’s bones. Beza, Rivet, Piscator, and others think this probable. The originator of this opinion is Jerome, who in his 101st epistle to Pammachius—
+
+[Marginalia: Was Hamor confused as both Shechem’s son and father?]
+
+[Marginalia: Was the field at Shechem bought with money or with lambs?]
+
+[Logical printed p. 97 | IA leaf 435 | access PDF 435 | OCR object 434]
+
+—affirms this. But Josephus, in *Antiquities*, book 2, chapter 3, holds that all the patriarchs except Joseph were buried at Hebron in the cave of Machpelah. Lorinus and Pererius think that Josephus should be preferred to Jerome here. The patriarchs’ tombs certainly do not appear to have survived to Jerome’s day, for in fewer than two thousand years human bones and all burial niches are dissolved into dust. Indeed, many things which Jerome brings forward in the *Epitaph of Paula* must be understood with a grain of salt. Nevertheless, Lorinus and à Lapide here prefer Jerome to Josephus. Some combine the two, thinking that all the patriarchs were first buried at Shechem with their brother Joseph but were later carried to Hebron by the Shechemites. Louis de Dieu gives as the reason for their removal that the Shechemites, being friends to the Israelites, carried the bones of Jacob’s sons from among themselves to the cave at Hebron. Lorinus deservedly rejects this, because the Shechemites’ hatred for Simeon and Levi—if any Shechemites survived the utter destruction of the city of Shechem—would have prompted them to burn their bones rather than give them any honorable burial. Yet before the close of his discussion Lorinus inclines to the view that the patriarchs were first placed at Shechem and later at Hebron. Even if this were granted, it would not resolve the eyewitness testimony of Paula in Jerome, who professes that she saw the tombs of the twelve patriarchs at Shechem, unless we affirm that they were carried a third time: first from Egypt to Shechem, second from Shechem to Hebron, and third from Hebron to Shechem. These things appear to be ravings and the true fruits of excessive credulity given to unwritten traditions.
+
+Rejecting all these accounts, therefore, let us rest upon the sole foundation of the sacred Scriptures and say that none of the patriarchs who died in Egypt were carried from there except Jacob and Joseph. Thus every dispute about the removal of the others either to Shechem or to Hebron may rightly be neglected as built upon a fabulous tradition. Stephen’s words in the plural, as though more than one person had been buried at Shechem, can readily be explained without correcting the sacred text. The Syriac translator makes such a correction on his own authority and judgment, contrary to all the Fathers, as Tremellius notes, reading in the singular “died,” “was carried,” and “was placed.” He apparently understands all of this about Jacob, as though he had first been carried to Shechem before being buried at Hebron. This correction of the text is rash and wholly unnecessary, and the transfer of this history from Joseph to Jacob does not accord with the truth.
+
+The answer in which we therefore rest is the one which Strabo in his *Ordinary Gloss* as cited by Lyranus brings from Rabanus: namely, that there is a synecdoche of the whole, with the plural for the singular—“they were carried” and “were placed” for “he was carried and placed at Shechem”—as we are taught in Joshua 24:32. Calvin embraces this synecdoche, and Lorinus illustrates it with many examples. In Matthew 26:8, for instance, “the disciples murmured”; this plural is understood of one individual, Judas Iscariot, who alone was indignant at the ointment being poured out, as John 12:11 explains. Then in Matthew 27:44 the robbers are said to have reproached Christ on the cross, but this was true only of the one impenitent robber, as Luke 23:39 explains. On this basis Lorinus, followed here by the English annotators and others, wishes the passage to be explained distributively: the carrying to Shechem refers to Joseph’s bones, and the placing in Abraham’s tomb to Jacob. Rivet and others rightly reject this distribution, however, because Stephen’s words plainly speak of one and the same subject, namely Joseph, who was carried to Shechem and placed there in the tomb. It is true that Jacob’s name is expressed in the preceding verse; nevertheless, this verse must be understood of Joseph, for the history fits him alone. Of all the fathers who died in Egypt, Joseph alone was carried to Shechem and buried there.
+
+The fourth question is by far the most difficult, if not desperately difficult: How did Abraham buy the tomb from the sons of Hamor? Among the papists Masius, Eugubinus, and Lipomannus, and among our writers Calvin, Beza, Piscator, Deodati, Pareus, Mentzer, Gualter, and others think the text was corrupted by scribes and that the name *Abraham* crept in, added by some ignorant copyist, since the name *Jacob*, repeated from the preceding words, correctly agrees with the verb *bought*. If this correction were well founded, it would remove the entire difficulty. But Rivet, Lorinus, Pererius, Salmeron, à Lapide, and others rightly declare that it is a harsh thing to admit an error in the sacred text contrary to the evidence of every copy, both manuscript and printed.
+
+Hammond indeed rejects this correction, yet from his own ingenuity, going even beyond his master Grotius, he boldly produces three or four alterations to innovate this verse. Besides deleting τοῦ Συχὲμ with the Syriac translator—to whom Grotius wrongly joins the Arabic here—and reading *Ephron* for *Hamor*, he also wishes to put *Heth* in place of *Ephron* or *Hamor*, and indeed to write τοῦ υἱοῦ Σεὼρ in place of τῶν υἱῶν Ἐμμὸρ. Nor, in his remarkable itch to violate the sacred text, is he content with this. With his Grotius, following several papists, he wishes Stephen by his words to intend to express both purchases, Abraham’s as well as Jacob’s, which is very far removed from reason.
+
+Louis Cappel, in his collection on Acts 7:16, proceeds by no bet—
+
+[Marginalia: How did Abram buy the tomb from Hamor?]
+
+[Marginalia: It is harsh to correct the original text.]
+
+[Marginalia: Hammond’s insolent itch to innovate.]
+
+[Marginalia: Cappel’s also.]
+
+[Logical printed p. 98 | IA leaf 436 | access PDF 436 | OCR object 435]
+
+—ter path. In keeping with his custom of correcting the sacred text, he wishes ὁ Ἀβραὰμ ἔκγονος, “the descendant of Abraham,” to be read in place of *Abraham*, meaning Jacob, Abraham’s grandson. Or, if this invention of his is not admitted, he affirms it certain that Stephen, by a lapse of memory, confused Abraham’s and Jacob’s two purchases into one. It is lamentable that a professor in a Reformed church so frequently casts these stains upon sacred Scripture on the basis of the most irrational conjectures of his own ingenuity, conjectures which the Jesuits themselves reject as bordering upon blasphemy.
+
+Others admit no change in the text and explain the word *Abraham* in various ways. Since there is no article in the Greek, Louis de Dieu reads it in the dative case, as though Jacob had bought the aforementioned field at Shechem for Abraham, the father of the Israelites. Vatablus and Robert Estienne put it in the genitive and understand *son* or *grandson*. Or rather, like Rivet, they make the name patronymic—*Abraham* for *Abrahamides*—and Salmeron and à Lapide bring forward various examples of this sort of expression from sacred as well as profane literature: “my servant Israel” for Christ; likewise, *David* frequently for Christ, *David* also for Rehoboam, and *Rehoboam* for Abijah; *Tros* for *Trojan*, and *Dardanus* for Aeneas. This answer preserves the words of the text and appears the most suitable of all those presented. Yet it is so subtle and remote that, when it comes to wholeheartedly adding my vote to this one, I would rather await a better answer.
+
+[Marginalia: Abraham for Abrahamides.]
+
+[End of Question XVI and of Book II. The following page opens “A PROOEMIAL DIATRIBE,” which is excluded from this part.]

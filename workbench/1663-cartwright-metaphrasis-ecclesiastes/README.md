@@ -2071,3 +2071,24 @@ reference, the edition’s repeated misnumbering, and the source’s irregular
 This unit is bounded by the exact repeated verse-2 lemma rather than by an
 arbitrary image count. The next unit begins on reader image `PA309` / printed
 p. 309 at `Vers. 2. Ne perturbate à facie ejus abito`.
+
+**Part 95 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the complete adjacent homiletic expositions of Ecclesiastes 8:2–3 on
+reader images `PA309` and `PA311`. It begins on printed p. 309 at the repeated
+`Vers. 2. Ne perturbate à facie ejus abito` lemma, crosses the printed-page
+join after `quae`, crosses the image join within the divided `corpo- / reis`,
+and ends on printed p. 311 immediately before the shared repeated lemma block
+for verses 4–7. The paired files have two exactly identical reader-image
+markers and retain the comparison between royal power and divine omnipotence,
+the examples of Nebuchadnezzar and the long reach of kings, every printed
+biblical reference, the Greek `ἀνυπεύθυνοι` and `ἀνυπεύθυνον`, and the source’s
+irregular `metuere vobis` construction:
+
+- `parts/part-95-homiliae-chapter-08-verses-02-03-latin.txt`
+- `parts/part-95-homiliae-chapter-08-verses-02-03-english.md`
+
+This unit combines two complete adjacent expositions because verse 2 is brief
+and verse 3 ends at the stronger authorial boundary formed by the shared
+verse-4–7 lemma block. The next unit begins on reader image `PA311` / printed
+p. 311 at `Vers. 4. Qui observat praeceptum`, followed by the lemmata for
+verses 5–7.

@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–37.
+checked page by page against canvases 9–38.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -107,6 +107,12 @@ made here for the Latin transcription, witness images, or metadata.
   prevention and Twisse's reply on physical motion, efficacious grace,
   persuasion, divine foreknowledge, futurition, and Stoic fate; it ends on p.
   29 immediately before `SECTIO DECIMA NOTIO VIII`.
+- BSB canvases 37–38: Part 13 contains the complete `SECTIO DECIMA NOTIO VIII`,
+  from Perkins's proposition that God's will is known from events through
+  Arminius's distinction between divine action and permission and Twisse's
+  reply on divine willing, sinful acts, efficacious grace, permission, and
+  creaturely freedom; it ends on p. 30 immediately before `SECTIO UNDECIMA
+  NOTIO IX`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -115,7 +121,7 @@ made here for the Latin transcription, witness images, or metadata.
 The preliminary and body boundaries above were inspected in the continuous
 canvas sequence. Part 01 has seventeen synchronized printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–37. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–38. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -302,7 +308,23 @@ references to Arminius and Corvinus are retained.
 - Latin: `parts/part-12-preface-section-09-notion-07-prevention-of-evil-latin.txt`
 - English: `parts/part-12-preface-section-09-notion-07-prevention-of-evil-english.md`
 
-The next untranslated unit begins with the centered `SECTIO DECIMA NOTIO
-VIII` on printed p. 29 / BSB canvas 37 and Perkins's proposition `Voluntatem
-Dei non tantùm è verbo scripto, vel revelatione, sed ex eventu etiam cognosci.
-Nam quod evenit, ideo evenit, quia Deus voluit evenire`.
+**Part 13 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO DECIMA NOTIO VIII`,
+beginning on shared printed p. 29 / BSB canvas 37 with Perkins's proposition
+`Voluntatem Dei non tantùm è verbo scripto, vel revelatione, sed ex eventu
+etiam cognosci. Nam quod evenit, ideo evenit, quia Deus voluit evenire`. It
+preserves Arminius's distinction between divine action and permission and
+Twisse's complete reply on God's willing of events, sinful acts and their
+disorders, efficacious grace, permission, and the compatibility of divine
+willing with creaturely freedom. It continues through printed p. 30 / canvas
+38 and ends immediately before the centered `SECTIO UNDECIMA NOTIO IX`. The
+pair has two identical source markers; no word crosses the p. 29–30 boundary,
+and the substantive marginal reference `Pag. 162.` is retained.
+
+- Latin: `parts/part-13-preface-section-10-notion-08-divine-will-and-events-latin.txt`
+- English: `parts/part-13-preface-section-10-notion-08-divine-will-and-events-english.md`
+
+The next untranslated unit begins with the centered `SECTIO UNDECIMA NOTIO
+IX` on printed p. 31 / BSB canvas 39 and Perkins's proposition `Hominem non
+facere bonum, etiam quod ex gratia facere possit, nisi Deus in illo efficiat
+ut faciat: Sicut efficit, ut possit facere si velit`.

@@ -44,8 +44,10 @@ recorded separately rather than silently replacing the earlier evidence. All
 four derivatives were acquired again for Parts 14–16 on 29 August 2026. They
 were freshly acquired once more for Parts 17–18 on 30 August 2026 and were
 byte-identical to this most recently recorded set. The current access PDF was
-freshly acquired again for Parts 19–21 on 30 August 2026 and remains
-byte-identical to that set:
+freshly acquired again for Parts 19–21 on 30 August 2026 and remained
+byte-identical to that set. The access PDF, plain OCR, and scan-data XML were
+freshly acquired again for Parts 22–24 on 30 August 2026 and remain
+byte-identical to the recorded derivatives:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -88,7 +90,7 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the end of Chapter XIV on printed p. 195. Shared-page
+printed p. 1 through the lower part of Chapter XV on printed p. 202. Shared-page
 boundaries preserve each new argumentative unit in the following part rather
 than duplicating it.
 
@@ -115,6 +117,9 @@ than duplicating it.
 | 19 | Chapter XIV continuation; indifference and the force of divine command | shared printed p. 184 through the upper part of shared p. 187 / IA leaves 202–205 / PDF pp. 202–205; stops before `Novi adversarium nostrum hanc rejicere distinctionem` | 4 |
 | 20 | Chapter XIV continuation; broad and proper morality | shared printed p. 187 through the lower part of shared p. 190 / IA leaves 205–208 / PDF pp. 205–208; stops before `Ex dictis nunc liquet` | 4 |
 | 21 | Chapter XIV conclusion; positive determination does not remove morality | lower part of shared printed p. 190 through p. 195 / IA leaves 208–213 / PDF pp. 208–213; stops before `CAP. XV.` on p. 196 | 6 |
+| 22 | Chapter XV opening; positive and moral precepts | printed p. 196 through the lower part of shared p. 198 / IA leaves 214–216 / PDF pp. 214–216; stops before `Audiamus primùm rationes` | 3 |
+| 23 | Chapter XV continuation; Burmann's first two objections | lower part of shared printed p. 198 through the upper part of shared p. 200 / IA leaves 216–218 / PDF pp. 216–218; stops before `Pergit Pag. 10. § 13.` | 3 |
+| 24 | Chapter XV continuation; universality, perpetuity, and revelation | upper part of shared printed p. 200 through the lower part of shared p. 202 / IA leaves 218–220 / PDF pp. 218–220; stops before `Quid porrò? Si quicquam enim` | 3 |
 
 The files are:
 
@@ -139,8 +144,11 @@ The files are:
 - `parts/part-19-book-01-chapter-14c-indifference-and-command-{latin.txt,english.md}`
 - `parts/part-20-book-01-chapter-14d-broad-and-proper-morality-{latin.txt,english.md}`
 - `parts/part-21-book-01-chapter-14e-positive-determination-and-morality-{latin.txt,english.md}`
+- `parts/part-22-book-01-chapter-15a-positive-moral-precepts-{latin.txt,english.md}`
+- `parts/part-23-book-01-chapter-15b-burmann-first-objections-{latin.txt,english.md}`
+- `parts/part-24-book-01-chapter-15c-universality-revelation-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–21 image audits
+### Part 04 re-audit and Parts 05–24 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -598,6 +606,73 @@ with its title and opening on printed p. 196 are excluded. The next
 untranslated text is therefore `CAP. XV. An positivum aliquod praeceptum dici
 possit morale? Examinatur doctrina, eâ de re, D. Burmanni.` on printed p. 196 /
 IA leaf 214 / PDF p. 214.
+
+Part 22 is a coherent, image-audited opening unit of Chapter XV. It states the
+question whether a positive precept can be called moral, reviews distinctions
+between natural, moral, and positive law, and examines the consistency of
+Burmann's definitions. Every controlling image from the Chapter XV heading on
+PDF 214 through the lower part of PDF 216 was read directly, including both
+internal joins; the remainder of PDF 216 was also inspected to verify the
+outgoing stop. OCR was used only as a collation aid. The Latin and English
+contain the identical three-marker sequence.
+
+The terminal errata leaf assigns no particular correction to the included
+text on printed pp. 196–198. Its general warning about Greek and Hebrew type is
+disclosed in both file headers, though no Greek, Hebrew, or separate
+substantive marginal gloss occurs. The printer-divided word `praeceptum` at
+the p. 196/197 join is joined with the new marker before the complete Latin
+word and corresponding English phrase. The catchword `morale` at the p. 197
+foot is omitted and placed only after the following marker. All headings,
+quotations, citations, and substantive italic distinctions are retained. The
+exact Part 22 opening is `CAP. XV. An positivum aliquod praeceptum dici possit
+morale?` Its final included words are `...nam sic loquitur §. 11. ut
+videbimus.` The following paragraph is excluded. At this handoff the next
+untranslated text was `Audiamus primùm rationes` on shared printed p. 198 / IA
+leaf 216 / PDF p. 216.
+
+Part 23 is a coherent, image-audited continuation of Chapter XV containing
+Burmann's first two objections and Brown's complete replies. Every controlling
+image from `Audiamus primùm rationes` on PDF 216 through the upper part of PDF
+218 was read directly, including both internal joins; the remainder of PDF 218
+was also inspected to verify the outgoing stop. OCR was used only as a
+collation aid. The Latin and English contain the identical three-marker
+sequence.
+
+The p. 200 erratum `probavit` falls after the Part 23 stop and is not applied
+there. The errata leaf's general warning about Greek and Hebrew type is
+disclosed in both file headers; the page image governs `δικαιωμάτων σαρκός`.
+No Hebrew or separate substantive marginal gloss occurs. The printer-divided
+words `transformatur` and `Amor` at the p. 198/199 and p. 199/200 joins are
+joined with the new marker before the complete Latin word and corresponding
+English phrase. All quotations, numbered replies, citations, and substantive
+italic distinctions are retained. The exact Part 23 opening is `Audiamus
+primùm rationes.` Its final included words are `...posse dici ullâ ratione
+moralem.` The following paragraph is excluded. At this handoff the next
+untranslated text was `Pergit Pag. 10. § 13.` on shared printed p. 200 / IA leaf
+218 / PDF p. 218.
+
+Part 24 is a coherent, image-audited continuation of Chapter XV containing
+Burmann's argument from the universality and perpetuity of a positive law and
+Brown's complete five-part reply to the asserted `μέγα λίαν αἴτημα`. Every
+controlling image from `Pergit Pag. 10. § 13.` on PDF 218 through the lower
+part of PDF 220 was read directly, including both internal joins; the remainder
+of PDF 220 was also inspected to verify the outgoing stop. OCR was used only as
+a collation aid. The Latin and English contain the identical three-marker
+sequence.
+
+The terminal erratum `probavit` (p. 200, line 39) is incorporated and disclosed
+in both file headers. The errata leaf's general warning about Greek and Hebrew
+type is retained there as well; the page images govern `μέγα λίαν αἴτημα` and
+`αἴτημα`. No Hebrew or separate substantive marginal gloss occurs. The
+catchword `hominibus` at the p. 200 foot is omitted and placed only after the
+following marker. The printer-divided word `concedat` at the p. 201/202 join is
+joined with the new marker before the complete Latin word and corresponding
+English phrase. All quotations, numbered replies, citations, and substantive
+italic distinctions are retained. The exact Part 24 opening is `Pergit Pag.
+10. § 13.` Its final included words are `...sed & actù praescripsisse.` The
+following paragraph is excluded. The next untranslated text is therefore
+`Quid porrò? Si quicquam enim` on shared printed p. 202 / IA leaf 220 / PDF p.
+220.
 
 ## Review and licensing status
 

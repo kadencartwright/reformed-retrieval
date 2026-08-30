@@ -17,7 +17,7 @@ inventory.
 
 ## Edition decision and explicit collation caveat
 
-Parts 01–13 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
+Parts 01–14 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
 Parkeri De politeia ecclesiastica libri duo* (1638), digitized as
 [`bsb10507786`](https://www.digitale-sammlungen.de/en/view/bsb10507786). Its
 [IIIF manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10507786/manifest)
@@ -39,7 +39,7 @@ is a duplicate, revision, continuation, or replacement of 1616. Every later
 unit requires renewed collation, and the two-book 1638 witness cannot control
 the third book unique to the 1616 publication.
 
-Parts 02–13 continue under the provisional 1638 control decision but have not
+Parts 02–14 continue under the provisional 1638 control decision but have not
 been represented as a renewed full collation against 1616. Their wording must
 therefore not be used to infer agreement between the editions. The current work
 remains within Book I, which is present in the 1638 witness.
@@ -75,7 +75,7 @@ canvases 24–27 repeat the textual leaves represented by canvases 22–23 and
 28–29. They are excluded; no authorial text is omitted. Source markers use
 the retained canvas sequence and are identical in the paired files.
 
-## Parts 02–13: continuation map and current boundary
+## Parts 02–14: continuation map and current boundary
 
 The continuation is strictly chapter-defined. Part 02 begins with chapter 8 on
 the lower portion of printed page 21 and completes chapter 13 before chapter 14
@@ -104,7 +104,9 @@ completes chapter 37 on the upper portion of printed page 125. Chapter 38,
 which begins on the lower portion of that shared page, is excluded. Part 13
 resumes with that chapter 38 heading, completes chapter 38 on the upper portion
 of printed page 127, and ends immediately before chapter 39 on the lower
-portion of the same page.
+portion of the same page. Part 14 resumes with that chapter 39 heading,
+completes chapter 39 on the upper portion of printed page 136, and ends
+immediately before chapter 40 on the lower portion of that shared page.
 
 | Part | Coherent unit | Printed pages | Endpoint |
 | --- | --- | ---: | --- |
@@ -120,6 +122,7 @@ portion of the same page.
 | 11 | Book I, chapter 36 | 113 (lower)–116 | End of the third corollary drawn from reformed discipline |
 | 12 | Book I, chapter 37 | 117–125 (upper) | End of the fourth corollary drawn from reformed discipline |
 | 13 | Book I, chapter 38 | 125 (lower)–127 (upper) | End of the answer to the three general stains alleged against the suffering ministers |
+| 14 | Book I, chapter 39 | 127 (lower)–136 (upper) | End of the fifth corollary requiring brothers not to be silent in the cause of discipline |
 
 Part 04 treats the second and third alleged delays to reform, identifies
 self-satisfaction as the third delay, and develops Parker's first two defects
@@ -222,6 +225,20 @@ witness; it has not been silently changed, although chapter 39 is headed
 and is excluded. Both paired files retain the shared-page source marker and
 stop immediately before its heading.
 
+Part 14 resumes with the exact printed heading
+`CAP. 39. Porisma quintum, fratribus non esse silendum in causa disciplinae,
+etsi Episcopi ea conditione conniverent.` Chapter 39 addresses ministers who
+secure episcopal toleration by promising silence about reformed discipline.
+Parker first questions the lawfulness and spiritual dangers of that bargain,
+then argues from gratitude, the integrity of the Gospel, fidelity, resistance
+to episcopal stratagems, love for the Church, ecclesiastical liberty, and
+solidarity with fellow ministers in conflict. The opening prose visibly begins
+`QUARTUM`, continuing an argument sequence from the preceding context; later
+the chapter visibly repeats `Quinto` and prints `5. Sexto`, all of which are
+preserved rather than silently renumbered. Chapter 40 begins on the lower
+portion of printed page 136 and is excluded. Both paired files retain the
+shared-page source marker and stop immediately before its heading.
+
 ## Editorial method and apparatus
 
 Latin long *s*, ligatures, line-end divisions, and typographic `u/v` are
@@ -267,3 +284,5 @@ translated or explained but not promoted into Parker's prose.
 - `parts/part-12-book-01-chapter-37-english.md`
 - `parts/part-13-book-01-chapter-38-latin.txt`
 - `parts/part-13-book-01-chapter-38-english.md`
+- `parts/part-14-book-01-chapter-39-latin.txt`
+- `parts/part-14-book-01-chapter-39-english.md`

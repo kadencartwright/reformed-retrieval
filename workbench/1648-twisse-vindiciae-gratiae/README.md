@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–38.
+checked page by page against canvases 9–39.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -113,15 +113,22 @@ made here for the Latin transcription, witness images, or metadata.
   reply on divine willing, sinful acts, efficacious grace, permission, and
   creaturely freedom; it ends on p. 30 immediately before `SECTIO UNDECIMA
   NOTIO IX`.
+- BSB canvas 39, upper portion: Part 14 contains the complete `SECTIO UNDECIMA
+  NOTIO IX`, from Perkins's proposition that a human being does no good unless
+  God effects the doing through Arminius's qualification and Twisse's
+  four-part reply on power, willing, divine concurrence, and Adam's voluntary
+  turning away; it ends on p. 31 immediately before `SECTIO DUODECIMA NOTIO
+  X`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
 - BSB canvases 809–816: terminal index and binding matter.
 
 The preliminary and body boundaries above were inspected in the continuous
-canvas sequence. Part 01 has seventeen synchronized printed-page markers,
+canvas sequence through canvas 39. Part 01 has seventeen synchronized
+printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–38. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–39. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -324,7 +331,23 @@ and the substantive marginal reference `Pag. 162.` is retained.
 - Latin: `parts/part-13-preface-section-10-notion-08-divine-will-and-events-latin.txt`
 - English: `parts/part-13-preface-section-10-notion-08-divine-will-and-events-english.md`
 
-The next untranslated unit begins with the centered `SECTIO UNDECIMA NOTIO
-IX` on printed p. 31 / BSB canvas 39 and Perkins's proposition `Hominem non
-facere bonum, etiam quod ex gratia facere possit, nisi Deus in illo efficiat
-ut faciat: Sicut efficit, ut possit facere si velit`.
+**Part 14 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO UNDECIMA NOTIO IX` in the
+upper portion of printed p. 31 / BSB canvas 39, beginning with Perkins's
+proposition `Hominem non facere bonum, etiam quod ex gratia facere possit,
+nisi Deus in illo efficiat ut faciat: Sicut efficit, ut possit facere si
+velit`. It preserves Arminius's qualification and Twisse's complete four-part
+reply on the relation between power and act, the maxim *habenti dabitur*,
+divine concurrence, and Adam's voluntary turning away. It ends immediately
+before the centered `SECTIO DUODECIMA NOTIO X`. The pair has one identical
+source marker; no page-boundary join or substantive marginal reference occurs,
+the printed response numbering is retained, and the witness forms
+`accurratae` and `Ad eo` are not silently emended.
+
+- Latin: `parts/part-14-preface-section-11-notion-09-doing-good-and-divine-concurrence-latin.txt`
+- English: `parts/part-14-preface-section-11-notion-09-doing-good-and-divine-concurrence-english.md`
+
+The next untranslated unit begins with the centered `SECTIO DUODECIMA NOTIO
+X` in the lower portion of printed p. 31 / BSB canvas 39 and Perkins's
+proposition `Non partem sed totam mundi gubernationem & justitiae executionem
+Deo autori tribuendam`.

@@ -58,8 +58,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
   between a bishop and a presbyter, printed pp. 86–99.
 - IA scans `n316`–`n323`: Part 16, Book III, Chapter V, on clerical celibacy,
   printed pp. 99–106.
-- The next unit begins at the excluded `DE DIGAMIA.` heading on printed p. 106
-  / IA scan `n323`.
+- IA scans `n323`–`n325`: Part 17, the complete appended `DE DIGAMIA` question
+  of Book III, Chapter V, printed pp. 106–108.
+- The next unit begins at the excluded `CAP. VI. De Exemptione Clericorum a
+  jugo potestatis secularis.` heading on printed p. 108 / IA scan `n325`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -384,5 +386,28 @@ shared page are excluded.
   to the first two points respectively to 1 Corinthians 7:29 and Ecclesiastes
   4:8.
 
-The next unit begins at the excluded `DE DIGAMIA.` heading on printed p. 106 /
-IA scan `n323`.
+**Part 17 is complete as an AI-assisted working draft.** It concludes Book III,
+Chapter V with the complete appended question `DE DIGAMIA`, on whether a man
+who married again after his first wife's death may be admitted to holy orders.
+It begins at that unnumbered heading on the lower portion of printed p. 106 /
+IA scan `n323` and ends with the final reply to point 26 on the upper portion
+of printed p. 108 / IA scan `n325`. The Chapter VI heading and text that follow
+on that shared page are excluded.
+
+- `parts/part-17-book-03-chapter-05-digamy-latin.txt`
+- `parts/part-17-book-03-chapter-05-digamy-english.md`
+- Both files contain three synchronized source markers for printed pp. 106–108
+  / IA scans `n323`–`n325`.
+- The witness prints no new chapter number at `DE DIGAMIA`; its argument
+  numbering continues directly from the celibacy question with points 23–26.
+- The sole Greek term, `χαρίσματα`, is retained in normalized Unicode in both
+  files. No distinct authorial marginalia appear in this unit.
+- The p. 106/107 turn falls within point 23 between `alia tamen est ratio` and
+  `cap. 3,2`; the p. 107/108 turn falls within point 26 before Bellarmine's
+  second reply. The page markers occupy the exact corresponding positions in
+  both files.
+- The witness's unexplained `v. 1.` in Bellarmine's third reply is retained
+  unexpanded in both files.
+
+The next unit begins at the excluded `CAP. VI. De Exemptione Clericorum a jugo
+potestatis secularis.` heading on printed p. 108 / IA scan `n325`.

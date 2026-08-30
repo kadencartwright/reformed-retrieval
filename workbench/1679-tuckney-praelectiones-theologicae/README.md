@@ -1196,6 +1196,23 @@ appeal to contrary forms, beginning `At regerit Bellarminus`, is excluded.
 - English: `parts/part-70-romans-04-05-abraham-46-english.md`
 - Extent: two synchronized markers, printed pp. 293–294 / IA leaves 301–302
 
+## Part 71: forty-seventh unit of the Romans 4:5 lecture
+
+Part 71 completes Tuckney's answer to Bellarmine's fourth argument. Against
+the claim that imputed righteousness and inherent unrighteousness are
+contrary forms, Tuckney distinguishes their genera, two senses of “absolute,”
+and the believer's twofold state of justification and sanctification. Five
+responses develop Bellarmine's Ethiopian illustration, divine imputation as
+an effectual gift rather than an imaginary judgment, and the believer's true
+designation as righteous. It runs from `At regerit Bellarminus` on printed p.
+294 / IA leaf 302 through the formal close of the fourth argument on printed
+p. 296 / IA leaf 304. Bellarmine's fifth and seventh arguments, beginning
+`Quintum ejus argumentum`, are excluded.
+
+- Latin: `parts/part-71-romans-04-05-abraham-47-latin.txt`
+- English: `parts/part-71-romans-04-05-abraham-47-english.md`
+- Extent: three synchronized markers, printed pp. 294–296 / IA leaves 302–304
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -574,6 +574,27 @@ divided across page boundaries were joined and placed wholly after the later
 synchronized marker, and all included printed marginalia are retained. The
 pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 30 boundary and status
+
+Part 30 is a synchronized Latin/English working pair with exactly five markers:
+partial printed pp. 203 and 207 and complete pp. 204–206, IA leaves 233–237,
+access-PDF pp. 233–237, and DjVu OCR objects 232–236. It begins in the left
+column of printed p. 203 immediately after Part 29 with `CAPUT XI. Res gestas
+continens Epochae sextae ab Alexandri Magni morte ad Aristobuli in Judaeâ
+Regnum.` It contains the opening of Chapter XI through Alexander’s succession,
+the Lamian War, Alexander’s burial, and the complete rise-and-fall narrative
+of Perdiccas. It ends in the left column of printed p. 207 after Ptolemy
+declines care of the kings and the supreme military command and has `istud
+onus & honor` assigned to Python.
+
+The next paragraph, `Eurydice, Aridei Regis uxor, ex Cyna Alexandri sorore
+nata ...`, begins immediately below and is wholly excluded. All five
+controlling 300-dpi images, `pdf-233.jpg` through `pdf-237.jpg`, governed the
+transcription; OCR served only as an aid. Page-spanning words were joined and
+placed wholly after the later synchronized marker, and the Greek strings and
+all included printed marginalia are retained. The pair remains an AI-assisted,
+unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -648,6 +669,8 @@ have not been modernized or endorsed.
 - `parts/part-28-book-01-chapter-10-question-20-english.md`
 - `parts/part-29-book-01-chapter-10-question-21-latin.txt`
 - `parts/part-29-book-01-chapter-10-question-21-english.md`
+- `parts/part-30-book-01-chapter-11a-alexanders-succession-latin.txt`
+- `parts/part-30-book-01-chapter-11a-alexanders-succession-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -655,8 +678,9 @@ above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
-21, two for Part 22, five for Part 23, six for Part 24, three for Part 25, and
-three each for Parts 26 and 27, two for Part 28, and ten for Part 29. There are
-fifty-eight current files in twenty-nine Latin/English pairs, containing 229
-synchronized source markers per language (458 marker occurrences across all
-fifty-eight files). The files remain AI-assisted and unreviewed.
+21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
+three each for Parts 26 and 27, two for Part 28, ten for Part 29, and five for
+Part 30. There are sixty current files in thirty Latin/English pairs,
+containing 234 synchronized source markers per language (468 marker
+occurrences across all sixty files). The files remain AI-assisted and
+unreviewed.

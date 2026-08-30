@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question X
+  Christi Mediatorio*, begun through Question XI
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–67 are complete as AI-assisted working drafts.**
+**Parts 01–68 are complete as AI-assisted working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–X,
-from printed p. 3 / PDF 31 through section XXIX of Question X on printed p.
-375 / PDF 403. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–XI,
+from printed p. 3 / PDF 31 through section XXXII of Question XI on printed p.
+385 / PDF 413. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,419 numbered
-sections across 364 unique numbered text pages and 421 source markers in each
-language (415 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 201,341 whitespace-delimited
-words and the complete English files 273,996, counted over Parts 01–67 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,451 numbered
+sections across 374 unique numbered text pages and 432 source markers in each
+language (426 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 206,887 whitespace-delimited
+words and the complete English files 280,950, counted over Parts 01–68 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -125,6 +125,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 65 | Locus XIV, Question VIII | printed pp. 355–358 / PDFs 383–386 | XI | 4 | `part-65-locus-14-question-08-{latin.txt,english.md}` |
 | 66 | Locus XIV, Question IX | printed pp. 358–367 / PDFs 386–395 | XXXII | 10 | `part-66-locus-14-question-09-{latin.txt,english.md}` |
 | 67 | Locus XIV, Question X | printed pp. 368–375 / PDFs 396–403 | XXIX | 8 | `part-67-locus-14-question-10-{latin.txt,english.md}` |
+| 68 | Locus XIV, Question XI | printed pp. 375–385 / PDFs 403–413 | XXXII | 11 | `part-68-locus-14-question-11-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1171,9 +1172,42 @@ XXVI between `sed etiam` and `ipsa persona`. The OCR excerpt was used only as
 an aid. The Question XI heading and body later on printed p. 375 / PDF 403 are
 excluded.
 
-Part 67's exact next restart is `QUAESTIO XI. DE VERITATE SATISFACTIONIS. An
-vere et proprie Christus loco nostro Justitiæ Dei satisfecerit? Affirm. contra
-Socin.` on printed p. 375 / PDF 403.
+Question XI of Locus XIV argues against the Socinians that Christ truly and
+properly satisfied divine justice in our place. It distinguishes penal,
+vicarious satisfaction from merely metaphorical satisfaction and from the
+benefits and example of Christ's death; then proves the doctrine from
+redemption, substitutionary death, the bearing of sins, sacrifice,
+reconciliation, the nature of Christ's death, and the divine attributes. It
+answers objections concerning biblical terminology, grace and remission,
+Christ's satisfaction to God, the duration and value of his death, its
+sufficiency for all the elect, Ezekiel 18, and holiness, in thirty-two
+sections. It begins at the Question XI heading below section XXIX of Part 67 on
+printed p. 375 / PDF 403 and ends with section XXXII on printed p. 385 / PDF
+413 immediately before Question XII. The Latin and English files contain 5,546
+and 6,954 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all eleven printed-page markers in the same
+sequence and retain all nine substantive marginal headings, citations, Hebrew,
+and Greek. The printed pp. 375/376 join falls within section III between `per`
+and `pretii`. At the pp. 376/377 join, the printer-divided `no-/tat` is
+normalized as `notat`, with the incoming marker placed before the complete
+word in both files. The pp. 377/378 join falls within section X between
+`castigatio pacis nostræ` and `super eum`; the pp. 378/379 join falls within
+section XI between `inde legitime` and `potest inferri`. At the pp. 379/380
+join, the printer-divided `pecca-/toris` is normalized as `peccatoris`, with
+the incoming marker placed before the complete word. The pp. 380/381 join
+falls within section XVII between `in anniversario Sacrificio die` and
+`expiationum`; the pp. 381/382 join falls within section XX between
+`reconciliationem istam referre` and `ad homines`. The pp. 382/383 join falls
+within section XXII between `Lex exigat κατὰ` and `ἀκριβοδίκαιον`; the pp.
+383/384 join falls within section XXVII between `Non absurdum est` and
+`autem`; and the pp. 384/385 join falls within section XXX between `unicam
+mortem Christi` and `suffecisse`. The OCR excerpt was used only as an aid. The
+Question XII heading and body later on printed p. 385 / PDF 413 are excluded.
+
+Part 68's exact next restart is `QUAESTIO XII. DE PERFECTIONE SATISFACTIONIS.
+An ita perfecta fuerit Christi satisfactio, ut nullus post eam, vel
+Satisfactionibus humanis in hac vita, vel Purgatorio post hanc vitam, locus
+esse possit? Affirm. contra Pontificios.` on printed p. 385 / PDF 413.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

@@ -1531,3 +1531,32 @@ that page and is excluded.
 The next restart point is `QUÆSTIO XXII. Cur Sacra Cœna a Domino sit
 instituta, et quibus partibus constet?` on shared printed p. 365 / IA leaf 399
 / PDF p. 399.
+
+## Part 56
+
+Part 56 contains the complete Locus XIX, Question XXII, “Cur Sacra Cœna a
+Domino sit instituta, et quibus partibus constet?” It begins with the question
+heading on shared printed p. 365 / IA leaf 399 / PDF p. 399, immediately after
+Question XXI, and ends with section XVI on shared printed p. 372 / IA leaf 406
+/ PDF p. 406. Question XXIII, “De Consecratione,” begins below it on that page
+and is excluded.
+
+- Latin: `parts/part-56-locus-19-question-22-latin.txt`
+- English: `parts/part-56-locus-19-question-22-english.md`
+- Both files contain eight synchronized source-page markers, the complete
+  section sequence I–XVI, and sixteen synchronized marginalia blocks.
+- The scan verification covered all eight page images and all seven page
+  joins. The pp. 366–367 and 369–370 joins divide `duplex` and `Accipiendi`;
+  each complete Latin word and its English counterpart is placed after the
+  new-page marker. The other five joins divide no word.
+- The transcription retains every printed Greek expression and the witness’s
+  abbreviations, spelling, capitalization, punctuation, and citations.
+  `[sic]` identifies `1 Cor. ii. 26`, `aptissme`, `sustendanda`, `Luc. xxii.
+  29`, and `iu usu`; the anomalously spaced `ta min Judæa` is also retained.
+  The English translates the evident sense without silently altering the two
+  citations.
+
+The next restart point is `QUÆSTIO XXIII. DE CONSECRATIONE. An in Eucharistia
+consecratio fiat pronuntiatione verborum, “hoc est enim corpus meum?” Et an
+secrete pronuntianda sint? Neg. cont. Pontifi.` on shared printed p. 372 / IA
+leaf 406 / PDF p. 406.

@@ -225,6 +225,23 @@ PDF-IA leaf 424 / OCR object 423 at `quae nos jam refutavimus.`
 The next excluded heading is `QUAESTIO XIV. De hora Passionis Christi.` The
 boundary is question-complete and includes no body text from Question XIV.
 
+## Part 15 boundary
+
+Part 15 resumes with the excluded Question XIV heading near the top of printed
+p. 86 / PDF-IA leaf 424 / OCR object 423. It surveys five proposed
+reconciliations of the third and sixth hours in the Passion narratives,
+rejecting Augustine’s two solutions, conjectural changes to Mark or John,
+Piscator’s Roman-hour calculation, and Heinsius’s attempt to refer Mark’s third
+hour to the division of the garments. It defends the common interpretation by
+the Jewish division of day and night into three-hour quarters and answers two
+principal objections. It ends with Question XIV within printed p. 90 /
+PDF-IA leaf 428 / OCR object 427 at `istas Pseudoareopagitae liberas naenias,
+quarum ipsos Pontificios pudet, approbare.`
+
+The next excluded heading is `QUAESTIO XV. De numero Paschatum a Baptismo ad
+mortem Christi.` The boundary is question-complete and includes no body text
+from Question XV.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -272,6 +289,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-13-second-first-sabbath-question-12-english.md`
 - `parts/part-14-last-passover-question-13-latin.txt`
 - `parts/part-14-last-passover-question-13-english.md`
+- `parts/part-15-hour-of-passion-question-14-latin.txt`
+- `parts/part-15-hour-of-passion-question-14-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -313,3 +332,6 @@ leaves-access-PDF pp. 412–417 / OCR objects 411–416.
 The Part 14 pair contains eight synchronized source markers, from the remainder
 of logical printed p. 79 through the opening of p. 86 / IA
 leaves-access-PDF pp. 417–424 / OCR objects 416–423.
+The Part 15 pair contains five synchronized source markers, from the remainder
+of logical printed p. 86 through the first column of p. 90 / IA
+leaves-access-PDF pp. 424–428 / OCR objects 423–427.

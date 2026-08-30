@@ -1650,6 +1650,25 @@ beginning `Argumentum tertium ex iis locis desumptum est`, is excluded.
 - English: `parts/part-102-determinatio-de-sacrificio-christi-02-english.md`
 - Extent: three synchronized markers, new-series fols. 47–49 / IA leaves 367–369
 
+## Part 103: third unit of the 1652 determination on Christ’s sacrifice
+
+Part 103 presents the third scriptural argument for the prior thesis, drawn
+from the biblical language of redemption, purchase, ransom, and price. Tuckney
+answers Socinus's claim that Christian redemption is only an improper name for
+simple deliverance, distinguishing the enemies and evils from which believers
+are freed from God the Lord and Judge to whom the price is paid. He then uses
+the Hebrew and Greek redemption vocabulary and the explicit New Testament
+references to Christ's blood as a price to establish redemption properly so
+called. It runs from `Argumentum tertium ex iis locis desumptum est` on
+new-series fol. 49 / IA leaf 369 through the conclusion that Christ’s death was
+a properly expiatory sacrifice on new-series fol. 50 / IA leaf 370. The fourth
+argument, beginning `Ultimum argumentorum agmen claudunt loca illa`, is
+excluded.
+
+- Latin: `parts/part-103-determinatio-de-sacrificio-christi-03-latin.txt`
+- English: `parts/part-103-determinatio-de-sacrificio-christi-03-english.md`
+- Extent: two synchronized markers, new-series fols. 49–50 / IA leaves 369–370
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

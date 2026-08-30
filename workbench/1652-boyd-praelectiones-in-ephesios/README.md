@@ -51,6 +51,7 @@ same scan can legitimately close one part and open the next:
 | 06 | VI | 56–60 | 14–18 | `Prælectio sexta` through `laudaretur ac celebraretur in omne ævum` |
 | 07 | VII | 60–63 | 18–21 | `Prælectio septima` through its concluding `Amen` |
 | 08 | VIII | 63–68 | 21–26 | `Prælectio octava` through its concluding `Amen` |
+| 09 | IX | 69–71 | 27–29 | `In versum 8, &c.` through `dicta sunto` before Lecture X |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -98,8 +99,9 @@ English translation:
 | 06 | Predestination and adoption | [`part-06-praelection-06-predestination-and-adoption-latin.txt`](parts/part-06-praelection-06-predestination-and-adoption-latin.txt) | [`part-06-praelection-06-predestination-and-adoption-english.md`](parts/part-06-praelection-06-predestination-and-adoption-english.md) |
 | 07 | Observations on election | [`part-07-praelection-07-observations-on-election-latin.txt`](parts/part-07-praelection-07-observations-on-election-latin.txt) | [`part-07-praelection-07-observations-on-election-english.md`](parts/part-07-praelection-07-observations-on-election-english.md) |
 | 08 | Redemption in Christ | [`part-08-praelection-08-redemption-in-christ-latin.txt`](parts/part-08-praelection-08-redemption-in-christ-latin.txt) | [`part-08-praelection-08-redemption-in-christ-english.md`](parts/part-08-praelection-08-redemption-in-christ-english.md) |
+| 09 | Effectual calling and spiritual wisdom | [`part-09-praelection-09-effectual-calling-latin.txt`](parts/part-09-praelection-09-effectual-calling-latin.txt) | [`part-09-praelection-09-effectual-calling-english.md`](parts/part-09-praelection-09-effectual-calling-english.md) |
 
-The completed sequence now extends through Lecture VIII. Its successive subjects
+The completed sequence now extends through Lecture IX. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -111,6 +113,11 @@ Lecture VIII then expounds redemption through Christ's blood, its price and
 twofold liberation, union with Christ, forgiveness as redemption's effect,
 the riches of divine grace, the typology of the two goats in Leviticus 16,
 and the ethical force of having been bought with so great a price.
+Lecture IX opens the application of these benefits through effectual calling,
+distinguishes its external and internal aspects, and expounds the abundance of
+spiritual wisdom and understanding in Ephesians 1:8. It distinguishes wisdom
+from practical prudence by their objects, relates both to saving illumination,
+and traces the gift through Christ to the riches of the Father's grace.
 
 ## Validation
 

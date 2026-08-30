@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question X
+  Statu Christi*, begun through Question XI
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–48 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–49 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–X, from printed p. 3 / PDF 31
-through section XVII on printed p. 298 / PDF 326. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XI, from printed p. 3 / PDF 31
+through section XXVIII on printed p. 304 / PDF 332. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,106 numbered sections across 290 unique numbered
-text pages and 330 source markers in each language (326 printed-page markers
+268. The sequence comprises 1,134 numbered sections across 296 unique numbered
+text pages and 337 source markers in each language (333 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 160,201 whitespace-delimited words and the complete English files
-218,758, counted over Parts 01–48 with `wc -w`. Each part is a complete question,
+contain 163,621 whitespace-delimited words and the complete English files
+223,510, counted over Parts 01–49 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -103,6 +103,7 @@ the substantive marginal headings.
 | 46 | Locus XIII, Question VIII | printed pp. 283–292 / PDFs 311–320 | XLII | 10 | `part-46-locus-13-question-08-{latin.txt,english.md}` |
 | 47 | Locus XIII, Question IX | printed pp. 292–294 / PDFs 320–322 | VIII | 3 | `part-47-locus-13-question-09-{latin.txt,english.md}` |
 | 48 | Locus XIII, Question X | printed pp. 294–298 / PDFs 322–326 | XVII | 5 | `part-48-locus-13-question-10-{latin.txt,english.md}` |
+| 49 | Locus XIII, Question XI | printed pp. 298–304 / PDFs 326–332 | XXVIII | 7 | `part-49-locus-13-question-11-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -721,9 +722,32 @@ controlling witness; the specified OCR excerpt was used only as an aid. No
 supplementary witness was needed. The Question XI heading and body later on
 printed p. 298 / PDF 326 are excluded.
 
-Part 48's exact next restart is `QUAESTIO XI. DE CONCEPTIONE ET NATIVITATE
-CHRISTI. Quomodo Christus conceptus fuerit ex Spiritu S. et natus ex B.
-Virgine?` on printed p. 298 / PDF 326.
+Question XI treats Christ's miraculous conception from the Holy Spirit and
+birth from the blessed Virgin, the Spirit's efficient operation, the
+successive formation and sanctity of Christ's body, the ordinary manner of
+his nativity, and Mary's perpetual virginity in twenty-eight sections. It
+begins at the Question XI heading below section XVII of Part 48 on printed p.
+298 / PDF 326 and ends with section XXVIII on printed p. 304 / PDF 332
+immediately before Question XII. The Latin and English files contain 3,420 and
+4,752 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all seven printed-page markers in the same
+sequence and retain all six substantive marginal headings, citations, and
+scan-exact Greek. The printed pp. 298/299 join falls between `magnum` and
+`Exinanitionis`; the pp. 299/300 join between `quasi sit` and `Filius Dei`;
+the pp. 300/301 join between sections X and XI; the pp. 301/302 join between
+`Abrahæ` and `cum Levi`; and the pp. 302/303 join between `Ut` and `ergo`.
+At the printed pp. 303/304 join, the printer-divided `com-/parasse` is
+normalized as `comparasse`, with the incoming marker placed before the
+complete word in both files. The seven supplied page images are the
+controlling witness; the specified OCR excerpt was used only as an aid. No
+supplementary witness was needed. The visibly printed marginal form `a in
+Conceptione` in section I is retained rather than silently regularized. The
+Question XII heading and body later on
+printed p. 304 / PDF 332 are excluded.
+
+Part 49's exact next restart is `QUAESTIO XII. DE GRATIIS ET DOTIBUS CHRISTO
+COLLATIS. Quænam Gratiæ Humanæ Christi Naturæ collatæ fuerint? Et An fidem et
+spem habuerit? Affirm.` on printed p. 304 / PDF 332.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

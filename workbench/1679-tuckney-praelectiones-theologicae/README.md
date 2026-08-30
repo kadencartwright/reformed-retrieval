@@ -1450,6 +1450,21 @@ is excluded.
 - English: `parts/part-86-moral-law-01-english.md`
 - Extent: five synchronized markers, new-series fols. 15–19 / IA leaves 335–339
 
+## Part 87: second unit on the moral law under the gospel
+
+Part 87 defines moral law through its agreement with uncorrupted human
+nature and identifies it in summary with the Decalogue. Tuckney then treats
+the persons bound: all humanity, unbelievers, believers under the gospel,
+and, with qualifications, angels and the blessed in heaven. It runs from
+`De Lege tantum morali igitur instituitur quaestio` on new-series fol. 19 /
+IA leaf 339 through `Atque hactenus de personis obligatis` on new-series fol.
+22 / IA leaf 342. The treatment of the mode of obligation, beginning `Restat
+ultimo ut de obligatione dicamus`, is excluded.
+
+- Latin: `parts/part-87-moral-law-02-latin.txt`
+- English: `parts/part-87-moral-law-02-english.md`
+- Extent: four synchronized markers, new-series fols. 19–22 / IA leaves 339–342
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

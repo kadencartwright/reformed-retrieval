@@ -1613,3 +1613,34 @@ ex Dei præcepto omnibus et singulis fidelibus adultis utrumque Eucharistiæ
 symbolum administrari debeat? An vero usus Calicis Populi interdicendus sit?
 Prius Aff. Posterius Neg. contra Pontif.` on shared printed p. 381 / IA leaf
 415 / PDF p. 415.
+
+## Part 59
+
+Part 59 contains the complete Locus XIX, Question XXV, “De Communione sub
+Utraque Specie.” It begins with the question heading on shared printed p. 381 /
+IA leaf 415 / PDF p. 415, immediately after Question XXIV, and ends with
+section XXXVIII on shared printed p. 396 / IA leaf 430 / PDF p. 430. Question
+XXVI, “De Sensu Verborum Sacramentalium,” begins below it on that page and is
+excluded.
+
+- Latin: `parts/part-59-locus-19-question-25-latin.txt`
+- English: `parts/part-59-locus-19-question-25-english.md`
+- Both files contain sixteen synchronized source-page markers, the complete
+  section sequence I–XXXVIII, and thirteen synchronized marginalia blocks.
+- The scan verification covered all sixteen page images and all fifteen page
+  joins. The pp. 383–384, 384–385, 389–390, 390–391, and 391–392 joins divide
+  `administrandi`, `communicantibus`, `majoribus`, `communionem`, and `semper`;
+  each complete Latin word and its English counterpart is placed after the
+  new-page marker. The other ten joins divide no word.
+- The transcription retains all fifteen printed Greek expressions and the
+  witness’s abbreviations, spelling, capitalization, punctuation, and
+  citations. `[sic]` identifies the printed `1405`, `infirmatatis`,
+  `essentalis`, `Marc. xiv. 13`, `ver. 23`, `nisci`, `venemum`,
+  `consentanteum`, `secutis`, `insuparabilis`, `ordoratu`, and `ludibrium
+  debent`; the English translates the evident sense without silently altering
+  the historical citations.
+
+The next restart point is `QUÆSTIO XXVI. DE SENSU VERBORUM SACRAMENTALIUM. An
+Verba Cœnæ proprie et literaliter κατὰ τὸ ῥητὸν, an vero tropice et
+Sacramentaliter sint intelligenda? Prius Neg. Post. Affir contra Pontif. et
+Lutheran.` on shared printed p. 396 / IA leaf 430 / PDF p. 430.

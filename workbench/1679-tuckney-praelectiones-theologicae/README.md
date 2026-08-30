@@ -1506,6 +1506,14 @@ Part 90 completes the third distinction by examining the moral law as confirmed 
 - English: `parts/part-90-moral-law-05-english.md`
 - Extent: three synchronized markers, new-series fols. 28–30 / IA leaves 348–350
 
+## Part 91: sixth unit on the moral law under the gospel
+
+Part 91 begins the formal confirmation from Scripture with the prophets and Christ's testimony in Matthew 5:17–18. It runs from `Sed diutius multo quam par erat` through Tuckney's rebuke of the Manichaean evasion on new-series fol. 30 / IA leaf 350. The close reading beginning `At loci emphasin (si placet) attendamus` is excluded.
+
+- Latin: `parts/part-91-moral-law-06-latin.txt`
+- English: `parts/part-91-moral-law-06-english.md`
+- Extent: one synchronized marker, new-series fol. 30 / IA leaf 350
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

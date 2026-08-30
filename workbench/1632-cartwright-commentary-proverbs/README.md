@@ -909,7 +909,39 @@ qualified human review.
 - `parts/part-21-chapter-21d-latin.txt`
 - `parts/part-21-chapter-21d-english.md`
 
-The next unit begins with `V. 13. Obthurans aurem à clamore tenuis, etiam ipse
-clamabit, & non respondebitur.` in the right column of shared PDF 467 /
-printed column 919; restart at that lemma, excluding the final verse 12
+**Part 21e is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `V. 13. Obthurans aurem à
+clamore tenuis, etiam ipse clamabit, & non respondebitur.` in the right column
+of shared PDF 467 / printed column 919 through the final prose of verse 14 on
+PDF 469 / printed column 923, ending `Quo sensu cum superiore Proverb. magnam
+conjunctionem habet.` It stops immediately before `V. 15. Laetitiae est justo
+exercere jus; quod est contritioni operarius iniquitatis.` in that same right
+column. Latin and English have three byte-identical source markers (PDF
+467–469; synchronized printed columns 918–919 through 922–923) and retain both
+verse lemmata, full in-scope prose, Hebrew, Greek, citations, abbreviations,
+and printing irregularities. The complete files contain 1,058 Latin-file and
+1,483 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 467–469, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-467 marker begins only at `V.
+13.` in the right column; the final verse 12 sentence above it is excluded. At
+the PDF-467/468 turn, the divided fragment `dehorta-` and catchword `tur ab`
+were excluded rather than duplicated: `Ab hac autem inhumanitate` remains
+under PDF 467, while `dehortatur` and its corresponding English wording are
+assigned wholly to PDF 468. At the PDF-468/469 turn, `aut` remains under PDF
+468, the catchword `viribus` is excluded, and `viribus suis` with its
+corresponding English wording is assigned wholly to PDF 469. The final
+PDF-469 marker ends with the concluding verse 14 sentence above `V. 15.`; no
+verse 15 material is imported. Witness forms including `Obthurans`,
+`Teruntij`, `quia illa utuntur`, `Ira enim praecipites acti`, `affectui
+debiliori`, `siquis ... aggrederentur`, and `restingui` were retained. This
+remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-21-chapter-21e-latin.txt`
+- `parts/part-21-chapter-21e-english.md`
+
+The next unit begins with `V. 15. Laetitiae est justo exercere jus; quod est
+contritioni operarius iniquitatis.` in the right column of shared PDF 469 /
+printed column 923; restart at that lemma, excluding the final verse 14
 sentence above it.

@@ -55,14 +55,15 @@ omit content.
 | 20 | Question IV: divine truth | 200 | 00116 |
 | 21 | Question IV: goodness, love, hatred, justice, mercy, anger, chastity | 200–205 | 00116–00119 |
 | 22 | Question IV: divine power | 205–208 | 00119–00120 |
+| 23 | `DE TRINITATE`: distinction of the persons | 208–220 | 00120–00126 |
 
-The sequence is continuous from the opening of Tome I through the complete
-treatment `De Potentia Dei`. Part 21 begins after the final sentence on divine
-truth in column 200 and ends before `De Potentia Dei` in column 205. Part 22
-begins exactly at that heading and ends in column 208 with `in adversis
-patientes simus.` The ornamental heading `DE TRINITATE` begins immediately
-afterward in the same column and is excluded. That heading is the exact resume
-boundary.
+The sequence is continuous from the opening of Tome I through the first
+Trinitarian controversy. Part 22 ends in column 208 with `in adversis
+patientes simus.` Part 23 begins immediately afterward at the ornamental
+heading `DE TRINITATE`; nothing at the shared-column join is repeated or
+omitted. It ends after the response to objection 13 in column 220. `SECUNDA
+CONTROVERSIA. De Personarum ὁμοουσία.` begins immediately afterward and is the
+exact resume boundary.
 
 ## Editorial method
 
@@ -95,3 +96,19 @@ and other columns intruding. Frame 00108 repeats columns 183–184, and frame
 
 Earlier printed anomalies are retained in the Latin and documented at their
 points of translation in the paired English files.
+
+## Part 23 witness anomalies
+
+- Column 212 omits the negation from `personae ab essentia essentialiter
+  differunt`, contrary to the surrounding list and argument. The Latin retains
+  the wording; the English supplies the apparent sense and notes it.
+- The witness identifies Photinus as bishop of Cyrene in column 210 and prints
+  several defective biblical locators: `Ioan. 1.30.` (col. 213), `Isa. 63.3.`
+  and `Ioa. 15.16.` (col. 214–215), and `Isa. 61.7.`, `Mar. 10.`, and a
+  Genesis-series `14.26` (col. 215). These readings are retained and
+  individually noted.
+- Column 215 shifts from neuter `aliud` to masculine `alius` in a parallel
+  contrast among the three persons. The translation gives the evident
+  personal sense and records the form.
+- No separate marginal notes occur in this unit; its printed patristic and
+  biblical locators are preserved inline in both files.

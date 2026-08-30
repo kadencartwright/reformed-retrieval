@@ -48,7 +48,7 @@ freshly acquired again for Parts 19–21 on 30 August 2026 and remained
 byte-identical to that set. The access PDF, plain OCR, and scan-data XML were
 freshly acquired again for Parts 22–24 on 30 August 2026 and remain
 byte-identical to the recorded derivatives. The access PDF and plain OCR were
-freshly acquired once more for Parts 25–26 on 30 August 2026 and likewise
+freshly acquired once more for Parts 25–27 on 30 August 2026 and likewise
 remain byte-identical to the recorded derivatives:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
@@ -92,7 +92,7 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the lower part of Chapter XV on printed p. 211. Shared-page
+printed p. 1 through the lower part of Chapter XV on printed p. 217. Shared-page
 boundaries preserve each new argumentative unit in the following part rather
 than duplicating it.
 
@@ -124,6 +124,7 @@ than duplicating it.
 | 24 | Chapter XV continuation; universality, perpetuity, and revelation | upper part of shared printed p. 200 through the lower part of shared p. 202 / IA leaves 218–220 / PDF pp. 218–220; stops before `Quid porrò? Si quicquam enim` | 3 |
 | 25 | Chapter XV continuation; Romans 2 and universal revelation | lower part of shared printed p. 202 through p. 204 / IA leaves 220–222 / PDF pp. 220–222; stops before `Haec sunt quae hîc habet ad sententiam hanc evertendam` | 3 |
 | 26 | Chapter XV continuation; six arguments against moral-positive law | printed p. 205 through the lower part of shared p. 211 / IA leaves 223–229 / PDF pp. 223–229; stops before `Hîc etiam examinandum venit illud saepius ab adversario nostro ingeminatum` | 7 |
+| 27 | Chapter XV continuation; Ezekiel 20 and positive precepts | lower part of shared printed p. 211 through the lower part of shared p. 217 / IA leaves 229–235 / PDF pp. 229–235; stops before `Ex hactenus dictis liquet satis` | 7 |
 
 The files are:
 
@@ -153,8 +154,9 @@ The files are:
 - `parts/part-24-book-01-chapter-15c-universality-revelation-{latin.txt,english.md}`
 - `parts/part-25-book-01-chapter-15d-romans-2-and-universal-revelation-{latin.txt,english.md}`
 - `parts/part-26-book-01-chapter-15e-six-arguments-against-moral-positive-law-{latin.txt,english.md}`
+- `parts/part-27-book-01-chapter-15f-ezekiel-20-and-positive-precepts-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–26 image audits
+### Part 04 re-audit and Parts 05–27 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -727,6 +729,31 @@ words are `...quae à libero Dei beneplacito pendent.` The following paragraph
 is excluded. The next untranslated text is therefore `Hîc etiam examinandum
 venit illud saepius ab adversario nostro ingeminatum` on shared printed p. 211
 / IA leaf 229 / PDF p. 229.
+
+Part 27 is a coherent, image-audited continuation of Chapter XV containing
+Burmann's repeated distinction from Ezekiel 20 between precepts in which a
+person lives and statutes that were not good, his ten arguments, Brown's
+complete replies, and Brown's concluding textual analysis. Every controlling
+image from `Hîc etiam examinandum venit illud saepius ab adversario nostro
+ingeminatum` on PDF 229 through the lower part of PDF 235 was read directly,
+including all six internal joins; the remainder of PDF 235 was also inspected
+to verify the outgoing stop. OCR was used only as a collation aid. The Latin
+and English contain the identical seven-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+211–217. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the controlling images govern every Greek and Hebrew expression.
+No separate substantive marginal gloss occurs. The printer-divided words
+`supra` and `quaerebant` at the p. 212/213 and p. 213/214 joins are joined with
+the new marker before the complete Latin word and corresponding English phrase.
+The catchwords `haec`, `7. Tum`, and `Et` are omitted and placed only after the
+following markers where applicable. All ten arguments, extended quotations
+from Calvin and Beza, citations, numbered replies, and substantive italic
+distinctions are retained. The exact Part 27 opening is `Hîc etiam examinandum
+venit illud saepius ab adversario nostro ingeminatum`. Its final included words
+are `...Jerem. 34: vers. 17. & alibi saepius.` The following paragraph is
+excluded. The next untranslated text is therefore `Ex hactenus dictis liquet
+satis` on shared printed p. 217 / IA leaf 235 / PDF p. 235.
 
 ## Review and licensing status
 

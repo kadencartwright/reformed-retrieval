@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Sixteen paired parts are complete as AI-assisted, scan-audited working drafts:
+Seventeen paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -130,6 +130,10 @@ Sixteen paired parts are complete as AI-assisted, scan-audited working drafts:
   Exercitator and arguing that he evades the controversy over the infallible
   norm of interpretation, printed pp. 138–141 / ONB canvases 192–195; four
   synchronized source markers.
+- **Part 17:** Sections XXXI–XXXIII, examining the distinction between
+  interpreters, certain and invincible persuasion, and the definitions of
+  perspicuity and obscurity, printed pp. 141–144 / ONB canvases 195–198; four
+  synchronized source markers.
 
 The files are:
 
@@ -165,10 +169,11 @@ The files are:
 - `parts/part-15-scriptural-ambiguity-and-wolzogen-first-book-conclusion-english.md`
 - `parts/part-16-wolzogen-response-to-the-paradox-latin.txt`
 - `parts/part-16-wolzogen-response-to-the-paradox-english.md`
+- `parts/part-17-interpreters-persuasion-and-perspicuity-latin.txt`
+- `parts/part-17-interpreters-persuasion-and-perspicuity-english.md`
 
-Part 16 ends with Section XXX on printed p. 141 / ONB canvas 195 after the
-sentence `Hîc se magis a parte Paradoxi, quam a parte Reformatorum stare apertè
-declarat, cum Rationem vult esse veri sensus disceptatricem.` Section XXXI,
-beginning `Culpat dein in Exercitatore Wolzogius, quòd interpretem, quem
-quaerebat, accuratiore paulo judicio non definiverit;`, is excluded. Part 17
-should resume there on the same canvas.
+Part 17 ends with Section XXXIII on printed p. 144 / ONB canvas 198 after the
+sentence `Nec mirum est sanè; nam, ut mox audiemus, asserit, cum adversario
+perspicuitatem omnem orationis relativam esse.` Section XXXIV, beginning
+`Exercitator Paradoxus eodem Cap. §. 3. dicit`, is excluded. Part 18 should
+resume there on the same canvas.

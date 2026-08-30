@@ -2,9 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and ninety-six
-> printed pages of Volume II. The thirty-nine paired parts are unreviewed and
-> are not publication-ready.
+> close English translations through printed page 207 of Volume II. The forty
+> paired parts remain unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -86,9 +85,9 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 196 is applied and disclosed in the relevant
+completed span through printed p. 207 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
-Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, and XIX were
+Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, and XX were
 read from the images, not reconstructed from IA OCR. Apparatus notes record
 printed errata, source-language glosses needed by the English, and anomalous
 citations without silently repairing them.
@@ -102,7 +101,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty-nine paired parts are complete as scan-audited, AI-assisted, unreviewed
+Forty paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -295,14 +294,19 @@ working drafts:
   eight synchronized markers.
   [Latin](parts/part-39-book-04-chapter-19-instituted-worship-latin.txt) |
   [English](parts/part-39-book-04-chapter-19-instituted-worship-english.md)
+- **Part 40:** all of Chapter XX, examining Burmann's, Heidanus's, Walaeus's,
+  and Cocceius's objections concerning positive and natural law, the second
+  commandment, and instituted worship; printed pp. 197–207 / IA PDF and
+  leaves 205–215; eleven synchronized markers.
+  [Latin](parts/part-40-book-04-chapter-20-burmann-and-others-latin.txt) |
+  [English](parts/part-40-book-04-chapter-20-burmann-and-others-english.md)
 
-Part 39 ends with Chapter XIX's conclusion concerning instituted worship and
-before `CAP. XX.` on printed p. 196. The exact next untranslated chapter text
-is `CAP. XX.` at the foot of printed p. 196 / IA PDF 204 / IA leaf 204,
-followed on printed p. 197 / IA PDF 205 / IA leaf 205 by `Dicta quaedam D.
-Burmanni & aliorum quorundam, contra praedicta, examinantur.` Chapters VI
-through XIX are complete. Every completed pair has an identical source-marker
-sequence, and all thirty-nine pairs remain AI-assisted and unreviewed.
+Part 40 ends with Chapter XX's final response to Cocceius on printed p. 207.
+The exact next untranslated chapter text is `CAP. XXI.` later on printed p.
+207 / IA PDF 215 / IA leaf 215, followed by `Expositio brevis quarti
+praecepti.` Chapters VI through XX are complete. Every completed pair has an
+identical source-marker sequence, and all forty pairs remain AI-assisted and
+unreviewed.
 
 ## Licensing
 

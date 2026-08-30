@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–16 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–17 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -104,7 +104,9 @@ canvas 164 through its concluding discussion of Romans 11:12 on printed p. 171
 / canvas 181. Part 16 completes the whole of Article III, on the cause of
 faith, from its heading on printed p. 172 / canvas 182 through its concluding
 comparison of the Remonstrants’ contradictory claims on printed p. 175 /
-canvas 185. The units are divided as follows:
+canvas 185. Part 17 begins Article IV and completes Chapter I, which elicits
+the state of the question concerning the manner of conversion, on printed
+pp. 176–187 / canvases 186–197. The units are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -142,6 +144,7 @@ canvas 185. The units are divided as follows:
 - Part 16: Article III in full, canvases 182–185 / printed pp. 172–175; the
   paired transcription and translation are included below because this unit
   is confined by request to this README.
+- Part 17: Article IV, Chapter I, canvases 186–197 / printed pp. 176–187.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -312,9 +315,22 @@ the prose.
 - Both sections contain four synchronized source markers for BSB canvases
   182–185 / printed pp. 172–175.
 
-The next untranslated unit begins with `Articulus Quartus, DE CONVERSIONIS
-MODO.` and `CAPUT I. Status quaestionis eruitur.` on printed p. 176 / BSB
-canvas 186.
+Part 17 begins with the exact display heading `Articulus Quartus, DE
+CONVERSIONIS MODO.` and `CAPUT I. Status quaestionis eruitur.` on printed p.
+176 / BSB canvas 186. It ends with the eight questions Ames derives from the
+preceding inquiry and `De istis quid statuant Remonstrantes, satis ante
+declaratum est.` on printed p. 187 / canvas 197. The single-column chapter has
+no marginal annotations; running heads, signatures, and catchwords are
+omitted under the established policy. The witness’s surprising `redagendo`,
+`nullum effectum existat`, and `proprium effectum` are retained.
+
+- Latin: `parts/part-17-article-04-chapter-01-latin.txt`
+- English: `parts/part-17-article-04-chapter-01-english.md`
+- Both Part 17 files contain twelve synchronized source markers for BSB
+  canvases 186–197 / printed pp. 176–187.
+
+The next untranslated unit begins with `CAP. II. Argumentum primum. Pag.
+279.` on printed p. 188 / BSB canvas 198.
 
 ## Part 16: Article III — Latin transcription
 

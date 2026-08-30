@@ -52,8 +52,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
   III, Chapter II, printed pp. 67–69.
 - IA scans `n286`–`n298`: Part 13, the complete `De Electione` section of Book
   III, Chapter II, printed pp. 69–81.
-- The next unit begins at the excluded `CAP. III. De ordinibus Ministrorum.`
-  heading on the lower portion of printed p. 81 / IA scan `n298`.
+- IA scans `n298`–`n303`: Part 14, Book III, Chapter III, on the orders of
+  ministers, printed pp. 81–86.
+- The next unit begins at the excluded `CAP. IV. De distinctione Episcopi, &
+  Presbyteri.` heading on the lower portion of printed p. 86 / IA scan `n303`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -298,3 +300,27 @@ page are excluded.
 
 The next unit begins at the excluded `CAP. III. De ordinibus Ministrorum.`
 heading on the lower portion of printed p. 81 / IA scan `n298`.
+
+**Part 14 is complete as an AI-assisted working draft.** It contains Book III,
+Chapter III, on the orders of ministers. It begins at the Chapter III heading
+on the lower portion of printed p. 81 / IA scan `n298` and ends with the final
+sentence of numbered point 9 on the upper portion of printed p. 86 / IA scan
+`n303`. The Chapter IV heading and text that follow on that shared page are
+excluded.
+
+- `parts/part-14-book-03-chapter-03-orders-of-ministers-latin.txt`
+- `parts/part-14-book-03-chapter-03-orders-of-ministers-english.md`
+- Both files contain six synchronized source markers for printed pp. 81–86 /
+  IA scans `n298`–`n303`.
+- The opening thesis and all numbered points 1–9 are present, including the
+  complete `De Diaconis` subsection.
+- Printer-divided `Peccant` at the pp. 81–82 turn, `nominantur` at the pp.
+  82–83 turn, `disputare` at the pp. 83–84 turn, `Cajetanus` at the pp. 84–85
+  turn, and `fecerant` at the pp. 85–86 turn are joined; in each file the
+  incoming page marker precedes the complete joined word or its English
+  equivalent.
+- The witness's grammatically irregular `sunt ludi ludificabilis` is retained
+  in the Latin; the English renders its evident intended sense.
+
+The next unit begins at the excluded `CAP. IV. De distinctione Episcopi, &
+Presbyteri.` heading on the lower portion of printed p. 86 / IA scan `n303`.

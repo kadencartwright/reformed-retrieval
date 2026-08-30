@@ -1,0 +1,208 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes near the top of shared printed p. 599 at
+the lemma `ACTOR. 2.21.`, without repeating Part 51's closing argument about
+the merit of Christ's death. It contains three complete discussions: whether
+the promise of salvation attaches immediately only to final perseverance and
+the Remonstrants' so-called total faith; whether God might exceptionally
+reward certain proven believers with indefectible perseverance by his
+absolute right; and whether the Remonstrants correctly define the person who,
+in the divine judgment, perseveres in faith. It ends near the top of printed
+p. 606 after the fourth and final argument of the last question. The new lemma
+`ROM. 7.17.` and its exposition are excluded and form the exact restart for
+Part 53. Printer line-end and page-end divisions have been joined; each
+new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: Two printed corrections apply. On p. 601 line 19 the body's
+`Script. Synod. pag. 186. 187.` is corrected to `Script. Synod. pag. 190.`
+under the errata leaf's direction `pro 186, 167. lege 190.` On p. 602 line 14
+the body's `fol. 195` is corrected to `fol. 161` under `pro 195. lege 161`.]
+
+[Printed-form note: The heading `ACTOR. 2.21.`, the difficult `per fortuitam
+contingentiam antecedaneam Dei decreto`, and the nested sequence of five
+consequences followed by the resumed outer argument `4.` are retained rather
+than silently regularized. No Greek, Hebrew, or substantive marginal note
+occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 599 | PDF p. 648 | resumes at ACTOR. 2.21.]
+
+ACTOR. 2.21.
+
+Et futurum est ut quicunque invocaverit nomen Domini, salvetur.
+
+Quæritur, An Perseverantiæ finali soli, & fidei tantùm totali, i.e. quatenùs
+durat ad finem, immediatè salutis promissio adhæreat; ità ut fides non quà est
+essentialitèr viva & vera fides, sed quà durans ad finem, sit illaque gratiosè
+præmio vitæ æternæ digna censeatur? Ajunt Remonstrantes art. 5. pag. 189. Nos
+negamus.
+
+1. Quia verè fideli in extremâ vitæ periodo, etiam horâ duodecimâ, i.e.
+ultimâ, & latroni seriùs credenti promittitur vita æterna, etsi fidem ad diem
+aut horas paucas tantùm habeat; juxta illud, Qui credit, habet vitam æternam.
+
+2. Fides partialis i.e. quæ exiguo tempore durat, ut distinguatur ab Arminianâ
+fide totali, quæ ad finem durat, essentiâ & specie non differt à fide totali,
+ut Adversarii docent. Si, ergo, quis expiraret in illâ fide, quæ exiguo tempore
+durat,
+
+[1668 KBNL/UvA witness | logical printed p. 600 | PDF p. 649]
+
+vel salvaretur (juxta illud, Qui credit, salvabitur) & sic habemus institutum:
+Vel in æternum periret; & sic periret aliquis salvificè credens in Christum:
+quod est contra totum Evangelium.
+
+3. Ex hâc doctrinâ sequitur, promissionem vitæ æternæ non fieri fidei, ex
+gratiâ & mediante gratioso Dei beneplacito; sed propter meritoriam
+diuturnitatem & radicationem fidei in subjecto: Et fidem durantem breviore
+tempore, minimè sufficere ad vitæ æternæ præmium consequendum; & solam fidem
+totalem præmio vitæ æternæ gratiosè censeri dignam: quod & ipsorum doctrinæ
+repugnat, qui in Apol. suâ cap. 18. fol. 182. docent, temporarios revocabilitèr
+electos, propriissimè & reipsâ ad promissam in Evangelio vitam participandam,
+pro illo tempore, quo credunt, electos esse. Habent, ergo, virtute divinæ
+promissionis & meritorum Christi, pro illo tempore, jus ad vitam æternam.
+
+4. Juxta hoc assertum, si cui verè credenti in Christum, ad annos 70. aut 80.
+mors repentina obrepat, per fortuitam contingentiam antecedaneam Dei decreto,
+& in eâ horâ, quâ non credit, necesse est horariæ infidelitatis pœnas in
+gehennâ æternas luat; & fidei salvificæ, quam per totam vitam habuit, præmio
+fraudetur. Et qui non credit, sed in infidelitate ad annos 70. aut 80. vixit,
+si tamen per morulam horæ ante obitum credat, horaria fides vitæ æternæ
+
+[1668 KBNL/UvA witness | logical printed p. 601 | PDF p. 650 | split word joined: præmio]
+
+præmio coronabitur. Interim fit tota hæc dispensatio, juxta creatam voluntatem
+liberam, à Deo ad credendum, nec ab æterno nec in tempore determinatam; sed
+fortuitò & contingentèr operantem, vertibilem, lubricam, & rotis curruum &
+cardine versatiliorem. Indè necessariò fluit, neminem certum fore de plenariâ
+peccatorum suorum remissione, de æternâ gloriâ: nemo verè justificatus, nemo
+Justitiâ Christi tectus, nemo verè electus ad gloriam erit in hâc vitâ: quod
+certè pias animas credentium, perpetuâ fluctuatione discruciabit; omni spe
+vivâ, fiduciâ certâ, pace conscientiæ solidâ, gaudio Spiritûs Sancti stabili,
+consolatione purâ & vividâ, privabit.
+
+Quamvis Remonstrantes pro Apostasiâ Sanctorum, tanquàm pro aris & focis,
+dimicandum putant; hoc tamen tanquàm problema in utramque partem disputabile
+relinquunt, in Script. Synod. pag. 190. Annon Deus aliquando, pro absoluto suo
+jure, extraordinariâ quâdam ratione, quosdam fideles, diu multùmque in
+pietatis studio exercitatos, & tentationibus velut igne probatos, dono
+indefectibilis Perseverantiæ remuneretur? Nos tamen hoc minimè disputabile esse
+credimus.
+
+1. Quia Deus omnes renatos, indefectibilis Perseverantiæ gratiâ gratiosè
+donat.
+
+2. Non agnoscit Scriptura ullum donum, quod non sit meritis Christi partum,
+omnes suos ad diem gloriosi sui adventûs stabilientis &
+
+[1668 KBNL/UvA witness | logical printed p. 602 | PDF p. 651 | split word joined: confirmantis]
+
+confirmantis. Eph. 1:3. Nullum, ergo, hic est jus tale absolutum respectu
+quorundam singularium fidelium.
+
+3. Remuneratio eorum, qui diù exercitati in studio pietatis & tentationibus
+probati fuerunt, & eorum remuneratio ex absoluto jure, inter se pugnant. Quia
+omnis remuneratio obedientiæ illis est ex strictâ Justitiâ: Stricta autem
+Justitia, & absolutum jus inter se pugnant. Alioqui Deus infantes de novo
+regenitos, ex absoluto suo jure, indefectibili Perseverantiâ remunerari posset,
+quod Arminiani non concederent. Imò pro Problemate agnoscunt Apologistæ, cap.
+17. fol. 161. Deum jus integrum sibi reservare, donandi quosdam, quorum operâ
+ad aliorum hominum conversionem uti vult, vocatione extraordinariâ &
+irresistibili. Undè Arminianis est problema disputabile, imò probabilis valdè
+sententia Calvini & Reformatarum Ecclesiarum.
+
+1. Quod stante indefectibili & absolutâ Perseverantiâ, adeòque absolutâ
+Electione ad gloriam, probabile admodum sit Reformatas Ecclesias rectè & sanè
+docere.
+
+2. Quod hortationes Evangelicæ, mandata, comminationes, promissiones, jure
+proponi possint Prophetis, Apostolis, & aliis diù multùmque exercitatis in
+studio pietatis. Adeòque Deum posse jure comminari iis mortem æternam, quos
+dono indefectibilis Perseverantiæ &
+
+[1668 KBNL/UvA witness | logical printed p. 603 | PDF p. 652]
+
+operatione gratiæ irresistibili, ad vitam æternam conservare statuit (quod
+tamen in nostrâ doctrinâ damnant.) Et Deum spe vitæ æternæ, tanquàm argumento,
+moralitèr allicere eos, qui tamen confirmati sunt dono indefectibilis
+Perseverantiæ; Deumque posse jubere, ut perseverent, qui tamen non possunt non
+perseverare, propter vim irresistibilis operationis gratiæ; quod etiam in
+nostris damnant.
+
+3. Doctrinam esse valdè probabilem, Prophetas, Apostolos, & alios
+indefectibilitèr perseverantes, & liberrimè peccare & liberrimè perseverare; &
+tamen irresistibili & indefectibili gratiæ actione perseverare & obedire.
+
+4. Salvam manere Religionem Christianam, etiamsi homines dicantur liberè
+peccare, & etiam necessitate decreti Dei non posse non peccare; & liberè
+obedire, & tamen necessitate decreti & salvificæ gratiæ regenerationis
+irresistibilitèr operantis, non posse non obedire.
+
+5. Probabilem esse sententiam de absolutâ Electione, citra prævisionem fidei &
+meritorum; & absolutâ Reprobatione ex puro Dei beneplacito.
+
+4. Sequitur tales confirmatos Apostolos, aliosque indefectibili Perseverantiâ
+donatos, juxta doctrinam Arminianorum: 1. Non posse mentiri, furari, pejerare,
+injusta agere, aut in peccata vastantia conscientiam incidere. 2. Sequitur
+tales
+
+[1668 KBNL/UvA witness | logical printed p. 604 | PDF p. 653]
+
+Legi nulli, nulli mandato, nullis promissionibus aut comminationibus Legis aut
+Evangelii, subesse. 3. Non opus esse, ut Deum timeant, caveant sibi à peccatis
+& laqueis tentationum à mundo, carne & diabolo; sed posse securè in utramque
+aurem dormire, orationem, industriam, solicitudinem perficiendi salutem in
+timore & tremore, negligere. 4. Peccata confiteri, de peccato inhabitante cum
+Paulo Rom. 7. conqueri & dolere, veniam peccatorum petere, sperare vitam
+æternam, modò ad finem perseverent, gratiam Christi quâ perseverent orare,
+talibus esse inutile & ridiculum. Has tamen omnes consequentias & multas alias,
+contra nostram doctrinam, de absolutâ Perseverantiâ Sanctorum, objiciunt.
+
+Quæritur, An is, judicio divino, in fide perseverat, qui 1. Non peccat contra
+clarum atque apertum, tùm naturalis rationis, tùm supernaturalis revelationis,
+dictamen. 2. Qui infirmitates suas, quibus omnes & singuli, pro ratione
+temperamenti, ætatis, locorum, aliarumque circumstantiarum, plus minusve sunt
+obnoxii, corrigere & emendare mediocrem adhibet diligentiam? Ajunt hisce verbis
+Remonstrantes. art. 5. p. 189. Nos negamus.
+
+1. Quia ponunt omne peccatum, contra clarum lumen conscientiæ, unà cum
+infirmitatis peccato, cui quis se non opponit, facere Apostatam: Cùm sic qui
+otiosa verba loquuntur, qui jocose mentiuntur, qui fratrem opprobrio
+
+[1668 KBNL/UvA witness | logical printed p. 605 | PDF p. 654 | split word joined: lacessunt]
+
+lacessunt, sine morsu conscientiæ pro talibus peccatis, ii Apostatæ divino
+judicio essent: Imò milliès in anno, in mense, unus & idem homo, qui credit
+salvificè, Apostata esset.
+
+2. Nec Idololatria in Indis, nec Adulterium in iis Nationibus, quæ promiscuas
+uxores habent, & talia conjugia licita esse credunt; essent peccata
+conscientiam vastantia, & fidem salvificam excutientia: quia in talibus nec
+dictamen rationis naturalis, nec supernaturalis revelationis, est clarum &
+apertum; sed mens & conscientia eorum polluta est. Tit. 1:15. Et qui
+interficiunt Apostolos & Pastores fidissimos Jesu Christi, putant in hoc sese
+servire Deo. Joan. 16:1, 2. & talia peccata perpetrant, nullo conscientiæ
+dictamine reclamante: Talia tamen peccata, si essent in regenitis, verè ipsos
+Apostatas facerent. Potest, ergo, quis Apostata esse, qui non peccat contra
+clarum & apertum lumen conscientiæ.
+
+3. Quia in renatis nullum agnoscunt principium peccati, præter temperamentum,
+ætatem, locum, & alias circumstantias; cùm tamen sit in omnibus peccatum
+inhabitans, vetus homo, caro & concupiscentia insurgens perpetuò in Spiritum
+Dei.
+
+4. Quia Pagani possunt ad tempus, juxta Adversarios, nec peccare contra
+conscientiam, nec contra supernaturalem revelationem; & id fecerunt Cicero,
+Seneca, Aristides &c. in suis virtutibus
+
+[1668 KBNL/UvA witness | logical printed p. 606 | PDF p. 655 | split word joined: moralibus]
+
+moralibus, ut docent; & potuerunt etiam, juxta illos, mediocrem diligentiam
+adhibere in emendandis infirmitatibus temperaturæ, ætatis & loci. Ergo, Pagani,
+judicio divino, in verâ fide ad tempus perseverant.

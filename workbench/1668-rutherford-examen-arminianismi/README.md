@@ -1230,3 +1230,59 @@ Remonstrant speech, distinctions, analogies, and complete numbered structures.
 
 - Latin: `parts/part-50-chapter-13i-latin.txt`
 - English: `parts/part-50-chapter-13i-english.md`
+
+**Part 51 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 593 / PDF 642 at the lemma `MATTH. 16:18.`, without
+repeating Part 50's closing argument about the sins of the regenerate. It
+contains three complete questions: whether God promises perseverance
+absolutely or only on condition that believers watch, pray, and perform their
+duty; whether Christ chose and graciously predestined anyone to persevere; and
+whether Christ acquired perseverance for the elect by the merit of his death.
+It ends near the top of printed p. 599 / PDF 648 after the sixth and final
+argument of the last question. The new lemma `ACTOR. 2.21.` and its exposition
+are excluded and form the exact restart for Part 52. The pair has seven
+byte-identical synchronized markers for partial pp. 593 and 599 and complete
+pp. 594–598. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all seven included frames, both shared-page
+boundaries, every page join, the lemma, all three questions and their complete
+numbered structures, biblical and polemical citations, and the absence of
+foreign scripts and substantive marginalia. No printed correction applies
+within this unit. The isolated `Perseverentiam` on p. 594, the printed `sua
+mortis merito` on p. 598, and the visibly irregular citations are retained and
+disclosed rather than silently regularized. The English follows the Latin at
+clause level while preserving the distinctions among kinds of condition and
+the complete argumentative structures.
+
+- Latin: `parts/part-51-chapter-13j-latin.txt`
+- English: `parts/part-51-chapter-13j-english.md`
+
+**Part 52 is complete as a scan-audited working draft.** It resumes near the
+top of shared printed p. 599 / PDF 648 at the lemma `ACTOR. 2.21.`, without
+repeating Part 51's closing argument about the merit of Christ's death. It
+contains three complete discussions: whether the promise of salvation
+attaches immediately only to final perseverance and the Remonstrants'
+so-called total faith; whether God might exceptionally reward certain proven
+believers with indefectible perseverance by his absolute right; and whether
+the Remonstrants correctly define the person who, in the divine judgment,
+perseveres in faith. It ends near the top of printed p. 606 / PDF 655 after the
+fourth and final argument of the last question. The new lemma `ROM. 7.17.` and
+its exposition are excluded and form the exact restart for Part 53. The pair
+has eight byte-identical synchronized markers for partial pp. 599 and 606 and
+complete pp. 600–605. A page-by-page image audit against the controlling
+KBNL/UvA Google Books images covered all eight included frames, both
+shared-page boundaries, every page join, the lemma, all three discussions and
+their complete numbered and nested structures, biblical and polemical
+citations, and the absence of foreign scripts and substantive marginalia. The
+printed errata's two applicable corrections are applied and documented: the
+p. 601 citation `Script. Synod. pag. 186. 187.` is corrected to p. 190, and
+the p. 602 citation `fol. 195` is corrected to fol. 161. The split words
+`præmio`, `confirmantis`, `lacessunt`, and `moralibus` are joined with their
+new-page markers before the whole words and their English equivalents. The
+heading `ACTOR. 2.21.`, the difficult phrase about a chance contingency
+antecedent to God's decree, and the visibly nested numbering are retained or
+disclosed rather than silently regularized. The English follows the Latin at
+clause level while preserving the quoted Remonstrant problem and the complete
+argumentative structures.
+
+- Latin: `parts/part-52-chapter-13k-latin.txt`
+- English: `parts/part-52-chapter-13k-english.md`

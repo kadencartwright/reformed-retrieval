@@ -297,13 +297,54 @@ and the pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-10-proposition-12-section-05-latin.txt`
 - `parts/part-10-proposition-12-section-05-english.md`
 
+## Part 11: exact authorial boundary
+
+Part 11 begins with `SECTIO SEXTA` on the shared left column of **first-body
+printed p. 56 / BSB canvas 68** and contains Proposition XII, Section VI in
+full: Junius's distinction between penal and non-penal denials of happiness,
+Arminius's reply concerning final and temporal denial and particular divine
+reliction, and Twisse's complete response. It continues through **first-body
+printed p. 57 / BSB canvas 69**, with two synchronized source markers.
+
+The setting on p. 56 fits the successive `JUN.`, `ARMIN.`, and `RESP.` blocks
+around unequal column openings. The normalized transcription follows the
+speaker order rather than raw hOCR block order: Junius's `prae-` / `visio`,
+Arminius's `reli-` / `ctionem`, and Twisse's `ocu-` / `los` are each joined.
+At the page join, p. 56 ends with `Certe sic, constituit,`; the catchword
+`satis` is omitted and the p. 57 marker is placed before the full opening
+`satis absurde`. The English marker occupies the corresponding position before
+“quite absurdly.” The printed double negative `non non nisi` on p. 57 is
+retained in the Latin and identified in brackets in the English. The Greek
+`ἐνέργειαν` is retained and transliterated in the translation. No printed
+marginal annotation occurs within this unit.
+
+The unit stops after Twisse's sentence ending:
+
+> `… & proinde ad reliquas quaestiones decidendas nullius pretii sunt!`
+
+It stops immediately before the centered heading `Propositio 13.` lower in
+the same right column. The next part must therefore begin with `Propositio 13.`
+and repeat the marker for **first-body printed p. 57 / BSB canvas 69**; it must
+not advance directly to p. 58. The Latin and English markers are byte-identical,
+and the pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-11-proposition-12-section-06-latin.txt`
+- `parts/part-11-proposition-12-section-06-english.md`
+
 ## Status
 
-**Parts 01–10 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–11 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-No global status ledger or manifest is updated by this workbench start, and no
-claim of human review is made.
+The paired draft now reaches partway through first-body printed p. 57 of 135,
+a continuation-position estimate of about 42.2% of the first body. Across the
+two separately paginated authorial bodies (135 + 474 pages), the boundary lies
+at about 9.4% of their combined printed-page extent. Because p. 57 is shared
+with the untranslated Proposition XIII, these are position estimates, not a
+claim that 57 complete pages—or the same percentage of words—have been reviewed.
+
+No global status ledger or manifest is updated by this Part 11 continuation,
+and no claim of human review is made.

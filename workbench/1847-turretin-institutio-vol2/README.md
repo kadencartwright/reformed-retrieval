@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question VIII
+  Christi Mediatorio*, begun through Question IX
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–65 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–66 are complete as AI-assisted working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–VIII,
-from printed p. 3 / PDF 31 through section XI of Question VIII on printed p.
-358 / PDF 386. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–IX,
+from printed p. 3 / PDF 31 through section XXXII of Question IX on printed p.
+367 / PDF 395. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,358 numbered
-sections across 347 unique numbered text pages and 403 source markers in each
-language (397 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 191,760 whitespace-delimited
-words and the complete English files 261,434, counted over Parts 01–65 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,390 numbered
+sections across 356 unique numbered text pages and 413 source markers in each
+language (407 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 197,098 whitespace-delimited
+words and the complete English files 268,402, counted over Parts 01–66 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -123,6 +123,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 63 | Locus XIV, Question VI | printed pp. 348–349 / PDFs 376–377 | VIII | 2 | `part-63-locus-14-question-06-{latin.txt,english.md}` |
 | 64 | Locus XIV, Question VII | printed pp. 350–355 / PDFs 378–383 | XX | 6 | `part-64-locus-14-question-07-{latin.txt,english.md}` |
 | 65 | Locus XIV, Question VIII | printed pp. 355–358 / PDFs 383–386 | XI | 4 | `part-65-locus-14-question-08-{latin.txt,english.md}` |
+| 66 | Locus XIV, Question IX | printed pp. 358–367 / PDFs 386–395 | XXXII | 10 | `part-66-locus-14-question-09-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1111,9 +1112,39 @@ controlling facsimile images were audited against both files; the OCR excerpt
 was used only as an aid. No supplementary witness was needed. The Question IX
 heading and body later on printed p. 358 / PDF 386 are excluded.
 
-Part 65's exact next restart is `QUAESTIO IX. De natura, et Unitate Sacerdotii
-Christi, et Cur dicatur secundum Ordinem Melchisedeci?` on printed p. 358 / PDF
-386.
+Question IX of Locus XIV explains the nature and unity of Christ's priesthood
+by comparing the Levitical and Melchizedekian types with their fulfillment in
+Christ. It identifies the person, order, and principal correspondences of
+Melchizedek, then argues against the Roman Catholic multiplication of priests
+and the alleged unbloody sacrifice of bread and wine. It interprets Genesis
+14 as royal hospitality rather than sacrifice and answers appeals to the
+eternity of the priesthood, prophetic priests and Levites, patristic usage,
+Daniel's continual sacrifice, and Malachi's pure offering, in thirty-two
+sections. It begins at the Question IX heading below section XI of Part 65 on
+printed p. 358 / PDF 386 and ends with section XXXII on printed p. 367 / PDF
+395 immediately before Question X. The Latin and English files contain 5,338
+and 6,968 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all ten printed-page markers in the same sequence
+and retain all twenty-three substantive marginal headings, citations, Hebrew,
+and Greek. At the printed pp. 358/359 join, the printer-divided Greek
+`ἐντο-/λῆς` is normalized as `ἐντολῆς`, with the incoming marker placed before
+the complete word in both files. The pp. 359/360 join falls within section IX
+between `loco in Palestina notissimo` and `ab officio`. The pp. 360/361 join
+falls within section XIII between `ἀπάτωρ, ἀμήτωρ` and `et ἀγενεαλόγητος`. At
+the pp. 361/362 join, the printer-divided `Testa-/menti` is normalized as
+`Testamenti`, with the incoming marker placed before the complete word. The
+pp. 362/363 join falls within section XVII between `quod Adversarii` and
+`nolunt`; the pp. 363/364 join falls within section XIX between `1 Cor. xi.`
+and `25`. At the pp. 364/365 join, the printer-divided `Si-/milæ` is normalized
+as `Similæ`, with the incoming marker placed before the complete word. The pp.
+365/366 join falls within section XXIV between `Nam, præterquam quod` and
+`Sacerdotium`; the pp. 366/367 join falls within section XXVIII between `quia`
+and `Ministerio`. The OCR excerpt was used only as an aid. Question X on
+printed p. 368 / PDF 396 is excluded.
+
+Part 66's exact next restart is `QUAESTIO X. DE NECESSITATE SATISFACTIONIS. An
+necesse fuerit Christum pro nobis satisfacere Justitiæ Divinæ? Affirm. Contra
+Socin.` on printed p. 368 / PDF 396.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

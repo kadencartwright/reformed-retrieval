@@ -1404,6 +1404,21 @@ denial, headed `Negamus` and beginning `Primo Cognitorem`, is excluded.
 - English: `parts/part-83-articles-of-faith-and-reason-02-english.md`
 - Extent: six synchronized markers, new-series fols. 4–9 / IA leaves 324–329
 
+## Part 84: third unit on articles of faith and human reason
+
+Part 84 completes the formal statement of Tuckney's position by denying
+reason three offices in supernatural faith: discoverer, legislator, and
+authoritative judge. It distinguishes testimony from judgment and the
+judgment of discretion from the judgment of decision. It runs from the
+heading `Negamus` on new-series fol. 9 / IA leaf 329 through the transition
+from exposition to formal proof on new-series fol. 11 / IA leaf 331. The
+proof, headed `Probatio` and beginning `Quorum primum ex summa Dei
+prerogativa`, is excluded.
+
+- Latin: `parts/part-84-articles-of-faith-and-reason-03-latin.txt`
+- English: `parts/part-84-articles-of-faith-and-reason-03-english.md`
+- Extent: three synchronized markers, new-series fols. 9–11 / IA leaves 329–331
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

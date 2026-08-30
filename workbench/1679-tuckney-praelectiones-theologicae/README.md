@@ -541,6 +541,22 @@ printed p. 196 / IA leaf 204 through the conclusion of the discussion of
 - English: `parts/part-30-romans-04-05-abraham-06-english.md`
 - Extent: seven synchronized markers, printed pp. 196–202 / IA leaves 204–210
 
+## Part 31: seventh unit of the Romans 4:5 lecture
+
+Part 31 takes up the first of Tuckney's two deeper questions about Genesis
+15:6: whether Paul aptly applies the passage to justification. It answers
+the objections that Abraham had already been justified before Genesis 15
+and that the immediate promise concerned bodily offspring rather than
+Christ and eternal life. It runs from `Illud ultimum est quod in fine
+Commatis habetur` on printed p. 202 / IA leaf 210 through the conclusion of
+the first inquiry on printed p. 208 / IA leaf 216. The second inquiry,
+`Secundum sequitur, Quid hoc sit quod fides Abrahami hic dicatur imputari`,
+is excluded.
+
+- Latin: `parts/part-31-romans-04-05-abraham-07-latin.txt`
+- English: `parts/part-31-romans-04-05-abraham-07-english.md`
+- Extent: seven synchronized markers, printed pp. 202–208 / IA leaves 210–216
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

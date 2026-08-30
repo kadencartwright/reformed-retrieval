@@ -1148,6 +1148,22 @@ beginning `Et secundo ad id quod dicit`, is excluded.
 - English: `parts/part-67-romans-04-05-abraham-43-english.md`
 - Extent: two synchronized markers, printed pp. 290–291 / IA leaves 298–299
 
+## Part 68: forty-fourth unit of the Romans 4:5 lecture
+
+Part 68 completes Tuckney's answer concerning pride. God is neither unable
+nor simply unwilling to remove it; because pride grows even from good works
+and is the deepest-rooted vice, divine providence may use lesser weakness
+against greater sin. Gregory and Calvin illustrate how God turns what is
+deadly into medicine. Tuckney then closes the long excursus and declares
+Bellarmine's second and third arguments answered. It runs from `Et secundo
+ad id quod dicit` on printed p. 291 / IA leaf 299 through the formal close
+on printed p. 292 / IA leaf 300. Bellarmine's fourth argument, beginning
+`Quarto in loco licet concedat`, is excluded.
+
+- Latin: `parts/part-68-romans-04-05-abraham-44-latin.txt`
+- English: `parts/part-68-romans-04-05-abraham-44-english.md`
+- Extent: two synchronized markers, printed pp. 291–292 / IA leaves 299–300
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

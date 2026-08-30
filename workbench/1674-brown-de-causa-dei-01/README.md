@@ -62,7 +62,7 @@ page-structured collation aid for Parts 46–47. The access PDF, plain OCR, and
 DjVu XML were freshly acquired once more for Parts 48–49 on 30 August 2026 and
 are byte-identical to the recorded derivatives. All four derivatives were
 freshly acquired again for Part 50 on 30 August 2026 and remain byte-identical
-to that set; the same locally retained derivatives govern Parts 51–52:
+to that set; the same locally retained derivatives govern Parts 51–53:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -105,11 +105,10 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XIX in the upper part of shared logical printed p. 368. Shared-page
-boundaries preserve each new argumentative unit in the following part rather
-than duplicating it. The witness's visible pagination jumps from 256 to 275 at
-PDF 275; from that point
+printed p. 1 through the Book II title and prospectus and the end of Book II on
+logical printed p. 374. Shared-page boundaries preserve each new argumentative
+unit in the following part rather than duplicating it. The witness's visible
+pagination jumps from 256 to 275 at PDF 275; from that point
 the continuous logical numbering used in the markers is eighteen lower than
 the visible numbers, while the IA-leaf and PDF references identify the exact
 images without ambiguity.
@@ -168,6 +167,7 @@ images without ambiguity.
 | 50 | Book II, Chapter XVII; days are not all equal in holiness | lower part of shared logical printed p. 349 through logical p. 357 / IA leaves 367–375 / PDF pp. 367–375; visible pp. 367–375; stops before `CAP. XVIII.` on logical p. 358 | 9 |
 | 51 | Book II, Chapter XVIII; contrary arguments against the distinction of days examined | logical printed p. 358 through the upper part of shared logical p. 364 / IA leaves 376–382 / PDF pp. 376–382; visible pp. 376–382; stops before `CAP. XIX.` | 7 |
 | 52 | Book II, Chapter XIX; general principles concerning place in relation to religion | lower part of shared logical printed p. 364 through the upper part of shared logical p. 368 / IA leaves 382–386 / PDF pp. 382–386; visible pp. 382–386; stops before `CAP. XX.` | 5 |
+| 53 | Book II, Chapter XX; disparity between place and time in relation to religion | lower part of shared logical printed p. 368 through logical p. 374 / IA leaves 386–392 / PDF pp. 386–392; visible pp. 386–392; includes `Finis Libri Secundi.` | 7 |
 
 The files are:
 
@@ -223,8 +223,9 @@ The files are:
 - `parts/part-50-book-02-chapter-17-days-not-equal-in-holiness-{latin.txt,english.md}`
 - `parts/part-51-book-02-chapter-18-contrary-arguments-{latin.txt,english.md}`
 - `parts/part-52-book-02-chapter-19-place-general-principles-{latin.txt,english.md}`
+- `parts/part-53-book-02-chapter-20-place-and-time-discrepancy-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–52 image audits
+### Part 04 re-audit and Parts 05–53 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1448,6 +1449,43 @@ conscriptum. Part. 1. Cap. 2.` The following rule and `CAP. XX.` are excluded.
 The next untranslated text is therefore `CAP. XX. Quam magna sit inter Locum ac
 Tempus quoad Religionem discrepantia, demonstratur.` on shared logical printed
 p. 368 / IA leaf 386 / PDF p. 386.
+
+Part 53 is the complete, image-audited twentieth chapter and conclusion of Book
+II. It gives ten contrasts between indeterminate time and place and twenty-four
+further contrasts between determinate time and place, then closes the book.
+Every controlling image from the Chapter XX heading on PDF 386 through `Finis
+Libri Secundi.` on PDF 392 was read directly, including all six internal joins;
+PDF 393 was also inspected to verify the outgoing stop before the Book III title
+and prospectus. OCR and the byte-identical page-structured DjVu XML were used
+only as collation aids. The Latin and English contain the identical seven-marker
+sequence. The visible witness numbers these pages 386–392; the markers retain
+the continuous logical sequence 368–374 and record the exact IA leaves and PDF
+pages. The stop is the exact Book II/III boundary.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 386–392. Its general warning about deficient Greek and Hebrew type is
+disclosed in both file headers, though neither script occurs in this unit. No
+separate substantive marginal gloss occurs. The printer-divided word `injurias`
+at the logical pp. 372/373 join is joined with the new marker before the complete
+Latin word and corresponding English phrase. `Continuationem` at the logical
+pp. 370/371 join and `Deus` at the logical pp. 373/374 join occur only as
+catchwords on the preceding page and are placed after the new markers. The other
+three joins fall between complete words. Running heads, signatures, catchwords,
+rules, and ornaments are omitted. Both ordered sequences, all internal
+cross-references, citations, substantive italic distinctions, and the Book II
+colophon are retained. The anomalous printed phrases `Naturalis Loci aliquem`
+and `in domo fiat angusto vel ampliore` and the form `Trigenta` are retained in
+the Latin, disclosed in both file headers, and rendered contextually in the
+English.
+
+The exact Part 53 opening is `CAP. XX. Quam magna sit inter Locum ac Tempus quoad
+Religionem discrepantia, demonstratur.` Its final included words are `...quidquid
+dicant Adversarii nostri. De his hactenus. Finis Libri Secundi.` The Book III
+title, prospectus, ornaments, and opening on PDF 393 are excluded. The next
+untranslated text is therefore the Book III title and prospectus beginning `DE
+Causa Dei contra Antisabbatarios. LIBER TERTIUS. Ubi agitur De Ipso Sabbato
+Hebdomadali.` on logical printed p. 375 / IA leaf 393 / PDF p. 393; visible p.
+393.
 
 ## Review and licensing status
 

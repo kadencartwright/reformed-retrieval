@@ -78,13 +78,14 @@ topic on Scripture.
 ## Completed continuation and current boundary
 
 The paired continuation now runs without a content gap from the opening of
-the tome through the introduction and first three questions of `DE DEO`. It
+the tome through the opening portion of Question IV of `DE DEO`. It
 includes the complete opening tract `DE SACRA SCRIPTURA`, with the meanings of
 tradition, state of the final controversy, positive arguments, testimonies of
 the Fathers, and all twenty-eight printed objections with their responses. It
 then continues through the existence, unity, and essence of God, the opening
-taxonomy and rules of the divine attributes, and the complete treatment of
-divine simplicity. Units that share a numbered column meet at the printed
+taxonomy and rules of the divine attributes, and the complete treatments of
+divine simplicity and infinity, including eternity, immutability, and
+immensity. Units that share a numbered column meet at the printed
 internal heading or section boundary in that column; neither pair duplicates
 matter across the join.
 
@@ -104,6 +105,7 @@ matter across the join.
 | 13 | Controversy IX: perfection, objections 6–28 | 151–170 | 00090–00099 |
 | 14 | `DE DEO`: introduction and Questions I–III | 170–180 | 00099–00104 |
 | 15 | Question IV: attributes and divine simplicity | 180–188 | 00104–00106, 00109–00110 |
+| 16 | Question IV: divine infinity, eternity, immutability, and immensity | 188–192 | 00110–00112 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
@@ -126,12 +128,17 @@ image. Frame 00108 repeats columns 183–184, and frame 00109 supplies the clear
 retake of columns 185–186. The transcription therefore maps columns 185–186
 to frame 00109 and does not use the obscured exposure to fill readings.
 
-**Exact resume boundary:** Part 15 ends in column 188 at BSB frame 00110 with
+**Part-15/Part-16 join:** Part 15 ends in column 188 at BSB frame 00110 with
 the fourth use of the doctrine of simplicity, `nempe Deo similes sine ulla
-mixtura peccati.` The internal heading `De Infinitate Dei.` begins immediately
-afterward in the same column and is excluded. The treatment of divine
-infinity is the next untranscribed text. Part 15 spans portions of nine
-numbered columns.
+mixtura peccati.` Part 16 begins immediately afterward in the same column at
+`De Infinitate Dei.` No text is omitted or duplicated at the join.
+
+**Exact resume boundary:** Part 16 ends in column 192 at BSB frame 00112 with
+the sixth use of the doctrine of immensity, `Ergo non est necesse ut Angelos
+invocemus.` The internal heading `De attributis κοινωνητοῖς.` begins
+immediately afterward in the same column and is excluded. The treatment of
+the communicable attributes is the next untranscribed text. Part 16 spans
+portions of five numbered columns.
 
 ## Editorial method and status
 
@@ -217,3 +224,12 @@ Both files are AI-assisted and unreviewed.
 - The Hebrew and small Greek types in columns 180–186 have been normalized to
   Unicode directly from the page images but should receive specialist
   collation before publication.
+
+## Printed anomalies in Part 16
+
+- In the treatment of eternity, column 189 prints `Gen. 23.33.`, although
+  Genesis 23 has no verse 33; Genesis 21:33 appears to be intended. The
+  printed locator is retained and noted in the English.
+- In the treatment of immutability, column 190 prints `Numer. 33.23.`;
+  Numbers 23:19 appears to be intended. The printed locator is retained and
+  noted in the English.

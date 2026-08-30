@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Seventeen paired parts are complete as AI-assisted, scan-audited working drafts:
+Eighteen paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -134,6 +134,10 @@ Seventeen paired parts are complete as AI-assisted, scan-audited working drafts:
   interpreters, certain and invincible persuasion, and the definitions of
   perspicuity and obscurity, printed pp. 141–144 / ONB canvases 195–198; four
   synchronized source markers.
+- **Part 18:** Section XXXIV, examining Wolzogen's and the Paradoxical
+  Exercitator's position on relative perspicuity and obscurity and defending
+  the objective perspicuity of Scripture, printed pp. 144–148 / ONB canvases
+  198–202; five synchronized source markers.
 
 The files are:
 
@@ -171,9 +175,10 @@ The files are:
 - `parts/part-16-wolzogen-response-to-the-paradox-english.md`
 - `parts/part-17-interpreters-persuasion-and-perspicuity-latin.txt`
 - `parts/part-17-interpreters-persuasion-and-perspicuity-english.md`
+- `parts/part-18-relative-and-objective-perspicuity-latin.txt`
+- `parts/part-18-relative-and-objective-perspicuity-english.md`
 
-Part 17 ends with Section XXXIII on printed p. 144 / ONB canvas 198 after the
-sentence `Nec mirum est sanè; nam, ut mox audiemus, asserit, cum adversario
-perspicuitatem omnem orationis relativam esse.` Section XXXIV, beginning
-`Exercitator Paradoxus eodem Cap. §. 3. dicit`, is excluded. Part 18 should
-resume there on the same canvas.
+Part 18 ends with Section XXXIV on printed p. 148 / ONB canvas 202 after the
+sentence `Sed de hâc re plura alibi.` Section XXXV, beginning `Paradoxus. §. 4.
+Ejusdem capitis, ut astrueret Orationis obscuritatem`, is excluded. Part 19
+should resume there on the same canvas.

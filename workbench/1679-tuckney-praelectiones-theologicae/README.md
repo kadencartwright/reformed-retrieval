@@ -1596,6 +1596,25 @@ coopertus totus`, is excluded.
 - English: `parts/part-99-concio-ad-clerum-04-english.md`
 - Extent: three synchronized markers, new-series fols. 40–42 / IA leaves 360–362
 
+## Part 100: fifth and concluding unit of the 1650 clergy sermon
+
+Part 100 completes the sermon’s third division and the sermon itself. Tuckney
+first rebukes ministers whose moral corruption turns salt into filth, then
+states the final positive duty: ministers must not merely have savor but
+season others through doctrine, life, and public usefulness. He closes by
+applying Christ’s words to the English universities, praying that they remain
+fruitful sources of gospel salt, and adding a final thanksgiving and
+benediction. It runs from `Secundo. At quanto magis, si vitiorum sordibus
+coopertus totus` on new-series fol. 42 / IA leaf 362 through the closing
+`Gratia Domini nostri Jesu Christi ... sit vobiscum omnibus, & nunc & in
+saecula. Amen` on new-series fol. 44 / IA leaf 364. The distinct determination
+headed `DETERMINATIO. IN PUBLICIS COMITIIS Julii 6 1652` on new-series fol. 45
+/ IA leaf 365 is excluded.
+
+- Latin: `parts/part-100-concio-ad-clerum-05-latin.txt`
+- English: `parts/part-100-concio-ad-clerum-05-english.md`
+- Extent: three synchronized markers, new-series fols. 42–44 / IA leaves 362–364
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

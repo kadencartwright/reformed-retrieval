@@ -71,6 +71,7 @@ same scan can legitimately close one part and open the next:
 | 26 | XXVI | 148–151 | 104–107 | `Atque hactenus rejecta argumenta, pro falsis Electionis nostræ causis προηγουμέναις allata` through replies concerning Romans 9, the alleged impelling cause of reprobation, Hosea 13:9, unbelief, and divine hatred, followed by the transition to objections concerning the means of execution and the recalled objection about Christ's mediation, ending `nihil hîc repetemus in præsentiâ` before Lecture XXVII |
 | 27 | XXVII | 151–156 | 107–112 | `De Reprobatione verò, quandoquidem in ejus executione peccatum præcipuè locum habeat` through the objection that willing an end entails willing its means, the threefold divine will or providence, God's sustaining, permitting, directing, and ordering of sinful acts, the distinction between sin's relation to God and to its creaturely author, and the three senses of sin, ending `quibus gratiam haud mediocrem pro hâc tam utili operâ industriâque nos debituros profitemur` before Lecture XXVIII |
 | 28 | XXVIII | 156–161 | 112–117 | `Superest jam postrema objectionum classis, ad Electionis ac reprobationis immutabilem certitudinem spectantium` through the fourth class of objections, the alleged erasure of the elect from the book of life, the scriptural testimonies for losing faith and righteousness, and their answers, ending `quibus minorem illam principalem stabilire conantur adversarii` before Lecture XXIX |
+| 29 | XXIX | 161–166 | 117–122 | `Jam secundo loco, ad exempla quod attinet` through the alleged examples of lost faith, the extended defense of Solomon's final repentance, and the first four philosophical, baptismal, and ecclesiological arguments against perseverance, ending `Quare non est, quod hic nunc immoremur` before Lecture XXX |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -138,8 +139,9 @@ English translation:
 | 26 | The alleged impelling cause of reprobation | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt) | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md) |
 | 27 | The permission and ordering of sin | [`part-27-praelection-27-permission-and-ordering-of-sin-latin.txt`](parts/part-27-praelection-27-permission-and-ordering-of-sin-latin.txt) | [`part-27-praelection-27-permission-and-ordering-of-sin-english.md`](parts/part-27-praelection-27-permission-and-ordering-of-sin-english.md) |
 | 28 | The immutable certainty of election and perseverance | [`part-28-praelection-28-immutability-and-perseverance-latin.txt`](parts/part-28-praelection-28-immutability-and-perseverance-latin.txt) | [`part-28-praelection-28-immutability-and-perseverance-english.md`](parts/part-28-praelection-28-immutability-and-perseverance-english.md) |
+| 29 | Examples and arguments concerning the loss of faith and perseverance | [`part-29-praelection-29-examples-and-arguments-on-perseverance-latin.txt`](parts/part-29-praelection-29-examples-and-arguments-on-perseverance-latin.txt) | [`part-29-praelection-29-examples-and-arguments-on-perseverance-english.md`](parts/part-29-praelection-29-examples-and-arguments-on-perseverance-english.md) |
 
-The completed sequence now extends through Lecture XXVIII. Its successive subjects
+The completed sequence now extends through Lecture XXIX. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -348,6 +350,18 @@ cold, falling from grace in Galatians, shipwreck and departure from faith,
 Hebrews 6, and 2 Peter 2, concluding that the elect may grievously wound faith
 and conscience but neither wholly abandon faith nor finally fall from
 Christ's saving grace.
+Lecture XXIX completes the examples alleged for the loss of justifying faith.
+It rejects Saul, Simon Magus, and Judas as possessors of saving faith,
+distinguishes David's and Peter's grievous wounds from a total or final fall,
+and compares obscured faith to living roots in winter and a stunned soldier
+who retains his weapons. Its longest section argues cautiously from 2 Samuel
+7, Solomon's names, prophetic office, typology, and Ecclesiastes that Solomon
+repented, while explaining why the historical narrative leaves that repentance
+unstated. The lecture then answers arguments from the alleged loss of every
+habit, the later wickedness of baptized covenant children, the existence of
+heretics, and the continued need for warnings and exhortations. It ends before
+Lecture XXX introduces Bellarmine's fifth argument from uncertainty and
+despair.
 
 ## Validation
 

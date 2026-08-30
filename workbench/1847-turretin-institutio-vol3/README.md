@@ -1365,3 +1365,30 @@ page and is excluded.
 The next restart point is `QUÆSTIO XVI. An Baptismus Johannis idem fuerit
 essentialiter cum Baptismo Christi? Affir. cont. Pontif.` on shared printed p.
 340 / IA leaf 374 / PDF p. 374.
+
+## Part 50
+
+Part 50 contains the complete Locus XIX, Question XVI, “An Baptismus Johannis
+idem fuerit essentialiter cum Baptismo Christi?” It begins with the question
+heading on shared printed p. 340 / IA leaf 374 / PDF p. 374, immediately after
+Question XV, and ends with section XVII on shared printed p. 344 / IA leaf 378
+/ PDF p. 378. Question XVII, “De Formula Baptismi,” begins below it on that
+page and is excluded.
+
+- Latin: `parts/part-50-locus-19-question-16-latin.txt`
+- English: `parts/part-50-locus-19-question-16-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XVII, and eight synchronized marginalia blocks.
+- The scan verification covered all five page images and all four page joins.
+  The pp. 340–341 join divides `communis`; the complete Latin word and its
+  English counterpart are placed after the new-page marker. The pp. 341–342
+  and 342–343 joins fall within sections VIII and XIII respectively and divide
+  no word; the pp. 343–344 join falls between sections XVI and XVII.
+- The transcription retains every printed Greek expression, the witness’s
+  `Lombar. 4. Senten. Dis. 2, lib. 8`, `N T.`, `Johan i. 33`, `disposuit
+  pœnitentiam`, abbreviations, and citations. The English translates the
+  evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XVII. DE FORMULA BAPTISMI. An Formula
+Baptismi a Christo præscripta in administratione ejus observanda sit? Et quid
+importet?` on shared printed p. 344 / IA leaf 378 / PDF p. 378.

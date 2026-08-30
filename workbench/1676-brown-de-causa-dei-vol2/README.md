@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening seventy printed pages of Volume
-> II. The thirteen paired parts are unreviewed and are not
+> close English translations of the opening seventy-six printed pages of
+> Volume II. The fifteen paired parts are unreviewed and are not
 > publication-ready.
 
 ## Work and edition
@@ -86,7 +86,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 70 is applied and disclosed in the relevant
+completed span through printed p. 76 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 were read from the image, not reconstructed from IA
 OCR. Apparatus notes record printed errata, source-language glosses needed by
@@ -101,7 +101,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirteen paired parts are complete as scan-audited, AI-assisted, unreviewed
+Fifteen paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -156,13 +156,22 @@ working drafts:
   76–78; three synchronized markers.
   [Latin](parts/part-13-book-04-chapter-06-objection-16-latin.txt) |
   [English](parts/part-13-book-04-chapter-06-objection-16-english.md)
+- **Part 14:** Chapter VI, objection 17; printed pp. 70–75 / IA PDF and leaves
+  78–83; six synchronized markers.
+  [Latin](parts/part-14-book-04-chapter-06-objection-17-latin.txt) |
+  [English](parts/part-14-book-04-chapter-06-objection-17-english.md)
+- **Part 15:** Chapter VI, objection 18; printed pp. 75–76 / IA PDF and leaves
+  83–84; two synchronized markers.
+  [Latin](parts/part-15-book-04-chapter-06-objection-18-latin.txt) |
+  [English](parts/part-15-book-04-chapter-06-objection-18-english.md)
 
-Part 13 ends after the final response to Objection 16 and before `Objectio
-17.` on shared printed p. 70. The exact next untranslated text is `Objectio
-17. Rom. 6: 14, 15. — non enim estis sub lege, sed sub gratia.`, at printed p.
-70 / IA PDF 78 / IA leaf 78. Chapter VI remains in progress. Every completed
-pair has an identical source-marker sequence, and all thirteen pairs remain
-AI-assisted and unreviewed.
+Part 15 ends after the final response to Objection 18 and before `Objectio
+19.` on shared printed p. 76. The exact next untranslated text is `Objectio
+19. Gal. 3: 23, 24, 25. antequam autem venisset fides, sub legis praesidio
+custodiebamur, conclusi in eam fidem, quae futurum erat ut revelaretur.`, at
+printed p. 76 / IA PDF 84 / IA leaf 84. Chapter VI remains in progress. Every
+completed pair has an identical source-marker sequence, and all fifteen pairs
+remain AI-assisted and unreviewed.
 
 ## Licensing
 

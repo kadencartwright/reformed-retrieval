@@ -341,6 +341,18 @@ Tuckney's answers to Bellarmine and is excluded.
 - English: `parts/part-15-romans-01-17-justification-14-english.md`
 - Extent: two synchronized markers, printed pp. 114–115 / IA leaves 122–123
 
+## Part 16: fifteenth unit of the Romans 1:17 lecture
+
+Part 16 presents Bellarmine's three replies concerning Abraham's works and
+Tuckney's extended vindication of the third argument. It runs from `Quid ad
+haec Bellarminus?` on printed p. 115 / IA leaf 123 through the close of that
+argument on printed p. 121 / IA leaf 129. The next proposition, `Quartum hoc
+sit`, is excluded.
+
+- Latin: `parts/part-16-romans-01-17-justification-15-latin.txt`
+- English: `parts/part-16-romans-01-17-justification-15-english.md`
+- Extent: seven synchronized markers, printed pp. 115–121 / IA leaves 123–129
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

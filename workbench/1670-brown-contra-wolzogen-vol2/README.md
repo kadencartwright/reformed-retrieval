@@ -312,6 +312,25 @@ annunciando, tenentur omnes Pastores fideliter se gerere, secundum canonem Dei
 Verbi; ac nullam aliam primam, primariam ac principalem, agnoscere regulam,
 normam aut amussim.`
 
+## Part 18 boundary and source map
+
+Part 18 is Brown’s complete `ASSERTIO XV`, arguing that all pastors must act
+faithfully in their office, especially in preaching the Gospel, according to
+the canon of God’s word, and may recognize no other first, primary, and
+principal rule. Brown restates Velthuysen’s claim that a teacher is bound to
+the confession composed by the congregation and then answers it with twenty
+arguments drawn from the divine origin, nature, relations, matter, end, and
+faithful administration of the pastoral office and from the perfection of
+Scripture. The part begins at the exact requested join in the lower portion of
+printed p. 280 / ONB canvas 288 and ends with `Sed de sententiâ hâc nil nisi
+profanitatem spirante, jam satis. Ad alia progredior. Sic ergo` in the upper
+portion of printed p. 290 / ONB canvas 298. The following heading, `ASSERTIO
+XVI`, and its text are excluded. The paired transcription and translation
+below contain eleven synchronized markers for printed pp. 280–290,
+approximately ten full pages of text. The exact next untranslated boundary is
+`ASSERTIO XVI. Ecclesia est Coetus seu Societas à Republicâ prorsus, suâ
+naturâ, distincta.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -368,8 +387,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-16-pastoral-authority-english.md`
 
 Each pair contains the complete unit described above and matching source
-markers. Part 17 is presented as a synchronized pair directly in this README.
-All files and the paired text below remain AI-assisted and unreviewed.
+markers. Parts 17 and 18 are presented as synchronized pairs directly in this
+README. All files and the paired text below remain AI-assisted and unreviewed.
 
 ## Part 17: conversion through the ministry of the word
 
@@ -1777,3 +1796,624 @@ prejudice how well Velthuysen and the Socinians agree in this matter, whatever
 he may say to deceive the unwary and mislead all those who do not investigate
 everything precisely enough or weigh it seriously. Enough concerning this
 Assertion. The following comes next:
+
+## Part 18: fidelity to the canon of God’s word
+
+### Latin source
+
+[Volume II; printed p. 280; ONB canvas 288 (lower portion)]
+
+ASSERTIO XV.
+
+In munere hocce peragendo, & speciatim in Euangelio annunciando, tenentur omnes
+Pastores fideliter se gerere, secundum canonem Dei Verbi; ac nullam aliam
+primam, primariam ac principalem, agnoscere regulam, normam aut amussim.
+
+Supervacaneum putabit forsan Lector hanc proponere Assertionem, quum nemo adeo
+mentis inops esse possit, ut hoc neget. Verùm in mentem revocet quæ supra
+citavimus ex *Velthusii* præfat. pag. scil. 33, 34, 35. & videbit operæpretium
+esse & hanc confirmare
+
+[Volume II; printed p. 281; ONB canvas 289]
+
+Assertionem. Sententiam ejus hîc repetam. [*Rursus* (inquit) *membris istius
+congregationis liberum est, eam fidei confessionem exarare, in quâ unanimiter
+consentiunt; & sibiipsis Doctores eligere, qui secundum istam confessionem,
+congregationem in doctrinâ regulabunt, & præterea sacramenta administrabunt.
+Prorsus repugnat naturæ & origini muneris Doctoris, ut quis electus & in
+Ecclesiâ constitutus potestatem habeat quidquam isti confessioni contrarium
+docendi, ac si potestatem, authoritatem ac commissionem à Deo haberet, qua
+pastor, & in eâ conditione seu qualitate,* (quam nemo accipit nisi mediantibus
+hominibus, qui etiam eandem limitant ad certam confessionem) *ad congregationem
+monendam, ut omnem amplectetur doctrinam & sententiam, quam in conscientiâ
+judicat cum Dei verbo quadrare. Id quidem officium est cujuscunque Christiani,
+quatenus ut libera persona consideratur, — non autem Doctoris quâ talis in
+Ecclesiâ quæ confessionem habet. Ubi autem Ecclesia nullam habet confessionem,
+ab eâ obligatione liber est Doctor. Verum præterea nullam aliam habet is
+potestatem vel authoritatem aut aliud commissionis genus, quàm illi alii qui
+propter ordinem à congregatione eliguntur.*] Vides nunc, quam foveat in sinu
+suo sententiam *Velthusius*: imò quàm liberè & audacter satis eloquatur ac
+declaret quid sentiat, puta astringendos esse Pastores, ad eam confessionem quam
+condit Ecclesia, sive sit pura, sive impura, sive orthodoxa, sive heterodoxa,
+pia vel impia: nam ille nullam facit differentiam, nullam proponit exceptionem,
+nullam prorsus vel explicationem, aut restrictionem addit. Et ratio quam addit,
+nullam permittit nobis addere vel supponere limitationem, incrustationem, aut
+bonam constructionem. Quia nempe ab Ecclesiâ Electus est in pastorem aut
+doctorem, à quâ omnem derivat potestatem & authoritatem, & ad hanc confessionem
+astrictus est. Non nego licere Ecclesiis, imò utile judico, confessiones fidei
+
+[Volume II; printed p. 282; ONB canvas 290]
+
+suæ exarare. Non nego licere Pastoribus, hisce, modo & quatenus cum Dei verbo
+quadrant, subscribere. Non dico licere vel pastoribus vel aliis, quidquam docere
+sive publicè, sive privatim, quod huic confessioni in verbo Dei benè fundatæ
+repugnet. Hoc tamen dico, falsissimum esse, dicere nulli pastori electo licere
+ulli contradicere confessioni ab eâ Ecclesiâ in quâ electus est præpositæ, aut
+istam confessionem esse illi decempedam ac regulam unicam, secundum quam formare
+debeat omnes suas doctrinas, redargutiones, admonitiones, instructiones &c.
+Licet enim purissimam supponamus esse illam confessionem, est tamen ad summum
+nihil aliud, quàm regula regulata. His præmissis, ut Assertionem meam propositam
+confirmem, & dicta simul *Velthusii* confutem, hæc adduco argumenta.
+
+1. Hoc repugnat origini muneris istius pastoralis, ut (telum quod miserat, in
+ipsum respuam) quod pastoribus impositum est. Illud enim munus & officium quod
+in Ecclesiâ gerunt, à Christo solo institutum est, nec id ab hominibus, sed à
+solo Christo derivant *Ephes.* IV. 11, 12. 1 *Cor.* XII. 28, 29. *Act.* XX. 28.
+ab Ecclesiâ quidem eliguntur, & à Presbyterio ordinantur. Et sic iis mediantibus
+applicatur munus illud seu officium Ecclesiasticum huic vel illi homini, ipsum
+tamen munus à Christo solo derivatur, & à Christo solo Rectoribus Ecclesiæ
+tribuitur. Ergo si à Christo solo munus ipsum habeant, habent ab eo etiam
+potestatem omnem, authoritatem ac commissionem. Consequentiam *Velthusius* non
+negabit. Concluditur Ergo, pastores non pendere ab Ecclesiâ, nec instructiones
+suas ab Ecclesiâ habere, sed à Christo: ei ergo morem gerere debent, & quod ille
+injungit exequi; ac ejus verbum pro unicâ administrationum normâ habere, nec
+ullam aliam nisi in subordinatione ad hanc agnoscere tenentur.
+
+[Volume II; printed p. 283; ONB canvas 291]
+
+2. Si vera essent quæ dicit *Velthusius*, pastores, in eo casu, ubi Ecclesia
+est constituta, & confessionem habet editam, essent mera Ecclesiæ mancipia ac
+servi, non Dei, non Christi: instructiones omnes ab hominibus haberent, ab
+Ecclesiâ scil. non à Christo. Quæ Ecclesia juberet prædicarent, non quæ mandavit
+Christus. Authoritate confessionis istius munitæ essent omnes & confirmatæ
+doctrinæ, hortationes, redargutiones, &c. non authoritate Verbi: non poterant
+tum hâc uti præfatione, Sic ait Dominus, Sed sic ait confessio, sic ait
+Ecclesia, sic dicitis vos. Quæ quàm absurda, quàm abominanda, quis non videt?
+
+3. Repugnat hoc naturæ hujus muneris. Namque (1.) Qui hoc munere funguntur
+*Pastores* dicuntur. Pastores autem quâ tales, non diriguntur ab ovibus, nec
+habent partes officii sui à grege præscriptas, sed à gregis Domino. (2.) Sunt
+*Episcopi*, qui legibus eorum quos ad officium adigunt, quibusque præsunt, non
+reguntur, sed ejus, qui ipsos præfecit, & superattendentes fecit. (3.) Sunt
+*præsides* ac *præfecti*: ab iis ergo quibus præficiuntur præcipuè non
+dependent, quoad instructiones. (4.) Sunt *Oeconomi*: à familiâ ergo non habent
+leges, sed à Domino. (5.) Sunt *Legati*; at quis dicit legatum commissionem
+suam, ab iis apud quos legatione fungitur, habere, & non à Domino suo cujus est
+legatus? (6.) *Præcones* sunt, fungus autem esset qui diceret, tales nihil aliud
+promulgare debere, nisi quod præscribunt subditi; & non decreta principis.
+(7.) *Angeli* sunt ac nuncii. Quid? an debent hi nil aliud annunciare quàm quod
+volunt illi ad quos mittuntur? annon potius tenentur voluntatem mittentis
+exponere?
+
+4. Tolleretur hâc ratione relatio omnis, quam ad Deum ac Christum habent, quâ
+pastores sunt. Namque (1.) non essent amplius dicendi *Viri Dei*. Sed *Viri
+Ecclesiæ*. (2.) Nec *Nuncii Dei*, contra *Mal.* II. 9.
+
+[Volume II; printed p. 284; ONB canvas 292]
+
+quia nil aliud iis liceret annunciare quàm quod vult Ecclesia. (3.) Non
+*Ministri Dei*, contra 2 *Cor.* VI. 4. *Actor.* XVI. 16. *Tit.* I. 1. 2 *Tim.*
+II. 24. 1 *Thes.* III. 2. nec *Ministri Christi*, contra 2 *Cor.* II. 23.
+*Rom.* XV. 16. & I. 1. *Phil.* I. 1. 1 *Cor.* IV. 1. *Col.* I. 7. 1 *Tim.*
+IV. 6. Sed *Ecclesiæ* ministri. (4.) Non essent operarii conducti à Deo ad
+laborandum in vineâ. (5.) Non essent Dei Cooperarii contra 1 *Cor.* III. 9.
+(6.) Non *Legati Dei*; nec Christi nomine legatione fungerentur; contra 2
+*Cor.* V. 20. (7.) Non Ministri in Domino, contra *Ephes.* VI. 21. *Col.* IV.
+7.
+
+5. Longè aliam materiam habent præscriptam pastores Ecclesiastici: causâ
+Euangelii constituti sunt præcones 2 *Tim.* I. 11. Præcones sunt redemptionis
+per Christum 1 *Tim.* II. 7. In iis positus est sermo reconciliationis: &
+habent ministerium reconciliationis, 2 *Cor.* V. 18, 19. Sunt dispensatores
+mysteriorum Dei 1 *Cor.* IV. 1. Sunt Ministri Novi Pacti 2 *Cor.* III. 6.
+Ministri justitiæ 2 *Cor.* XI. 15. Sunt Ministri Euangelii *Ephes.* III. 7.
+*Col.* I. 23. Hinc vocat Paulus Euangelium, suum Euangelium *Rom.* II. 16. &
+XVI. 25. vide etiam 2 *Cor.* IV. 3. 1 *Thes.* I. 5. quia hoc unicè ipsi
+incumbebat, huc unicè curabat, ut scil. Euangelium annunciaret, ad hoc separatus
+erat *Rom.* I. 1. in Euangelio Deum coluit *Rom.* I. 9. operabatur Euangelio
+Dei *Rom.* XV. 16. Dispensatio Euangelii credita est iis 1 *Cor.* IX. 16, 17.
+Quid plura loca memorem, infiniti esset operis omnia citare, quæ materiam
+commissionis Ministrorum ostendunt longè aliud esse, quàm est confessio ulla ab
+hominibus exarata. Vide 1 *Cor.* XV. 1. *Luc.* VIII. 11. *Tit.* I. 3. *Ephes.*
+III. 8, 9.
+
+6. Pugnat cum relatione quam habent pastores ad gregem. Nam sunt gregis
+*ductores* & *antecessores*, qui loquuntur verbum Dei *Heb.* XIII. 7. non
+debent ergo a populo doceri. *Speculatores* sunt *Ezech.* III. & XXXIII. ut dato
+signo populum periculi admoneant,
+
+[Volume II; printed p. 285; ONB canvas 293]
+
+sive id faciendo confessioni contradicant, sive non. *Pastores* sunt qui ad
+totum gregem attendere debent *Act.* XX. 18. & vigillare vers. 29. lupis
+gravibus gregi non parcentibus sese opponentes, sive id permittat confessio
+sive non. *Lux mundi* sunt; a mundo ergo non habent lucem, sed aliunde; & lucem
+doctrinæ veræ spargere debent, eâque mundi tenebras depellere, sive confessio
+materiam præbeat, sive non.
+
+7. Pugnat hoc cum fine ministerii, tum principali, Dei scil. gloriâ, tum minus
+principali seu intermedio, hominum sc. salute æterna. Namque Deo gloriam non
+potest non derogare, regulam ab hominibus effictam, Regulæ a Deo ipso propositæ
+præponere, & pedissequam dominam constituere. Sic repugnat saluti hominum, quam
+unicè intendere debent pastores: nam in hunc finem mittuntur ad aperiendum
+oculos, ad convertendum a tenebris ad lucem, & de potestate Satanæ ad Deum
+*Actor.* XXVI. 17, 18. dati sunt ad ædificationem corporis Christi *Ephes.* IV.
+11, 12, 13. Ex verbo autem Dei unicè hauritur hæc salus & salutaris doctrina,
+ergo ex hoc Dei verbo tum materiam, tum normam omnium sermonum petere debent.
+Et fideliter Verbum prædicare, ut hâc ratione saluti populi consulant, licet
+contradicant confessioni.
+
+8. Pugnat cum praxi primitivorum pastorum, qui parvi facientes sententias, aut
+opiniones hominum, apud quos munere fungebantur, Verbum Dei, verbumque Euangelii
+fideliter annunciabant *Actor.* XIII. 46, 48. 1 *Thes.* II. 3, 4, 9. 2 *Thes.*
+III. 1. *Jac.* I. 21. *Actor.* XIII. 26, 44. & IV. 31. 2 *Cor.* II. 17. & IV.
+2.
+
+9. Pugnat cum fideli illâ administratione, quæ in omnibus pastoribus
+requiritur, cujus fidelis administrationis norma non est, nec potest esse,
+confessio ulla ab hominibus exarata. 1 *Cor.* IV. 2. *requiritur in
+dispensatoribus ut quis fidus inveniatur*, fidus autem debet
+
+[Volume II; printed p. 286; ONB canvas 294]
+
+esse in dispensandâ doctrinâ a populo præscriptâ. Non debent sermonem Dei
+cauponari, sed ut ex sinceritate, sed ut ex Deo, in conspectu Dei de Christo
+loqui 2 *Cor.* II. 17. Non debent sermonem Dei falsare, sed declaratione
+veritatis commendare seipsos apud omnem hominum conscientiam in conspectu Dei 2
+*Cor.* IV. 2. Non debent seipsos prædicare, sed Christum Jesum, ibid. v. 5. in
+omnibus, seipsos approbare debent ut Dei ministros 2 *Cor.* VI. 4. per sermonem
+veritatis vers. 7. Servus quem constituit Dominus supra famulitium suum, debet
+esse fidelis *Mat.* XXIV. 45. & XXV. 21. *Luc.* XII. 42. *Timotheus* fidelis
+erat in Domino 1 *Cor.* IV. 17. & *Onesimus Col.* IV. 9. *Paulo* Dominus per
+misericordiam dedit fidum esse 1 *Cor.* VII. 25. 1 *Tim.* I. 12. talis etiam
+erat *Tychicus Ephes.* VI. 21. *Col.* IV. 7. & *Epaphras Col.* I. 7. Fidi
+debent esse quibus committitur Euangelium 2 *Tim.* II. 2. Quomodo ergo fidi esse
+possunt Dei servi, qui non mandata Dei, sed hominum observant, quique non Dei
+verbo, sed verbo gregis sese conformant? vide etiam *Tit.* II. 7, 8. 1 *Thes.*
+II. 3, 4, 5, 6. *Jer.* XXIII. 28.
+
+10. Pugnat cum dicto illo insigni, & nunquam oblivioni tradendo *Act.* V. 29.
+*obedire oportet Deo potius quam hominibus* & IV. 19. & illo *Gal.* I. 10. *Si
+adhuc hominibus placerem, Christi servus non essem.* Nam, qui verbum Dei non
+annunciant fideliter, quia fortè aliud dicit confessio, Næ, ille magis se
+hominum quàm Dei servum esse pronunciat, & apertè declarat melius esse
+hominibus quàm Deo obedire, Vide 1 *Thes.* II. 4, 6.
+
+11. Pugnat cum eo quod habemus *Actor.* XX. 17. *non enim subterfugi quominus
+annunciarem vobis omne Dei consilium.* Debent sermonem Dei implere Christi
+servi, *Col.* I. 25. & ministerium quod à Deo acceperunt, *Col.* IV. 17. debent
+fidem servare 2 *Tim.* IV. 7. Quid si confessio imperfecta sit, erronea, aut
+heterodoxa?
+
+[Volume II; printed p. 287; ONB canvas 295]
+
+fidelis non erit, nec omne consilium annunciabit, qui ei contradicere nolit.
+Vide etiam 2 *Tim.* IV. 5.
+
+12. Pugnat hoc cum perfectione Sacræ Scripturæ: nam pro perfectâ regulâ habenda
+non erit, si aliam, eâ posthabitâ, consulamus normam. Si autem non liceat
+Confessioni etiam falsæ & erroneæ contradicere, Scriptura non erit pastoribus
+amussis suprema & exacta, sed illa confessio. Hoc autem apertè falsum est, ut
+liquet *Psal.* XIX. 2 *Tim.* III. 16, 17. *Tota Scriptura divinitus est
+inspirata, & utilis ad doctrinam, ad redargutionem, ad correctionem, ad
+disciplinam in justitia. Ut perfectus sit homo Dei ad omne opus bonum perfectè
+instructus.* Hæc ergo est unica pastorum norma. Hæc perfectè materiam
+suppeditat, tum doctrinæ, tum redargutionis, tum correctionis, tum disciplinæ.
+Qui hanc exactè observat regulam perfectus erit, & ad opus ministerii perfectè
+instructus. Qui autem eâ posthabitâ, juxta aliam, munere suo fungitur, errat &
+imperfectus est minister.
+
+13. Mandat quidem Paulus ut *Timotheus*, *Titus*, ac alii pastores non
+attendant fabulis, genealogiis nunquam finiendis, quæ potius quæstiones
+præbent, quàm ædificationem Dei 1 *Tim.* I. 4. ut aversentur profanas & aniles
+fabulas 1 *Tim.* IV. 7. ut abscedant ab iis qui insaniunt circa quæstiones ac
+pugnas de verbis 1 *Tim.* VI. 4, 5. ut aversentur profanos de rebus inanibus
+clamores, & oppositiones ibid. v. 20. 2 *Tim.* II. 16. ut & stultas & ineruditas
+quæstiones, quæ pugnas gignunt 2 *Tim.* II. 23. ut non sint attenti Judaicis
+fabulis & præceptis hominum aversantium veritatem *Tit.* I. 14. utque cohibeant
+stultas quæstiones & genealogias, & contentiones ac pugnas legales, quæ
+inutiles sunt ac vanæ *Tit.* III. 9. Nunquam autem, ut non contradicant
+confessioni hominum, veritatem verè, candidè ac fideliter proponendo.
+
+[Volume II; printed p. 288; ONB canvas 296]
+
+14. Qui veram fidem prædicant & veram doctrinam subjiciant fratribus, utut
+quidam a fide desciscant & attenti sint Spiritibus deceptoribus, doctrinis
+dæmoniorum, quemadmodum dicit Paulus 1 *Tim.* IV. 1, 6. erunt boni Ministri
+Jesu Christi, in sermonibus fidei innutriti. Vide 2 *Tim.* II. 14.
+
+15. Repugnant dicta *Velthusii* Apostolo dicenti 1 *Tim.* IV. 13, 15, 16.
+*Interim dum venio, intentus esto lectioni, exhortationi, doctrinæ, — hæc
+meditare, in istis esto — intentus esto tibiipsi & doctrinæ, & permane in
+istis; id enim si feceris, & teipsum servabis & eos qui te audierint.* Non enim
+necesse est, ut sit pastor intentus lectioni scripturæ, quæ non est ipsi regula
+suprema; nec requiritur, ut is intentus sit doctrinæ Euangelii, aut ut in istâ
+permaneat, cui non licet vel hilum deviare a confessione corruptâ. Si sic,
+quorsum diceret Paulus, *ne negligito donum quod in te est* 1 *Tim.* IV. 14. *&
+exsuscita donum quod in te est* 2 *Tim.* I. 6.
+
+16. Quis, qui in memoriam revocet gravissimas illas obtestationes *Pauli*, in
+Epistolis suis ad Timotheum, non abominaretur dicta hæc *Velthusii*? 1 *Tim.*
+V. 21. *Obtestor in conspectu Dei & Domini Jesu Christi, & Electorum Angelorum,
+ut hæc observes sine præjudicio.* Et cap. VI. 13, 14. *Mando tibi coram Deo qui
+vivificat omnia, & Jesu Christo, qui testatam fecit coram Pontio Pilato
+præclaram illam professionem, ut observes hanc præceptionem incontaminatus, &
+irreprehensus, usque ad illustrem illum adventum Domini nostri* &c. 2 *Tim.*
+IV. 1, 2. *Obtestor te igitur ego in conspectu Dei & Domini Jesu Christi, qui
+judicaturus est vivos & mortuos — prædica sermonem illum, insta tempestivè &
+intempestivè, argue, objurga, cum omni iræ cohibitione & doctrinâ exhortare.*
+Quis dicet floccifaciendas esse has obtestationes, & nihil contra confessionem
+dicendum?
+
+17. Pugnat etiam cum iis Pauli præceptionibus 2 *Tim.* I. 13. *expressam
+formam teneto sanorum sermonum,*
+
+[Volume II; printed p. 289; ONB canvas 297]
+
+*quos à me audisti*; nam tenenda est Ecclesiæ forma ab Ecclesiâ præscripta sive
+sana, sive non, juxta *Velthusium*. 2 *Tim.* III. 14. *at tu maneto in iis quæ
+didicisti, & quæ tibi concredita sunt, sciens à quo didiceris.* Hoc autem non
+est à populo, sed ex sacris literis v. 15. *Tit.* I. 7, 9. *Oportet Episcopum
+tenacem esse fidelis illius sermonis, qui ad doctrinam facit, ut possit &
+exhortari doctrinâ sanâ, & contradicentes convincere*: nam si confessio
+adversetur veritati, non debet tamen ei contradicere pastor, juxta
+*Velthusium*.
+
+18. Estne pastor Deo rationem redditurus? *Heb.* XIII. 17. 2 *Cor.* V. 9,
+10, 11. Quomodo autem Deo responsurus est, si Euangelium fideliter non prædicet
+secundum normam Verbi Dei, si instructiones à Domino datas non observârit, sed
+ad corruptam populi opinionem se totum conformârit? Quis qui legit gravissimas
+illas comminationes ipsius Dei *Ezech.* III. & XXXIII. non horreret totus, dum
+legeret *Velthusii* verba? Vide *Jer.* XXIII. 1, 2. *Ezech.* XXXIV. 1. ad 11.
+
+19. Quis vesaniam hujus hominis non miraretur, qui pag. 22. præfat. negat
+Ecclesiæ ullam competere potestatem, formulas, confessiones, decreta, aut
+conclusiones condendi, imprimis novas, quæ aliis regulæ esse possint. Et tamen
+hic apertè dicit, non modo posse Ecclesiam confessionem fidei componere; Sed &
+pastorem ita in conscientiâ ad eam scrupulosè observandam obstrictum esse, ut
+non liceat ei, ni velit muneris sui naturam evertere, & originem negare,
+aliquam Dei veritatem proponere, quæ dictæ confessioni contradicit.
+
+20. Congregationem fortean intelligit *Velthusius* eorum, de quibus Apostolus
+2 *Tim.* IV. 3, 4. *Nam erit tempus quum sanam doctrinam non sufferent, sed
+auribus prurientes, ipsi sibi secundum suas illas peculiares cupiditates
+coacervabunt Doctores, & à veritate quidem aures*
+
+[Volume II; printed p. 290; ONB canvas 298 (upper portion)]
+
+*avertent, ad fabulas vero divertent.* Sed de sententiâ hâc nil nisi
+profanitatem spirante, jam satis. Ad alia progredior. Sic ergo
+
+### English translation
+
+[Volume II; printed p. 280; ONB canvas 288 (lower portion)]
+
+ASSERTION XV.
+
+In discharging this office, and especially in announcing the Gospel, all
+Pastors are bound to conduct themselves faithfully according to the canon of
+God’s Word and to acknowledge no other first, primary, and principal rule,
+norm, or standard.
+
+Perhaps the Reader will think it superfluous to propose this Assertion, since
+no one can be so destitute of understanding as to deny it. But let him recall
+what we cited above from pages 33, 34, and 35 of Velthuysen’s preface, and he
+will see that it is worthwhile to confirm this
+
+[Volume II; printed p. 281; ONB canvas 289]
+
+Assertion also. I will repeat his position here. “Again,” he says, “the members
+of that congregation are free to draw up the confession of faith upon which
+they unanimously agree, and to choose for themselves Teachers who will regulate
+the congregation in doctrine according to that confession and, in addition,
+administer the sacraments. It is wholly contrary to the nature and origin of
+the office of a Teacher that anyone elected and appointed in the Church should
+have the power to teach anything contrary to that confession, as if he had
+from God the power, authority, and commission, as a pastor and in that
+condition or capacity”—which no one receives except through the mediation of
+human beings, who also limit it to a particular confession—“to admonish the
+congregation to embrace every doctrine and position which he judges in his
+conscience to agree with God’s word. That indeed is the duty of every Christian
+insofar as he is considered a free person, but not of a Teacher as such in a
+Church which has a confession. Where, however, a Church has no confession, the
+Teacher is free from that obligation. Moreover, he has no other power or
+authority or other kind of commission than those others who are elected by the
+congregation for the sake of order.” You now see the position Velthuysen
+cherishes in his bosom; indeed, how freely and boldly enough he expresses and
+declares what he thinks: namely, that Pastors are to be bound to the confession
+which the Church composes, whether it is pure or impure, orthodox or heterodox,
+godly or ungodly. For he makes no distinction, proposes no exception, and adds
+absolutely no explanation or restriction. And the reason which he adds permits
+us to add or suppose no limitation, cosmetic covering, or favorable
+construction. For the person has been Elected as pastor or teacher by the
+Church, from which he derives all power and authority, and he is bound to this
+confession. I do not deny that Churches may—and indeed I judge it useful that
+they should—draw up confessions of their faith.
+
+[Volume II; printed p. 282; ONB canvas 290]
+
+I do not deny that Pastors may subscribe to them, provided and insofar as they
+agree with God’s word. I do not say that either pastors or others may teach
+anything, whether publicly or privately, which conflicts with this confession
+when it is well founded upon God’s word. Yet I do say that it is utterly false
+to claim that no elected pastor may contradict any confession set before him
+by the Church in which he was elected, or that this confession is his ten-foot
+measuring rod and sole rule according to which he must form all his doctrines,
+reproofs, admonitions, instructions, and so forth. For although we suppose that
+confession to be most pure, it is nevertheless at most nothing other than a
+regulated rule. With these things premised, I bring forward the following
+arguments to confirm my proposed Assertion and at the same time refute
+Velthuysen’s statements.
+
+1. This conflicts with the origin of that pastoral office which—to turn back
+upon him the weapon he had launched—is imposed upon pastors. For the office and
+function which they discharge in the Church was instituted by Christ alone,
+and they derive it not from human beings but from Christ alone, Ephesians
+4:11–12; 1 Corinthians 12:28–29; Acts 20:28. They are indeed elected by the
+Church and ordained by the Presbytery. Thus through their mediation that office
+or Ecclesiastical function is applied to this or that person; nevertheless,
+the office itself is derived from Christ alone and is conferred upon the
+Rulers of the Church by Christ alone. Therefore, if they have the office itself
+from Christ alone, they also have all power, authority, and commission from
+him. Velthuysen will not deny the inference. The conclusion, therefore, is
+that pastors do not depend upon the Church and do not have their instructions
+from the Church but from Christ. They must therefore comply with him, execute
+what he enjoins, regard his word as the sole rule of their administrations,
+and acknowledge no other except in subordination to it.
+
+[Volume II; printed p. 283; ONB canvas 291]
+
+2. If what Velthuysen says were true, in a case where the Church is constituted
+and has published a confession pastors would be mere bondmen and servants of
+the Church, not of God or Christ. They would have all their instructions from
+human beings—namely, from the Church—not from Christ. They would preach what
+the Church ordered, not what Christ commanded. All doctrines, exhortations,
+reproofs, and so forth would be supported and confirmed by the authority of
+that confession, not by the authority of the Word. They could not then use
+this preface: “Thus says the Lord,” but “Thus says the confession; thus says
+the Church; thus you say.” Who does not see how absurd and abominable these
+things are?
+
+3. This conflicts with the nature of this office. For (1.) those who discharge
+this office are called *Pastors*. But Pastors as such are not directed by the
+sheep, nor do they have the duties of their office prescribed by the flock,
+but by the Lord of the flock. (2.) They are *Overseers*, who are not ruled by
+the laws of those whom they compel to duty and over whom they preside, but by
+the law of him who set them over others and made them overseers. (3.) They are
+*presidents* and *governors*; therefore, with respect to their instructions,
+they do not principally depend upon those over whom they are set. (4.) They are
+*Stewards*; therefore they do not have their laws from the household but from
+the Lord. (5.) They are *Ambassadors*; but who says that an ambassador has his
+commission from those among whom he discharges his embassy and not from his
+Lord, whose ambassador he is? (6.) They are *Heralds*, and the person who said
+that such men ought to proclaim nothing except what the subjects prescribe,
+and not the decrees of the prince, would be a blockhead. (7.) They are *Angels*
+and messengers. What then? Ought they to announce nothing except what those to
+whom they are sent desire? Ought they not rather to expound the will of the one
+who sends them?
+
+4. By this reasoning every relation which pastors as such have to God and
+Christ would be abolished. For (1.) they would no longer be called *Men of
+God*, but *Men of the Church*. (2.) Nor would they be *Messengers of God*,
+contrary to Malachi 2:9,
+
+[Volume II; printed p. 284; ONB canvas 292]
+
+because they would be permitted to announce nothing but what the Church wills.
+(3.) They would not be *Ministers of God*, contrary to 2 Corinthians 6:4; Acts
+16:16; Titus 1:1; 2 Timothy 2:24; 1 Thessalonians 3:2, nor *Ministers of
+Christ*, contrary to 2 Corinthians 2:23; Romans 15:16 and 1:1; Philippians 1:1;
+1 Corinthians 4:1; Colossians 1:7; 1 Timothy 4:6, but ministers *of the Church*.
+(4.) They would not be laborers hired by God to work in the vineyard. (5.)
+They would not be God’s Fellow Workers, contrary to 1 Corinthians 3:9. (6.)
+They would not be *Ambassadors of God*, nor discharge an embassy in Christ’s
+name, contrary to 2 Corinthians 5:20. (7.) They would not be Ministers in the
+Lord, contrary to Ephesians 6:21 and Colossians 4:7.
+
+5. Ecclesiastical pastors have a far different subject matter prescribed for
+them. They were appointed heralds for the sake of the Gospel, 2 Timothy 1:11.
+They are heralds of redemption through Christ, 1 Timothy 2:7. The word of
+reconciliation has been placed in them, and they have the ministry of
+reconciliation, 2 Corinthians 5:18–19. They are stewards of the mysteries of
+God, 1 Corinthians 4:1. They are Ministers of the New Covenant, 2 Corinthians
+3:6; Ministers of righteousness, 2 Corinthians 11:15; Ministers of the Gospel,
+Ephesians 3:7; Colossians 1:23. Hence Paul calls the Gospel “his Gospel,”
+Romans 2:16 and 16:25; see also 2 Corinthians 4:3; 1 Thessalonians 1:5, because
+this alone was incumbent upon him and he cared for this alone: namely, that he
+might announce the Gospel. He was set apart for this, Romans 1:1; in the Gospel
+he worshiped God, Romans 1:9; he labored in God’s Gospel, Romans 15:16. The
+stewardship of the Gospel was entrusted to them, 1 Corinthians 9:16–17. Why
+should I mention more passages? It would be an endless task to cite all those
+which show that the subject matter of the Ministers’ commission is far
+different from any confession drawn up by human beings. See 1 Corinthians
+15:1; Luke 8:11; Titus 1:3; Ephesians 3:8–9.
+
+6. This conflicts with the relation pastors have to the flock. For they are
+*leaders* and *rulers* of the flock who speak God’s word, Hebrews 13:7;
+therefore they must not be taught by the people. They are *Watchmen*, Ezekiel 3
+and 33, so that when the signal is given they may warn the people of danger,
+
+[Volume II; printed p. 285; ONB canvas 293]
+
+whether in doing so they contradict the confession or not. They are *Pastors*
+who must take heed to the whole flock, Acts 20:18, and keep watch, verse 29,
+opposing grievous wolves who do not spare the flock, whether the confession
+permits it or not. They are the *light of the world*; therefore they do not have
+their light from the world but from elsewhere. They must spread the light of
+true doctrine and by it dispel the world’s darkness, whether the confession
+supplies the material or not.
+
+7. This conflicts with the end of the ministry: both the principal end, namely,
+God’s glory, and the less principal or intermediate end, namely, the eternal
+salvation of human beings. For it cannot but detract from God’s glory to prefer
+a rule fashioned by human beings to the Rule proposed by God himself and to
+make the handmaid the mistress. It likewise conflicts with the salvation of
+human beings, which Pastors must aim at above all. For they are sent for this
+end: to open eyes, to turn people from darkness to light and from the power of
+Satan to God, Acts 26:17–18. They were given for the building up of Christ’s
+body, Ephesians 4:11–13. But this salvation and saving doctrine are drawn from
+God’s word alone; therefore from this word of God they must seek both the
+matter and the rule of all their sermons. They must preach the Word faithfully
+so that in this way they provide for the salvation of the people, even though
+they contradict the confession.
+
+8. This conflicts with the practice of the earliest Pastors, who, making
+little of the judgments or opinions of the people among whom they discharged
+their office, faithfully announced God’s Word and the word of the Gospel, Acts
+13:46, 48; 1 Thessalonians 2:3, 4, 9; 2 Thessalonians 3:1; James 1:21; Acts
+13:26, 44 and 4:31; 2 Corinthians 2:17 and 4:2.
+
+9. This conflicts with that faithful administration which is required in all
+Pastors, the rule of which faithful administration is not and cannot be any
+confession drawn up by human beings. In 1 Corinthians 4:2, “it is required in
+stewards that a person be found faithful.” But he must be faithful
+
+[Volume II; printed p. 286; ONB canvas 294]
+
+in dispensing doctrine prescribed by the people. They must not peddle God’s
+word, but speak concerning Christ as from sincerity, as from God, in God’s
+sight, 2 Corinthians 2:17. They must not falsify God’s word, but by a
+declaration of the truth commend themselves to every human conscience in God’s
+sight, 2 Corinthians 4:2. They must not preach themselves but Christ Jesus,
+verse 5. In all things they must approve themselves as God’s Ministers, 2
+Corinthians 6:4, through the word of truth, verse 7. The servant whom the Lord
+set over his household must be faithful, Matthew 24:45 and 25:21; Luke 12:42.
+Timothy was faithful in the Lord, 1 Corinthians 4:17, and Onesimus, Colossians
+4:9. Through mercy the Lord enabled Paul to be faithful, 1 Corinthians 7:25; 1
+Timothy 1:12. Tychicus was likewise faithful, Ephesians 6:21; Colossians 4:7,
+as was Epaphras, Colossians 1:7. Those to whom the Gospel is entrusted must be
+faithful, 2 Timothy 2:2. How then can those servants of God be faithful who
+observe not God’s commands but those of human beings, and who conform
+themselves not to God’s word but to the word of the flock? See also Titus
+2:7–8; 1 Thessalonians 2:3–6; Jeremiah 23:28.
+
+10. This conflicts with that outstanding saying, never to be consigned to
+oblivion, in Acts 5:29: “We must obey God rather than human beings,” and 4:19;
+and with that saying in Galatians 1:10: “If I still pleased human beings, I
+would not be Christ’s servant.” For the person who does not faithfully announce
+God’s word because perhaps the confession says something else—truly, he
+pronounces himself to be the servant of human beings rather than of God and
+openly declares it better to obey human beings than God. See 1 Thessalonians
+2:4, 6.
+
+11. This conflicts with what we have in Acts 20:17: “For I did not shrink from
+announcing to you the whole counsel of God.” Christ’s servants must fulfill
+God’s word, Colossians 1:25, and the ministry which they received from God,
+Colossians 4:17. They must keep the faith, 2 Timothy 4:7. What if the confession
+is imperfect, erroneous, or heterodox?
+
+[Volume II; printed p. 287; ONB canvas 295]
+
+The person who refuses to contradict it will not be faithful and will not
+announce the whole counsel. See also 2 Timothy 4:5.
+
+12. This conflicts with the perfection of Holy Scripture, for it will not be
+regarded as a perfect rule if, setting it aside, we consult another norm. But
+if even a false and erroneous Confession may not be contradicted, Scripture
+will not be the supreme and exact standard for Pastors; that confession will
+be. Yet this is openly false, as is clear from Psalm 19 and 2 Timothy 3:16–17:
+“All Scripture is divinely inspired and useful for doctrine, for reproof, for
+correction, and for discipline in righteousness, so that the man of God may be
+perfect, perfectly furnished for every good work.” This, therefore, is the
+sole rule of Pastors. It perfectly supplies the matter of doctrine, reproof,
+correction, and discipline. The person who observes this rule exactly will be
+perfect and perfectly furnished for the work of the ministry. But the minister
+who sets it aside and discharges his office according to another rule errs and
+is imperfect.
+
+13. Paul indeed commands that Timothy, Titus, and other Pastors not attend to
+fables and never-ending genealogies, which provide questions rather than God’s
+edification, 1 Timothy 1:4; that they turn away from profane and old wives’
+fables, 1 Timothy 4:7; that they withdraw from those who are diseased concerning
+questions and disputes about words, 1 Timothy 6:4–5; that they turn away from
+profane babblings about empty things and from contradictions, verse 20 and 2
+Timothy 2:16; also from foolish and uninstructed questions which generate
+disputes, 2 Timothy 2:23; that they not attend to Jewish fables and commands of
+human beings who turn away from the truth, Titus 1:14; and that they restrain
+foolish questions and genealogies, contentions and legal disputes, which are
+unprofitable and vain, Titus 3:9. But he never commands them not to contradict
+a human confession by proposing the truth truly, candidly, and faithfully.
+
+[Volume II; printed p. 288; ONB canvas 296]
+
+14. Those who preach the true faith and set true doctrine before the brothers,
+although some depart from the faith and attend to deceiving spirits and
+doctrines of demons, as Paul says in 1 Timothy 4:1, 6, will be good Ministers of
+Jesus Christ, nourished in the words of faith. See 2 Timothy 2:14.
+
+15. Velthuysen’s statements conflict with the Apostle’s words in 1 Timothy
+4:13, 15, 16: “Until I come, attend to reading, exhortation, and doctrine—
+meditate upon these things; be in them—attend to yourself and to doctrine, and
+continue in them; for if you do this, you will save both yourself and those who
+hear you.” For it is not necessary that a Pastor attend to the reading of
+Scripture if it is not his supreme rule; nor is it required that he attend to
+the doctrine of the Gospel or continue in it if he is not permitted to deviate
+even a hair’s breadth from a corrupt confession. If this is so, to what purpose
+would Paul say, “Do not neglect the gift which is in you,” 1 Timothy 4:14, and
+“stir up the gift which is in you,” 2 Timothy 1:6?
+
+16. Who, recalling those most solemn adjurations of Paul in his Epistles to
+Timothy, would not abominate these statements of Velthuysen? 1 Timothy 5:21: “I
+adjure you in the sight of God and the Lord Jesus Christ and the Elect Angels
+to observe these things without prejudice.” And chapter 6:13–14: “I command
+you before God who gives life to all things, and Jesus Christ, who witnessed
+that excellent confession before Pontius Pilate, that you observe this command
+unstained and blameless until that illustrious appearing of our Lord,” and so
+forth. 2 Timothy 4:1–2: “I therefore adjure you in the sight of God and the
+Lord Jesus Christ, who will judge the living and the dead—preach that word; be
+urgent in season and out of season; reprove, rebuke, and exhort with all
+restraint of anger and doctrine.” Who will say that these adjurations are to be
+regarded as worthless and that nothing is to be said against the confession?
+
+17. This also conflicts with those precepts of Paul in 2 Timothy 1:13: “Hold
+fast the expressed form of sound words
+
+[Volume II; printed p. 289; ONB canvas 297]
+
+which you heard from me.” For according to Velthuysen, the form prescribed by
+the Church must be held, whether sound or not. 2 Timothy 3:14: “But continue in
+the things which you have learned and which were entrusted to you, knowing from
+whom you learned them.” Yet this is not from the people but from the Holy
+Scriptures, verse 15. Titus 1:7, 9: “An Overseer must hold fast that faithful
+word which accords with doctrine, so that he may both exhort with sound
+doctrine and convince those who contradict it.” For if the confession opposes
+the truth, according to Velthuysen the Pastor must nevertheless not contradict
+it.
+
+18. Must the Pastor give an account to God? Hebrews 13:17; 2 Corinthians
+5:9–11. But how will he answer God if he does not faithfully preach the Gospel
+according to the rule of God’s Word, if he has not observed the instructions
+given by the Lord but has wholly conformed himself to the people’s corrupt
+opinion? Who, reading those most solemn threats of God himself in Ezekiel 3 and
+33, would not shudder all over while reading Velthuysen’s words? See Jeremiah
+23:1–2; Ezekiel 34:1–11.
+
+19. Who would not marvel at the madness of this man, who on page 22 of his
+preface denies that the Church possesses any power to frame formulas,
+confessions, decrees, or conclusions, especially new ones, which can be a rule
+for others? Yet here he openly says not only that the Church can compose a
+confession of faith, but also that the Pastor is so bound in conscience to
+observe it scrupulously that he is not permitted—unless he wishes to overthrow
+the nature of his office and deny its origin—to propose any divine truth which
+contradicts the said confession.
+
+20. Perhaps Velthuysen means the congregation of those about whom the Apostle
+speaks in 2 Timothy 4:3–4: “For the time will come when they will not endure
+sound doctrine, but with itching ears will heap up Teachers for themselves
+according to their own peculiar desires, and will indeed turn their ears away
+from the truth
+
+[Volume II; printed p. 290; ONB canvas 298 (upper portion)]
+
+and turn aside to fables.” But enough now concerning this position which
+breathes nothing but profanity. I proceed to other matters. Thus, therefore—

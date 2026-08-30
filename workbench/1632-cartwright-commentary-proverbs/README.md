@@ -671,7 +671,34 @@ qualified human review.
 - `parts/part-20-chapter-20e-latin.txt`
 - `parts/part-20-chapter-20e-english.md`
 
-The next unit begins with `Vers. 19. Revelanti arcanum, qui ambulat cum
-detractione, & blando labiis suis ne te admisceto.` in the left column of
-shared PDF 443 / printed column 860; restart there, excluding the final verse
-18 prose above it.
+**Part 20f is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `Vers. 19. Revelanti arcanum,
+qui ambulat cum detractione, & blando labiis suis ne te admisceto.` in the
+left column of shared PDF 443 / printed column 860 through the final prose of
+verse 21 on PDF 445 / printed column 865. It stops immediately before `V. 22.`
+in that same right column. Latin and English have three byte-identical source
+markers (PDF 443–445; synchronized printed columns 860–861 through 864–865)
+and retain all three verse lemmata, full prose, Hebrew, Greek, citations, the
+embedded English `Hast maketh wast`, the bracketed vernacular proverb, and
+printed irregularities. The complete files contain 1,274 Latin-file and 1,805
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 443–445, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-443 marker is intentional:
+Part 20e ends above `Vers. 19.`, while Part 20f begins with that lemma below
+it, so no verse 18 prose overlaps and none is omitted. The page-turn
+catchwords `filiis` and `mo-` were excluded rather than duplicated. PDF 446
+was inspected only to verify the continuation of verse 22 and contributes no
+in-scope text or marker. The final PDF-445 marker ends above `V. 22.`; no verse
+22 material is imported. Witness forms including `Revelanti`, `exitu suo`,
+`aurilaterem`, and `Notatur etiam histor. est quid` were retained. This
+remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-20-chapter-20f-latin.txt`
+- `parts/part-20-chapter-20f-english.md`
+
+The next unit begins with `V. 22. Ne dicas, rependam malum: expecta Iehovam,
+& ipse servabit te.` in the right column of shared PDF 445 / printed column
+865; restart there, excluding the final verse 21 prose above it. Its
+commentary continues onto PDF 446 / printed column 866.

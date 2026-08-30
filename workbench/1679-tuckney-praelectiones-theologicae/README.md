@@ -723,6 +723,23 @@ beginning `2. Ad secundum quod attinet`, is excluded.
 - English: `parts/part-41-romans-04-05-abraham-17-english.md`
 - Extent: three synchronized markers, printed pp. 245–247 / IA leaves 253–255
 
+## Part 42: eighteenth unit of the Romans 4:5 lecture
+
+Part 42 answers the second objection to Tuckney's Adam–Christ analogy: that
+receiving Christ's righteousness by imputation would make believers their
+own redeemers or require saying that they personally satisfied God in
+Christ. Tuckney distinguishes passive reception from active redemption,
+limits what is communicated according to the recipient's need, and closes
+by restating the twofold analogy of Adamic sin and Christ's righteousness.
+It runs from `2. Ad secundum quod attinet` on printed p. 248 / IA leaf 256
+through the conclusion of that analogy on printed p. 250 / IA leaf 258. The
+next Bellarmine argument, beginning `At contra hoc insurgit Bellarminus`, is
+excluded.
+
+- Latin: `parts/part-42-romans-04-05-abraham-18-latin.txt`
+- English: `parts/part-42-romans-04-05-abraham-18-english.md`
+- Extent: three synchronized markers, printed pp. 248–250 / IA leaves 256–258
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

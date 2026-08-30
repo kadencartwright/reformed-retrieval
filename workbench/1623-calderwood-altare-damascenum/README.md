@@ -103,9 +103,10 @@ their audited predecessor boundaries and do not alter either inherited part.
 The paired continuation included below resumes at that exact p. 323 boundary,
 completes the treatment of bishops' external vocation, and continues through
 the first two duties associated with episcopal order: ordaining ministers and
-dedicating churches and burial places. It ends in the lower portion of printed
-p. 347. In accordance with the requested file scope, it is presented in this
-README rather than in additional part files.
+dedicating churches and burial places. It then opens the third duty, confirming
+children, and carries its historical and theological foundation through the
+opening portion of printed p. 354. In accordance with the requested file scope,
+it is presented in this README rather than in additional part files.
 
 | Part | Contents | Source extent | Marker state |
 |---|---|---|---|
@@ -140,7 +141,7 @@ README rather than in additional part files.
 | 29 | Chapter V: delegation of episcopal jurisdiction | printed pp. 313–318 / PDFs 325–330, both boundary pages partial | 6 paired and image-audited |
 | 30 | Chapter V: extensive episcopal power and oversized dioceses | printed pp. 318–319 / PDFs 330–331, both boundary pages partial | 2 paired and image-audited |
 | 31 | Chapter V: bishops’ civil dignity, titles, precedence, and pomp | printed pp. 319–323 / PDFs 331–335, both boundary pages partial | 5 paired and image-audited |
-| README continuation | Chapter V: bishops’ external vocation; episcopal functions of ordination and dedication | printed pp. 323–347 / PDFs 335–359, both boundary pages partial | 25 paired and image-audited |
+| README continuation | Chapter V: bishops’ external vocation; episcopal functions of ordination, dedication, and the opening treatment of confirmation | printed pp. 323–354 / PDFs 335–366, both boundary pages partial | 32 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -1221,7 +1222,7 @@ joins, and both boundaries.
 - Latin: `parts/part-31-chapter-05-episcopal-dignity-and-pomp-latin.txt`
 - English: `parts/part-31-chapter-05-episcopal-dignity-and-pomp-english.md`
 
-## Paired continuation: bishops' external vocation and first functions
+## Paired continuation: bishops' external vocation and episcopal functions
 
 The continuation begins exactly after Part 31's `ait Duarenus` in the lower
 portion of printed p. 323. It completes the displayed branch `In Ecclesia
@@ -1239,19 +1240,31 @@ the first two enumerated duties: ordaining deacons and ministers, and
 dedicating churches and burial places. The second discussion examines the
 origin and theology of consecrated buildings and cemeteries, Anglican and
 Roman rites, the civil use of meeting places and burial grounds, costly church
-ornament, and the imitation of the Jerusalem temple. It ends after the
-conclusion of item 2 in the lower portion of printed p. 347, immediately before
-the new numbered heading `3 Pueros confirmare`.
+ornament, and the imitation of the Jerusalem temple. It then begins item 3,
+`Pueros confirmare`, examining the nature and biblical uses of laying on hands,
+the papist identification of it with chrism, patristic evidence about its place
+at the close of baptism, and the relation of Hebrews 6 to admission of adult
+catechumens. It ends at a coherent paragraph boundary in the opening portion of
+printed p. 354, immediately before Calderwood turns from that historical and
+theological foundation to a detailed critique of Anglican practice beginning
+`Angli sicut pontificii`.
 
-The Latin and English contain the same twenty-five source markers and the same
-visible marginalia records in the same order. Printer-divided words at the p.
+The Latin and English contain the same thirty-two source markers and the same
+105 visible marginalia records in the same order. Printer-divided words at the p.
 323/324, 324/325, 327/328, 328/329, 330/331, 331/332, 333/334, 334/335,
 335/336, 337/338, 338/339, 339/340, 340/341, 342/343, and 343/344
-turns are joined, with each incoming marker placed before the complete Latin
-word and corresponding English phrase. Catchwords are omitted without
-duplication. Fresh full-resolution images of the controlling IA leaves 348–359,
-corresponding to access-PDF pp. 348–359, were acquired and inspected against
-both texts; the IA OCR and 1708 reset assisted reading only.
+turns, and at 347/348, 350/351, and 352/353 are joined, with each
+incoming marker placed before the complete Latin word and corresponding English
+phrase. Catchwords are omitted without duplication. The previously documented
+audit covers IA leaves 348–359; for this fresh continuation session,
+full-resolution images of the controlling IA leaves 359–366, corresponding to
+access-PDF pp. 359–366, were acquired and inspected against both new texts. The
+IA OCR and 1708 reset assisted reading only. The Internet Archive served a
+byte-different rebuild of the same 1,088-page access PDF: 115,250,087 bytes,
+SHA-256 `c1a3beb32be1f01eb0225a8419f395d60cac4b2d53992e086b810b29dc50d4ed`.
+PDF pp. 359–366 were freshly rendered at 240 dpi and checked page by page, and
+the corresponding direct IA page images were independently inspected at their
+full delivered resolution.
 
 ### Latin source transcription
 
@@ -2541,6 +2554,321 @@ probamus, omnium minimè illas quae fiunt de industria & studio imitandi templum
 Salomonis, sicut faciunt pontificii, qui templa praecipuè propter sacrificium
 Missae extructa docent, sicut templum Salomonis propter sacrificia Deo oblata,
 & ideo oportet sacrificulum in loco sacratiore & separato sacrificare.
+
+3 Pueros confirmare.
+
+Mucketus sic, *Confirmare precibus & manuum impositione pueros Catechismum
+edoctos.* Tilenus, *De baptizatorum Confirmatione miror institutam à vestris
+vitiligationem, cum ipse Calvinus ritum illum non modo puriori antiquitati
+probatum fuisse fateatur, sed etiam probet ipse, ac restitutum velit,
+Institutionum lib. 4. c. 19. sect. 4.* Sed optat potius quàm sperat simplicem
+usum impositionis manuum restituendum. Rem ipsam nempe erudiendos pueros in
+doctrina catechetica, priusquam admittantur ad coenae participationem, proque iis
+
+[Marginalia: De Polit. p. 319.]
+
+[Marginalia: Paraenes. cap. 15.]
+
+[1623 printed p. 348 | IA leaf 360 | PDF p. 360 | split `oran-` / `dum` joined]
+
+orandum probamus quod & singulis vicibus, cum examinantur facimus. Sed ritum
+impositionis manuum natura sua indifferentem censemus; Quid enim est, nisi
+gestus orantis, ut postea audiemus. Et quandoquidem degeneravit ritus iste in
+spurium confirmationis sacramentum, merito omiserunt Ecclesiae reformatae. Nos
+verò, ejusdem restitutioni obsistimus, partim ad asserendam libertatem
+Christianam in ritibus adiaphoris, partim ad amoliendum ab Ecclesia nostra
+Confirmationis Anglicanae sacramentum.
+
+Impositio manuum est ritus simplicissimus, communis Ecclesiae sub veteri & novo
+testamento, gestus nempe orantis vel benedicentis, quo manu imposita indicatur
+persona pro qua preces & benedictiones funduntur. Iacob benedicens filiis Iosephi
+manus imposuit Gen. 48. Moses Iosuae Num. 27. Impositae etiam manus iis, qui
+cooptati erant in numerum Senatorum Synedrii Magni, & qui ad Magisterium
+promovebantur à Rabbinis. Usus itaque istius ritus erat vulgaris, & in sacris &
+civilibus, patriarcharum benedictionibus, senatorum, Doctorum, Ducum
+inaugurationibus. In novo testamento legimus Christum, cum oblati essent ei
+pueruli; ut manus eis imponeret, & precaretur, imposuisse eis manus Mat. 19. 13.
+15. Ipsi Pontificii fatentur Christum hic non instituisse sacramentum
+Confirmationis. *Ibi enim nulla promissio, nullum praeceptum, nulla materiae aut
+formae designatio legitur, sine quibus sacramenti institutio esse non potest:
+item verisimile non est Christum pueros illos confirmasse, quia ut diximus cum
+D. Thoma, decuit hoc sacramentum ante Christi glorificationem non ministrari: &
+alioqui illi pueri nondum erant baptizati, neque ad hunc finem Christo
+offerebantur, sed ut ab eo benedicerentur, ut Hieronymus dicit: vel ut
+curarentur, ut significat Anselmus.*
+
+[Marginalia: Suarez. in 3 part. Sum. disput. 32. sect. 2.]
+
+In ministrorum ordinationibus manus impositae 1 Tim. 4. 14. Paulo item &
+Barnabae emissis ab Ecclesia Antiochena Act. 13. 3. Paulo cum curaretur ipsius
+caecitas, & impleretur spiritu sancto Act. 9. 17. Item in curandis aegrotis &
+infirmis impositae manus Matth. 4. 18. Marc. 5. 23. Marc. 16. 18. Act. 28. 8. In
+conferendis etiam donis extraordinariis spiritus sancti Apostoli imposuerunt
+manus dum orabant Act. 8. 15. 17. Erat igitur gestus apud Iudaeos familiaris
+manuum impositio, quoties solennis erat precatio aliqua aut benedictio, praesertim
+ubi persona singularis erat, cui benedicendum erat. Nam si numerosior esset
+coetus, tum attollebantur manus. *Tum attollens Aaron manus suas versus populum
+benedixit eis* Leu. 9. 22. Et Christus sublatis manibus suis benedixit discipulis
+Luc. 24. 50. Observat Drusius, Sacerdotes cum populo benedicerent, si in urbe
+essent, levasse manus suas versus scapulas. Veteres etiam in Ecclesia Christiana
+variè hoc gestu usi sunt in ministris ordinandis, in Catechumenis admittendis, in
+conversis haereticis amplectendis, in lapsis reconciliandis, ut supra diximus pag.
+238. Cum
+
+[Marginalia: Commentat. in loca difficiliora pentateuchi pag. 370.]
+
+[1623 printed p. 349 | IA leaf 361 | PDF p. 361]
+
+tam variè usurpatus hic ritus sit tam in veteri quàm in novo Testamento, & apud
+veteres, & nihil aliud sit quàm gestus orantis indicans personam pro qua orat quis
+nomine Ecclesiae ut impetretur gratia, non significans multo minus obsignans &
+exhibens gratiam quam petit orans vel benedicens, sacramentum dici propriè non
+potest. Nulla est analogia inter gestum istum & gratiam quam petit Ecclesia vel
+baptizato vel reconciliando, vel ordinando, vel ad Eucharistiae sacramentum
+admittendo adulto. Et si analogiam quandam comminisci possimus, tamen deerit
+Christi institutum & promissio, nihil obsignabit. Nam Christi solius est, qui
+potestatem habet excellentiae instituere sacramenta. Sed, ut dixi, usurpatus hic
+ritus ad indicandam personam illam singularem pro qua gratiam petimus, non ad
+significandam gratiam ipsam eamque obsignandam.
+
+Pontificii excogitarunt materiam sensibilem hujus sacramenti, chrisma ex oleo
+olivarum & balsamo compositum, tanquam materiam remotam & unctionem ex chrismate
+factam in figura seu signo crucis, tanquam materiam proximam nec aliam manuum
+impositionem agnoscunt Pontificii essentialem huic confirmationis sacramento,
+quàm quae includitur intrinsecè in ipsa unctione. *Dicendum est,* inquit Swarez,
+*nullam manus impositionem distinctam ab unctione Chrismatis manu Episcopi facta
+esse de essentia hujus sacramenti: ipsam verò unctionem esse essentialem &
+utrumque satis constare ex dictis, & ex usu Ecclesiae, neque huic veritati obstare
+Apostolicum factum nempe Act. 8. quia illud non fuit juxta legem & institutionem
+sacramentorum, sed praeter illam ex speciali omissione vel dispensatione, &
+consequenter signum illud simplicis impositionis manus non fuisse verum
+sacramentum Confirmationis quoad substantiam, fuisse vero quoad effectum. Item,
+Simplicem manuum impositionem, qua usi sunt Apostoli Act. 8 & 9 revera non fuisse
+sacramentum Confirmationis quod nunc habemus, quia in ritu sensibili valde
+differebat, imo nec simpliciter sacramentum fuisse, quia non erat ceremonia firma
+& stabili lege instituta.*
+
+[Marginalia: Swarez. tom. 3. disput. 33. sect. 4.]
+
+Bellarminus, etsi capite secundo de Confirmatione dicat non rejectam esse manus
+impositionem. *Bis enim Episcopus manus imponit confirmandis, ut ex Pontificali
+Romano intelligi potest, semel cum super eos manus extendit atque orat; & rursum
+cum signat in fronte atque ungit: ipsa enim unctio & signatio cùm manu fiat,
+manus impositio rectissimè dicitur.* Capite tamen nono, *idem esse unctionem
+Chrismatis & manus impositionem, qui enim ungit, manus imponit, & idcirco
+utrumque significari, etiamsi alterum tantum exprimi videatur. Nam constat
+Apostolos in Confirmatione usos esse Chrismate.* Ad primum locum Bellarmini sic
+Spalatensis. *Atqui illa extensio manuum valdè impropriè dicitur impositio, & si
+sit impositio, non est tamen sacramentalis sed purè deprecatoria: neque in ea
+quisquam nostrum posuit vim*
+
+[Marginalia: De republ. l. 5. ca. 5. n. 29.]
+
+[1623 printed p. 350 | IA leaf 362 | PDF p. 362]
+
+*sacramenti: non ergo illa extensio aut impositio est materia proxima sacramenti.
+Pollice verò duntaxat frontem tangere esse manum imponere nimis coactum est,
+nimisque violentum. cum manus imposita semper intelligatur expansa, & desuper
+applicata. Pontifex autem tantummodo tangit uno digito adversam frontem hominis
+confirmandi, idque non ut ei manum imponat, sed ut crucem imprimat.* Ad
+posteriorem sic, *Mira certè sacrae scripturae declaratio an detorsio? Manus
+imponebant, hoc est, unguento ungebant. Quaero ex duabus actionibus ad unum
+effectum concurrentibus, ut sunt adhibitio manus & unctio tali adhibitione per
+manum facta, quae sit praecipua & Sacramentalis propriè? Certè si manus adhibetur
+non sui gratia sed gratia ungendi, tunc manus adhibitio erit instrumentalis,
+unctio verò erit actio principalis, & principaliter intenta. Ineptè scilicet Lucas,
+ubi debuit exprimere actionem principalem cui effectus deberetur, nempe unctionem,
+solam posuit instrumentalem, & sanè generalem, incertam ac indefinitam: quia manu
+multa fieri possunt circa hominem: potest ille aliena manu lavari, potest ungi,
+potest percuti, potest pingi &c. Cum igitur solam manus impositionem, eam profectò
+ut principalem actionem & per se intentam, non ut instrumentalem expressit.*
+
+[Marginalia: Num. 30.]
+
+Ex Cypriano & Tertulliano patet propriam manus impositionem adhibitam fuisse
+praeter eam manus actionem, quae includitur in unctione chrismatis. *Caro ungitur,*
+inquit Tertullianus, *ut anima consecretur, caro signatur ut anima muniatur, caro
+manus impositione adumbratur, ut anima spiritu illuminetur.* Et libro de baptismo
+*Egressi de lavacro perungimur benedicta unctione,* & paulo post, *Dehinc manus
+imponitur per benedictionem advocans & invitans spiritum sanctum.*
+
+[Marginalia: Lib. de resur. carnis.]
+
+Cyprianus epistola ad Iubaianum de baptizandis haereticis. *Quod nunc quoque apud
+nos geritur, ut qui in Ecclesia baptizantur per praepositos* (sic Bellarminus
+legit cap. 6. de confirmatione non praepositis) *Ecclesiae offerantur, & per
+nostram orationem & manus impositionem spiritum sanctum consequantur, & in
+signaculo Dominico consummentur.* Similia passim reperiuntur apud patres de manuum
+impositione, unde à quibusdam manus impositio, ab Eusebio Emisseno, vel quicunque
+fuit auctor, Sacramentum impositionis manuum dicitur in sermone de Pentecoste.
+*Unctio Chrismatis baptismo haud aliter ferè atque calix sanguinis Domini corporis
+Dominici sacramento conjungebatur,* ait Cassander in Liturgicis. *Et quemadmodum
+baptizati, Chrismate, ab Episcopo confirmari, ita quoque qui corpus Domini
+acceperant, ab Episcopo Presbytero vel Diacono calice sanguinis Domini confirmari
+dicebantur.* Probat ex libro Romani Ordinis. Itaque verbum confirmandi utrique
+actioni, id est unctioni Chrismatis & *dispensationi sanguinis commune erat.
+Quanquam confirmationis nomen huic actioni qua baptizati Chrismate inunguntur,
+hodie tantùm accommodatur.*
+
+[Marginalia: Pag. 218.]
+
+Spalatensis docet in veteri ecclesia per plura saecula ceremoniam confirmandi ceu
+consignandi fuisse
+
+[1623 printed p. 351 | IA leaf 363 | PDF p. 363 | split `ceremoni-` / `alem` joined]
+
+ceremonialem ritum baptismi non peculiare per se sacramentum, idque patere ex
+dictis Clementis in constitutionibus, Dionysii Areopagitae, Tertulliani, Cypriani,
+Concilii Elibertini, Optati Milevitani, authoris quaestionum apud Iustinum,
+Hieronymi, Ambrosii, Augustini, Theodoreti, Severi Patriarchae Alexandrini,
+Damasceni, Alcuini, Rabani, demonstrat. Ex quibus colligit ista, ex Melchiade &
+Fabiano. *Confirmatio ergo non est nomen absolutum unum per se sacramentum
+significans, sed relativum, ut unctio Chrismatis sit baptismi confirmatio, hoc est
+ultima ceremonia ultimusque ritus, quo totus baptismi ritus absolvitur &
+consummatur.* Ex Tertulliano. *Igitur ad ipsam Baptismi religionem spectarunt &
+unctiones & manuum impositiones ad spiritum sanctum invocandum.* Ex Cypriano,
+*Manus impositionem fuisse in vero ecclesiastico baptismo partem ceremonialem, &
+ultimum ritum, quo baptismi sacramentum consummaretur, ultimumque acciperet
+complementum.* Ex Hieronymo adversus luciferianos. *Ulterius innuit imò & explicat
+Hieronymus Confirmationem per manus Episcopalis impositionem esse quidem
+ceremoniam ad baptismum pertinentem, ita tamen, ut neque necessaria sit, neque
+quicquam illa per se spiritualiter efficiat, sed quod ei à quibusdam tribui solet,
+ut det spiritum sanctum, id totum perfectissimè haberi in solo baptismo, lege tamen
+Ecclesiastica eam adhiberi propter solum honorem quendam externum Episcopalis
+dignitatis.* Ex Augustino *Confirmationem esse partem Ceremonialem &
+Ecclesiasticam baptismi, quia baptizatos ungit Ecclesia.* Ex Alcuino, *Non est
+igitur haec consignatio Sacramentum confirmationis, sed est confirmatio sacramenti
+nempe baptismi, & consequenter etiam secundum Alcuinum ad baptismum spectat.*
+Deinde in genere, *Atque ex his omnibus testimoniis confirmatum maneat primum
+argumentum, quo ego confirmationem à numero propriè sumptorum sacramentorum
+excludebam, quia à Christo non erat instituta sed ab Ecclesia ad ritus baptismales
+complendos.*
+
+[Marginalia: De republ. lib. 5. cap. 5. num. 10. & sequ. ad 26.]
+
+[Marginalia: Num. 25.]
+
+Supra audivimus ex Tertulliano statim egressos ex lavacro perunctos fuisse: dehinc
+manus impositas. Unctio igitur & manus impositio claudebant baptismi
+ministrationem. Non erant duae unctiones post baptismum una in vertice per
+Presbyterum, alia in fronte per Episcopum, sed una usque ad tempora Sylvestri.
+Ante Sylvestri tempora facilè poterant baptizatos chrismate signare Episcopi,
+quandiu non habebant latè fusas Dioeceses, sed angustis finibus conclusas, &
+duraret mos ille celebrandi baptismum statis temporibus paschae & pentecostes &
+in uno eodemque loco nempe civitate. Sed cum latius extenderentur Dioeceses, &
+obsolescere coeperat mos ille, & non uno in loco ut puta civitate baptizarentur
+infantes, nec potuit Episcopus, qui in honorem sacerdotii non ob legis
+necessitatem istam ungendi chrismate & imponendi manus praerogativam jam
+acquisiverat, ad singulos baptizatos in pagis & villis excurrere, ne tamen omnino
+chrismate destituti essent baptizati & ex hac vita
+
+[1623 printed p. 352 | IA leaf 364 | PDF p. 364]
+
+migrarent ante adventum
+Episcopi, institutum est ut Chrisma quo baptizati in vertice à Presbytero
+inunguntur, in omni ordinario baptismo adhiberetur, reservata nihilominus Episcopo
+unctione chrismatis in fronte, quam tamen non distulit ad septennium aut decennium
+aetatis baptizati, ut nunc apud pontificios sed statim data occasione opportuna.
+
+Augustinus ait *Quando imposuimus manus istis infantibus, attendit unusquisque
+vestrum, utrum linguis loquerentur.*
+
+[Marginalia: Tractat. 6. in 1 Canonicâ Iohan.]
+
+Et alibi dicit quando parvuli confirmantur, eos qui illos offerunt pro ipsis
+respondere sicut in baptismo.
+
+[Marginalia: De Eccles. dogmat. cap. 52.]
+
+Vides non expectasse Episcopum, donec per se Psittacorum instar recitare possent
+pauca quaedam capita brevis catechismi. *Hoc autem institutum ut baptizati
+chrismate à Presbytero in vertice linirentur, Sylvestro attribuunt,* inquit
+Cassander. Beda, cum duarum unctionum meminisset, unius ante baptismum, alterius,
+quae statim fit post baptismum ait. *Sciendum autem, quod illa unctio, quae fit
+per manuum impositionem ab Episcopis quasi alia à duabus praedictis & vulgo
+confirmatio dicitur, eadem est cum secunda, propter arrogantiam tamen non concessa
+est singulis sacerdotibus sicut & multa alia.*
+
+[Marginalia: Tom. 8. in Psal. 26.]
+
+Unica igitur unctio post baptismum erat olim *neque separatae chrismatio in
+vertice & chrismatio in fronte,* ait Spalatensis, sed propter arrogantiam Episcopi
+qui ante solebat ungere, & praerogativam illam sibi delatam amittere non voluit,
+& ne omnino tamen baptizati decederent ex hac vita absque Chrismate, excogitata
+est duplex Chrismatis unctio post baptismum quarum haec altera propter arrogantiam
+reservata est Episcopo, ut & multa alia propter arrogantiam reservata sunt,
+inquit Beda.
+
+[Marginalia: Lib. 5. ca. 5. num. 31.]
+
+*Ante tempora Tertulliani nullam Chrismationum memoriam authenticam invenio &
+scriptores Ecclesiastici ante Tertullianum de unctione confirmationis nihil
+dixerunt Iustinus praesertim Apol. 2. in fine qui exactè recenset totos ritus
+baptismi & eucharistiae, de consecratione ne verbum quidem.* Spalat. num. 31.
+Iustinus nec unctionis nec impositionis manuum meminit, tum tamen profitetur si
+nihil omissurum, *ne,* inquit, *malignè quicquam, & dissimulanter agere in hac
+narratione videamur.* Hic igitur videtur fuisse ortus & origo Confirmationis.
+Concludentes baptismi ministrationem orabant pro baptizato, sicut nos in ecclesiis
+reformatis statim post ipsam aspersionem concipimus brevem precatiunculam pro
+baptizato, nempe ut eum Dominus tueatur, ut gratia illa, quae obsignatur in
+baptismo se exerceat cum ad adultiorem pervenerit aetatem, & indies crescat ad
+extremum halitum, & similia. Dum ita orabant concludentes baptismum imponebant
+manus, additum Chrisma & signum crucis. Nos rem ipsam tenemus nempe
+precatiunculum pro baptizato, ut dictum, ritum autem impositionis manuum non
+usurpamus nec quae addita sunt Chrisma & signum crucis, quia inde error natus est
+spiritum sanctum non datum in ipso baptismo, nisi ad
+
+[1623 printed p. 353 | IA leaf 365 | PDF p. 365 | split `remissio-` / `nem` joined]
+
+remissionem peccatorum. Si nuda mansisset impositio manuum absque Chrismate &
+signo crucis, dum clauderent baptismi celebrationem ut simplex gestus orantis &
+benedicentis baptizato, sicut variè usurpatus erat in personalibus benedictionis
+gestus ille in veteri & nova lege, & ad alias etiam personales benedictiones
+adhiberetur, ut cum recipiuntur conversi, aut reconciliantur poenitentes,
+tolerabilis esset mos ille. Hic & non alius est locus impositionis manuum, si
+servandus sit mos veterum, licet postea divulsa fuerat una cum unctione frontis à
+baptismo, & tandem dilata in septennium aut decennium, sicut jam fit in Anglia,
+ubi rejecto chrismate signum crucis reliquerunt in clausula baptismi, &
+impositionem manuum distulerunt ad septimum vel octavum annum.
+
+Ecclesia Anglicana non observat morem veterum imponendi manus infantibus
+baptizatis, vel priorem in baptismi clausula vel posteriorem statim à baptismo
+data prima occasione. Sed quid si Ecclesiae primitivae Apostolicae exemplum se
+imitari potius dicant. Impositio illa manuum de qua Heb. 6 erat adhibita
+adultioribus qui statim ad sacram coenam admittendi erant, qui in Ecclesiam
+adultorum recipiendi erant, qui recipiebant se disciplinae Ecclesiasticae sese
+subjecturos. Interpretantur quidam locum illum de impositione manuum extraordinaria
+qua Apostoli conferebant dona illa extraordinaria, alii de impositione ordinatoria
+seu consecratoria, qua inaugurantur Ministri ad munus ministerii obeundum. alii de
+Catechumenorum admissione in Ecclesiam adultorum, vel liberorum fidelium adultorum
+qui hactenus erant in Ecclesia foederatorum, vel conversorum à paganismo aut
+haeresi, qui utrique probè tenebant capita doctrinae catecheticae, ut de fide in
+Deum, resipiscentia ab operibus mortuis, resurrectione mortuorum, & judicio
+aeterno. Admitto jam interpretationem istam tertiam, & tamen dico non favere
+Pontificiae aut Anglicanae Confirmationi, sed potius Ecclesiis reformatis illis,
+quae ad rem ipsam proprius accedunt, nempe neminem admittentes extraneum in
+gremium Ecclesiae, aut ad sacram Coenam, absque fidei professione solenni,
+examinatione, foederis pactione, & precibus Ecclesiae, & ubi quid desideratur,
+restitui optamus, licet ritum adiaphorum impositionis manuum sua natura liberum,
+est enim tantum gestus orantis, & tam foedè conspurcatum superioribus & hisce
+saeculis, tum à Pontificiis, tum ab Anglis, ut statim videbimus, non usurpent. Si
+usurparetur, non tamen propterea confirmatoriam diceremus ratione spiritus sancti
+confirmantis, sed Ecclesiae approbantis & confirmantis sua approbatione examinatum
+& ad verum illud ac geminuum Confirmationis sacramentum admittentis. Propriè
+quidem & primariò esset gestus orantis tempore precum, ex consequenti autem
+Ecclesiae confirmantis & approbantis. Et sic quod personatus Clemens
+
+[1623 printed p. 354 | IA leaf 366 | PDF p. 366]
+
+Apostolicar. constitut. lib. 3. cap. 17. tribuit unguento suo, nempe quod sit
+βεβαίωσις τῆς ὁμολογίας confirmatio confessionis scilicet fidei, impositionis
+ritui, prout est signum ecclesiae confirmantis & approbantis confessionem
+Catechumeni, tribueremus, non vim sacramentalem confirmandi. Sed quia ut dixi,
+ritus ipse est indifferens & foedè conspurcatus, meritò omissus in ecclesiis
+reformatis, tum in clausula baptismi, ubi eam veteres usurpabant temporibus
+Cypriani & Tertulliani, tum in admissione catechumenorum in ecclesiam adultorum,
+cum jam sunt futuri participes sacrae coenae, & disciplinae ecclesiasticae
+subjiciendi.
 
 ### English translation
 
@@ -3915,8 +4243,363 @@ papists do. They teach that temples were built principally for the sacrifice of
 the Mass, as Solomon's temple was built for sacrifices offered to God, and thus
 that the sacrificing priest must sacrifice in a holier and separate place.
 
-The next untranslated boundary is the numbered heading on printed p. 347:
-`3 Pueros confirmare.`
+3 To confirm children.
+
+Mocket says: *To confirm by prayers and the laying on of hands children who have
+been taught the Catechism.* Tilenus says: *Concerning the confirmation of the
+baptized, I marvel at the quarrel instituted by your people, since Calvin
+himself acknowledges that this rite was approved by purer antiquity, approves
+it himself, and wishes it restored, Institutes, book 4, chapter 19, section 4.*
+But he wishes rather than hopes that the simple use of the laying on of hands
+will be restored. We approve the thing itself—namely, that children should be
+instructed in catechetical doctrine before they are admitted to participation
+in the Supper,
+
+[Marginalia: De Polit. p. 319.]
+
+[Marginalia: Paraenes. cap. 15.]
+
+[1623 printed p. 348 | IA leaf 360 | PDF p. 360 | split `oran-` / `dum` joined]
+
+and that prayer should be made for them, as we also do whenever they are
+examined. But we judge the rite of laying on hands to be indifferent in its own
+nature;
+for what is it but a gesture of one praying, as we shall hear below? And since
+this rite degenerated into the spurious sacrament of confirmation, the Reformed
+churches rightly omitted it. We, however, resist its restoration, partly to
+assert Christian liberty in indifferent rites, and partly to remove from our
+church the Anglican sacrament of confirmation.
+
+The laying on of hands is a very simple rite, common to the church under the Old
+and New Testaments: namely, the gesture of one praying or blessing, by which the
+person for whom prayers and blessings are poured out is indicated with a hand
+laid upon him. Jacob laid his hands upon Joseph's sons when blessing them,
+Genesis 48; Moses upon Joshua, Numbers 27. Hands were also laid upon those who
+were enrolled among the senators of the Great Sanhedrin and those who were
+promoted by the rabbis to the teaching office. Thus the use of this rite was
+common in sacred and civil affairs: in patriarchal blessings and in the
+inaugurations of senators, teachers, and leaders. In the New Testament we read
+that Christ, when little children were brought to him that he might lay hands
+upon them and pray, laid his hands upon them, Matthew 19:13, 15. The papists
+themselves acknowledge that Christ did not institute the sacrament of
+confirmation here. *For no promise, no command, and no designation of matter or
+form is found there, without which the institution of a sacrament cannot exist.
+Likewise, it is unlikely that Christ confirmed those children, because, as we
+said with St Thomas, it was fitting that this sacrament should not be ministered
+before Christ's glorification. Moreover, those children had not yet been
+baptized, nor were they offered to Christ for this end, but that they might be
+blessed by him, as Jerome says, or that they might be healed, as Anselm
+indicates.*
+
+[Marginalia: Suarez. in 3 part. Sum. disput. 32. sect. 2.]
+
+Hands were laid on in the ordinations of ministers, 1 Timothy 4:14; likewise on
+Paul and Barnabas when sent out by the church of Antioch, Acts 13:3; and on Paul
+when his blindness was healed and he was filled with the Holy Spirit, Acts 9:17.
+Hands were also laid on in healing the sick and infirm, Matthew 4:18; Mark 5:23;
+Mark 16:18; Acts 28:8. The apostles also laid on hands while praying when
+conferring the extraordinary gifts of the Holy Spirit, Acts 8:15, 17. The laying
+on of hands, therefore, was a familiar gesture among the Jews whenever there was
+some solemn prayer or blessing, especially where there was one particular person
+to be blessed. For if the assembly was more numerous, hands were raised. *Then
+Aaron, raising his hands toward the people, blessed them,* Leviticus 9:22. And
+Christ blessed his disciples with his hands raised, Luke 24:50. Drusius observes
+that when priests blessed the people, if they were in the city, they raised
+their hands toward their shoulders. The ancients in the Christian church also
+used this gesture in various ways: in ordaining ministers, admitting
+catechumens, embracing converted heretics, and reconciling the fallen, as we
+said above at p. 238.
+
+[Marginalia: Commentat. in loca difficiliora pentateuchi pag. 370.]
+
+[1623 printed p. 349 | IA leaf 361 | PDF p. 361]
+
+Since this rite was used in such varied ways both in the Old and New Testaments
+and among the ancients, and since it is nothing other than the gesture of one
+praying, indicating the person for whom one prays in the church's name that
+grace may be obtained—not signifying, much less sealing and exhibiting, the
+grace that the one praying or blessing seeks—it cannot properly be called a
+sacrament. There is no analogy between that gesture and the grace the church
+seeks for a person who is baptized, reconciled, ordained, or, when an adult,
+admitted to the sacrament of the Eucharist. Even if we could devise some
+analogy, Christ's institution and promise would still be lacking, and it would
+seal nothing. For it belongs to Christ alone, who has the power of excellence,
+to institute sacraments. But, as I said, this rite was used to indicate the
+particular person for whom we seek grace, not to signify that grace itself and
+seal it.
+
+The papists devised sensible matter for this sacrament: chrism composed of olive
+oil and balsam as its remote matter, and an anointing made from chrism in the
+figure or sign of the cross as its proximate matter. Nor do the papists
+recognize any laying on of hands as essential to this sacrament of confirmation
+except what is intrinsically included in the anointing itself. *It must be
+said,* Suarez states, *that no laying on of a hand distinct from the anointing
+with chrism performed by the bishop's hand belongs to the essence of this
+sacrament; but that the anointing itself is essential, and that both points are
+sufficiently established from what has been said and from the church's practice.
+Nor does the apostolic act in Acts 8 stand against this truth, because it was not
+according to the law and institution of the sacraments, but apart from it by a
+special omission or dispensation. Consequently, that sign of the simple laying
+on of a hand was not the true sacrament of confirmation as regards substance,
+though it was so as regards effect. Likewise, the simple laying on of hands used
+by the apostles in Acts 8 and 9 was not in fact the sacrament of confirmation
+that we now have, because it differed greatly in its sensible rite; indeed, it
+was not a sacrament simply speaking, because it was not a ceremony instituted
+by a firm and stable law.*
+
+[Marginalia: Swarez. tom. 3. disput. 33. sect. 4.]
+
+Although Bellarmine says in chapter 2 on confirmation that the laying on of hands
+has not been rejected—*For the bishop twice lays hands on those being confirmed,
+as can be understood from the Roman Pontifical: once when he extends his hands
+over them and prays, and again when he signs and anoints them on the forehead;
+for the anointing and signing itself, since it is done by the hand, is most
+properly called a laying on of the hand*—nevertheless, in chapter 9 he says that
+*the anointing with chrism and the laying on of the hand are the same thing, for
+he who anoints lays on his hand, and therefore each is signified even if only one
+seems to be expressed. For it is certain that the apostles used chrism in
+confirmation.* Spalatensis answers Bellarmine's first passage thus: *But that
+extension of the hands is very improperly called a laying on; and if it is a
+laying on, it is nevertheless not sacramental but purely deprecatory. Nor has
+anyone among us placed the power*
+
+[Marginalia: De republ. l. 5. ca. 5. n. 29.]
+
+[1623 printed p. 350 | IA leaf 362 | PDF p. 362]
+
+*of the sacrament in it. Therefore that extension or laying on is not the
+proximate matter of the sacrament. But to say that merely touching the forehead
+with the thumb is to lay on a hand
+is excessively forced and violent, since a hand laid on is always understood as
+spread out and applied from above. But the pontiff merely touches the front of
+the person being confirmed with one finger, and he does this not to lay a hand
+upon him but to imprint a cross.* To the later passage Spalatensis replies: *A
+marvelous exposition—or distortion—of Holy Scripture indeed! “They laid on
+hands”; that is, “they anointed with ointment.” I ask which of two actions
+contributing to one effect—namely, the application of the hand and the anointing
+performed by such application through the hand—is properly the principal and
+sacramental action? Surely, if the hand is applied not for its own sake but for
+the sake of anointing, then the hand's application will be instrumental, while
+the anointing will be the principal action and principally intended. Luke, then,
+absurdly expressed only the instrumental action when he ought to have expressed
+the principal action to which the effect was due, namely the anointing; and he
+expressed one that was altogether general, uncertain, and indefinite, because
+many things can be done to a person by a hand: he can be washed, anointed,
+struck, painted, and so forth by another's hand. Since, therefore, Luke expressed
+only the laying on of the hand, he certainly expressed it as the principal
+action intended in itself, not as an instrumental one.*
+
+[Marginalia: Num. 30.]
+
+It is clear from Cyprian and Tertullian that a proper laying on of the hand was
+used in addition to that action of the hand included in anointing with chrism.
+*The flesh is anointed,* Tertullian says, *that the soul may be consecrated; the
+flesh is signed that the soul may be fortified; the flesh is overshadowed by
+the laying on of the hand that the soul may be illuminated by the Spirit.* And
+in his book on baptism: *When we have come out of the laver, we are anointed with
+a blessed anointing*; and a little later: *Then the hand is laid on, through the
+blessing calling and inviting the Holy Spirit.*
+
+[Marginalia: Lib. de resur. carnis.]
+
+Cyprian says in his letter to Jubaianus on baptizing heretics: *This is also what
+is now done among us, so that those baptized in the church may be offered to the
+church through the presidents*—Bellarmine reads “through the presidents,” not
+“to the presidents,” in chapter 6 on confirmation—*and through our prayer and
+the laying on of the hand may obtain the Holy Spirit and be consummated with the
+Lord's seal.* Similar statements about the laying on of hands occur everywhere
+among the fathers. Hence some call it the laying on of hands, while Eusebius of
+Emesa—or whoever was the author—calls it the Sacrament of the Laying On of Hands
+in the sermon on Pentecost. *Anointing with chrism was joined to baptism in much
+the same way as the cup of the Lord's blood was joined to the sacrament of the
+Lord's body,* Cassander says in his *Liturgics*. *And just as those baptized were
+said to be confirmed with chrism by the bishop, so those who had received the
+Lord's body were said to be confirmed with the cup of the Lord's blood by the
+bishop, presbyter, or deacon.* He proves this from the Book of the Roman Order.
+Thus the word *confirming* was common to both actions, that is, to anointing with
+chrism and *the distribution of the blood. Although today the name confirmation
+is applied only to this action in which the baptized are anointed with chrism.*
+
+[Marginalia: Pag. 218.]
+
+Spalatensis teaches that in the ancient church, for many centuries, the ceremony
+of confirming or signing was
+
+[1623 printed p. 351 | IA leaf 363 | PDF p. 363 | split `ceremoni-` / `alem` joined]
+
+a ceremonial rite of baptism, not a distinct sacrament in itself. He
+demonstrates that this is evident from
+the statements of Clement in the *Constitutions*, Dionysius the Areopagite,
+Tertullian, Cyprian, the Council of Elvira, Optatus of Milevis, the author of the
+questions attributed to Justin, Jerome, Ambrose, Augustine, Theodoret, Severus
+the patriarch of Alexandria, John of Damascus, Alcuin, and Rabanus. From these,
+and from Melchiades and Fabian, he draws the following conclusions. *Confirmation,
+therefore, is not an absolute term signifying one sacrament in itself but a
+relative one, so that anointing with chrism is the confirmation of baptism, that
+is, the final ceremony and last rite by which the whole rite of baptism is
+completed and consummated.* From Tertullian: *Therefore both the anointings and
+the layings on of hands for invoking the Holy Spirit belonged to the very
+religion of baptism.* From Cyprian: *The laying on of the hand was a ceremonial
+part of true ecclesiastical baptism and its final rite, by which the sacrament
+of baptism was consummated and received its final completion.* From Jerome
+against the Luciferians: *Jerome further intimates and indeed explains that
+confirmation through the laying on of the bishop's hand is indeed a ceremony
+belonging to baptism, yet in such a way that it is neither necessary nor
+accomplishes anything spiritual by itself. Rather, what is customarily
+attributed to it by some—that it gives the Holy Spirit—is possessed most
+perfectly in baptism alone; nevertheless it is employed by ecclesiastical law
+solely for a certain outward honor of episcopal dignity.* From Augustine:
+*Confirmation is a ceremonial and ecclesiastical part of baptism, because the
+church anoints the baptized.* From Alcuin: *This signing, therefore, is not the
+sacrament of confirmation but the confirmation of the sacrament, namely baptism,
+and consequently, according to Alcuin, it too belongs to baptism.* Then in
+general: *And from all these testimonies let the first argument by which I
+excluded confirmation from the number of sacraments properly so called remain
+confirmed, because it was not instituted by Christ but by the church to complete
+the baptismal rites.*
+
+[Marginalia: De republ. lib. 5. cap. 5. num. 10. & sequ. ad 26.]
+
+[Marginalia: Num. 25.]
+
+We heard above from Tertullian that those who had just come out of the laver were
+anointed and that hands were then laid upon them. Thus anointing and the laying
+on of hands concluded the administration of baptism. Until the time of Sylvester
+there were not two anointings after baptism, one on the crown by the presbyter
+and another on the forehead by the bishop, but one. Before Sylvester's time,
+bishops could easily sign the baptized with chrism so long as their dioceses were
+not spread far and wide but enclosed within narrow limits, and so long as the
+custom endured of celebrating baptism at the fixed seasons of Easter and
+Pentecost and in one and the same place, namely the city. But when the dioceses
+extended more widely, that custom began to fall out of use, and infants were not
+baptized in one place such as the city, the bishop—who had now acquired for
+himself, for the honor of the priesthood and not from any necessity of law, this
+prerogative of anointing with chrism and laying on hands—could not hurry out to
+each person baptized in the villages and country settlements. Yet lest the
+baptized should be wholly deprived of chrism and
+
+[1623 printed p. 352 | IA leaf 364 | PDF p. 364]
+
+depart this life before the
+bishop's arrival, it was instituted that the chrism with which the baptized are
+anointed on the crown by the presbyter should be used in every ordinary baptism,
+while the anointing with chrism on the forehead was nevertheless reserved to the
+bishop. He did not, however, defer it until the seventh or tenth year of the
+baptized person's age, as is now done among the papists, but administered it as
+soon as a suitable opportunity was given.
+
+Augustine says: *When we laid our hands upon these infants, each of you watched
+to see whether they would speak with tongues.*
+
+[Marginalia: Tractat. 6. in 1 Canonicâ Iohan.]
+
+And elsewhere he says that when little children are confirmed, those who present
+them answer for them just as in baptism.
+
+[Marginalia: De Eccles. dogmat. cap. 52.]
+
+You see that the bishop did not wait until they could recite for themselves, in
+the manner of parrots, a few heads of a short catechism. *They attribute to
+Sylvester this institution, that the baptized should be anointed on the crown
+with chrism by the presbyter,* Cassander says. Bede, after mentioning two
+anointings, one before baptism and the other immediately after it, says: *It must
+be known that the anointing performed by the laying on of hands by bishops—as if
+it were different from the two already mentioned and is commonly called
+confirmation—is the same as the second. Yet because of arrogance it has not been
+granted to individual priests, just as many other things have not.*
+
+[Marginalia: Tom. 8. in Psal. 26.]
+
+Thus there was formerly one anointing after baptism, *and not separate
+anointings with chrism on the crown and with chrism on the forehead,* Spalatensis
+says. But because of the arrogance of the bishop, who formerly used to anoint
+and did not wish to lose that prerogative granted to him, and yet lest the
+baptized should depart this life altogether without chrism, a double anointing
+with chrism after baptism was devised. Of these, the latter was reserved to the
+bishop because of arrogance, just as many other things are reserved because of
+arrogance, Bede says.
+
+[Marginalia: Lib. 5. ca. 5. num. 31.]
+
+*Before Tertullian's time I find no authentic remembrance of chrismations, and
+ecclesiastical writers before Tertullian said nothing about the anointing of
+confirmation. Justin especially, at the end of his second Apology, recounts all
+the rites of baptism and the Eucharist exactly but says not a word about the
+consecration.* Spalatensis, number 31. Justin mentions neither anointing nor the
+laying on of hands, although he then professes that he will omit nothing, *lest,*
+he says, *we seem to act with any malice or concealment in this account.* This,
+then, seems to have been the origin and beginning of confirmation. Those
+concluding the administration of baptism prayed for the baptized person, just as
+we in Reformed churches immediately after the sprinkling itself frame a short
+prayer for the baptized person: namely, that the Lord would protect him; that
+the grace sealed in baptism would display itself when he reached a more mature
+age and would increase daily to his final breath; and similar things. As they
+prayed in this way to conclude baptism, they laid on hands. Chrism and the sign
+of the cross were added. We retain the thing itself, namely the short prayer for
+the baptized person as described, but we do not employ the rite of laying on
+hands, nor the chrism and sign of the cross that were added, because from them
+arose the error that the Holy Spirit is not given in baptism itself except for
+the
+
+[1623 printed p. 353 | IA leaf 365 | PDF p. 365 | split `remissio-` / `nem` joined]
+
+remission of sins. If the bare laying on of hands without chrism and the sign of the cross
+had remained when they concluded the celebration of baptism—as a simple gesture
+of one praying and blessing the baptized person, just as that gesture had been
+variously used in personal blessings under the Old and New Laws and was employed
+for other personal blessings too, as when converts were received or penitents
+reconciled—that custom would have been tolerable. This and no other is the place
+for laying on hands if the custom of the ancients is to be preserved, although
+it was later torn away from baptism together with the anointing of the forehead
+and was finally deferred until the seventh or tenth year, as is now done in
+England, where they have rejected chrism, left the sign of the cross at the close
+of baptism, and deferred the laying on of hands until the seventh or eighth year.
+
+The Church of England does not observe the ancient custom of laying hands on
+baptized infants, either the earlier form at the close of baptism or the later
+form immediately after baptism at the first opportunity. But what if they say
+that they imitate instead the example of the primitive apostolic church? The
+laying on of hands mentioned in Hebrews 6 was used for those of more mature age
+who were then to be admitted to the Holy Supper, received into the church of
+adults, and undertook to subject themselves to ecclesiastical discipline. Some
+interpret that passage of the extraordinary laying on of hands by which the
+apostles conferred extraordinary gifts; others, of the ordaining or consecrating
+laying on by which ministers are inaugurated to discharge the ministry; still
+others, of the admission of catechumens into the church of adults—either adult
+children of the faithful who had hitherto belonged to the church's covenant, or
+converts from paganism or heresy. Both groups knew well the heads of catechetical
+doctrine, such as faith toward God, repentance from dead works, the resurrection
+of the dead, and eternal judgment. I now grant this third interpretation, yet I
+say that it favors neither papist nor Anglican confirmation, but rather those
+Reformed churches that approach more closely to the thing itself: they admit no
+outsider into the church's bosom or to the Holy Supper without a solemn
+profession of faith, examination, covenant engagement, and the church's prayers.
+Where anything is lacking, we wish it restored, although they do not employ the
+indifferent rite of laying on hands, which is free in its own nature—for it is
+only the gesture of one praying—and has been so foully defiled in former and
+present centuries, both by papists and by Anglicans, as we shall soon see. If it
+were employed, we would nevertheless not call it confirmatory on account of the
+Holy Spirit's confirming, but on account of the church's approving and, by its
+approval, confirming the examined person and admitting him to that true and
+twin sacrament of confirmation. Properly and primarily it would be the gesture
+of one praying at the time of prayer, and consequently a gesture of the church
+confirming and approving. Thus what the counterfeit Clement in
+
+[1623 printed p. 354 | IA leaf 366 | PDF p. 366]
+
+the *Apostolic Constitutions*, book 3, chapter 17, attributed to his
+ointment—namely, that it is βεβαίωσις τῆς ὁμολογίας, the confirmation of the
+profession, that is, of the profession of faith—we would attribute
+to the rite of laying on hands insofar as it is the sign of the church confirming
+and approving the catechumen's confession, not a sacramental power of confirming.
+But because, as I said, the rite itself is indifferent and has been foully
+defiled, it has rightly been omitted in Reformed churches, both at the close of
+baptism, where the ancients used it in the time of Cyprian and Tertullian, and in
+the admission of catechumens into the church of adults, when they are about to
+become participants in the Holy Supper and subject to ecclesiastical discipline.
+
+The next untranslated boundary is the paragraph on printed p. 354 beginning:
+`Angli sicut pontificii, nec in clausula baptismi imponunt manus...`
 
 All thirty-one units and the paired README continuation remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or

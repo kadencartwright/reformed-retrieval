@@ -1392,3 +1392,28 @@ page and is excluded.
 The next restart point is `QUÆSTIO XVII. DE FORMULA BAPTISMI. An Formula
 Baptismi a Christo præscripta in administratione ejus observanda sit? Et quid
 importet?` on shared printed p. 344 / IA leaf 378 / PDF p. 378.
+
+## Part 51
+
+Part 51 contains the complete Locus XIX, Question XVII, “De Formula Baptismi.
+An Formula Baptismi a Christo præscripta in administratione ejus observanda
+sit? Et quid importet?” It begins with the question heading on shared printed
+p. 344 / IA leaf 378 / PDF p. 378, immediately after Question XVI, and ends
+with section VI on printed p. 345 / IA leaf 379 / PDF p. 379. Question XVIII,
+“De Veritate et Ritibus Baptismi Romani,” begins on the next printed page and
+is excluded.
+
+- Latin: `parts/part-51-locus-19-question-17-latin.txt`
+- English: `parts/part-51-locus-19-question-17-english.md`
+- Both files contain two synchronized source-page markers, the complete section
+  sequence I–VI, and four synchronized marginalia blocks.
+- The scan verification covered both page images and the sole page join. The
+  pp. 344–345 join falls within section IV after `de` in the Ambrose citation
+  and divides no word.
+- The transcription retains the printed Greek quotation and the witness’s
+  abbreviations, spelling, capitalization, and citations. The English
+  translates the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XVIII. DE VERITATE ET RITIBUS BAPTISMI
+ROMANI. An in Ecclesia Romana retineatur vera doctrina de Baptismo? Dist.` on
+printed p. 346 / IA leaf 380 / PDF p. 380.

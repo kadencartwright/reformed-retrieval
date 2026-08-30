@@ -53,7 +53,8 @@ remain byte-identical to the recorded derivatives. They were freshly acquired
 again for Parts 28–29 on the same date and remain byte-identical to that set;
 the same locally retained derivatives govern Parts 30–32. The access PDF and
 plain OCR were freshly acquired once more for Parts 33–35 on 30 August 2026
-and remain byte-identical to the recorded derivatives:
+and remain byte-identical to the recorded derivatives; the same locally
+retained derivatives govern Parts 36–37:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -97,7 +98,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter II on the upper part of printed p. 246. Shared-page boundaries preserve
+Chapter IV on the upper part of printed p. 255. Shared-page boundaries preserve
 each new argumentative unit in the following part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
@@ -137,6 +138,8 @@ each new argumentative unit in the following part rather than duplicating it.
 | 33 | Book II title and prospectus | printed pp. 233–234 / IA leaves 251–252 / PDF pp. 251–252; follows the blank verso on PDF 250 and stops before `CAP. I.` on p. 235 | 2 |
 | 34 | Book II, Chapter I; divine worship and its divisions | printed p. 235 through the upper part of shared p. 242 / IA leaves 253–260 / PDF pp. 253–260; stops before `CAP. II.` | 8 |
 | 35 | Book II, Chapter II; ejaculatory and solemn solitary worship | lower part of shared printed p. 242 through the upper part of shared p. 246 / IA leaves 260–264 / PDF pp. 260–264; stops before `CAP. III.` | 5 |
+| 36 | Book II, Chapter III; social and especially domestic worship | lower part of shared printed p. 246 through the upper part of shared p. 250 / IA leaves 264–268 / PDF pp. 264–268; stops before `CAP. IV.` | 5 |
+| 37 | Book II, Chapter IV; general principles concerning time | lower part of shared printed p. 250 through the upper part of shared p. 255 / IA leaves 268–273 / PDF pp. 268–273; stops before `CAP. V.` | 6 |
 
 The files are:
 
@@ -175,8 +178,10 @@ The files are:
 - `parts/part-33-book-02-prospectus-{latin.txt,english.md}`
 - `parts/part-34-book-02-chapter-01-worship-and-divisions-{latin.txt,english.md}`
 - `parts/part-35-book-02-chapter-02-solitary-worship-{latin.txt,english.md}`
+- `parts/part-36-book-02-chapter-03-domestic-worship-{latin.txt,english.md}`
+- `parts/part-37-book-02-chapter-04-general-principles-of-time-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–35 image audits
+### Part 04 re-audit and Parts 05–37 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -936,6 +941,42 @@ before Chapter III are omitted. The exact Part 35 ending is `...sufficiat hoc
 hîc obiter annotasse.`
 The next untranslated text is `CAP. III. De Cultu Sociali, imprimis Domestico.`
 on shared printed p. 246 / IA leaf 264 / PDF p. 264.
+
+Part 36 is the complete, image-audited third chapter of Book II, establishing
+the duty of social worship and arguing at length for solemn domestic worship.
+Every controlling image from `CAP. III. De Cultu Sociali, imprimis Domestico.`
+on PDF 264 through the chapter end on PDF 268 was read directly, including all
+four internal joins and the outgoing shared-page stop before `CAP. IV.` OCR was
+used only as a collation aid. The Latin and English contain the identical
+five-marker sequence. The terminal errata readings `diei` (printed p. 249,
+line 7) and `Natio` (p. 249, final line) are incorporated; its general warning
+about deficient Greek and Hebrew type is disclosed in both file headers, and
+the controlling image governs `אז הוחל לקרא בשם יהוה`. No Greek or separate
+substantive marginal gloss occurs. The pp. 246/247 join falls within the `2
+Sam. 1:12` citation, while the remaining joins fall between complete words;
+the line-end division `universam` within p. 246 is joined. Catchwords and rules
+are omitted. The exact Part 36 ending is `...non est
+ethnicum dicendum.` The next untranslated text at that handoff was `CAP. IV.
+Generalia quaedam de Tempore proponuntur.` on shared printed p. 250 / IA leaf
+268 / PDF p. 268.
+
+Part 37 is the complete, image-audited fourth chapter of Book II, distinguishing
+the duration, frequency, and beginning of actions and setting out the principal
+modes of determining time. Every controlling image from `CAP. IV. Generalia
+quaedam de Tempore proponuntur.` on PDF 268 through the chapter end on PDF 273
+was read directly, including all five internal joins and the outgoing
+shared-page stop before `CAP. V.` OCR was used only as a collation aid. The
+Latin and English contain the identical six-marker sequence. The terminal
+errata leaf assigns no particular correction to printed pp. 250–255; its
+general warning about Greek and Hebrew type is disclosed in both file headers,
+though neither script occurs in this unit. No separate substantive marginal
+gloss occurs. Printer-divided words at four joins are joined with the new
+marker before the complete Latin word or corresponding English phrase; the pp.
+253/254 join falls between complete words. Catchwords and rules are omitted.
+The exact Part 37 ending is `...ut haec
+accepta referamus.` The next untranslated text is `CAP. V. Generalia quaedam de
+Tempore Religioni aut Cultui Divino applicata.` on shared printed p. 255 / IA
+leaf 273 / PDF p. 273.
 
 ## Review and licensing status
 

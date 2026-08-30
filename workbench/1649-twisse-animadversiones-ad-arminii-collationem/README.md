@@ -450,21 +450,61 @@ and the pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-14-proposition-14-section-03-latin.txt`
 - `parts/part-14-proposition-14-section-03-english.md`
 
+## Part 15: exact authorial boundary
+
+Part 15 begins with centered `SECTIO QUARTA` on the shared right column of
+**first-body printed p. 63 / BSB canvas 75** and contains Proposition XIV,
+Section IV in full: Arminius's argument from Satan's ineluctable temptation,
+Junius's distinctions concerning the particular and common laws and the three
+works of providence and grace, Arminius's rejoinder, and Twisse's complete
+two-part response. It continues through **first-body printed p. 65 / BSB
+canvas 77**, with three synchronized source markers.
+
+At the first page join the p. 63 text ends with the preposition `in`; the p. 64
+marker therefore stands between `in` and its relative `quo`, while the English
+marker occupies the corresponding position between “in” and “which.” At the
+second join the p. 64 catchword `in` is omitted and the p. 65 marker precedes
+the full opening `in peccato derelictio`; the English marker correspondingly
+precedes “abandonment in sin.”
+
+The abbreviated printed `Saltè`, `fuerã`, and `formã` are expanded to `Saltem`,
+`fuerant`, and `formam` in accordance with the normalized treatment of printer
+abbreviations. The anomalous printed forms `ab omnis`, `sublimioris erat`, and
+`excutione` are retained in the Latin; the English identifies `omnis`
+explicitly and renders the sense of the remaining forms. No printed marginal
+annotation occurs within this unit.
+
+The unit stops in the left column of printed p. 65 after Twisse's sentence
+ending:
+
+> `… in cerebro tantum Arminii natum est, & praeter omnem sobrietatem
+> conceptum.`
+
+It stops immediately before the centered heading `Propositio Decimaquinta.`
+lower in the same column. The next part must therefore begin with `Propositio
+Decimaquinta.` and repeat the marker for **first-body printed p. 65 / BSB
+canvas 77**; it must not advance directly to p. 66. The Latin and English
+markers are byte-identical, and the pair remains an AI-assisted, unreviewed
+working draft.
+
+- `parts/part-15-proposition-14-section-04-latin.txt`
+- `parts/part-15-proposition-14-section-04-english.md`
+
 ## Status
 
-**Parts 01–14 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–15 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 63 of 135,
-a continuation-position estimate of about 46.7% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 65 of 135,
+a continuation-position estimate of about 48.1% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 10.3% of their combined printed-page extent. Because p. 63 is shared
-with the untranslated Proposition XIV, Section IV, these are position
-estimates, not a claim that 63 complete pages—or the same percentage of
-words—have been reviewed.
+at about 10.7% of their combined printed-page extent. Because p. 65 is shared
+with the untranslated Proposition XV, these are position estimates, not a
+claim that 65 complete pages—or the same percentage of words—have been
+reviewed.
 
-No global status ledger or manifest is updated by this Part 14 continuation,
+No global status ledger or manifest is updated by this Part 15 continuation,
 and no claim of human review is made.

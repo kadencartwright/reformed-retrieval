@@ -17,7 +17,7 @@ inventory.
 
 ## Edition decision and explicit collation caveat
 
-Parts 01–08 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
+Parts 01–09 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
 Parkeri De politeia ecclesiastica libri duo* (1638), digitized as
 [`bsb10507786`](https://www.digitale-sammlungen.de/en/view/bsb10507786). Its
 [IIIF manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10507786/manifest)
@@ -39,7 +39,7 @@ is a duplicate, revision, continuation, or replacement of 1616. Every later
 unit requires renewed collation, and the two-book 1638 witness cannot control
 the third book unique to the 1616 publication.
 
-Parts 02–08 continue under the provisional 1638 control decision but have not
+Parts 02–09 continue under the provisional 1638 control decision but have not
 been represented as a renewed full collation against 1616. Their wording must
 therefore not be used to infer agreement between the editions. The current work
 remains within Book I, which is present in the 1638 witness.
@@ -75,7 +75,7 @@ canvases 24–27 repeat the textual leaves represented by canvases 22–23 and
 28–29. They are excluded; no authorial text is omitted. Source markers use
 the retained canvas sequence and are identical in the paired files.
 
-## Parts 02–08: continuation map and current boundary
+## Parts 02–09: continuation map and current boundary
 
 The continuation is strictly chapter-defined. Part 02 begins with chapter 8 on
 the lower portion of printed page 21 and completes chapter 13 before chapter 14
@@ -92,7 +92,9 @@ Part 07 resumes with that chapter 29 heading, completes chapters 29–30, and
 ends before chapter 31 on the lower portion of printed page 90. Part 08 resumes
 with the exact chapter 31 heading at that shared-page boundary, completes
 chapters 31–32, and ends before chapter 33 on the upper portion of printed page
-96.
+96. Part 09 resumes with the exact chapter 33 heading on the lower portion of
+that page, completes chapter 33, and ends before chapter 34 on the lower
+portion of printed page 106.
 
 | Part | Coherent unit | Printed pages | Endpoint |
 | --- | --- | ---: | --- |
@@ -103,6 +105,7 @@ chapters 31–32, and ends before chapter 33 on the upper portion of printed pag
 | 06 | Book I, chapter 28 | 77–85 (upper) | End of the sixth and last defect in England's reformation |
 | 07 | Book I, chapters 29–30 | 85 (lower)–90 | End of the third objection about reformed discipline |
 | 08 | Book I, chapters 31–32 | 90 (lower)–96 (upper) | End of the vindication of the reformed Churches |
+| 09 | Book I, chapter 33 | 96 (lower)–106 (upper) | End of the refutation of the fourth calumny against reformed discipline |
 
 Part 04 treats the second and third alleged delays to reform, identifies
 self-satisfaction as the third delay, and develops Parker's first two defects
@@ -150,6 +153,15 @@ Chapter 33 begins on the lower portion of printed page 96 and is excluded. The
 source marker for that shared page is retained in both paired files, but no text
 from chapter 33 is included.
 
+Part 09 resumes with the exact printed heading
+`CAP. 33. Quarta Calumnia adversariorum, disciplinam esse malorum fontem,
+diluitur.` Chapter 33 answers the charge that reformed discipline is the source
+of ecclesiastical evils. After rebutting the general accusation, Parker treats
+six alleged stains in sequence: Korahism; Novatianism, Donatism, and Puritanism;
+Aerianism; Acephalism; Anabaptism; and Papism. Chapter 34 begins on the lower
+portion of printed page 106 and is excluded. The source marker for that shared
+page is retained in both paired files, but no text from chapter 34 is included.
+
 ## Editorial method and apparatus
 
 Latin long *s*, ligatures, line-end divisions, and typographic `u/v` are
@@ -185,3 +197,5 @@ translated or explained but not promoted into Parker's prose.
 - `parts/part-07-book-01-chapters-29-30-english.md`
 - `parts/part-08-book-01-chapters-31-32-latin.txt`
 - `parts/part-08-book-01-chapters-31-32-english.md`
+- `parts/part-09-book-01-chapter-33-latin.txt`
+- `parts/part-09-book-01-chapter-33-english.md`

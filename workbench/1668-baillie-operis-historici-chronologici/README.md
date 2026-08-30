@@ -955,6 +955,31 @@ was checked as downstream boundary evidence only. OCR served only as a reading
 aid. The pair remains an AI-assisted, unreviewed draft and is not
 publication-ready.
 
+## Part 46 boundary and status
+
+Part 46 is a synchronized Latin/English working pair with exactly eight
+markers: partial printed p. 256 and complete pp. 257–263, IA leaves 286–293,
+access-PDF pp. 286–293, and DjVu OCR objects 285–292. It begins in the lower
+left column of printed p. 256 immediately after Part 45 with `QUAESTIO V. Qui
+sint termini dierum 1290. & 1335. de quibus Daniel 12. vers. 11. & 12?` It
+contains Question V in full and ends at the foot of the right column of printed
+p. 263 after `Danielis ultimus numerus dierum mille trecentorum quadraginta
+quinque salvari poterit.`
+
+`QUAESTIO VI. De quibus temporibus loquatur Daniel Cap. 11. à versu 36. ad
+finem?` begins at the top of printed p. 264 / IA leaf 294 / access-PDF p. 294 /
+DjVu OCR object 293 and is wholly excluded; that heading is the exact next
+restart. All eight controlling 300-dpi page images, `pdf-286.jpg` through
+`pdf-293.jpg`, governed the transcription and were visually inspected at
+original detail, including the partial p. 256 opening, every page and column
+transition, all marginalia, numbers, names, and the Greek and Hebrew strings.
+`pdf-294.jpg` was checked as boundary evidence only. Words divided across the
+pp. 256/257, 257/258, 258/259, 259/260, 260/261, and 261/262 transitions were
+joined and placed wholly after the later synchronized marker in both files;
+the repeated whole-word catchword at the pp. 262/263 transition was omitted.
+OCR served only as a reading aid. The pair remains an AI-assisted, unreviewed
+draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1061,6 +1086,8 @@ have not been modernized or endorsed.
 - `parts/part-44-book-01-chapter-12-question-03-english.md`
 - `parts/part-45-book-01-chapter-12-question-04-latin.txt`
 - `parts/part-45-book-01-chapter-12-question-04-english.md`
+- `parts/part-46-book-01-chapter-12-question-05-latin.txt`
+- `parts/part-46-book-01-chapter-12-question-05-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1072,7 +1099,8 @@ Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
-eight for Part 42, five for Part 43, eleven for Part 44, and four for Part 45.
-There are ninety current files in forty-five Latin/English pairs, containing
-297 synchronized source markers per language (594 marker occurrences across
-all ninety files). The files remain AI-assisted and unreviewed.
+eight for Part 42, five for Part 43, eleven for Part 44, four for Part 45, and
+eight for Part 46. There are ninety-two current files in forty-six Latin/English
+pairs, containing 305 synchronized source markers per language (610 marker
+occurrences across all ninety-two files). The files remain AI-assisted and
+unreviewed.

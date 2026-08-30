@@ -15,7 +15,8 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question XIII
+  Christi Mediatorio*, complete through Question XIII and begun through
+  section XVII of Question XIV
 
 ## Controlling witness and rights
 
@@ -40,21 +41,22 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–70 are complete as AI-assisted working drafts.**
+**Parts 01–71 are complete as AI-assisted working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
 Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–XIII,
-from printed p. 3 / PDF 31 through section XXXIII of Question XIII on printed p.
-400 / PDF 428. Part 27
+plus sections I–XVII of Question XIV, from printed p. 3 / PDF 31 through
+printed p. 406 / PDF 434. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,511 numbered
-sections across 389 unique numbered text pages and 449 source markers in each
-language (443 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 215,128 whitespace-delimited
-words and the complete English files 288,405, counted over Parts 01–70 with
-`wc -w`. Each part is a complete question, and each Latin/English pair has an
-identical source-marker sequence and retains the substantive marginal headings.
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,528 numbered
+sections across 395 unique numbered text pages and 456 source markers in each
+language (450 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 218,789 whitespace-delimited
+words and the complete English files 293,062, counted over Parts 01–71 with
+`wc -w`. Parts 01–70 are complete questions; Part 71 is a coherent opening
+unit of Question XIV. Each Latin/English pair has an identical source-marker
+sequence and retains the substantive marginal headings.
 
 | Part | Unit | Extent | Last section | Markers | Paired files |
 |---|---|---|---:|---:|---|
@@ -128,6 +130,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 68 | Locus XIV, Question XI | printed pp. 375–385 / PDFs 403–413 | XXXII | 11 | `part-68-locus-14-question-11-{latin.txt,english.md}` |
 | 69 | Locus XIV, Question XII | printed pp. 385–391 / PDFs 413–419 | XXVII | 7 | `part-69-locus-14-question-12-{latin.txt,english.md}` |
 | 70 | Locus XIV, Question XIII | printed pp. 391–400 / PDFs 419–428 | XXXIII | 10 | `part-70-locus-14-question-13-{latin.txt,english.md}` |
+| 71 | Locus XIV, Question XIV, sections I–XVII | printed pp. 400–406 / PDFs 428–434 | XVII | 7 | `part-71-locus-14-question-14-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1252,9 +1255,37 @@ Dei æterno et` / `immutabili`, `dum solvit` / `quod debet`, normalized
 `so-/lutionem`, and normalized `man-/dato`. The OCR excerpt was used only as an
 aid; Question XIV on printed p. 400 / PDF 428 is excluded.
 
-Part 70's exact next restart is `QUAESTIO XIV. DE OBJECTO SATISFACTIONIS. An
-Christus pro omnibus et singulis Hominibus universaliter mortuus sit, An pro
-Electis tantum? Prius Neg.; Poster. Affirm.` on printed p. 400 / PDF 428.
+Part 71 begins Question XIV by surveying Pelagian, Jesuit, Lutheran, Arminian,
+and hypothetical-universalist positions on the object of Christ's satisfaction,
+then states the common Reformed position and distinguishes the question from
+the intrinsic sufficiency, actual saving effect, and incidental benefits of
+Christ's death. Its first positive argument then proves particular redemption
+from Scripture's restriction of Christ's death to his people, sheep, friends,
+body, and church, and answers general objections and proposed counterexamples
+from Matthew 1:21, John 10:15, Ephesians 5:25, Titus 2:14, and texts speaking
+of Christ's death for “many.” It runs from the question heading on printed p.
+400 / PDF 428 through section XVII on printed p. 406 / PDF 434, immediately
+before the second argument in section XVIII. The Latin and English files
+contain 3,661 and 4,657 whitespace-delimited words respectively. Both carry
+seven synchronized printed-page markers, eight substantive marginal headings,
+and byte-identical Greek. The printed pp. 400/401 join falls within section IV
+between `Remonstrantium` and `nomine insignes`; the pp. 401/402 join falls
+within section VI between `Christum in` and `Servatorem`; and the pp. 402/403
+join falls within section VIII between `consilium Patris` and `voluisse et
+decrevisse mori`. The pp. 403/404 join falls within section XII between
+`Quomodo posset dicere` and `esse Servatorem`; the pp. 404/405 join falls
+within section XIV between `Paulus dicit Deum esse Servatorem` and `omnium,
+sed praecipue fidelium`; and the pp. 405/406 join falls within section XV
+between `Deo destinanti mittere` and `Christum`. The visibly printed
+`concilio`, `voluntato`, `ipsus`, and `jam ... quam` in the quoted Remonstrant
+article on printed p. 401 are retained with `[sic]`; the expected readings are
+`consilio`, `voluntate`, `ipsius`, and `tam ... quam`. The OCR excerpt was used
+only as an aid.
+
+Part 71's exact next restart is `XVIII. Secundo, Quia pro nullis aliis datus
+est, et mortuus Christus, quam pro iis qui ipsi dati sunt a Patre. At non omnes
+et singuli dati sunt Christo, sed quidam tantum. Ergo,` on printed p. 406 / PDF
+434.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

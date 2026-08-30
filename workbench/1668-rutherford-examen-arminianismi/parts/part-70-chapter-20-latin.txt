@@ -1,0 +1,246 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## CAPUT XX. DE ANIMÂ, & CARNIS RESURRECTIONE. — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins on printed p. 753 / PDF 802 at the heading,
+lemma, and opening question of Chapter XX, without repeating Chapter XIX's
+closing discussion of the English royal supremacy. It contains all three
+complete questions of Chapter XX: the immortality of souls; the numerical
+identity of the bodies raised; and the eternity of the punishments of the
+damned. It ends with `FINIS` on printed p. 761 / PDF 810, the exact endpoint of
+Rutherford's body text in this edition. Printer line-end and page-end divisions
+have been joined; catchwords have been omitted, and each new-page marker
+precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed erratum for p. 756 line 20 corrects the body's
+`alia id resurrectionem` to `alia ad resurrectionem`; it is applied below.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. Logical printed p. 759 is
+visibly misprinted `259` and is recorded as such in both files. The witness's
+difficult or irregular wording, numbering, and citations, including the jump
+from argument `3.` to `5.`, `incredulis inflictarum`, `v. 56. & 48.`, `Diaboli`
+at Jude 6, and `fato functos`, are retained rather than silently regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 753 | PDF p. 802 | begins at CAPUT XX]
+
+CAPUT XX.
+
+DE
+
+Animâ, & Carnis Resurrectione.
+
+ACTOR: 7.59.
+
+Domine Jesu, recipe Spiritum meum.
+
+Quæritur, An animæ sint immortales? Dubitant Remonstrantes, & Sociniani. Joan.
+Geisteranus in Confess. ait se nescire, an animæ post mortem vivæ an mortuæ,
+mortales an immortales sint? Et Henricus Slatius in Declar. apertâ p. 53.
+dicit, se nescire an animæ superstites maneant, postquam solutæ sunt à corpore;
+saltèm, hoc non esse comprehensibile. Remonstrantes, Apol. cap. 19. & Confess.
+cap. 19. docent, Fideles suscitandos esse, eosque solos corpore glorioso &
+incorruptibili donandos; contra Eccles. 3.21. & 12.7. Matth. 19.28. Act. 7.59.
+
+Quæritur, An eadem numero corpora, resurrectura sint, quæ in pulverem soluta
+sunt? Remonstrantes, Apol. cap. 19. fol. 217. ajunt, Rationes pro utrâque parte
+probabiles esse; litem decidendam à Deo in futuro seculo. Slatius, Declar.
+apertâ. Hæc nostra corpora non sunt resurrectura. Sociniani
+
+[1668 KBNL/UvA witness | logical printed p. 754 | PDF p. 803 | split word joined: dicunt]
+
+dicunt, Mahumetanum esse, credere, hæc corpora ad corporales voluptates
+resuscitanda. Sed neque nos hoc credimus.
+
+Interim edocti sumus ex Scripturis, hæc eadem numero corpora resurrectura; &
+quidem ad gloriam, & gaudia cœlestia, vitamque æternam. Job. 19.26. Novi carne
+meâ me visurum Deum. v. 27. Idem qui sum, & non alienus visurus sum mihi, &
+oculi mei adspecturi, utut consumuntur renes mei in sinu meo. 1 Cor. 15.52.
+Mortui excitabuntur incorrupti, & nos mutabimur. v. 53. Oportet enim hoc
+corruptibile induere incorruptibilitatem. v. 54. Postquam autem hoc
+corruptibile, τὸ φθαρτὸν τοῦτο, induerit incorruptibilitatem, καὶ τὸ θνητὸν
+τοῦτο, & hoc mortale induerit immortalitatem, tunc fiet illud quod scriptum
+est, absorpta est mors ad victoriam.
+
+2. Quia Scriptura loquitur de corpore, ut de re, quæ, eadem numero manens,
+mutatur. 1 Cor. 15.42. Seritur cum corruptione, suscitatur cum incorruptione. v.
+43. Seritur fœdum, suscitatur cum gloriâ; seritur omnium virium expers,
+suscitatur potens; seritur corpus animale, suscitatur corpus spirituale.
+Frustrà autem Spiritus Sanctus diceret, corpus humari & terræ mandari cum hisce
+vel illis qualitatibus, & cum aliis novis resurgere; nisi idem numero
+resurgeret, quod humatum est.
+
+3. A Redemptione corporum arguimus. Si Corpus pretio sanguinis Christi emptum
+est, non
+
+[1668 KBNL/UvA witness | logical printed p. 755 | PDF p. 804]
+
+minùs quàm Anima; tùm Corpus, non minùs quàm Anima, in diem illum, qui est dies
+redemptionis corporis nostri Rom. 8.23. restaurandum; & transfigurandum corpus
+nostrum humile, ut conforme fiat ejus (Christi) corpori glorioso, pro illa vi
+efficace, quâ potest etiam subjicere omnia sibi. Phil. 3.21. Sed prius est
+verum. Ergo, posterius. Major est clara ex 1 Cor. 6. v. 14. ubi Apostolus
+probat, Non scortandum esse in hoc corpore, quod gestamus; quia Deus, qui
+Dominum suscitavit, & & nos suscitabit potentiâ suâ, i. e. corpora nostra. 2.
+Quia corpora sunt membra Christi, v. 15. An ignoratis corpora vestra esse
+membra Christi? Num igitur sublata membra Christi, faciam membra scorti? Absit.
+Si corpora Sanctorum sunt membra Christi, sunt glorificanda cum eo: Non possunt
+autem glorificari cum eo, nisi eadem numero resuscitanda sunt. 3. v. 19. An
+ignoratis corpus vestrum esse templum Spiritûs Sancti, qui est in vobis, quem
+habetis à Deo; neque vos esse vestri juris? v. 20. Nam empti estis pretio:
+glorificate igitur Deum in corpore vestro, & in Spiritu vestro, quæ sunt Dei.
+Quod est emptum sanguine Christi, & jure redemptionis est Dei, non nostrum; id
+non potest penitùs interire, sed est cum Christo resuscitandum. Sed hæc numero
+mortalia corpora, quæ gestamus, non sunt nostra, sed Dei, jure redemptionis.
+Ergo, sunt hæc eadem resuscitanda. Ratio Majoris; quia non redimitur per
+
+[1668 KBNL/UvA witness | logical printed p. 756 | PDF p. 805 | split word joined: Christum]
+
+Christum ab interitu, non glorificatur cum Christo; quod planè interit, & pro
+quo aliud numero substituitur.
+
+5. A Justitiâ & Æquitate Dei. Sicut si anima, altera numero, & non eadem hæc,
+quæ in hâc vitâ peccavit, morte æternâ plecteretur, violaretur hâc in parte
+Justitia Dei: Ità si corpus, quod oblatum fuit in hostiam vivam Deo. Rom. 12.1.
+quod instrumentum fuit Justitiæ, Rom. 6.12,13. nullo præmio, nullâ mercede
+præmiaretur; non videmus quomodò unusquisque reportet quæ fecerit in corpore,
+congruenter ad id quod fecerit, sive bonum, sive malum; quod tamen dicit
+Spiritus Sanctus. 2 Cor. 5.10.
+
+6. Obscuraretur hic Omnipotentia Dei, in mortuorum resuscitatione à Scripturis
+prædicatâ. Quia in hoc elucet Omnipotentia, quod corpora illa eadem, quæ sunt
+in sepulchris, auditura sint vocem Filii Dei, & proditura; alia ad
+resurrectionem vitæ, alia ad resurrectionem condemnationis. Joan. 5.28,29.
+Animæ autem non sunt in sepulchris. Et quod qui dormiunt in pulvere,
+resuscitandi sint. Dan. 12.2. Et quod mare, mortuos quos habebat, redditurum
+sit; & mors & infernus. Apoc. 20.13. Si alia numero corpora ab hisce, quæ jam
+gestamus, nobis in suscitatione mortuorum danda sunt, & quidem de novo creanda;
+non magis è sepulchris aut ex mari sunt denuò creanda, quàm ex aliâ materiâ;
+curiosa esset & præter
+
+[1668 KBNL/UvA witness | logical printed p. 757 | PDF p. 806 | split word joined: Scripturas]
+
+Scripturas limitatio Jehovæ ad determinandam ejus Omnipotentiam ad hanc potiùs
+quàm illam materiam, ad mare potiùs quàm pulverem sepulchralem in terris; cùm
+posset ex quâlibet, vel ex nullâ materiâ, alia nova corpora formare aut creare.
+Nec dormiunt in pulvere, quorum corpora nunquàm resuscitanda sunt, magis quàm
+qui nunquàm ex parentibus geniti fuerunt.
+
+7. Cùm Christus sit verus homo, Heb. 2.16,17. nobis per omnia similis, excepto
+peccato. Heb. 4.15. Et Christus idem numero corpus suum eodem stigmate &
+vestigio clavorum insignitum, quibus in cruce vulneratum fuit, visendum, &
+palpandum, & manibus contrectandum præbuerit Thomæ & Discipulis suis. Joan.
+20.20.---29. Necesse est, corpora nostra eadem morti obnoxia, in pulverem
+dissoluta, resuscitet.
+
+8. Denique natura Resuscitationis idem suadet. Nam è pulvere & è Sepulchris non
+magis potest id resuscitatum dici, quod de novo creatur; quàm Filius de novo
+genitus & in lucem enatus, dicitur resuscitatus ex mortuis; quia corpus, aliud
+numero, de novo creatum, mortuum & in sepulchris nunquàm fuit; Non est, ergò,
+resuscitandum.
+
+Denique non est hæc curiosa & inutilis quæstio, sed consolationis plena nobis,
+qui in hoc domicilio terrestris & lutei tabernaculi, ingemiscimus domum
+cœlestem, & gloriosum corpus
+
+[1668 KBNL/UvA witness | logical printed p. 758 | PDF p. 807 | split word joined: expectamus]
+
+expectamus. 2 Cor. 5.1,2,3. Nec Calvinus, Epist. 103. in se curiosam dixit, ut
+autumant Remonstrantes, Apol. fol. 219. quia sententiam orthodoxam ibi accuratè
+confirmat, & errorem contrarium disertè confutat, sed quæstionem contra
+manifestam Scripturam, propter vanas quasdam speculationes de identitate
+numericâ corporis resuscitati, & de modo Resurrectionis impossibili aut
+incredibili, à Lelio Socino motam, meritò vocavit curiosam, & nisi tum adhuc
+benè de homine illo, se pro fratre gerente, & Pellicano Theologo Tigurino
+cohabitante sensisset, potuisset etiam dicere impiam.
+
+MATTH. 25.41.
+
+Exsecrati, abite à me in ignem æternum, qui paratus est Diabolo & Angelis ejus.
+
+Quæritur, An cruciatus damnatorum infernales, sint æterni; an verò tandem finem
+habituri, ità ut impii tandem planè interituri, & in nihilum redigendi sint?
+Remonstrantes ab hâc Epicureâ sententiâ non abhorrent. Dicunt quidem verbis
+Scripturæ non expositis, sed sensui Sociniano obnoxiis, Deum cruciatus
+infernales, atque æterna supplicia, incredulis inflictarum, --- cùm eos in
+æternum ignem, unà cum Diabolo & Angelis ejus præcipitabit, ut illi pendant
+pœnam æterni exitii, expulsi à facie Dei, & glorioso robore ipsius. Sed Socinus
+hæc exponit, Comment. in 1. Epist. Joan. cap. 2. pag. 104. de totali desitione,
+& redactione in
+
+[1668 KBNL/UvA witness | logical printed p. 759 (visible 259) | PDF p. 808 | split word joined: nihilum]
+
+nihilum. Et cùm Doctiss. & Clariss. Professores Leydenses, in Censurâ
+Confessionis, cap. 20. sect. ult. pag. 264. objiciunt Remonstrantibus, quòd non
+clarè se explicent, An sentiant infernales illos cruciatus in æternum
+duraturos, & ipsos homines impios & suppliciis illis affectos, in pœnis istis
+æternum victuros? quia verba ambiguè, & Socino convenientèr concepta sunt: Ad
+hanc objectionem admodùm gravem, in Apologiâ suâ (in quâ Censuram hanc
+discutiunt, 1. Nè verbum aut syllabam quidèm respondent ad cap. 20. aut alibi.
+2. Sententiam de substantiali mundi interitu, Apol. cap. 19. fol. 219.
+probabiliorem longè contrariâ ducunt. 3. Nihil habent de æterno damnatorum
+statu. 4. Confess. cap. 19. sect. 2. dicunt, Tunc enim fideles & sanctos suos,
+qui quidem mortui fuerunt, ex pulvere terræ in vitam æternam suscitaturus,
+eosque solos glorioso & incorruptibili corpore donaturus. Henricus Slatius,
+eorum sectator per omnia, Apertâ. Declar. p. 53. Impios aut non resuscitandos,
+aut in nihilum redigendos, dicit.
+
+Nos contrà, sententiam hanc Epicuream, & Atheisticam judicamus.
+
+1. Quia si eludi possunt loca Scripturæ, pro æternitate infernalium cruciatuum;
+pari ratione eludi possunt loca pro æternitate vitæ æternæ; & utrisque
+responderi posset, vitam & mortem æternam dici, eo sensu, quo circumcisio &
+ceremoniæ, æternæ dicuntur, i. e. Hebraismo, quæ ad
+
+[1668 KBNL/UvA witness | logical printed p. 760 | PDF p. 809]
+
+certum tempus duratura sunt, & tandem desitura. Atqui sic, nec anima in æternum
+victura, sed planè moritura; nec Christi regnum æternum, sed tandem interiturum
+esset: Et quid impedit, quominus humanitas Christi, tandem in nihilum redigenda
+sit?
+
+2. Quia Scriptura contrarium dicit. Isa. 66.24. Nam vermis eorum non morietur,
+& ignis eorum non extinguetur. Matth. 25.41. Tum dicet etiam iis, qui ad
+sinistram erint, Exsecrati, abite à me in ignem æternum, qui paratus est
+Diabolo & Angelis ejus. Juxta Adversarios autem, Nostram sententiam repudiantes,
+ex his sequitur, 1. Vitam æternam v. 46. non esse æternam; adeòque bonos Angelos
+& glorificatos homines, tandem interituros & in nihilum redigendos, vel suâ
+beatitudine privandos, adeòque miseros fore. 2. Etiam Diabolos & ejus Angelos,
+æternis cruciatibus liberandos, & aut in nihilum redigendos, aut vitam æternam,
+aut statum à miseriâ immunem consecuturos. Mar. 9.43. Bonum est tibi ingredi ad
+vitam, mancum (potiùs) quàm duas manus habentem abire in gehennam, in ignem
+inextinctum. v. 44. Ubi vermis eorum non interit, & ignis non extinguitur. v.
+56. & 48. Jude v. 6. Diaboli, judicio magni illius diei, vinculis æternis sub
+caligine reservati. v. 7. Sodoma & Gomorrha ignis æterni pœnam sustinent. At
+nunquàm dicitur de Circumcisione, quòd non sit desitura, uti dicitur de igne
+illo,
+
+[1668 KBNL/UvA witness | logical printed p. 761 | PDF p. 810]
+
+quòd non sit extinguendus. Et Apoc. 20.11. Et Diabolus qui seducebat eos,
+conjectus est in stagnum ignis & sulphuris, ubi erat & Bestia illa, & ille
+Pseudo-propheta, & torquebuntur die ac nocte in secula seculorum.
+
+3. Quia nulla est in æternum liberatio ex Inferno: juxta illud Luca 16.26. Et
+ad hæc omnia, inter nos & vos hiatus ingens constitutus est, ut ii qui volunt
+hinc transire ad vos, non possint, neque isthinc, hùc transire.
+
+4. Quia anima omnium hominum est immortalis, Matth. 10.28. & à nemine mortalium
+trucidari potest. Ergo animæ, vel in æterno gaudio, vel in æternis cruciatibus
+in æternum victuræ sunt, quod est institutum; vel in æternum victuræ sunt in
+statu medio & neutrali, quod non est scriptum; vel animæ sunt à Deo
+annihilandæ; quod ex Scripturis affirmari non potest.
+
+Quod dicunt, Scripturam asserere defunctos non esse; hoc modo non existentia
+simpliciter, sed secundùm quid, & non existentia inter vivos in carne iis
+negatur. Si verò hoc ad non esse simpliciter extendatur; jam & probari posset,
+Christum hominem mortuum, planè in nihilum redactum esse; & omnes, tùm sanctos,
+tùm infideles, fato functos, tùm quoad animam, tùm quoad corpus, penitùs
+interiisse & nihil esse.
+
+FINIS.

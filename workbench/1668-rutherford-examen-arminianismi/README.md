@@ -54,9 +54,10 @@ Converter (rel 3 12/12/14)`, and has SHA-256
 - PDF 811–853: editorial chapter/question, Scripture, and subject indexes.
 - PDF 854–857: terminal blank matter; excluded.
 
-The body has two press-pagination anomalies and two demonstrated two-leaf
-lacunae in the controlling copy. Logical p. 28 is visibly misprinted 58, and
-logical p. 647 repeats the visible number 646. The KBNL/UvA
+The body has three press-pagination anomalies and two demonstrated two-leaf
+lacunae in the controlling copy. Logical p. 28 is visibly misprinted 58,
+logical p. 647 repeats the visible number 646, and logical p. 759 is visibly
+misprinted 259. The KBNL/UvA
 scan passes directly from printed p. 41 / PDF 94 to printed p. 44 / PDF 95;
 the failed catchword and the intact British Library copy confirm that complete
 printed pp. 42–43 are absent, not merely misnumbered. It later passes directly
@@ -1751,3 +1752,64 @@ the clean endpoint before the next major question.
 
 - Latin: `parts/part-68-chapter-19a-latin.txt`
 - English: `parts/part-68-chapter-19a-english.md`
+
+**Part 69 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 739 / PDF 788 at the question whether the magistrate's power
+is supreme in the external government of the church, without repeating Part
+68's closing argument about the limits of judging inward obstinacy. It contains
+that one complete question, its seven assertions, and the replies to two
+Remonstrant inferences. It ends at the close of Chapter XIX on printed p. 752 /
+PDF 801. The heading, lemma, and opening question of Chapter XX are excluded
+and form the exact restart for Part 70. The pair has fourteen byte-identical
+synchronized markers for partial p. 739 and complete pp. 740–752. A
+page-by-page image audit against the controlling KBNL/UvA Google Books images
+covered all fourteen included frames, the shared opening-page boundary, the
+clean chapter endpoint, every page join, the complete question and its seven
+assertions, the two Remonstrant
+inferences and Rutherford's replies, biblical, historical, and polemical
+citations, Greek, and the absence of Hebrew and substantive marginalia. The
+printed errata corrections on p. 745 (`competiebat` to `competebat`) and p. 746
+(`2 Chron. 24.5.` to `2 Chron. 29.5.`) are applied and documented. The split
+words `dicitur`, `omni`,
+`Voluntas`, `Canone`, `renovavit`, `talem`, `absurdum`, `supremus`, and
+`Pontificii` are joined with their new-page markers before the whole words and
+their English equivalents; catchwords are omitted. The Greek `δεσποτική`,
+`καθ᾿ αὑτό`, `εὐταξίαν`, and `δεσποτικῷ`, together with the witness's difficult
+or irregular wording, punctuation, and numbering, including `ut. Canones`,
+`loca.`, and the progression to a second inference also numbered `2.`, are
+retained or disclosed rather than silently regularized. The English is a fresh
+translation from the accompanying Latin and preserves the scholastic
+distinctions among commanded and elicited acts and cumulative, privative, and
+architectonic powers.
+
+- Latin: `parts/part-69-chapter-19b-latin.txt`
+- English: `parts/part-69-chapter-19b-english.md`
+
+**Part 70 is complete as a scan-audited working draft.** It begins on printed
+p. 753 / PDF 802 at the exact heading, Acts 7:59 lemma, and opening question of
+Chapter XX, without repeating Chapter XIX's closing discussion of the English
+royal supremacy. It contains all three complete questions of Chapter XX: the
+immortality of souls; the numerical identity of the bodies raised; and the
+eternity of the punishments of the damned. It ends with `FINIS` on logical
+printed p. 761 / PDF 810, the exact endpoint of Rutherford's body text in this
+edition. The pair has nine byte-identical synchronized markers for pp. 753–761.
+A page-by-page image audit against the controlling KBNL/UvA Google Books images
+covered all nine included frames, the exact chapter heading and lemma, all
+three questions and their argumentative structures, biblical, theological,
+and polemical citations, Greek, and the absence of Hebrew and substantive
+marginalia. The audit also identified the previously undocumented press error
+on logical p. 759, whose visible page number is `259`; both synchronized
+markers and the general pagination account now record it. The printed erratum
+on p. 756 (`alia id resurrectionem` to `alia ad resurrectionem`) is applied and
+documented. The split words `dicunt`, `Christum`,
+`Scripturas`, `expectamus`, and `nihilum` are joined with their new-page markers
+before the whole words and their English equivalents; catchwords are omitted.
+The Greek `τὸ φθαρτὸν τοῦτο` and `καὶ τὸ θνητὸν τοῦτο`, the witness's jump from
+argument `3.` to `5.`, and difficult or irregular wording and citations,
+including `incredulis inflictarum`, `v. 56. & 48.`, `Diaboli` at Jude 6, and
+`fato functos`, are retained or disclosed rather than silently regularized.
+The English is a fresh translation from the accompanying Latin and carries the
+text through the clean endpoint of the author's body text.
+
+- Latin: `parts/part-70-chapter-20-latin.txt`
+- English: `parts/part-70-chapter-20-english.md`

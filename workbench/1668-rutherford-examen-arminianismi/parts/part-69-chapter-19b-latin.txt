@@ -1,0 +1,345 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## CAPUT XIX. DE MAGISTRATU. — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within shared printed p. 739 / PDF 788 at
+the question whether the magistrate's power is supreme in the external
+government of the church, without repeating Part 68's closing argument about
+the limits of judging inward obstinacy. It contains that one complete question,
+its seven assertions, and the replies to two Remonstrant inferences. It ends at
+the close of Chapter XIX on printed p. 752. The heading and opening question of
+Chapter XX are excluded and form the exact restart for Part 70. Printer
+line-end and page-end divisions have been joined; catchwords have been omitted,
+and each new-page marker precedes the whole word at a split-word boundary.]
+
+[Errata note: Two printed errata apply. On p. 745 line 17 the body's
+`competiebat` is corrected to `competebat`; on p. 746 line 9 the body's
+`2 Chron. 24.5.` is corrected to `2 Chron. 29.5.`.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. The witness's difficult or
+irregular forms and punctuation, including `h. e.`, `ut. Canones`, `loca.`, the
+progression from the numbered replies `2.` and `3.` to a second inference also
+numbered `2.`, and the distinction between `imperatos` and `elicitos`, are
+retained rather than silently regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 739 | PDF p. 788 | resumes at Quæritur, An potestas Magistratus]
+
+Quæritur, An potestas Magistratus, in externo Ecclesiæ Regimine, sit suprema,
+soli Deo immediatè subjecta, potestate Ecclesiæ in genere superior? Ajunt
+Remonstrantes, Apol. cap. 25. fol. 291. 292.
+
+Nos negamus, & rem hisce Assertionibus determinamus.
+
+Assertio 1. Rex, quà membrum Ecclesiæ, subest Regiæ Potestati Christi regnantis
+in Verbo & Disciplinâ Ecclesiasticâ.
+
+1. Quia de omnibus citra exceptionem (Non autem distinguendum, ubi Lex non
+distinguit.)
+
+[1668 KBNL/UvA witness | logical printed p. 740 | PDF p. 789 | split word joined: dicitur]
+
+dicitur, Qui vos audit, me audit; qui vos spernit, me spernit.
+
+2. Quia Prophetis & Pastoribus Dei, authoritas Ministerialis in nomine Dei,
+supra Reges, datur à Deo. Jer. 1.10. Vide, præficio te hodierno die, gentibus
+ipsis & regnis, ad extirpandum &c.
+
+3. Quia omnis Potestas creata subest Regiæ Potestati Christi in Verbo & actu
+Disciplinæ Ecclesiasticæ, qui est actus Christi regalis. Psal. 2.12. Osculamini
+Filium, ut non irascatur. Psal. 72.10. Reges oceani, accolæ & insulani munus
+reddent; Reges Shebæ & Sebæ donarium offerent. v. 11. Deniq; incurvabunt se,
+honorem exhibentes ei omnes reges, omnes gentes servient ei. Christus est Rex
+Regum & Dominus Dominorum Apoc. 17.14. & 19.16. Ergo, Reges sunt ejus subditi,
+& legibus ejus obnoxii.
+
+4. Omnes in Ecclesiâ, sunt vel Supremus Pastor, vel oves. Solus Christus est
+supremus Pastor; Rex, Ergo, est Ovis: tenetur, Ergo, audire vocem Christi
+loquentis & imperantis per servos suos: Subest, Ergo, potestati ligandi &
+solvendi, Ecclesiæ concessæ. Nam quod convenit Christianis, quà Christianis,
+convenit omnibus Christianis; adeòque Regi Christiano.
+
+Assert. 2. Rex, quà Rex, est utriusque tabulæ custos, & supremus gubernator in
+omnibus omninò causis, tùm Ecclesiasticis & Spiritualibus, tùm Civilibus &
+Temporalibus, regimine politico & influentiâ civili. Sed non est verus,
+proprius, aut supremus gubernator, & Judex causarum Ecclesiasticarum, Politicis
+contradistinctarum. Ratio. In
+
+[1668 KBNL/UvA witness | logical printed p. 741 | PDF p. 790 | split word joined: omni]
+
+omni causâ Ecclesiasticâ, duo sunt; alterum Politicum, quod tangit Regem & Legem
+humanam, quà subditus Regi in suâ Sphærâ imperanti subest; & eatenus Judex
+supremus est Rex. Alterum Spirituale & Ecclesiasticum; & hoc subest judicio
+Ecclesiastico, non Regi. Nam si Rex, omnium causarum etiam Ecclesiasticarum,
+simplicitèr Judex esset; tùm esset Judex de Versione Bibliorum ex Hebræis &
+Græcis fontibus in Latinum aut vernaculum sermonem, etsi Hebræas literas non
+calleret: Imò Judex esset omnium Disputationum Philosophicarum, omnium
+Quæstionum de re Nauticâ, Militari, Agriculturâ; quod est Regem infra Regem
+collocare, dùm eum honorare satagunt. Quicquid Politici est in talibus
+Quæstionibus, quod jus & fas civile concernit, id ad Regem, in suâ sphærâ,
+spectat. Rom. 13.4. Est minister Dei, Isa. 49.23. Et erunt Reges, nutricii tui;
+& fæminæ principes, nutrices tuæ. Psal. 101.8. Singulis matutinis exscindam
+omnes improbos terræ, ad rescindendum à civitate Dei, omnes qui operam dant
+iniquitati.
+
+Assert. 3. Hinc rectè dicunt Doctores, Regem per regalem suam authoritatem,
+actus imperatos, non elicitos exercere circa Ecclesiastica; sicut voluntas &
+facultas δεσποτική & dominativa, actus exercet regales & imperatos, circa omnes,
+tùm animæ, tùm corporis facultates. Voluntas oculo imperat, ut videat; auri ut
+audiat;
+
+[1668 KBNL/UvA witness | logical printed p. 742 | PDF p. 791 | split word joined: Voluntas]
+
+Voluntas locomotivæ facultati, ut ambulet; sed ipsa voluntas, actus elicitos in
+hisce nullos habet; nec ipsa voluntas videt, audit, loco movetur.
+
+1. Quia Regis & Rectorum Ecclesiasticorum officia distinguuntur ab objecto,
+naturâ & specie; Non potest, ergo, Rex, quà Rex, concionari, Pastores ordinare,
+Synodicè canones condere, & Ecclesiæ imponere.
+
+2. Quod convenit Regi καθ᾿ αὑτό, convenit omnibus Regibus, etiam Ethnicis. At
+non convenit omnibus Regibus hoc facere, ut fatentur Adversarii.
+
+Assertio 4. Neque verum est quod dicunt, Regem, licèt non quà Regem, tamen quà
+Christianum, h. e. quà talem Regem, propriè in Regimine Ecclesiastico, dirigere
+& disponere (ut loquitur Camero, Prælectionum tom. 2. pag. 50.) penès
+Ecclesiasticos, Ministerium atque exercitium esse propriè. Futiles nugæ!
+
+Quis ferret, Regem habere potestatem concionandi Verbum, administrandi
+Sacramenta, exercendi disciplinam Ecclesiasticam, præscribendi canones: At
+Pastorum propriè actum & exercitium concionandi, &c. esse?
+
+Nam 1. Potestas actus Pastoris exercendi est in Pastoribus, nempè, authoritas
+collata iis ad ædificationem, & ad actus Disciplinæ exercendos. Matth.
+18.18,19,20. Marc. 16.15,16. Eph. 4.11,12. 1 Cor. 4.1, 2, 21. 2 Cor. 2.10, 11.
+2 Cor. 10.8.
+
+[1668 KBNL/UvA witness | logical printed p. 743 | PDF p. 792]
+
+2. Sic Ministri essent tantùm manus, instrumenta, & executores voluntatis Regum,
+& Pastores nomine & authoritate Regis concionantes, & actus Disciplinæ
+exercentes. At sunt servi Dei, Legati nomine Christi officio fungentes. 2 Cor.
+5.20. Gal. 1.1, 2.
+
+3. Id maximè notandum, Christianitatem Regis officio extrinsecùs accedentem,
+non superaddere Regi Christiano novam authoritatem, quam anteà non habuit, quâ
+posset de rebus Ecclesiasticis disponere; sed Christianitas tantùm præexistentem
+Potestatem Civilem & Politicam, latiùs & intensiùs quasi extendit & intendit.
+Quia Rex Ethnicus & Mahometicus æquè essentialitèr est Rex, & obligatus ex
+officio muneris Regii (hoc dato, quod Euangelium ei reveletur) ad suam
+Authoritatem Regalem, Christo ejusque regno amplificando, contribuendam, atque
+Rex Christianus. Quod dictum volo de obligatione Legis, non de obligatione sub
+modo specialis gratitudinis, juxta illud; Cui multum est datum, ab eo multum
+reposcetur. Luca 12.48. Sed Rex Christianus, non quà Rex, sed quà talis Rex, quà
+Christianus, tenetur Authoritatem, pro mensurâ gratiæ acceptæ, copiosiùs &
+impendiùs contribuere ad bonum Ecclesiæ, quàm Rex simplicitèr, & Rex Ethnicus,
+qui nihil audivit de Christo. Rex igitur quà Christianus, majori obligationi
+subest, quàm Rex Ethnicus; sed non
+
+[1668 KBNL/UvA witness | logical printed p. 744 | PDF p. 793]
+
+est actu primo, majore potestate Regiâ præditus. Quia de omnibus Regibus
+dicitur, Prov. 8.15. Per me Reges regnant.
+
+Hinc facile est judicare de Canone Pseudo-Episcoporum Ecclesiæ Scoticanæ in
+Libro Canonum, Anno 1637. obtruso. cap. 1. c. 2. Quicunque in posterùm
+affirmârit, Regis Majestatem non habere eandem Potestatem in Causis
+Ecclesiasticis, quam habuerint pii Reges Judæorum, & Christiani Principes in
+Primitivâ Ecclesiâ; aut ullo pacto ejus Regalem Prærogativam imminuerit,
+excommunicetur &c. Sed 1. Læsæ-Majestatis rei sunt Canonistæ, qui potestatem
+Regalem Regi competere volunt, quà pius & religiosus est, sicuti pii fuerunt
+Reges Judæorum & Christiani Principes, non autem quà Rex est. Unde sequitur, si
+Rex evaserit impius aut Hæreticus, nullam regalem Prærogativam ei competere;
+quod palàm est perquàm Jesuiticum, & fundamentum hujus Jesuitarum doctrinæ,
+solio deturbandum Regem impium & Catholico-Romanæ fidei infestum. Et hanc esse
+eorum mentem liquet; quia dicunt, negare Regi eandem authoritatem Regalem, quam
+pii Reges olim habuerunt, esse imminuere Regis authoritatem Regalem. At Regis
+Authoritas sic imminuta est: nisi dicamus, eandem esse Authoritatem, quæ &
+competit Regi, quà Rex, & quæ ei competit quà pius & religiosus Rex est. Hæc
+autem distincta sunt. Ipsi autem nullum verbum habent in hoc
+
+[1668 KBNL/UvA witness | logical printed p. 745 | PDF p. 794 | split word joined: Canone]
+
+Canone de Regis Authoritate, quà Rex est.
+
+2. Canonistæ in medio relinquunt, quid sit Regis hic Authoritas, cùm pios
+Judæorum Reges, & Christianos Imperatores hic confundunt. Quia Reges Judæorum,
+vel considerantur, quà Reges; vel quà Prophetæ, ut David, Salomon. Si
+considerentur quà Prophetæ, Scripturam Canonicam scripserunt, & prophetârunt.
+An excommunicandi sunt, qui negant Regi Potestatem Scripturas Canonicas
+scribendi & prophetandi, concionandi, & actus verè pastorales exercendi? Itàne?
+Si quà Reges considerentur, tùm nihil dicunt in Canone, nisi excommunicandos,
+qui negant eam authoritatem in causis Ecclesiasticis Regi competere, quæ omnibus
+Regibus non tantùm piis, sed & impiis, Achabo, Domitiano, Neroni, Juliano
+competebat. Deindè certum est, pios Principes in Ecclesiâ Primitivâ, non
+habuisse parem Potestatem cum piis Regibus Judæorum qui & Reges & Prophetæ
+fuerunt. Si quod de facto usurpârunt in Primitivâ Ecclesiâ, tribuitur Regi
+nostro; lubricè & malâ fide pro Regis authoritate pugnant. Si quod de jure
+competit Imperatoribus in Primitivâ Ecclesiâ, tribuendum est Regi, tùm nihil
+dicunt, & malè hìc nominant pios principes; & est ea petitio principii, quia
+explicare debebant, quid Authoritatis in Ecclesiasticis jure debeatur Regi, nè
+innocentes in tenebris, eorum Excommunicatione percuterentur.
+
+[1668 KBNL/UvA witness | logical printed p. 746 | PDF p. 795]
+
+Assert. 5. Quidam actus spirituales Regi conveniunt, quà Rex; Nam quà Rex, & ex
+officio muneris Regii, exhortari & regalitèr imperare potest & debet, ut omnes
+ventres desidiosi, omnes Aulicis honoribus inhiantes Ecclesiastici, indè se
+conferant, ad gregem Domini pascendum; Imò debet imperare, ut quilibet in Regno
+suo, quod suum est ex officio, gnavitèr præstet. 2 Chron. 29.5. Ac dixit
+Ezechias iis, Auscultate mihi, O Levitæ, jam sanctificate vos, & sanctificate
+domum majorum vestrorum, & efferte quod separandum est è Sancto. Ità enim
+Jehovah mandârat. Num. 8.6,11. & 18.32. Et hæc exhortatio, quoad substantiam
+mandati, à Ministeriali non differt; At quoad Authoritatem imperantis, &
+pœnalitatem infligendam, differt. Rex ex authoritate Regiâ, & sub comminatione,
+censurâ, & pœnâ civili (utinam enim Reges, Pastores ignavos, ventri, Aulæ, &
+honoribus tantùm intentos, flagellarent!) Pastor id imperat ex Authoritate
+Ecclesiasticâ, & sub pœnâ spiritualis Censuræ.
+
+Assertio 6. In casu Universalis Ecclesiæ Apostasiæ, quandò Pastores Hæretici
+sunt, quod sui officii est negligunt, & populo à verò Dei cultu deficiente,
+potest & debet Rex reformare Religionem.
+
+1. Quia piè & laudaliter id præstitit Josiah 2 Reg. 23. Fœdus inter Deum &
+populum
+
+[1668 KBNL/UvA witness | logical printed p. 747 | PDF p. 796 | split word joined: renovavit]
+
+renovavit, Templum purgavit, Altaria Idolorum demolitus est, mactavit Sacerdotes
+Excelsorum.
+
+2. Quia Legis Naturæ est, ut quodlibet membrum, maximè verò tam egregium
+membrum, quale est caput Politicum, totius corporis saluti, pro virili
+prospiciat & consulat. Sed nihil hic præstare potest, ex absolutâ & independenti
+libertate regiâ, sed omnia secundùm divini Verbi præscriptum.
+
+Assertio 7. Rex, quà Rex, potest jure negare suam regalem sanctionem statutis
+impiis, etsi Canonicè determinata sint à Synodo.
+
+1. Quia conscientia Magistratûs, non absolutè, sed conditionatè, subjicitur
+Canonibus Ecclesiæ, quatenus Dei Verbo conveniunt.
+
+2. Quod convenit omnibus Christianis, & convenit Regi quà est Christianus. At
+discretio privata, an Lex, seu Canon, sit Dei verbo consentaneus, convenit
+omnibus Christianis. Et hìc Rex, & quà Rex, habet publicum judicium, & quà
+Christianus, privatum; nè quidquam exequatur aut suâ authoritate comprobet, quod
+Dei Verbo repugnat.
+
+Nec est quod objiciat quisquam; Si Rex in conscientiâ Canones impios &
+heterodoxos judicet, & sic regalem sanctionem suam recuset, & Rectores, Canones
+Ecclesiæ pios & orthodoxos judicet, quis litem dirimet? Certè eadem est hæc
+controversia cum eâ, quæ nobis
+
+[1668 KBNL/UvA witness | logical printed p. 748 | PDF p. 797]
+
+cum Pontificiis, quæ cuilibet Servo cum Domino, Gregi cum Pastore, intercedere
+potest. Hic omninò Dei Verbum, ab utrâque parte litigante consulendum, quod
+nomine Dei sententiam fert. Determinatio Ecclesiæ est Fidei conditio, secundùm
+ordinem à Dei præscriptum requisita; sed non ratio Formalis fidei, nec quà talis,
+vel Regis, vel Rectorum Ecclesiæ, vel populi conscientiam astringens. Ecclesiæ
+Rectorum est determinare, & Regis est determinata (siquidem Dei Verbo sint
+consentanea) exequi; & Regis est hìc, iis vice Christi, legatione fungentibus
+obedire.
+
+Nec valent Consequentiæ Remonstrantium in contrarium. Hinc inferunt 1.
+Ministri, ergo, sive Pastores, habent potestatem & authoritatem immediatè, i. e.
+primam & supremam, sub, & à Christo. Magistratus itaque, potestatem istam aut
+non habet, aut immediatè etiam, unà cum Ministris, eam à Christo habet, aut
+Ministrorum, istâ in re, Minister & subditus est.
+
+Nos dicimus, datam esse potestatem in externo Regimine Ecclesiæ, immediatè soli
+Ecclesiæ, nec cœtui, sed Collegio Rectorum; qui soli immediatè à Christo habent
+potestatem solvendi & ligandi (ut probant loca. Matth. 18.16,17,18. Joan.
+20.21,22,23. Act. 1.24,25,26. Act. 15.22,23,24.) adeòque potestatem in externo
+Regimine. Nusquam Magistratui, Scriptura
+
+[1668 KBNL/UvA witness | logical printed p. 749 | PDF p. 798 | split word joined: talem]
+
+talem concessit potestatem; nec Regis est in totâ Scripturâ, excommunicare,
+canones condere ad εὐταξίαν & rectum ordinem in Ecclesiâ; sed solius Ecclesiæ.
+
+2. Magistratus, non quà Magistratus, sed quà membrum Ecclesiæ politicè eximium,
+& utriusque Tabulæ custos, habet cum Ecclesiâ collateralem authoritatem sub
+Christo immediatè cum Ecclesiâ sibi collatam. Hæc autem potestas competit Regi,
+quia & quatenus est membrum Ecclesiæ.
+
+3. Nec sequitur, Regem esse Ecclesiæ Ministrum & Subditum, quia illius est
+curare, ut Leges & Canones Ecclesiæ, executioni mandentur; quia imperio planè
+regali imperat ut. Canones Ecclesiæ, executioni mandentur. Imò quia Rex imperat
+omnibus legalitèr, & illius est curare, ut Pastores prædicent Verbum gnavitèr,
+& Canones Verbo Dei conformes serventur, est Dei, hoc nomine, non Ecclesiæ,
+Minister.
+
+2. Inferunt; aut utrisque, i. e. & Magistratui & Ministris Ecclesiæ, immediatè
+Architectonicam potestatem sub Christo competere, aut alterutri tantùm.
+Utrisque simul competere, absurdum: Nam alioqui duæ collaterales potestates
+Architectonicæ, quarum altera ab alterâ non dependeret, in Ecclesiâ Christi
+statuendæ forent; quod contra boni Regiminis naturam est. Ministris, ergò,
+absque Magistratu competit. Resp. Dicunt aliqui, quod minimè
+
+[1668 KBNL/UvA witness | logical printed p. 750 | PDF p. 799 | split word joined: absurdum]
+
+absurdum sit, duas collaterales Potestates Architectonicas immediatè sub
+Christo esse, quarum altera ab alterâ non dependeat; quia sunt Potestates in
+suo genere utræque supremæ. Nam ut Barclaius contra Bellarm. cap. 14. pag. 110.
+Neutra alteri subjicitur, neutraque alterius fines aut Jurisdictionem, sine
+summo scelere, invadere potest; sed ambæ velut unius corporis humeri ad caput,
+qui Christus est, annectuntur. Meisnerus, Sobriæ Philosoph. part. 3. sect. 2.
+cap. 2. Dependet Potestas Civilis à Ministerio in Spiritualibus, & Potestas
+Spiritualis dependet à Magistratu in Temporalibus. Sed propriè loquendo,
+potestas Ecclesiastica Architectonica, in solo Christo, Ecclesiæ Rege & capite,
+residet: Ministris autem, Ministerialis tantùm competit. Suprema puniendi
+potestas, & realis punitio inobedientium, est & manet penes Christum Regem:
+Ministris tantùm Ministerialis pœnæ secundùm verbum denuntiatio, & excommunicatio
+relicta est. At Rex & summus Magistratus verè Architectonicam habet potestatem
+ferendi Leges Verbo Dei & rectæ rationi consentaneas; & transgressores, ex
+plenitudine potestatis, non solùm leviori, sed etiam pro ratione delicti, mortis
+pœnâ afficiendi. Duas potestates in suo genere supremas, subalternas & non
+subalternas sibi invicem, diverso respectu, non tantùm non absurdum, sed
+necessarium est. Nam Rex Politicè, & Regimine δεσποτικῷ, est
+
+[1668 KBNL/UvA witness | logical printed p. 751 | PDF p. 800 | split word joined: supremus]
+
+supremus utriusque tabulæ custos; sed ejus suprema potestas hic est,
+cumulativa hoc est, potest, & tenetur addere & accumulare suam Regalem
+Authoritatem, convocandæ Synodo Nationali, ei præsidendo Politicè, Canonibus
+sanctionem Civilem addendo, contumaces Canonum violatores puniendo: Sed non est
+ejus potestas privativa, quâ, potestate à Christo collatâ, aut exercitio
+Potestatis Ecclesiasticæ, Ecclesiam privare possit. Unde Christi potestas, est
+positiva & privativa; Regis est permissiva, accumulativa, suppletoria, non
+privativa. Et Ecclesiæ Potestas in alio genere, in genere Potestatis
+Ecclesiasticæ, Pastoralis, Spiritualis, est suprema in suo genere & ordine, nec
+subest Regi, sed immediatè Christo. Itaque Rex, quà Rex, solo Deo minor est, &
+Deus secundus, superior Ecclesiâ, Potestate Civili: & Rectores Ecclesiæ,
+Potestate Spirituali, sunt Rege superiores. Nam Rex, quà membrum Ecclesiæ,
+subest Ecclesiæ, ut Filius Matri, pars toti, membrum corpori, ovis collegio
+Pastorum. Nec est hæc sententia Papalis, ut autumant Remonstrantes.
+
+1. Quia Pontificii Regem, & Regis conscientiam, subjiciunt Decretis & Canonibus
+Ecclesiæ, tanquam infallibili Dei Verbo. Hæc verò sententia, Regis conscientiam
+subjicit nulli Synodo, nulli Decreto Ecclesiæ, nisi quatenùs convenit cum Dei
+Verbo.
+
+[1668 KBNL/UvA witness | logical printed p. 752 | PDF p. 801 | split word joined: Pontificii]
+
+2. Pontificii, Ecclesiam virtualem, i. e. Papam Romanum, ità Regibus
+supereminere volunt, ut liceat Papæ disponere de Regibus, eos è solio deturbare,
+coronis privare, ex plenitudine Potestatis Papalis. Nos talem Tyrannidem
+detestamur; & omnes animas, etiam Pastorum, subjici debere Regi in Domino, idque
+propter conscientiam, docemus. Volunt item Pontificii, ut Papa possit, pro
+imperio, Regibus imperare; Reges illius Verbo, tanquàm Dei oraculo vivo in
+terris loquenti, conscientiam suam subjicere debere; & Regem, ut executorem &
+ministrum, subesse Papæ. Nos docemus, Reges subesse Ecclesiæ, ut oves
+Pastoribus: ità tamen, ut ex conscientiâ non obligentur Decreta Ecclesiæ exequi,
+quia sunt Decreta Ecclesiæ, sed quatenùs ea Dei Verbo consentanea esse videt.
+Nec Theologi Britanni credunt, Regem esse caput Ecclesiæ, h. e. eandem Capitis
+potestatem habere, quam Papa in Angliam olim usurpavit. (Quid Aulæ servi, &
+mancipia Regum doceant, non moror.) Nec controversia est Anglicanæ Ecclesiæ
+cum Jesuitis, An Rex sit Caput Ecclesiæ, eo sensu, quo Papa jactitat se esse
+Caput? sed, An non sit Caput Ecclesiæ Politicum, nulli Papæ, quà Rex, subjectus?
+Ajunt Angli, negant Jesuitæ.

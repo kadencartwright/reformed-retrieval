@@ -1641,3 +1641,59 @@ This unit is bounded by the exact repeated verse-3 lemma rather than by an
 arbitrary image count. The next unit begins in the left column of reader image
 `PA239` / printed p. 239 at `Vers. 3. Si gignat quis centenos liberos, & annos
 multos vivat`.
+
+**Part 72 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:3 lemma and its complete homiletic
+exposition on reader images `PA239` and `PA241`. It begins in the left column
+of printed p. 239 at `Vers. 3. Si gignat quis centenos liberos, & annos multos
+vivat`, crosses the printed-page join at `affir- / mat` and the image join
+after the p. 240 catchword `Deinde`, and ends near the top of printed p. 241
+immediately before the repeated verse-4 lemma. The paired files have two
+exactly identical reader-image markers and retain the comparisons with a
+child and a stillborn child, the blessings of many children and long life,
+the examples of Jeconiah and the Babylonian monarch, the Greek `πολυτεκνία`,
+and every printed biblical reference. The English translator's notes explain
+the Greek, disclose the catchword and split-word joins, and record the printed
+`adversos qui`:
+
+- `parts/part-72-homiliae-chapter-06-verse-03-latin.txt`
+- `parts/part-72-homiliae-chapter-06-verse-03-english.md`
+
+This unit is bounded by the exact repeated verse-4 and verse-5 lemma block
+rather than by an arbitrary image count. The next unit begins near the top of
+reader image `PA241` / printed p. 241 at `Vers. 4. Nam in vanitate venit`,
+immediately followed by `Vers. 5. Hic etiam Solem non vidit`.
+
+**Part 73 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:4–5 lemmata and their complete joint
+homiletic exposition on reader image `PA241`. It begins near the top of
+printed p. 241 at `Vers. 4. Nam in vanitate venit`, immediately followed by
+the verse-5 lemma, and ends in the same column immediately before the repeated
+verse-6 lemma. The paired files have one exactly identical reader-image marker
+and retain the twofold comparison between the miser and a stillborn child:
+
+- `parts/part-73-homiliae-chapter-06-verses-04-05-latin.txt`
+- `parts/part-73-homiliae-chapter-06-verses-04-05-english.md`
+
+This unit is bounded by the exact repeated verse-6 lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA241` / printed p. 241 at `Vers. 6. Etiamsi vivat bis mille annos`.
+
+**Part 74 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:6 lemma and its complete homiletic
+exposition on reader image `PA241`. It begins in the left column of printed p.
+241 at `Vers. 6. Etiamsi vivat bis mille annos`, crosses the printed-page join
+at `vi- / lis`, and ends in the right column of printed p. 242 immediately
+before the repeated verse-7 lemma. The paired files have one exactly identical
+reader-image marker and retain the proleptic objection and reply, the
+comparison between the miser and the stillborn child, and the concluding
+warning concerning the second death. The English translator's note discloses
+the split-word join:
+
+- `parts/part-74-homiliae-chapter-06-verse-06-latin.txt`
+- `parts/part-74-homiliae-chapter-06-verse-06-english.md`
+
+This unit is bounded by the exact repeated verse-7 lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader image
+`PA241` / printed p. 242 at `Vers. 7. Ut omnis labor hominis obveniat ori
+ipsius`.

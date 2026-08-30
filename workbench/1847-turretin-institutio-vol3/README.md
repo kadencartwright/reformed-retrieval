@@ -1417,3 +1417,35 @@ is excluded.
 The next restart point is `QUÆSTIO XVIII. DE VERITATE ET RITIBUS BAPTISMI
 ROMANI. An in Ecclesia Romana retineatur vera doctrina de Baptismo? Dist.` on
 printed p. 346 / IA leaf 380 / PDF p. 380.
+
+## Part 52
+
+Part 52 contains the complete Locus XIX, Question XVIII, “De Veritate et
+Ritibus Baptismi Romani. An in Ecclesia Romana retineatur vera doctrina de
+Baptismo?” It begins with the question heading on printed p. 346 / IA leaf 380
+/ PDF p. 380 and ends with section XVI on printed p. 349 / IA leaf 383 / PDF
+p. 383. Question XIX, “De Efficacia Baptismi,” begins on the next printed page
+and is excluded.
+
+- Latin: `parts/part-52-locus-19-question-18-latin.txt`
+- English: `parts/part-52-locus-19-question-18-english.md`
+- Both files contain four synchronized source-page markers, the complete
+  section sequence I–XVI, and seven synchronized marginalia blocks.
+- The scan verification covered all four page images and all three page joins.
+  The pp. 346–347 join divides `familiaria`; the complete Latin word and its
+  English counterpart are placed after the new-page marker. The pp. 347–348
+  and 348–349 joins fall within sections VI and XI respectively and divide no
+  word.
+- The transcription retains all three printed Greek expressions and the
+  witness’s abbreviations, spelling, capitalization, and citations. `[sic]`
+  identifies `intellexise`, `Christianisimi`, and the feminine `eas` referring
+  back to the infants. The erroneous running head `QUÆST. III.` on printed p.
+  349 is omitted under the stated editorial method. The English translates
+  the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XIX. DE EFFICACIA BAPTISMI. An Baptismus
+ita tollat peccata, ut non sint, an vero tantum ut non regnent, et non
+imputentur? An tollat præterita et præsentia tantum, et futura pœnitentiæ
+relinquat? An vero se extendat ad peccata, non solum quæ ante, sed etiam quæ
+post baptismum committuntur? Prius neg. Post. aff. cont. Pontifi.` on printed
+p. 350 / IA leaf 384 / PDF p. 384.

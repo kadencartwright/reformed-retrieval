@@ -1322,7 +1322,40 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22g-latin.txt`
 - `parts/part-22-chapter-22g-english.md`
 
-The next unit begins with `V. 16. Opprimens tenuem, ut seipsum augeat, dans
-diviti [ut rem suam augeat] utique egestati erit uterque.` in the right column
-of shared PDF 501 / printed column 987; restart at that lemma, excluding every
-verse 15 sentence above it and all left-column text before it.
+**Part 22h is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `V. 16. Opprimens tenuem, ut
+seipsum augeat, dans diviti [ut rem suam augeat] utique egestati erit
+uterque.` in the right column of shared PDF 501 / printed column 987 through
+the final prose of verse 16 on PDF 502 / printed column 989, ending `neutiquam
+hujus criminis peragetur reus.` It stops immediately before the ruled `Vers.
+17. Inclina aurem tuam, & audi verba sapientum; & cor tuum admove, ut
+cognoscas me.` in that same right column. Latin and English have two
+byte-identical source markers (PDF 501–502; synchronized printed columns
+986–987 through 988–989) and retain the verse lemma, full in-scope prose,
+Greek, citations, abbreviations, and printing irregularities. The complete
+files contain 514 Latin-file and 760 English-file whitespace-delimited words,
+respectively, including headers and markers.
+
+Both core images, PDF 501–502, were inspected at original and enlarged detail.
+The shared PDF-501 marker begins only at `V. 16.` in the right column; every
+verse 15 sentence above it and all left-column text are excluded. At the
+PDF-501/502 turn, the page-bottom catchword fragment `repu-` beneath the
+signature was excluded: the PDF-501 body ends at `carnis judicio summè`, while
+whole `repugnantem;` and its corresponding English `opposed` are assigned to
+PDF 502. The abraded opening word on PDF 502 was visually confirmed from its
+surviving letterforms and the page-turn join. The final PDF-502 marker ends
+with `neutiquam hujus criminis peragetur reus.` above the ruled `Vers. 17.`;
+no verse 17 text or anything below it is imported. Witness forms including
+`Spir.tus`, `detractū`, `1. Reg. 21. 12.`, `Elijah`, `ἐμπρακτικῶς`,
+`commesturum`, `verumetiam`, `benificus`, `effectū`, `Sp.Sanctus`, `ἐπὶ τὸ
+κοινὸν`, and the unmatched opening parenthesis before `(quod Jacobum` were
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-22-chapter-22h-latin.txt`
+- `parts/part-22-chapter-22h-english.md`
+
+The next unit begins with the ruled `Vers. 17. Inclina aurem tuam, & audi verba
+sapientum; & cor tuum admove, ut cognoscas me.` in the right column of shared
+PDF 502 / printed column 989; restart at that lemma, excluding every verse 16
+sentence above it and all left-column text before it.

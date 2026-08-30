@@ -163,6 +163,34 @@ retained. Its Greek `αὐτόθεον`, `θεάνθρωπος`, `πληρόμε
 `ἐκραταιοῦτο πνεύματι`, and `σοφίας` has been checked directly
 against both copies.
 
+**Part 07 is the first substantial portion of Book II, Chapter II.** It begins
+with the `CAPUT II` heading below the completion of Chapter I on shared printed
+p. 87. It includes the opening thesis, the complete section *De doloribus
+animae Christi*, and the complete section *De inferis in quibus Christus fuit
+post mortem*. It stops after numbered point `29` on shared printed p. 102,
+immediately before *De Limbo Patrum*:
+
+- e-rara canvases 97–112 / printed pp. 87–102;
+- same-impression Augsburg comparison canvases 111–126;
+- Book II, Chapter II, *De Descensu Christi ad inferos*, opening thesis and
+  first two complete internal sections;
+- next unit: *De Limbo Patrum*, beginning on shared printed p. 102.
+
+The paired files carry sixteen identical source markers. The ten words split
+by page boundaries—`essentialiter` (pp. 90/91), `corporalis` (pp. 92/93),
+`refutatur` (pp. 93/94), `eadem` (pp. 94/95), `scilicet` (pp. 95/96), `infero`
+(pp. 96/97), `voraginem` (pp. 97/98), `significatur` (pp. 98/99),
+`sepeliendus` (pp. 99/100), and `mundum` (pp. 101/102)—are joined and placed
+wholly after the incoming marker in both files. The bottom-of-page forms
+`etiam` (p. 87), `3. Bellar.` (p. 88), `5. Bell.` (p. 89), `qui` (p. 91), and
+`Davide` (p. 100) are catchwords rather than additional or duplicated text and
+are excluded. The shared-page endpoint preserves both completed internal
+sections without absorbing the following *De Limbo Patrum* heading or text.
+The Greek `ἀγωνίαν`, `ἐκθάμβησιν`, `ἀδημονίαν`, `εὐλαβήθη`,
+`εὐλαβήθησαν`, `μὴ εὐλαβοῦ κρίμα θανάτου`, `εὐλαβηθεὶς`, and the forms of
+`ἀπό` and `ᾅδης` on pp. 93–101 have been checked directly against the
+controlling images.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -196,3 +224,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-05-book-01-chapter-06-english.md`
 - `parts/part-06-book-02-chapter-01-latin.txt`
 - `parts/part-06-book-02-chapter-01-english.md`
+- `parts/part-07-book-02-chapter-02a-latin.txt`
+- `parts/part-07-book-02-chapter-02a-english.md`

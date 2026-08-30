@@ -642,6 +642,22 @@ The next testimony, introduced by `Et ad locum alium accedamus`, is excluded.
 - English: `parts/part-36-romans-04-05-abraham-12-english.md`
 - Extent: three synchronized markers, printed pp. 223–225 / IA leaves 231–233
 
+## Part 37: thirteenth unit of the Romans 4:5 lecture
+
+Part 37 gives Tuckney's complete extended proof from 2 Corinthians 5:21. It
+answers Bellarmine's destructive and constructive interpretations, locates
+Paul's statement in the forensic context of reconciliation, defends the
+reality of imputed righteousness, and develops the parallel antithesis
+between Christ made sin for believers and believers made God's
+righteousness in him. It runs from `Et ad locum alium accedamus` on printed
+p. 225 / IA leaf 233 through the explicit conclusion of the passage's
+exposition on printed p. 234 / IA leaf 242. The companion proof from Romans
+5:18, beginning `Ad Rom. 5.18`, is excluded.
+
+- Latin: `parts/part-37-romans-04-05-abraham-13-latin.txt`
+- English: `parts/part-37-romans-04-05-abraham-13-english.md`
+- Extent: ten synchronized markers, printed pp. 225–234 / IA leaves 233–242
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

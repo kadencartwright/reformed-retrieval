@@ -24,22 +24,23 @@ The controlling witness is the public-domain Google Books full-view scan
 [*Bellarminus enervatus*, Tome IV](https://books.google.com/books?id=1AfNlTSMfpEC).
 Google's viewer explicitly reports the volume as public domain. The relevant
 images are [`PA223`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA223)
-through [`PA281`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA281).
+through [`PA285`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA285).
 Page images, not Google OCR, govern the transcription.
 
 For higher-resolution inspection of the same impression, the page images were
 also checked against the Koninklijke Bibliotheek copy made publicly available
 by Internet Archive as
 [`ned-kbn-all-00002889-001`](https://archive.org/details/ned-kbn-all-00002889-001),
-leaves 669–727. No modern edition or translation supplied wording.
+leaves 669–731. No modern edition or translation supplied wording.
 
 ## Exact boundaries
 
 Google `PA221` is Tome IV's separate title page and `PA222` is its dedication;
 both preliminaries are outside the body text. The completed parts continue
 without a textual gap from the opening of Tome IV on printed p. 223 / Google
-`PA223` through the end of Book III, Chapter V on printed p. 281 / Google
-`PA281`. The following heading, Book IV, and all of its text are excluded.
+`PA223` through the end of Book IV, Chapter II on printed p. 285 / Google
+`PA285`. The following heading, Book IV, Chapter III, and all of its text are
+excluded.
 
 | Part | Complete unit | Printed pages / Google images |
 | --- | --- | --- |
@@ -51,8 +52,9 @@ without a textual gap from the opening of Tome IV on printed p. 223 / Google
 | 06 | Book III, Chapter III | 264–269 / `PA264`–`PA269` |
 | 07 | Book III, Chapter IV | 270–276 / `PA270`–`PA276` |
 | 08 | Book III, Chapter V | 276–281 / `PA276`–`PA281` |
+| 09 | Book IV, Chapters I–II | 281–285 / `PA281`–`PA285` |
 
-Across the eight pairs, each language has 63 synchronized markers in the
+Across the nine pairs, each language has 68 synchronized markers in the
 identical form:
 
 `[Printed p. N | Google Books PAN | GB 1AfNlTSMfpEC]`
@@ -88,3 +90,5 @@ images, but they have not received independent human review.
 - `parts/part-07-book-03-chapter-04-english.md`
 - `parts/part-08-book-03-chapter-05-latin.txt`
 - `parts/part-08-book-03-chapter-05-english.md`
+- `parts/part-09-book-04-chapters-01-02-latin.txt`
+- `parts/part-09-book-04-chapters-01-02-english.md`

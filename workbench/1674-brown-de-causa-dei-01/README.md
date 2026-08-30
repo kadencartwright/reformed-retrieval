@@ -60,7 +60,9 @@ byte-identical to the recorded derivatives; the same locally retained
 derivatives govern Parts 40–47, with the byte-identical DjVu XML also used as a
 page-structured collation aid for Parts 46–47. The access PDF, plain OCR, and
 DjVu XML were freshly acquired once more for Parts 48–49 on 30 August 2026 and
-are byte-identical to the recorded derivatives:
+are byte-identical to the recorded derivatives. All four derivatives were
+freshly acquired again for Part 50 on 30 August 2026 and remain byte-identical
+to that set:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -104,12 +106,12 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XVI on the upper part of logical printed p. 349. Shared-page boundaries
-preserve each new argumentative unit in the following part rather than
-duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
-275; from that point the continuous logical numbering used in the markers is
-eighteen lower than the visible numbers, while the IA-leaf and PDF references
-identify the exact images without ambiguity.
+Chapter XVII on logical printed p. 357. Shared-page boundaries preserve each
+new argumentative unit in the following part rather than duplicating it. The
+witness's visible pagination jumps from 256 to 275 at PDF 275; from that point
+the continuous logical numbering used in the markers is eighteen lower than
+the visible numbers, while the IA-leaf and PDF references identify the exact
+images without ambiguity.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -162,6 +164,7 @@ identify the exact images without ambiguity.
 | 47 | Book II, Chapter XIV; God alone determines principal, solemn, necessary, and sufficient time | logical printed pp. 328–333 / IA leaves 346–351 / PDF pp. 346–351; visible pp. 346–351; stops before `CAP. XV.` on p. 334 | 6 |
 | 48 | Book II, Chapter XV; observance of principal and solemn time is a part of worship | logical printed pp. 334–340 / IA leaves 352–358 / PDF pp. 352–358; visible pp. 352–358; stops before `CAP. XVI.` on p. 341 | 7 |
 | 49 | Book II, Chapter XVI; Walaeus's and other contrary arguments weighed | logical printed p. 341 through the upper part of shared logical p. 349 / IA leaves 359–367 / PDF pp. 359–367; visible pp. 359–367; stops before `CAP. XVII.` | 9 |
+| 50 | Book II, Chapter XVII; days are not all equal in holiness | lower part of shared logical printed p. 349 through logical p. 357 / IA leaves 367–375 / PDF pp. 367–375; visible pp. 367–375; stops before `CAP. XVIII.` on logical p. 358 | 9 |
 
 The files are:
 
@@ -214,8 +217,9 @@ The files are:
 - `parts/part-47-book-02-chapter-14-god-alone-determines-solemn-time-{latin.txt,english.md}`
 - `parts/part-48-book-02-chapter-15-observance-is-worship-{latin.txt,english.md}`
 - `parts/part-49-book-02-chapter-16-wallaeus-objections-{latin.txt,english.md}`
+- `parts/part-50-book-02-chapter-17-days-not-equal-in-holiness-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–49 image audits
+### Part 04 re-audit and Parts 05–50 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1337,6 +1341,42 @@ praxeos pietatis eversio, non minus quàm subrutis columnis aedificii ruina.`
 The following rule and `CAP. XVII.` are excluded. The next untranslated text
 is therefore `CAP. XVII. Non sunt omnes dies nunc aequales quoad sanctitatem.`
 on shared logical printed p. 349 / IA leaf 367 / PDF p. 367.
+
+Part 50 is the complete, image-audited seventeenth chapter of Book II. It
+distinguishes days materially considered from days considered with respect to
+divine determination, and gives twenty-four arguments that days are not all
+equal in holiness under the New Testament. Every controlling image from the
+Chapter XVII heading on PDF 367 through the chapter end on PDF 375 was read
+directly, including all eight internal joins; PDF 376 was also inspected to
+verify the outgoing stop before `CAP. XVIII.` OCR and the byte-identical
+page-structured DjVu XML were used only as collation aids. The Latin and
+English contain the identical nine-marker sequence. The visible witness
+numbers these pages 367–375; the markers retain the continuous logical sequence
+349–357 and record the exact IA leaves and PDF pages. The stop is the exact
+Chapter XVII/XVIII boundary.
+
+The terminal erratum `censent` (visible p. 372, line 43; logical p. 354) is
+incorporated and disclosed in both file headers. The errata leaf's general
+warning about deficient Greek and Hebrew type is retained there as well, and
+the controlling images govern `בן הנכר`, `זה היום`, `ἡμέραν κυριακὴν`, `γενόμενον ἐν
+πνεύματι ἐν τῇ ἡμέρᾳ κυριακῇ`, `κυριακὸς`, `δεῖπνον κυριακὸν`, and
+`κυριακὴ ἡμέρα`; no separate substantive marginal gloss occurs.
+Printer-divided words at the logical pp. 350/351, 351/352, 354/355,
+355/356, and 356/357 joins are joined with the new marker before the complete
+Latin word and corresponding English word or phrase. The other three joins
+fall between complete words; running heads, signatures, catchwords, the rule,
+and the Chapter XVIII heading are omitted. All preliminary distinctions,
+twenty-four numbered arguments, objections, citations, extended patristic and
+adversarial quotations, and substantive italic distinctions are retained. The
+manifestly anomalous citation `Marc. 11: 27.` is retained as printed and
+disclosed in both file headers; its quoted words are Mark 2:27.
+
+The exact Part 50 opening is `CAP. XVII. Non sunt omnes dies nunc aequales quoad
+sanctitatem.` Its final included words are `...quidni condemnari debeat, in aliis
+quibuscunque?` The following rule, signature `Yy 3`, catchword `CAP.`, and `CAP.
+XVIII.` on logical printed p. 358 are excluded. The next untranslated text is
+therefore `CAP. XVIII. Examinantur Rationes Adversariorum Contrariae.` on logical
+printed p. 358 / IA leaf 376 / PDF p. 376.
 
 ## Review and licensing status
 

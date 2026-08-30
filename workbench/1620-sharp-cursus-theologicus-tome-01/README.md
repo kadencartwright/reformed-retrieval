@@ -86,9 +86,9 @@ then continues through the existence, unity, and essence of God, the opening
 taxonomy and rules of the divine attributes, the complete treatments of
 divine simplicity and infinity, including eternity, immutability, and
 immensity, and the opening rule for communicable attributes with the complete
-treatment of divine life. Units that share a numbered column meet at the
-printed internal heading or section boundary in that column; neither pair
-duplicates matter across the join.
+treatments of divine life and divine wisdom or knowledge. Units that share a
+numbered column meet at the printed internal heading or section boundary in
+that column; neither pair duplicates matter across the join.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -108,6 +108,7 @@ duplicates matter across the join.
 | 15 | Question IV: attributes and divine simplicity | 180–188 | 00104–00106, 00109–00110 |
 | 16 | Question IV: divine infinity, eternity, immutability, and immensity | 188–192 | 00110–00112 |
 | 17 | Question IV: communicable attributes and divine life | 192–193 | 00112–00113 |
+| 18 | Question IV: divine wisdom or knowledge | 194–196 | 00113–00114 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
@@ -140,13 +141,21 @@ the sixth use of the doctrine of immensity, `Ergo non est necesse ut Angelos
 invocemus.` Part 17 begins immediately afterward in the same column at `De
 attributis κοινωνητοῖς.` No text is omitted or duplicated at the join.
 
-**Exact resume boundary:** Part 17 ends at the foot of column 193 at BSB frame
+**Part-17/Part-18 join:** Part 17 ends at the foot of column 193 at BSB frame
 00113 with the third use of the doctrine of divine life, `Ergo in aeternum
-vivemus.` The heading `De Sapientia seu Scientia Dei.` begins at the top of
-column 194 on the same frame and is excluded. The treatment of divine wisdom
-or knowledge is the next untranscribed text. Part 17 spans portions of two
-numbered columns; the word `comprehendere` crosses their boundary and is
-represented by a synchronized split in both files.
+vivemus.` Part 18 begins at the top of column 194 on the same frame at `De
+Sapientia seu Scientia Dei.` No text is omitted or duplicated at the join.
+Part 17 spans portions of two numbered columns; the word `comprehendere`
+crosses their boundary and is represented by a synchronized split in both
+files.
+
+**Exact resume boundary:** Part 18 ends at the foot of column 196 at BSB frame
+00114 with the fifth use of the doctrine of divine wisdom, `quia Deo inscio
+nobis non accidunt.` The heading `De Voluntate Dei.` begins at the top of
+column 197 on BSB frame 00115 and is excluded. The treatment of the divine
+will is the next untranscribed text. In Part 18 the Greek word `βλεπομένων`
+and the Latin word `cogitationis` cross numbered-column boundaries and are
+represented by synchronized splits in both files.
 
 ## Editorial method and status
 
@@ -241,3 +250,20 @@ Both files are AI-assisted and unreviewed.
 - In the treatment of immutability, column 190 prints `Numer. 33.23.`;
   Numbers 23:19 appears to be intended. The printed locator is retained and
   noted in the English.
+
+## Printed anomalies in Part 18
+
+- In the special knowledge of the elect, column 194 prints `2. Tim. 2.9.`;
+  2 Timothy 2:19 appears to be intended. The printed locator is retained and
+  noted in the English.
+- In the account of God's knowledge of all things outside himself, column 195
+  prints `Hebr. 4.31.`, although Hebrews 4 has no verse 31; Hebrews 4:13
+  appears to be intended. The printed locator is retained and noted in the
+  English.
+- Among the proofs that divine wisdom belongs to God alone, column 196 prints
+  `1. Reg. 8.29.`; 1 Kings 8:39, parallel to the next citation at 2 Chronicles
+  6:30, appears to be intended. The printed locator is retained and noted in
+  the English.
+- The small Greek types in columns 194–196 have been normalized to Unicode
+  directly from the page images but should receive specialist collation before
+  publication.

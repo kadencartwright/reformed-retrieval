@@ -378,6 +378,19 @@ printed p. 126 / IA leaf 134 through the close of that response on printed p.
 - English: `parts/part-18-romans-01-17-justification-17-english.md`
 - Extent: six synchronized markers, printed pp. 126–131 / IA leaves 134–139
 
+## Part 19: eighteenth unit of the Romans 1:17 lecture
+
+Part 19 presents and answers Bellarmine's second objection, based on Paul's
+claims that justification by law empties faith, abolishes the promise, and
+makes Christ's death vain. It runs from `Ad quam non minus forsan confert
+secundae objectionis` on printed p. 131 / IA leaf 139 through the close of
+the response on printed p. 135 / IA leaf 143. The third objection, `Restat
+adhuc tertia Bellarmini objectio`, is excluded.
+
+- Latin: `parts/part-19-romans-01-17-justification-18-latin.txt`
+- English: `parts/part-19-romans-01-17-justification-18-english.md`
+- Extent: five synchronized markers, printed pp. 131–135 / IA leaves 139–143
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

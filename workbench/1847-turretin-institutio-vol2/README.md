@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question II
+  Statu Christi*, begun through Question III
 
 ## Controlling witness and rights
 
@@ -39,19 +39,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–40 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–41 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–II, from printed p. 3 / PDF 31
-through section XXXII on printed p. 264 / PDF 292. Part 27 also includes the Locus XII
-divisional title on PDF 177 and its blank verso on PDF 178; Part 39 includes
-the Locus XIII divisional title on PDF 267 and its blank verso on PDF 268. The
-sequence comprises 944 numbered sections across 256 unique numbered text pages
-and 289 source markers in each language (285 printed-page markers plus four
-divisional-leaf markers in Parts 27 and 39). The complete Latin files contain
-141,072 whitespace-delimited words and the complete English files 192,027,
-counted over Parts 01–40 with `wc -w`. Each
-part is a complete question, and each Latin/English pair has an identical
-source-marker sequence and retains the substantive marginal headings.
+Questions I–XII, and Locus XIII, Questions I–III, from printed p. 3 / PDF 31
+through section XXII on printed p. 268 / PDF 296. Part 27 also includes the
+Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
+includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
+268. The sequence comprises 966 numbered sections across 260 unique numbered
+text pages and 294 source markers in each language (290 printed-page markers
+plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
+contain 143,466 whitespace-delimited words and the complete English files
+195,334, counted over Parts 01–41 with `wc -w`. Each part is a complete question,
+and each Latin/English pair has an identical source-marker sequence and retains
+the substantive marginal headings.
 
 | Part | Unit | Extent | Last section | Markers | Paired files |
 |---|---|---|---:|---:|---|
@@ -95,6 +95,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 38 | Locus XII, Question XII | printed pp. 231–237 / PDFs 259–265 | XXV | 7 | `part-38-locus-12-question-12-{latin.txt,english.md}` |
 | 39 | Locus XIII, Question I | title and blank verso PDFs 267–268; printed pp. 241–254 / PDFs 269–282 | XL | 16 | `part-39-locus-13-question-01-{latin.txt,english.md}` |
 | 40 | Locus XIII, Question II | printed pp. 254–264 / PDFs 282–292 | XXXII | 11 | `part-40-locus-13-question-02-{latin.txt,english.md}` |
+| 41 | Locus XIII, Question III | printed pp. 264–268 / PDFs 292–296 | XXII | 5 | `part-41-locus-13-question-03-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -490,6 +491,34 @@ Question III is later content and is excluded.
 Part 40's exact next restart is `QUAESTIO III. DE INCARNATIONIS NECESSITATE. An
 necesse fuerit Filium Dei Incarnari? Affirm.` below section XXXII on printed p.
 264 / PDF 292.
+
+Question III asks whether the incarnation of the Son of God was necessary. It
+first argues that the Son became incarnate only because of sin and would not
+have done so had humanity not fallen. It then maintains that, given sin and
+God's decree to redeem, the incarnation was necessary not absolutely or merely
+by decree or fittingness, but by divine justice. Finally, it argues that the
+work of redemption required a divine-human Mediator: man to suffer and God to
+conquer, with both natures united for the acquisition and application of
+salvation. It answers the principal objections concerning Christ as firstborn,
+Adam and Eve's marriage, the church's head, God's self-communicating goodness,
+and other possible means of redemption in twenty-two sections. It begins at
+the Question III heading below section XXXII on printed p. 264 / PDF 292 and
+ends with section XXII on printed p. 268 / PDF 296 immediately before Question
+IV. The Latin and English files contain 2,394 and 3,307 whitespace-delimited
+words respectively, counted over each complete file with `wc -w`. Both carry
+all five printed-page markers in the same sequence and retain all twelve
+substantive marginal headings, citations, Greek, and Hebrew. The
+printer-divided `θεοδιδάκ-/τους` at the printed pp. 267/268 join is normalized
+as `θεοδιδάκτους`, with the incoming marker placed before the complete word in
+both files. The other joins fall between complete words. The visibly printed
+`convenientiorem modum aliam non fuisse` in section XV is retained in the
+Latin with `[sic]`; the grammar requires `alium` with `modum`. No supplementary
+witness was needed. PDF 297 was consulted only to confirm that its continuation
+of Question IV is later content and is excluded.
+
+Part 41's exact next restart is `QUAESTIO IV. An sola secunda Persona S. S.
+Trinitatis fuerit Incarnata, Et quare?` below section XXII on printed p. 268 /
+PDF 296.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

@@ -74,6 +74,7 @@ same scan can legitimately close one part and open the next:
 | 29 | XXIX | 161–166 | 117–122 | `Jam secundo loco, ad exempla quod attinet` through the alleged examples of lost faith, the extended defense of Solomon's final repentance, and the first four philosophical, baptismal, and ecclesiological arguments against perseverance, ending `Quare non est, quod hic nunc immoremur` before Lecture XXX |
 | 30 | XXX | 166–171 | 122–127 | `Quinta & postrema ratio à Bellarmino allata est hæc` through the fifth argument from uncertainty and despair, three further arguments concerning Adam's fall, union with Christ, and the coexistence of sin and grace, the patristic confirmations, and the general close of the refutation of four classes of objections, ending `finem tandem imponemus` before Lecture XXXI |
 | 31 | XXXI | 171–175 | 127–131 | `Superest nunc tantùm, ut priusquam totum hunc Locum Theologicum concludamus` through the survey of Pelagian, scholastic, Roman, Ubiquitarian, universal-election, universal-redemption, universal-calling, mutability, and sufficient-grace errors, ending with the announcement of three scriptural counterexamples, `quorum nos specimen in his tribus duntaxat afferemus`, before `Primò, Esai. 5` and Lecture XXXII |
+| 32 | XXXII | 175–179 | 131–135 | `Primò, Esai. 5` through answers to the three scriptural objections concerning Isaiah 5, Matthew 23:37, and Revelation 3:20, errors nine and ten, the patristic and Prosperian confirmations, the eleven-part recapitulation of the entire commonplace on predestination, and the final prayer and `AMEN.`, before `Contextus Apostolici retexendi in manus resumptio`, Ephesians 1:15, and Lecture XXXIII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -144,8 +145,9 @@ English translation:
 | 29 | Examples and arguments concerning the loss of faith and perseverance | [`part-29-praelection-29-examples-and-arguments-on-perseverance-latin.txt`](parts/part-29-praelection-29-examples-and-arguments-on-perseverance-latin.txt) | [`part-29-praelection-29-examples-and-arguments-on-perseverance-english.md`](parts/part-29-praelection-29-examples-and-arguments-on-perseverance-english.md) |
 | 30 | Certainty of salvation and the final arguments on perseverance | [`part-30-praelection-30-certainty-and-final-arguments-latin.txt`](parts/part-30-praelection-30-certainty-and-final-arguments-latin.txt) | [`part-30-praelection-30-certainty-and-final-arguments-english.md`](parts/part-30-praelection-30-certainty-and-final-arguments-english.md) |
 | 31 | A survey and refutation of errors against predestination | [`part-31-praelection-31-errors-against-predestination-latin.txt`](parts/part-31-praelection-31-errors-against-predestination-latin.txt) | [`part-31-praelection-31-errors-against-predestination-english.md`](parts/part-31-praelection-31-errors-against-predestination-english.md) |
+| 32 | Scriptural objections and a recapitulation of the whole commonplace on predestination | [`part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt) | [`part-32-praelection-32-scriptural-objections-and-recapitulation-english.md`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-english.md) |
 
-The completed sequence now extends through Lecture XXXI. Its successive subjects
+The completed sequence now extends through Lecture XXXII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -389,8 +391,15 @@ answers appeals to natural revelation and patristic universal language,
 rejects mutable election and a grace flexible toward either belief or
 unbelief, and closes by distinguishing merely sufficient grace from the
 effectual, renewing, cooperating, confirming, and persevering grace described
-by Augustine. Lecture XXXII begins with the first of three announced
-scriptural counterexamples.
+by Augustine. Lecture XXXII answers the three announced scriptural objections
+from Isaiah 5, Matthew 23:37, and Revelation 3:20 by distinguishing external
+means from inward effectual grace, Christ's ministerial will of the sign from
+his divine will of good pleasure, and his effectual knocking in the elect from
+his judicial testimony toward others. It then identifies two further errors,
+compares the modern position with the Pelagians refuted by Augustine and
+Prosper, recapitulates the entire predestination commonplace in eleven stages,
+and closes that long digression with thanksgiving, prayer, and `AMEN.` Lecture
+XXXIII next resumes the apostolic context at Ephesians 1:15.
 
 ## Validation
 
@@ -400,12 +409,13 @@ Run the existing work-local structural validators from the repository root:
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part01.py
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part02.py
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part31.py
+python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part32.py
 ```
 
 These check UTF-8 and line hygiene, exact marker sequence and parity,
 AI/unreviewed disclosures, minimum full-text size, required closes and
 marginalia, exact cross-page joins, and the available source-map structure.
-Part 31 now has its own work-local validator; the intervening later pairs
-follow the same marker-parity and hygiene requirements. This workbench sequence
-does not modify global ledgers, the publication manifest, or repository
-checksums.
+Parts 31 and 32 now have their own work-local validators; the intervening later
+pairs follow the same marker-parity and hygiene requirements. This workbench
+sequence does not modify global ledgers, the publication manifest, or
+repository checksums.

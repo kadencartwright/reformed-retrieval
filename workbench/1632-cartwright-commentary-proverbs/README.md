@@ -1100,7 +1100,38 @@ working edition requiring qualified human review.
 - `parts/part-21-chapter-21j-latin.txt`
 - `parts/part-21-chapter-21j-english.md`
 
-The next unit begins with the ruled `CAPUT XXII` and `Vers. 1. Optabilius est
-nomen divitiis amplis, & auro, & argento gratia bona.` in the right column of
-shared PDF 485 / printed column 955; restart at that chapter heading and lemma,
-excluding every Chapter XXI sentence in the left column.
+**Part 22a is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It begins Chapter XXII at the ruled `CAPUT XXII` and `Vers.
+1. Optabilius est nomen divitiis amplis, & auro, & argento gratia bona.` in
+the right column of shared PDF 485 / printed column 955 and continues through
+the final prose of verse 3 on PDF 489 / printed column 962, ending `à suis
+illis flagitiis absterrentur.` It stops immediately before `Vers. 4. Praemium
+humilitatis cum reverentia Iehovae sunt divitiae, honor, & vita.` in that same
+left column. Latin and English have five byte-identical source markers (PDF
+485–489; synchronized printed columns 954–955 through 962–963) and retain all
+three verse lemmata, full in-scope prose, Hebrew, Greek, citations,
+abbreviations, both embedded English proverbs, and printing irregularities.
+The complete files contain 1,902 Latin-file and 2,684 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 485–489, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-485 marker begins only at the
+ruled Chapter XXII heading in the right column; every Chapter XXI sentence in
+the left column remains excluded. At the subsequent page turns, the catchwords
+`instar`, `(ut`, `Astutia`, and `mone` were excluded rather than duplicated.
+The whole divided wording `instar`, `(ut ipsi)`, `Astutia`, and `Salomone`,
+with its corresponding English wording, was assigned to the receiving PDF
+486, 487, 488, and 489 markers. The final PDF-489 marker contains only the
+conclusion of verse 3 above `Vers. 4.` in the left column; no verse 4 material
+is imported. Witness forms including `Plaeraeque`, `Psal. 219.`, `comprimis`,
+`persequutionibus`, `Laisbis`, `Iudic. 18. 17, 8.`, `Non putâram`, and
+`ἐμφορτίζειν τῶν ποδῶν κωδώνιον` were retained. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22a-latin.txt`
+- `parts/part-22-chapter-22a-english.md`
+
+The next unit begins with `Vers. 4. Praemium humilitatis cum reverentia
+Iehovae sunt divitiae, honor, & vita.` in the left column of shared PDF 489 /
+printed column 962; restart at that lemma, excluding every verse 3 sentence
+above it.

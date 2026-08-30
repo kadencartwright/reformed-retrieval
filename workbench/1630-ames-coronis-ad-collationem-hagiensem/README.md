@@ -76,12 +76,15 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–06 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–07 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
-on redemption through its concluding four-point synthesis on printed p. 103 /
-canvas 113. The files are divided as follows:
+on redemption through its concluding four-point synthesis in the upper
+portion of printed p. 103 / canvas 113. Part 07 completes Article II, Chapter
+II, from its heading lower on that page through the end of the first argument
+in the upper portion of printed p. 109 / canvas 119. The files are divided as
+follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -92,6 +95,9 @@ canvas 113. The files are divided as follows:
 - Part 06: Article II, Chapter I, canvases 103–113 / printed pp. 93–97, the
   anomalous printed p. 67 on canvas 108 (intended p. 98), and printed
   pp. 99–103.
+- Part 07: Article II, Chapter II, canvases 113–119 / printed pp. 103–109;
+  only the lower portion of canvas 113 and the upper portion of canvas 119
+  belong to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -100,13 +106,27 @@ quaestionis eruitur` on printed p. 93 / canvas 103 and ends with
 printed p. 103 / canvas 113. The source's erroneous `Ioh. 2. 16.` and
 `Gen. 1. 18.` citations are retained with comparisons to John 3:16 and Gen.
 15:18, and canvas 108's printed page number is recorded as `67 (sic; intended
-p. 98)`. Chapter II begins lower on canvas 113 and is excluded.
+p. 98)`.
 
 - Latin: `parts/part-06-article-02-chapter-01-latin.txt`
 - English: `parts/part-06-article-02-chapter-01-english.md`
 - Both Part 06 files contain eleven synchronized source markers for BSB
   canvases 103–113 and the printed-page sequence described above.
 
-The next untranslated unit begins with `CAP. II. Argumentum primum. Pag. 117.`
-and `In istoc argumento, quaestio prima in axiomate discreto proponitur` lower
-on printed p. 103 / BSB canvas 113.
+Part 07 answers the first argument concerning the sufficiency and real
+efficacy of Christ's death. It begins with `CAP. II. Argumentum primum. Pag.
+117.` and `In istoc argumento, quaestio prima in axiomate discreto proponitur`
+lower on printed p. 103 / canvas 113 and ends with `...concedunt & credunt
+Remonstrantes ipsi, pagina 188. 189.` above the Chapter III heading on printed
+p. 109 / canvas 119. The witness's malformed reference sequence `Rom. 3. 22.
+19. 4.` is retained without supplying a conjectural book name, and the Greek
+`ἱκανόν` is transcribed directly from the page.
+
+- Latin: `parts/part-07-article-02-chapter-02-latin.txt`
+- English: `parts/part-07-article-02-chapter-02-english.md`
+- Both Part 07 files contain seven synchronized source markers for BSB
+  canvases 113–119 / printed pp. 103–109.
+
+The next untranslated unit begins with `CAP. III. Argumentum secundum. Pag.
+180.` and `Christus, peculiari quadam ratione, posuit suam vitam pro ovibus`
+lower on printed p. 109 / BSB canvas 119.

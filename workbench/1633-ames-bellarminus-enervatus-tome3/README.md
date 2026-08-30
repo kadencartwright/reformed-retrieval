@@ -56,13 +56,14 @@ reply.
 
 ## Completed units
 
-**Parts 01–15 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–16 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
 (printed pages 59–66), the opening argument blocks of Book IV, chapter I, and
 the opening of chapter III through the complete `Argumenta Bellarmini` block
-of its first thesis (printed pages 67–97).
+of its first thesis, item 8 of `Argumenta nostra` in the paired continuation
+below, and items 9–15 in Part 16 (printed pages 67–104).
 
 The paired continuation included below completes `Argumenta nostra`, item 8,
 from its exact join on printed page 97 through the authorial boundary before
@@ -139,6 +140,12 @@ files.
   on page 97).
   - `parts/part-15-book-04-eucharist-chapter-03-bellarmine-arguments-latin.txt`
   - `parts/part-15-book-04-eucharist-chapter-03-bellarmine-arguments-english.md`
+- **Part 16:** Book IV, *De Sacramento Eucharistiae*, chapter III: the exact
+  continuation at item 9, the remainder of the first question's `Argumenta
+  nostra` block, and the opening of the second question through item 15,
+  printed pages 98–104 (ending before the new `Argumenta Bellarmini` heading).
+  - `parts/part-16-book-04-eucharist-chapter-03-items-09-15-latin.txt`
+  - `parts/part-16-book-04-eucharist-chapter-03-items-09-15-english.md`
 
 Both Part 12 files contain nine exactly synchronized printed-page markers. The
 four words divided across printed-page boundaries—`demonstrat` (pages 80/81),
@@ -334,5 +341,11 @@ species of bread. 4. There is no true manner of speaking, whether it is called
 metaphysical or logical, by which it can be maintained that the same body
 remains in the very place from which it departed.
 
-The next untranslated boundary is item 9 on printed page 98: `Protest. Si
-corpus posset esse in multis locis, eadem ratione posset esse in omnibus.`
+Part 16 resumes at the exact next boundary, item 9 on printed page 98. Both
+files contain seven synchronized printed-page markers. The next untranslated
+boundary is the `Argumenta Bellarmini` heading and item 16 on printed page 104.
+The six internal breaks are aligned at `Christi | quoad`, `Non | omne`,
+`non | definitive`, `non | erat`, `quin | sub`, and `sit | extensa`.
+The witness's anomalous forms `divisa`, `comensurantur`, `non terminatur`, and
+`c. isto 5.` are retained in the Latin without silent correction; the English
+follows the evident sense of the argument.

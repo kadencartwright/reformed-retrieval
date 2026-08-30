@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XVII
+  Statu Christi*, begun through Question XVIII
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–55 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–56 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XVII, from printed p. 3 / PDF 31
-through section X on printed p. 321 / PDF 349. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XVIII, from printed p. 3 / PDF 31
+through section XII on printed p. 323 / PDF 351. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,208 numbered sections across 313 unique numbered
-text pages and 360 source markers in each language (356 printed-page markers
+268. The sequence comprises 1,220 numbered sections across 315 unique numbered
+text pages and 363 source markers in each language (359 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 173,237 whitespace-delimited words and the complete English files
-236,561, counted over Parts 01–55 with `wc -w`. Each part is a complete question,
+contain 174,546 whitespace-delimited words and the complete English files
+238,313, counted over Parts 01–56 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -110,6 +110,7 @@ the substantive marginal headings.
 | 53 | Locus XIII, Question XV | printed pp. 313–317 / PDFs 341–345 | XIV | 5 | `part-53-locus-13-question-15-{latin.txt,english.md}` |
 | 54 | Locus XIII, Question XVI | printed pp. 317–319 / PDFs 345–347 | XI | 3 | `part-54-locus-13-question-16-{latin.txt,english.md}` |
 | 55 | Locus XIII, Question XVII | printed pp. 319–321 / PDFs 347–349 | X | 3 | `part-55-locus-13-question-17-{latin.txt,english.md}` |
+| 56 | Locus XIII, Question XVIII | printed pp. 321–323 / PDFs 349–351 | XII | 3 | `part-56-locus-13-question-18-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -866,10 +867,30 @@ controlling witness; the specified OCR excerpt was used only as an aid. No
 supplementary witness was needed. The Question XVIII heading and body later on
 printed p. 321 / PDF 349 are excluded.
 
-Part 55's exact next restart is `QUAESTIO XVIII. DE ASCENSIONE CHRISTI. An
-Ascensio Christi facta sit proprie per motum localem ex locis inferioribus ad
-cœlum supremum Beatorum? An metaphorice per disparitionem? Affirm. Prius;
-Poster. Neg.; contra Lutheranos.` on printed p. 321 / PDF 349.
+Question XVIII argues against the Lutherans that Christ ascended bodily and
+locally from earth into the third heaven, rather than merely withdrawing his
+visible appearance while remaining bodily ubiquitous. It proves the local
+translation from the ascension narratives, Christ's departure from the world,
+and Scripture's description of heaven as a definite place, then answers the
+principal Lutheran objections in twelve sections. It begins at the Question
+XVIII heading below section X of Part 55 on printed p. 321 / PDF 349 and ends
+with section XII on printed p. 323 / PDF 351 immediately before Question XIX.
+The Latin and English files contain 1,309 and 1,752 whitespace-delimited words
+respectively, counted over each complete file with `wc -w`. Both carry all
+three printed-page markers in the same sequence and retain all three
+substantive marginal headings, citations, and scan-exact Greek. The printed pp.
+321/322 join falls between sections I and II, and the pp. 322/323 join between
+sections VI and VII. The three controlling facsimile images were audited
+against both files; the OCR excerpt was used only as an aid. No supplementary
+witness was needed. The visibly printed redundant `et` in `terrena et
+conversatione`, the form `unum præsentiam`, and `opparitionem` are retained in
+the Latin with `[sic]` rather than silently regularized. The Question XIX
+heading and body on printed p. 324 / PDF 352 are excluded.
+
+Part 56's exact next restart is `QUAESTIO XIX. DE SESSIONE CHRISTI AD DEXTRAM
+DEI. Quid sit Sessio Christi ad Dextram Dei, Secundum quam naturam Christo
+conveniat, Et an ad situs rationem pertineat? Neg.` on printed p. 324 / PDF
+352.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

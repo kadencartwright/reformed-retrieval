@@ -67,6 +67,10 @@ made here for the Latin transcription, witness images, or metadata.
   Twisse's question `Sed quibus quaeso argumentis` through his concluding
   prayer for candid scholastic disputation, immediately before `SECTIO
   SECUNDA` on p. 20.
+- BSB canvases 28–29: Part 05 contains the complete `SECTIO SECUNDA`, from
+  Perkins's rule that doctrine must be built from the written Word through
+  Twisse's reply on Scripture, natural notions, and human reason; it ends
+  immediately before `SECTIO TERTIA NOTIO I` on p. 21.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -142,6 +146,21 @@ source markers; the p. 19–20 split word `incorruptum`, the Greek `κρίσιν
 - Latin: `parts/part-04-preface-section-01-scruples-and-conference-latin.txt`
 - English: `parts/part-04-preface-section-01-scruples-and-conference-english.md`
 
-The next untranslated unit begins with the centered `SECTIO SECUNDA` heading
-on printed p. 20 / BSB canvas 28, followed by `Lectori S. D.` and Perkins's
-opening `Doctrina de Praedestinatione & Gratia Dei e verbo scripto Dei`.
+**Part 05 is complete as an AI-assisted, unreviewed working draft.** It begins
+with the centered `SECTIO SECUNDA` on shared printed p. 20 / BSB canvas 28,
+followed by `Lectori S. D.` and Perkins's `Doctrina de Praedestinatione &
+Gratia Dei e verbo scripto Dei`. It includes Arminius's qualification and
+Twisse's complete reply on Scripture, common notions, and the judgment of
+reason, including his discussions of Bradwardine, Piscator, Bertius, and
+Castellio. It ends on printed p. 21 / canvas 29 immediately before the
+centered `SECTIO TERTIA NOTIO I`. The pair has two identical source markers;
+the p. 20–21 continuation, Greek `πάντων ἀντάξιον ἄλλων`, `λείψανα`, and
+`ψυχικόν`, biblical references, quotations, and substantive marginalia are
+retained.
+
+- Latin: `parts/part-05-preface-section-02-scripture-and-reason-latin.txt`
+- English: `parts/part-05-preface-section-02-scripture-and-reason-english.md`
+
+The next untranslated unit begins with the centered `SECTIO TERTIA NOTIO I`
+on printed p. 21 / BSB canvas 29 and Perkins's proposition `Deum semper
+justum esse, licet homines non intelligant, quomodo justus sit`.

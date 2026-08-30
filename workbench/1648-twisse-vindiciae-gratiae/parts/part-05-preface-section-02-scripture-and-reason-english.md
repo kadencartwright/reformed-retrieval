@@ -1,0 +1,49 @@
+# William Twisse, *Vindiciae gratiae, potestatis ac providentiae Dei* (1648)
+
+## Part 05: Preface, Section II — Scripture and Reason
+
+> **AI-assisted, unreviewed working translation.** This is a full close
+> translation from the paired Latin transcription, not a summary. The 1648
+> BSB page images govern, and no previous English version supplies the
+> wording. A qualified human editor must check it against the facsimile before
+> quotation or publication.
+
+[Praefatio; printed p. 20; BSB canvas 28]
+
+SECTION TWO
+
+To the Reader, Greetings
+
+PERKINS
+
+The doctrine of predestination and the grace of God must be built up from the written Word of God, and not from the judgments of men. Hilary speaks rightly: “God cannot be understood except through God.” Again: “Whatever is to be understood about God must be learned from God, because he is known only with himself as author.” This doctrine must also agree with the natural knowledge of God and with the principles of common understanding, which are of the following kind.
+
+ARMINIUS
+
+In the Epistle you lay down two foundations upon which this doctrine of predestination and the grace of God can and ought to be built. One is the written Word of God; the other is the common notions and primary axioms which God has implanted in the minds of men. I make no objection here, provided this is added: where agreement about those notions is impossible because of the darkness spread over our mind and because of the weakness and diversity of human judgment—which you reject—we must have recourse to that first foundation, which is worth all the others together, for a definitive and final verdict.
+
+RESPONSE
+
+What the adversary asks is altogether equitable; far be it from us that he should receive anything inequitable. I judge that only this warning must be given: theologians inclined toward the opinions Arminius defends were formerly accustomed, and even today are still accustomed, to trust too much in the judgment of reason and to grant more than is right to what they call their common notions.
+
+1. That this happened in former times has a most ample witness in Thomas Bradwardine, who stands out among scholastic theologians as the moon among lesser fires. In his preface to that memorable work *On the Cause of God against Pelagius*, he gives the following account: “Moreover, just as the ancient Pelagians, puffed up by the windy name of secular sciences, despised the theological court and demanded a philosophical one, so also do the modern Pelagians. For I have heard certain advocates of Pelagius, although much advanced in sacred heights, affirm that Pelagius could never be convicted by natural and philosophical reason; that instead he was scarcely argued against at all by certain rather bare theological authorities, and chiefly by the authority of the Church, which did not please those satraps. For this reason,” he says, “I resolved to reform them by philosophical arguments and authorities.”
+
+2. It will easily be established that the same thing happens today. First, Peter Bertius professes that he does not admit what Piscator teaches in the matter of predestination because it is contrary to right reason (so
+
+[Praefatio; printed p. 21; BSB canvas 29]
+
+he says) and to the image of God, “whose *leipsana*, or remnants, we still possess.” Piscator replies to him as follows: “But he does not consider that a man regarded in those remnants of the image of God is called *psychikos*, or natural, by the Apostle—that is, possessing nothing exceptional beyond a rational soul—and that it is expressly affirmed of that man that he does not receive the things of the Spirit of God. That is, he does not receive the mysteries of Christian doctrine which are revealed by the Spirit of God to the elect through the Word of God but are opposed to the judgment of human reason, 1 Corinthians 2:14.”
+
+Hence the same Bertius appeals to Piscator’s conscience and solemnly entreats it, first, that Piscator should not knowingly oppose the truth about God which nature has engraved upon him, and then that he should not think this truth overthrown by the sacred words of Christ and the apostles. Piscator replies again: “Hold this as certain. First, in this response of mine I have not knowingly opposed the true notions about God which not nature, but God himself engraved upon my mind when he created my nature and which have remained even after the fall. Yet in the mystery of divine predestination, as also in the remaining mysteries of the Christian religion, I do not take those natural notions as my rule of truth, but the sacred writings, since they are able to make us wise for salvation. Second, I certainly do not think that the true notions about God engraved upon our minds at creation and left after the fall are overthrown by the words of Christ and the apostles. Nevertheless, many things are delivered in those words of which no notions have been engraved upon us by nature—indeed, things which conflict with the natural judgment of our reason.”
+
+Second, the same Piscator observed that Schafmann, Vorstius, and Hemingius also tend in this direction: namely, that they fashion God’s counsel in predestination after the likeness of human wisdom. “When the defenders of free choice against whom I wrote—such as Schafmann, Vorstius, and Hemingius—argue against divine predestination from the nature of human justice, measuring the divine justice with which predestination is joined by the same standard as human justice and recognizing in it nothing higher or more sublime that far exceeds the grasp of our reason, I am then accustomed to reply that arguments drawn from a likeness to human justice have no force against the doctrine of sacred Scripture concerning divine predestination. The reason is that this justice far exceeds the judgment of human reason. I am accustomed to show this from Paul’s own words, for when he brings forward the doctrine of predestination, he repeatedly inserts anticipations drawn from the judgment of human reason, as may be seen in Romans 9:14.”
+
+3. Let us add to these Sebastian Castellio, that Ciceronian translator of the Bible, a man of the same ilk. In his preface to his dialogues he frankly professes that on predestination, election, and free will the common people—except those who have been corrupted by learned men—think better and more soundly than some learned men. He adds a reason most worthy of notice: “For unlettered men follow the judgment of reason and the senses, which is uncorrupted in those matters that fall under reason and the senses.” (Here, however, something must be supplied to complete this argument: the doctrine of predestination, election, and the free will of man is among the matters that fall under reason and the senses; otherwise the entire argument will be excessively gaping and inconsequent.) “And would that the judgment of nature were left to men in this part; then we would not have to labor. But because learned men labor greatly to persuade men that things are not what they are perceived to be—that is, to gouge out men’s eyes—we shall labor to refute this error.”
+
+Here let the reader notice how Castellio takes care that the eyes of bats are not gouged out; meanwhile, as he labors to pierce the eyes of ravens, he does not hesitate at all. It is also worthy of notice that he does not want anyone to be curious enough to trace where he has taken anything from—very likely from the dung of some professed heretic among us. “I have read and observed many things,” he says, “but the question to ask is not where anything was taken from, but with what judgment and reason it was said.”
+
+I join this Castellio to the Arminians because a few years ago these *Dialogues* were reprinted at Gouda in the Netherlands with certain commendatory prefaces. In my judgment, he should have devoted himself entirely either to making translations, writing letters or dialogues, or composing narratives. He was utterly unworthy to approach theology treated by the scholastic method, so diffuse is he as an arguer and so inept at persuading the learned, yet so artful a pursuer of images and empty similitudes for deceiving the simple and unskilled. For, as Augustine acutely says, “Eloquent falsehoods are exceedingly harmful, because less educated people suppose them to be true on account of their eloquence.”
+
+Would that our Arminians did not agree too much with that Sebastian, whatever they may pretend—as Arminius does in this passage about submitting common principles and notions to the standard of truth revealed in the sacred writings. Nevertheless, I willingly embrace the condition. I would therefore advance no postulates outside the sacred writings. I would use only those which are most closely joined with the nature of a rational human being, such as those two principles concerning contradictory propositions which are most celebrated in all the schools. These carry their own light before them, since they either compel everyone to assent or expose a man who resists them to ridicule. I would also use those principles which either differ very little from these or can evidently be brought back to them through valid inferences. They are of this sort: there can be nothing prior to the first; nothing can be either prior or posterior to itself; there can be no infinite regress in any class of causes; God does nothing in vain; God is not mutable; all his decrees are eternal; and God never falls short of his end—something which Arminius was nevertheless at times not ashamed to affirm. Yet we wish these principles to have no greater force than our ability to demonstrate that things cannot be otherwise. With these points thus premised, let us approach the notions proposed by Perkins and submitted by Arminius to examination.
+
+[Marginalia: Hilary, *On the Trinity*, book 5; ibid., p. 140; Augustine, *On the Origin of the Soul*, book 2, chapter 1.]

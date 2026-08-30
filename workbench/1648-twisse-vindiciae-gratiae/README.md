@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–36.
+checked page by page against canvases 9–37.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -101,6 +101,12 @@ made here for the Latin transcription, witness images, or metadata.
   concurrence and Twisse's two-part reply on persuasion, concurrence,
   efficient causation, and conditional divine operation; it ends on p. 28
   immediately before `SECTIO NONA NOTIO VII`.
+- BSB canvases 36–37: Part 12 contains the complete `SECTIO NONA NOTIO VII`,
+  from Perkins's proposition that nothing evil can be avoided unless God
+  prevents it through Arminius's distinction between necessary and infallible
+  prevention and Twisse's reply on physical motion, efficacious grace,
+  persuasion, divine foreknowledge, futurition, and Stoic fate; it ends on p.
+  29 immediately before `SECTIO DECIMA NOTIO VIII`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -109,7 +115,7 @@ made here for the Latin transcription, witness images, or metadata.
 The preliminary and body boundaries above were inspected in the continuous
 canvas sequence. Part 01 has seventeen synchronized printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–35. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–37. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -280,7 +286,23 @@ are retained.
 - Latin: `parts/part-11-preface-section-08-notion-06-special-grace-latin.txt`
 - English: `parts/part-11-preface-section-08-notion-06-special-grace-english.md`
 
-The next untranslated unit begins with the centered `SECTIO NONA NOTIO VII`
-on printed p. 28 / BSB canvas 36 and Perkins's proposition `Nihil mali posse
-caveri nisi Deo impediente: & eatenus malum cavemus quatenus Deus vel magis
-vel minus impedit`.
+**Part 12 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO NONA NOTIO VII`, beginning
+on shared printed p. 28 / BSB canvas 36 with Perkins's proposition `Nihil mali
+posse caveri nisi Deo impediente: & eatenus malum cavemus quatenus Deus vel
+magis vel minus impedit`. It preserves Arminius's distinction between a
+necessary and an infallible prevention of evil and Twisse's complete reply on
+physical motion, efficacious grace, persuasion, divine foreknowledge,
+futurition, and Stoic fate. It continues through printed p. 29 / canvas 37 and
+ends immediately before the centered `SECTIO DECIMA NOTIO VIII`. The pair has
+two identical source markers; the p. 28–29 join `demon-` / `stratione` is
+normalized as `demonstratione` after the p. 29 marker, and the inline page
+references to Arminius and Corvinus are retained.
+
+- Latin: `parts/part-12-preface-section-09-notion-07-prevention-of-evil-latin.txt`
+- English: `parts/part-12-preface-section-09-notion-07-prevention-of-evil-english.md`
+
+The next untranslated unit begins with the centered `SECTIO DECIMA NOTIO
+VIII` on printed p. 29 / BSB canvas 37 and Perkins's proposition `Voluntatem
+Dei non tantùm è verbo scripto, vel revelatione, sed ex eventu etiam cognosci.
+Nam quod evenit, ideo evenit, quia Deus voluit evenire`.

@@ -1059,3 +1059,121 @@ This unit is bounded by the exact next repeated verse lemmata rather than by
 an arbitrary image count. The next unit begins in the right column of reader
 image `PA181` / printed p. 182 at `Vers. 3. Sed rursus ego vidi hoc esse
 vanitatem sub Sole` and `Vers. 4. Est unus aliquis cui deest secundus`.
+
+**Part 46 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 4:3–4 lemmata and their complete joint
+homiletic exposition on reader images `PA181`, `PA183`, and `PA185`. It begins
+in the right column of printed p. 182 at `Vers. 3. Sed rursus ego vidi hoc esse
+vanitatem sub Sole` and `Vers. 4. Est unus aliquis cui deest secundus`, crosses
+the image joins after the p. 182 and p. 184 catchwords `deflectentes` and
+`quod`, and ends in the left column of printed p. 186 immediately before the
+repeated lemma `Vers. 5. Meliores sunt duo quam unus`. The paired files have
+three exactly identical reader-image markers and retain the contrast between
+idleness and avaricious overwork, the analysis of insatiable accumulation and
+succession, the transition to the usefulness of human society, the Greek
+`πολυτεκνίας`, and every printed biblical reference. The English translator's
+notes disclose both catchword joins, the difficult references and agreement
+shifts, the phrases `suum genium fraudat` and `Canis in præsepi`, and the
+compressed final analytical statement rather than silently repairing or
+omitting them:
+
+- `parts/part-46-homiliae-chapter-04-verses-03-04-latin.txt`
+- `parts/part-46-homiliae-chapter-04-verses-03-04-english.md`
+
+This joint unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins in the right column of
+reader image `PA185` / printed p. 186 at `Vers. 5. Meliores sunt duo quam
+unus, quia est ipsis præmium bonum ex labore suo`.
+
+**Part 47 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 4:5 lemma and its complete homiletic
+exposition on reader images `PA185` and `PA187`. It begins in the right column
+of printed p. 186 at `Vers. 5. Meliores sunt duo quam unus`, crosses the image
+join after the p. 186 catchword `scilicet`, and ends in the right column of
+printed p. 188 immediately before the repeated lemma `Vers. 6. Nam si cadant`.
+The paired files have two exactly identical reader-image markers and retain
+the commendation of society from nature and reward, Cartwright's polemic
+against monastic seclusion, the Greek `ἀγελαῖα`, `μισανθρωπίας`, and
+`ἀναχωρητὰς`, and every printed biblical reference. The English translator's
+notes disclose the catchword join, all three Greek expressions, the distinction
+between `Monachismus` and `Anachorismus`, and the compressed `non tantum
+Salomon & mercedem esse`, `labore partis`, and `quoad ... jactura`
+constructions rather than silently repairing or omitting them:
+
+- `parts/part-47-homiliae-chapter-04-verse-05-latin.txt`
+- `parts/part-47-homiliae-chapter-04-verse-05-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader
+image `PA187` / printed p. 188 at `Vers. 6. Nam si cadant, eorum unus erigit
+socium suum`.
+
+**Part 48 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 4:6 lemma and its complete homiletic
+exposition on reader images `PA187` and `PA189`. It begins in the right column
+of printed p. 188 at `Vers. 6. Nam si cadant`, crosses the image and
+printed-page join in the division `castigatio- / nis`, and ends in the left
+column of printed p. 189 immediately before the repeated lemma `Vers. 7. Etiam
+sive cubent duo`. The paired files have two exactly identical reader-image
+markers and retain the bodily, spiritual, ministerial, and divine forms of
+aid attached to society and every printed biblical reference. No independent
+marginal notes, Greek, Hebrew, or other foreign-script text occurs in this
+unit. The English translator's notes disclose the divided word, the tmesis
+`quas enim cunque`, the compressed curse, the irregular `Hic casus corpori
+noxius` and `graviori illos in periculo` constructions, and the printed
+`2. Chron. 19. 20` reference rather than silently repairing or omitting them:
+
+- `parts/part-48-homiliae-chapter-04-verse-06-latin.txt`
+- `parts/part-48-homiliae-chapter-04-verse-06-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA189` / printed p. 189 at `Vers. 7. Etiam sive cubent duo, concalescunt
+illi`.
+
+**Part 49 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 4:7 lemma and its complete homiletic
+exposition on the single reader image `PA189`. It begins in the left column of
+printed p. 189 at `Vers. 7. Etiam sive cubent duo`, continues across the
+opening to printed p. 190, and ends immediately before the repeated lemma
+`Vers. 8. Sive fortior sit altero unus quispiam`. The paired files have one
+exactly identical reader-image marker and retain the commendation of mutual
+bodily and spiritual warmth, the discussion of David, and Cartwright's refusal
+to restrict the passage to marriage, together with every printed biblical
+reference. No independent marginal notes, Greek, Hebrew, or other
+foreign-script text occurs in this unit. The English translator's notes
+disclose the contextual rendering of `conjugem` and the relationship between
+the printed repeated-lemma numbering and `duodecimi versus` rather than
+silently altering them:
+
+- `parts/part-49-homiliae-chapter-04-verse-07-latin.txt`
+- `parts/part-49-homiliae-chapter-04-verse-07-english.md`
+
+This short unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins in the right column of
+reader image `PA189` / printed p. 190 at `Vers. 8. Sive fortior sit altero
+unus quispiam, ipsi ambo obsistent ei`.
+
+**Part 50 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 4:8 lemma and its complete homiletic
+exposition on reader images `PA189` and `PA191`. It begins in the right column
+of printed p. 190 at `Vers. 8. Sive fortior sit altero unus quispiam`, crosses
+the image and printed-page join after the incomplete catchword `per-`, and
+ends in the left column of printed p. 191 immediately before the lemma block
+for verses 9–12. The paired files have two exactly identical reader-image
+markers and retain the argument from mutual defense, the threefold-cord
+comparison, the qualification that society must be lawful and holy, and every
+printed biblical reference. No independent marginal notes, Greek, Hebrew, or
+other foreign-script text occurs in this unit. The English translator's notes
+disclose the catchword, the printed biblical references, the compressed
+`Si enim duorum ... devinctorum` construction, and the shift from `filum
+triplicatum` in the lemma to `funiculi triplicati` in the exposition rather
+than silently repairing or omitting them:
+
+- `parts/part-50-homiliae-chapter-04-verse-08-latin.txt`
+- `parts/part-50-homiliae-chapter-04-verse-08-english.md`
+
+This unit is bounded by the exact next lemma block rather than by an arbitrary
+image count. The next unit begins in the left column of reader image `PA191` /
+printed p. 191 at the lemmata for verses 9–12, beginning `Vers. 9. Melior est
+puer indigus & sapiens, rege sene & stolido, qui nescit admoneri amplius`.

@@ -983,6 +983,23 @@ arguments, `Restat jam tantum ut perpendamus`, is excluded.
 - English: `parts/part-57-romans-04-05-abraham-33-english.md`
 - Extent: two synchronized markers, printed pp. 278–279 / IA leaves 286–287
 
+## Part 58: thirty-fourth unit of the Romans 4:5 lecture
+
+Part 58 answers three preliminary objections to purification at death.
+Inability to sin in glory confirms rather than weakens the removal of sin's
+remaining habit; the purification is owed wholly to Christ's death and
+merit, though completed when believers themselves die; and it creates no
+new purgatory, since Christ's blood progressively cleanses believers and
+completes that work at death. Tuckney appeals especially to Justin Martyr
+and contrasts his ancient faith with Castellio's innovation. It runs from
+`Restat jam tantum ut perpendamus` on printed p. 279 / IA leaf 287 through
+the third response on printed p. 280 / IA leaf 288. Castellio's full assault,
+beginning `At hoc adhuc velitationis praeludium fecit`, is excluded.
+
+- Latin: `parts/part-58-romans-04-05-abraham-34-latin.txt`
+- English: `parts/part-58-romans-04-05-abraham-34-english.md`
+- Extent: two synchronized markers, printed pp. 279–280 / IA leaves 287–288
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

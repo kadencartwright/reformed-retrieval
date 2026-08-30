@@ -71,6 +71,10 @@ made here for the Latin transcription, witness images, or metadata.
   Perkins's rule that doctrine must be built from the written Word through
   Twisse's reply on Scripture, natural notions, and human reason; it ends
   immediately before `SECTIO TERTIA NOTIO I` on p. 21.
+- BSB canvases 29–30: Part 06 contains the complete `SECTIO TERTIA NOTIO I`,
+  from Perkins's proposition that God is always just through Twisse's reply
+  on works whose justice exceeds human judgment; it ends in the top lines of
+  p. 22 immediately before `SECTIO QUARTA NOTIO II`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -161,6 +165,21 @@ retained.
 - Latin: `parts/part-05-preface-section-02-scripture-and-reason-latin.txt`
 - English: `parts/part-05-preface-section-02-scripture-and-reason-english.md`
 
-The next untranslated unit begins with the centered `SECTIO TERTIA NOTIO I`
-on printed p. 21 / BSB canvas 29 and Perkins's proposition `Deum semper
-justum esse, licet homines non intelligant, quomodo justus sit`.
+**Part 06 is complete as an AI-assisted, unreviewed working draft.** It begins
+with the centered `SECTIO TERTIA NOTIO I` in the lower portion of shared
+printed p. 21 / BSB canvas 29 and Perkins's proposition `Deum semper justum
+esse, licet homines non intelligant, quomodo justus sit`. It includes
+Arminius's caution and Twisse's complete reply on recognizing the justice of
+divine works even when their rationale exceeds human judgment. It continues
+through the top lines of printed p. 22 / canvas 30 and ends immediately before
+the centered `SECTIO QUARTA NOTIO II`. The pair has two identical source
+markers; the p. 21–22 continuation after `filius suus` and the substantive
+biblical marginalia are retained.
+
+- Latin: `parts/part-06-preface-section-03-notion-01-divine-justice-latin.txt`
+- English: `parts/part-06-preface-section-03-notion-01-divine-justice-english.md`
+
+The next untranslated unit begins with the centered `SECTIO QUARTA NOTIO II`
+on printed p. 22 / BSB canvas 30 and Perkins's proposition `Deum non regi,
+nedum pendere e causis secundis: sed eas juste ordinare, tum quum injuste
+agunt`.

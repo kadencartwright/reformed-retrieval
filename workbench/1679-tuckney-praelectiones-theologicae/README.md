@@ -1530,6 +1530,14 @@ Part 93 completes Tuckney's scriptural confirmation with the apostolic testimony
 - English: `parts/part-93-moral-law-08-english.md`
 - Extent: two synchronized markers, new-series fols. 31–32 / IA leaves 351–352
 
+## Part 94: ninth unit on the moral law under the gospel
+
+Part 94 presents Tuckney's arguments from the moral law itself. He appeals to the enduring manner of its promulgation, identifies it as an imprint of God's holiness and righteousness, and defends it as the natural law originally inscribed on Adam and never wholly effaced from the Gentiles. His rebuttal to Socinus then traces its republication at Sinai and confirmation under the gospel before declining further arguments from Antinomian consequences. The part runs from the heading `Argumenta idem probantia`, followed by `Primo ex ipsa lege peti possunt`, on new-series fol. 32 / IA leaf 352 through `sed nolo hanc Camarinam movere` and the completed sentence on new-series fol. 33 / IA leaf 353. The concluding peroration beginning `Concludo itaque` on new-series fol. 34 / IA leaf 354 is excluded.
+
+- Latin: `parts/part-94-moral-law-09-latin.txt`
+- English: `parts/part-94-moral-law-09-english.md`
+- Extent: two synchronized markers, new-series fols. 32–33 / IA leaves 352–353
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

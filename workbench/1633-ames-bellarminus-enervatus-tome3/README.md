@@ -64,6 +64,12 @@ Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 the opening of chapter III through the complete `Argumenta Bellarmini` block
 of its first thesis (printed pages 67–97).
 
+The paired continuation included below completes `Argumenta nostra`, item 8,
+from its exact join on printed page 97 through the authorial boundary before
+item 9 on printed page 98. In accordance with the requested file scope, this
+continuation is presented in this README rather than in additional part
+files.
+
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
   - `parts/part-01-title-dedication-and-chapters-01-02-latin.txt`
@@ -173,5 +179,160 @@ gutter-obscured citation sequence on page 95 was checked against the clear
 1638 author-revised edition while the 1632 witness continues to govern the
 transcription.
 
-The next untranslated boundary is `Argumenta nostra`, on printed page 97,
-followed by item 8: `Protest. Matth. ult. Non est hic, surrexit enim.`
+## Paired continuation: `Argumenta nostra`, item 8
+
+The Latin and English below contain the same two printed-page markers in the
+same sequence. The p. 97/98 break falls between `non` and `accedit`; no word is
+divided at the break. The English marker is synchronized between “does not”
+and “follow.” No distinct marginal annotations occur in this passage; the
+inset authorities and references are retained in place.
+
+### Latin source transcription
+
+[1632 witness | printed p. 97]
+
+Argumenta nostra.
+
+8. Protest. Matth. ult. Non est hic, surrexit enim. haec consequentia infirma
+esset, si posset idem corpus esse simul in pluribus locis: posset enim simul
+discedere, & remanere.
+
+Bellarm. 1. Consequentia illa Angeli optima est: sensus enim est: non jacet
+mortuus in sepulchro, surrexit enim: nec enim poterat mortuus jacere, si
+resurrexerat.
+
+Protest. I. Haec ipsa consequentia negatur ab iis necessario, qui dicunt, unum
+corpus posse simul esse in locis diversis: sicut enim in uno loco possit
+quiescere, & in altero moveri; in uno stare, & in altero sedere; in uno
+insidere equo, in altero esse in lecto, in uno vestitum esse, in altero nudum
+quae omnia defendit Ioh. de Rada Arragonius, Episc. Pactensis, *controv. theol.
+p. 4. cont. 8. a. 1.* similiter etiam possit in uno loco juxta ignem positum
+calefieri, & in altero ex gelu frigefieri; in uno loco, bene nutriri, & valere,
+in altero vel ex nutrimenti defectu, vel ex aeris intemperie infirmari & mori
+quae etiam à multis Pontificiis defendi, idem ibidem affirmat: & ab omnibus &
+debere defendi, & posse etiam eadem arte qua defendunt idem corpus in diversis
+locis existere, res ipsa clamat. Si certe Alex. Al. Doctor irrefragabilis,
+praeceptor Thomae, & Bonaventurae, *p. 4. q. 11. m. II. a. 1. sect. 7.*
+disertis verbis defendit, potuisse fieri in triduo mortis, & posse adhuc fieri,
+ut anima Christi esset in uno loco cum corpore, & alibi corpus sine illa: ita
+ut corpus idem simul esset mortuum in sepulchro & vivum in pixide; si scilicet
+corpus Christi, sacratum in coena, reservatum fuisset in pixide usque ad
+mortem; vel in simili casu. *Hoc posito* (ait) *non*
+
+[1632 witness | printed p. 98]
+
+*accedit, contradictoria simul esse vera: quod sic patet. secundum enim illam
+positionem, demonstrata carne in pixide, haec vera esset: haec caro est viva;
+demonstrata eadem in sepulchro, haec esset vera, haec caro est mortua, & per
+consequens non viva. Nec sunt ista contradictoria haec caro alicubi est viva,
+alicubi non est viva: sed subcontraria: sed haec esset ei contradictoria: haec
+caro nusquam est viva: quae non concederetur, illa positione stante.*
+
+Bellarm. *tom. 1. de incarn. l. 3. c. 11.* his ipsis verbis. *non est hic,*
+dicit Scripturam expresse dicere, *Christum secundum humanitatem ibi non
+fuisse.* non igitur mortis, sed praesentiae Christi in illo loco negatio, per
+consequentiam illam infertur: unde etiam sequitur, ut Bellarm. ibid. observat,
+*non posse illam ullo modo affirmari, quia Scriptura absolute dicit: non est
+hic.*
+
+Bellarm. 2. *Consequentia illa etiam optima est, absolute, seu moraliter
+loquendo; non metaphysice. quamvis enim fieri possit, ut aliquis vivens, in
+sepulchro jaceat, si velit; tamen moraliter loquendo qui resurgit à morte, non
+remanet in sepulchro, sed egreditur. Simile est, si quis dicat. talis homo non
+sedet ad mensam, coenatus enim est.*
+
+Protest. I. Consequentiae rationem commutat Bellarm. ut eo facilius eludat: non
+est enim: vivit, ergo non est hic; sed surrexit, ergo non est hic. II. Simile
+dissimili phrasi illustrat: quamvis enim qui coenatus est, possit ad mensam
+sedere, si velit; tamen qui surrexit à mensa, non potest sessionem coenae
+continuare. sic etiam qui vivit, potest in sepulchro jacere, si velit; sed qui
+surrexit è sepulchro, non potest in sepulchro permanere. III. Concedit
+Bellarm. moraliter loquendo, non esse moraliter certum, Christi esse sub
+speciebus panis, & vini: sicut enim moraliter loquendo, qui resurgit à morte
+non remanet in sepulchro, sic etiam, eodem loquendi modo, qui ascendit in
+caelum, & ibi manet, non est praesens in terris. Cum igitur certitudo vulgo
+dicta moralis, nihil aliud sit, quam probabilis veritas sequitur, non esse
+probabile, Christi corpus realiter adesse in Eucharistia, sub specie panis.
+IV. Nullus est verus loquendi modus, sive metaphysicus, sive logicus vocetur,
+quo possit defendi, idem corpus in eodem loco manere, ex quo discessit.
+
+### English translation
+
+[1632 witness | printed p. 97]
+
+#### Our arguments
+
+8. Protestant reply. The last chapter of Matthew says, “He is not here, for he
+has risen.” This inference would be weak if the same body could be in multiple
+places at the same time, for it could then depart and remain at the same time.
+
+Bellarmine 1. The angel's inference is excellent. Its meaning is: “He does not
+lie dead in the tomb, for he has risen.” For he could not lie there dead if he
+had risen.
+
+Protestant reply. 1. This very inference is necessarily denied by those who
+say that one body can be in different places at the same time. For just as it
+could rest in one place and move in another; stand in one and sit in another;
+ride a horse in one and be in bed in another; be clothed in one and naked in
+another—all of which are defended by John de Rada Arragonius, bishop of Patti,
+*Theological Controversies*, part 4, controversy 8, article 1—so likewise it
+could be warmed when placed beside a fire in one place and chilled by frost
+in another; be well nourished and healthy in one place, but grow ill and die
+in another, either from lack of nourishment or from an unhealthy condition of
+the air. In the same place he affirms that these things too are defended by
+many papists; and the thing itself cries out both that they must be defended
+by all of them and that they can be defended by the same device by which they
+defend the existence of the same body in different places. Indeed, Alexander
+of Hales, the Irrefragable Doctor and teacher of Thomas and Bonaventure, part
+4, question 11, member 2, article 1, section 7, expressly maintains that during
+the three days of Christ's death it could have happened—and still could
+happen—that Christ's soul was together with his body in one place while his
+body was elsewhere without it. Thus the same body would be dead in the tomb
+and alive in the pyx at the same time, if, for example, Christ's body,
+consecrated at the Supper, had been reserved in the pyx until his death, or in
+a similar case. “On this supposition,” he says, “it does not
+
+[1632 witness | printed p. 98]
+
+follow that contradictories are true at the same time, as is evident in this
+way. For according to that supposition, if the flesh in the pyx were pointed
+out, this would be true: ‘This flesh is alive.’ If the same flesh in the tomb
+were pointed out, this would be true: ‘This flesh is dead,’ and consequently
+not alive. Nor are these contradictories—‘This flesh is alive somewhere’ and
+‘It is not alive somewhere’—but subcontraries. Rather, this would be its
+contradictory: ‘This flesh is alive nowhere’; and that would not be conceded
+while the supposition stood.”
+
+Bellarmine, Tome 1, *On the Incarnation*, book 3, chapter 11, says in these
+very words that by “he is not here” Scripture expressly says that “Christ was
+not there according to his humanity.” It is therefore not Christ's death but
+his presence in that place which is denied by that inference. From this it
+also follows, as Bellarmine observes in the same place, that “this can in no
+way be affirmed, because Scripture says absolutely, ‘He is not here.’”
+
+Bellarmine 2. That inference is also excellent when speaking absolutely, or
+morally, though not metaphysically. For although it could happen that someone
+living might lie in a tomb if he wished, nevertheless, morally speaking, one
+who rises from the dead does not remain in the tomb but goes out. It is
+similar to saying, “That man is not sitting at the table, for he has eaten.”
+
+Protestant reply. 1. Bellarmine changes the rationale of the inference so that
+he may evade it more easily. It is not, “He lives; therefore he is not here,”
+but “He has risen; therefore he is not here.” 2. He illustrates the point with
+something dissimilar in its phrasing. Although one who has eaten can sit at
+the table if he wishes, one who has risen from the table cannot continue his
+seat at the supper. In the same way, one who lives can lie in a tomb if he
+wishes; but one who has risen from the tomb cannot remain in the tomb. 3.
+Bellarmine concedes that, morally speaking, it is not morally certain that
+Christ is under the species of bread and wine. For just as, morally speaking,
+one who rises from the dead does not remain in the tomb, so also, according to
+the same manner of speaking, one who ascends into heaven and remains there is
+not present on earth. Since, therefore, what is commonly called moral
+certainty is nothing other than probable truth, it follows that it is not
+probable that Christ's body is really present in the Eucharist under the
+species of bread. 4. There is no true manner of speaking, whether it is called
+metaphysical or logical, by which it can be maintained that the same body
+remains in the very place from which it departed.
+
+The next untranslated boundary is item 9 on printed page 98: `Protest. Si
+corpus posset esse in multis locis, eadem ratione posset esse in omnibus.`

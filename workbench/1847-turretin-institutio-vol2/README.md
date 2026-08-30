@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question IX
+  Christi Mediatorio*, begun through Question X
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–66 are complete as AI-assisted working drafts.**
+**Parts 01–67 are complete as AI-assisted working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–IX,
-from printed p. 3 / PDF 31 through section XXXII of Question IX on printed p.
-367 / PDF 395. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–X,
+from printed p. 3 / PDF 31 through section XXIX of Question X on printed p.
+375 / PDF 403. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,390 numbered
-sections across 356 unique numbered text pages and 413 source markers in each
-language (407 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 197,098 whitespace-delimited
-words and the complete English files 268,402, counted over Parts 01–66 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,419 numbered
+sections across 364 unique numbered text pages and 421 source markers in each
+language (415 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 201,341 whitespace-delimited
+words and the complete English files 273,996, counted over Parts 01–67 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -124,6 +124,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 64 | Locus XIV, Question VII | printed pp. 350–355 / PDFs 378–383 | XX | 6 | `part-64-locus-14-question-07-{latin.txt,english.md}` |
 | 65 | Locus XIV, Question VIII | printed pp. 355–358 / PDFs 383–386 | XI | 4 | `part-65-locus-14-question-08-{latin.txt,english.md}` |
 | 66 | Locus XIV, Question IX | printed pp. 358–367 / PDFs 386–395 | XXXII | 10 | `part-66-locus-14-question-09-{latin.txt,english.md}` |
+| 67 | Locus XIV, Question X | printed pp. 368–375 / PDFs 396–403 | XXIX | 8 | `part-67-locus-14-question-10-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1142,9 +1143,37 @@ as `Similæ`, with the incoming marker placed before the complete word. The pp.
 and `Ministerio`. The OCR excerpt was used only as an aid. Question X on
 printed p. 368 / PDF 396 is excluded.
 
-Part 66's exact next restart is `QUAESTIO X. DE NECESSITATE SATISFACTIONIS. An
-necesse fuerit Christum pro nobis satisfacere Justitiæ Divinæ? Affirm. Contra
-Socin.` on printed p. 368 / PDF 396.
+Question X of Locus XIV argues against the Socinians that Christ's satisfaction
+was necessary both hypothetically by God's decree and absolutely by divine
+justice. It defines satisfaction as the payment of another's debt, relates
+sin to debt, enmity, and crime, and distinguishes pecuniary from penal payment,
+proper from vicarious punishment, and God's roles as creditor, offended party,
+and supreme judge. It establishes the conditions under which Christ could
+justly substitute for sinners, proves satisfaction's necessity from avenging
+justice, the nature of sin, the sanction of the law, the gospel, divine love,
+and the glory of God's perfections, and answers the principal objections in
+twenty-nine sections. It begins at the Question X heading on printed p. 368 /
+PDF 396 and ends with section XXIX on printed p. 375 / PDF 403 immediately
+before Question XI. The Latin and English files contain 4,243 and 5,594
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all eight printed-page markers in the same sequence and
+retain all nine substantive marginal headings, citations, and Greek. The
+printed pp. 368/369 join falls within section VI between `vel inimicitiæ, per
+quam, non` and `modo sumus`. At the pp. 369/370 join, the printer-divided
+`cujus-/quam` is normalized as `cujusquam`, with the incoming marker placed
+before the complete word in both files. The pp. 370/371 join falls within
+section XII between `ad satisfactionem persolvendam` and `humana`; the pp.
+371/372 join falls within section XVI between `An vero, vel` and `non necesse`;
+and the pp. 372/373 join falls within section XIX between `Quia` and
+`supponitur`. The pp. 373/374 join falls within section XXII between
+`obstaculum saluti` and `nostræ`, and the pp. 374/375 join falls within section
+XXVI between `sed etiam` and `ipsa persona`. The OCR excerpt was used only as
+an aid. The Question XI heading and body later on printed p. 375 / PDF 403 are
+excluded.
+
+Part 67's exact next restart is `QUAESTIO XI. DE VERITATE SATISFACTIONIS. An
+vere et proprie Christus loco nostro Justitiæ Dei satisfecerit? Affirm. contra
+Socin.` on printed p. 375 / PDF 403.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

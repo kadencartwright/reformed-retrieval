@@ -100,9 +100,11 @@ The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
 This update does not silently clear those flags: Parts 09–30 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
-The paired continuation included below resumes at that exact p. 323 boundary
-and completes the treatment of bishops' external vocation through printed p.
-336. In accordance with the requested file scope, it is presented in this
+The paired continuation included below resumes at that exact p. 323 boundary,
+completes the treatment of bishops' external vocation, and continues through
+the first two duties associated with episcopal order: ordaining ministers and
+dedicating churches and burial places. It ends in the lower portion of printed
+p. 347. In accordance with the requested file scope, it is presented in this
 README rather than in additional part files.
 
 | Part | Contents | Source extent | Marker state |
@@ -138,7 +140,7 @@ README rather than in additional part files.
 | 29 | Chapter V: delegation of episcopal jurisdiction | printed pp. 313–318 / PDFs 325–330, both boundary pages partial | 6 paired and image-audited |
 | 30 | Chapter V: extensive episcopal power and oversized dioceses | printed pp. 318–319 / PDFs 330–331, both boundary pages partial | 2 paired and image-audited |
 | 31 | Chapter V: bishops’ civil dignity, titles, precedence, and pomp | printed pp. 319–323 / PDFs 331–335, both boundary pages partial | 5 paired and image-audited |
-| README continuation | Chapter V: bishops’ external vocation—royal nomination and assent, free election, confirmation, and consecration | printed pp. 323–336 / PDFs 335–348, both boundary pages partial | 14 paired and image-audited |
+| README continuation | Chapter V: bishops’ external vocation; episcopal functions of ordination and dedication | printed pp. 323–347 / PDFs 335–359, both boundary pages partial | 25 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -1219,7 +1221,7 @@ joins, and both boundaries.
 - Latin: `parts/part-31-chapter-05-episcopal-dignity-and-pomp-latin.txt`
 - English: `parts/part-31-chapter-05-episcopal-dignity-and-pomp-english.md`
 
-## Paired continuation: bishops' external vocation
+## Paired continuation: bishops' external vocation and first functions
 
 The continuation begins exactly after Part 31's `ait Duarenus` in the lower
 portion of printed p. 323. It completes the displayed branch `In Ecclesia
@@ -1229,18 +1231,27 @@ prince and matters concerning bishops. Calderwood describes the English
 process of royal nomination and chapter election, argues for the ancient
 rights of clergy and people, distinguishes cumulative from privative royal
 assent, and then treats metropolitan confirmation, episcopal consecration,
-the number of consecrators, and the rites prescribed by the ordinal. It ends
-after the final cross-reference concerning the oath of homage on printed p.
-336, immediately before the new displayed branch `Ratione functionis`.
+the number of consecrators, and the rites prescribed by the ordinal.
 
-The Latin and English contain the same fourteen source markers and the same
+At the displayed branch `Ratione functionis` on printed p. 336, the
+continuation then takes up matters belonging to episcopal order. It completes
+the first two enumerated duties: ordaining deacons and ministers, and
+dedicating churches and burial places. The second discussion examines the
+origin and theology of consecrated buildings and cemeteries, Anglican and
+Roman rites, the civil use of meeting places and burial grounds, costly church
+ornament, and the imitation of the Jerusalem temple. It ends after the
+conclusion of item 2 in the lower portion of printed p. 347, immediately before
+the new numbered heading `3 Pueros confirmare`.
+
+The Latin and English contain the same twenty-five source markers and the same
 visible marginalia records in the same order. Printer-divided words at the p.
-323/324, 324/325, 327/328, 328/329, 330/331, 331/332, 333/334, 334/335, and
-335/336 turns are joined, with each incoming marker placed before the complete
-Latin word and corresponding English phrase. Catchwords are omitted without
-duplication. The controlling access-PDF pp. 335–348 were rendered at 300 dpi
-and inspected against both texts; the IA OCR and 1708 reset assisted reading
-only.
+323/324, 324/325, 327/328, 328/329, 330/331, 331/332, 333/334, 334/335,
+335/336, 337/338, 338/339, 339/340, 340/341, 342/343, and 343/344
+turns are joined, with each incoming marker placed before the complete Latin
+word and corresponding English phrase. Catchwords are omitted without
+duplication. Fresh full-resolution images of the controlling IA leaves 348–359,
+corresponding to access-PDF pp. 348–359, were acquired and inspected against
+both texts; the IA OCR and 1708 reset assisted reading only.
 
 ### Latin source transcription
 
@@ -1949,6 +1960,587 @@ sed etiam adjacentis regionis, saltem suburbanae consensum adhibitum fuisse in
 electione.
 
 De jurejurando homagii sive hominii dictum supra pag. 11. 12.
+
+Ratione functionis, in rebus spectantibus, vel Ordini Episcopali, vel
+jurisdictioni. Ordini Episcopali, ut
+
+1 Ordinare Diaconos & Ministros ad praescriptum Libri Ordinationum.
+
+Potestatem ordinationis non esse peculiare Episcoporum jus, sed commune cum
+Presbyteris capite superiori probavimus. De praescripta formula ordinandi
+Presbyteros & Diaconos, & an Diaconatus sit ordo infra suis locis disseremus.
+Unicum hic observandum ejusdem esse juris & instituti nempe humani haec omnia,
+quae hic
+
+[1623 printed p. 337 | IA leaf 349 | PDF p. 349]
+
+recensentur nempe quod Episcoporum sit ordines conferre, Ecclesias dedicare,
+pueros confirmare, & quod magis ob honorem sacerdotii quam ob legis
+necessitatem reservata sunt Episcopo. Concilium Aquisgranense quod celebratum
+sub Ludovico Imperatore ann. 816 ordinationem reservatam Episcopo solum propter
+auctoritatem dicit. *Presbyteri autem interpretantur Seniores: quia Seniores
+aetate Graeci Presbyteros vocant. His enim sicut Episcopis dispensatio
+mysteriorum Dei commissa est. Praesunt enim Ecclesiae Christi, & in confectione
+Dominici corporis & sanguinis consortes sunt cum Episcopis: similiter & in
+doctrina populorum & in officio praedicandi: ac solum propter auctoritatem summo
+sacerdoti Clericorum ordinatio & consecratio reservata est.*
+
+[Marginalia: Cap. 8.]
+
+Eadem habentur apud Isidorum libro secundo de Ecclesiasticis officiis.
+*Sciendum est praeterea post hanc Ecclesiarum partitionem & distributionem,*
+inquit Duarenus, *Episcopi in magna illa Dioecesi sua & Presbyterorum in suis
+Ecclesiis parem non fuisse potestatem atque authoritatem: cum ordinatio
+Presbyterorum, caeterorumque ministrorum Ecclesiae, basilicarum consecratio &
+quaedam alia Episcopo tantum permissa sint, non etiam Presbyteris inferioribus.*
+
+[Marginalia: Cap. 7.]
+
+[Marginalia: De Benef. & minist. l. 2. c. 7.]
+
+Ac si dixisset, ante Paroeciarum distributionem & divisionem haec munia erant
+Episcopo & Presbyteris communia. Distributionis paroeciarum per civitates &
+pagos authorem accipit Dionysium Romanum ex relatione epistolae secundae
+Dionysii papae ad Severinum Episcopum. *Sed & hoc ipsum quod ex Dionysio Papa
+profertur confictum est multis temporibus post Dionysium. Epistola enim illa
+Apocrypha est & nullius authoritatis,* ait Spalatensis. *Cum Romani Pontifices
+ecclesias singulas singulis Presbyteris designassent, & parochias eis
+divisissent, Honorius Archiepiscopus Cantuariensis circa annum a salute reparata
+636 Angliam primus in parochias, ut legitur in historia Cantuariensi,
+distribuere coepit,* ut refert Camdenus.
+
+[Marginalia: L. 9. c. 7. num. 34.]
+
+[Marginalia: B it. p. 100. edit. Francof.]
+
+Utcunque est, sive ante sive post divisionem, ordinationem eodem modo & jure
+reservatam, dicit Episcopo Duarenus, quo basilicarum consecrationem, & citat
+verba Isidori, quae extant apud Gratianum, dist. 25. cap. perlectus. Sic Leo, ut
+supra vidimus pag. 232 ordinationem & basilicarum consecrationem canonibus &
+regulis ecclesiasticis reservatam Episcopis dixit.
+
+2 Ecclesias, & loca sepulturae dedicare.
+
+Mucketus sic, *Verbo & gratiarum actione ecclesias, & sepulturae loca sacris
+usibus dedicare: quod,* inquit, *teste Eusebio libro 10. cap. 3. in templis a
+Constantino magnifice extructis veteres Episcopi magna cum solemnitate
+praestiterunt.*
+
+[Marginalia: De polit. ca. 5. p. 319.]
+
+Et cur quaeso ante Constantinum non proferunt dedicationum exempla. Nam etiam
+ante Constantinum habuerunt Christiani sua, ut vocat Isidorus Pelusiota l. 2.
+Epist. 247. ἐκκλησιαστήρια, seu loca ecclesiae congregandae destinata; quae &
+
+[1623 printed p. 338 | IA leaf 350 | PDF p. 350 | split `εὐκτή-` / `ρια` joined]
+
+εὐκτήρια & προσευκτήρια, id est, oratoria vocabant.
+
+[Marginalia: Euseb. Hist. l. 8. cap. 1.]
+
+Ante persecutionem sub Diocletiano motam refert Eusebius tam numerosas fuisse
+aggregationes, & insignes concursus ad oratoria, ut priscis aedificiis non
+contenti in singulis civitatibus ampliores & spatiosas ex ipsis fundamentis
+extruxerint ecclesias. De ecclesiarum dedicatione ante Constantini aetatem
+quidem legimus in supposititiis Clementis Evaristi, aut similium Epistolis,
+quorum saeculo Christiani nulla habuerunt templa nedum consecrata, sed in
+privatis aedibus, quandoque in speluncis & criptis subterraneis saeviente nimirum
+persecutione conveniebant. Constantinus una cum luxu & magnificentia templorum
+& basilicarum dedicationes invexit. Aedificia impiorum tyrannorum machinis
+destructa & solo aequata, rediviva constructione clariora, & celsiora consurgere
+sub Constantino coepere. *Optatum ea tempestate, & desideratum nobis
+spectaculum exhibetur celebrationes videlicet encaeniorum per civitates &
+oratoriorum recens structorum consecrationes,* inquit Eusebius.
+
+[Marginalia: L. 10. cap. 3.]
+
+Levia primum & humilia aedificia struebantur, & quandiu levia & humilia, nulla
+dignati sunt ea consecratione. Sed cum aulas regias, splendore, magnitudine &
+ornatu superarent, tunc dedicare coeperunt. Ac si religio esset in illis ratione
+ornatus & splendoris. Ritus tamen dedicationis & consecrationis. Histrionici
+illi, nempe, qui extant in Pontificali & ordine Romano aetate Constantini nondum
+sunt introducti in Ecclesiam. Quibus ritibus Anglicani dedicent Ecclesias,
+nondum mihi liquet. Habent haud dubio formam praescriptam & officium
+consecrationis. Nam licet Mucketus dicat verbo & gratiarum actione dedicari apud
+eos ecclesias & coemiteria, non tamen absque peculiari officio id fieri arbitror,
+praescriptis nimirum lectionum, precum, litaniarum, canticorum numero & forma
+atque aliis ceremoniis. Quod si consecrationis officium ullibi descriptum
+reperissem, multa haud dubio deprehendissem Pontificali Romano consentanea.
+Hookerus negat positionem primarii lapidis per Episcopum usurpari inter ritus
+dedicationis Anglicanae.
+
+[Marginalia: De Polit. lib. 5. sect. 12.]
+
+Nec opus est; Nam ut Piacesius observat ex gloss. in cap. Nemo Ecclesiam Dist.
+1. in consecration. *Hunc actum nempe positionem primarii lapidis potest alteri
+subdelegare.* Alios ritus dedicationis silentio tegit Hookerus.
+
+[Marginalia: Prax. episc. part. 1. c. 5.]
+
+Esto: nec pingantur cruces in parietibus. nec accendantur lampades ante cruces,
+nec pulsetur ostium & aperiatur nec baculo pastorali describatur alphabetum in
+pavimento, nec aspergatur templum mixtura ex aqua vino sale & cineribus, nec
+inungatur Chrismate, supersunt tamen multae aliae ineptiae & ritus superstitiosi.
+Sed missis particularibus, quia nullibi, ut dixi, descriptum inveni officium
+dedicationis Anglicanae, videamus, quid sibi velit ista Ecclesiarum &
+Coemiteriorum per verbum & gratiarum actionem dedicatio & consecratio.
+
+[1623 printed p. 339 | IA leaf 351 | PDF p. 351 | split `Nul-` / `lum` joined]
+
+Nullum habemus praeceptum in novo testamento vel determinandi statum & certum
+locum in unaquaque paroecia pro conventibus ecclesiasticis, vel erigendi
+aedificia. Licitum est fidelibus coire in unum ad publicum cultum, ubicunque
+commode possunt, & sub dio etiam celebrare conventus, si libitum fuerit. Sed ob
+commoditatem tamen, expediebat, ut statum frequentarent locum, ne loca
+conventuum aut absque ulla necessitate multiplicarentur, aut incerta redderentur,
+iis qui extra ecclesiam & alliciendi sunt in gremium ecclesiae. Et licet interdum
+sub dio conventus celebrari possunt, non tamen semper id fieri commode potest,
+ideo aedificia extrui ad depellendas aeris & coeli injurias expediebat.
+Necessitate igitur flagitante & commoditate suadente erecta & erigenda sunt
+aedificia in usum civilem, nempe ad propulsandas coeli injurias a coetu, &
+ministrandas sedes commodas, non ad colendum Deum templis & aedificiis. Suarez
+dicit locum sacrum dupliciter spectari posse, vel sub ratione loci dicati ad
+continendum Dei populum ad divinum cultum congregatum, & sic peculiarem habere
+rationem sanctitatis, vel quatenus est res quaedam consecrata & destinata ad
+cultum divinum, sub qua habet convenientiam cum aliis rebus sacris, ut vasis &
+vestibus.
+
+[Marginalia: De relig. tom. 1. lib. 3.]
+
+Ratione priore nullam, posteriore superstitiosam habet sanctitatem, & si hoc
+sensu fabricae illae dictae a veteribus κυριακὰ non probarem. Templum
+Hierosolymitanum erat pars cultus divini, non ita templa in ecclesia Christiana.
+Alioqui instituisset templa exstruenda in eum finem. Nam nullum alium vult
+cultum, quam quem nobis praescribit. Aedificia ecclesiastica sunt annexa
+spiritualibus, nempe praedicationi verbi, sacramentorum celebrationi orationi &
+aliis publicis pietatis exercitiis, sicut & alia bona ecclesiastica. Annexa autem
+sunt spiritualibus materialia aedificia ad protegendum coetum fidelium ab aeris
+injuria, & ut commode possint vacare cultui divino & spiritualibus exercitiis.
+Nec arctius est connexionis vinculum inter aedificia illa & cultum divinum, quam
+inter bona alia ecclesiastica, & eundem cultum. Nam separari possunt aedificia
+ista a publico cultu, imo Christiani saepe deseruerunt splendida illa aedificia,
+ut purum retinerent cultum publicum, cum tamen difficulter possit sustentari
+cultus divinus absque aliis bonis ecclesiasticis. Ubicunque coierit in unum
+coetus piorum, Christus pollicetur praesentiam suam, sive in aede consecrata,
+sive in solitudine, sive in monte. *Primò & per se promittit nobis praesentiam
+suam, ut templis suis in omni loco; locis vero, in quae convenimus, sive areis
+sive templis promittit per accidens & secundario propter nos: imo verò non
+promittit eis, sed nobis in eis.*
+
+[Marginalia: Jun. de cultu sanct. cap. 4. not. 35.]
+
+Et certe nescio an locus ullus dicendus sanctus etiam praesente ecclesia. Nam
+templum Hierosolymitanum sanctum erat propter typum, propter aspectabilem Dei
+praesentiam & quia dicatum ipsi Deo immediate, &
+
+[1623 printed p. 340 | IA leaf 352 | PDF p. 352 | split `prop-` / `terea` joined]
+
+propterea sanctum erat etiam extra tempus divini cultus non ita synagogae
+Iudaeorum nec templa nostra materialia. Utcunque est, cur, quaeso, dedicantur,
+verbo & precibus. Mitto jam nugas alias, & ritus histrionicos. Annon ut
+separentur ab omni usu profano, & dicarentur actionibus solummodo sacris. Nam
+benedictio duplex est, inquit Suarez alia constitutiva rei sacrae, nempe quae
+permanentem producit effectum & constituit rem permanenter sacram, ut
+consecratio Ecclesiae, aut calicis, benedictio aquae aut vestimenti, res autem
+sacras quae per benedictionem constituuntur appellari sacramentalia permanentia.
+Alia benedictio est invocativa, sive privata, ut benedictio mensae, benedictio
+paterna & quam senex dat juveni. *Aliae vero sunt,* inquit, *benedictiones, quae
+licet rem propriè non consecrent, nec separent illam a communibus & prophanis
+usibus, nihilominus fiunt speciali ritu a ministris Ecclesiae, & ex speciali ejus
+institutione, ut habeant specialem effectum, saltem per modum impetrationis in
+nomine totius Ecclesiae, & ideo merito inter sacramentalia numerantur. Et tales
+sunt benedictiones nuptiarum, item benedictio navis vel domus aut aliquorum
+ciborum, prout in Missali vel Pontificali habentur.*
+
+[Marginalia: Suarez. de virtute & statu religionis tom. 1. lib. 4. cap. 14.
+sect. 1. 2.]
+
+Et has benedictiones vocat sacramentalia transeuntia. Benedictio in
+consecratione Ecclesiae est benedictio constitutiva rei sacrae, sicut in
+consecratione altaris, calicis, patinae & similium. Non jam distinguo more
+Pontificio benedictionem sive verbalem, sive cum aqua benedicta a consecratione
+per unctionem, siquidem eadem vis est benedictionis simplicis secundum
+adversarios etiam absque illa mixtura aquae, signo crucis, & unctione Chrismatis,
+quae cum illis, nempe constituere in esse sacro. Et qua ratione sic consecrant
+Ecclesias, consecrare etiam debent poculum Eucharisticum, mensam Eucharisticam
+& similia. Christus certè cum celebravit coenam, consecravit panem & vinum, non
+materialem mensam, mappas, calices, catinos, parietes imo nec panem & vinum
+consecravit, ut permanerent res sacrae extra usum, sed in usum praesentem. Dicunt
+se sacrare templa verbo & precibus, sed ubi oratio fidei, ubi promissio Christi,
+ubi verbum institutionis, unde ergo authoritas constituendi res sacras &
+sacramentalia permanentia templa, altaria, calices, patinas, & similia. Addicere
+bona mobilia & immobilia Ecclesiae pium & laudabile est, sed sacrare ea, adeo ut
+nefas sit eis uti, cum non utitur Ecclesia, etiam ad res licitas sed prophanas,
+ac si eis pollueretur Ecclesia, vel mensa, vel calix, & similia, execranda est
+superstitio. Et certè haec est benedictionis & consecrationis eorum vis, nempe ut
+constituant res illas in esse sacro, quam vim non promisit Dominus precibus &
+orationibus nostris, nisi in consecrandis iis, quae ipse consecranda instituit,
+ut pane & vino in Eucharistia, aqua in baptismo. Parietes, calices, patinas,
+mensas consecrari non instituit. Possunt & muscariis id est flabellis ad
+
+[1623 printed p. 341 | IA leaf 353 | PDF p. 353 | split `even-` / `tilandas` joined]
+
+eventilandas muscas a vino in poculo comparatis eadem ratione eandem operam
+impendere. Ordinantur enim, ut vides, ad abigendas muscas a vino. Tantam tamen
+inesse putant vim suis consecrationibus, ut si quis de re prophana, licet licita,
+in sacrata aede tractaverit, rem sanctam & sacram prophanasse existiment.
+Ecclesiae vox 1 Cor. 11 propriè & simpliciter coetum notat, locum vero illius
+connotat, qui forte fuit in privatis aedibus. In constitutionibus Ecclesiasticis
+provinciae Cantuariensis anno 1604 Canone de *Ecclesiarum religione prophanis
+usibus non polluenda,* statuerunt, ut Ecclesiarum Oeconomi & inquisitores non
+patiantur *curias saeculares, Visus Franci plegii Leets, juratus laicos Layjuries,
+lustrationes militum, vel prophanum ullum usum sive ritum in Ecclesiis, capellis,
+aut coemiteriis suis fieri, aut celebrari.*
+
+[Marginalia: Can. 88.]
+
+ac si templa & coemiteria hisce curiis & aliis rebus licitis polluerentur. *Tanta
+est Ecclesiarum religio & reverentia, ut nedum illicita in Ecclesiis prohibeantur,
+verum etiam quaecunque prophana, etsi alibi legitimè exerceantur,* inquit
+Durantus. *Quare judicia & arbitria in Ecclesiis exerceri vetitum est in Concilio
+Lugdunensi.*
+
+[Marginalia: De ritibus Ecclesiae cathol. li. 1. cap. 26. num. 7.]
+
+Abutuntur verbis Christi *Domus mea, domus orationis,* quae de Hierosolymitano
+templo dicta sunt. Non sinebat Christus, ut vas deportaret quisquam per templum
+Marc. 11. 16 quod etiam fieri audio in Anglia praesertim per Cathedrales
+basilicas. Sed a templo Hierosolymitano argumentum duci non potest ad tuendam
+basilicarum nostrarum dedicationem, religionem, & immunitatem, ut supra
+diximus. Non polluitur Ecclesia Curiis aut arbitriis. Unum idemque aedificium
+indifferens esse potest, & ad cultum divinum, & ad curias saeculares, modò non
+impediatur exercitium cultus divini, ob quem primariò addictus est locus
+Ecclesiae. Unum idemque poculum indifferens esse potest ad communem & sacram
+potationem, non tamen polluitur, nec opus est execratione ulla, ut loquuntur, ut
+licitè id fieri possit. Non sunt enim vasa Ecclesiae sacra ut fuerunt vasa templi
+Hierosolymitani quae deportata Babylonem, & prophanata in convivio Belschatzaris.
+Nam ut templum illud sanctum, sic sancta erant & ejus vasa. Qui templi
+Hierosolymitani exemplo suas consecrationes & immunitates tuentur, etiam
+sacramenta extra Ecclesias celebrata damnare debent. Nam sacrificia nullibi
+oblata, nisi in templo voluit Dominus. Inutilis est consecratio templi, si extra
+templum consecratum consecrare quis potest panem Eucharisticum, sicut inutilis
+fuisset consecratio templi Hierosolymitani, si extra illud templum ubique licitum
+fuisset offerre sacrificia. An sanctior Eucharistia quae celebratur in aede
+consecrata, quam quae extra, quam quae a Christo celebrata, quam quae administrata
+ab Athanasio in Ecclesia nondum dedicata Apolog. 2 ad Constantinum. Hookerus
+Anglus tamen dicit *quodammodo videri Ecclesias consecratas lugere, quasi suo
+jure fraudatas, cum praeferuntur*
+
+[Marginalia: De politica lib. 5. sect. 16.]
+
+[1623 printed p. 342 | IA leaf 354 | PDF p. 354]
+
+*eis alia loca non consecrata ad exercitium cultus publici absque ulla
+necessitate: cultum divinum non eam gratiae & decoris perfectionem habere, quam
+haberet, si concurreret dignitas loci quem desiderat, majestatem & sanctitatem
+loci esse ratione nostri magnae virtutis & efficaciae, inservire, ut adminiculum
+sensibile ad excitandam devotionem, eaque ratione praestantiores efficere
+actiones nostras etiam sanctissimas & praestantissimas.*
+
+[Marginalia: De cultu sanctor. c. 4.]
+
+Nonne eadem dicit quae Pontificii. *In Ecclesia sunt omnia accomodata ad
+excitandam devotionem, quae orationi maxime necessaria est. Nam altaria, cruces
+imagines, reliquiae, ipsi etiam parietes Deo dicati movent ad pietatem; quae
+certè alibi non inveniuntur* inquit Bellarminus. Unde infert, *Ecclesiae
+Christianorum rectè ad orandum oratione etiam privata, instituuntur.* Idem certè
+sequitur ex dictis Hookeri verbis. Et sic frequentanda erunt templa privatae
+orationis causa, quia majestas & sanctitas loci excitant devotionem, & ipsi
+parietes Deo dicati movent ad pietatem. In coetibus Ecclesiasticis, verum, omnia
+fieri debent ordine & decenter. Sed annon ordine & decenter possunt sacramenta
+ministrari, verbum praedicari extra locum consecratum, in aliis locis aequè
+commodis, ubi nihil deest nisi parietum consecratio. Parietes consecrati movere
+fortè possunt superstitiosum, veram devotionem excitare non possunt; Nam parietum
+& locorum consecrationem non mandavit Dominus: & figmentis cerebri nostri non
+benedicit, nec ut mediis utitur ad devotionem excitandam vel augendam. *Quid
+supplicaturus Deo locum sanctum requiris? volens in templo orare in te ora, & ita
+age semper, ut Dei templum sis, ibi enim Deus exaudit, ubi habitat,* ait
+Augustinus.
+
+[Marginalia: Lib. sententiarum.]
+
+Non est sacratior & commendatior nobis Dei praesentia in templis quàm alibi: &
+Christus monet ut oraturus *intret εἰς τὸ ταμεῖον* in conclave & oret *ἐν τῷ
+κρυπτῷ* in occulto, quando orationes privatas concipit; non ablegat ad
+consecratos parietes. Et in publicis coetibus major erat fervor cum nullas
+habuerunt consecratas Ecclesias. Dedicationem id est deputationem loci in usum
+Ecclesiae per tabulas donationis aut aliis modis, quibus rerum dominia
+transferuntur vel fiunt juris publici, probamus. Suarez. dicit oratorium per
+simplicem voluntatem ad sacra ministeria destinari posse tom. 3. disput. 81.
+sect. 2. Cur non etiam Ecclesia. Ex Ecclesiarum consecratione natae sunt earum
+immunitates & libertates, execrationes, reconciliationes, reconsecrationes,
+aliaque absurda, quae omnia per se corruunt sublato isto consecrationum
+principio.
+
+Sublata Ecclesiarum consecratione coemiteriorum tollitur etiam benedictio &
+dedicatio. Nam si templa non sunt consecranda, multo minus coemiteria. Usus
+sepulchrorum, est usus civilis ad excipienda defunctorum corpora Iudaei in suis
+praediis sepulchra habebant Iudic. cap. 2. 9. Iosu. cap. 24. 30. 32. Gen. 23. 19.
+Si quis locum sepulchrorum sanctum dixerit eo sensu, quo leges & jura
+
+[1623 printed p. 343 | IA leaf 355 | PDF p. 355 | split `ma-` / `gistratuum` joined]
+
+magistratuum, muros & portas civitatum, valla propugnaculorum & arcium, speculas
+excubitorum, & legatos sanctos & sacrosanctos dicimus, nempe quia res hae non
+violandae sunt, & ab injuria Magistratus authoritate, legis sanctione, & poenae
+irrogatione muniuntur, & defenduntur, non contradicimus. Sed nulla hic opus erit
+benedictione constitutiva terrae sanctae, ac si sanctior esset terra illa ad
+excipienda defunctorum corpora, quam alia. Nam naturaliter videtur ad mortuum
+pertinere locus in quem ipse infertur *locus in quo sepelitur corpus efficitur
+religiosus* Codi. lib. 3. tit. 43. l. 2. Cadaveris igitur ipsius praesentia efficit
+locum dicto sensu sacrosanctum & religiosum absque ulla benedictione Pontificali.
+Et propterea qui sepulchrum violat vel diruit, vel inhabitat, cadavera mortuorum
+sine permissu in alium locum transfert, saxa, marmora aliaque ornamenta aufert,
+defunctorum reliquias contrectat, puniatur. Sed armilustria, curias saeculares,
+juratus laicos, non pati in Coemiteriis, ut supra vidimus in Canone Anglicano,
+ac si iis locus aliquis sanctus pollueretur & prophanaretur, est superstitionis
+pollutio non levis. Quiescunt cadavera in locis subterraneis in orbe illo
+invisibili, nec polluuntur negotiationibus, judiciis, arbitriis, magis quàm
+deambulationibus. Descenderunt ad inferiora terrae, relicta superiora viventibus
+in usus licitos. Mynsingerus in Iustiniani institutiones in locum illum
+*Religiosum locum unusquisque sua voluntate facit, dum mortuum infert in locum
+suum,* sic commentatur, *Ex hoc igitur textu notandum est, religiosum locum eum
+dici, in quem illatum est hominis mortui corpus vel totum, vel quod in eo
+principale est, id est caput. Tametsi enim sacrum, ut aedes sacra, nonnisi publica
+authoritate constituebatur: religiosum tamen locum cuilibet privata authoritate
+olim facere permissum erat, hodie vero secus est propter jus pontificium de
+coemiteriis consecrandis proditum, quo non sit locus religiosus, nisi per
+Pontificis consecrationem.*
+
+[Marginalia: Lib. 2. tit. 1. sect. religiosum.]
+
+Vides igitur sepulchrorum dedicationem a jure solummodo pontificio introductam,
+cum tamen aedium sacrarum consecratio partim κακοζηλία Iudaismi & dedicationis
+templi illius unici & typici nempe Hierosolymitani, partim paganismi imitatione
+introducta sit. *Nam fiebat olim consecratio ejusmodi a consule jussu populi:
+translato verò in principem imperio per Caesarem ipsum, aut illius authoritate
+per Pontifices, qui concione advocata & ritu quodam singulari adhibito capite
+velati foculum accendebant, in quo carmen praefabantur, & tibicine praeeunte,
+concepta quaedam verba enunciabant: idque ritè & usque adeo religiosè, ut ne
+quidem verbo aut syllaba caderent. Hodie verò apud nos per solos religionis
+nostrae antistites, & Episcopos fit rerum locorumve sacrorum consecratio, certis
+tamen & solennibus praefatis verbis, ac ritu quodam singulari, quos pontificia
+lex praescripsit.*
+
+[Marginalia: Mynsing. ib. Parag. Sacrae res.]
+
+Distinguit Iustinianus res sacras a religiosis & sanctis prout lege civili
+distinguebantur &
+
+[1623 printed p. 344 | IA leaf 356 | PDF p. 356 | split `se-` / `pulchrorum` joined]
+
+sepulchrorum locum propriè religiosum dicit. Sed nulla est propriè loci illius
+religio alia, quàm rerum aliarum, quòd inviolabilis sit ut supra diximus de
+rebus, quae in jure civili sanctae dicuntur. *Patet autem ex Ciceronis 2 de
+legibus ea loca, in quae mortuus illatus erat, neque arari neque coli jus fuisse,
+unde religio a relinquendo dicta putatur a Ser. Sulpitio & Mass. Sabino. Nam in
+arando locus ille sepulturae relinquebatur. Itaque si Pontifices purum esse locum
+aliquem decernebant, exarari jubebant.*
+
+[Marginalia: Calvin in lexico voce Religiosus.]
+
+Purus locus erat, qui nec sacer, nec sanctus, nec religiosus habebatur. Exarari
+coemiteria, aut violari sepulchra inhumanum ducimus, sed immunitates a curiis
+saecularibus coemiteriis tribuere imò & templis est ex praeceptorum
+pseudoapostolicorum genere, quae damnat Paulus, Coloss. 2. 21. *Ne ederitis,
+neque gustaris, neque attigeris.* Templorum consecratio nonnihil augebat vicini
+Coemiterii religionem: adeo ut extra coemiterium sepeliri habebatur non leve
+periculum animae. Inde etiam est, quod alii in templo potius quàm in coemiterio,
+alii in Cancello potius quàm navi templi sepulchri locum eligerent, & quo propius
+altare primarium eo beatiores sese judicabant. Utilius tamen fuisset coemiteria
+a templis sejuncta fuisse ad superstitionis omnis ansam tollendam, & extra
+civitates & urbes in agris designata & deputata in hunc usum loca certa, si
+commodè fieri potuit ad evitandum aeris insalubrioris periculum.
+
+[Marginalia: Lege Lycurgi.]
+
+*Lege autem decemvirali non licuit aliter quàm extra civitatem sepelire mortuum.
+Nam in urbe locove publico sepulchrum facere duodecim tabulis aliisque legibus
+vetitum est, & statuta est D. Adriani rescripto, in contemptores quadraginta
+solidorum poena,* inquit Mynsingerus ubi supra. *Ut autem appropinquavit Christus
+portae civitatis quae vocabatur Nain, tum ecce defunctus efferebatur,* Luc. 7.
+12. Chrysost. sermone de lege & fide ait: omnem civitatem & omne castellum ante
+ingressum habere sepulchra. Refert Plutarchus Lycurgum legem tulisse ut
+sepelirentur mortuorum cadavera in civitatibus & circa templa. A Lycurgo fortè
+mors iste manavit in ecclesiam. De coemiteriorum dedicatione & benedictione
+habemus multa in Pontificali Romano. Coemiterii benedictionem pontificale Romanum
+necessariam esse non asserit, sed tantum non supervacaneam. *Quanquam plerique
+asserant coemiterii benedictionem necessariam non esse, dicentes circuitus extra
+ecclesiam, & coemiterii aspersiones quae fiunt, quando ecclesia dedicatur,
+sufficere: supervacaneum tamen non est benedictionem hujusmodi fieri.*
+
+[Marginalia: Folio 147.]
+
+Quibus ritibus utuntur Pontificii in benedictione coemiterii potest Lector ex
+eodem pontificali discere.
+
+De ministro consecrationis seu dedicationis ecclesiarum & coemiteriorum nulla
+est fere inter nos & adversarios controversia. Nam ipsi fatentur hanc
+consecrationem episcopo reservatam solummodo instituto ecclesiae, & ad honorem
+sacerdotii magis quàm
+
+[1623 printed p. 345 | IA leaf 357 | PDF p. 357]
+
+ob legis necessitatem. Et certè, si admittendae istae consecrationes essent,
+Presbyter non minus consecrare potest, quàm episcopus. Nam qui panem & vinum in
+Eucharistia consecrare potest, vasa & templa consecrare potest vi ordinis
+presbyteralis. Ex Leone, Isidoro, Duareno supra audivimus regulis ecclesiasticis
+& instituto ecclesiae reservatam episcopo hanc consecrationem. Azorius etiam
+ait, quod *Pontificis Romani authoritate potest committi simplici sacerdoti
+ecclesiae consecratio.*
+
+[Marginalia: Instit. moral. tom. 1. lib. 10. cap. 25.]
+
+Non opus est pluribus in re tam perspicua & nullius momenti. Si quis quaesierit,
+quis repraesentabit ecclesiam, cum transfertur Dominium areae & aedificii solenni
+juris formula, aliud est, & respondeo, quemvis posse, quem elegerit in hunc finem
+coetus fidelium, sive Episcopus, sive Presbyter, sive Diaconus, sive ex plebe
+aliquis sive consistorium. Nam communitas fidelium est domina aedificii &
+adjacentis coemiterii, non autem Dominus Episcopus aut Presbyter ullus.
+
+Pergerem ad sequentia, si non templorum etiam ornatum sumptuosum, & formam
+Iudaicam probarent adversarii. Ornatum templorum exemplo templi Hierosolymitani
+tuetur Hookerus;
+
+[Marginalia: De polit. l. 5. sect. 15.]
+
+Sic Bellarminus & alii Pontificii a magnificentissima aedificatione templi &
+tabernaculi insanas istas templorum substructiones opera ex suo genere pia esse
+colligunt. Sed *ad utrumque fuit mandatum Dei: ad magnificentiam tabernaculi,
+mandatum legale & extraordinarium; ad magnificentiam templi mandatum singulare
+ex analogia legis, & extraordinarium per prophetas ejus. Haec autem magnificentia
+fuit legalis, & figurativae, sive typicae institutionis, qua externus ornatus in
+testamento vetere tabernaculi & templi internam gloriam Dei & Christi; in
+ecclesia, & ecclesiae in Christo figurabat. Inconsequens igitur est ex dispari
+argumentatio.*
+
+[Marginalia: Iunius de cultu sanct. cap. 6. not. 4.]
+
+Synagogarum fabricae non certarunt cum templo de magnificentia. Adducit deinde
+Hookerus exempla veterum, qui concessa pace ecclesiae magnifica extruxerunt
+templa. Non sunt probanda quaecunque veterum κακοζηλία. Non probarunt prudentiores
+inter ipsos veteres. Munditiem, ornatum simplicem & modestum, amplitudinem coetui
+cuique convenientem non damnamus, sed ornatus excessum & redundantiam. Non
+conciliat ornatus iste majestatem, prout supra voluit Hookerus, divino cultui.
+*Aurum sacramenta non quaerunt, neque auro placent, quae auro non emuntur,* ait
+Ambrosius. vide Gratianum.
+
+[Marginalia: Caus. 12. qu. 2. cap. 70.]
+
+Persius licet Ethnicus, *Dicite Pontifices in sancto quid facit aurum. Domum Dei
+decet sanctitudo,* ait Bernardus, *quae non tam politis marmoribus, quàm ornatis
+moribus delectatur, & puras magis diligit mentes, quàm superauratos parietes.*
+
+[Marginalia: Bern. ad milites templi cap. 5.]
+
+Idem Apologia ad Guilielmum Abb. *Omitto oratoriorum immensas altitudines,
+immoderatas longitudines, supervacuas latitudines, sumptuosas depolitiones,
+curiosas depictiones, quae dum orantium in se retorquent aspectum, impediunt &
+affectum, & mihi quodam modo repraesentant antiquum*
+
+[1623 printed p. 346 | IA leaf 358 | PDF p. 358]
+
+*ritum Iudaeorum. Multi,* ait Hieronymus, *aedificant parietes & columnas
+ecclesiae substruunt, marmora nitent, auro splendent laquearia, gemmis altare
+distinguitur, & ministrorum Christi nulla electio est. Neque mihi aliquis
+opponat dives in Iudaea templum, mensam, lucernas, thuribula, patellas, scyphos,
+mortariola, & caetera ex auro fabrefacta. Tunc haec probabantur a Domino, quando
+Sacerdotes hostias immolabant, & sanguis pecudum erat redemptio peccatorum. Nunc
+vero cum paupertatem domus suae pauper Dominus dedicarit, cogitemus crucem ejus,
+& divitias lutum putabimus.*
+
+[Marginalia: Epi. ad Nepotian.]
+
+*Malè vos parietum amor cepit,* inquit Hilarius, *malè ecclesiam Dei in tectis
+aedificiisque veneramini, malè sub his pacis nomen ingeritis. Anne ambiguum est
+in his Antichristum esse sessurum? Montes mihi & sylvae, & lacus, & carceres &
+voragines sunt tutiores. In his enim prophetae aut manentes, aut demersi spiritu
+Dei prophetabant.*
+
+[Marginalia: Contra Auxentium.]
+
+Olim erant aurei sacerdotes cum calices erant lignei: nunc contra lignei
+sacerdotes cum calices aurei sunt. Dicit Bellarminus templa magnifica esse magno
+splendori civitatibus. Esto: at ista magnificentia nec convenit ecclesiae, nec
+utilis est: Ornatum istum sacramenta, ut dictum, non quaerunt. Praeterea non sunt
+fraudandi pauperes, qui sunt templa viva & egent non modo ornatu sed etiam
+necessariis & pauperes semper habebimus. *O vanitas vanitatum, sed non vanior
+quàm insanior, fulget ecclesia in parietibus & in pauperibus eget, suos lapides
+induit auro, & suos filios nudos deserit.*
+
+[Marginalia: Bern. Apol. ad Guilielm. Abbat.]
+
+Palatia, praetoria & alia loca publica magnificentia & ornatu splendori
+civitatibus esse possunt, & propter infirmitatem humanam opus est ad tuendam
+dignitatem potestatum saecularium & civitatum externis hisce mediis. Quod ad
+ecclesiam attinet, ornatus simplex & modestus aedificiorum, sustentatio
+ministrorum sacerdotum aureorum, suppeditatio rerum necessariarum ad cultum
+divinum promovendum, & ornatus pauperum sunt ornamento & splendori ecclesiae,
+non templorum insanae substructiones.
+
+Quod ad formam attinet, tribus partibus constare dicunt ecclesias Pontificii, &
+ad similitudinem templi Salomonis, in quo erat atrium, sancta & sancta sanctorum.
+Prima pars est porticus ante ingressum in templum, secunda navis, tertia
+sacrarium sive sanctuarium pars interior templi, ubi erat altare, quaeque divisa
+erat a reliquo templo gradibus, cancellis, & velis sive aulaeis, neque eo
+penetrabant alii, quam sacerdotes cum suis ministris clericis.
+
+[Marginalia: Bellarm. de cult. sanct. cap. 3.]
+
+Hookerus respondet. Esto; & cur non possunt Ecclesiae extrui ad similitudinem
+templi Salomonis, sicut palatia regum possint ad similitudinem palatii Salomonis.
+
+[Marginalia: De Polit. l. 5. sect. 14.]
+
+Respondeo, non par ratio, non eadem libertas in ecclesiasticis quae in civilibus.
+Partitiones templi Hierosolymitani erant exemplaria & typi rerum coelestium. Duo
+sunt vitanda in ecclesiarum materialium forma, unum superstitio, ne umbra
+umbrarum veteris testamenti, adhuc manere videatur,
+
+[1623 printed p. 347 | IA leaf 359 | PDF p. 359]
+
+alterum, ne impedimento sit aedificationi populi, ut fit per partitiones istas
+in pontificiorum ecclesiis, ubi populus auribus percipere verba sacerdotis e
+sanctuario prolata vix potest, quod etiam evenit in Anglicanis dum dant operam
+liturgicis, ut infra ostendemus. Bellarminus ait ecclesias Christianorum ut
+plurimum ad Orientem conversas fuisse, quia Iudaei orabant & orant ad occidentem,
+ut significemus eorum esse literam occidentem nostrum autem spiritum
+vivificantem.
+
+[Marginalia: De cultu sanct. c. 3.]
+
+At contra ethnici orabant ad Orientem: & Iudaei ubicunque locorum erant
+prospectabant versus templum, sive orientem sive occidentem versus. Nec
+idololatrarum more convertendi sumus inter orandum versus orientem Ezechiel. 8.
+17. nec Iudaeorum versus occidentem, seu potius versus templum aut templi locum,
+sed ut ait Augustinus, *Cum quis quaerit orationem collocet membra, sicut ei
+occurrit.*
+
+[Marginalia: Ad Simplicianum lib. 2. quaest. 4.]
+
+Sed detur eo solummodo intuitu orasse orientem versus, quod falsum, nam alias
+affert rationes Bellarminus, sequitur nec Iudaizandum in forma & partitionibus
+templi. Nolebant veteres celebrare pascha 14 lunae, sed die dominica proxima
+lunae quartae decimae post aequinoctium vernum, ne viderentur Iudaizare & qui
+contra faciebant, Quartodecimanos vocabant. Refert Epiphanius Iudaeum quendam
+pseudoprophetam scelestissimum nomine El Xai (vel ut rectius Scaliger in Elencho
+trihaeresi cap. 27. Essenus quidam qui addito articulo El Arabicè κατ’ ἐξοχὴν ita
+vocatus fuit) prohibuisse *Orare ad orientem asserente non oportere sic
+intendere, verum faciem Hierosolymam convertere ex omnibus partibus, ita ut hi
+qui in oriente sunt in occasum Hierosolymis intendant.*
+
+[Marginalia: Epiph. haeres. lib. 1.]
+
+vide Baronii Annales. Id damnat Epiphanius.
+
+[Marginalia: Anno 105. num. 3.]
+
+Omnes omnino formas probamus, quae ex contingente decoro ad aedificationem
+populi aptae sunt. Partitiones nullas quae sunt impedimento aedificationi populi,
+probamus, omnium minimè illas quae fiunt de industria & studio imitandi templum
+Salomonis, sicut faciunt pontificii, qui templa praecipuè propter sacrificium
+Missae extructa docent, sicut templum Salomonis propter sacrificia Deo oblata,
+& ideo oportet sacrificulum in loco sacratiore & separato sacrificare.
 
 ### English translation
 
@@ -2696,9 +3288,635 @@ was employed in the election.
 
 The oath of homage or fealty was treated above at pp. 11–12.
 
-The next untranslated boundary is the displayed branch on printed p. 336:
-`Ratione functionis, in rebus spectantibus, vel Ordini Episcopali, vel
-jurisdictioni.`
+With respect to function, in matters pertaining either to the episcopal order
+or to jurisdiction. As to the episcopal order:
+
+1. To ordain deacons and ministers according to the prescription of the Book
+of Ordinations.
+
+We proved in the preceding chapter that the power of ordination is not a right
+peculiar to bishops but is common to them with presbyters. We shall discuss in
+their own places below the prescribed form for ordaining presbyters and deacons,
+and whether the diaconate is an order. Here only one thing must be observed: all
+these things which are here
+
+[1623 printed p. 337 | IA leaf 349 | PDF p. 349]
+
+listed are of the same right and institution, namely human—that bishops confer
+orders, dedicate churches, and confirm children—and were reserved to the bishop
+more for the honor of the priesthood than from necessity of law. The Council of
+Aachen, celebrated under Emperor Louis in 816, says that ordination was reserved
+to the bishop solely on account of authority. *Presbyters, however, are
+interpreted as elders, because the Greeks call elders presbyters by reason of
+age. For to them, as to bishops, the dispensation of God's mysteries has been
+committed. They preside over Christ's church and are partners with bishops in
+the confection of the Lord's body and blood, likewise in teaching the peoples
+and in the office of preaching; and only on account of authority were the
+ordination and consecration of clerics reserved to the chief priest.*
+
+[Marginalia: Cap. 8.]
+
+The same things are found in Isidore's second book *On Ecclesiastical Offices*.
+*It should further be known that after this partition and distribution of the
+churches,* Duarenus says, *the power and authority of the bishop in his large
+diocese and of the presbyters in their churches were not equal, since the
+ordination of presbyters and the other ministers of the church, the consecration
+of basilicas, and certain other things were permitted only to the bishop, not
+also to inferior presbyters.*
+
+[Marginalia: Cap. 7.]
+
+[Marginalia: De Benef. & minist. l. 2. c. 7.]
+
+It is as if he had said that before the distribution and division of parishes
+these offices were common to bishop and presbyters. He takes Dionysius of Rome
+to be the author of the distribution of parishes through cities and villages,
+on the report of the second epistle of Pope Dionysius to Bishop Severinus. *But
+this very thing produced from Pope Dionysius was fabricated many years after
+Dionysius. For that epistle is apocryphal and of no authority,* Spalatensis
+says. *When the Roman pontiffs had assigned individual churches to individual
+presbyters and divided parishes among them, Honorius, archbishop of Canterbury,
+around the year of restored salvation 636, first began to distribute England
+into parishes, as is read in the history of Canterbury,* Camden reports.
+
+[Marginalia: L. 9. c. 7. num. 34.]
+
+[Marginalia: B it. p. 100. edit. Francof.]
+
+However that may be, whether before or after the division, Duarenus says that
+ordination was reserved to the bishop in the same manner and by the same right
+as the consecration of basilicas; and he cites Isidore's words, which appear in
+Gratian, distinction 25, chapter *Perlectus*. Thus Leo, as we saw above at p.
+232, said that ordination and the consecration of basilicas were reserved to
+bishops by ecclesiastical canons and rules.
+
+2. To dedicate churches and places of burial.
+
+Mocket says: *To dedicate churches and places of burial to sacred uses by the
+word and thanksgiving; which,* he says, *as Eusebius testifies in book 10,
+chapter 3, the ancient bishops performed with great solemnity in the temples
+magnificently built by Constantine.*
+
+[Marginalia: De polit. ca. 5. p. 319.]
+
+And why, I ask, do they not produce examples of dedications before Constantine?
+For even before Constantine Christians had their ἐκκλησιαστήρια, as Isidore of
+Pelusium calls them in book 2, epistle 247—that is, places appointed for the
+church to assemble—which were also called
+
+[1623 printed p. 338 | IA leaf 350 | PDF p. 350 | split `εὐκτή-` / `ρια` joined]
+
+εὐκτήρια and προσευκτήρια, that is, oratories.
+
+[Marginalia: Euseb. Hist. l. 8. cap. 1.]
+
+Eusebius reports that before the persecution raised under Diocletian, the
+assemblies were so numerous and the gatherings at the oratories so notable that,
+not content with the old buildings, in each city they constructed larger and
+more spacious churches from the very foundations. We do indeed read of church
+dedications before Constantine's age in the spurious epistles of Clement,
+Evaristus, or similar men. In their age Christians had no temples, much less
+consecrated ones, but met in private houses and sometimes in caves and
+underground crypts when persecution was raging. Constantine introduced the
+dedications together with the luxury and magnificence of temples and basilicas.
+Buildings destroyed by the machines of impious tyrants and leveled to the
+ground began under Constantine to rise again, brighter and loftier in renewed
+construction. *At that time a spectacle desired and longed for by us was
+presented: celebrations of dedications throughout the cities and consecrations
+of newly constructed oratories,* Eusebius says.
+
+[Marginalia: L. 10. cap. 3.]
+
+At first light and humble buildings were erected, and as long as they were light
+and humble no one thought them worthy of consecration. But when they surpassed
+royal halls in splendor, size, and ornament, then they began to dedicate them,
+as if religion inhered in them by reason of ornament and splendor. Yet those
+theatrical rites of dedication and consecration which appear in the Pontifical
+and Roman Order had not yet been introduced into the church in Constantine's
+age. By what rites the Anglicans dedicate churches is not yet clear to me. They
+doubtless have a prescribed form and office of consecration. For although Mocket
+says that among them churches and cemeteries are dedicated by the word and
+thanksgiving, I do not think it is done without a special office, namely a
+prescribed number and form of readings, prayers, litanies, canticles, and other
+ceremonies. If I had found the Anglican office of consecration described
+anywhere, I would doubtless have discovered many things agreeing with the Roman
+Pontifical. Hooker denies that the laying of the foundation stone by the bishop
+is practiced among the Anglican rites of dedication.
+
+[Marginalia: De Polit. lib. 5. sect. 12.]
+
+Nor is that necessary, for, as Piacesius observes from the gloss on chapter
+*Nemo Ecclesiam*, distinction 1, *On Consecration*, *he can subdelegate this
+action, namely the laying of the foundation stone, to another.* Hooker covers
+the other rites of dedication with silence.
+
+[Marginalia: Prax. episc. part. 1. c. 5.]
+
+Granted, then: let no crosses be painted on the walls, no lamps be lit before
+crosses, no door be struck and opened, no alphabet be traced on the pavement
+with the pastoral staff, no mixture of water, wine, salt, and ashes be sprinkled
+on the temple, and let it not be anointed with chrism. Nevertheless, many other
+follies and superstitious rites remain. But leaving particulars aside, since, as
+I said, I have nowhere found the Anglican office of dedication described, let
+us see what this dedication and consecration of churches and cemeteries by the
+word and thanksgiving means.
+
+[1623 printed p. 339 | IA leaf 351 | PDF p. 351 | split `Nul-` / `lum` joined]
+
+We have no command in the New Testament either to determine a fixed and certain
+place in each parish for ecclesiastical assemblies or to erect buildings. It is
+lawful for the faithful to gather for public worship wherever they conveniently
+can, and even to hold assemblies in the open air if they please. For
+convenience, however, it was expedient that they frequent a fixed place, lest
+places of assembly be multiplied without any necessity or rendered uncertain
+to those outside the church who are to be drawn into its bosom. And although
+assemblies can sometimes be held in the open air, that cannot always be done
+conveniently; buildings therefore had to be erected to ward off injuries of air
+and weather. Thus, with necessity demanding and convenience counseling,
+buildings have been and should be erected for a civil use: to ward off injuries
+of the weather from the congregation and provide convenient seats, not to
+worship God by means of temples and buildings. Suarez says that a sacred place
+can be regarded in two ways: either as a place dedicated to contain God's people
+assembled for divine worship, and thus possessing a peculiar character of
+sanctity; or as a thing consecrated and appointed for divine worship, in which
+respect it agrees with other sacred things such as vessels and vestments.
+
+[Marginalia: De relig. tom. 1. lib. 3.]
+
+In the former respect it has no sanctity; in the latter it has a superstitious
+sanctity. If those buildings were called κυριακὰ by the ancients in this sense,
+I would not approve. The Jerusalem temple was a part of divine worship; temples
+in the Christian church are not. Otherwise Christ would have instituted the
+erection of temples for this end, for he desires no worship other than what he
+prescribes for us. Ecclesiastical buildings are adjuncts to spiritual things—to
+the preaching of the word, celebration of the sacraments, prayer, and other
+public exercises of piety—just as other ecclesiastical goods are. Material
+buildings are joined to spiritual things to protect the assembly of the
+faithful from injury of the air and allow them to attend conveniently to divine
+worship and spiritual exercises. The bond between those buildings and divine
+worship is no closer than that between other ecclesiastical goods and the same
+worship. For those buildings can be separated from public worship; indeed,
+Christians have often abandoned splendid buildings so as to retain pure public
+worship, though divine worship can scarcely be maintained without other
+ecclesiastical goods. Wherever an assembly of the godly gathers, Christ promises
+his presence, whether in a consecrated building, a wilderness, or a mountain.
+*Primarily and in itself, he promises his presence to us, as to his temples in
+every place; to the places in which we assemble, whether open sites or temples,
+he promises it accidentally and secondarily on our account—or rather he does
+not promise it to them but to us in them.*
+
+[Marginalia: Jun. de cultu sanct. cap. 4. not. 35.]
+
+And indeed I do not know whether any place should be called holy even when the
+church is present. The Jerusalem temple was holy because of the type, because
+of God's visible presence, and because it was dedicated immediately to God
+himself, and was
+
+[1623 printed p. 340 | IA leaf 352 | PDF p. 352 | split `prop-` / `terea` joined]
+
+therefore holy even outside the time of divine worship. The synagogues of the
+Jews and our material temples are not so. However that may be, why, I ask, are
+they dedicated by the word and prayers? I now omit the other follies and
+theatrical rites. Is it not so that they may be separated from every profane use
+and devoted solely to sacred actions? For a blessing is twofold, Suarez says.
+One is constitutive of a sacred thing: it produces a permanent effect and
+constitutes a thing permanently sacred, as in the consecration of a church or
+chalice and the blessing of water or a vestment; things constituted sacred by a
+blessing are called permanent sacramentals. Another blessing is invocative or
+private, such as a blessing of the table, a father's blessing, or one an old man
+gives a young man. *There are yet other blessings,* he says, *which, although
+they do not properly consecrate a thing or separate it from common and profane
+uses, are nevertheless performed with a special rite by the ministers of the
+church and by its special institution, so that they may have a special effect,
+at least by way of supplication in the name of the whole church; and therefore
+they are rightly numbered among the sacramentals. Such are the blessings of
+marriages, likewise the blessing of a ship or house or certain foods, as they
+appear in the Missal or Pontifical.*
+
+[Marginalia: Suarez. de virtute & statu religionis tom. 1. lib. 4. cap. 14.
+sect. 1. 2.]
+
+He calls these transient sacramentals. The blessing in the consecration of a
+church is constitutive of a sacred thing, as in the consecration of an altar,
+chalice, paten, and the like. I do not now distinguish, in pontifical fashion,
+either a verbal blessing or one with blessed water from consecration by
+anointing, since according to our adversaries a simple blessing, even without
+that mixture of water, the sign of the cross, and anointing with chrism, has the
+same power as these: namely, to constitute something in sacred being. And by the
+reason by which they thus consecrate churches, they ought also to consecrate the
+Eucharistic cup, the Eucharistic table, and similar things. Certainly, when
+Christ celebrated the supper, he consecrated the bread and wine, not the
+material table, cloths, chalices, dishes, and walls. Indeed, he did not
+consecrate the bread and wine to remain sacred things outside their use, but for
+the present use. They say they consecrate temples by the word and prayers; but
+where is the prayer of faith, where Christ's promise, where the word of
+institution? Whence, then, comes the authority to constitute sacred things and
+permanent sacramentals—temples, altars, chalices, patens, and the like? To
+assign movable and immovable goods to the church is pious and praiseworthy, but
+to consecrate them so that it is a sin to use them for lawful but profane
+purposes when the church is not using them, as though the church, table,
+chalice, and the like would be polluted by those uses, is execrable
+superstition. And surely this is the power of their blessing and consecration:
+to constitute those things in sacred being. The Lord did not promise that power
+to our prayers and supplications except in consecrating the things he instituted
+to be consecrated, such as bread and wine in the Eucharist and water in baptism.
+He did not institute the consecration of walls, chalices, patens, and tables. By
+the same reasoning, they can bestow the same labor on fly-whisks, that is, fans
+provided to
+
+[1623 printed p. 341 | IA leaf 353 | PDF p. 353 | split `even-` / `tilandas` joined]
+
+waft flies away from the wine in the cup. For, as you see, they are appointed to
+drive flies away from wine. Nevertheless, they think such power inheres in
+their consecrations that if anyone treats a profane though lawful matter in a
+consecrated building, he has profaned a holy and sacred thing. In 1 Corinthians
+11, the word *church* properly and simply denotes the assembly but connotes its
+place, which happened to be in private houses. In the 1604 ecclesiastical
+constitutions of the province of Canterbury, in the canon *That the reverence
+of churches is not to be polluted by profane uses*, they decreed that churchwardens
+and questmen should not permit *secular courts, views of frankpledge or leets,
+lay juries, musters of soldiers, or any profane use or rite to be held or
+celebrated in their churches, chapels, or cemeteries*;
+
+[Marginalia: Can. 88.]
+
+as if temples and cemeteries were polluted by these courts and other lawful
+matters. *Such is the religious character and reverence of churches that not
+only unlawful things are prohibited in churches, but also any profane things
+whatsoever, even if lawfully practiced elsewhere,* Durantus says. *Hence
+judgments and arbitrations were forbidden to be exercised in churches by the
+Council of Lyon.*
+
+[Marginalia: De ritibus Ecclesiae cathol. li. 1. cap. 26. num. 7.]
+
+They misuse Christ's words, *My house is a house of prayer*, which were spoken
+of the Jerusalem temple. Christ did not allow anyone to carry a vessel through
+the temple, Mark 11:16, something I hear is also done in England, especially
+through cathedral basilicas. But no argument can be drawn from the Jerusalem
+temple to defend the dedication, sacred character, and immunity of our
+basilicas, as we said above. A church is not polluted by courts or arbitrations.
+One and the same building may indifferently serve divine worship and secular
+courts, provided the exercise of divine worship, to which the church building
+is primarily assigned, is not hindered. One and the same cup may indifferently
+serve common and sacred drinking, yet it is not polluted, nor is any
+deconsecration, as they call it, needed for this to be done lawfully. For the
+church's vessels are not sacred as the vessels of the Jerusalem temple were,
+which were carried to Babylon and profaned at Belshazzar's feast. As that temple
+was holy, so its vessels were holy. Those who defend their consecrations and
+immunities by the example of the Jerusalem temple ought also to condemn
+sacraments celebrated outside churches, for the Lord willed sacrifices to be
+offered nowhere but in the temple. The consecration of a temple is useless if
+someone can consecrate the Eucharistic bread outside the consecrated temple,
+just as consecration of the Jerusalem temple would have been useless if it had
+been lawful to offer sacrifices everywhere outside it. Is the Eucharist
+celebrated in a consecrated building holier than one celebrated outside, than
+the one celebrated by Christ, or than one administered by Athanasius in a
+church not yet dedicated, *Apology* 2 to Constantius? Yet the Englishman Hooker
+says that *consecrated churches seem in a certain manner to mourn, as if defrauded
+of their right, when*
+
+[Marginalia: De politica lib. 5. sect. 16.]
+
+[1623 printed p. 342 | IA leaf 354 | PDF p. 354]
+
+*other unconsecrated places are preferred to them for the exercise of public
+worship without any necessity; that divine worship does not possess the
+perfection of grace and beauty it would have if the dignity of the place it
+desires concurred with it; that the majesty and sanctity of a place possesses
+great power and efficacy with respect to us and serves as a perceptible aid to
+stir devotion; and for this reason it makes even our most holy and excellent
+actions more excellent.*
+
+[Marginalia: De cultu sanctor. c. 4.]
+
+Does he not say the same things as the papists? *Everything in a church is
+fitted to stir devotion, which is especially necessary for prayer. For altars,
+crosses, images, relics, and even the walls themselves dedicated to God move us
+to piety, things certainly not found elsewhere,* Bellarmine says. From this he
+infers, *Christian churches are rightly instituted for prayer, even private
+prayer.* The same certainly follows from Hooker's words. Temples must therefore
+be frequented for the sake of private prayer, because the majesty and sanctity
+of the place stir devotion, and the very walls dedicated to God move one to
+piety. It is true that everything in ecclesiastical assemblies must be done in
+order and decently. But cannot the sacraments be administered and the word
+preached in order and decently outside a consecrated place, in other equally
+convenient places where nothing is lacking but consecrated walls? Consecrated
+walls may perhaps move a superstitious man; they cannot stir true devotion. For
+the Lord did not command the consecration of walls and places, and he neither
+blesses the inventions of our brain nor uses them as means to stir or increase
+devotion. *Why, when about to supplicate God, do you seek a holy place? Desiring
+to pray in a temple, pray within yourself, and always act so that you may be
+God's temple; for God hears where he dwells,* Augustine says.
+
+[Marginalia: Lib. sententiarum.]
+
+God's presence in temples is no more sacred or commendable to us than elsewhere.
+When Christ addresses private prayers, he instructs the one about to pray to
+*enter εἰς τὸ ταμεῖον*, into his room, and pray *ἐν τῷ κρυπτῷ*, in secret; he
+does not send him off to consecrated walls. And there was greater fervor in
+public assemblies when they had no consecrated churches. We approve dedication,
+that is, the assignment of a place to the church's use by deeds of gift or other
+means by which ownership is transferred or things become public property.
+Suarez says an oratory can be destined for sacred ministries by simple intent,
+vol. 3, disputation 81, section 2. Why not also a church? From the consecration
+of churches arose their immunities and liberties, deconsecrations,
+reconciliations, reconsecrations, and other absurdities, all of which collapse
+of themselves when that principle of consecrations is removed.
+
+When the consecration of churches is removed, the blessing and dedication of
+cemeteries is likewise removed. For if temples are not to be consecrated, much
+less are cemeteries. The use of graves is a civil use for receiving the bodies
+of the dead. Jews had graves on their estates, Judges 2:9, Joshua 24:30, 32,
+Genesis 23:19. If anyone calls a burial place holy in the sense in which we call
+the laws and rights of
+
+[1623 printed p. 343 | IA leaf 355 | PDF p. 355 | split `ma-` / `gistratuum` joined]
+
+magistrates, city walls and gates, the ramparts of fortifications and citadels,
+watchmen's towers, and ambassadors holy and inviolable—namely, because these
+things are not to be violated but are secured and defended from injury by the
+magistrate's authority, the law's sanction, and the imposition of punishment—we
+do not object. But there will be no need here for a constitutive blessing of
+holy ground, as if that earth were holier than another for receiving the bodies
+of the dead. For the place into which a dead man is put seems naturally to
+belong to him: *the place in which a body is buried becomes religious*, Code,
+book 3, title 43, law 2. Thus the corpse's presence itself makes the place
+inviolable and religious in the stated sense without any pontifical blessing.
+Therefore one who violates or destroys a grave, inhabits it, transfers the
+bodies of the dead to another place without permission, carries away stones,
+marble, or other ornaments, or handles the remains of the dead should be
+punished. But not to permit musters, secular courts, and lay juries in cemeteries,
+as we saw above in the Anglican canon, as though some holy place were polluted
+and profaned by them, is no slight pollution of superstition. Corpses rest in
+underground places in that invisible world and are no more polluted by business,
+judgments, and arbitrations than by walking. They have descended to the lower
+parts of the earth, leaving the upper parts to the living for lawful uses.
+Commenting on the passage in Justinian's *Institutes*, *Each person makes a
+place religious by his own will when he brings a dead man into his own place*,
+Mynsingerus says: *From this text it should therefore be noted that the place
+into which the body of a dead man, either the whole or its principal part, that
+is, the head, has been brought is called religious. For although something
+sacred, such as a sacred building, was established only by public authority,
+each person was once permitted to make a place religious by private authority.
+Today it is otherwise because of the pontifical law issued concerning the
+consecration of cemeteries, by which a place does not become religious except
+through the pontiff's consecration.*
+
+[Marginalia: Lib. 2. tit. 1. sect. religiosum.]
+
+You see, therefore, that the dedication of graves was introduced solely by
+pontifical law, whereas the consecration of sacred buildings was introduced
+partly by the κακοζηλία of Judaism and imitation of the dedication of that one
+typical temple, namely the Jerusalem temple, and partly by imitation of paganism.
+*For in former times a consecration of this kind was performed by the consul at
+the people's command; but when rule was transferred to the prince, it was done
+by Caesar himself or, on his authority, by the pontiffs, who summoned an
+assembly and, employing a certain special rite, lit a brazier with their heads
+veiled, over which they recited a formula, and with a piper leading, pronounced
+certain set words. This was done so formally and religiously that they did not
+miss even a word or syllable. Today among us the consecration of sacred things
+and places is performed only by the chief ministers of our religion and bishops,
+with certain solemn words first spoken and a special rite which pontifical law
+prescribes.*
+
+[Marginalia: Mynsing. ib. Parag. Sacrae res.]
+
+Justinian distinguishes sacred things from religious and holy ones as they were
+distinguished in civil law, and calls
+
+[1623 printed p. 344 | IA leaf 356 | PDF p. 356 | split `se-` / `pulchrorum` joined]
+
+the place of graves properly religious. But that place has no proper religious
+character other than that of other things: it is inviolable, as we said above
+of the things called holy in civil law. *It is evident from Cicero, book 2 of
+On the Laws, that places into which a dead man had been brought might neither
+be plowed nor cultivated. Thus religion is thought by Servius Sulpicius and
+Massurius Sabinus to be named from leaving behind, for in plowing that burial
+place was left behind. Hence, if the pontiffs decreed a place pure, they ordered
+it to be plowed up.*
+
+[Marginalia: Calvin in lexico voce Religiosus.]
+
+A pure place was one regarded as neither sacred, holy, nor religious. We judge
+it inhuman to plow cemeteries or violate graves; but to grant cemeteries, and
+even temples, immunities from secular courts belongs to the class of
+pseudo-apostolic precepts which Paul condemns in Colossians 2:21: *Do not eat,
+do not taste, do not touch.* The consecration of temples somewhat increased the
+religious character of the neighboring cemetery, so that to be buried outside
+the cemetery was regarded as no slight danger to the soul. Hence some chose a
+burial place in the temple rather than the cemetery, others in the chancel
+rather than the nave; and the nearer the high altar, the more blessed they
+judged themselves. Yet it would have been more useful for cemeteries to be
+separated from temples, removing every occasion of superstition, and, if it
+could conveniently be done, for fixed places in the fields outside cities and
+towns to be designated and assigned for this use, to avoid the danger of
+unhealthier air.
+
+[Marginalia: Lege Lycurgi.]
+
+*By the decemviral law, however, it was lawful to bury the dead only outside the
+city. For the Twelve Tables and other laws forbade making a grave in the city or
+a public place, and by a rescript of the divine Hadrian a penalty of forty
+solidi was appointed for transgressors,* Mynsingerus says in the place cited
+above. *When Christ approached the gate of the city called Nain, behold, a dead
+man was being carried out*, Luke 7:12. Chrysostom says in a sermon *On Law and
+Faith* that every city and town has graves before its entrance. Plutarch reports
+that Lycurgus made a law that the bodies of the dead should be buried in cities
+and around temples. Perhaps this custom flowed from Lycurgus into the church.
+We have many things concerning the dedication and blessing of cemeteries in the
+Roman Pontifical. It does not assert that the blessing of a cemetery is
+necessary, but only that it is not superfluous. *Although most assert that the
+blessing of a cemetery is unnecessary, saying that the circuits outside the
+church and sprinklings of the cemetery which occur when the church is dedicated
+suffice, it is nevertheless not superfluous for a blessing of this kind to be
+performed.*
+
+[Marginalia: Folio 147.]
+
+The reader can learn from the same Pontifical the rites the papists use in
+blessing a cemetery.
+
+There is scarcely any dispute between us and our adversaries about the minister
+of the consecration or dedication of churches and cemeteries. For they
+themselves admit that this consecration was reserved to the bishop solely by the
+church's institution and more for the honor of the priesthood than
+
+[1623 printed p. 345 | IA leaf 357 | PDF p. 357]
+
+from necessity of law. Certainly, if these consecrations were to be admitted, a
+presbyter could consecrate no less than a bishop. For one who can consecrate
+bread and wine in the Eucharist can consecrate vessels and temples by the power
+of the presbyteral order. We heard above from Leo, Isidore, and Duarenus that
+this consecration was reserved to the bishop by ecclesiastical rules and the
+church's institution. Azorius also says that *by the Roman pontiff's authority
+the consecration of a church can be committed to a simple priest.*
+
+[Marginalia: Instit. moral. tom. 1. lib. 10. cap. 25.]
+
+There is no need for more in so evident and insignificant a matter. If someone
+asks who shall represent the church when ownership of the site and building is
+transferred by a solemn legal formula, that is another matter. I answer: anyone
+whom the assembly of the faithful chooses for this end, whether bishop,
+presbyter, deacon, someone from the people, or the consistory. For the community
+of the faithful is owner of the building and adjoining cemetery, not any lord
+bishop or presbyter.
+
+I would proceed to the following matters if our adversaries did not also approve
+the costly ornament of temples and their Jewish form. Hooker defends the
+ornament of temples by the example of the Jerusalem temple.
+
+[Marginalia: De polit. l. 5. sect. 15.]
+
+Likewise Bellarmine and the other papists infer from the most magnificent
+construction of the temple and tabernacle that those insane structures of
+temples are works pious in their own kind. But *there was a command of God for
+each: for the magnificence of the tabernacle a legal and extraordinary command,
+and for the magnificence of the temple a special command by analogy with the
+law, given extraordinarily through his prophets. This magnificence belonged to
+a legal and figurative, or typical, institution, by which the outward ornament
+of the tabernacle and temple in the Old Testament represented the inward glory
+of God and Christ in the church, and the church in Christ. Therefore the
+argument from unlike things does not follow.*
+
+[Marginalia: Iunius de cultu sanct. cap. 6. not. 4.]
+
+The construction of synagogues did not compete in magnificence with the temple.
+Hooker next adduces examples of the ancients, who built magnificent temples once
+peace was granted to the church. Not all the ancients' κακοζηλία are to be
+approved; the more prudent among the ancients did not approve them. We do not
+condemn cleanliness, simple and modest ornament, or a size suitable for each
+assembly, but excess and redundancy of ornament. Contrary to Hooker's claim
+above, that ornament does not impart majesty to divine worship. *The sacraments
+do not seek gold, nor do things not bought with gold please by gold,* Ambrose
+says. See Gratian.
+
+[Marginalia: Caus. 12. qu. 2. cap. 70.]
+
+Persius, though a pagan, says, *Tell me, pontiffs, what gold does in a sacred
+place. Holiness befits God's house,* Bernard says, *which delights not so much
+in polished marbles as in adorned conduct, and loves pure minds more than
+gilded walls.*
+
+[Marginalia: Bern. ad milites templi cap. 5.]
+
+The same author says in his *Apology to Abbot William*: *I pass over the immense
+heights of oratories, their immoderate lengths, superfluous widths, costly
+polishing, and elaborate pictures, which, while turning the gaze of those
+praying upon themselves, hinder their devotion also, and somehow represent to
+me the ancient*
+
+[1623 printed p. 346 | IA leaf 358 | PDF p. 358]
+
+*Jewish rite. Many,* Jerome says, *build walls and erect church columns; marbles
+gleam, ceilings shine with gold, the altar is distinguished with gems, and no
+selection is made of Christ's ministers. Let no one object to me that the temple
+in Judea was rich, with its table, lamps, censers, dishes, cups, mortars, and
+other things made from gold. These were approved by the Lord when priests
+sacrificed victims and the blood of livestock was the redemption of sins. But
+now, when the poor Lord has dedicated the poverty of his house, let us think on
+his cross and regard riches as mud.*
+
+[Marginalia: Epi. ad Nepotian.]
+
+*An evil love of walls has seized you,* Hilary says; *you wrongly venerate God's
+church in roofs and buildings and wrongly introduce the name of peace under
+them. Is there any doubt that Antichrist will sit in these? Mountains and
+forests, lakes, prisons, and chasms are safer for me. For in these the prophets,
+either remaining or submerged, prophesied by God's Spirit.*
+
+[Marginalia: Contra Auxentium.]
+
+Once priests were golden when chalices were wooden; now, on the contrary,
+priests are wooden when chalices are golden. Bellarmine says magnificent temples
+are a great splendor to cities. Granted, but such magnificence neither befits
+the church nor is useful. As was said, the sacraments do not seek that ornament.
+Moreover, the poor, who are living temples and lack not merely ornament but
+necessities, must not be defrauded; and we shall always have the poor. *O vanity
+of vanities, no more vain than insane! The church gleams in its walls and is in
+need among its poor; it clothes its stones in gold and abandons its children
+naked.*
+
+[Marginalia: Bern. Apol. ad Guilielm. Abbat.]
+
+Palaces, praetoria, and other public places can be a splendor to cities through
+magnificence and ornament; and because of human weakness these outward means
+are needed to protect the dignity of secular powers and cities. As for the
+church, simple and modest ornament of buildings, support of the ministers who
+are golden priests, supply of things needed to advance divine worship, and
+clothing of the poor are the church's ornament and splendor, not the insane
+construction of temples.
+
+As to form, the papists say churches consist of three parts in imitation of
+Solomon's temple, in which were the court, the holy place, and the holy of
+holies. The first part is the porch before the temple entrance, the second the
+nave, and the third the sacrarium or sanctuary, the inner part of the temple
+where the altar stood. It was divided from the rest of the temple by steps,
+screens, and veils or curtains, and none entered it but the priests with their
+clerical ministers.
+
+[Marginalia: Bellarm. de cult. sanct. cap. 3.]
+
+Hooker answers: Granted; and why can churches not be built in the likeness of
+Solomon's temple, just as royal palaces can be built in the likeness of
+Solomon's palace?
+
+[Marginalia: De Polit. l. 5. sect. 14.]
+
+I answer that the reasoning is not parallel: there is not the same liberty in
+ecclesiastical matters as in civil ones. The divisions of the Jerusalem temple
+were patterns and types of heavenly things. Two things must be avoided in the
+form of material churches. One is superstition, lest a shadow of the shadows of
+the Old Testament seem still to remain;
+
+[1623 printed p. 347 | IA leaf 359 | PDF p. 359]
+
+the other is hindrance to the people's edification, as happens through those
+divisions in papist churches, where the people can scarcely hear the priest's
+words uttered from the sanctuary. The same thing also happens among the
+Anglicans while they attend to liturgical matters, as we shall show below.
+Bellarmine says Christian churches were generally turned toward the east
+because the Jews prayed and pray toward the west, so that we might signify that
+theirs is the letter which kills, while ours is the spirit which gives life.
+
+[Marginalia: De cultu sanct. c. 3.]
+
+But pagans, on the contrary, prayed toward the east; and wherever the Jews were,
+they looked toward the temple, whether that was toward the east or the west.
+Neither should we turn toward the east in prayer in the manner of idolaters,
+Ezekiel 8:17, nor toward the west in the manner of the Jews—or rather toward
+the temple or its site—but, as Augustine says, *When someone seeks prayer, let
+him arrange his limbs as it occurs to him.*
+
+[Marginalia: Ad Simplicianum lib. 2. quaest. 4.]
+
+But grant that they prayed toward the east with this consideration alone—which
+is false, for Bellarmine provides other reasons—it follows that we should not
+Judaize in the form and divisions of the temple either. The ancients refused to
+celebrate Easter on the fourteenth day of the moon, but celebrated it on the
+Lord's Day nearest the fourteenth day after the spring equinox, lest they seem
+to Judaize; those who did otherwise were called Quartodecimans. Epiphanius
+reports that a certain most wicked Jewish false prophet named El Xai (or, as
+Scaliger more correctly says in the *Elenchus Trihaeresii*, chapter 27, a certain
+Essene who was so called in Arabic with the article *El* added, κατ’ ἐξοχὴν)
+forbade *praying toward the east, asserting that one ought not to direct oneself
+thus, but to turn one's face toward Jerusalem from every region, so that those
+in the east direct themselves toward Jerusalem in the west.*
+
+[Marginalia: Epiph. haeres. lib. 1.]
+
+See Baronius's *Annals*. Epiphanius condemns this.
+
+[Marginalia: Anno 105. num. 3.]
+
+We approve every form suited to the people's edification by contingent decorum.
+We approve no divisions that hinder the people's edification, least of all
+those deliberately made in studied imitation of Solomon's temple, as the
+papists do. They teach that temples were built principally for the sacrifice of
+the Mass, as Solomon's temple was built for sacrifices offered to God, and thus
+that the sacrificing priest must sacrifice in a holier and separate place.
+
+The next untranslated boundary is the numbered heading on printed p. 347:
+`3 Pueros confirmare.`
 
 All thirty-one units and the paired README continuation remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or

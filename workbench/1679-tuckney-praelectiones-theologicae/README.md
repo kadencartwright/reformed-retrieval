@@ -871,6 +871,21 @@ argumentum attinet` is excluded.
 - English: `parts/part-50-romans-04-05-abraham-26-english.md`
 - Extent: three synchronized markers, printed pp. 265–267 / IA leaves 273–275
 
+## Part 51: twenty-seventh unit of the Romans 4:5 lecture
+
+Part 51 answers Durandus's argument against the coexistence of faith and
+vision, supplies positive examples, and concludes the first question.
+Tuckney distinguishes the obscurity and futurity abolished in glory from
+faith's enduring substance: knowledge of revelation, belief in divine
+testimony, adherence to Christ, persuasion of God's love, and confidence in
+everlasting glory. It runs from `Quod ad Durandi argumentum attinet` on
+printed p. 267 / IA leaf 275 through the formal close of the first question
+on printed p. 269 / IA leaf 277. The centered `Secunda Quaestio` is excluded.
+
+- Latin: `parts/part-51-romans-04-05-abraham-27-latin.txt`
+- English: `parts/part-51-romans-04-05-abraham-27-english.md`
+- Extent: three synchronized markers, printed pp. 267–269 / IA leaves 275–277
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

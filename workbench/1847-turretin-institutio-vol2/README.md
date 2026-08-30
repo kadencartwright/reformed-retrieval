@@ -13,7 +13,7 @@
 - **Edition:** Edinburgh, John D. Lowe, 1847
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
   Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, through Question XI
+  Testamento*, complete in twelve questions
 
 ## Controlling witness and rights
 
@@ -38,15 +38,16 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–37 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–38 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Questions I–XI, from printed p. 3 / PDF 31 through section XVII on printed p.
-230 / PDF 258. Part 27 also includes the Locus XII divisional title on PDF 177
-and its blank verso on PDF 178. The sequence comprises 847 numbered sections
-across 225 numbered text pages and 255 source markers in each language (253
-printed-page markers plus the two divisional-leaf markers in Part 27). The
-complete Latin files contain 124,274 whitespace-delimited words and the
-complete English files 169,385, counted over Parts 01–37 with `wc -w`. Each
+Questions I–XII, from printed p. 3 / PDF 31 through section XXV on printed p.
+237 / PDF 265, completing Locus XII. Part 27 also includes the Locus XII
+divisional title on PDF 177 and its blank verso on PDF 178. The sequence
+comprises 872 numbered sections across 232 unique numbered text pages and 262
+source markers in each language (260 printed-page markers plus the two
+divisional-leaf markers in Part 27). The complete Latin files contain 127,892
+whitespace-delimited words and the complete English files 174,396, counted
+over Parts 01–38 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -89,6 +90,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 35 | Locus XII, Question IX | printed pp. 212–218 / PDFs 240–246 | XX | 7 | `part-35-locus-12-question-09-{latin.txt,english.md}` |
 | 36 | Locus XII, Question X | printed pp. 218–226 / PDFs 246–254 | XXXII | 9 | `part-36-locus-12-question-10-{latin.txt,english.md}` |
 | 37 | Locus XII, Question XI | printed pp. 227–230 / PDFs 255–258 | XVII | 4 | `part-37-locus-12-question-11-{latin.txt,english.md}` |
+| 38 | Locus XII, Question XII | printed pp. 231–237 / PDFs 259–265 | XXV | 7 | `part-38-locus-12-question-12-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -396,10 +398,43 @@ is Matt. viii. 12. The visibly printed `repondisset` in section XII is
 retained in the Latin with `[sic]`; the grammar requires `respondisset`. The
 unusual printed sequence `in sinum Angeli Abrahae` in the Roman Ritual
 quotation in section VI is likewise retained without reordering. No
-supplementary witness was needed. The exact next restart is `QUAESTIO XII. An
+supplementary witness was needed. Part 37's exact next restart was `QUAESTIO XII. An
 Foedus Legale Sinaiticum, quod per Mosem cum Populo Israelitico sancitum est
 in monte Sinai, fuerit tertium aliquod Foedus specie distinctum a Foedere
 Naturae et Gratiae? Neg.` on printed p. 231 / PDF 259.
+
+Question XII asks whether the Sinaitic legal covenant was a third covenant
+specifically distinct from the covenant of nature and the covenant of grace.
+It rejects that position by identifying the Sinaitic covenant substantially
+with the covenant of grace under a legal administration, arguing from
+Scripture's two covenants, the two ways of attaining blessedness, the identity
+of the Abrahamic and Sinaitic covenants, both covenant parties, the covenant's
+evangelical circumstances, the ceremonial law, and the Old Testament
+sacraments. It then answers objections from the legal form of the Mosaic
+economy, Jeremiah xxxi, the law's relation to faith, the covenant conditions,
+Moses' mediation, and the promise of Canaan in twenty-five sections. It begins
+at the Question XII heading on printed p. 231 / PDF 259 and ends with section
+XXV on printed p. 237 / PDF 265, completing Locus XII. The Latin and English
+files contain 3,618 and 5,011 whitespace-delimited words respectively,
+counted over each complete file with `wc -w`. Both carry all seven
+printed-page markers in the same sequence and retain all fourteen substantive
+marginal headings, citations, Greek, and Hebrew. The printer-divided
+`θεάν-/θρωπος` at the printed pp. 231/232 join and `obsig-/nationem` at
+pp. 234/235 are normalized as `θεάνθρωπος` and `obsignationem`, with the
+incoming marker placed before each complete word in both files. The other
+joins fall between complete words or sections. The visibly printed `rationis
+finis` and `proprius exactio` in section III on printed p. 231 are retained in
+the Latin with `[sic]`; the parallel construction and grammar require
+`ratione finis` and `propria exactio`. The visibly printed `circumsionem` in
+section XIV on printed p. 234 is likewise retained with `[sic]`; the expected
+form is `circumcisionem`. No supplementary witness was needed.
+
+The next source sequence is blank PDF 266, the unnumbered Locus XIII
+divisional title on PDF 267 (`LOCUS DECIMUS TERTIUS. DE PERSONA ET STATU
+CHRISTI.`), blank PDF 268, and then the exact next question restart `QUAESTIO
+PRIMA. An Messias promissus jam venerit? Affirm. contra Judaeos.` on printed
+p. 241 / PDF 269. None of those four interstitial or Locus XIII pages is
+included in Part 38.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

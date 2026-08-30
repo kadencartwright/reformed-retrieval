@@ -245,6 +245,33 @@ printed p. 116 and its jump from numbered point `4` to point `6` across pp.
 118–119 are retained rather than silently regularized. Its Greek
 `θεάνθρωπος` on printed p. 118 has been checked directly against both copies.
 
+**Part 10 is the complete first chapter of Book III.** It begins with the Book
+III and `CAPUT I` headings on printed p. 126 and continues through the final
+argument on printed p. 140, stopping before the `CAPUT` catchword for Chapter
+II:
+
+- e-rara canvases 136–150 / printed pp. 126–140;
+- same-impression Augsburg comparison canvases 150–164;
+- Book III, Chapter I, *De regimine Ecclesiae*;
+- next unit: Chapter II, *De Monarchia Petri*, beginning on printed p. 141.
+
+The paired files carry fifteen identical source markers. The five words split
+by page boundaries—`Monarchia` (pp. 126/127), `rebus` (pp. 127/128),
+`Principalitas` (pp. 136/137), `praefectos` (pp. 138/139), and `manifesta` (pp.
+139/140)—are joined and placed wholly after the incoming marker in both files.
+The bottom-of-page forms `chia` (p. 126), `bus` (p. 127), `vers.` (p. 128),
+`caput` (p. 129), `Archiepisc.` (p. 130), `neque` (p. 131), `Ephes.` (p. 132),
+`Pro.` (p. 133), `Protest.` (p. 134), `subditus` (p. 135), `palitas` (p. 136),
+`potestas` (p. 137), `ctos` (p. 138), `sta.` (p. 139), and `CAPUT` (p. 140) are
+catchwords rather than additional or duplicated text and are excluded. The
+controlling and comparison images agree throughout the chapter's setting. The
+witness's jumps from response point `1` to point `3` on printed pp. 130, 136,
+and 137, and from point `2` to point `4` on printed p. 138, its sequence `2.
+Bell. 2.` on printed p. 137, and its form `arrogate` on printed p. 136 are
+retained rather than silently regularized. The long Greek
+quotation from Josephus on printed p. 129 and the Greek forms on printed pp.
+127 and 133 have been checked directly against both copies.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -284,3 +311,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-08-book-02-chapter-02b-english.md`
 - `parts/part-09-book-02-chapter-03-latin.txt`
 - `parts/part-09-book-02-chapter-03-english.md`
+- `parts/part-10-book-03-chapter-01-latin.txt`
+- `parts/part-10-book-03-chapter-01-english.md`

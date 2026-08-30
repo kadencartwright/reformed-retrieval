@@ -13,7 +13,7 @@
 - **Edition:** Edinburgh, John D. Lowe, 1847
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
   Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, through Question X
+  Testamento*, through Question XI
 
 ## Controlling witness and rights
 
@@ -38,15 +38,15 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–36 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–37 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Questions I–X, from printed p. 3 / PDF 31 through section XXXII on printed p.
-226 / PDF 254. Part 27 also includes the Locus XII divisional title on PDF 177
-and its blank verso on PDF 178. The sequence comprises 830 numbered sections
-across 221 numbered text pages and 251 source markers in each language (249
+Questions I–XI, from printed p. 3 / PDF 31 through section XVII on printed p.
+230 / PDF 258. Part 27 also includes the Locus XII divisional title on PDF 177
+and its blank verso on PDF 178. The sequence comprises 847 numbered sections
+across 225 numbered text pages and 255 source markers in each language (253
 printed-page markers plus the two divisional-leaf markers in Part 27). The
-complete Latin files contain 122,015 whitespace-delimited words and the
-complete English files 166,292, counted over Parts 01–36 with `wc -w`. Each
+complete Latin files contain 124,274 whitespace-delimited words and the
+complete English files 169,385, counted over Parts 01–37 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -88,6 +88,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 34 | Locus XII, Question VIII | printed pp. 206–212 / PDFs 234–240 | XXV | 7 | `part-34-locus-12-question-08-{latin.txt,english.md}` |
 | 35 | Locus XII, Question IX | printed pp. 212–218 / PDFs 240–246 | XX | 7 | `part-35-locus-12-question-09-{latin.txt,english.md}` |
 | 36 | Locus XII, Question X | printed pp. 218–226 / PDFs 246–254 | XXXII | 9 | `part-36-locus-12-question-10-{latin.txt,english.md}` |
+| 37 | Locus XII, Question XI | printed pp. 227–230 / PDFs 255–258 | XVII | 4 | `part-37-locus-12-question-11-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -373,10 +374,32 @@ printed p. 219 and `Testamentati` in section XXXII on printed p. 226 are
 retained in the Latin with `[sic]`; the grammar requires `potuerint`, `Viri
 Docti`, and `Testamenti`, respectively. The printed `ἁμαρτιῶν` in the Greek
 quotation of Rom. iii. 25 in section XVIII on printed p. 222 is likewise
-retained. No supplementary witness was needed. The exact next restart is
-`QUAESTIO XI. DE LIMBO PATRUM. An Patres Vet. Testamenti post obitum statim
-recepti fuerint quoad animas in Coelum? An vero in Limbum detrusi? Prius
-Affirm., Post. Neg., contra Pontificios.` on printed p. 227 / PDF 255.
+retained. No supplementary witness was needed. Question XI denies against the
+Roman Catholics that the souls of the Old Testament fathers were detained in
+limbo until Christ's ascension. It argues from the covenant formula, Lazarus
+in Abraham's bosom, the thief in paradise, Enoch and Elijah, and the fathers'
+hope and consolation in death, then answers proposed proofs from Sheol, the
+waterless cistern, Samuel's apparition, John iii. 13, Hebrews ix. 8, the
+spirits in prison, and unfulfilled promise in seventeen sections. It begins
+at the Question XI heading on printed p. 227 / PDF 255 and ends with section
+XVII on printed p. 230 / PDF 258, before Question XII on printed p. 231 / PDF
+259. The Latin and English files contain 2,259 and 3,093
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all four page markers in the same sequence and retain all
+seven substantive marginal headings, the Virgil verse, citations, Greek, and
+Hebrew. No printer-divided word crosses a page boundary: the printed pp.
+227/228, 228/229, and 229/230 joins fall between `opipari` / `symbolo`,
+`deliciarum` / `et`, and `praedixit,` / `quia`, respectively, so no page-join
+normalization was required. The visibly printed citation `Matth. x. 12` in
+section VI is retained rather than silently corrected; the contextual verse
+is Matt. viii. 12. The visibly printed `repondisset` in section XII is
+retained in the Latin with `[sic]`; the grammar requires `respondisset`. The
+unusual printed sequence `in sinum Angeli Abrahae` in the Roman Ritual
+quotation in section VI is likewise retained without reordering. No
+supplementary witness was needed. The exact next restart is `QUAESTIO XII. An
+Foedus Legale Sinaiticum, quod per Mosem cum Populo Israelitico sancitum est
+in monte Sinai, fuerit tertium aliquod Foedus specie distinctum a Foedere
+Naturae et Gratiae? Neg.` on printed p. 231 / PDF 259.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

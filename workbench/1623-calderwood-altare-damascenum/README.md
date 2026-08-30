@@ -66,8 +66,8 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–16 contain none of the appended documents and do not reach the
-embedded Tilenus refutation. Parts 07–16 do, however, include long passages
+prose. Parts 01–18 contain none of the appended documents and do not reach the
+embedded Tilenus refutation. Parts 07–18 do, however, include long passages
 that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
 Scaliger, patristic writers, imperial and conciliar legislation, English
 canons, canonists, and other named writers; the paired files retain their
@@ -87,12 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Seventeen numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the upper portion of printed p. 252, but the
+Eighteen numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the lower portion of printed p. 259, but the
 inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–17 begin exactly at their audited predecessor boundaries and do not
+Parts 09–18 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -114,6 +114,7 @@ alter either inherited part.
 | 15 | Chapter IV: argument 6, equality of bishops and presbyters, through preaching and sacramental ministry | printed pp. 203–215 / PDFs 215–227, both boundary pages partial | 13 paired and image-audited |
 | 16 | Chapter IV: argument 6, ordination and the equality of ministerial power | printed pp. 215–243 / PDFs 227–255, both boundary pages partial | 29 paired and image-audited |
 | 17 | Chapter IV: argument 6, jurisdiction and presbyteral government | printed pp. 243–252 / PDFs 255–264, both boundary pages partial | 10 paired and image-checked |
+| 18 | Chapter IV: argument 6, Jerome on common presbyteral government | printed pp. 252–259 / PDFs 264–271, both boundary pages partial | 8 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -579,7 +580,50 @@ quotations, citations, Greek, joins, and both boundaries.
 - Latin: `parts/part-17-chapter-04-argument-06-jurisdiction-latin.txt`
 - English: `parts/part-17-chapter-04-argument-06-jurisdiction-english.md`
 
-All seventeen units remain **AI-assisted and unreviewed**. They require complete
+### Part 18 bounds and evidence
+
+Part 18 begins exactly where Part 17 ends, in the upper portion of shared
+printed p. 252 / IA leaf 264 / PDF p. 264, at:
+
+`Gratianus in Decreto citans Hieronymum in Epistolam ad Titum habet haec
+verba.`
+
+It contains Calderwood's complete treatment of Jerome's position on the
+common government of the churches by presbyters. Calderwood distinguishes the
+three historical periods within Jerome's account; answers Dounamus's attempt
+to reserve ordination and public jurisdiction to the apostles; tests the
+interpretations of Bellarmine, Delphinus, Durandus, Saravia, and Tilenus; and
+argues that `toto orbe decretum` describes decisions distributed among
+particular churches rather than a decree of an apostolic or ecumenical
+council. The pair retains the extended attributed quotations, all visible
+marginal citations, the anomalous printed cross-reference `p. 140. 125. 189.
+190`, and the Greek `ἀδιακρίτως`.
+
+Part 18 ends in the lower portion of printed p. 259 / IA leaf 271 / PDF p. 271
+at Calderwood's explicit close:
+
+`Atque haec de sententia Hieronymi.`
+
+The immediately following `Quod ad rem ipsam attinet` turns from Jerome's
+position to the underlying historical question and is excluded. This gives
+Part 18 eight identical Latin and English source markers, p. 252 partial
+through p. 259 partial, and seven byte-identical marginalia records.
+Printer-divided words at every page boundary are joined, with each incoming
+marker placed before the complete Latin word and the corresponding English
+word or phrase.
+
+The controlling access-PDF images for PDFs 264–271 were freshly rendered at
+240 dpi and inspected page by page against both files; PDF p. 272 was also
+checked to confirm the excluded continuation. The access PDF and its
+OCR/scandata aids match the identity and hashes documented under Part 16. The
+IA OCR and 1708 Leiden reset assisted reading only; the 1623 images governed
+wording, typography, quotations, citations, Greek, joins, and both
+boundaries.
+
+- Latin: `parts/part-18-chapter-04-argument-06-jerome-on-presbyteral-government-latin.txt`
+- English: `parts/part-18-chapter-04-argument-06-jerome-on-presbyteral-government-english.md`
+
+All eighteen units remain **AI-assisted and unreviewed**. They require complete
 comparison by a qualified Latin editor before quotation or publication.
 
 ## Licensing

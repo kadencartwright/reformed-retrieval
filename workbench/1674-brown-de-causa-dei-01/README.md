@@ -62,7 +62,7 @@ page-structured collation aid for Parts 46–47. The access PDF, plain OCR, and
 DjVu XML were freshly acquired once more for Parts 48–49 on 30 August 2026 and
 are byte-identical to the recorded derivatives. All four derivatives were
 freshly acquired again for Part 50 on 30 August 2026 and remain byte-identical
-to that set; the same locally retained derivatives govern Part 51:
+to that set; the same locally retained derivatives govern Parts 51–52:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -106,7 +106,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XVIII in the upper part of shared logical printed p. 364. Shared-page
+Chapter XIX in the upper part of shared logical printed p. 368. Shared-page
 boundaries preserve each new argumentative unit in the following part rather
 than duplicating it. The witness's visible pagination jumps from 256 to 275 at
 PDF 275; from that point
@@ -167,6 +167,7 @@ images without ambiguity.
 | 49 | Book II, Chapter XVI; Walaeus's and other contrary arguments weighed | logical printed p. 341 through the upper part of shared logical p. 349 / IA leaves 359–367 / PDF pp. 359–367; visible pp. 359–367; stops before `CAP. XVII.` | 9 |
 | 50 | Book II, Chapter XVII; days are not all equal in holiness | lower part of shared logical printed p. 349 through logical p. 357 / IA leaves 367–375 / PDF pp. 367–375; visible pp. 367–375; stops before `CAP. XVIII.` on logical p. 358 | 9 |
 | 51 | Book II, Chapter XVIII; contrary arguments against the distinction of days examined | logical printed p. 358 through the upper part of shared logical p. 364 / IA leaves 376–382 / PDF pp. 376–382; visible pp. 376–382; stops before `CAP. XIX.` | 7 |
+| 52 | Book II, Chapter XIX; general principles concerning place in relation to religion | lower part of shared logical printed p. 364 through the upper part of shared logical p. 368 / IA leaves 382–386 / PDF pp. 382–386; visible pp. 382–386; stops before `CAP. XX.` | 5 |
 
 The files are:
 
@@ -221,8 +222,9 @@ The files are:
 - `parts/part-49-book-02-chapter-16-wallaeus-objections-{latin.txt,english.md}`
 - `parts/part-50-book-02-chapter-17-days-not-equal-in-holiness-{latin.txt,english.md}`
 - `parts/part-51-book-02-chapter-18-contrary-arguments-{latin.txt,english.md}`
+- `parts/part-52-book-02-chapter-19-place-general-principles-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–51 image audits
+### Part 04 re-audit and Parts 05–52 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1411,6 +1413,41 @@ tum usûs, vulgari sacratiorum.` The following rule and `CAP. XIX.` are excluded
 The next untranslated text is therefore `CAP. XIX. Generalia quaedam de Loco in
 ordine ad Religionem proponuntur, ejusque necessitas & utilitas ostenditur.` on
 shared logical printed p. 364 / IA leaf 382 / PDF p. 382.
+
+Part 52 is the complete, image-audited nineteenth chapter of Book II. It sets
+out general principles concerning place in relation to religion, distinguishes
+natural, artificial, accidental, indeterminate, determinate, common, sacred,
+and consecrated place, and examines the physical necessity and accidental
+usefulness of place. Every controlling image from the Chapter XIX heading on
+PDF 382 through the chapter end on PDF 386 was read directly, including all
+four internal joins and the outgoing shared-page stop before `CAP. XX.` OCR and
+the byte-identical page-structured DjVu XML were used only as collation aids.
+The Latin and English contain the identical five-marker sequence. The visible
+witness numbers these pages 382–386; the markers retain the continuous logical
+sequence 364–368 and record the exact IA leaves and PDF pages. The stop is the
+exact Chapter XIX/XX boundary.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 382–386. Its general warning about deficient Greek and Hebrew type is
+disclosed in both file headers, though neither script occurs in this unit. No
+separate substantive marginal gloss occurs. Printer-divided words at the
+logical pp. 364/365, 365/366, and 366/367 joins are joined with the new marker
+before the complete Latin word and corresponding English word or phrase; the
+continuing phrase `vi scil.` at the logical pp. 367/368 join is likewise placed
+after the new marker. Running heads, signatures, catchwords, the rule, and the
+Chapter XX heading are omitted. All definitions, five kinds of accidental
+usefulness, citations, and substantive italic distinctions are retained. The
+manifestly anomalous printed form `publicum` is retained in the Latin,
+disclosed in both file headers, and rendered contextually as “publicly” in the
+English.
+
+The exact Part 52 opening is `CAP. XIX. Generalia quaedam de Loco in ordine ad
+Religionem proponuntur, ejusque necessitas & utilitas ostenditur.` Its final
+included words are `...à Dan. Cawdrey & Herb. Palmer Anglis, Anglicè
+conscriptum. Part. 1. Cap. 2.` The following rule and `CAP. XX.` are excluded.
+The next untranslated text is therefore `CAP. XX. Quam magna sit inter Locum ac
+Tempus quoad Religionem discrepantia, demonstratur.` on shared logical printed
+p. 368 / IA leaf 386 / PDF p. 386.
 
 ## Review and licensing status
 

@@ -1481,6 +1481,23 @@ spectari potest`, is excluded.
 - English: `parts/part-88-moral-law-03-english.md`
 - Extent: four synchronized markers, new-series fols. 22–25 / IA leaves 342–345
 
+## Part 89: fourth unit on the moral law under the gospel
+
+Part 89 begins Tuckney's third distinction and completes its treatment of
+the law as declarative of natural law and as Mosaic. He distinguishes its
+expired covenantal administration from its continuing moral authority,
+answers the claim that Moses bound Israel alone, and argues that Moses was
+both the universal sovereign's servant and a preacher of the gospel. It runs
+from `Tertia haec est, Lex moralis spectari potest` on new-series fol. 25 /
+IA leaf 345 through the close of the distinction's second member on
+new-series fol. 28 / IA leaf 348. The third member, beginning `Tertium ejus
+membrum legem moralem ut a Christo in Evangelio confirmatam respicit`, is
+excluded.
+
+- Latin: `parts/part-89-moral-law-04-latin.txt`
+- English: `parts/part-89-moral-law-04-english.md`
+- Extent: four synchronized markers, new-series fols. 25–28 / IA leaves 345–348
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

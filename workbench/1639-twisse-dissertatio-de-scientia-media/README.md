@@ -445,6 +445,21 @@ certo sciri` and has four identical source markers.
 The next unit resumes on printed p. 79 / canvas 00105 with that sixth argument,
 beginning `Sexto: Sequeretur futura contingentia etiam ab Angelo certo sciri`.
 
+Part 41 spans **printed pp. 79–81 / BSB canvases 00105–00107** and contains the
+complete sixth-argument complex of Digression III, Section IX. It includes the
+argument from angelic *aevum*, Vásquez's three sub-objections, Navarrete's
+answers, Twisse's counter-replies, and the subsequent Vásquez arguments on the
+relevance of real presence and the status of Antichrist. It ends immediately
+before `Sequuntur argumenta Valentiae quae expendit Navarrettus` and has three
+identical source markers.
+
+- `parts/part-41-digression-03-section-09-argument-06-and-vasquez-latin.txt`
+- `parts/part-41-digression-03-section-09-argument-06-and-vasquez-english.md`
+
+The next unit resumes on printed p. 81 / canvas 00107 with `Sequuntur argumenta
+Valentiae quae expendit Navarrettus`, beginning `Deus in sacra Scriptura dicitur
+esse ante res temporales`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

@@ -59,8 +59,8 @@ freshly acquired once more for Parts 38–39 on 30 August 2026 and remain
 byte-identical to the recorded derivatives; the same locally retained
 derivatives govern Parts 40–47, with the byte-identical DjVu XML also used as a
 page-structured collation aid for Parts 46–47. The access PDF, plain OCR, and
-DjVu XML were freshly acquired once more for Part 48 on 30 August 2026 and are
-byte-identical to the recorded derivatives:
+DjVu XML were freshly acquired once more for Parts 48–49 on 30 August 2026 and
+are byte-identical to the recorded derivatives:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -104,7 +104,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XV on logical printed p. 340. Shared-page boundaries
+Chapter XVI on the upper part of logical printed p. 349. Shared-page boundaries
 preserve each new argumentative unit in the following part rather than
 duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
 275; from that point the continuous logical numbering used in the markers is
@@ -161,6 +161,7 @@ identify the exact images without ambiguity.
 | 46 | Book II, Chapter XIII; the church cannot institute annual feast days | lower part of shared logical printed p. 301 through logical p. 327 / IA leaves 319–345 / PDF pp. 319–345; visible pp. 319–345; stops before `CAP. XIV.` on p. 328 | 27 |
 | 47 | Book II, Chapter XIV; God alone determines principal, solemn, necessary, and sufficient time | logical printed pp. 328–333 / IA leaves 346–351 / PDF pp. 346–351; visible pp. 346–351; stops before `CAP. XV.` on p. 334 | 6 |
 | 48 | Book II, Chapter XV; observance of principal and solemn time is a part of worship | logical printed pp. 334–340 / IA leaves 352–358 / PDF pp. 352–358; visible pp. 352–358; stops before `CAP. XVI.` on p. 341 | 7 |
+| 49 | Book II, Chapter XVI; Walaeus's and other contrary arguments weighed | logical printed p. 341 through the upper part of shared logical p. 349 / IA leaves 359–367 / PDF pp. 359–367; visible pp. 359–367; stops before `CAP. XVII.` | 9 |
 
 The files are:
 
@@ -212,8 +213,9 @@ The files are:
 - `parts/part-46-book-02-chapter-13-annual-feast-days-{latin.txt,english.md}`
 - `parts/part-47-book-02-chapter-14-god-alone-determines-solemn-time-{latin.txt,english.md}`
 - `parts/part-48-book-02-chapter-15-observance-is-worship-{latin.txt,english.md}`
+- `parts/part-49-book-02-chapter-16-wallaeus-objections-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–48 image audits
+### Part 04 re-audit and Parts 05–49 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1304,6 +1306,37 @@ veritas.` The rule, signature `Vv 2`, catchword `CAP.`, and `CAP. XVI.` on
 logical printed p. 341 are excluded. The next untranslated text is therefore
 `CAP. XVI. Expenduntur contrariae Adversantium Rationes; Imprimis D. Wallaei.`
 on logical printed p. 341 / IA leaf 359 / PDF p. 359.
+
+Part 49 is the complete, image-audited sixteenth chapter of Book II. It weighs
+Walaeus's arguments for treating determined time as only a necessary
+circumstance of worship, answers further claims that sacred time was merely
+ceremonial or only an aid to worship, and closes with Brown's extended
+quotation from Nathanael Jonson. Every controlling image from the Chapter XVI
+heading on PDF 359 through the chapter's closing continuation on PDF 367 was
+read directly, including all eight internal joins and the outgoing shared-page
+stop before `CAP. XVII.` OCR and the byte-identical page-structured DjVu XML
+were used only as collation aids. The Latin and English contain the identical
+nine-marker sequence. The visible witness numbers these pages 359–367; the
+markers retain the continuous logical sequence 341–349 and record the exact IA
+leaves and PDF pages. The stop is the exact Chapter XVI/XVII boundary.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 359–367. Its general warning about deficient Greek and Hebrew type is
+disclosed in both file headers, though neither script occurs in this unit. No
+separate substantive marginal gloss occurs. The printer-divided word
+`morali-ter` at the logical pp. 342/343 join is joined with the new marker
+before the complete Latin word and corresponding English word; the other seven
+joins fall between complete words. Running heads, signatures, catchwords, the
+rule, and the Chapter XVII heading are omitted. All objections, numbered
+responses, citations, quotations from Walaeus, Jerome, and Jonson, and
+substantive italic distinctions are retained.
+
+The exact Part 49 opening is `CAP. XVI. Expenduntur contrariae Adversantium
+Rationes; Imprimis D. Wallaei.` Its final included words are `...Unde sequitur
+praxeos pietatis eversio, non minus quàm subrutis columnis aedificii ruina.`
+The following rule and `CAP. XVII.` are excluded. The next untranslated text
+is therefore `CAP. XVII. Non sunt omnes dies nunc aequales quoad sanctitatem.`
+on shared logical printed p. 349 / IA leaf 367 / PDF p. 367.
 
 ## Review and licensing status
 

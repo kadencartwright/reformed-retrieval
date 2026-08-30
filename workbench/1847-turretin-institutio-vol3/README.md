@@ -1230,3 +1230,56 @@ XI, “De Baptismo,” begins below it on that page and is excluded.
 
 The next restart point is `QUÆSTIO XI. DE BAPTISMO. Quid sit Baptismus, et
 Quotuplex?` on shared printed p. 322 / IA leaf 356 / PDF p. 356.
+
+## Part 45
+
+Part 45 contains the complete Locus XIX, Question XI, “De Baptismo.” It begins
+with the question heading on shared printed p. 322 / IA leaf 356 / PDF p. 356,
+immediately after Question X, and ends with section XVII on shared printed p.
+327 / IA leaf 361 / PDF p. 361. Question XII, “De Baptismi Necessitate,” begins
+below it on that page and is excluded.
+
+- Latin: `parts/part-45-locus-19-question-11-latin.txt`
+- English: `parts/part-45-locus-19-question-11-english.md`
+- Both files contain six synchronized source-page markers, the complete
+  section sequence I–XVII, and thirteen synchronized marginalia blocks.
+- The scan verification covered all six page images and all five page joins.
+  The pp. 326–327 join divides `administrari`; the complete Latin word and its
+  English counterpart are placed after the new-page marker. The other joins
+  divide no word.
+- The transcription retains all printed Greek and Hebrew, including the
+  malformed Greek `Ἀσκυς` and `ὄντω` marked `[sic]`, the unmatched opening
+  parenthesis before the second numbered argument in section XI, the witness’s
+  repeated `Ephes. v. 26, 26, 27`, and its other abbreviations and citations.
+  The English translates the evident sense without silently altering the Latin
+  witness.
+
+The next restart point is `QUÆSTIO XII. DE BAPTISMI NECESSITATE. An Baptismus
+fuerit tantum ritus temporarius, discriminans fideles ab infidelibus, qui ad
+tempus solum durare debuerit? Neg. cont. Socin.` on shared printed p. 327 / IA
+leaf 361 / PDF p. 361.
+
+## Part 46
+
+Part 46 contains the complete Locus XIX, Question XII, “De Baptismi
+Necessitate.” It begins with the question heading on shared printed p. 327 / IA
+leaf 361 / PDF p. 361, immediately after Question XI, and ends with section XVI
+on shared printed p. 330 / IA leaf 364 / PDF p. 364. Question XIII begins below
+it on that page and is excluded.
+
+- Latin: `parts/part-46-locus-19-question-12-latin.txt`
+- English: `parts/part-46-locus-19-question-12-english.md`
+- Both files contain four synchronized source-page markers, the complete
+  section sequence I–XVI, and six synchronized marginalia blocks.
+- The scan verification covered all four page images and all three page joins.
+  The pp. 327–328 and 328–329 joins divide `necessitatem` and `evangelizandum`;
+  each complete Latin word and its English counterpart is placed after the
+  new-page marker. The pp. 329–330 join divides no word.
+- `[sic]` identifies the witness’s `Matth. xxvii. 19`, `1 Cor. xi. 6`, and
+  `fuundandam`; the English translates the evident sense without silently
+  altering the Latin witness. The transcription also retains both printed
+  Greek expressions and the witness’s other abbreviations and citations.
+
+The next restart point is `QUÆSTIO XIII. An Baptismus sit absolute necessarius
+ad salutem? Neg. cont. Pontif.` on shared printed p. 330 / IA leaf 364 / PDF p.
+364.

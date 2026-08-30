@@ -76,15 +76,17 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–07 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–08 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
 on redemption through its concluding four-point synthesis in the upper
 portion of printed p. 103 / canvas 113. Part 07 completes Article II, Chapter
 II, from its heading lower on that page through the end of the first argument
-in the upper portion of printed p. 109 / canvas 119. The files are divided as
-follows:
+in the upper portion of printed p. 109 / canvas 119. Part 08 completes Article
+II, Chapter III, from its heading lower on that page through the end of the
+second argument near the top of printed p. 120 / canvas 130. The files are
+divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -97,6 +99,9 @@ follows:
   pp. 99–103.
 - Part 07: Article II, Chapter II, canvases 113–119 / printed pp. 103–109;
   only the lower portion of canvas 113 and the upper portion of canvas 119
+  belong to this unit.
+- Part 08: Article II, Chapter III, canvases 119–130 / printed pp. 109–120;
+  only the lower portion of canvas 119 and the upper portion of canvas 130
   belong to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
@@ -127,6 +132,21 @@ p. 109 / canvas 119. The witness's malformed reference sequence `Rom. 3. 22.
 - Both Part 07 files contain seven synchronized source markers for BSB
   canvases 113–119 / printed pp. 103–109.
 
-The next untranslated unit begins with `CAP. III. Argumentum secundum. Pag.
-180.` and `Christus, peculiari quadam ratione, posuit suam vitam pro ovibus`
-lower on printed p. 109 / BSB canvas 119.
+Part 08 answers the second argument from the texts that describe Christ as
+laying down his life for his sheep, redeeming the church, gathering God's
+scattered children, saving his people, and purifying a peculiar people. It
+begins with `CAP. III. Argumentum secundum. Pag. 180.` and `Si Christus,
+peculiari quadam ratione, posuit suam vitam pro ovibus` lower on printed p.
+109 / canvas 119 and ends with `...cum argumento deducto ex Titi cap. 2. 14.`
+near the top of printed p. 120 / canvas 130. The witness's malformed or
+surprising references—including `Matt. 21.`, `Tit. 2. 24.`, `Ioha. 17. 7.`,
+and `Rom. 6. 7. 8. & 11. 1. 2. 7.`—are retained rather than silently repaired.
+
+- Latin: `parts/part-08-article-02-chapter-03-latin.txt`
+- English: `parts/part-08-article-02-chapter-03-english.md`
+- Both Part 08 files contain twelve synchronized source markers for BSB
+  canvases 119–130 / printed pp. 109–120.
+
+The next untranslated unit begins with `CAP. IV. Argumentum tertium. Pag.
+185.` and `Pro quibus Christus est proprie mortuus, eorum loco sic mortuus
+est` lower on printed p. 120 / BSB canvas 130.

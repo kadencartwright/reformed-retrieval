@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and eighty-nine
-> printed pages of Volume II. The thirty-eight paired parts are unreviewed and
+> close English translations of the opening one hundred and ninety-six
+> printed pages of Volume II. The thirty-nine paired parts are unreviewed and
 > are not publication-ready.
 
 ## Work and edition
@@ -86,12 +86,12 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 189 is applied and disclosed in the relevant
+completed span through printed p. 196 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
-Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, and XVIII were read
-from the images, not reconstructed from IA OCR. Apparatus notes record printed errata,
-source-language glosses needed by the English, and anomalous citations without
-silently repairing them.
+Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, and XIX were
+read from the images, not reconstructed from IA OCR. Apparatus notes record
+printed errata, source-language glosses needed by the English, and anomalous
+citations without silently repairing them.
 
 The English is a complete independent translation of the accompanying Latin,
 not a summary. Biblical quotations are translated from Brown's wording, and
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty-eight paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty-nine paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -288,14 +288,21 @@ working drafts:
   187–197; eleven synchronized markers.
   [Latin](parts/part-38-book-04-chapter-18-other-objections-latin.txt) |
   [English](parts/part-38-book-04-chapter-18-other-objections-english.md)
+- **Part 39:** all of Chapter XIX, establishing from orthodox catechisms,
+  theologians, and Scripture that the scope of the second commandment
+  includes God's instituted external worship and rejects humanly devised
+  worship; printed pp. 189–196 / IA PDF and leaves 197–204;
+  eight synchronized markers.
+  [Latin](parts/part-39-book-04-chapter-19-instituted-worship-latin.txt) |
+  [English](parts/part-39-book-04-chapter-19-instituted-worship-english.md)
 
-Part 38 ends with Chapter XVIII's response to de Raadt and before `CAP. XIX.`
-on printed p. 189. The exact next untranslated text is `CAP. XIX.`, at printed
-p. 189 / IA PDF 197 / IA leaf 197, followed by `Praemittuntur quidam de secundo
-Decalogi praecepto; & monstratur, hoc praeceptum mandare cultum Dei
-institutum.` Chapters VI through XVIII are complete. Every completed pair has
-an identical source-marker sequence, and all thirty-eight pairs remain
-AI-assisted and unreviewed.
+Part 39 ends with Chapter XIX's conclusion concerning instituted worship and
+before `CAP. XX.` on printed p. 196. The exact next untranslated chapter text
+is `CAP. XX.` at the foot of printed p. 196 / IA PDF 204 / IA leaf 204,
+followed on printed p. 197 / IA PDF 205 / IA leaf 205 by `Dicta quaedam D.
+Burmanni & aliorum quorundam, contra praedicta, examinantur.` Chapters VI
+through XIX are complete. Every completed pair has an identical source-marker
+sequence, and all thirty-nine pairs remain AI-assisted and unreviewed.
 
 ## Licensing
 

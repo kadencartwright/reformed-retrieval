@@ -740,6 +740,23 @@ excluded.
 - English: `parts/part-42-romans-04-05-abraham-18-english.md`
 - Extent: three synchronized markers, printed pp. 248–250 / IA leaves 256–258
 
+## Part 43: nineteenth unit of the Romans 4:5 lecture
+
+Part 43 presents and answers Bellarmine's seventh argument against imputed
+righteousness: that imputation would make Christ truly a sinner just as it
+makes believers truly righteous. Tuckney distinguishes forensic imputation
+from inherent character, gives five differences between the two
+imputations, and explains the scriptural statements that Christ was made
+curse and sin without attributing moral defilement to him. It runs from `At
+contra hoc insurgit Bellarminus` on printed p. 250 / IA leaf 258 through the
+completion of that response on printed p. 252 / IA leaf 260. The transition
+to Bellarmine's broader arguments, `Versamur adhuc in quaestione illa An
+Justitia Christi nobis imputetur`, is excluded.
+
+- Latin: `parts/part-43-romans-04-05-abraham-19-latin.txt`
+- English: `parts/part-43-romans-04-05-abraham-19-english.md`
+- Extent: three synchronized markers, printed pp. 250–252 / IA leaves 258–260
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

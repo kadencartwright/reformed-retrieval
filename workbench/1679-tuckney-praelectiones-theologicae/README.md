@@ -485,6 +485,20 @@ response on printed p. 174 / IA leaf 182. The resumed analysis, `Restat
 - English: `parts/part-26-romans-04-05-abraham-02-english.md`
 - Extent: seven synchronized markers, printed pp. 168–174 / IA leaves 176–182
 
+## Part 27: third unit of the Romans 4:5 lecture
+
+Part 27 supplies Tuckney's general analysis of Paul's argument in Romans
+4:1–5, comparing the arrangements offered by Piscator, Pareus, and Olevianus,
+and introduces the displayed text of verse 1. It runs from `Restat (antequam
+ad singula Commata explicanda accedamus)` on printed p. 174 / IA leaf 182
+through Beza's rendering of Romans 4:1 on printed p. 176 / IA leaf 184. The
+detailed exposition beginning `In hoc primo Commate summa Argumenti` is
+excluded.
+
+- Latin: `parts/part-27-romans-04-05-abraham-03-latin.txt`
+- English: `parts/part-27-romans-04-05-abraham-03-english.md`
+- Extent: three synchronized markers, printed pp. 174–176 / IA leaves 182–184
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

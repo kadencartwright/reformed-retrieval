@@ -82,8 +82,18 @@ synchronized printed-column markers:
 - `parts/part-03-church-triumphant-question-03-latin.txt`
 - `parts/part-03-church-triumphant-question-03-english.md`
 
-The next continuation boundary is therefore the start of Question IV in
-printed column 33 on BSB canvas 17.
+**Part 04 is complete as an AI-assisted, unreviewed working draft.** It
+contains the complete Question IV, on the intercession of the saints for us,
+in printed columns 33–41. It ends after the response to Objection 17,
+immediately before `QUAESTIO QUINTA. De Sanctorum invocatione`, and contains
+nine synchronized printed-column markers:
+
+- `parts/part-04-church-triumphant-question-04-latin.txt`
+- `parts/part-04-church-triumphant-question-04-english.md`
+
+The next continuation boundary is therefore the start of Question V,
+`QUAESTIO QUINTA. De Sanctorum invocatione`, in printed column 42 on BSB
+canvas 21.
 
 ## Review and licensing notice
 

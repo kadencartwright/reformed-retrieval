@@ -490,21 +490,61 @@ working draft.
 - `parts/part-15-proposition-14-section-04-latin.txt`
 - `parts/part-15-proposition-14-section-04-english.md`
 
+## Part 16: exact authorial boundary
+
+Part 16 begins with centered `Propositio Decimaquinta.` on the shared left
+column of **first-body printed p. 65 / BSB canvas 77** and contains Proposition
+XV in full: Arminius's argument that grace prepared by predestination is
+evangelical grace suited only to a sinner, Junius's distinctions concerning
+the preservation and acquisition effected by grace, Arminius's rejoinder, and
+Twisse's complete response concerning the intentional order of decrees,
+providence and predestination, and legal and evangelical grace. It continues
+through **first-body printed p. 67 / BSB canvas 79**, with three synchronized
+source markers.
+
+At the first join the p. 65 catchword `Sed` is omitted and the p. 66 marker
+precedes the full opening `Sed quid si negem`; the English marker
+correspondingly precedes “But what if I deny.” At the second join the printer
+divides `versa-` / `tur`; the normalized Latin joins `versatur` and places the
+p. 67 marker before the complete word, while the English marker occupies the
+corresponding position before “providence is concerned.”
+
+The anomalous printed `prædestinanione`, `pæparatione`, `adeo quam`, and
+`imagimen` are retained as `praedestinanione`, `paeparatione`, `adeo quam`, and
+`imagimen` in the normalized Latin and are identified in the English. Twisse's
+sequence `3.` followed by another `2.` is also retained. No printed marginal
+annotation occurs within this unit.
+
+The unit stops at the foot of the left column of printed p. 67 after Twisse's
+sentence ending:
+
+> `… quae quidem necessario requirit permissionem peccati & miseriae.`
+
+It stops immediately before the centered heading `Propositio decima-sexta.`
+at the top of the right column. The next part must therefore begin with
+`Propositio decima-sexta.` and repeat the marker for **first-body printed p. 67
+/ BSB canvas 79**; it must not advance directly to p. 68. The Latin and English
+markers are byte-identical, and the pair remains an AI-assisted, unreviewed
+working draft.
+
+- `parts/part-16-proposition-15-latin.txt`
+- `parts/part-16-proposition-15-english.md`
+
 ## Status
 
-**Parts 01–15 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–16 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 65 of 135,
-a continuation-position estimate of about 48.1% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 67 of 135,
+a continuation-position estimate of about 49.6% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 10.7% of their combined printed-page extent. Because p. 65 is shared
-with the untranslated Proposition XV, these are position estimates, not a
-claim that 65 complete pages—or the same percentage of words—have been
+at about 11.0% of their combined printed-page extent. Because p. 67 is shared
+with the untranslated Proposition XVI, these are position estimates, not a
+claim that 67 complete pages—or the same percentage of words—have been
 reviewed.
 
-No global status ledger or manifest is updated by this Part 15 continuation,
+No global status ledger or manifest is updated by this Part 16 continuation,
 and no claim of human review is made.

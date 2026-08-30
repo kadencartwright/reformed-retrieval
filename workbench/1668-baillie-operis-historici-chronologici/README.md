@@ -441,6 +441,24 @@ and `pdf-208.jpg`, were used for the transcription; OCR served only as an aid.
 The Greek and Hebrew strings and all included printed marginalia are retained.
 The pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 23 boundary and status
+
+Part 23 is a synchronized Latin/English working pair with exactly five markers:
+partial printed pp. 178 and 182 and complete pp. 179–181, IA leaves 208–212,
+access-PDF pp. 208–212, and DjVu OCR objects 207–211. It begins in the right
+column of printed p. 178 immediately after Part 22 with `QUAESTIO XV. De
+Hebdomadâ unâ ejusque dimidio.`, contains Question XV in full, and ends in the
+left column of printed p. 182 after `suo loco demonstrare conabimur.`
+
+`QUAESTIO XVI. An septuaginta Danielis hebdomadae abunde convincant Judaeorum
+pertinaciam, & clarissimè demonstrent jamdudum Messiam venisse in mundum?`
+begins below it in the same column and is wholly excluded. All five controlling
+300-dpi images, `pdf-208.jpg` through `pdf-212.jpg`, were used for the
+transcription; OCR served only as an aid. Page-spanning words were joined and
+placed wholly after the later synchronized marker. The Greek and Hebrew strings,
+Italian and French quotations, and all included printed marginalia are retained.
+The pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -501,6 +519,8 @@ have not been modernized or endorsed.
 - `parts/part-21-book-01-chapter-10-question-13-english.md`
 - `parts/part-22-book-01-chapter-10-question-14-latin.txt`
 - `parts/part-22-book-01-chapter-10-question-14-english.md`
+- `parts/part-23-book-01-chapter-10-question-15-latin.txt`
+- `parts/part-23-book-01-chapter-10-question-15-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -508,7 +528,7 @@ above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
-21, and two for Part 22. There are forty-four current files in twenty-two
-Latin/English pairs, containing 197 synchronized source markers per language
-(394 marker occurrences across all forty-four files). The files remain
-AI-assisted and unreviewed.
+21, two for Part 22, and five for Part 23. There are forty-six current files in
+twenty-three Latin/English pairs, containing 202 synchronized source markers
+per language (404 marker occurrences across all forty-six files). The files
+remain AI-assisted and unreviewed.

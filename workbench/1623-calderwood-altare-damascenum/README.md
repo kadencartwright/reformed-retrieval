@@ -66,9 +66,9 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–28 contain none of the appended documents. Parts 01–26 do not
+prose. Parts 01–29 contain none of the appended documents. Parts 01–26 do not
 reach the embedded Tilenus refutation; Part 27 opens Chapter V by reporting
-and quoting Tilenus’s claims before Calderwood answers them. Parts 07–28 also
+and quoting Tilenus’s claims before Calderwood answers them. Parts 07–29 also
 include long passages that Calderwood expressly quotes from Thomas Brightman,
 Tilenus, Eusebius, Scaliger, Luther, German theologians, Francis Bacon,
 English jurists,
@@ -90,13 +90,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-eight numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the second of Chapter V’s four announced issues,
-ending in the lower portion of printed p. 313, but
+Twenty-nine numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the third of Chapter V’s four announced issues,
+ending in the upper portion of printed p. 318, but
 the inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
-This update does not silently clear those flags: Parts 09–28 begin exactly at
+This update does not silently clear those flags: Parts 09–29 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -129,6 +129,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 26 | Chapter IV: the presiding bishop and chapter close | printed pp. 301–302 / PDFs 313–314, first boundary page partial | 2 paired and image-audited |
 | 27 | Chapter V: English episcopacy, German superintendents, and the royal derivation of jurisdiction | printed pp. 303–310 / PDFs 315–322, last boundary page partial | 8 paired and image-audited |
 | 28 | Chapter V: singular exercise of episcopal jurisdiction | printed pp. 310–313 / PDFs 322–325, both boundary pages partial | 4 paired and image-audited |
+| 29 | Chapter V: delegation of episcopal jurisdiction | printed pp. 313–318 / PDFs 325–330, both boundary pages partial | 6 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -1069,7 +1070,51 @@ both boundaries.
 - Latin: `parts/part-28-chapter-05-singular-exercise-of-episcopal-jurisdiction-latin.txt`
 - English: `parts/part-28-chapter-05-singular-exercise-of-episcopal-jurisdiction-english.md`
 
-All twenty-eight units remain **AI-assisted and unreviewed**. They require
+### Part 29 bounds and evidence
+
+Part 29 resumes exactly after Part 28’s `quantum potest fieri, repudiant` in
+the lower portion of printed p. 313 / IA leaf 325 / PDF p. 325 at:
+
+`Quantum ad tertium, nempe deputationem attinet`
+
+It contains the third of Chapter V’s four announced issues, the delegation of
+episcopal jurisdiction. Calderwood argues that bishops first appropriated the
+jurisdiction of consistories, deanery classis-presbyteries, and chapters, and
+then transferred it to chancellors, commissaries, officials, and other novel
+deputies. He continues Francis Bacon’s critique of delegated episcopal
+judgment, including Bacon’s comparisons with royal jurisdiction and his
+division of ecclesiastical causes. Calderwood then adduces Duarenus, Luther,
+Bilson, Cajetan, and the Replier against Downham while arguing for common
+presbyteral government assisted, where necessary, by jurists. All visible
+marginal citations and quotation boundaries are retained.
+
+Part 29 ends in the upper portion of printed p. 318 / IA leaf 330 / PDF p. 330
+at:
+
+`Atque haec de deputatione jurisdictionis.`
+
+The immediately following paragraph, `Quod ad quartum attinet, extensivam
+nempe Episcoporum potestatem`, opens the fourth announced issue and is
+excluded. This gives Part 29 six identical Latin and English source markers
+and five byte-identical marginalia records. At the p. 313/314 boundary the
+printer-divided `Presby-` / `teriis` is joined, with the incoming marker placed
+before the complete Latin word and the corresponding English word. The p. 314
+catchword `subditos`, p. 315 catchword `Si`, p. 316 catchword `sed`, and p. 317
+catchword `modo` are omitted without duplication; each incoming marker stands
+before the complete word or its corresponding English phrase. The anomalous
+1623 constructions `lites illae majorem numerum conficerent` and `expedit ut
+... periti sunt` are retained and translated closely.
+
+The controlling Internet Archive images for IA leaves 325–330, corresponding
+to access-PDF pp. 325–330, were freshly acquired at full resolution and
+inspected page by page against both files. The IA OCR assisted reading only;
+the 1623 images governed wording, typography, quotations, citations, joins,
+and both boundaries.
+
+- Latin: `parts/part-29-chapter-05-deputation-of-episcopal-jurisdiction-latin.txt`
+- English: `parts/part-29-chapter-05-deputation-of-episcopal-jurisdiction-english.md`
+
+All twenty-nine units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

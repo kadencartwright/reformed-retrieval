@@ -24,6 +24,8 @@ independent English working translation of John Sharp (Johannes Scharpius),
 - `parts/part-07-controversy-07a-faith-alone-arguments-and-fathers-{latin.txt,english.md}`
   — opening of the seventh controversy through its arguments and patristic
   testimonies.
+- `parts/part-08-controversy-07b-objections-01-22-{latin.txt,english.md}` —
+  objections 1–22 in the seventh controversy and Sharp's complete responses.
 
 ## Controlling witness and rights
 
@@ -69,8 +71,8 @@ images remain controlling.
 
 ## Completed extent and continuation boundary
 
-The paired files now cover the witness continuously through the patristic
-testimonies in the seventh controversy:
+The paired files now cover the witness continuously through Objection XXII and
+its response in the seventh controversy:
 
 | Part | Canvases | Image IDs | Printed pages | Extent |
 |---:|---:|---:|---:|---|
@@ -81,13 +83,16 @@ testimonies in the seventh controversy:
 | 05 | 72–93 | 15575044–15575065 | 70–91 | controversy 5 |
 | 06 | 93–98 | 15575065–15575070 | 91–96 | controversy 6 |
 | 07 | 98–105 | 15575070–15575077 | 96–103 | controversy 7 through the patristic testimonies |
+| 08 | 105–116 | 15575077–15575088 | 103–114 | controversy 7, objections 1–22 |
 
-Shared boundary pages occur where one controversy ends and the next begins
-lower on the same page; the editorial boundary notes in the paired files state
-which heading is excluded. Part 07 ends after the fourteenth patristic
-testimony on printed p. 103. The next untranscribed text is the heading
-`OBIECTIONES` lower on that page, followed by the first objection to
-justification by faith alone.
+Shared boundary pages occur where one controversy or coherent subsection ends
+and the next begins lower on the same page; the editorial boundary notes in
+the paired files state which heading is excluded. Part 08 resumes at the exact
+Part 07 boundary with the heading `OBIECTIONES` lower on printed p. 103 and
+carries the seventh controversy through the complete response to Objection
+XXII near the top of printed p. 114. The next untranscribed text is `Obiect.
+XXIII. Si fides sola iustificat, quia relatiuè iustificat`, lower on that same
+page.
 
 ## Witness anomaly
 

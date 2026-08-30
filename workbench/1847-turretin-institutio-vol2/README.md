@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question V
+  Christi Mediatorio*, begun through Question VI
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–62 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–63 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–V,
-from printed p. 3 / PDF 31 through section XIII of Question V on printed p.
-348 / PDF 376. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–VI,
+from printed p. 3 / PDF 31 through section VIII of Question VI on printed p.
+349 / PDF 377. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,319 numbered
-sections across 337 unique numbered text pages and 391 source markers in each
-language (385 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 186,069 whitespace-delimited
-words and the complete English files 253,847, counted over Parts 01–62 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,327 numbered
+sections across 338 unique numbered text pages and 393 source markers in each
+language (387 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 187,131 whitespace-delimited
+words and the complete English files 255,324, counted over Parts 01–63 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -120,6 +120,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 60 | Locus XIV, Question III | printed pp. 339–340 / PDFs 367–368 | VIII | 2 | `part-60-locus-14-question-03-{latin.txt,english.md}` |
 | 61 | Locus XIV, Question IV | printed pp. 340–344 / PDFs 368–372 | XXII | 5 | `part-61-locus-14-question-04-{latin.txt,english.md}` |
 | 62 | Locus XIV, Question V | printed pp. 344–348 / PDFs 372–376 | XIII | 5 | `part-62-locus-14-question-05-{latin.txt,english.md}` |
+| 63 | Locus XIV, Question VI | printed pp. 348–349 / PDFs 376–377 | VIII | 2 | `part-63-locus-14-question-06-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1040,9 +1041,28 @@ controlling facsimile images were audited against both files; the OCR excerpt
 was used only as an aid. No supplementary witness was needed. Question VI
 later on printed p. 348 / PDF 376 is excluded.
 
-Part 62's exact next restart is `QUAESTIO VI. An Christus raptus fuerit in
-Cœlum ante inchoatum publicum Ministerium, ut ibi a Patre doceretur? Neg.;
-contra Socin.` on printed p. 348 / PDF 376.
+Question VI of Locus XIV rejects the Socinian claim that Christ was bodily
+taken into heaven after his baptism to be taught the doctrine he would preach.
+It argues from Scripture's silence, Christ's perfect knowledge according to
+both natures, and the order of his descent and ascent; it then interprets John
+3:13 as a mystical ascent through knowledge of heavenly mysteries, explains
+Christ's descent as his manifestation in the flesh, and answers appeals to his
+being taught by the Father and to the raptures of Moses and Paul, in eight
+sections. It begins at the Question VI heading below section XIII of Part 62
+on printed p. 348 / PDF 376 and ends with section VIII on printed p. 349 / PDF
+377 immediately before Question VII. The Latin and English files contain
+1,062 and 1,477 whitespace-delimited words respectively, counted over each
+complete file with `wc -w`. Both carry both printed-page markers in the same
+sequence and retain all three substantive marginal headings, citations, and
+scan-exact Greek. At the printed pp. 348/349 join, section IV continues between
+`Spiritum sine mensura` and `Joh. iii. 34`. The two controlling facsimile
+images were audited against both files; the OCR excerpt was used only as an
+aid. No supplementary witness was needed. The Question VII heading and body
+on printed p. 350 / PDF 378 are excluded.
+
+Part 63's exact next restart is `QUAESTIO VII. DE OFFICIO CHRISTI PROPHETICO.
+In quo consistat ratio Prophetiæ Christi, seu Quænam partes, et quis modus ejus
+fuerit?` on printed p. 350 / PDF 378.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

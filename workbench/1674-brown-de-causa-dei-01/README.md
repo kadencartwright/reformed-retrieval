@@ -57,8 +57,8 @@ and remain byte-identical to the recorded derivatives; the same locally
 retained derivatives govern Parts 36–37. The access PDF and plain OCR were
 freshly acquired once more for Parts 38–39 on 30 August 2026 and remain
 byte-identical to the recorded derivatives; the same locally retained
-derivatives govern Parts 40–46, with the byte-identical DjVu XML also used as a
-page-structured collation aid for Part 46:
+derivatives govern Parts 40–47, with the byte-identical DjVu XML also used as a
+page-structured collation aid for Parts 46–47:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -102,7 +102,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XIII on logical printed p. 327. Shared-page boundaries
+Chapter XIV on logical printed p. 333. Shared-page boundaries
 preserve each new argumentative unit in the following part rather than
 duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
 275; from that point the continuous logical numbering used in the markers is
@@ -157,6 +157,7 @@ identify the exact images without ambiguity.
 | 44 | Book II, Chapter XI; no human power to determine principal and solemn time | lower part of shared logical printed p. 281 through the upper part of shared logical p. 287 / IA leaves 299–305 / PDF pp. 299–305; visible pp. 299–305; stops before `CAP. XII.` | 7 |
 | 45 | Book II, Chapter XII; the church cannot determine principal and solemn time | lower part of shared logical printed p. 287 through the upper part of shared logical p. 301 / IA leaves 305–319 / PDF pp. 305–319; visible pp. 305–319; stops before `CAP. XIII.` | 15 |
 | 46 | Book II, Chapter XIII; the church cannot institute annual feast days | lower part of shared logical printed p. 301 through logical p. 327 / IA leaves 319–345 / PDF pp. 319–345; visible pp. 319–345; stops before `CAP. XIV.` on p. 328 | 27 |
+| 47 | Book II, Chapter XIV; God alone determines principal, solemn, necessary, and sufficient time | logical printed pp. 328–333 / IA leaves 346–351 / PDF pp. 346–351; visible pp. 346–351; stops before `CAP. XV.` on p. 334 | 6 |
 
 The files are:
 
@@ -206,8 +207,9 @@ The files are:
 - `parts/part-44-book-02-chapter-11-no-human-power-to-determine-{latin.txt,english.md}`
 - `parts/part-45-book-02-chapter-12-church-cannot-determine-{latin.txt,english.md}`
 - `parts/part-46-book-02-chapter-13-annual-feast-days-{latin.txt,english.md}`
+- `parts/part-47-book-02-chapter-14-god-alone-determines-solemn-time-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–46 image audits
+### Part 04 re-audit and Parts 05–47 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1234,6 +1236,38 @@ catchword `CAP.`, and `CAP. XIV.` on logical printed p. 328 are excluded. The
 next untranslated text is therefore `CAP. XIV. Deo soli competit potestas,
 Tempus hoc Solenne Necessarium & Sufficiens determinandi.` on logical printed
 p. 328 / IA leaf 346 / PDF p. 346.
+
+Part 47 is the complete, image-audited fourteenth chapter of Book II, arguing
+that God alone can determine principal, solemn, necessary, and sufficient time.
+Every controlling image from the Chapter XIV heading on PDF 346 through the
+chapter end on PDF 351 was read directly, including all five internal joins;
+PDF 352 was also inspected to verify the outgoing stop before `CAP. XV.` OCR
+and the byte-identical page-structured DjVu XML were used only as collation
+aids. The Latin and English contain the identical six-marker sequence. The
+visible witness numbers these pages 346–351; the markers retain the continuous
+logical sequence 328–333 and record the exact IA leaves and PDF pages. This
+six-page unit is 0.79% of the treatise's 757-page logical extent, below the
+global one-percent cap, and its stop is the exact Chapter XIV/XV boundary.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 346–351. Its general warning about deficient Greek and Hebrew type is
+disclosed in both file headers, and the controlling images govern the Greek
+`τὸ`; no Hebrew or separate substantive marginal gloss occurs. The
+printer-divided word `im-pendere` at the logical pp. 330/331 join is joined with
+the new marker before the complete Latin word and corresponding English phrase.
+The other four joins fall between complete words; running heads, signatures,
+catchwords, the rule, and the Chapter XV heading are omitted. The anomalous
+printed subnumber sequence `1., 2., 3., 4., 6., 6.` in the second argument is
+retained and disclosed rather than silently regularized. All headings, fifteen
+numbered arguments, two objections, citations, quotations, and substantive
+italic distinctions are retained.
+
+The exact Part 47 opening is `CAP. XIV. Deo soli competit potestas, Tempus hoc
+Solenne Necessarium & Sufficiens determinandi.` Its final included words are
+`...praecipuum, & maximum in eo genere.` The rule, signature `Tt 3`, catchword
+`CAP.`, and `CAP. XV.` on logical printed p. 334 are excluded. The next
+untranslated text is therefore `CAP. XV. Temporis Praecipui-Solennis observatio
+est pars cultûs.` on logical printed p. 334 / IA leaf 352 / PDF p. 352.
 
 ## Review and licensing status
 

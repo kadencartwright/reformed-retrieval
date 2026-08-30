@@ -788,6 +788,22 @@ challenge, beginning `2. Secunda etiam ejus necessitas est`, is excluded.
 - English: `parts/part-45-romans-04-05-abraham-21-english.md`
 - Extent: four synchronized markers, printed pp. 254–257 / IA leaves 262–265
 
+## Part 46: twenty-second unit of the Romans 4:5 lecture
+
+Part 46 begins Bellarmine's second specific challenge, that inherent faith,
+hope, and love can become perfect enough to justify. Tuckney gives four
+general replies and answers the first bundle of proofs drawn from tested
+gold, hope as an anchor, and faith's victories, attributing their efficacy
+to Christ rather than to complete inherent perfection. It runs from `2.
+Secunda etiam ejus necessitas est` on printed p. 257 / IA leaf 265 through
+the conclusion of this first bundle on printed p. 259 / IA leaf 267. The
+second class of proofs, beginning `Secundo alia de perfectione illa`, is
+excluded.
+
+- Latin: `parts/part-46-romans-04-05-abraham-22-latin.txt`
+- English: `parts/part-46-romans-04-05-abraham-22-english.md`
+- Extent: three synchronized markers, printed pp. 257–259 / IA leaves 265–267
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

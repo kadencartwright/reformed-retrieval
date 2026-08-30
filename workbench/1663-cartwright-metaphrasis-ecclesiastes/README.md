@@ -1815,3 +1815,57 @@ This unit is bounded by the exact next chapter heading and lemma rather than
 by an arbitrary image count. The next unit begins in the right column of
 reader image `PA249` / printed p. 250 after the dividing rule at `Caput VII`
 and `Vers. 1. Melior est homini fama unguento optimo`.
+
+**Part 81 is complete as an AI-assisted, unreviewed first working draft.** It
+opens Chapter VII and contains the lemma block for verses 1–7, the chapter
+summary and division, and the complete homiletic exposition attached to
+Ecclesiastes 7:1 on reader images `PA249`, `PA251`, `PA253`, and `PA255`. It
+begins in the right column of printed p. 250 after the dividing rule at `Caput
+VII` and `Vers. 1. Melior est homini fama unguento optimo` and ends near the
+top of printed p. 255 immediately before the repeated verse-2 lemma. The
+paired files have four exactly identical reader-image markers and retain the
+comparison of riches with reputation and death, the ninth- and
+eighth-commandment question, the account of the deaths of both the pious and
+the wicked, and the references to Isaiah 39, Proverbs 22:1, and Ecclesiastes
+9:21:
+
+- `parts/part-81-homiliae-chapter-07-verse-01-latin.txt`
+- `parts/part-81-homiliae-chapter-07-verse-01-english.md`
+
+This unit is bounded by the exact repeated verse-2 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA255` / printed
+p. 255 at `Vers. 2. Melius est adire locum luctus`.
+
+**Part 82 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 7:2 lemma and its complete homiletic
+exposition on reader images `PA255` and `PA257`. It begins on printed p. 255
+at `Vers. 2. Melius est adire locum luctus` and ends on printed p. 257
+immediately before the repeated verse-3 lemma. The paired files have two
+exactly identical reader-image markers and retain the meditation on mortality,
+the criticism of purgatory, masses, and indulgences, the examples of biblical
+feasts, the Greek contrast `κωμικῶς` / `τραγικῶς`, and the references to
+Esther 1, Psalm 90, Deuteronomy 8, Job 1, 2 Samuel 13, and Mark 6:
+
+- `parts/part-82-homiliae-chapter-07-verse-02-latin.txt`
+- `parts/part-82-homiliae-chapter-07-verse-02-english.md`
+
+This unit is bounded by the exact repeated verse-3 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA257` / printed
+p. 257 at `Vers. 3. Melior est indignatio risu`.
+
+**Part 83 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 7:3 lemma and its complete homiletic
+exposition on reader image `PA257`. It begins on printed p. 257 at `Vers. 3.
+Melior est indignatio risu`, crosses the printed-page join within
+`certissimum`, and ends on printed p. 258 immediately before the repeated
+verse-4 lemma. The paired files have one exactly identical reader-image marker
+and retain the Greek `παράδοξον`, the comparison of sorrow with water, fire,
+and threshing, and the references to Proverbs 3, Hebrews 12, Matthew 5, Romans
+13, and Luke 6:
+
+- `parts/part-83-homiliae-chapter-07-verse-03-latin.txt`
+- `parts/part-83-homiliae-chapter-07-verse-03-english.md`
+
+This unit is bounded by the exact repeated verse-4 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA257` / printed
+p. 258 at `Vers. 4. Animus sapientum erit in loco luctus`.

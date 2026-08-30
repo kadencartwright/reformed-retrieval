@@ -572,21 +572,62 @@ working draft.
 - `parts/part-17-proposition-16-latin.txt`
 - `parts/part-17-proposition-16-english.md`
 
+## Part 18: exact authorial boundary
+
+Part 18 begins with centered `Propositio Decima-septima.` lower in the shared
+right column of **first-body printed p. 69 / BSB canvas 81** and contains
+Proposition XVII in full: Arminius's question whether eternal punishment was
+prepared for those passed over and left in nature, Junius's reply, Arminius's
+four-part distinction, and Twisse's complete response concerning the three
+opinions, divine permission, necessary and free action, and the distinction
+between providence and predamnation. It continues through **first-body printed
+p. 71 / BSB canvas 83**, with three synchronized source markers.
+
+At the first join the printer divides `ele-` / `ctioni`; the normalized Latin
+joins `electioni` and places the p. 70 marker before the complete word, while
+the English marker occupies the corresponding position before “is opposed to
+election.” At the second join the p. 70 catchword `habuisse` is omitted and the
+p. 71 marker precedes the full opening `habuisse suspicaretur`; the English
+marker correspondingly precedes “had suspected.”
+
+The anomalous printed `per decretam de quo agimus`, `in eo actu quod ipsum si
+fit`, `miseriae mundum ingrediatur`, `At credo minime negaturus fuerat`, and
+`vim obtinere universalis` are retained in the normalized Latin and identified
+or rendered contextually in the English. Twisse's response preserves the
+printed sequence `2.`, `3.`, `2.`, `4.` No printed marginal annotation occurs
+within this unit.
+
+The unit stops in the right column of printed p. 71 after Twisse's sentence
+ending:
+
+> `… cum potius istius sententiae constitutio primanos sapiat quam
+> tertianos.`
+
+It stops immediately before the centered headings `Propositio Decima-octava.`
+and `SECTIO PRIMA` lower in the same column. The next part must therefore begin
+with those headings and repeat the marker for **first-body printed p. 71 / BSB
+canvas 83**; it must not advance directly to p. 72. The Latin and English
+markers are byte-identical, and the pair remains an AI-assisted, unreviewed
+working draft.
+
+- `parts/part-18-proposition-17-latin.txt`
+- `parts/part-18-proposition-17-english.md`
+
 ## Status
 
-**Parts 01–17 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–18 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 69 of 135,
-a continuation-position estimate of about 51.1% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 71 of 135,
+a continuation-position estimate of about 52.6% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 11.3% of their combined printed-page extent. Because p. 69 is shared
-with the untranslated Proposition XVII, these are position estimates, not a
-claim that 69 complete pages—or the same percentage of words—have been
+at about 11.7% of their combined printed-page extent. Because p. 71 is shared
+with the untranslated Proposition XVIII, these are position estimates, not a
+claim that 71 complete pages—or the same percentage of words—have been
 reviewed.
 
-No global status ledger or manifest is updated by this Part 17 continuation,
+No global status ledger or manifest is updated by this Part 18 continuation,
 and no claim of human review is made.

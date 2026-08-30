@@ -417,6 +417,20 @@ patristic testimonies, `Tantum adhuc expendenda restant`, is excluded.
 - English: `parts/part-21-romans-01-17-justification-20-english.md`
 - Extent: six synchronized markers, printed pp. 139–144 / IA leaves 147–152
 
+## Part 22: twenty-first unit of the Romans 1:17 lecture
+
+Part 22 evaluates Bellarmine's appeal to Jerome and Augustine for excluding
+only pre-faith works from justification. It runs from `Tantum adhuc
+expendenda restant quaedam Patrum` on printed p. 144 / IA leaf 152 through
+the conclusion of Tuckney's response to the patristic testimonies on printed
+p. 149 / IA leaf 157. The following discussion of potentially misleading
+statements by Reformed theologians, `Restant quaedam etiam Theologorum
+nostrorum dicta`, is excluded.
+
+- Latin: `parts/part-22-romans-01-17-justification-21-latin.txt`
+- English: `parts/part-22-romans-01-17-justification-21-english.md`
+- Extent: six synchronized markers, printed pp. 144–149 / IA leaves 152–157
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

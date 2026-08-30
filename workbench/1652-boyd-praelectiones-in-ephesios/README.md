@@ -54,6 +54,7 @@ same scan can legitimately close one part and open the next:
 | 09 | IX | 69–71 | 27–29 | `In versum 8, &c.` through `dicta sunto` before Lecture X |
 | 10 | X | 71–75 | 29–33 | `Sequitur jam versu proximo, pars ejusdem secunda` through `de ipsâ recollectione dicta sunto` |
 | 11 | XI | 75–80 | 33–38 | `Quod ad secundum membrum attinet` through its concluding `Amen` |
+| 12 | XII | 80–85 | 38–43 | `In Versum 11. ac 12.` and `Dictum nobis suprà suo loco` through `quam cum discrimine veritatis aliquo judicare` before Lecture XIII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -104,8 +105,9 @@ English translation:
 | 09 | Effectual calling and spiritual wisdom | [`part-09-praelection-09-effectual-calling-latin.txt`](parts/part-09-praelection-09-effectual-calling-latin.txt) | [`part-09-praelection-09-effectual-calling-english.md`](parts/part-09-praelection-09-effectual-calling-english.md) |
 | 10 | The mystery of God’s will and recapitulation in Christ | [`part-10-praelection-10-mystery-and-recapitulation-latin.txt`](parts/part-10-praelection-10-mystery-and-recapitulation-latin.txt) | [`part-10-praelection-10-mystery-and-recapitulation-english.md`](parts/part-10-praelection-10-mystery-and-recapitulation-english.md) |
 | 11 | The scope and time of recapitulation | [`part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt) | [`part-11-praelection-11-scope-and-time-of-recapitulation-english.md`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-english.md) |
+| 12 | Inheritance in Christ and the counsel of God’s will | [`part-12-praelection-12-inheritance-and-divine-purpose-latin.txt`](parts/part-12-praelection-12-inheritance-and-divine-purpose-latin.txt) | [`part-12-praelection-12-inheritance-and-divine-purpose-english.md`](parts/part-12-praelection-12-inheritance-and-divine-purpose-english.md) |
 
-The completed sequence now extends through Lecture XI. Its successive subjects
+The completed sequence now extends through Lecture XII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -132,6 +134,14 @@ times. Its concluding observations treat effectual calling, faith as a
 spiritual gift, the sufficiency and depth of Scripture, wisdom joined to
 Christian practice, the unity of the Church militant and triumphant under
 Christ alone, and patient hope for the final consummation.
+Lecture XII then begins the special application of Ephesians 1:11–12 to
+believing Jews. It expounds their being allotted an inheritance in Christ,
+the typology of Israel’s allotted land, the relation of inheritance to
+adoption, and eternal predestination as the source of effectual calling. It
+then examines God as the one who works all things according to the counsel of
+his will, distinguishes divine counsel from creaturely deliberation, and
+weighs restricted and providential readings of “all things” while denying
+that divine providence makes God the author of sin.
 
 ## Validation
 

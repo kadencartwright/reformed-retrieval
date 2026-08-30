@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–08 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–09 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -85,8 +85,10 @@ portion of printed p. 103 / canvas 113. Part 07 completes Article II, Chapter
 II, from its heading lower on that page through the end of the first argument
 in the upper portion of printed p. 109 / canvas 119. Part 08 completes Article
 II, Chapter III, from its heading lower on that page through the end of the
-second argument near the top of printed p. 120 / canvas 130. The files are
-divided as follows:
+second argument near the top of printed p. 120 / canvas 130. Part 09 completes
+Article II, Chapter IV, from its heading lower on that page through the end of
+the third argument on printed p. 124 / canvas 134. The files are divided as
+follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -103,6 +105,8 @@ divided as follows:
 - Part 08: Article II, Chapter III, canvases 119–130 / printed pp. 109–120;
   only the lower portion of canvas 119 and the upper portion of canvas 130
   belong to this unit.
+- Part 09: Article II, Chapter IV, canvases 130–134 / printed pp. 120–124;
+  only the lower portion of canvas 130 belongs to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -147,6 +151,21 @@ and `Rom. 6. 7. 8. & 11. 1. 2. 7.`—are retained rather than silently repaired.
 - Both Part 08 files contain twelve synchronized source markers for BSB
   canvases 119–130 / printed pp. 109–120.
 
-The next untranslated unit begins with `CAP. IV. Argumentum tertium. Pag.
-185.` and `Pro quibus Christus est proprie mortuus, eorum loco sic mortuus
-est` lower on printed p. 120 / BSB canvas 130.
+Part 09 answers the third argument: properly dying for someone entails dying
+in that person's place as surety, transferring the deserved death to oneself,
+and saving that person from it. It begins with `CAP. IV. Argumentum tertium.
+Pag. 185.` and `Pro quibus Christus est proprie mortuus, eorum loco sic
+mortuus est` lower on printed p. 120 / canvas 130 and ends with `...quum
+nondum formassem te in utero, agnovi te.` near the bottom of printed p. 124 /
+canvas 134. The witness's distinct forms `Isaiae 53. 5. 6. 7.` and `Iesai. 46.
+4.` are retained, as are its Isaiah 46:4 citation and wording.
+
+- Latin: `parts/part-09-article-02-chapter-04-latin.txt`
+- English: `parts/part-09-article-02-chapter-04-english.md`
+- Both Part 09 files contain five synchronized source markers for BSB
+  canvases 130–134 / printed pp. 120–124.
+
+The next untranslated unit begins with `CAP. V. Argumentum quartum, Pag. 187.`
+and `Omnes illi, pro quibus Christus est mortuus, possunt libere dicere, quis
+condemnat? Christus est pro nobis mortuus.` at the top of printed p. 125 / BSB
+canvas 135.

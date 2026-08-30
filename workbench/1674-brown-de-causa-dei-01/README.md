@@ -41,8 +41,9 @@ Part 04 re-audit and Parts 05–10 work on 19 August 2026. The plain OCR, DjVu X
 and scan-data XML remain byte-identical to the Part 01 captures. Internet
 Archive now serves a regenerated access PDF, so its current checksum is
 recorded separately rather than silently replacing the earlier evidence. All
-four derivatives were acquired again for Parts 14–16 on 29 August 2026 and
-were byte-identical to this most recently recorded set:
+four derivatives were acquired again for Parts 14–16 on 29 August 2026. They
+were freshly acquired once more for Parts 17–18 on 30 August 2026 and were
+byte-identical to this most recently recorded set:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -85,9 +86,10 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the conclusion of Chapter XIII in the upper part of
-printed p. 177. Shared-page boundaries preserve each new argumentative unit in
-the following part rather than duplicating it.
+printed p. 1 through the end of Brown's reply to Burmann's three alleged
+dangerous consequences in the upper part of printed p. 184. Shared-page
+boundaries preserve each new argumentative unit in the following part rather
+than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -107,6 +109,8 @@ the following part rather than duplicating it.
 | 14 | Chapter XIII continuation; immediate and mediated morality | shared printed p. 163 through the opening lines of shared p. 166 / IA leaves 181–184 / PDF pp. 181–184; stops before `Ex dictis colligit tria praeceptorum genera` | 4 |
 | 15 | Chapter XIII continuation; further moral categories and circumstances | shared printed p. 166 through the opening lines of shared p. 170 / IA leaves 184–188 / PDF pp. 184–188; stops before `In sequenti Paragrapho` | 5 |
 | 16 | Chapter XIII remainder; external acts and moral terminology | shared printed p. 170 through the upper part of shared p. 177 / IA leaves 188–195 / PDF pp. 188–195; stops before `CAP. XIV.` | 8 |
+| 17 | Chapter XIV opening; positive determination and the morality of actions | shared printed p. 177 through the upper part of shared p. 182 / IA leaves 195–200 / PDF pp. 195–200; stops before `Periculosam tamen esse hanc sententiam` | 6 |
+| 18 | Chapter XIV continuation; three alleged dangerous consequences | shared printed p. 182 through the upper part of shared p. 184 / IA leaves 200–202 / PDF pp. 200–202; stops before `Novi hoc non arridere adversario nostro` | 3 |
 
 The files are:
 
@@ -126,8 +130,10 @@ The files are:
 - `parts/part-14-book-01-chapter-13b-immediate-mediated-morality-{latin.txt,english.md}`
 - `parts/part-15-book-01-chapter-13c-further-moral-categories-{latin.txt,english.md}`
 - `parts/part-16-book-01-chapter-13d-external-acts-and-moral-terminology-{latin.txt,english.md}`
+- `parts/part-17-book-01-chapter-14a-positive-determination-{latin.txt,english.md}`
+- `parts/part-18-book-01-chapter-14b-three-alleged-dangers-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–16 image audits
+### Part 04 re-audit and Parts 05–18 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -455,6 +461,56 @@ Chapter XIV on the remainder of printed p. 177 are excluded. The next
 untranslated text is therefore `CAP. XIV. An Lex ulla Moralis, propter annexam
 determinationem positivam, fiat Lex purè positiva.` on shared printed p. 177 /
 IA leaf 195 / PDF p. 195.
+
+Part 17 is a coherent, image-audited opening unit of Chapter XIV. It contains
+Brown's general question whether a positive determination removes the morality
+of a law, his account of the divine command as the source of moral character,
+and his replies to Burmann's first series of arguments from ceremonial laws.
+Every controlling image from the Chapter XIV heading on PDF 195 through the
+opening lines of PDF 200 was read directly, including the incoming shared-page
+boundary after Part 16 and all five internal page joins. The rest of PDF 200
+was also inspected to verify the outgoing stop before `Periculosam tamen esse
+hanc sententiam`. OCR was used only as a collation aid. The Latin and English
+contain the identical six-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+177–182. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the page images govern `λόγια ζῶντα`, `παροξυσμόν`, and `καλὰ ἢ
+ὠφέλιμα τοῖς ἀνθρώποις`. No Hebrew or separate substantive marginal gloss
+occurs. Repeated catchwords at all five page joins are omitted and placed only
+after the new marker. All headings, quotations, citations, numbered replies,
+and substantive italic distinctions are retained. The exact Part 17 opening
+is `CAP. XIV. An Lex ulla Moralis, propter annexam determinationem positivam,
+fiat Lex purè positiva.` Its final included words are `...& aliquando
+strictiùs, aliquando latiùs.` The following paragraph is excluded; at this
+handoff the next untranslated text was `Periculosam tamen esse hanc sententiam
+tribus aliis rationibus ostendere conatur Pag. 27, 28.` on shared printed p.
+182 / IA leaf 200 / PDF p. 200.
+
+Part 18 is a coherent, image-audited continuation of Chapter XIV containing
+Brown's replies to Burmann's three alleged dangerous consequences: Jewish
+works-righteousness, the confusion of carnal tyranny with piety, and the
+imposition of a yoke upon consciences. Every controlling image from
+`Periculosam tamen esse hanc sententiam` on PDF 200 through the upper part of
+PDF 202 was read directly, including both internal page joins; the remainder
+of PDF 202 was also inspected to verify the outgoing stop. OCR was used only
+as a collation aid. The Latin and English contain the identical three-marker
+sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+182–184. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the page images govern `σαρκικὴ τυραννὶς` and `ἐπάναγκες`. No
+Hebrew or separate substantive marginal gloss occurs. The printer-divided
+words `obedientiam` and `Ecclesiarum` at the two page joins are joined with the
+new marker before the complete word or corresponding English phrase. All
+quotations, citations, numbered replies, and substantive italic distinctions
+are retained. The exact Part 18 opening is
+`Periculosam tamen esse hanc sententiam tribus aliis rationibus ostendere
+conatur Pag. 27, 28.` Its final included words are `...vel in specie, vel in
+individuo tantum.` The following paragraph is excluded. The next untranslated
+text is therefore `Novi hoc non arridere adversario nostro: Nam multis illud,
+quòd praeceptum tollat indifferentiam actûs, impugnare studet Pag. 22. & 23.`
+on shared printed p. 184 / IA leaf 202 / PDF p. 202.
 
 ## Review and licensing status
 

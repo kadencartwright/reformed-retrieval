@@ -595,6 +595,29 @@ placed wholly after the later synchronized marker, and the Greek strings and
 all included printed marginalia are retained. The pair remains an AI-assisted,
 unreviewed draft and is not publication-ready.
 
+## Part 31 boundary and status
+
+Part 31 is a synchronized Latin/English working pair with exactly four markers:
+partial printed pp. 207 and 210 and complete pp. 208–209, IA leaves 237–240,
+access-PDF pp. 237–240, and DjVu OCR objects 236–239. It begins in the left
+column of printed p. 207 immediately after Part 30 with `Eurydice, Aridei Regis
+uxor, ex Cyna Alexandri sorore nata ...`. It continues through Eurydice’s
+removal of Python, Antipater’s settlement and death, the complete defeat and
+death of Eumenes, the conflict of Olympias and Cassander, Ptolemy’s and
+Demetrius’s Syrian campaigns, Seleucus’s return to Babylon, and the nominal
+peace among Alexander’s five surviving commanders. It ends in the right column
+of printed p. 210 after Cassander and Polysperchon have Alexander IV, Roxane,
+Heracles, and Barsine killed and the author concludes `Ita tota Alexandri, tota
+Philippi familia eradicata est.`
+
+The next paragraph, `Polysperchon infamis senecio in tenebris posteà vixit &
+mortuus est ...`, begins immediately below and is wholly excluded. All four
+controlling 300-dpi page images governed the transcription; OCR served only as
+an aid. The words divided at the p. 207/p. 208, p. 208/p. 209, and p. 209/p. 210
+boundaries were joined and placed wholly after the later synchronized marker,
+and the Greek strings and all included printed marginalia are retained. The
+pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -671,6 +694,8 @@ have not been modernized or endorsed.
 - `parts/part-29-book-01-chapter-10-question-21-english.md`
 - `parts/part-30-book-01-chapter-11a-alexanders-succession-latin.txt`
 - `parts/part-30-book-01-chapter-11a-alexanders-succession-english.md`
+- `parts/part-31-book-01-chapter-11b-eumenes-and-the-argead-fall-latin.txt`
+- `parts/part-31-book-01-chapter-11b-eumenes-and-the-argead-fall-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -679,8 +704,8 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
-three each for Parts 26 and 27, two for Part 28, ten for Part 29, and five for
-Part 30. There are sixty current files in thirty Latin/English pairs,
-containing 234 synchronized source markers per language (468 marker
-occurrences across all sixty files). The files remain AI-assisted and
-unreviewed.
+three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
+30, and four for Part 31. There are sixty-two current files in thirty-one
+Latin/English pairs, containing 238 synchronized source markers per language
+(476 marker occurrences across all sixty-two files). The files remain
+AI-assisted and unreviewed.

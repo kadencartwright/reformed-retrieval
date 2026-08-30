@@ -336,6 +336,37 @@ marginalia in this unit; the Augsburg copy's faint handwritten
 jottings are copy-specific annotations absent from the controlling witness and
 are therefore excluded.
 
+**Part 13 is the complete fourth chapter of Book III.** It begins with the
+`CAPUT IV` heading on printed p. 175, after the `CAPUT` catchword at the foot
+of printed p. 174. It continues through point `21` and the end of the chapter
+on shared printed p. 190, stopping immediately before Chapter V:
+
+- e-rara canvases 185–200 / printed pp. 175–190;
+- same-impression Augsburg comparison canvases 199–214;
+- Book III, Chapter IV, *De Antichristo, Lib. 3 de Pontif.*;
+- next unit: Chapter V, *De Antichristo. Argumenta nostra*, beginning on
+  shared printed p. 190.
+
+The paired files carry sixteen identical source markers. The five words split
+in the running text at page boundaries—`Christum` (pp. 175/176), `adventum`
+(pp. 179/180), `aliquot` (pp. 183/184), `chimaera` (pp. 184/185), and
+`Hierusalem` (pp. 186/187)—are joined and placed wholly after the incoming
+marker in both files. The bottom-of-page forms `stum` (p. 175), `veniunt` (p.
+176), `omnes` (p. 177), `revelatio` (p. 178), `ventum` (p. 179), `Imperii` (p.
+180), `Iohann-` (p. 181), `intel-` (p. 182), `quot` (p. 183), `maera` (p. 184),
+`17. Bell.` (p. 185), `salem` (p. 186), `simili-` (p. 187), `vel` (p. 188),
+and `totius` (p. 189) are catchwords rather than additional or duplicated text
+and are excluded. The shared-page endpoint preserves the whole chapter
+without absorbing the `CAPUT V` heading or its following text. The controlling
+and comparison images agree throughout the chapter's setting. The witness's
+forms and sequences `2. Cor. 12.3.` on printed p. 179, `Marc.
+cap. 1. vers. 2.40.` and `Arias Motanus` on printed p. 182, `Paulus non
+intelligit` on printed p. 178, and the jump from point `3` to point `5` on
+printed pp. 180–181 are retained rather than silently regularized. The Greek
+`ἕτερον`, `ἐκεῖνος`, `ὁ ἄνθρωπος`, `ὁ υἱὸς ἀνομίας`, and `πᾶς ὁ` on printed
+pp. 176–177 have been checked directly against both copies. There are no
+printed authorial marginalia in this unit.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -379,6 +410,8 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-10-book-03-chapter-01-english.md`
 - `parts/part-11-book-03-chapter-02-latin.txt`
 - `parts/part-11-book-03-chapter-02-english.md`
+- `parts/part-13-book-03-chapter-04-latin.txt`
+- `parts/part-13-book-03-chapter-04-english.md`
 
 ## Part 12 paired text: Book III, Chapter III
 

@@ -68,6 +68,7 @@ same scan can legitimately close one part and open the next:
 | 23 | XXIII | 130, 133–137 | 88–93 | `Sequitur nunc ut ejus effecta sive consequentia attingamus` through the distinction between effects and consequences, divine desertion, reprobation's conditions and comparison with election, three uses, and rules for judging persons, ending `à salutis limine arceamus aut excludamus` before Lecture XXIV; scans 131–132 are redundant captures of printed pages 87–88 and are not separately transcribed |
 | 24 | XXIV | 137–142 | 93–98 | `Atque hucusque totam Prædestinationis doctrinam` through the division of opposing arguments and the first three objections against predestination—concerning the decree's absoluteness, universal saving will, and universal redemption—and their answers, ending `nec veritatis appositæ lumen, nedum oppositæ limam aut collidentis aut elidentis impetum ferre possint` before Lecture XXV |
 | 25 | XXV | 142–148 | 98–104 | `Nunc & quartam objectionem in medium afferamus` through the fourth and fifth objections in the first class, the transition to the alleged impelling causes of election, and the arguments from foreseen faith, works, and Christ's merit, ending `sed ejus potiùs effectum sive consequens, ut ex se manifestum est` before Lecture XXVI |
+| 26 | XXVI | 148–151 | 104–107 | `Atque hactenus rejecta argumenta, pro falsis Electionis nostræ causis προηγουμέναις allata` through replies concerning Romans 9, the alleged impelling cause of reprobation, Hosea 13:9, unbelief, and divine hatred, followed by the transition to objections concerning the means of execution and the recalled objection about Christ's mediation, ending `nihil hîc repetemus in præsentiâ` before Lecture XXVII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -132,8 +133,9 @@ English translation:
 | 23 | The effects and consequences of reprobation | [`part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt) | [`part-23-praelection-23-effects-and-consequences-of-reprobation-english.md`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-english.md) |
 | 24 | Objections against predestination | [`part-24-praelection-24-objections-against-predestination-latin.txt`](parts/part-24-praelection-24-objections-against-predestination-latin.txt) | [`part-24-praelection-24-objections-against-predestination-english.md`](parts/part-24-praelection-24-objections-against-predestination-english.md) |
 | 25 | Immutability and the alleged causes of election | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt) | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md) |
+| 26 | The alleged impelling cause of reprobation | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-latin.txt) | [`part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md`](parts/part-26-praelection-26-alleged-impelling-cause-of-reprobation-english.md) |
 
-The completed sequence now extends through Lecture XXV. Its successive subjects
+The completed sequence now extends through Lecture XXVI. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -303,6 +305,19 @@ election. Its scriptural answers distinguish election in Christ from present
 union by faith, eternal favor from actual acceptance in justification, the
 signs and effects of election from its cause, and the meritorious cause of
 justification from the antecedent cause of God's decree.
+Lecture XXVI completes the second class of objections by defending the
+personal and eternal sense of Romans 9 while distinguishing the typological
+destinies of Jacob and Esau's peoples from the destinies of every individual
+within them. It then rejects sin, unbelief, and divine hatred as antecedent or
+impelling causes of reprobation. Its answers distinguish the evil of guilt
+from penal evil, a producing cause from a permissive and ordering principle,
+temporal destruction from the eternal decree, and the execution of
+reprobation from its cause. An extended examination of Hosea 13:9 compares
+the Vulgate, Hebrew, Targum, Septuagint, and early modern interpretations. The
+lecture closes by explaining that condemnation necessarily presupposes sin
+even though sin does not move God to make the decree, interpreting God's
+hatred of Esau as rejection rather than passion, and briefly transitioning
+to the third class of objections before Lecture XXVII.
 
 ## Validation
 

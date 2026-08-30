@@ -666,21 +666,65 @@ byte-identical, and the pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-19-proposition-18-latin.txt`
 - `parts/part-19-proposition-18-english.md`
 
+## Part 20: exact authorial boundary
+
+Part 20 begins with the centered heading `Propositio decimanona.` on the shared
+left column of **first-body printed p. 77 / BSB canvas 89** and contains
+Proposition XIX in full. Arminius argues from the identity of the subject of an
+eternal decree and its temporal execution; Junius distinguishes reprobation,
+preterition, and condemnation and answers from saving grace; and Twisse gives
+his complete response concerning immanent and external acts, the causes of
+particular stages in a decree's execution, the order of intention and
+execution, and the difference between a sinner preceding the communication of
+grace and the consideration of sin preceding the decree to communicate it. The
+unit continues through **first-body printed p. 79 / BSB canvas 91**, with three
+synchronized source markers.
+
+At the p. 77–78 join the catchword `hoc` is omitted and the p. 78 marker
+precedes the full opening `hoc tamen`; the English marker correspondingly
+precedes “nothing is more feeble.” At the p. 78–79 join the partial catchword
+`com-` is omitted and the Latin marker precedes the full p. 79 opening
+`communicare`, while the English marker correspondingly precedes
+“communicate.”
+
+The unusual printed forms `qui damnatur ut peccator, ita est praedestinatus`,
+`non solum cum homine Angelo`, `actuum quae constat`, `non praeterire
+statuisse`, `nusquam meminit decretum damnandi`, `nihil est consequentiis quam
+inconsequentissimis`, `bonoruum`, `excutione`, `patte`, `dipositiva`, `aut
+ingenii est mutabilis`, and `tanquam peccatore` are retained in the normalized
+Latin rather than silently regularized; the English renders their contextual
+sense. No printed marginal annotation occurs within this unit.
+
+The unit stops in the upper left column of printed p. 79 after Twisse's
+sentence ending:
+
+> `… Tales per me semper habeat schola Arminiana professores cathedratos.`
+
+It stops immediately before the centered headings `Propositio 20.` and
+`SECTIO PRIMA` lower in the same column. The next part must therefore begin
+with those headings and repeat the marker for **first-body printed p. 79 / BSB
+canvas 91**; it must not advance directly to p. 80. The Latin and English
+markers are byte-identical, and the pair remains an AI-assisted, unreviewed
+working draft.
+
+- `parts/part-20-proposition-19-latin.txt`
+- `parts/part-20-proposition-19-english.md`
+
 ## Status
 
-**Parts 01–19 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–20 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 77 of 135,
-a continuation-position estimate of about 57.0% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 79 of 135,
+a continuation-position estimate of about 58.5% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 12.6% of their combined printed-page extent. Because p. 77 is shared
-with the untranslated Proposition XIX, these are position estimates, not a
-claim that 77 complete pages—or the same percentage of words—have been
+at about 13.0% of their combined printed-page extent. Because p. 79 is shared
+with the untranslated Proposition XX, these are position estimates, not a
+claim that 79 complete pages—or the same percentage of words—have been
 reviewed.
 
-No global status ledger or manifest is updated by this Part 19 continuation,
+No global status ledger or manifest is updated by this Part 20 continuation,
 and no claim of human review is made.

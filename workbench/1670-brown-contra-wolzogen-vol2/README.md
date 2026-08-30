@@ -157,6 +157,25 @@ complete sentence `Nos interea pergimus.` in the upper portion of printed p.
 excluded. Its paired files contain fourteen synchronized markers for printed
 pp. 118–131.
 
+## Part 09 boundary and source map
+
+Part 09 is Brown’s complete `ASSERTIO IX`, arguing that the people’s election
+does not by itself constitute a pastor and that, in ordinary cases, lawful
+calling also requires an authoritative ordination and separation by ministers.
+It begins in the lower portion of printed p. 131 / ONB canvas 139, presents
+twenty-two arguments, compares the contrary position with Socinian writers,
+and answers seven objections, including the extended final objection concerning
+the Reformers’ ordinations and ecclesiastical succession. It ends with the
+complete transition `Ex his huic objectioni satisfactum esse puto. de hâc
+assertione satis. Sequitur,` in the upper portion of printed p. 155 / ONB
+canvas 163. The following heading, `ASSERTIO X`, and its text are excluded. Its
+paired files contain twenty-five synchronized markers for printed pp. 131–155.
+The exact next untranslated boundary is `ASSERTIO X. Hæc ordinatio, separatio,
+missio potestativa, ac constitutio pastoris, à plebe non fit, sed ab
+antecessoribus ecclesiasticis, instrumentaliter scil.` The heading and first
+clause begin in the lower portion of printed p. 155 / ONB canvas 163, and the
+sentence finishes on printed p. 156 / ONB canvas 164.
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -195,6 +214,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-07-instituted-worship-and-spiritual-priesthood-english.md`
 - `parts/part-08-sacraments-and-lawful-ministers-latin.txt`
 - `parts/part-08-sacraments-and-lawful-ministers-english.md`
+- `parts/part-09-lawful-calling-and-ordination-latin.txt`
+- `parts/part-09-lawful-calling-and-ordination-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

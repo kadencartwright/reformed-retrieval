@@ -459,6 +459,45 @@ placed wholly after the later synchronized marker. The Greek and Hebrew strings,
 Italian and French quotations, and all included printed marginalia are retained.
 The pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 24 boundary and status
+
+Part 24 is a synchronized Latin/English working pair with exactly six markers:
+partial printed pp. 182 and 187 and complete pp. 183–186, IA leaves 212–217,
+access-PDF pp. 212–217, and DjVu OCR objects 211–216. It begins in the left
+column of printed p. 182 immediately after Part 23 with `QUAESTIO XVI. An
+septuaginta Danielis hebdomadae abunde convincant Judaeorum pertinaciam, &
+clarissimè demonstrent jamdudum Messiam venisse in mundum?`, contains Question
+XVI in full, and ends in the left column of printed p. 187 after `nedum ut cum
+Tito in ullum foedus devenerit.`
+
+`QUAESTIO XVII. Quid de temporibus trium ultimorum Prophetarum Haggaei,
+Zachariae, & Malachiae statuendum?` begins at the top of the right column and
+is wholly excluded. All six controlling 300-dpi images, `pdf-212.jpg` through
+`pdf-217.jpg`, were used for the transcription; OCR served only as an aid.
+Page-spanning words were joined and placed wholly after the later synchronized
+marker. The Greek strings and all included printed marginalia are
+retained. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
+## Part 25 boundary and status
+
+Part 25 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 187 and 189 and complete p. 188, IA leaves
+217–219, access-PDF pp. 217–219, and DjVu OCR objects 216–218. It begins in the
+right column of printed p. 187 immediately after Part 24 with `QUAESTIO XVII.
+Quid de temporibus trium ultimorum Prophetarum Haggaei, Zachariae, & Malachiae
+statuendum?`, contains Question XVII in full, and ends in the left column of
+printed p. 189 after `neque heri, neque nudius tertius in ecclesiâ natae sunt
+audaces fabellae.`
+
+`QUAESTIO XVIII. Qui concilientur primum Zachariae versu duodecimo cum Jeremia
+vigesimi quinti undecimo & duodecimo ...?` begins below it in the same column
+and is wholly excluded. All three controlling 300-dpi images, `pdf-217.jpg`
+through `pdf-219.jpg`, were used for the transcription; OCR served only as an
+aid. The Greek and Hebrew strings, the page-spanning marginalium, and all other
+included printed marginalia are retained. The pair remains an AI-assisted,
+unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -521,6 +560,10 @@ have not been modernized or endorsed.
 - `parts/part-22-book-01-chapter-10-question-14-english.md`
 - `parts/part-23-book-01-chapter-10-question-15-latin.txt`
 - `parts/part-23-book-01-chapter-10-question-15-english.md`
+- `parts/part-24-book-01-chapter-10-question-16-latin.txt`
+- `parts/part-24-book-01-chapter-10-question-16-english.md`
+- `parts/part-25-book-01-chapter-10-question-17-latin.txt`
+- `parts/part-25-book-01-chapter-10-question-17-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -528,7 +571,7 @@ above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
-21, two for Part 22, and five for Part 23. There are forty-six current files in
-twenty-three Latin/English pairs, containing 202 synchronized source markers
-per language (404 marker occurrences across all forty-six files). The files
-remain AI-assisted and unreviewed.
+21, two for Part 22, five for Part 23, six for Part 24, and three for Part 25.
+There are fifty current files in twenty-five Latin/English pairs, containing
+211 synchronized source markers per language (422 marker occurrences across
+all fifty files). The files remain AI-assisted and unreviewed.

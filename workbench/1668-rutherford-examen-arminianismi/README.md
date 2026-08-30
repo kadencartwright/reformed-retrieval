@@ -1488,3 +1488,33 @@ complete argumentative structures.
 
 - Latin: `parts/part-59-chapter-15b-latin.txt`
 - English: `parts/part-59-chapter-15b-english.md`
+
+**Part 60 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 665 / PDF 714 at the question whether every church of Christ
+on earth can totally and finally fail, without repeating Part 59's closing
+Socinian citations. It contains that complete question and three further
+complete questions: whether the doctrine of the marks of the church is useless
+and harmful; whether the profession of saving faith and external observance of
+Christ's commandments are the church's only marks; and whether the Reformed
+wrongly make the preaching of true doctrine a mark of the church. It ends with
+Chapter XV at the foot of printed p. 680 / PDF 729. The heading and opening of
+Chapter XVI are excluded and form the exact restart for Part 61. The pair has
+sixteen byte-identical synchronized markers for partial p. 665 and complete
+pp. 666–680. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all sixteen included frames, the shared-page
+opening, every page join, all four complete questions and their numbered and
+distinction structures, biblical, patristic, and polemical citations, Greek,
+and the absence of Hebrew and substantive marginalia. The printed errata has
+no applicable correction. The split words `momento`, `jure`, `profitentur`,
+`prædicatum`, `constituitur`, and the two occurrences of `Verbum` are joined
+with their new-page markers before the whole words and their English
+equivalents. The witness's skipped argument number 5, its `vera ei doctrina`,
+the Greek `κριτήριον`, and difficult or irregular forms and citations,
+including `mariantur`, `Rex nullâ potestate regiâ instructus`, `JOAN. 10.28.`,
+`Apoc. 2.10.`, `Act. 4.32.`, and `Ecclesiæ quâ veræ`, are retained or disclosed
+rather than silently regularized. The English follows the Latin at clause
+level while preserving the four complete question structures, technical
+distinctions, analogies, and Chapter XV's clean endpoint.
+
+- Latin: `parts/part-60-chapter-15c-latin.txt`
+- English: `parts/part-60-chapter-15c-english.md`

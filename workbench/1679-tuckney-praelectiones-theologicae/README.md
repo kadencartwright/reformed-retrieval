@@ -675,6 +675,23 @@ Socinus insistit) loco ἐφ' ᾧ πάντες ἥμαρτον evinci poterit`, 
 - English: `parts/part-38-romans-04-05-abraham-14-english.md`
 - Extent: three synchronized markers, printed pp. 234–236 / IA leaves 242–244
 
+## Part 39: fifteenth unit of the Romans 4:5 lecture
+
+Part 39 gives Tuckney's grammatical inquiry into `ἐφ' ᾧ πάντες ἥμαρτον` in
+Romans 5:12. It compares the renderings `in whom`, `because`, and `insofar
+as`; surveys patristic, Reformation, and Socinian interpreters; tests the
+syntax against Greek examples; and concludes that either construction can
+bear the doctrine of original sin when read within Paul's argument. It runs
+from numbered point 3, `Videamus etiam, annon hoc idem ex illo (cui Socinus
+insistit) loco ἐφ' ᾧ πάντες ἥμαρτον evinci poterit`, on printed p. 237 / IA
+leaf 245 through the grammatical conclusion on printed p. 242 / IA leaf
+250. The contextual proof beginning `1. Ut observavit Chrysostomus` is
+excluded.
+
+- Latin: `parts/part-39-romans-04-05-abraham-15-latin.txt`
+- English: `parts/part-39-romans-04-05-abraham-15-english.md`
+- Extent: six synchronized markers, printed pp. 237–242 / IA leaves 245–250
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

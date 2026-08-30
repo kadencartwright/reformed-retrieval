@@ -1,0 +1,525 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumquintum, De Ecclesia, Ejusque Notis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes within shared printed p. 644 at the question
+whether a New Testament church entirely without presbyters possesses the power
+of the keys, without repeating Part 58's closing analogy of a painted man. It
+contains that complete question, including the preliminary distinctions and
+assertions, objections concerning Acts 1 and 6 and Colossians 4:17, and the
+six-argument demonstration that the keys were not committed to the whole body
+of believers. It then contains the complete allied question whether the
+Remonstrants rightly identify the true church by agreement in the faith and
+profession of necessary truth. It ends within printed p. 665 after the Socinian
+citations. The following question whether every church of Christ can totally
+and finally fail is excluded and forms the exact restart for Part 60. Printer
+line-end and page-end divisions have been joined; each new-page marker precedes
+the whole word at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: The Greek phrases are retained in normalized Greek script.
+No Hebrew or substantive marginal note occurs in this unit. The witness's
+visible duplicate page number `646` on logical p. 647 is recorded in the source
+marker. Difficult or irregular forms and citations, including `cap. 5. vers.
+22.`, `1 Tim. 5. 22.`, `Col. 4.11.`, `quovus`, `usque, qui`, `Rom. 12.14.`, and
+the unnumbered `thes.` citation on p. 665, are retained rather than silently
+regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 644 | PDF p. 693 | resumes at Quaeritur, An sit in Novo Testamento Ecclesia]
+
+Quæritur, An sit in Novo Testamento Ecclesia omnibus Presbyteris destituta,
+cui Dominus Salvator potestatem clavium commisit? ut volunt Remonst. Apol. c.
+22. fol. 233.
+
+Ad hanc Quæstionem solvendam, has distinctiones præmittimus. 1. Est
+Ministerium quoddam ordinarium, quoddam extraordinarium. 2. Est quædam
+Ecclesia Mystica, ex solis fidelibus fidem profitentibus conflata; & est
+quædam Ecclesia Ministerialis, ex grege & Pastoribus. 3. Ecclesia potest dici
+talis per anticipationem, ut Hos. 12.12. Jaakob servivit pro uxore, n. futurâ;
+Vel Ecclesia dicitur talis formaliter, quia est jam in esse suo constituta.
+
+[1668 KBNL/UvA witness | logical printed p. 645 | PDF p. 694]
+
+Assertio 1. Datur interdùm Ecclesia Mystica prior Ministeriali. 1. Quia domus
+esse potest, priusquàm œconomis & servis instruatur. 2. Adamus & Eva ordine
+naturæ priùs faciebant Ecclesiam Mysticam, quàm esset in eo cœtu Ministerium
+Ecclesiasticum.
+
+Assertio 2. Publicum Ministerium ordinarium, est priùs quàm Ecclesia Mystica
+credentium. Eph. 4.11. Alios dedit Pastores, Doctores v. 12. πρὸς τὸν
+καταρτισμὸν τῶν ἁγίων εἰς ἔργον διακονίας, ad compactionem sanctorum, ad opus
+ministerii, &c. Quia enim per Ministerium & prædicationem Verbi, homines
+credunt, Rom. 10.14. ideò Ministerium præcedit cœtum credentium. 2. Necesse est
+ordine naturæ, Patres priores sint, quàm filios gignant, & semen sit quàm
+enascatur planta: Pastores autem Patres sunt, Verbum prædicatum semen Ecclesiæ
+Mysticæ.
+
+Ut autem hoc exactiùs discutiatur, sciendum est Ecclesiam illam Mysticam, quæ
+destituta sit Pastoribus & Presbyteris, neque claves sibi à Christo commissas
+habere, neque ullam ordinariam potestatem ordinandi Presbyteros. Quibus duobus
+demonstratis etiam enervata erunt argumenta, quibus Separatistæ & Sociniani,
+unà cum Arminianis, contendunt, cœtum fidelium Presbyteris destitutum, esse
+illam Ecclesiam, cui Dominus Salvator claves regni cœlorum commisit.
+
+Assertio 1. Christus Jesus immediatè, sine ullâ
+
+[1668 KBNL/UvA witness | logical printed p. 646 | PDF p. 695 | split word joined: interveniente]
+
+interveniente potestate, ascendens in cœlos, Ecclesiæ Presbyteros instituit.
+Eph. 4.11, 12. 1 Cor. 12.18. quamvis designatio talium personarum ad officium,
+fiat mediante Presbyterio. 1 Tim. 4.14. & cap. 5. vers. 22.
+
+Assert. 2. Non negandum, quin sit in cœtu fidelium potestas virtualis, licèt non
+formalis, in casu necessitatis supplendi defectum Ordinationis per Electionem
+popularem: Quod fit, si cœtus fidelium sit in aliquâ insulâ ab omnibus
+Pastoribus remotâ. 1. Quia si David citra omnem revelationem à cœlo, in extremâ
+necessitate panem propositionis comederit (quippe, omnis Lex positiva cedit
+naturali) tùm possunt fideles destituti Pastoribus, eligere sibi Pastores. 2.
+Ità probant Theologi, tùm Protestantes tùm Pontificii; ut Voetius, in desperatâ
+causâ Papatus. lib. 2. sect. 5. cap. 5. Ità Flavianus & Diodorus, Antiochiæ
+prædicârunt, nullo sacerdotio instructi, ut ait Theodoretus lib. 2. cap. 24.
+Interdùm enim Deus (inquit Gerson part. 2. serm. 2. post Paschata) solet facere
+immediatam intermissionem ordinariæ vocationis per Pastores. De quibus plura
+videre est apud Viguerium in Instit. Theol. cap. 15. Paragr. 1. Suarezium tom.
+2. cap. 2. Vasquezium in primam secundæ, disput. 179. cap. 2. Sotum de Justif.
+lib. 2. quæst. 3. art. 8.
+
+Assert. 3. Ratus & stabilitus à Christo ordo vocandi Pastores, est per alios
+Pastores, adeòque
+
+[1668 KBNL/UvA witness | logical printed p. 647 (visible 646) | PDF p. 696]
+
+per successionem Pastorum.
+
+1. 1 Tim. 5.22. Nemini citò manus imponito. 1 Tim. 4.14. Neque negligas donum,
+quod tibi collatum est per prophetiam, cum impositione manuum Presbyterii.
+
+2. Quia praxis Apostolica nobis hâc in re, regula est certissima. Non enim
+legimus in N. Test. ullos presbyteros ordinatos à solo cœtu fidelium, destituto
+Presbyteris, quinimò semper ordinationem factam à Pastoribus. Act. 1.15, 16.
+Act. 6. 2, 3, 4. Act. 14.23. 1 Cor. 3.6. 1 Tim. 4.14. Tit. 1.5. Hoc autem
+fatentur Separatistæ, eò quòd cura omnium Ecclesiarum Apostolis imposita fuit.
+
+3. Si Ordinatio Pastorum, juxta canones Apostoli, imposita sit Presbyteris, quâ
+Presbyteris; tùm ea cura non demandata est cœtui fidelium, quâ tali. Atqui prius
+verum. Ergo, etiam posterius. Major certa est, quia non potest aliquid imperari
+virtute officii, quod præstandum incumbit iis, qui nullo officio instructi sunt
+in Ecclesiâ. Probatur Assumptio. Quia 2 Tim. 2.1, 2. eâ prorsùs potestate data
+est Timotheo, ac proindè aliis etiam Pastoribus & Presbyteris, potestas
+committendi Ministerium fidis hominibus, qui alios docere possunt, quâ vetatur
+Timotheus immiscere se negotiis hujus seculi, ut sit probatus Deo miles, v. 5.
+& quâ jubetur alios etiam admonere, nè de verbis contendant, & dividere Verbum
+rectè,
+
+[1668 KBNL/UvA witness | logical printed p. 648 | PDF p. 697 | split word joined: tanquam]
+
+tanquam operarius qui non erubescat, v. 14, 15. Atqui hæc imponuntur Timotheo,
+quâ Pastori. Sic etiam 1 Tim. 5.17. ostendit honorarium debitum fidis
+προϊσαμένοις; vetat etiam, nè admittat testimonium adversus Presbyterum, nisi
+sub duobus aut tribus testibus v. 19. nè cuivis Pastori manus citò imponat, v.
+22. Tit. 1. vult Paulus, ut Titus, quâ Pastor, ordinet Presbyteros in singulas
+civitates; vult ut reprehendat Cretenses authoritate Pastorali. Absurdum autem
+est, quod omnes & singuli de plebe admoneantur ipsis deberi honorarium, tanquam
+operariis, ipsorum esse non admittere accusationem adversus Presbyterum, &
+imponere manus deliberatè aut temerè Pastoribus, nec non in singulis civitatibus
+ordinare Presbyteros, & authoritate pastorali reprehendere tales, quales
+fuerunt Cretenses.
+
+4. Speciale argumentum Adversariorum elumbe est; Ergo, & ipsa sententia. Prob.
+Ant. Quia fingunt Ordinationem Pastorum per Pastores, esse successionem
+Papisticam. Verùm ipsi coguntur admittere perpetuam successionem credentium, &
+quidem localem, etiam à temporibus Apostolorum: Negant enim aliquem legitimè
+ordinatum esse à Pastoribus, nisi qui à credentibus ordinatus sit. Deindè, nos
+minimè tuemur successionem Pastorum absolutè perpetuam; agnoscimus enim,
+interrumpi posse, & deficientibus Pastoribus, Electionem à plebe factam in casu
+
+[1668 KBNL/UvA witness | logical printed p. 649 | PDF p. 698 | split word joined: necessitatis]
+
+necessitatis, supplere defectum Ordinationis per Pastores. 3. Non propugnamus
+successionem Pastorum localem, cathedralem, & semper ab Apostolorum temporibus
+eminenter visibilem.
+
+Sed objiciunt, Christum, Matth. 16. & Matth. 18. contulisse plebi credentium,
+claves regni cœlorum. Ergo, etiam potestatem ordinandi Pastores. Resp. Quamvis
+Antecedens verum esset, non magis sequi tamen, conferri plebi potestatem
+ordinandi, quàm potestatem prædicandi & administrandi Sacramenta. Quid? quia
+plebi commissæ sunt claves; Ergo, etiam possunt exercere quoslibet actus
+Jurisdictionis & Ordinis? nullo modo sequitur. 2. Antecedente nihil falsius est:
+nec expressè, nec per ullam consequentiam habetur in Scripturis, Claves collatas
+esse cœtui credentium. Nam Matth. 16. Petro per claves datas, collatum est à
+Christo, aperire fores regni cœlorum, ligare & solvere in terris, Verbum &
+Sacramenta administrando: Hoccinè verò datum est cœtui Christianorum?
+
+Obj. 2. Act. 1. Centum & viginti homines suffragia tulisse in ordinatione
+Matthiæ Apostoli. Resp. Hoc non esse in textu, sed fuisse in eo conventu centum
+& viginti. Dicitur quidem v. 23. statuerunt igitur duos; Sed hæc verba referri
+debent, non ad integrum cœtum, sed ad Apostolos enumeratos, v. 13. & ad verba
+vers. 17. annumerabatur quidem nobiscum, nempe, cum Apostolis.
+
+[1668 KBNL/UvA witness | logical printed p. 650 | PDF p. 699 | split word joined: Neque]
+
+Neque series contextûs ordinationem hanc refert in suffragia omnium &
+singulorum.
+
+Ad locum Act. 1. Objiciunt Adversarii, confusionem sequi non minùs ex nostro
+Presbyteriali regimine, quàm ex Democratico; dicitur enim v. 23. statuerunt
+igitur duos, nempe centum & viginti illi; & Act. 6.5. Universa multitudo statuit
+septem Diaconos coram Apostolis: & Apostoli v. 6. loquuti sunt & orârunt. Quando
+igitur centum & viginti statuerunt duos, necesse est loquuti fuerint. Num verò
+omnes conjunctim & simul loquuti sunt? At hæc confusio vetatur. 1 Cor. 14. Num
+Fœminæ loquutæ? At hoc vetatur v. 34. Num pueri? at hoc impossibile. Sic Act.
+6. Num omnes 12. Apostoli conjunctim loquuti sunt, & simul etiam preces
+vocalitèr Deo fuderunt? Hæc etiam confusio. An universa multitudo statuens 7.
+Diaconos, etiam loquuta est simul? Minimè verò. Talibus autem phrasibus, pueri
+& fœminæ prorsùs excluduntur: Cur non etiam omnes alii, exceptis Presbyteris?
+Et quoniam omnes Presbyteri conjunctim loqui non possunt absque maximâ
+confusione, cur non omnes excluduntur, excepto uno Præsule? Et is solus erit
+Ecclesia, adeòque Papa!
+
+Resp. 1. Hoc argumentum nostræ sententiæ imprimis favet, quia centum & viginti.
+Act. 1. & universa multitudo. Act. 6. non possunt conjunctim manus imponere
+Diaconis aut Pastoribus,
+
+[1668 KBNL/UvA witness | logical printed p. 651 | PDF p. 700 | split word joined: præsertim]
+
+præsertim si Ecclesia Visibilis constet ex 3000. profitentibus Christum, uti est
+Act. 2. Necesse, ergo, est, ordinis causâ, ut selectæ quædam personæ, i.e.
+προϊστάμενοι, & Presbyteri manus imponant, ordinentque Pastores, adeòque omnia
+publica negotia Ecclesiæ administrent: Et hæc nostra est Ecclesia
+repræsentativa, quam Separatistæ tantoperè impugnant tanquam merum Judaismum.
+Pueri enim & mulieres sunt pars Ecclesiæ redemptorum: Atqui illos exclusos
+volunt Adversarii. Claves, ergo, commissæ sunt à Christo, etiam ipsis
+fatentibus, cœtui repræsentativo. 2. Matth. 18. Si non audiret Ecclesiam, nempe,
+loquentem & sententiam ferentem, sit tibi veluti Ethnicus & Publicanus. Atqui
+tota Ecclesia i.e. omnes & singuli, pueri & mulieres, non possunt omnino loqui
+in Ecclesiâ, neque conjunctim loqui. Ergo, eo loci vox Ecclesiæ non significat
+cœtum redemptorum coëuntium ad unum cœtum visibilem, ad sacra peragenda; nisi
+velint pueros & mulieres numero redemptorum, & in sacrâ synaxi sacra
+peragentium, numero excludi. Et hoc est agnoscere Ecclesiam repræsentativam
+nobiscum.
+
+Unicum autem locum pro exercitio Disciplinæ Ecclesiasticæ, ab universo populo
+præstito, citant. Col. 4.11. Et dicite Archippo, vide ut ministerium quod
+accepisti à Domino, impleas. Ergo, universus populus (inquiunt) nim.
+
+[1668 KBNL/UvA witness | logical printed p. 652 | PDF p. 701 | split word joined: Colossensium]
+
+Colossensium sanctorum, ad quos scribit, exercet potestatem Jurisdictionis in
+Pastores admonendo; Ergo etiam ordinando & excommunicando.
+
+Resp. Καὶ εἴπατε Ἀρχίππῳ, Ergo, judicialitèr & authoritativè dicite Archippo:
+non sequitur à genere ad speciem affirmativè. Sic Matth. 18.17. Εἰπὲ τῇ
+ἐκκλησίᾳ. Nùm ergo, unus quisque privatus exercet authoritatem in totam
+Ecclesiam. Joan. 8.48. Judæi dixerunt Jesu; Ergo, dixerunt authoritate. 1 Joan.
+1.8. Si dixerimus nos non habere peccatum. 2. Patres, Augustinus, Chrysostomus,
+Ambrosius, Hieronymus; 3. Scholastici, Aquinas, Suarez, Bannez, Gregorius de
+Valentiâ, dicunt hanc admonitionem Archippi esse fraternam correptionem, non
+actum Jurisdictionis. Cajetanus ait, actum correctionis elici à prudentiâ,
+imperari à misericordiâ. And. Duvallius ait esse actum non solùm juris divini,
+sed etiam naturalis, errantem fratrem corripere & admonere, ut Lev. 19.17. Hos.
+2.1. Atqui hinc minimè colligitur universum cœtum Colossensium, potestatem
+Jurisdictionis in Archippum habuisse.
+
+Quod verò Claves regni cœlorum, universo cœtui Fidelium minimè commissæ sint à
+Christo, his argumentis demonstramus.
+
+1. Isti Ecclesiæ Claves datæ sunt, quæ Petræ inædificata est, tanquàm familiæ
+Sapientiæ, Prov. 9.1. domui Dei, 1 Tim. 3.13. Heb. 3.4. idque per doctrinam
+Prophetarum & Apostolorum
+
+[1668 KBNL/UvA witness | logical printed p. 653 | PDF p. 702 | split word joined: prædicatam]
+
+prædicatam à Doctoribus & Pastoribus Ecclesiæ ædificandæ datis. Eph. 4.11.
+Atqui hæc domus non est cœtus fidelium aliquo modo unitorum & destitutus
+Presbyteris; sed Ecclesia Ministerialis. Ergo, &c. Prob. Minor. Cœtus destitutus
+Pastoribus & Presbyteris non est domus ædificata per Ministerium Pastorum &
+Presbyterorum; quia materia domûs non est ipsa domus. Siquidem enim deest ipsis
+potestas prædicandi Verbum & administrandi Sacramenta, deest potestas Clavium.
+At ubi deest potestas Clavium, ex Adversariis, ibi non est Ecclesia Visibilis.
+Si enim inædificatio Petræ promissa sit Ecclesiæ Visibili ex Matth. 16. non
+potest alia ædificatio hic intelligi, quàm ea quæ fit per Pastores & Doctores,
+Eph. 4.11.
+
+2. Iis promissæ sunt Claves, qui sunt dispensatores mysteriorum Dei, 1 Cor.
+4.1. qui sunt servi familiæ, ex officio. 2 Cor. 4.5. & quorum est aperire &
+claudere fores, & rectè se gerere in domo Dei, 1 Tim. 3.15. & portionem singulis
+in familiâ distribuere opportunè. Matth. 24.45. & verbum rectè dividere. 2 Tim.
+2.15. Atqui cœtus profitentium fidem Christi, & fœdere quovus unitus, Pastoribus
+tamen & dispensatoribus destitutus, non sunt dispensatores Mysteriorum Dei,
+&c. Ergo, tali cœtui, Pastoribus destituto, non sunt datæ Claves. Assumptionem
+non negant Adversarii, neque probatione eget. Major probatur ex
+
+[1668 KBNL/UvA witness | logical printed p. 654 | PDF p. 703 | split word joined: Phraseologiâ]
+
+Phraseologiâ Scripturæ. Isa. 22.22. Superimponam humeris ejus clavem domûs
+Davidis; eo aperiente, nemo claudet; & claudente, nemo aperiet. Consensu omnium
+Interpretum, datio Clavium est, (ut Musculus in locum) insigne acceptæ
+potestatis. Oeconomo & Præposito domus, commendantur claves, quibus potestatem
+suam administret. Ità Calvinus in Comment. ibid. Gualth. hom. 114. Claves
+symbolum potestatis; Regibus claves offerunt. Junius: Plenam administrationem
+notat. Beza in Annot. mag. in locum. Matth. 16. Potestas Ministrorum notatur.
+Pareus in locum, Domûs meæ faciam te Oeconomum. Hieronymus in Jes. 22. Clavis
+potestas excellentiæ est. Sic Augustinus, Chrysostomus, Fulgentius, docent
+Matth. 16. potestatem ligandi & solvendi, Apostolis & Ministris datam, nomine
+Clavium significari. Ità Jesai. 9.6. Gubernatio super humeris ejus, i.e.
+consensu omnium Interpretum, Claves Davidis ei datæ sunt; Apoc. 3.7. Hæc
+loquitur is, qui habet clavem Davidis, qui aperit & nemo claudit, & claudit &
+nemo aperit. Apoc. 1.18. Habeo claves inferni & mortis. Apoc. 9.1. Angelo data
+clavis putei abyssi. Quibus omnibus locis, omnium Interpretum consensu,
+significatur Oeconomica potestas collata Regibus, Præpositis, Ecclesiarum
+Rectoribus, usque, qui ex officio Dispensatores sunt. Tales verò, minimè sunt
+Fideles destituti Pastoribus.
+
+3. Iis in hoc textu Matth. 16. Claves dantur,
+
+[1668 KBNL/UvA witness | logical printed p. 655 | PDF p. 704]
+
+quibus ex mandato Christi, exercitium Clavium, ligando, solvendo, aperiendo,
+claudendo fores regni cœlorum, i.e. Verbum prædicando & Sacramenta
+administrando, datur. Atqui hoc exercitium ex Christi mandato, datur solis
+Apostolis & Ministris in Petri personâ; non autem cœtui fidelium, destituto
+Pastoribus. Major patet in textu; Eidem personæ, cui datur potestas Clavium, ei
+ex speciali mandato datur exercitium, v. 19. Et tibi dabo claves regni cœlorum.
+Ecce confertur potestas. Et iidem dicit, Quicquid ligaveris in terrâ, erit
+ligatum in cœlis &c. Ecce illic confertur exercitium utendi Clavibus. Deindè,
+si Christus alludit ad locum, Isa. 22.22. quod planum est in textu; tùm certum
+est, per claves, potestatem officialem & dispensatoriam notari. Deindè non
+extat luculentum testimonium, quo probetur potestas Clavium collata Pastoribus,
+quâ talibus, si nobis eripiatur hic locus. Non ergo, hic notatur potestas
+collata Petro in personâ credentium, adeòque omnibus credentibus: quod enim
+confertur credentibus, quâ credentibus, id non potest simul conferri
+Pastoribus; quia sæpenumerò contradictio est inter credentes & Pastores,
+tanquàm inter credentes & non-credentes. Deindè hic locus idem planè est cum
+loco Matth. 28.19. & loco, Joan. 20.23. Atqui iis in locis, potestas
+administrandi Sacramenta, & Baptizandi, data est. Deindè ligare & solvere,
+
+[1668 KBNL/UvA witness | logical printed p. 656 | PDF p. 705 | split word joined: actus]
+
+actus sunt Jurisdictionis & officialis potestatis in Scripturâ communicati cum
+solis Principibus, Rectoribus, & Pastoribus populi & Ecclesiæ Dei. Non ergo,
+communicati sunt cum omnibus fidelibus. Prob. Ant. Isa. 52. & 49.9. ubi
+Christus dicitur solvere incarceratos. Ità multis aliis Scripturæ locis. Psal.
+105.27. Jud. 15.10. Psal. 149.8. Matth. 22.13. Act. 21.11. Act. 22.4. Mar. 3.
+Quibus in locis, ligare potestatem officialem, Rectorum propriam, significat.
+Ità & solvere, Lev. 14.7. Psal. 102.20. Jer. 40.4. Psal. 105.20. Act. 2.24. Rom.
+7.2. 1 Cor. 7.27. Apoc. 20.7. Apoc. 9.15. Job. 12.18.
+
+4. Si Christus neque Matth. 16. neque Matth. 18. dicit, se conferre Claves
+quoad potestatem & exercitium, cœtui fidelium, Rectoribus destituto; tùm in N.
+Test. non sunt ulla testimonia, quibus hæc potestas collata fidelibus
+comprobetur. Atqui posterius verum. Ergo & prius. Major patet, quia hisce
+tantùm duobus testimoniis probari contendunt, commissas esse Claves cœtui
+fidelium. Nam Matth. 16.18. loquens de Ecclesiâ inædificatâ Petræ, cum
+immutatione personarum, sermonem convertit ab ipsâ ad Petrum v. 19. Et tibi
+(Petre, non Ecclesiæ inædificatæ Petræ) dabo claves regni cœlorum. Quod verò
+dicunt claves datas Petro, quâ repræsentanti fideles, quia fidelium nomine
+confessionem illam insignem edidit, non verò quâ repræsentanti
+
+[1668 KBNL/UvA witness | logical printed p. 657 | PDF p. 706 | split word joined: Collegium]
+
+Collegium Rectorum, omninò nihil est. 1. Quia Claves non datæ sunt Fidelibus,
+quâ talibus, & quâ Sponsæ Christi, sed quâ profitentibus fidem Petri, juxta
+Adversarios, & quâ tali fœdere unitis. Non ergo, propter illam confessionem,
+sed propter professionem illius confessionis. Sed quæro de istâ professione,
+propter quam claves datas esse volunt cœtui fidelium, Sitnè sincera & vera
+confessio, an non? Si prius, omnes baptizati à non sincerè profitentibus
+Pastoribus, sunt baptizati à non habentibus potestatem, & sunt rebaptizandi. 2.
+Qui excommunicatus est, clave non errante, à decem non sincerè profitentibus
+fidem, in Ecclesiam tamen Visibilem unitis, non est ligatus in cœlis; quia
+ligatus est in terris à non-habentibus potestatem. Hoc autem est absurdum,
+aliquem justè ligatum in terris ab Ecclesiâ, non esse etiam ligatum in cœlis.
+3. Quia Adversarii volunt, potestatem Clavium, partem esse libertatis, sanguine
+Christi redemptis partæ. At verò, non sincerè profitentes fidem, numero
+redemptorum accensendi non sunt. Si verò professio non sincera faciat Ecclesiam
+Visibilem habentem potestatem clavium; tùm claves non sunt commissæ à Christo
+Ecclesiæ inædificatæ Petræ, contra quam portæ inferorum non prævalebunt. Nihil
+enim proclivius juxta Scripturam, quàm cœtum non sincerè profitentium Christum,
+posse, & tempore tentationis, actu deficere
+
+[1668 KBNL/UvA witness | logical printed p. 658 | PDF p. 707]
+
+à Christo; & contra talem Ecclesiam, portas inferorum prævalere.
+
+Similitèr Matth. 18.19. Christus cum mutatione personarum, convertit sermonem
+ab Ecclesiâ, de quâ, v. 17. ad Apostolos v. 18. Quæ vos ligatis in terris,
+ligata erunt in cœlis. Et tota ista concio, ut constat ex initio illius capitis,
+facta est Discipulis seu Pastoribus.
+
+Sed sic etiam argumentantur; Tot hominibus promissæ sunt claves regni, quot
+inædificati sunt Petræ, uti Adversarii argumentantur. Atqui hæc major in textu
+neque est expressè; neque per consequentiam. 2. Est & hæc major falsa, quia
+Ecclesia invisibilis inædificata est Petræ, & à Christo nunquam deficiet. At
+verò negant Adversarii, Ecclesiæ invisibili datas esse claves; imò volunt, soli
+Visibili, quâ tali, datas esse.
+
+Quod verò Christus Matth. 16. alloquatur Petrum, quâ repræsentantem Rectores,
+non Fideles, patet. 1. Quia potestas Clavium, ex Adversariis, negata est quam
+plurimis, nempe, mulieribus & pueris, qui tamen hanc confessionem Petri, non
+minùs quàm Apostolus Petrus, edunt. 2. Si credentes quatenùs hanc confessionem
+Petri præstant, & quatenùs inædificati sunt Petræ, sunt illa Ecclesia, quæ est
+audienda, & quæ habet potestatem officialem ligandi & solvendi; tùm Ecclesia
+Ministerialis tam immunis est à defectione & Apostasiâ, quàm cœtus electorum &
+
+[1668 KBNL/UvA witness | logical printed p. 659 | PDF p. 708]
+
+verè credentium; quod cum experientiâ & scripturis pugnat. Nam septem illæ
+Ecclesiæ Asiaticæ, necnon Romana, Corinthiaca, Galatica, Thessalonicensis,
+Philippensis, quæ tamen omnes fuerunt Ecclesiæ Ministeriales, donatæ potestate
+Clavium, à Petrâ Christo defecerunt, & in graves & capitales errores ac
+horrendam Idololatriam prolapsæ sunt. At verò nos Pontificios hoc nomine
+accusamus, præsertim Gretserum de Inaug. Doctoratûs Lutheri, pag. 29. Bellarm.
+de Authoritate Concil. lib. 2. cap. 2. Suarez, de 3. Virt. disp. de Ecclesiâ.
+Gregorium de Valentiâ, tom. 3. Hosium in Conf. Pol. Johannem de Turrecremata,
+de Ecclesiâ. lib. 1. cap. 24. & 25. quod ex hoc contextu Matth. 16. velint
+astruere infallibilitatem, & ἀναμαρτησίαν Ecclesiæ Visibilis & Ministerialis.
+Et certè eorum argumentum in fundamentalibus punctis, validum est, si ii,
+quibus datæ sunt claves nunquam deficere possint à Christo, & si Ministerialis
+Ecclesia habens potestatem Clavium, talis sit Cœtus, qui nunquam deficiet à
+Christo. 3. Quibus datæ sunt claves, ex hisce contextibus, ii repræsentant
+personam & vicem ipsius Christi, adeò ut de iis dicatur, Qui vos spernit, me
+spernit; qui vos honorat, me honorat; quod expressè de Ministris dicitur,
+Matth. 10.40. Et de hâc Ecclesiâ dicitur Matth. 16.19. Quodcunque ligaveritis
+in terris, erit ligatum in cœlis; Atque ità, qui habent hanc potestatem, sunt
+
+[1668 KBNL/UvA witness | logical printed p. 660 | PDF p. 709 | split word joined: cooperarii]
+
+cooperarii Dei, & Legati Christi. Atqui nusquàm in Scripturis legimus, omnes
+credentes esse Dei Legatos, & omnes contemptores omnium fidelium, Christi
+nomine ligantium & solventium, esse ipsius Christi contemptores.
+
+5. Ii quibus Claves commissæ sunt, authoritativè remittunt & retinent peccata,
+eorumque actus validi sunt in cœlis, quemadmodùm homines credunt & resipiscunt,
+vel non credunt & resipiscunt; uti nostri Theologi docent contra Sacramentalem
+Absolutionem. Atqui cœtus credentium destitutus Presbyteris, nullam talem
+potestatem authoritativam habet. Ergo &c.
+
+Respondent Adversarii, etiam credentes, qui nec Pastores nec Presbyteri sunt,
+habere potestatem remittendi peccata. Matth. 18.21. Quoties, inquit Petrus,
+frater meus me offenderit, ego autem ei condonabo? Lucæ 17.3, 4. 2 Cor. 2.10.
+
+Resp. 1. Ad locum 2 Cor. 2.10. de eo esse quæstionem præsentem, & intelligendum
+de potestativâ remissione Ecclesiæ, quæ incestuosum excommunicaverat. 1 Cor. 5.
+2. Multùm inter se differunt, privata condonatio offensæ inter fratrem &
+fratrem, & publica, & authoritativa. Argumentum verò nostrum procedit de
+authoritativâ condonatione; Nam prior est actus charitatis, Lege naturæ
+imperatus; obligans omnes etiam extra Ecclesiam Visibilem, imò etiam
+excommunicatos, quibus ablata est potestas
+
+[1668 KBNL/UvA witness | logical printed p. 661 | PDF p. 710 | split word joined: Clavium]
+
+Clavium; non enim Excommunicatio exsolvit homines vinculo Legis Naturæ omnes
+obligante. Matth. 6.12, 14, 15. Matth. 5.44, 45. At verò publica & authoritativa
+condonatio Ecclesiæ, est juris positivi. 2. Privata condonatio etiam circa
+inimicos nostros fieri debet, neque nos ulcisci, sed & Deo vindictam committere
+debemus, sive pars offendens resipiscat sive non. Neque rata est in cœlis
+privata condonatio, nec ad eam quis in manifestâ injuriâ tenetur, quandò non
+resipiscit pars offendens, Lucæ 17.4. nisi quantùm ad Vindictæ omissionem Rom.
+12.14. & charitatis communis exhibitionem ibid. v. 20. Et sic Ecclesia minimè
+tenetur condonare offendenti parti non-resipiscenti, imò non potest non
+retinere peccata, non-resipiscentium à peccatis. Petrus autem, quâ privatus, à
+fratre privato offensus, debet centiès condonare, si frater offendens
+resipiscat; Lucæ 17.4. Verùm Petrus hoc facit nullâ potestate Clavium; imò
+potest privatim, quantùm ad se attinet, condonare peccata illius, quæ ligata &
+retenta sunt ab Ecclesiâ excommunicante in terris, & etiam à Deo in cœlis.
+
+6. Iis duntaxat claves commissæ sunt, qui habent Pauli Spiritum pastoralem
+citandi, examinandi, sententiam ferendi, & Satanæ tradendi. Atqui fideles,
+destituti Pastoribus, non habent Spiritum Pauli pastoralem; non enim possunt
+
+[1668 KBNL/UvA witness | logical printed p. 662 | PDF p. 711]
+
+isto spiritu publicè concionari, aut Sacramenta administrare. Fatentur itaque
+nonnulli Separatistæ vi hujus argumenti, nonnullos, etiam omni potestate
+pastorali destitutos, posse Sacramenta administrare; quod certè sequitur ex
+eorum doctrinâ. Si enim cœtus fidelium destitutus Pastoribus, sit Ecclesia
+Visibilis in suo esse integro constituta; nulla est ratio, quin omnes actus
+specificos clavium, inter quos præcipui sunt Verbum prædicare & Sacramenta
+administrare, quilibet Fidelium exercere possit. Est tamen hæc opinio, non
+tantùm Anabaptistarum, sed & etiam Arminianorum, in suâ Confess. cap. 21. &
+etiam Socinianorum. Ità Socinius, tractatu de Ecclesiâ cap. 1. fol. 140. &
+Catech. Racov. cap. 11. fol. ——
+
+Notatu tamen dignum est, quod Christus Matth. 18.16, 17. alloquatur Discipulos
+vers. 1. Et eodem tempore veniebant ad Christum discipuli, dicentes; Quisnam
+maximus in regno Dei? Iis v. 18. dicit, Amen, dico vobis, quæcunque ligaveritis
+in terris; & hic locus exponendus est per Matth. 16. ubi Claves restrictiori
+modo, Petro soli, referenti Collegium Rectorum, dantur. Nam eædem Claves, quæ
+ligant & solvunt in uno loco, remittunt & retinent peccata in altero loco, quæ
+proculdubio commissæ sunt Dispensatoribus Ecclesiæ. Neque ulla ratio subest cur
+Ecclesiam, de quâ Matth. 18. exponamus de solo cœtu destituto Rectoribus; est
+enim talis cœtus, cui
+
+[1668 KBNL/UvA witness | logical printed p. 663 | PDF p. 712 | split word joined: obediendum]
+
+obediendum est sub periculo Excommunicationis; is autem cœtus proculdubio
+Ministerialis est. Neque multùm moramur, quòd dicunt, Ecclesiam in Scripturis
+semper significare cœtum credentium redemptorum, & Petræ Christo
+inædificatorum; quia hic cœtus est Ecclesia Invisibilis, quam perpetuò in hâc
+controversiâ Adversarii confundunt cum Ecclesiâ Visibili.
+
+Denique omnes nostri Theologi, contra Pontificios, unà cum Patribus contendunt
+Matth. 16. datas esse claves Petro, non soli (inde enim Papistæ suum Papatum
+excuderent) sed in personâ Petri omnibus aliis Episcopis, Pastoribus &
+Presbyteris. Ideò Nazianzenus Orat. 21. de Laudibus Basilii, in illa verba,
+Tibi dabo claves. Ejusdem enim throni Petrus particeps factus est cum reliquis
+Pastoribus, non cum reliquis credentibus. Et Cyprianus de Unitate Ecclesiæ, in
+illa Verba. Hoc erant utique ut cæteri Apostoli, quod Petrus fuit, pari
+consortio præditi & honoris & potestatis. Et Basilius de vitâ solitariâ cap.
+21. Omnibus Pastoribus & Rectoribus eandem potestatem tribuit; cujus signum
+est, quod omnes ex æquo & ligent & solvant. Theophyl. in Matth. 17. Quamvis
+soli Petro dictum, tamen omnibus Apostolis concessæ sunt. Cyrill. in Joan.
+Responsionem illi Christus remittebat, qui ordine major Apostolus. Euthymius in
+Matth. 16. Tibi dabo claves. Atqui donum hoc fuit cæterorum Apostolorum.
+Hieronymus lib. 1. contra Jovinianum. Omnes
+
+[1668 KBNL/UvA witness | logical printed p. 664 | PDF p. 713 | split word joined: Apostoli]
+
+Apostoli acceperunt Claves, non solus Petrus. Anselmus in Matth. 16. Habent
+eandem potestatem judiciariam, omnes Apostoli. Atque hinc liquet, Ecclesiam
+nullam visibilem destitutam Pastoribus, esse in Novo Testamento, cui commissæ
+sunt claves.
+
+Quæritur, An rectè doceant Remonstrantes Confess. 22. sect. 4. Eam esse veram
+Ecclesiam, quæ in necessariæ veritatis fide ac professione consentit?
+
+Nos hoc falsum esse, secundùm eorum principia, docemus.
+
+1. Quia tenere necessariam doctrinam, illis est tenere paucissima dogmata ab
+omnibus Christianis probata, & à nullo ferè cœtu in controversiam vocata; undè
+Antitrinitarii, Ariani, Sociniani, pontificii, omnesque impuræ sectæ, quæ in
+quibusdam non controversis Christianitatis dogmatis conveniunt, erunt vera
+Ecclesia.
+
+2. Necessariam doctrinam tenere, exponunt, id probè tenere, sine quo fidei &
+obedientiæ mandata ritè observari, ac proindè venia peccatorum & salus æterna
+obtineri, ex Dei ipsius sententiâ, nequeunt. Quia enim actus Intellectûs mandato
+Dei subjici nequeunt, qui hæreticè de Deo in mente suâ sentiunt, concipientes
+Deum, ut Idolum, & hominem canitie venerandum; adeòque, quia conscientia
+erronea, secundùm illos, obligat ad praxin, qui Idola colunt, ut Pontificii; qui
+Christum, ut purum hominem credunt, ut Ariani & Sociniani; qui tres Personas,
+tres Deos infinitos
+
+[1668 KBNL/UvA witness | logical printed p. 665 | PDF p. 714 | split word joined: putant]
+
+putant; qui religionem Socinianam, Vorstianam, veram esse credunt, modò fide
+prout ab Arminianis definitur, & obedientiæ præcepta à Christo præscripta ritè
+præstent, sunt vera membra Ecclesiæ. Jac. Arminius. disp. 20. thes.
+
+3. Omnes illas Ecclesias Reformatas habet, quæ Pontificis Romani præsidatum
+quemcunque improbant, & fidem cultumque se Deo & Christo præstare profitentur.
+Adolphus Venator contra Dordracenos Fratres, pag. 134, 135. Cur gentes damnem?
+quibus non tam clarè doctrinæ patefactæ fuerunt, ut Apostolis &c. tamen piam
+vitam duxerunt. Remonstrantes in Apol. ad Censuram Professorum Leydensium, in
+Dedicatione; Digladiationes & certamina de non-necessariis dogmatis aversantur;
+Theologia eorum practica est, quæ in morum reformatione, totiusque adeò vitæ ad
+Jesu Christi præscriptum, correctione & directione posita, solos impios,
+profanos, mundanos, contentiosos, maledicos, rebelles, implacabiles, abesse
+jubent. Idem habet Smalcius disp. 8. de Ecclesiâ. p. 5. Socinus de Ecclesiâ. c.
+2. p. 20.

@@ -54,8 +54,9 @@ Converter (rel 3 12/12/14)`, and has SHA-256
 - PDF 811–853: editorial chapter/question, Scripture, and subject indexes.
 - PDF 854–857: terminal blank matter; excluded.
 
-The body has a press-pagination anomaly and two demonstrated two-leaf lacunae
-in the controlling copy. Logical p. 28 is visibly misprinted 58. The KBNL/UvA
+The body has two press-pagination anomalies and two demonstrated two-leaf
+lacunae in the controlling copy. Logical p. 28 is visibly misprinted 58, and
+logical p. 647 repeats the visible number 646. The KBNL/UvA
 scan passes directly from printed p. 41 / PDF 94 to printed p. 44 / PDF 95;
 the failed catchword and the intact British Library copy confirm that complete
 printed pp. 42–43 are absent, not merely misnumbered. It later passes directly
@@ -1452,3 +1453,38 @@ structure.
 
 - Latin: `parts/part-58-chapter-15a-latin.txt`
 - English: `parts/part-58-chapter-15a-english.md`
+
+**Part 59 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 644 / PDF 693 at the question whether a New Testament church
+entirely without presbyters possesses the power of the keys, without repeating
+Part 58's closing analogy of a painted man. It contains that complete question,
+including the preliminary distinctions and assertions, the objections from
+Acts 1 and 6 and Colossians 4, and the six-argument demonstration that the keys
+were not committed to the whole body of believers. It then contains the
+complete allied question whether the Remonstrants rightly identify the true
+church by agreement in the faith and profession of necessary truth. It ends
+within shared printed p. 665 / PDF 714 after the Socinian citations. The
+following question whether every church of Christ can totally and finally fail
+is excluded and forms the exact restart for Part 60. The pair has twenty-two
+byte-identical synchronized markers for partial pp. 644 and 665 and complete
+pp. 645–664. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all twenty-two included frames, both shared-page
+boundaries, every page join, both complete questions and their assertion,
+objection, response, and numbered structures, biblical, patristic, scholastic,
+and polemical citations, Greek, and the absence of Hebrew and substantive
+marginalia. The printed errata has no applicable correction. The split words
+`interveniente`, `tanquam`, `necessitatis`, `Neque`, `præsertim`,
+`Colossensium`, `prædicatam`, `Phraseologiâ`, `actus`, `Collegium`,
+`cooperarii`, `Clavium`, `obediendum`, `Apostoli`, and `putant` are joined with
+their new-page markers before the whole words and their English equivalents.
+The logical p. 647 marker records the witness's duplicate visible page number
+`646`. The Greek `πρὸς τὸν καταρτισμὸν τῶν ἁγίων εἰς ἔργον διακονίας`,
+`προϊσαμένοις`, `προϊστάμενοι`, `Καὶ εἴπατε Ἀρχίππῳ`, `Εἰπὲ τῇ ἐκκλησίᾳ`, and
+`ἀναμαρτησίαν`, together with the witness's difficult or irregular `quovus`,
+`usque, qui`, citations, and unnumbered `thes.` reference, are retained or
+disclosed rather than silently regularized. The English follows the Latin at
+clause level while preserving the distinctions, quotations, objections, and
+complete argumentative structures.
+
+- Latin: `parts/part-59-chapter-15b-latin.txt`
+- English: `parts/part-59-chapter-15b-english.md`

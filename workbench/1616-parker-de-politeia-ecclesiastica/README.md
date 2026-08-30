@@ -17,7 +17,7 @@ inventory.
 
 ## Edition decision and explicit collation caveat
 
-Parts 01–04 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
+Parts 01–05 are controlled by the Bayerische Staatsbibliothek copy of *Roberti
 Parkeri De politeia ecclesiastica libri duo* (1638), digitized as
 [`bsb10507786`](https://www.digitale-sammlungen.de/en/view/bsb10507786). Its
 [IIIF manifest](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10507786/manifest)
@@ -39,7 +39,7 @@ is a duplicate, revision, continuation, or replacement of 1616. Every later
 unit requires renewed collation, and the two-book 1638 witness cannot control
 the third book unique to the 1616 publication.
 
-Parts 02–04 continue under the provisional 1638 control decision but have not
+Parts 02–05 continue under the provisional 1638 control decision but have not
 been represented as a renewed full collation against 1616. Their wording must
 therefore not be used to infer agreement between the editions. The current work
 remains within Book I, which is present in the 1638 witness.
@@ -75,7 +75,7 @@ canvases 24–27 repeat the textual leaves represented by canvases 22–23 and
 28–29. They are excluded; no authorial text is omitted. Source markers use
 the retained canvas sequence and are identical in the paired files.
 
-## Parts 02–04: continuation map and current boundary
+## Parts 02–05: continuation map and current boundary
 
 The continuation is strictly chapter-defined. Part 02 begins with chapter 8 on
 the lower portion of printed page 21 and completes chapter 13 before chapter 14
@@ -83,20 +83,32 @@ on printed page 38. Part 03 contains chapters 14–19 and ends after the first
 delay to exact reformation on printed page 53. Part 04 resumes at the exact
 README and file boundary with chapter 20 on printed page 54 and completes
 chapters 20–24 on the upper portion of printed page 63. Chapter 25, which begins
-the third defect in England's reformation, is excluded.
+the third defect in England's reformation, is excluded from Part 04 and begins
+Part 05 at that exact shared-page boundary. Part 05 completes chapters 25–27 on
+printed page 76; chapter 28, beginning on printed page 77, is excluded.
 
 | Part | Coherent unit | Printed pages | Endpoint |
 | --- | --- | ---: | --- |
 | 02 | Book I, chapters 8–13 | 21 (lower)–37 | End of the third alleged absurdity |
 | 03 | Book I, chapters 14–19 | 38–53 | End of the first delay to exact reformation |
 | 04 | Book I, chapters 20–24 | 54–63 (upper) | End of the second defect in England's reformation |
+| 05 | Book I, chapters 25–27 | 63 (lower)–76 | End of the fifth defect in England's reformation |
 
 Part 04 treats the second and third alleged delays to reform, identifies
 self-satisfaction as the third delay, and develops Parker's first two defects
 in the English reformation: lack of a scriptural rule and failure to conform to
 the primitive Church. Printed page 63 is shared with the excluded chapter 25;
 the source marker is retained in both paired files, but no text of chapter 25 is
-included.
+included in Part 04. Part 05 resumes with that heading and develops the next
+three defects: retention of Roman leaven, conformity of ecclesiastical polity
+to civil polity, and failure to reform the source of the Church's evils. It ends
+at the complete chapter 27 boundary.
+
+In the Part 05 sequence, the visible printed numerals `71` and `70` occur in
+that order on BSB canvases 80 and 81. The prose and catchword sequence is
+continuous in that same canvas order, so the paired files preserve the textual
+sequence and identify the transposed visible numerals explicitly in otherwise
+identical source markers. No text is reordered to make the numerals ascend.
 
 ## Editorial method and apparatus
 
@@ -125,3 +137,5 @@ translated or explained but not promoted into Parker's prose.
 - `parts/part-03-book-01-chapters-14-19-english.md`
 - `parts/part-04-book-01-chapters-20-24-latin.txt`
 - `parts/part-04-book-01-chapters-20-24-english.md`
+- `parts/part-05-book-01-chapters-25-27-latin.txt`
+- `parts/part-05-book-01-chapters-25-27-english.md`

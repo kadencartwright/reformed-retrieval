@@ -78,9 +78,11 @@ topic on Scripture.
 ## Completed continuation and current boundary
 
 The paired continuation now runs without a content gap from the opening of
-the tome through the end of `QUAESTIO IX. De Necessitate Scripturae`. Units
-that share a numbered column meet at the printed internal heading in that
-column; neither pair duplicates matter across that heading.
+the tome through the complete positive-case division of `CONTROVERSIA IX. De
+Perfectione Scripturae` (the meanings of tradition, state of the controversy,
+arguments, and testimonies of the Fathers). Units that share a numbered column
+meet at the printed internal heading in that column; neither pair duplicates
+matter across that heading.
 
 | Part | Complete authorial unit | Fixed-edition columns | BSB frames |
 |---:|---|---:|---:|
@@ -93,15 +95,16 @@ column; neither pair duplicates matter across that heading.
 | 08 | Controversy VII: clarity | 69–82 | 00049–00055 |
 | 09 | Controversy VIII: interpretation | 82–120 | 00055–00074 |
 | 10 | Question IX: necessity | 121–125 | 00075–00077 |
+| 11 | Controversy IX: perfection, positive case and patristic testimonies | 125–136 | 00077–00082 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
 with the same part number and descriptive stem.
 
-**Exact resume boundary:** Part 10 ends in column 125 at BSB frame 00077 with
-`ne Vetus quidem Testamentum habuerunt.` The heading `CONTROVERSIA IX. De
-Perfectione Scripturae` begins later in the same column and is excluded. That
-heading is the next untranscribed text.
+**Exact resume boundary:** Part 11 ends in column 136 at BSB frame 00082 with
+the interlinear gloss's sentence `multa illa quae Christus tunc reticuit
+neminem habere determinare.` The heading `OBIECTIONES` begins later in the
+same column and is excluded. That heading is the next untranscribed text.
 
 ## Editorial method and status
 

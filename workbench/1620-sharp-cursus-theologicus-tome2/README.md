@@ -40,8 +40,9 @@ for canvases 44–48. Part 10 was compared line by line with the six BSB images
 for canvases 48–53. Part 11 was compared line by line with the two BSB images
 for canvases 54–55. Part 12 was compared line by line with the thirteen BSB
 images for canvases 55–67. Part 13 was compared line by line with the six BSB
-images for canvases 67–72. No e-rara text, modern edition, or modern
-translation was used.
+images for canvases 67–72. Part 14 was compared line by line with the five BSB
+images for canvases 72–76. No e-rara text, modern edition, or modern translation
+was used.
 
 ## Editorial method
 
@@ -204,10 +205,22 @@ Petri successor`; it contains ten synchronized printed-column markers:
 - `parts/part-13-church-militant-peter-in-rome-latin.txt`
 - `parts/part-13-church-militant-peter-in-rome-english.md`
 
-The next continuation boundary is therefore `QUÆSTIO IV. An Papa sit Petri
-successor. Bellarminus lib. 2. de Romano Pont. cap. 11. ait Papam Petro
-succedere, non tantùm in Episcopatu, sed etiam in universæ Ecclesiæ primatu`,
-later in printed column 145 on BSB canvas 72.
+**Part 14 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the complete Question IV, whether the Pope is Peter's
+successor, in printed columns 145–154. It gives fifteen arguments against papal
+succession to Peter and answers nine objections. No distinct printed marginalia
+occur in this span; gutter show-through and later physical marks were not
+treated as authorial text. The part ends after the response to Objection 9,
+immediately before `QUÆSTIO V. An Papa sit caput Ecclesiæ et Christi vicarius à
+Christo constitutus`; it contains ten synchronized printed-column markers:
+
+- `parts/part-14-church-militant-papal-succession-latin.txt`
+- `parts/part-14-church-militant-papal-succession-english.md`
+
+The next continuation boundary is therefore `QUÆSTIO V. An Papa sit caput
+Ecclesiæ et Christi vicarius à Christo constitutus. Papistæ omnes affirmant, nos
+contrà non esse caput Ecclesiæ probamus his argumentis`, later in printed column
+154 on BSB canvas 76.
 
 ## Review and licensing notice
 

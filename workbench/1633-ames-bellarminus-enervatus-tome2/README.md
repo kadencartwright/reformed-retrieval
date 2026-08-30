@@ -46,8 +46,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
 - IA scans `n257`–`n261`: Part 08, Book II, Chapter II, printed pp. 40–44.
 - IA scans `n261`–`n275`: Part 09, Book II, Chapter III, printed pp. 44–58.
 - IA scans `n275`–`n278`: Part 10, Book III, Chapter I, printed pp. 58–61.
-- The next unit begins at the excluded `CAP. II. De vocatione Ministrorum.`
-  heading on printed p. 62 / IA scan `n279`.
+- IA scans `n279`–`n284`: Part 11, the opening and complete `De Ordinatione`
+  section of Book III, Chapter II, printed pp. 62–67.
+- The next unit begins at the excluded `De Vocatione.` heading on the lower
+  portion of printed p. 67 / IA scan `n284`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -214,5 +216,26 @@ page are excluded.
 - Within point 5 the witness numbers the final subpoint `IV` after subpoint
   `V`; the Latin and English retain this repeated numeral.
 
-The next unit begins at the excluded `CAP. II. De vocatione Ministrorum.`
-heading on printed p. 62 / IA scan `n279`.
+**Part 11 is complete as an AI-assisted working draft.** It begins Book III,
+Chapter II, on the calling of ministers, and contains its opening analysis and
+the complete first topical section, `De Ordinatione`. It begins at the Chapter
+II heading on printed p. 62 / IA scan `n279` and ends with the final sentence
+of numbered point 11 on the upper portion of printed p. 67 / IA scan `n284`.
+The `De Vocatione` heading and text that follow on that shared page are
+excluded.
+
+- `parts/part-11-book-03-chapter-02-ordination-latin.txt`
+- `parts/part-11-book-03-chapter-02-ordination-english.md`
+- Both files contain six synchronized source markers for printed pp. 62–67 /
+  IA scans `n279`–`n284`.
+- The opening thesis and all numbered points 2–11 through the ordination
+  section are present.
+- Printer-divided `recedit` at the pp. 66–67 turn is joined; in each file the
+  incoming page marker precedes the complete joined word or its English
+  equivalent.
+- Within point 10 the witness proceeds from subpoint `IV` directly to subpoint
+  `VI`; the Latin and English retain the missing `V` rather than silently
+  renumbering the text.
+
+The next unit begins at the excluded `De Vocatione.` heading on the lower
+portion of printed p. 67 / IA scan `n284`.

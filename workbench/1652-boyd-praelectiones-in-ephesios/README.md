@@ -56,6 +56,8 @@ same scan can legitimately close one part and open the next:
 | 11 | XI | 75–80 | 33–38 | `Quod ad secundum membrum attinet` through its concluding `Amen` |
 | 12 | XII | 80–85 | 38–43 | `In Versum 11. ac 12.` and `Dictum nobis suprà suo loco` through `quam cum discrimine veritatis aliquo judicare` before Lecture XIII |
 | 13 | XIII | 85–88 | 43–46 | `Jam ad quartum hujus loci membrum pergamus` through its concluding `Amen` before `In Versum 13. ac 14.` and Lecture XIV |
+| 14 | XIV | 88–92 | 46–50 | `In Versum 13. ac 14.` and `Hucusque fuit prior applicationis hujus pars` through `Spiritus promissionis hîc appellatur` before Lecture XV |
+| 15 | XV | 92–96 | 50–54 | `Atque hactenus prius ex illis duobus membris executi sumus` through its four-stage synopsis and concluding `Amen` before Lecture XVI |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -108,8 +110,10 @@ English translation:
 | 11 | The scope and time of recapitulation | [`part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt) | [`part-11-praelection-11-scope-and-time-of-recapitulation-english.md`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-english.md) |
 | 12 | Inheritance in Christ and the counsel of God’s will | [`part-12-praelection-12-inheritance-and-divine-purpose-latin.txt`](parts/part-12-praelection-12-inheritance-and-divine-purpose-latin.txt) | [`part-12-praelection-12-inheritance-and-divine-purpose-english.md`](parts/part-12-praelection-12-inheritance-and-divine-purpose-english.md) |
 | 13 | The praise of God’s glory and the priority of Jewish hope | [`part-13-praelection-13-praise-and-priority-latin.txt`](parts/part-13-praelection-13-praise-and-priority-latin.txt) | [`part-13-praelection-13-praise-and-priority-english.md`](parts/part-13-praelection-13-praise-and-priority-english.md) |
+| 14 | Gentile calling by the word of truth and sealing by the Spirit | [`part-14-praelection-14-gentile-calling-and-sealing-latin.txt`](parts/part-14-praelection-14-gentile-calling-and-sealing-latin.txt) | [`part-14-praelection-14-gentile-calling-and-sealing-english.md`](parts/part-14-praelection-14-gentile-calling-and-sealing-english.md) |
+| 15 | The Spirit’s earnest and the consummation of redemption | [`part-15-praelection-15-earnest-and-redemption-latin.txt`](parts/part-15-praelection-15-earnest-and-redemption-latin.txt) | [`part-15-praelection-15-earnest-and-redemption-english.md`](parts/part-15-praelection-15-earnest-and-redemption-english.md) |
 
-The completed sequence now extends through Lecture XIII. Its successive subjects
+The completed sequence now extends through Lecture XV. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -152,6 +156,23 @@ merit, grounds the gospel’s historical priority to Israel in God’s covenant
 promises, and draws applications concerning personal appropriation of the
 gospel, gratuitous election, submission to providence, and holy living as the
 praise of divine glory.
+Lecture XIV then applies Ephesians 1:13–14 to believing Gentiles, especially
+the Ephesians, as equal heirs with believing Jews. It expounds the word of
+truth as the saving gospel, distinguishes outward hearing from the Spirit’s
+inward opening of the heart, and argues for effectual calling from gospel
+hearing. It then treats the Holy Spirit’s sealing as the confirmation of faith
+through sanctification, develops the analogy of a sealed legal instrument,
+and explains “the Spirit of promise” both as the promised Spirit and as the
+one who seals the promise of adoption and inheritance in believers.
+Lecture XV develops the Spirit as the earnest of the inheritance, distinguishes
+an earnest from a returned pledge, and explains sanctification begun here as
+the first portion of the life perfected in glory. It distinguishes redemption
+already accomplished and applied from its final consummation, treats divine
+glory as the rule of Christian desire, and argues that the Spirit’s sealing
+and indwelling ground assurance without denying believers’ continuing
+struggles with doubt. It concludes the chapter’s first major section with a
+four-stage synopsis of election, redemption accomplished, saving application,
+and the full possession of the eternal inheritance.
 
 ## Validation
 

@@ -141,6 +141,28 @@ images agree throughout this chapter's setting. Both copies print the numeral
 records the sequential page as p. 76, and this shared same-impression
 mispagination is not silently treated as a different textual boundary.
 
+**Part 06 is the complete first chapter of Book II.** It begins with the Book
+II and `CAPUT I` headings on printed p. 82 and continues through the last
+response on shared printed p. 87, stopping immediately before Chapter II:
+
+- e-rara canvases 92–97 / printed pp. 82–87;
+- same-impression Augsburg comparison canvases 106–111;
+- Book II, Chapter I, *De Scientia animae Christi*;
+- next unit: Chapter II, *De Descensu Christi ad inferos*, beginning on shared
+  printed p. 87.
+
+The paired files carry six identical source markers. The one word split by a
+page boundary—`natura` (pp. 84/85)—is joined and placed wholly after the
+incoming marker in both files. The bottom-of-page forms `Deum` (p. 82), `Bar-`
+(p. 83), `2. Pro-` (p. 85), and `13. Pro-` (p. 86) are catchwords rather than
+additional or duplicated text and are excluded. The controlling and
+comparison images agree throughout the chapter's setting. The unnumbered
+opening thesis paragraph is followed in print by numbered point `2` on p. 83;
+no conjectural `1` has been supplied. The witness's form `autor` on p. 87 is
+retained. Its Greek `αὐτόθεον`, `θεάνθρωπος`, `πληρόμενον`,
+`ἐκραταιοῦτο πνεύματι`, and `σοφίας` has been checked directly
+against both copies.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -172,3 +194,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-04-book-01-chapter-05-english.md`
 - `parts/part-05-book-01-chapter-06-latin.txt`
 - `parts/part-05-book-01-chapter-06-english.md`
+- `parts/part-06-book-02-chapter-01-latin.txt`
+- `parts/part-06-book-02-chapter-01-english.md`

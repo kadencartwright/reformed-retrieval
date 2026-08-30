@@ -257,6 +257,22 @@ is `ASSERTIO XII. Ministerium hocce, seu munus aut functio hæc pastoralis,
 pastoribus legitimè vocatis, electis ac ritè ordinatis propria, perpetuò in
 Ecclesiâ Christi necessaria est, & in finem usque duratura.`
 
+## Part 15 boundary and source map
+
+Part 15 is Brown’s complete `ASSERTIO XII`, arguing that the pastoral ministry
+proper to lawfully called, elected, and duly ordained pastors is perpetually
+necessary in Christ’s Church and will endure to the end. Brown gives
+twenty-four positive arguments from the continuing need for the ministry, its
+institutions, promises, commands, qualifications, effects, and biblical
+titles, then answers three objections from Isaiah 54:13 and Jeremiah 31:34, 1
+John 2:20–27, and 1 Peter 2:9. The part begins in the lower portion of printed
+p. 205 / ONB canvas 213 and ends after the final reply in the upper portion of
+printed p. 224 / ONB canvas 232. Its paired files contain twenty synchronized
+markers for printed pp. 205–224, approximately nineteen full pages of text.
+The exact next untranslated boundary is `ASSERTIO XIII. Pastores illi sic
+vocati, missi ac ordinati, singulari pollent authoritate ac potestate: seu
+munere illo, quod ipsis impositum est, fungi tenentur cum authoritate.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -307,6 +323,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-13-right-of-ordination-english.md`
 - `parts/part-14-laying-on-of-hands-latin.txt`
 - `parts/part-14-laying-on-of-hands-english.md`
+- `parts/part-15-perpetuity-of-the-pastoral-ministry-latin.txt`
+- `parts/part-15-perpetuity-of-the-pastoral-ministry-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

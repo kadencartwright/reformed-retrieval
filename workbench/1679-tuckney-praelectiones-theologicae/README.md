@@ -1084,6 +1084,22 @@ response on printed p. 287 / IA leaf 295. The third objection, beginning
 - English: `parts/part-63-romans-04-05-abraham-39-english.md`
 - Extent: two synchronized markers, printed pp. 286–287 / IA leaves 294–295
 
+## Part 64: fortieth unit of the Romans 4:5 lecture
+
+Part 64 opens Castellio's third objection, asking why Christ delays complete
+purification until death rather than supplying a visible example during
+life. Tuckney denies Castellio authority to dictate God's times, compares
+the eleventh-hour laborers and dying thief, adduces lucid Christian
+deathbeds as effective examples, and argues that even unconscious dying
+admonishes the living to work while it is day. It runs from `At illud
+inprimis urget` on printed p. 287 / IA leaf 295 through the close of the
+answer concerning example on printed p. 288 / IA leaf 296. The separate
+turn to God's glory, `Nam quod ad Dei gloriam spectat`, is excluded.
+
+- Latin: `parts/part-64-romans-04-05-abraham-40-latin.txt`
+- English: `parts/part-64-romans-04-05-abraham-40-english.md`
+- Extent: two synchronized markers, printed pp. 287–288 / IA leaves 295–296
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

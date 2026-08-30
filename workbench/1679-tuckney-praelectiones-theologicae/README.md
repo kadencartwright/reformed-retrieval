@@ -1000,6 +1000,23 @@ beginning `At hoc adhuc velitationis praeludium fecit`, is excluded.
 - English: `parts/part-58-romans-04-05-abraham-34-english.md`
 - Extent: two synchronized markers, printed pp. 279–280 / IA leaves 287–288
 
+## Part 59: thirty-fifth unit of the Romans 4:5 lecture
+
+Part 59 states Castellio's full composite objection: purification at death
+can occur neither by faith, whose acts fail in the dying, nor by bodily
+death, which cannot itself sanctify; appealing to Christ appears merely to
+renew the dilemma. Tuckney's general answer distinguishes certainty about a
+revealed fact from knowledge of its manner. Regeneration, conception,
+sleep, awakening, and final purification can be real although their precise
+mode remains obscure. It runs from `At hoc adhuc velitationis praeludium
+fecit` on printed p. 281 / IA leaf 289 through the general response on
+printed p. 282 / IA leaf 290. The detailed reply beginning `Ad illam, quam
+objicit`, is excluded.
+
+- Latin: `parts/part-59-romans-04-05-abraham-35-latin.txt`
+- English: `parts/part-59-romans-04-05-abraham-35-english.md`
+- Extent: two synchronized markers, printed pp. 281–282 / IA leaves 289–290
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

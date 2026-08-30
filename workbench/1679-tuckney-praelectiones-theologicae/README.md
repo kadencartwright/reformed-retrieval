@@ -708,6 +708,21 @@ argument, beginning `Minorem probavimus ex Rom. 5.12`, is excluded.
 - English: `parts/part-40-romans-04-05-abraham-16-english.md`
 - Extent: three synchronized markers, printed pp. 242–244 / IA leaves 250–252
 
+## Part 41: seventeenth unit of the Romans 4:5 lecture
+
+Part 41 resumes the major premise of Tuckney's Adam–Christ argument. It
+contrasts Socinus's imitation-based reading with Paul's language of gift,
+defends imputation as the shared mode of derivation from each federal head,
+and answers the first objection from the acknowledged dissimilarities
+between Adam and Christ. It runs from `Minorem probavimus ex Rom. 5.12` on
+printed p. 245 / IA leaf 253 through the response to that first objection on
+printed p. 247 / IA leaf 255. The response to the second objection,
+beginning `2. Ad secundum quod attinet`, is excluded.
+
+- Latin: `parts/part-41-romans-04-05-abraham-17-latin.txt`
+- English: `parts/part-41-romans-04-05-abraham-17-english.md`
+- Extent: three synchronized markers, printed pp. 245–247 / IA leaves 253–255
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

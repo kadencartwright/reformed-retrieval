@@ -58,7 +58,9 @@ retained derivatives govern Parts 36–37. The access PDF and plain OCR were
 freshly acquired once more for Parts 38–39 on 30 August 2026 and remain
 byte-identical to the recorded derivatives; the same locally retained
 derivatives govern Parts 40–47, with the byte-identical DjVu XML also used as a
-page-structured collation aid for Parts 46–47:
+page-structured collation aid for Parts 46–47. The access PDF, plain OCR, and
+DjVu XML were freshly acquired once more for Part 48 on 30 August 2026 and are
+byte-identical to the recorded derivatives:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -102,7 +104,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XIV on logical printed p. 333. Shared-page boundaries
+Chapter XV on logical printed p. 340. Shared-page boundaries
 preserve each new argumentative unit in the following part rather than
 duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
 275; from that point the continuous logical numbering used in the markers is
@@ -158,6 +160,7 @@ identify the exact images without ambiguity.
 | 45 | Book II, Chapter XII; the church cannot determine principal and solemn time | lower part of shared logical printed p. 287 through the upper part of shared logical p. 301 / IA leaves 305–319 / PDF pp. 305–319; visible pp. 305–319; stops before `CAP. XIII.` | 15 |
 | 46 | Book II, Chapter XIII; the church cannot institute annual feast days | lower part of shared logical printed p. 301 through logical p. 327 / IA leaves 319–345 / PDF pp. 319–345; visible pp. 319–345; stops before `CAP. XIV.` on p. 328 | 27 |
 | 47 | Book II, Chapter XIV; God alone determines principal, solemn, necessary, and sufficient time | logical printed pp. 328–333 / IA leaves 346–351 / PDF pp. 346–351; visible pp. 346–351; stops before `CAP. XV.` on p. 334 | 6 |
+| 48 | Book II, Chapter XV; observance of principal and solemn time is a part of worship | logical printed pp. 334–340 / IA leaves 352–358 / PDF pp. 352–358; visible pp. 352–358; stops before `CAP. XVI.` on p. 341 | 7 |
 
 The files are:
 
@@ -208,8 +211,9 @@ The files are:
 - `parts/part-45-book-02-chapter-12-church-cannot-determine-{latin.txt,english.md}`
 - `parts/part-46-book-02-chapter-13-annual-feast-days-{latin.txt,english.md}`
 - `parts/part-47-book-02-chapter-14-god-alone-determines-solemn-time-{latin.txt,english.md}`
+- `parts/part-48-book-02-chapter-15-observance-is-worship-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–47 image audits
+### Part 04 re-audit and Parts 05–48 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1245,9 +1249,8 @@ PDF 352 was also inspected to verify the outgoing stop before `CAP. XV.` OCR
 and the byte-identical page-structured DjVu XML were used only as collation
 aids. The Latin and English contain the identical six-marker sequence. The
 visible witness numbers these pages 346–351; the markers retain the continuous
-logical sequence 328–333 and record the exact IA leaves and PDF pages. This
-six-page unit is 0.79% of the treatise's 757-page logical extent, below the
-global one-percent cap, and its stop is the exact Chapter XIV/XV boundary.
+logical sequence 328–333 and record the exact IA leaves and PDF pages. Its stop
+is the exact Chapter XIV/XV boundary.
 
 The terminal errata leaf assigns no particular correction to visible printed
 pp. 346–351. Its general warning about deficient Greek and Hebrew type is
@@ -1268,6 +1271,39 @@ Solenne Necessarium & Sufficiens determinandi.` Its final included words are
 `CAP.`, and `CAP. XV.` on logical printed p. 334 are excluded. The next
 untranslated text is therefore `CAP. XV. Temporis Praecipui-Solennis observatio
 est pars cultûs.` on logical printed p. 334 / IA leaf 352 / PDF p. 352.
+
+Part 48 is the complete, image-audited fifteenth chapter of Book II, arguing
+that observance of principal and solemn time is itself a part of divine worship
+rather than a mere circumstance of it. Every controlling image from the Chapter
+XV heading on PDF 352 through the chapter end on PDF 358 was read directly,
+including all six internal joins; PDF 359 was also inspected to verify the
+outgoing stop before `CAP. XVI.` OCR and the byte-identical page-structured
+DjVu XML were used only as collation aids. The Latin and English contain the
+identical seven-marker sequence. The visible witness numbers these pages
+352–358; the markers retain the continuous logical sequence 334–340 and record
+the exact IA leaves and PDF pages. The stop is the exact Chapter XV/XVI
+boundary.
+
+The terminal errata readings `quisquam` (visible p. 354, line 4) and
+`septimanae` (visible p. 355, line 21) are incorporated and disclosed in both
+file headers. The errata leaf's general warning about deficient Greek and
+Hebrew type is retained there as well, and the controlling images govern `καθ’
+ἀφαίρεσιν τῷ ἐναντίῳ`, `εἰς πανήγυριν τῆς ἀγάπης`, `συνδρομὴ`, `εἰς
+παροξυσμὸν τῆς ἀγάπης`, and `ἐθελοθρησκεία`; no Hebrew or separate substantive
+marginal gloss occurs. Printer-divided words at the logical pp. 336/337,
+338/339, and 339/340 joins are joined with the new marker before the complete
+Latin word and corresponding English word or phrase. The other three
+joins fall between complete words; running heads, signatures, catchwords, the
+rule, and the Chapter XVI heading are omitted. All definitions, eight principal
+arguments, the two extended sequences quoted from Nathanael Jonson, citations,
+and substantive italic distinctions are retained.
+
+The exact Part 48 opening is `CAP. XV. Temporis Praecipui-Solennis observatio
+est pars cultûs.` Its final included words are `...Atque ita abundè confirmatur
+veritas.` The rule, signature `Vv 2`, catchword `CAP.`, and `CAP. XVI.` on
+logical printed p. 341 are excluded. The next untranslated text is therefore
+`CAP. XVI. Expenduntur contrariae Adversantium Rationes; Imprimis D. Wallaei.`
+on logical printed p. 341 / IA leaf 359 / PDF p. 359.
 
 ## Review and licensing status
 

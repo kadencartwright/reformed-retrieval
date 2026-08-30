@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–54 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–55 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -680,6 +680,36 @@ quaerit, utrum ex solâ inspectione causarum secundarum futura contingentia
 notitiâ certâ & infallibili valeant cognosci`, and must repeat the shared-page
 marker.
 
+Part 55 spans **printed pp. 115–123 / BSB canvases 00141–00149** and contains
+Penottus, Book III, Chapter XX in full. It begins with the separately headed
+Chapter XX on the lower part of shared p. 115, examines whether future
+contingents can be known certainly and infallibly from secondary causes alone,
+and includes Penottus's distinctions and arguments together with Twisse's
+complete replies concerning qualified futures, conditional prophecy,
+determinate causes, Alvarez, Suárez, Cajetan, Báñez, Durandus, Valencia, and
+Aquinas. It ends in the upper part of shared p. 123 at the chapter's authorial
+close, immediately before the separately headed Chapter XXI, and has nine
+identical source markers plus two identical marginal citations. The printer's
+page-end divisions `tem-` / `porum` and `indiffe-` / `rentes` are joined as
+`temporum` and `indifferentes`; the paired markers stand immediately before the
+complete Latin words and their English counterparts, `the differences of
+times` and `indifferent`. The continued words `possit` and `videt` are likewise
+represented only at the heads of pp. 121 and 123, with the paired markers
+immediately before `possit` / `can` and `videt` / `sees`. The p. 117 catchword
+`De`, the p. 118 catchword `modo`, the p. 119 catchword `talis`, and the p. 121
+catchword `Haec` are represented only by their textual occurrences at the
+heads of pp. 118–120 and 122. The witnessed Hebrew `המרת לאהב` and Greek `τὸν
+τεθνηκότα τῷ Αχαάβ ἐν τῇ πόλει φάγονται αἱ κύνες` are retained in both
+files and glossed in the English.
+
+- `parts/part-55-penottus-book-03-chapter-20-secondary-causes-latin.txt`
+- `parts/part-55-penottus-book-03-chapter-20-secondary-causes-english.md`
+
+The next unit resumes on printed p. 123 / canvas 00149 with `IN GABRIELIS
+PENOTTI Propugnaculi humanae libertatis LIBRI TERTII CAP. XXI`, headed `An ex
+efficaci decreto divinae voluntatis possit colligi ratio infallibilis notitiae
+futurorum contingentium`, and must repeat the shared-page marker.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and
@@ -693,8 +723,10 @@ The opening unit has Greek but no Hebrew. The Greek forms `ὁμοζύγαμα` 
 p. 4) and `ὧδε γὰρ` (printed p. 12), the Part 51 form `καχεξίαν` (printed p.
 96), and the Part 54 forms `ἀδύνατον` and `τῦτ᾽ χρηστήρια τ᾽ ἀνδρός`
 (printed p. 115), are retained in the Latin and translated or glossed in the
-English. No Greek or Hebrew has been silently romanized. The exact accents,
-several tightly
+English. Part 55 adds the Hebrew `המרת לאהב` and the Septuagint Greek `τὸν
+τεθνηκότα τῷ Αχαάβ ἐν τῇ πόλει φάγονται αἱ κύνες` (printed p. 116),
+retained in both files and glossed in the English. No Greek or Hebrew has been
+silently romanized. The exact accents, several tightly
 set marginal references, and residual difficult readings need a future
 specialist image collation. The present transcription and translation are
 complete working drafts, but they remain explicitly AI-assisted and unreviewed.

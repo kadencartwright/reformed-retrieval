@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–15 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–16 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -101,7 +101,10 @@ completes Article II, Chapter IX, from its heading lower on that page through
 its concluding historical discussion on printed p. 153 / canvas 163. Part 15
 completes Article II with Chapter X, from its heading on printed p. 154 /
 canvas 164 through its concluding discussion of Romans 11:12 on printed p. 171
-/ canvas 181. The files are divided as follows:
+/ canvas 181. Part 16 completes the whole of Article III, on the cause of
+faith, from its heading on printed p. 172 / canvas 182 through its concluding
+comparison of the Remonstrants’ contradictory claims on printed p. 175 /
+canvas 185. The units are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -136,6 +139,9 @@ canvas 164 through its concluding discussion of Romans 11:12 on printed p. 171
 - Part 15: Article II, Chapter X, canvases 164–181 / printed pp. 154–162, the
   anomalous repeated printed p. 162 on canvas 173 (intended p. 163), and
   printed pp. 164–171.
+- Part 16: Article III in full, canvases 182–185 / printed pp. 172–175; the
+  paired transcription and translation are included below because this unit
+  is confined by request to this README.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -292,6 +298,311 @@ p. 163; both paired files record this anomaly explicitly.
 - Both Part 15 files contain eighteen synchronized source markers for BSB
   canvases 164–181 and the printed-page sequence described above.
 
-The next untranslated unit begins with `Articulus Tertius, DE CAUSA FIDEI.`
-and `Thesis tertia hoc modo sonat: HOMINEM fidem salutarem à se ipso non habere,
-nec vi liberi sui arbitrii` on printed p. 172 / BSB canvas 182.
+Part 16 completes Article III, on the cause of faith. It begins with `Articulus
+Tertius, DE CAUSA FIDEI.` and `Thesis tertia hoc modo sonat: HOMINEM fidem
+salutarem à se ipso non habere, nec vi liberi sui arbitrii` on printed p. 172 /
+BSB canvas 182 and ends with `...& sibimet eam arrogasse fide non bona.` on
+printed p. 175 / canvas 185, immediately before Article IV. Its seven numbered
+comparisons set what the Remonstrants teach here beside what they teach
+elsewhere. The repeated column heads `Istic docent Remonst.` and `Alibi.` are
+retained in paired bracketed blocks below rather than silently flattened into
+the prose.
+
+- Latin and English: paired inline sections below.
+- Both sections contain four synchronized source markers for BSB canvases
+  182–185 / printed pp. 172–175.
+
+The next untranslated unit begins with `Articulus Quartus, DE CONVERSIONIS
+MODO.` and `CAPUT I. Status quaestionis eruitur.` on printed p. 176 / BSB
+canvas 186.
+
+## Part 16: Article III — Latin transcription
+
+AI-assisted, unreviewed working transcription. Page images of the 1630
+Amsterdam BSB witness govern; hOCR is used only as an aid. Latin long *s*,
+ligatures, line-end divisions, and typographic `u/v` are normalized.
+
+[1630 Amsterdam witness | BSB canvas 182 | printed p. 172]
+
+ARTICULUS TERTIUS,
+
+DE CAUSA FIDEI.
+
+Thesis tertia hoc modo sonat:
+
+HOMINEM fidem salutarem à se ipso non habere, nec vi liberi sui arbitrii:
+quandoquidem in statu defectionis & peccati, nihil boni, quod quidem verè sit
+bonum, (quale quid est fides salutaris) ex se possit cogitare, velle, aut
+facere: sed necessarium esse, eum à Deo, in Christo, per Spiritum eius Sanctum
+regigni, renovari mente, affectibus, seu voluntate, & omnibus facultatibus, ut
+aliquid boni possit intelligere, cogitare, velle, & perficere, secundum illud
+Ioh. 15. 5. Sine me potestis nihil.
+
+De assertionis huius veritate, nulla in Collatione movebatur controversia,
+neque nunc in quaestionem vocatur: imò ad magnam harum litium partem sedandam,
+haec una sufficeret thesis, modo synceram eam Remonstrantium confessionem
+continere constaret, & ex labiis dolosis non prodire. Sed magna subest
+suspicio, eos non tam ex animo, quam ex arte dixisse multa, quae continentur
+in istoc effato. Diruunt enim alibi, quae hic aedificant: ut ex paucis his
+inter sese collatis, mihi saltem videtur manifestum.
+
+[1630 Amsterdam witness | BSB canvas 183 | printed p. 173]
+
+[Column headings: *Istic docent Remonst.* | *Alibi.*]
+
+[Left column]
+
+1. Homines ante regenerationem, esse in statu peccati, & ab omni gratia, &
+vero bono relictos.
+
+[Right column]
+
+1. Vitam spiritualem in hominibus animalibus non penitus à mente separari:
+nec verè ac propriè à voluntate. Collat. pag. 298. 299.
+
+[Left column]
+
+2. Necessarium esse ut homo prius in mente regignatur, & renovetur, quam boni
+quidquam intelligere possit.
+
+[Right column]
+
+2. Quemlibet, modo usu rationis & iudicii polleat, sine ulla peculiari
+immediata, vel interna lucis collustratione, intelligere & percipere facilè
+posse, omnes scripturae sensus, qui ad salutem necessarii sunt, scitu,
+creditu, speratu, vel factu. Episcopius in disputatione de perspicuitate
+Scripturae. thes. 1. 3.
+
+[Left column]
+
+3. Regigni prius hominem in affectibus, quam boni quidquam desiderare possit.
+
+[Right column]
+
+3. Hominem nondum fidelem & regenitum, poenitentiam agere, liberationem
+desiderare, propositum ac tentamen vitae in melius commutandae concipere,
+atque elaborare ita ut quosdam actus notoriè malos vitet, idque magis ex
+offensionis divinae, quam poenae metu, quo metu adductus, ut à peccando
+abstineat, rectè & divinae voluntati convenienter facit. Idem disput. de
+Poenit. thes. 1. 9. 13.
+
+[Left column]
+
+4. Regigni prius ac renovari voluntate, quam boni quidquam velle possit.
+
+[Right column]
+
+4. Irregenitos quosdam intellectum & affectus habere vivificatos, ac
+voluntatem etiam potentem factam,
+
+[1630 Amsterdam witness | BSB canvas 184 | printed p. 174]
+
+[Column headings: *Istic docent Remonst.* | *Alibi.*]
+
+[Right-column continuation]
+
+ut innatam volendi ac nolendi facultatem in actum producat: adeò ut
+salutiferam veritatem norint, & amore eius inflammati, ad eam amplectendam
+instigentur. in Collatione p. 300. Auxilium Dei efficax non prius agere in
+voluntatem, quam voluntas concurrat ad conversionem sui. Nic. Grev. pag. 214.
+
+[Left column]
+
+5. Necessarium esse regigni hominem omnibus facultatibus, priusquam boni
+aliquid possit facere.
+
+[Right column]
+
+5. Regenerationem ipsam inchoari ab opere, quod Deus ipsum hominem iubet
+facere, & quod cum homo facit, paulatim reviviscit. Hominis regenerationem
+praecedere opus aliquod bonum, nempè mortem suam agnoscere, ac deplorare,
+velle etiam & rogare, ut ex ea liberetur, vitam esurire, sitire, quaerere:
+quod omne & plus etiam à Christo exigitur in iis, quos vivificabit &
+regenerabit. Collat. pag. 302.
+
+[Left column]
+
+6. Nihil boni praerequiri ab homine, ut Deus velit eum regenerare.
+
+[Right column]
+
+6. Parvitatem & humilitatem ut conditionem praerequiri à Deo, ad hoc, ut
+Paulo potius quam Caiphae, fidem velit ingenerare. Nic. Grev. p. 117. imo
+resipiscentiam, fidem, & mandatorum etiam praestationem, praerequiri ad hoc,
+ut particeps quis fiat promissorum foederis novi, inter
+
+[1630 Amsterdam witness | BSB canvas 185 | printed p. 175]
+
+[Column headings: *Istic docent Remonst.* | *Alibi.*]
+
+[Right-column continuation]
+
+quae est regeneratio, Episcop. in thes. priv. disp. 3. & 40.
+
+[Left column]
+
+7. Hominem in statu defectionis & peccati, penitus mortuum esse, quoad
+spiritualem statum, quia nihil boni cogitare, velle, aut facere potest, ex se,
+id est, ex principio aliquo innato, aut vi liberi arbitrii.
+
+[Right column]
+
+7. In spirituali morte non separari propriè spiritualia dona ab hominis
+voluntate, sed eam sic liberam in sese manere, ut excitari possit ad bonum,
+antequam propriè vivificetur, aut ullas novas vires accipiat, & locomotivam
+facultatem eo usque saltem liberam esse, ut multa agat, quae à Deo ad
+conversionem efflagitantur. Collat. pag. 298. 299. 302. 303.
+
+Haec inter se pugnantia idcirco composui & comparavi, non ut thesin ipsam
+veritate sua, sed Remonstrantes eius possessione destitutos esse monstrarem,
+& sibimet eam arrogasse fide non bona.
+
+## Part 16: Article III — close English translation
+
+AI-assisted, unreviewed working translation from the paired Latin
+transcription, checked against page images of the 1630 Amsterdam BSB witness.
+
+[1630 Amsterdam witness | BSB canvas 182 | printed p. 172]
+
+### Article III
+
+#### On the cause of faith
+
+The third thesis reads as follows:
+
+THAT A MAN does not have saving faith from himself, nor by the power of his
+own free choice; since in the state of apostasy and sin he can of himself
+think, will, or do nothing good which is truly good (such as saving faith),
+but it is necessary that he be begotten anew by God, in Christ, through his
+Holy Spirit, and be renewed in mind, affections or will, and all his faculties,
+so that he may understand, think, will, and accomplish something good,
+according to John 15:5: “Without me you can do nothing.”
+
+No controversy was raised in the Colloquy about the truth of this assertion,
+nor is it now called into question. Indeed, this one thesis would be enough to
+settle a great part of these disputes, provided it were established that it
+contained the Remonstrants’ sincere confession and did not proceed from
+deceitful lips. But there is strong reason to suspect that they said many of
+the things contained in this declaration not so much from conviction as from
+artifice. For elsewhere they tear down what they build here, as seems evident
+to me, at least, from comparing these few statements with one another.
+
+[1630 Amsterdam witness | BSB canvas 183 | printed p. 173]
+
+[Column headings: *Here the Remonstrants teach.* | *Elsewhere.*]
+
+[Left column]
+
+1. Before regeneration, men are in the state of sin and are bereft of all
+grace and true good.
+
+[Right column]
+
+1. Spiritual life in natural men is not wholly separated from the mind, nor
+truly and properly from the will. *Colloquy*, pp. 298–299.
+
+[Left column]
+
+2. A man must first be begotten anew and renewed in his mind before he can
+understand anything good.
+
+[Right column]
+
+2. Anyone, provided he possesses the use of reason and judgment, can easily
+understand and perceive, without any peculiar immediate or inward
+illumination of light, every meaning of Scripture necessary for salvation,
+whether to be known, believed, hoped for, or done. Episcopius, disputation on
+the perspicuity of Scripture, theses 1 and 3.
+
+[Left column]
+
+3. A man must first be begotten anew in his affections before he can desire
+anything good.
+
+[Right column]
+
+3. A man who is not yet faithful and regenerate can repent, desire
+deliverance, conceive a purpose and an attempt to change his life for the
+better, and strive so as to avoid certain notoriously evil acts; and he does
+this more from fear of offending God than from fear of punishment. When that
+fear leads him to abstain from sin, he acts rightly and in conformity with
+the divine will. The same author, disputation on repentance, theses 1, 9, and
+13.
+
+[Left column]
+
+4. A man must first be begotten anew and renewed in his will before he can
+will anything good.
+
+[Right column]
+
+4. Certain unregenerate people have their understanding and affections
+enlivened, and their will also made powerful,
+
+[1630 Amsterdam witness | BSB canvas 184 | printed p. 174]
+
+[Column headings: *Here the Remonstrants teach.* | *Elsewhere.*]
+
+[Right-column continuation]
+
+so that it brings its innate faculty of willing and refusing into act; thus
+they know saving truth and, inflamed with love for it, are impelled to embrace
+it. *Colloquy*, p. 300. God’s effectual aid does not act upon the will before
+the will concurs toward its own conversion. Nicolaas Grevinckhoven, p. 214.
+
+[Left column]
+
+5. A man must be begotten anew in all his faculties before he can do anything
+good.
+
+[Right column]
+
+5. Regeneration itself begins with a work that God commands the man himself
+to do and by doing which the man gradually comes to life again. Some good
+work precedes a man’s regeneration—namely, recognizing and deploring his
+death, and also willing and praying to be delivered from it, hungering,
+thirsting, and seeking for life. All this, and even more, is required by
+Christ in those whom he will bring to life and regenerate. *Colloquy*, p. 302.
+
+[Left column]
+
+6. No good is required beforehand from a man in order that God should will to
+regenerate him.
+
+[Right column]
+
+6. Lowliness and humility are required beforehand by God as a condition in
+order that he should will to engender faith in Paul rather than in Caiaphas.
+Nicolaas Grevinckhoven, p. 117. Indeed, repentance, faith, and even the
+performance of the commandments are required beforehand in order that
+someone may become a participant in the promises of the new covenant, among
+which
+
+[1630 Amsterdam witness | BSB canvas 185 | printed p. 175]
+
+[Column headings: *Here the Remonstrants teach.* | *Elsewhere.*]
+
+[Right-column continuation]
+
+is regeneration. Episcopius, private theses, disputations 3 and 40.
+
+[Left column]
+
+7. In the state of apostasy and sin, a man is entirely dead with respect to
+his spiritual condition, because of himself—that is, from some innate
+principle or by the power of free choice—he cannot think, will, or do anything
+good.
+
+[Right column]
+
+7. In spiritual death the spiritual gifts are not properly separated from
+the human will; rather, it remains so free in itself that it can be stirred to
+good before it is properly brought to life or receives any new powers. Its
+power of self-motion at least remains free to such an extent that it performs
+many things which God urgently demands for conversion. *Colloquy*, pp.
+298–299, 302–303.
+
+I have therefore arranged and compared these mutually contradictory
+statements, not to show that the thesis itself is deprived of its truth, but
+that the Remonstrants are deprived of possession of that truth and have
+claimed it for themselves in bad faith.

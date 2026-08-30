@@ -569,7 +569,31 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-20-chapter-20a-latin.txt`
 - `parts/part-20-chapter-20a-english.md`
 
-The next unit begins with `V. 5. Aquae profundae sunt consilium in corde viri:
-sed vir intelligentiae exhauriet eas.` in the right column of shared PDF 429 /
-printed column 833; restart there, excluding all verse 4 text above it and the
-page-turn catchword `silium` below it.
+**Part 20b is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `V. 5. Aquae profundae sunt
+consilium in corde viri...` at the foot of the right column of shared PDF 429 /
+printed column 833 through the final prose of verse 8 on PDF 434 / printed
+column 842. It stops immediately before `V. 9.` in that same left column.
+Latin and English have six byte-identical source markers (PDF 429–434;
+synchronized printed columns 832–833 through 842–843) and retain all four
+verse lemmata, full prose, Hebrew, Greek, citations, and printed
+irregularities. The complete files contain 2,217 Latin-file and 3,191
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 429–434, was inspected at original detail in both-column
+order. The shared PDF-429 marker is intentional: Part 20a ends above `V. 5.`,
+while Part 20b begins with that lemma below it, so no verse 4 prose overlaps
+and none is omitted. The final PDF-434 marker includes only the concluding
+prose of verse 8 above `V. 9.`; no verse 9 material is imported. Page-turn
+catchwords `silium`, `qui`, `lans`, `agentes`, and `Fructus` were excluded
+rather than duplicated, while witness forms including `benignitate suam`,
+`fructus puellis`, `abiudicans`, and `Vzziae` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-20-chapter-20b-latin.txt`
+- `parts/part-20-chapter-20b-english.md`
+
+The next unit begins with `V. 9. Quis dicat, mundavi cor meum? purus sum à
+peccato meo?` in the left column of shared PDF 434 / printed column 842;
+restart there, excluding the final verse 8 prose above it.

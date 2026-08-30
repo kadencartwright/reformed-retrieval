@@ -1100,6 +1100,22 @@ turn to God's glory, `Nam quod ad Dei gloriam spectat`, is excluded.
 - English: `parts/part-64-romans-04-05-abraham-40-english.md`
 - Extent: two synchronized markers, printed pp. 287–288 / IA leaves 295–296
 
+## Part 65: forty-first unit of the Romans 4:5 lecture
+
+Part 65 explains how purification delayed until death serves God's glory.
+It displays his faithfulness, unfailing love, omnipotence, and
+all-sufficiency; the continuing struggle glorifies grace by exercising
+faith, repentance, prayer, humility, charity, mercy, and dependence upon
+God, while the remaining weakness restrains pride, security, contempt, and
+self-confidence. It runs from `Nam quod ad Dei gloriam spectat` on printed
+p. 288 / IA leaf 296 through the completed positive explanation on printed
+p. 289 / IA leaf 297. Castellio's rejoinder, beginning `At hoc inprimis
+ridet Castellio`, is excluded.
+
+- Latin: `parts/part-65-romans-04-05-abraham-41-latin.txt`
+- English: `parts/part-65-romans-04-05-abraham-41-english.md`
+- Extent: two synchronized markers, printed pp. 288–289 / IA leaves 296–297
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

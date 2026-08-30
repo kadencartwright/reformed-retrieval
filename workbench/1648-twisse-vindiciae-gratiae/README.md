@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–40.
+checked page by page against canvases 9–42.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -125,16 +125,22 @@ made here for the Latin transcription, witness images, or metadata.
   Twisse's reply on divine administration, justice, natural notions,
   Pelagians, philosophers, and natural reason; it ends on p. 32 immediately
   before `SECTIO DECIMA TERTIA`.
+- BSB canvases 40–42: Part 16 contains the complete `SECTIO DECIMA TERTIA`,
+  from Perkins's presentation of his doctrinal specimen through Arminius's
+  observations and Twisse's reply on natural notions, scriptural reasoning,
+  patristic testimony, Pelagianism, and disagreements among Reformed
+  theologians; it ends with Twisse's outline of the three-book treatise on p.
+  34, immediately before Book I.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
 - BSB canvases 809–816: terminal index and binding matter.
 
 The preliminary and body boundaries above were inspected in the continuous
-canvas sequence through canvas 40. Part 01 has seventeen synchronized
+canvas sequence through canvas 43. Part 01 has seventeen synchronized
 printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–40. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–43. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -370,7 +376,25 @@ identical source markers; no word crosses the p. 31–32 boundary, and the Greek
 - Latin: `parts/part-15-preface-section-12-notion-10-divine-government-and-justice-latin.txt`
 - English: `parts/part-15-preface-section-12-notion-10-divine-government-and-justice-english.md`
 
-The next untranslated unit begins with the centered `SECTIO DECIMA TERTIA`
-in the upper portion of printed p. 32 / BSB canvas 40 and Perkins's sentence
-`Hujus jam doctrinae his è principiis compositae specimen tibi & imitationem
-exhibeo`.
+**Part 16 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO DECIMA TERTIA`, beginning
+in the upper portion of shared printed p. 32 / BSB canvas 40 with Perkins's
+sentence `Hujus jam doctrinae his è principiis compositae specimen tibi &
+imitationem exhibeo`. It preserves Arminius's five observations and Twisse's
+complete reply on the difficulty of predestination, scriptural reasoning,
+the use and authority of the Fathers, the ancient reception of Pelagianism,
+Scholastic disagreements, and differences among Lutheran and Calvinian
+churches. It continues through printed p. 34 / canvas 42 and ends at the
+authorial boundary after Twisse's outline of the treatise, immediately before
+Book I begins. The pair has three identical source markers; the p. 32–33 join
+`re-` / `luctantem` is normalized as `reluctantem` after the p. 33 marker,
+Greek `θεοπνεύστους` and `ἐπιπολάζουσαι`, and the substantive marginal
+references `Ad Marcell. ep. 7.` and `Eth. 1.` are retained. The witness's
+grammatically unexpected `paratam` is not silently emended.
+
+- Latin: `parts/part-16-preface-section-13-doctrinal-sample-and-patristic-testimony-latin.txt`
+- English: `parts/part-16-preface-section-13-doctrinal-sample-and-patristic-testimony-english.md`
+
+The next untranslated unit begins with `VINDICIARUM GRATIAE, POTESTATIS, AC
+PROVIDENTIAE DEI, LIBRI PRIMI. PARS PRIMA, DE PRAEDESTINATIONE` on printed p.
+35 / BSB canvas 43 and the centered `SECTIO PRIMA`.

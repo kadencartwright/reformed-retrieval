@@ -804,6 +804,23 @@ excluded.
 - English: `parts/part-46-romans-04-05-abraham-22-english.md`
 - Extent: three synchronized markers, printed pp. 257–259 / IA leaves 265–267
 
+## Part 47: twenty-third unit of the Romans 4:5 lecture
+
+Part 47 answers the remaining classes of Bellarmine's proofs for perfect
+inherent grace. Tuckney distinguishes the perfection of the future state
+from that of wayfarers, commanded duty from present attainment, virtue in
+itself from its imperfect subject, comparative from absolute perfection,
+evangelical sincerity from legal consummation, and the perfection of an act
+in its kind from the perfection of its manner. It runs from `Secundo alia de
+perfectione illa` on printed p. 259 / IA leaf 267 through Tuckney's summary
+of the classified replies on printed p. 261 / IA leaf 269. The separately
+developed objection beginning `Unum tantum restat accuratius perpendendum`
+is excluded.
+
+- Latin: `parts/part-47-romans-04-05-abraham-23-latin.txt`
+- English: `parts/part-47-romans-04-05-abraham-23-english.md`
+- Extent: three synchronized markers, printed pp. 259–261 / IA leaves 267–269
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -1313,6 +1313,21 @@ beginning `Sed quod nostrum est`, is excluded.
 - English: `parts/part-77-romans-04-05-abraham-53-english.md`
 - Extent: two synchronized markers, printed pp. 305–306 / IA leaves 313–314
 
+## Part 78: fifty-fourth unit of the Romans 4:5 lecture
+
+Part 78 begins Tuckney's direct refutation of justification by Christ's
+essential divine righteousness. After qualifying patristic and mystical
+language about deification, he argues that essential participation is not
+necessary for satisfying the law, is impossible for finite creatures,
+violates the incommunicability of divine glory, and absurdly makes the divine
+essence accidental and separable. It runs from `Sed quod nostrum est` on
+printed p. 307 / IA leaf 315 through the fourth argument on printed p. 308 /
+IA leaf 316. The fifth argument, beginning `Quinto, ut rem`, is excluded.
+
+- Latin: `parts/part-78-romans-04-05-abraham-54-latin.txt`
+- English: `parts/part-78-romans-04-05-abraham-54-english.md`
+- Extent: two synchronized markers, printed pp. 307–308 / IA leaves 315–316
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

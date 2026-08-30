@@ -44,7 +44,7 @@ recorded separately rather than silently replacing the earlier evidence. All
 four derivatives were acquired again for Parts 14–16 on 29 August 2026. They
 were freshly acquired once more for Parts 17–18 on 30 August 2026 and were
 byte-identical to this most recently recorded set. The current access PDF was
-freshly acquired again for Parts 19–20 on 30 August 2026 and remains
+freshly acquired again for Parts 19–21 on 30 August 2026 and remains
 byte-identical to that set:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
@@ -88,10 +88,9 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the end of Brown's seven replies to Burmann's rejection
-of the distinction between broad and proper morality in the lower part of
-printed p. 190. Shared-page boundaries preserve each new argumentative unit in
-the following part rather than duplicating it.
+printed p. 1 through the end of Chapter XIV on printed p. 195. Shared-page
+boundaries preserve each new argumentative unit in the following part rather
+than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -115,6 +114,7 @@ the following part rather than duplicating it.
 | 18 | Chapter XIV continuation; three alleged dangerous consequences | shared printed p. 182 through the upper part of shared p. 184 / IA leaves 200–202 / PDF pp. 200–202; stops before `Novi hoc non arridere adversario nostro` | 3 |
 | 19 | Chapter XIV continuation; indifference and the force of divine command | shared printed p. 184 through the upper part of shared p. 187 / IA leaves 202–205 / PDF pp. 202–205; stops before `Novi adversarium nostrum hanc rejicere distinctionem` | 4 |
 | 20 | Chapter XIV continuation; broad and proper morality | shared printed p. 187 through the lower part of shared p. 190 / IA leaves 205–208 / PDF pp. 205–208; stops before `Ex dictis nunc liquet` | 4 |
+| 21 | Chapter XIV conclusion; positive determination does not remove morality | lower part of shared printed p. 190 through p. 195 / IA leaves 208–213 / PDF pp. 208–213; stops before `CAP. XV.` on p. 196 | 6 |
 
 The files are:
 
@@ -138,8 +138,9 @@ The files are:
 - `parts/part-18-book-01-chapter-14b-three-alleged-dangers-{latin.txt,english.md}`
 - `parts/part-19-book-01-chapter-14c-indifference-and-command-{latin.txt,english.md}`
 - `parts/part-20-book-01-chapter-14d-broad-and-proper-morality-{latin.txt,english.md}`
+- `parts/part-21-book-01-chapter-14e-positive-determination-and-morality-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–20 image audits
+### Part 04 re-audit and Parts 05–21 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -568,6 +569,35 @@ distinctionem Pag. 20. 21.` Its final included words are `...ad alia ergò
 pergamus.` The following paragraph is excluded. The next untranslated text is
 therefore `Ex dictis nunc liquet, omnem moralitatem à praecepto Dei pendere`
 on printed p. 190 / IA leaf 208 / PDF p. 208.
+
+Part 21 is the complete, image-audited remainder of Chapter XIV, containing
+Brown's concluding demonstration that a positive determination neither
+removes nor weakens the moral character of a law. Every controlling image from
+`Ex dictis nunc liquet` on PDF 208 through the chapter end on PDF 213 was read
+directly, including all five internal joins; PDF 214 was also inspected to
+verify the outgoing stop before `CAP. XV.` OCR was used only as a collation
+aid. The Latin and English contain the identical six-marker sequence.
+
+The terminal erratum `Col. 3.` (p. 191, line 38) is incorporated and disclosed
+in both file headers, correcting the printed Colossians citation to `Col.
+3:16`. The errata leaf's general warning about Greek and Hebrew type is
+retained there as well, though no Greek, Hebrew, or separate substantive
+marginal gloss occurs. The printer-divided word `invisibilis` at the p.
+190/191 join is joined with the new marker before the complete Latin word and
+corresponding English phrase. The repeated catchwords `hanc`, `obligare`,
+`Nulla`, and `Ac` at the pp. 191–194 feet are omitted and placed only after the
+following markers. The abrupt printed p. 195 reading `qui nun.` is retained in
+the Latin and disclosed in both headers; the English renders its completed
+sense. All arguments, citations, numbered examples, and substantive italic
+distinctions are retained.
+
+The exact Part 21 opening is `Ex dictis nunc liquet, omnem moralitatem à
+praecepto Dei pendere`. Its final included words are `...quod erat
+demonstrandum.` The rule, signature `Bb 2`, catchword `CAP.`, and `CAP. XV.`
+with its title and opening on printed p. 196 are excluded. The next
+untranslated text is therefore `CAP. XV. An positivum aliquod praeceptum dici
+possit morale? Examinatur doctrina, eâ de re, D. Burmanni.` on printed p. 196 /
+IA leaf 214 / PDF p. 214.
 
 ## Review and licensing status
 

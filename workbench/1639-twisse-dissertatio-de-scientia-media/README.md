@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–05 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–50 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -562,6 +562,24 @@ renders its evident sense, “from some height.”
 The next unit resumes on printed p. 89 / canvas 00115 with Penottus's fourth
 proposition, `Quarto, Esto, ista rerum coexistentia possibilis esset, tamen
 instituto Thomae omnino deservire non potest`.
+
+Part 50 spans **printed pp. 89–93 / BSB canvases 00115–00119** and contains
+Penottus's fourth through seventh arguments with Twisse's complete responses,
+the subsequent exchanges over Cajetan, Ferrariensis, Ripa, Wyclif, and Scotus,
+and Twisse's return to the second proposition from Penottus's Chapter IV. It
+ends at the close of that response, immediately before Penottus's new
+`Colligitur (inquit) evidenter ex verbis Thomae` argument on p. 94, and has five
+identical source markers plus one identical marginal citation. The printer's
+page-end divisions `de-` / `bilitatam` across pp. 89–90 and `Anti-` / `christus`
+across pp. 90–91 are joined as `debilitatam` and `Antichristus`. The p. 90 and
+p. 91 markers stand immediately before the complete Latin words and their
+English counterparts, `weakened` and `Antichrist`.
+
+- `parts/part-50-penottus-book-03-chapter-17-arguments-04-07-and-recap-latin.txt`
+- `parts/part-50-penottus-book-03-chapter-17-arguments-04-07-and-recap-english.md`
+
+The next unit resumes on printed p. 94 / canvas 00120 with `Colligitur (inquit)
+evidenter ex verbis Thom. 1. p. q. 14. artic. 13. bis verbis`.
 
 ## Editorial method and cautions
 

@@ -207,6 +207,8 @@ Parts 01–19 and 21–23 are stored in the following files:
 - `parts/part-22-the-true-interpreter-certainty-and-the-spirits-aid-english.md`
 - `parts/part-23-truth-meaning-and-reason-as-norm-latin.txt`
 - `parts/part-23-truth-meaning-and-reason-as-norm-english.md`
+- `parts/part-24-reasons-superior-interpreter-and-multiple-meanings-latin.txt`
+- `parts/part-24-reasons-superior-interpreter-and-multiple-meanings-english.md`
 
 Part 23 begins immediately after Part 22's question `An haec cum doctrinâ
 Reformatorum bene quadrant?` with the witness's exact opening words `XLII.
@@ -217,6 +219,14 @@ admittat (ut ipse dicit pag. 160.) nae, quicquid ogganiat, Reformatos eum
 deserere certissimum est.` Section XLIII, beginning `Ibidem §. 7. dixit
 Exercitator Interpretem suum caeteris omnibus longè praecellere`, is excluded.
 The next part should resume there on the same canvas.
+
+Part 24 begins at that exact Section XLIII boundary on printed p. 182 / ONB
+canvas 236. It contains Sections XLIII–XLIV: Brown's examination of the
+interpreter preferred by the *Paradox* and of the claim that a single passage
+can carry multiple collateral truths and senses. It runs through printed p.
+190 / ONB canvas 244 and ends before Section XLV. The paired files contain
+nine synchronized source markers and no authorial marginalia. Section XLV is
+the exact next restart.
 
 ## Part 20: Latin transcription
 

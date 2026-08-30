@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Fourteen paired parts are complete as AI-assisted, scan-audited working drafts:
+Fifteen paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -122,6 +122,10 @@ Fourteen paired parts are complete as AI-assisted, scan-audited working drafts:
 - **Part 14:** all of Section XXVI, examining Wolzogen's account of usage of
   speech as the norm of interpretation, printed pp. 128–130 / ONB canvases
   182–184; three synchronized source markers.
+- **Part 15:** Sections XXVII–XXIX, examining Wolzogen's account of scriptural
+  ambiguity, his laws of interpretation, and the concluding claims of his
+  first book, printed pp. 130–138 / ONB canvases 184–192; nine synchronized
+  source markers.
 
 The files are:
 
@@ -153,8 +157,12 @@ The files are:
 - `parts/part-13-reason-as-instrument-guide-and-norm-english.md`
 - `parts/part-14-usage-of-speech-and-the-norm-of-interpretation-latin.txt`
 - `parts/part-14-usage-of-speech-and-the-norm-of-interpretation-english.md`
+- `parts/part-15-scriptural-ambiguity-and-wolzogen-first-book-conclusion-latin.txt`
+- `parts/part-15-scriptural-ambiguity-and-wolzogen-first-book-conclusion-english.md`
 
-Part 14 ends with Section XXVI on printed p. 130 / ONB canvas 184 after the
-quotation's sentence `Qui notitiam rei non habet, illum notitia nominis non
-sublevabit.` Section XXVII, beginning `Quibus non displicere possunt quae habet
-pag. 73?`, is excluded. Part 15 should resume there on the same canvas.
+Part 15 ends with Section XXIX on printed p. 138 / ONB canvas 192 after the
+sentence `Ergo, propter hoc privilegium, possunt omnes fideles omnem
+interpretari scripturam.` Section XXX, beginning `Hactenus quam fideliter se
+gesserit Wolzogius in primo suo libello, in quo sententiam suam nude proposuit,
+vidimus: videndum nunc quomodo se gerat, dum in hostem movet;`, is excluded.
+Part 16 should resume there on the same canvas.

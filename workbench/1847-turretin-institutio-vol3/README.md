@@ -581,3 +581,29 @@ The next restart point is `QUÆSTIO XXI. DE DISTINCTIONE EPISCOPI ET
 PRESBYTERI. An Episcopatus sit Ordo, aut gradus Hierarchiæ Ecclesiasticæ a
 Presbyteratu distinctus, et superior Jure divino? Neg.` on shared printed p.
 169 / IA leaf 203 / PDF p. 203.
+
+## Part 21
+
+Part 21 contains the complete Locus XVIII, Question XXI, “De Distinctione
+Episcopi et Presbyteri.” It begins with the question heading on shared printed
+p. 169 / IA leaf 203 / PDF p. 203, immediately after Question XX, and ends
+with section XXVII on shared printed p. 178 / IA leaf 212 / PDF p. 212.
+Question XXII begins below it on that page and is excluded.
+
+- Latin: `parts/part-21-locus-18-question-21-latin.txt`
+- English: `parts/part-21-locus-18-question-21-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XXVII, and eight synchronized marginalia blocks.
+- All ten page images and all nine page joins were checked directly against
+  the scan. The pp. 173–174 join divides `tantum`; the word is joined, with
+  the p. 174 marker placed before the complete Latin word and its English
+  counterpart.
+- The transcription retains all printed Greek and both Hebrew expressions.
+  `[sic]` identifies the witness’s duplicated `bene` and malformed
+  `obinerent`; the English translates the evident sense without silently
+  altering the Latin witness.
+
+The next restart point is `QUÆSTIO XXII. DE VOCATIONE PASTORUM. An necesse sit
+dari Ministerium Publicum, et Vocationem ad illud in Ecclesia? Affir. contra
+Fanaticos et Enthousiastas.` on shared printed p. 178 / IA leaf 212 / PDF p.
+212.

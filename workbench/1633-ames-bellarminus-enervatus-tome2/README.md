@@ -54,8 +54,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
   III, Chapter II, printed pp. 69–81.
 - IA scans `n298`–`n303`: Part 14, Book III, Chapter III, on the orders of
   ministers, printed pp. 81–86.
-- The next unit begins at the excluded `CAP. IV. De distinctione Episcopi, &
-  Presbyteri.` heading on the lower portion of printed p. 86 / IA scan `n303`.
+- IA scans `n303`–`n316`: Part 15, Book III, Chapter IV, on the distinction
+  between a bishop and a presbyter, printed pp. 86–99.
+- The next unit begins at the excluded `CAP. V. De Coelibatu.` heading on
+  printed p. 99 / IA scan `n316`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -324,3 +326,32 @@ excluded.
 
 The next unit begins at the excluded `CAP. IV. De distinctione Episcopi, &
 Presbyteri.` heading on the lower portion of printed p. 86 / IA scan `n303`.
+
+**Part 15 is complete as an AI-assisted working draft.** It contains Book III,
+Chapter IV, on the distinction between a bishop and a presbyter. It begins at
+the Chapter IV heading on the lower portion of printed p. 86 / IA scan `n303`
+and ends with the final sentence of point 29 on the upper portion of printed p.
+99 / IA scan `n316`. The Chapter V heading and text on clerical celibacy that
+follow on that shared page are excluded.
+
+- `parts/part-15-book-03-chapter-04-bishops-and-presbyters-latin.txt`
+- `parts/part-15-book-03-chapter-04-bishops-and-presbyters-english.md`
+- Both files contain fourteen synchronized source markers for printed pp.
+  86–99 / IA scans `n303`–`n316`.
+- The opening analysis, all seventeen of Bellarmine's arguments, and all of
+  Ames's counterarguments through point 29 are present, including the patristic
+  and conciliar quotations and the witness's Greek in normalized Unicode.
+- Under `Argumenta nostra` the witness gives the Philippians 1:1 argument no
+  number and proceeds directly from point 17 to point 19; the Latin and English
+  retain that omission. Within point 9 the reply likewise proceeds from `II`
+  to `IV` without a `III`.
+- Printer-divided `superiorem` at the pp. 88–89 turn, `totum` at the pp. 94–95
+  turn, `Primasius` at the pp. 97–98 turn, and `philosophari` at the pp. 98–99
+  turn are joined; in each file the incoming page marker precedes the complete
+  joined word or its English equivalent.
+- The witness's references `Matth. 24,25`, `Act. 20,21`, and `1 Tim. 1,3` are
+  retained rather than silently corrected; their cited wording or subject
+  points respectively to Matthew 24:45, Acts 20:28, and 1 Timothy 3.
+
+The next unit begins at the excluded `CAP. V. De Coelibatu.` heading on printed
+p. 99 / IA scan `n316`.

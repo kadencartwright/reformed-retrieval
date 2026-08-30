@@ -273,6 +273,24 @@ The exact next untranslated boundary is `ASSERTIO XIII. Pastores illi sic
 vocati, missi ac ordinati, singulari pollent authoritate ac potestate: seu
 munere illo, quod ipsis impositum est, fungi tenentur cum authoritate.`
 
+## Part 16 boundary and source map
+
+Part 16 is Brown’s complete `ASSERTIO XIII`, arguing that lawfully called, sent,
+and ordained pastors possess a distinct ministerial authority and must perform
+their office with authority. Brown gives twelve positive arguments from
+Scriptural commands, titles, and the description of ministers as Christ’s
+ambassadors, answers the author of *Grallæ* on infallibility, and then examines
+Velthuysen’s extended objections concerning sermons, divine efficacy,
+ministerial commissions, doctrinal error, popular election, and theological
+lectures. The part begins in the lower portion of printed p. 224 / ONB canvas
+232 and ends after Brown’s concluding transition in the upper portion of
+printed p. 258 / ONB canvas 266. Its paired files contain thirty-five
+synchronized markers for printed pp. 224–258, approximately thirty-four full
+pages of text. The exact next untranslated boundary is `ASSERTIO XIV. Inter
+alios hujus Ministerii, verbi pastoribus à Christo commissi, fines & effectus,
+subordinatos Dei gloriæ & intermedios, hic; qui est hominum ad Deum conversio,
+& cum Deo reconciliatio, inter maximos numerandus est.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -325,6 +343,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-14-laying-on-of-hands-english.md`
 - `parts/part-15-perpetuity-of-the-pastoral-ministry-latin.txt`
 - `parts/part-15-perpetuity-of-the-pastoral-ministry-english.md`
+- `parts/part-16-pastoral-authority-latin.txt`
+- `parts/part-16-pastoral-authority-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

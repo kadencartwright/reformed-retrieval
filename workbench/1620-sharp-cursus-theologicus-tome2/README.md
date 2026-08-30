@@ -42,8 +42,9 @@ for canvases 54–55. Part 12 was compared line by line with the thirteen BSB
 images for canvases 55–67. Part 13 was compared line by line with the six BSB
 images for canvases 67–72. Part 14 was compared line by line with the five BSB
 images for canvases 72–76. Part 15 was compared line by line with the five BSB
-images for canvases 76–80. No e-rara text, modern edition, or modern translation
-was used.
+images for canvases 76–80. Part 16 was compared line by line with the six BSB
+images for canvases 80–85. No e-rara text, modern edition, or modern
+translation was used.
 
 ## Editorial method
 
@@ -236,6 +237,26 @@ synchronized printed-column markers:
 The next continuation boundary is therefore `OBIECTIONES. Obiect. 1. Is ad
 quem ab omnibus appellatur, et à quo non licet appellare est caput Ecclesiæ`,
 later in printed column 162 on BSB canvas 80.
+
+**Part 16 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the complete series of Objections 1–18 to Question V,
+whether the Pope is the head of the Church and Christ’s vicar appointed by
+Christ, in printed columns 162–171. It begins at the exact join after Argument
+32 with `OBIECTIONES` later in column 162 and ends after the response to
+Objection 18, immediately before `QUÆSTIO VI. An Papa sit magnus ille
+Antichristus, de quo Scriptura agit`. Words divided at column boundaries are
+joined with the new marker placed before the complete word in both files. No
+distinct printed marginalia occur in this span; abbreviated citations embedded
+in the text block are retained, while running heads, signatures, catchwords,
+gutter show-through, and later physical marks are excluded. The pair contains
+ten synchronized printed-column markers:
+
+- `parts/part-16-church-militant-papal-headship-objections-latin.txt`
+- `parts/part-16-church-militant-papal-headship-objections-english.md`
+
+The next continuation boundary is therefore `QUÆSTIO VI. An Papa sit magnus
+ille Antichristus, de quo Scriptura agit`, later in printed column 171 on BSB
+canvas 85.
 
 ## Review and licensing notice
 

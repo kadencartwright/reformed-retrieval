@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–51 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–52 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -605,6 +605,29 @@ The next unit resumes on printed p. 98 / canvas 00124 with `DIGRESSIO QUARTA`,
 headed `Ad partes vocatur Penottus quod attinet ad ea, quae Cap. 5. disserit in
 responsione ad argumenta quaedam prolata adversus propositionem secundam Capite
 quarto propositam`, and must repeat the shared-page marker.
+
+Part 52 spans **printed pp. 98–103 / BSB canvases 00124–00129** and contains
+Digression IV in full. It begins with the separately headed `DIGRESSIO QUARTA`
+on the lower part of shared p. 98, examines Penottus's four arguments in Chapter
+V concerning cognition in and outside God, the mirror of the divine essence,
+the actual existence required by intuitive knowledge, and the alleged
+dependence and variation of divine knowledge, and includes Twisse's complete
+responses. It ends at the bottom of p. 103, immediately before the separately
+headed Penottus, Book III, Chapter XVIII on p. 104, and has six identical source
+markers. The p. 98 catchword `idque`, the p. 99 catchword `futura`, the p. 100
+catchword `non`, the p. 101 catchword `Res`, and the p. 102 division `Ada-` /
+`mum` are represented only by the complete textual occurrences at the heads of
+pp. 99–103; the paired markers stand immediately before `idque` / `and that`,
+`futura` / `future things`, `non` / `would not`, `Res` / `The thing`, and
+`Adamum` / `Adam` respectively.
+
+- `parts/part-52-digression-04-penottus-chapter-05-arguments-latin.txt`
+- `parts/part-52-digression-04-penottus-chapter-05-arguments-english.md`
+
+The next unit resumes on printed p. 104 / canvas 00130 with `IN GABRIELIS
+PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XVIII`, headed `An
+ratio sumpta ex rerum praesentialitate sic explicata sit sufficiens`, and begins
+`Rationem istam, juxta excogitatum Penotti commentum explicatam`.
 
 ## Editorial method and cautions
 

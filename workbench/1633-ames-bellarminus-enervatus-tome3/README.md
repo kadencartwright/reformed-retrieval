@@ -56,13 +56,13 @@ reply.
 
 ## Completed units
 
-**Parts 01–14 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–15 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
-(printed pages 59–66), and the opening argument blocks of Book IV, chapter I,
-through Ames's scriptural arguments against the real presence (printed pages
-67–94).
+(printed pages 59–66), the opening argument blocks of Book IV, chapter I, and
+the opening of chapter III through the complete `Argumenta Bellarmini` block
+of its first thesis (printed pages 67–97).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -127,6 +127,12 @@ through Ames's scriptural arguments against the real presence (printed pages
   heading on page 94).
   - `parts/part-14-book-04-eucharist-chapter-01-scriptural-arguments-against-real-presence-latin.txt`
   - `parts/part-14-book-04-eucharist-chapter-01-scriptural-arguments-against-real-presence-english.md`
+- **Part 15:** Book IV, *De Sacramento Eucharistiae*, chapter III: the chapter
+  opening, first question, `THESIS I`, and the complete `Argumenta Bellarmini`
+  block, arguments 1–7, printed pages 94–97 (ending before `Argumenta nostra`
+  on page 97).
+  - `parts/part-15-book-04-eucharist-chapter-03-bellarmine-arguments-latin.txt`
+  - `parts/part-15-book-04-eucharist-chapter-03-bellarmine-arguments-english.md`
 
 Both Part 12 files contain nine exactly synchronized printed-page markers. The
 four words divided across printed-page boundaries—`demonstrat` (pages 80/81),
@@ -155,8 +161,17 @@ The word divided across the printed page 93/94 boundary, `corpo- | ralibus`, is
 joined as `corporalibus` and placed wholly after the incoming page marker; the
 English marker is synchronized before “bodily foods.”
 
-The next untranslated boundary is `CAPVT III. De possibilitate praesentiae
-corporis & sanguinis Domini sub specie panis, & Vini`, on printed page 94. Its
-first question asks `an non implicet contradictionem unum corpus totum simul
-esse in pluribus locis?`, followed by `Argumenta Bellarmini`, `THESIS I`, and
-Bellarmine's first argument, `Matt. 19. Apud Deum omnia possibilia sunt`.
+Both Part 15 files contain four exactly synchronized printed-page markers. The
+page 94/95 break falls before `pluribus` (the preceding page's catchword is
+omitted), and the English marker is synchronized before “multiple.” The words
+divided across the printed page 95/96 and 96/97 boundaries—`obno- | xia` and
+`divi- | deretur`—are joined and placed wholly after the incoming page marker;
+the English markers are synchronized before “exposed” and “it would be
+divided.” The witness's forms `contractionem` and `demensiones` on page 94 and
+`calumnias` on page 96 are retained without silent correction. The
+gutter-obscured citation sequence on page 95 was checked against the clear
+1638 author-revised edition while the 1632 witness continues to govern the
+transcription.
+
+The next untranslated boundary is `Argumenta nostra`, on printed page 97,
+followed by item 8: `Protest. Matth. ult. Non est hic, surrexit enim.`

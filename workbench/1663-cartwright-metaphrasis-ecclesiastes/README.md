@@ -2134,3 +2134,21 @@ before the summary; the paired files retain it so that the source sequence
 remains complete. This joint unit is bounded by the exact repeated verse-10
 lemma rather than by an arbitrary image count. The next unit begins on reader
 image `PA319` / printed p. 320 at `Vers. 10. Quia nullum efficitur decretum`.
+
+**Part 98 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 8:10 lemma and its complete exposition on
+reader images `PA319` and `PA321`. It begins on printed p. 320 at `Vers. 10.
+Quia nullum efficitur decretum`, crosses the image join at the p. 320 catchword
+`Con- / Concessio`, and ends on printed p. 321 immediately before the repeated
+verse-11 lemma. The paired files have two exactly identical reader-image
+markers and retain the witness's printed `Psal. 31. 13.` and `2. Pet. 3.`, the
+axe and drawn-arrow comparisons, the contrast between delayed civil and
+divine punishment, and the source's irregular `effectum assignatur` and
+`thesaurizati sunt sibi iram` constructions:
+
+- `parts/part-98-homiliae-chapter-08-verse-10-latin.txt`
+- `parts/part-98-homiliae-chapter-08-verse-10-english.md`
+
+This unit is bounded by the exact repeated verse-11 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA321` / printed
+p. 321 at `Vers. 11. Quamvis peccatori facienti malum centies`.

@@ -965,6 +965,24 @@ additional proofs beginning `Quibus et alii adjungi possunt` are excluded.
 - English: `parts/part-56-romans-04-05-abraham-32-english.md`
 - Extent: three synchronized markers, printed pp. 276–278 / IA leaves 284–286
 
+## Part 57: thirty-third unit of the Romans 4:5 lecture
+
+Part 57 completes Tuckney's positive scriptural case that the remnants of
+sin are removed at death. He adds 2 Corinthians 5:1 and Philippians 1:23,
+then frames the conclusion formally: some sin remains throughout earthly
+life, while believers are with Christ and perfect as soon as they put off
+the body; therefore the soul's separation from the body coincides with its
+total and final separation from sin. A final physiological consideration
+distinguishes the soul as sin's proper subject from the corruptible and
+corrupting body that weighs it down. It runs from `Quibus et alii adjungi
+possunt` on printed p. 278 / IA leaf 286 through the close of that bodily
+consideration on printed p. 279 / IA leaf 287. The transition to opposing
+arguments, `Restat jam tantum ut perpendamus`, is excluded.
+
+- Latin: `parts/part-57-romans-04-05-abraham-33-latin.txt`
+- English: `parts/part-57-romans-04-05-abraham-33-english.md`
+- Extent: two synchronized markers, printed pp. 278–279 / IA leaves 286–287
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

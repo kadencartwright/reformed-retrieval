@@ -1687,3 +1687,34 @@ numbering in the second.
 
 - Latin: `parts/part-66-chapter-17b-latin.txt`
 - English: `parts/part-66-chapter-17b-english.md`
+
+**Part 67 is complete as a scan-audited working draft.** It begins within
+shared printed p. 716 / PDF 765 at the exact heading and opening question of
+Chapter XVIII, without repeating Chapter XVII's closing response concerning
+synodical voters. It contains all seven complete questions of Chapter XVIII:
+the sacramental exhibition and sealing of grace; administration by laypeople;
+the authority for infant baptism; the duration of baptism; baptismal efficacy;
+the Lord's Supper; and the coercive spiritual force of ecclesiastical
+discipline. It ends within shared printed p. 728 / PDF 777 after the complete
+fourth argument of the final question. The heading, lemma, and opening question
+of Chapter XIX are excluded and form the exact restart for Part 68. The pair
+has thirteen byte-identical synchronized markers for partial pp. 716 and 728
+and complete pp. 717–727. A page-by-page image audit against the controlling
+KBNL/UvA Google Books images covered all thirteen included frames, both
+shared-page boundaries, every page join, the exact chapter heading, all seven
+complete questions and their objection, response, quotation, and numbered
+structures, biblical, patristic, and polemical citations, Greek, and the
+absence of Hebrew and substantive marginalia. The printed errata has no
+applicable correction. The split words `circumcisionis`, `tamen`, `moralem`,
+`Baptismum`, `Objiciunt`, and `Disciplinæ` are joined with their new-page
+markers before the whole words and their English equivalents; catchwords are
+omitted. The Greek `ψιλὸν ἄνθρωπον`, `Θεάνθρωπον`, and `ἀσύστατα`, together
+with the witness's difficult or irregular wording and citations, including
+`Act. 2.42.`, `Act. 10.48.`, `Consepulti sumus igitur ei`, and `Rom. 6.2,3,4.`,
+are retained or disclosed rather than silently regularized. The English is a
+fresh translation from the accompanying Latin and preserves all seven
+questions, their argumentative structures, the sacramental distinctions, and
+Chapter XVIII's clean endpoint.
+
+- Latin: `parts/part-67-chapter-18-latin.txt`
+- English: `parts/part-67-chapter-18-english.md`

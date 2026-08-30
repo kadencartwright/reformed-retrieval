@@ -1,0 +1,332 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## CAPUT XVIII. DE Sacramentis & disciplina Ecclesiastica. — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins within shared printed p. 716 / PDF 765 at
+the exact heading and opening question of Chapter XVIII, without repeating
+Chapter XVII's closing response concerning synodical voters. It contains all
+seven complete questions of Chapter XVIII: the sacramental exhibition and
+sealing of grace; administration by laypeople; the authority for infant
+baptism; the duration of baptism; baptismal efficacy; the Lord's Supper; and
+the coercive spiritual force of ecclesiastical discipline. It ends within
+shared printed p. 728 after the complete fourth argument of the final
+question. The heading, lemma, and opening question of Chapter XIX are excluded
+and form the exact restart for Part 68. Printer line-end and page-end divisions
+have been joined; catchwords have been omitted, and each new-page marker
+precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: Greek is retained in normalized Unicode. No Hebrew or
+substantive marginal note occurs in this unit. The witness's difficult or
+irregular forms and citations, including `Act. 2.42.`, `Act. 10.48.`,
+`Consepulti sumus igitur ei`, and `Rom. 6.2,3,4.`, are retained rather than
+silently regularized.]
+
+[1668 KBNL/UvA witness | logical printed p. 716 | PDF p. 765 | begins at CAPUT XVIII]
+
+CAPUT XVIII.
+
+DE
+
+Sacramentis & disciplina Ecclesiastica.
+
+Quæritur, An rectè Remonstrantes Apol. cap. 23. fol. 244. Sacramenta esse signa,
+non modò
+
+[1668 KBNL/UvA witness | logical printed p. 717 | PDF p. 766]
+
+nobis repræsentantia & adumbrantia, sed & certo modo (significativo scilicet, &
+commemorativo tantùm) exhibentia & obsignantia? Hic enim conspirant cum Socino,
+qui in libro de officio hominis Christiani (ut observant doctissimi viri
+Professores Leydenses in Censura Confessionis Remonstrantium, cap. 23.) ait,
+Cùm cœna Domini celebratur, non quidem obsignatur peccatorum remissio, sed tantùm
+consequenter unà cum Christi morte, cujus effectus illa obsignatio est, illam
+olim obsignatam fuisse commemoratur ac prædicatur. Undè Sacramenta sunt tantùm
+essentialitèr signa declarantia & commemorativa, non sigilla exhibentia Christum,
+ejusque beneficia. Hoc ergò sensu nos Remonstrantium Sententiam negamus, & sic
+oppugnamus.
+
+1. Si Sacramenta essent signa tantùm commemorativa Christi & ejus beneficiorum;
+panis in Cœnâ Domini non esset magis sigillum corporis Domini manducanti, quàm
+aliis non manducantibus eo tempore; & Baptismus non magis esset lavacrum
+regenerationis ei, qui baptizatur; quàm testibus adstantibus & intuentibus
+Baptismi Administrationem. Nam adstantibus, aqua est commemorativè signum
+sanguinis Christi; & nonmanducantibus, panis, repræsentativè & declarativè est
+signum corporis Christi.
+
+2. Paulus, Rom. 4.11. ait, Sacramentum esse signum exhibitivum. Et signum accepit
+
+[1668 KBNL/UvA witness | logical printed p. 718 | PDF p. 767 | split word joined: circumcisionis]
+
+circumcisionis, sigillum Justitiæ fidei receptæ in præputio, ut esset pater
+omnium credentium in præputio, imputatâ etiam ipsis justitiâ. cap. 6.4. Consepulti
+sumus igitur Christo, per baptismum in mortem, ut sicut suscitatus est Christus
+ex mortuis, in gloriam Patris; ita & nos in novâ vitâ ambularemus. At consepultura
+hæc non est umbratilis & repræsentativa, sed vera & realis veteris hominis
+crucifixio. 1 Pet. 3.21. Cui rei nunc respondens exemplar Baptismi, nos quoque
+servat (non quo carnis sordes abjiciuntur, sed stipulatio bonæ conscientiæ apud
+Deum) per resurrectionem Jesu Christi. Mutum autem & umbratile signum, erit
+signum eò tantùm modo operans, quo aurora diem efficere dicitur, quæ nec causa
+nec instrumentum, sed diei merum signum est.
+
+Dicunt quidem Remonstrantes ibid. fol. 245. Utentes signis verâ fide, Deum sensu
+gratiæ suæ singularis dignari; undè fit, ut ii divinæ gratiæ gustum, quasi
+signaculum quoddam, percipiant in animo suo, quo promptiores & alacriores
+redduntur ad tam benevolum & misericordem Deum redamandum, ejusque beneficia &
+laudes in Ecclesiâ celebrandum. Alio modo ut sigilla vocentur, & obsignare
+dicantur divinam gratiam, incomprehensibile est. Sed signa faciunt Sacramenta
+merè memorativa; & sic de eorum dignitate & efficaciâ & recto usu detrahunt. Nam
+hoc modo, qui excubias agit per totam noctem, conspecto Lucifero, alactior
+redditur, & de ortu Solis summoperè gaudet; cùm
+
+[1668 KBNL/UvA witness | logical printed p. 719 | PDF p. 768 | split word joined: tamen]
+
+tamen ortus Solis tantùm operetur in mentem ejus ad modum nudi signi, actione
+merè objectivâ, non physicâ & reali.
+
+3. Paulus ait 1 Cor. 10.16. Poculum benedictionis cui benedicimus, nonnè communio
+sanguinis Christi est? Panis quem frangimus, nonnè communio corporis Christi
+est? Si vult panem esse communionem corporis Christi merè & solâ significatione,
+Sacramentum non erit efficacius salutis medium, quàm duodecim lapides in medio
+Jordanis erecti, qui commemorativa erant signa, ex Dei etiam instituto,
+miraculosi, populi in terram sanctam, ingressus. Imò panis, quo vescimur in
+privatis ædibus, literalem memoriam panis cœlestis, Christi corporis, excitare
+potest. At v. 21. exponit, quid sit poculum Domini sumere, nempe, est participem
+esse mensæ Domini; uti poculum dæmoniorum bibere, est reverâ & realitèr mensæ
+dæmoniorum participem esse. Imò Sacramentum eo modo credenti, erit signum, quo
+nuda litera Scripturæ per meram significationem dicitur signum.
+
+Nec moramur quod dicunt, non posse concipi exhibitionem gratiæ organicam, quæ
+nec sit physica, nec moralis tantùm & objectiva, nec utrumque simul, sed aliquid
+amplius, & quid relativum & Sacramentale. Nam nos damus tertium, nempe;
+hyperphysicam, quæ nec sit physica nec moralis. Prætereà inter homines etiam
+sunt signa exhibitiva rei significatæ, quæ & physicam &
+
+[1668 KBNL/UvA witness | logical printed p. 720 | PDF p. 769 | split word joined: moralem]
+
+moralem habent rationem, & plùs quàm nudam significationem aut commemorationem.
+Sicuti clavium Regiæ Arcis Duci exhibitio, nec est physica lapidum & lignorum
+Arcis in manum traditio, nec mera memorativa & moralis significatio, quæ nudis
+verbis fieri potest; est tamen realis exhibitio Arcis Duci custodiendæ. Et
+sigillum diplomatis appensum chartæ, non est physica terrarum exhibitio, nec est
+nudum signum Domini fundi mentem tantùm objectivè & literaliter excitans; sed
+est realis confirmatio exhibitiva terrarum. Idem dicendum de datione in manum,
+lapidis & glebæ, à Domino fundi, ei, qui legitimus fundi de novo Proprietarius
+vel Possessor legalitèr statuitur; Nec est omnium jugerum terræ physica datio,
+nec mera significatio nuda; sed realis translatio & alienatio fundi, in
+possessionem aut jus novi Domini.
+
+Nec item moramur quod dicunt, intelligi non posse, quomodo signa ista concurrant
+ut instrumenta seu media exhibitiva gratiæ; cùm fideles qui illa usurpant,
+antequam ea usurpent, de gratiâ promissâ sint persuasissimi; remque signis istis
+significatam, jam ante, firmâ fide apprehenderint; & cùm immediata gratiæ
+operatio in mentem & voluntatem, & instrumentalis operatio, sint
+incompatibilia. Quia si hæc ratio valeret, Sacramentum vix esset nudum signum
+commemorativum; quia jam ante manducationem panis in cœnâ, fideles apprehenderunt
+
+[1668 KBNL/UvA witness | logical printed p. 721 | PDF p. 770]
+
+per fidem, gratiam Christi. At verò nos dicimus, auctiorem gratiam dari per
+Sacramenti receptionem; & quamvis actio Organica Sacramenti sit nobis
+incomprehensibilis, & quia Arminiani rem ratione metiri non possunt (quâ ulnâ,
+Dei mysteria semper conantur mensurare,) an ideò res ipsa neganda est?
+
+Quæritur, An Sacramenta à quovis Laico administrari possint? Fieri posse docent,
+cum Socinianis, Remonstrantes, Apol. cap. 23. fol. 246.
+
+Nos administrationem Sacramentorum, cum Scripturis, ad solos Ministros
+restringimus.
+
+1. Quia Matth. 28.19. Act. 2.42. 1 Cor. 1.14,15,16,17. Act. 10.48. 1 Cor. 11.23.
+solis Ministris imperatur & tribuitur Sacramentorum administratio.
+
+2. Quia nulla necessitas Sacramentorum (cùm ad salutem non sint absolutè
+necessaria) cogit nos à praxi Christi & Apostolorum recedere.
+
+Concilium Carthaginense, Canone 100. Mulier baptizare non præsumat. Gratianus de
+Consecrat. distinct. 4. perversè & corruptè addit hæc verba, Nisi cogente
+necessitate. Tertullianus de velandis mulieribus. Non permittitur mulieri in
+Ecclesia loqui, sed nec docere, nec tingere, nec offerre. Augustinus dubitanter,
+non certâ fide hic loquitur contra Epistolam Parmen. lib. 2. cap. 13. Si Laicus
+pereunti Baptismum dederit, necessitate compulsus, nescio an
+
+[1668 KBNL/UvA witness | logical printed p. 722 | PDF p. 771]
+
+piè dixerit esse repetendum.
+
+MATTH. 28.19.
+
+Profecti ergò, docete omnes gentes, Baptizantes eos in nomen Patris & Filii &
+Spiritûs Sancti.
+
+Quæritur, An rectè Remonstrantes in Apol. cap. 23. fol. 252. doceant,
+Pædobaptismum à se usurpari tanquam antiquum ritum; sed nec ex Christi præcepto,
+nec ex Apostolicâ institutione, authoritatem habere? Nos negamus.
+
+1. Quia habemus hic argumentum Spiritûs Sancti. Act. 2.38. Baptizetur
+unusquisque vestrûm &c. v. 39. Vobis enim facta est promissio, & liberis vestris.
+Hinc argumentum Petri; Quibus facta est promissio, ii baptizandi sunt; At Judæis
+& Judæorum liberis, facta est promissio. Ergo &c.
+
+2. Argumentum Dei est. Gen. 17. Ad quos spectat promissio Fœderis, ad eos spectat
+sigillum Fœderis, etsi plerique ob ætatis defectum ignorent sigillum Fœderis.
+Sed ad omnes Fidelium liberos spectat promissio Fœderis. Ergò &c. Major est.
+Gen. 17.7. --- 13. Ego ero Deus tuus, & Deus seminis tui; Ergò, omnis mas octavo
+die circumciditor. At hoc argumentum apud nos valet; quia Baptismus, quoad
+substantiam, est idem Sacramentum cum Circumcisione, & ejusdem Fœderis sigillum;
+ut patet ex Rom. 6.4,5. Col. 2.11,12.
+
+3. Non mirum est, Remonstrantes Pædobaptismum in quæstionem vocare, cùm
+Scriptura
+
+[1668 KBNL/UvA witness | logical printed p. 723 | PDF p. 772 | split word joined: Baptismum]
+
+Baptismum fieri in remissionem peccatorum asserat, & illi negent ullum peccatum
+propriè dictum esse in infantibus. Juxta quam hypothesin, mos & ritus, non
+sanctus nec indifferens, sed planè illicitus & Verbo Dei repugnans, esset
+Pædobaptismus.
+
+Quæritur, An Baptismus sit tantùm ritus temporarius, ad finem mundi non duraturus
+ex Christi instituto? Ajunt Remonstrantes. Episcop. disp. priv. 29. coroll. 1.
+Ità Sociniani:
+
+Nos negamus. 1. Quia est N. Testamenti Sacramentum, annexum prædicationi Verbi &
+doctrinæ Evangelii, & ejusdem cum illâ institutionis & durationis. Ergo ex
+Christi instituto & promissione, durabit ad finem mundi. Matth. 28.19,20. Mar.
+16.15,16.
+
+2. Quia Baptismus omnibus adultis, æquè ac Fides & Resipiscentia, imperatur, qui
+salvari velint. Mar. 16.16. Act. 2.37,38,39.
+
+3. Quia omnibus familiis fidem profitentibus mandatur. Act. 10.47. Nam quis
+aquam prohibere potest, quominus (videlicet) baptizentur isti, qui Spiritum
+Sanctum acceperunt, sicut & nos? Ad consummationem autem seculi, recipitur
+Spiritus Sanctus; & cum suis ad finem mundi manet. Joan. 14.16.
+
+4. Quia Baptismus est medium regenerationis à Deo institutum, & salvare nos
+dicitur. Rom. 6.2,3,4. Col. 2.11,12. Tit. 3.3,4. 1 Pet. 3.21. Et
+
+[1668 KBNL/UvA witness | logical printed p. 724 | PDF p. 773]
+
+ejus effectus est etiam interna ablutio à peccatis. Act. 2.38. 1 Pet. 3.21.
+Durare ergo in hoc mundo debet, quousque durat regeneratio & peccatorum
+remissio; id est, usque ad finem mundi.
+
+Quæritur, An Baptismus tantùm sit solennis ritus, quo ab aliis discernimur, &
+cultui divino inserimur, non autem per quem realitèr gratia confertur? Ajunt
+Remonstrantes, Confess. cap. 23. thes. 3. Apol. cap. 23. fol. 243. Episcop.
+disp. 29. thes. 8. Socinus de Officio hominis Christiani, cap. 4. Smalcius,
+disp. 9. contra Frantzium. pag. 299. Fabulæ sunt, aliquam esse internam
+efficaciam in Baptismo.
+
+Contrà. 1. Marci 1.4. Joannes prædicabat baptismum resipiscentiæ, ad remissionem
+peccatorum.
+
+2. Rom. 6.4. Consepulti sumus igitur ei per Baptismum in mortem ejus. Et 1 Pet.
+3.21. Cui nunc rei respondens exemplar Baptismi, nos quoque servat (non quo
+carnis sordes abjiciuntur, sed stipulatio bonæ conscientiæ apud Deum) per
+resurrectionem Jesu Christi. At nudâ significatione repræsentari in Baptismo,
+tantùm literaliter, remissionem peccatorum & regenerationem, est, Baptismum esse
+signum nudum.
+
+3. Quia finis & intentio est Christi, ut Ecclesiam mundaret lavacro aquæ per
+verbum. Eph. 5.25,26.
+
+4. Quia si Pædobaptismus est ritus divinâ institutione non-necessarius, non
+potest esse infantibus moralis admonitio de peccati remissione,
+
+[1668 KBNL/UvA witness | logical printed p. 725 | PDF p. 774]
+
+cùm nullum propriè dictum peccatum, quod egeat remissione, esse in infantibus,
+doceant. Apol. fol. 84,85.
+
+Quæritur, An in Cœnâ Domini tantùm annuncietur & commemoretur mors Christi,
+nulla verò dona spiritualia obsignentur? Ajunt Remonstrantes, Confess. cap. 23.
+thes. 4. Apol. cap. 23. fol. 249. Arminius in Articulis perpendendis. Ità
+Catechesis Racoviensis de Prophetico munere Jesu Christi. cap. 3. p. 186. Nos
+contrà, obsignari & realitèr conferri nobis Christum, ejusque beneficia, sed
+modo spirituali, docemus.
+
+1. 1 Cor. 10.16. Poculum benedictionis cui benedicimus, nonnè communio sanguinis
+Christi est? Panis quem frangimus, nonnè communio corporis Christi est? Matth.
+26.28. Hoc est enim sanguis meus Novi Fœderis, qui pro multis effunditur in
+remissionem peccatorum. Exod. 12.13. Erit enim sanguis ille pro vobis in signum,
+super illas domus, ubi eritis, ut videns sanguinem illum transeam præter vos:
+sic non erit in vobis plaga exitialis, cùm cædam primogenita in terrâ Ægypti. At
+realis erat liberatio Israelis ex strage & factâ cæde, eâ nocte, quâ cæsi sunt
+primogeniti Ægypti.
+
+2. Quia licèt communionem cum physicâ corporis substantiâ negemus; attamen
+realem, sed spiritualem (quæ imaginariæ & merè significativæ opponatur) necesse
+est agnoscamus: alioqui Christus non datur nobis in verum & reale alimentum
+animæ.
+
+[1668 KBNL/UvA witness | logical printed p. 726 | PDF p. 775 | split word joined: Objiciunt]
+
+Objiciunt. At eo tantùm modo in Sacramento, Christi corporis participes sumus,
+quo sumus in Verbo, illius participes. i.e. solâ fide. Resp. At Arminiani nec
+dicent, nos per Verbum alitèr esse participes corporis Christi, quàm solâ
+significatione & actione morali. 2. Calvin. Instit. lib. 4. cap. 17. sect. 7,8,9.
+Communionem altam & admirandam, vocat. Et Beza, quæst. de Sacram. dicit esse
+mysterium incomprehensibile. Sed licèt sit per fidem communio, quâ tanquam ore
+spirituali, Christi corpus comedimus; non est tamen per solam fidem, quæ Verbi
+prædicationem comitatur; sed prout fides gratiosam exhibitionem rerum Sacramento
+contentarum percipit: cùm reverâ Deus ad præsentiam & rectum usum Elementorum &
+rituum, gratiam realitèr exhibeat.
+
+Quæritur, An rectè negent Remonstrantes, Apol. c. 24. fol. 256. Ecclesiam in
+actu Disciplinæ, nullam omninò vim exercere; non tantùm non carnalem, qualem
+exercet Magistratus; sed nè quidem internam & Ecclesiasticam, quæ rei
+conscientiam tenet obligatam coram Deo, & eum excludat regno cœlorum, propter
+crimen hæreseos? Nos negamus.
+
+1. Quia vox Ecclesiæ, clave non errante, contra Hæreticum procedentis, est vox
+Christi; juxta illud, Qui vos spernit, me spernit; qui vos audit, me audit. Et,
+Quorum peccata remiseritis, erunt remissa; quorum retinueritis, erunt retenta.
+Ergo, si Christus habet vim coactivam in eum, qui errat
+
+[1668 KBNL/UvA witness | logical printed p. 727 | PDF p. 776]
+
+circa Fundamentalia, & credit Christum esse Impostorem; Ecclesia eandem vim
+coactivam habet sub Christo. Et si Christus ligat principalitèr, ligat & Ecclesia
+ministerialitèr.
+
+2. Quia hoc idem est, quod alibi docent, Apol. cap. 24. fol. 277. Qualibet secta
+Disciplinam exercere poteris, pro dictamine conscientiæ suæ; & quod nobis in
+alios, idem aliis licebit in nos, salvo utriusque pietatis studio, &, quod
+Magistratibus debetur, obsequio. Undè Ariani licitè & secundùm regulas à Christo
+Rege præscriptas, nos excommunicant: Et Anabaptisticæ Sectæ, Socinianicæ, Arianæ,
+licebit excommunicare & cœlo proscribere omnes alias Sectas; (id enim eorum
+conscientia dictitat) & licebit nobis, Socinianos, Anabaptistas, excommunicare &
+cœlo proscribere. Et cœlo proscribi credentes Christum esse ψιλὸν ἄνθρωπον, &
+cœlo proscribi non credentes Christum esse ψιλὸν ἄνθρωπον, sed esse
+Θεάνθρωπον, facit duorum actuum Disciplinæ licitorum, objecta esse ἀσύστατα &
+contradictoria; quod est omninò absurdum.
+
+3. Quia supponunt dictamen conscientiæ privatum, esse regulam obligantem
+conscientiam in exercitio Disciplinæ. Rectè ergo, Pontificiorum Secta, si
+dictamini conscientiæ suæ non reluctetur in Disciplinâ suâ, nos fulmine
+Excommunicationis perculit. Cur ergò Papæ infallibilitati renunciamus?
+
+[1668 KBNL/UvA witness | logical printed p. 728 | PDF p. 777 | split word joined: Disciplinæ]
+
+4. Disciplinæ Ecclesiasticæ vim conscientias cogentem negant, aut in dubium
+vocant, non tantùm circa errantes, i.e. simplicem errorem mentis errantes, sed
+etiam circa peccantes. Circa peccatores (inquiunt Apologistæ) id fieri videmus,
+quantò magis circa errantes id fieri æquum est? Et tutius fortassè fuerit,
+errantem, dummodo probus piusque sit, diutissimè tolerare, quàm unquam à cœtibus
+nostris arcere, si iis gaudeat, eos amet. At si error non est culpa, ut ii
+docent, veniam & misericordiam meretur; imò est innocentia & pietas, imò (Ibidem)
+propriè dicta innocentia; tùm non fortassè tandem, sed nunquam à cœtibus nostris
+arceri debet errans, i.e. excommunicari. Quia Excommunicatio est punitio à
+Christo instituta; & punire non debet Ecclesia non-peccantem; multò minùs potest
+punire hominem propter propriè dictam innocentiam. Si quis igitur Judæus, ex
+simplici errore mentis crederet Christum esse Pseudo-prophetam, non esset ei
+nostrâ communione interdicendum.

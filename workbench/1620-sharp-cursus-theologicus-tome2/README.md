@@ -91,9 +91,17 @@ nine synchronized printed-column markers:
 - `parts/part-04-church-triumphant-question-04-latin.txt`
 - `parts/part-04-church-triumphant-question-04-english.md`
 
-The next continuation boundary is therefore the start of Question V,
-`QUAESTIO QUINTA. De Sanctorum invocatione`, in printed column 42 on BSB
-canvas 21.
+**Part 05 is complete as an AI-assisted, unreviewed working draft.** It opens
+Question V, on the invocation of the saints, with Bellarmine's position,
+Sharp's counter-thesis, and the complete initial series of Arguments 1–15 in
+printed columns 42–45. It ends immediately before `OBIECTIONES` and contains
+four synchronized printed-column markers:
+
+- `parts/part-05-church-triumphant-question-05-opening-arguments-latin.txt`
+- `parts/part-05-church-triumphant-question-05-opening-arguments-english.md`
+
+The next continuation boundary is therefore `OBIECTIONES`, beginning with
+Objection 1 from Job 42:8 in printed column 45 on BSB canvas 23.
 
 ## Review and licensing notice
 

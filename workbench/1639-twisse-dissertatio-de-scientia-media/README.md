@@ -533,6 +533,17 @@ source marker.
 The next unit resumes on printed p. 87 / canvas 00113 with `Tertio quando Thomas
 ex praesentialitate rerum conciliavit certitudinem divinae praescientiae...`.
 
+Part 48 spans **printed pp. 87–88 / BSB canvases 00113–00114** and contains
+Penottus's complete third proposition distinguishing two explanations of
+divine foreknowledge. It ends immediately before Twisse's `Respons.` and has
+two identical markers.
+
+- `parts/part-48-penottus-book-03-chapter-17-proposition-03-latin.txt`
+- `parts/part-48-penottus-book-03-chapter-17-proposition-03-english.md`
+
+The next unit resumes on printed p. 88 / canvas 00114 at `Respons. Diserte
+dicit Thomas futurum esse praesens eo prout actu habet esse in seipso...`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

@@ -847,7 +847,38 @@ human review.
 - `parts/part-21-chapter-21b-latin.txt`
 - `parts/part-21-chapter-21b-english.md`
 
-The next unit begins with `Vers. 7. Vastatio improborum dissecabit eos, qui
-renuerunt exercere judicium.` in the left column of shared PDF 461 / printed
-column 906; restart at that lemma, excluding the final verse 6 sentence above
-it.
+**Part 21c is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `Vers. 7. Vastatio improborum
+dissecabit eos, qui renuerunt exercere judicium.` in the left column of shared
+PDF 461 / printed column 906 through the final prose of verse 9 on PDF 464 /
+printed column 913, ending `facile illas ad pietatem & officium revocatas iri.`
+It stops immediately before `V. 10. Anima improbi expetit malum; gratiam non
+consequitur in oculis ejus proximus ejus.` in that same right column. Latin and
+English have four byte-identical source markers (PDF 461–464; synchronized
+printed columns 906–907 through 912–913) and retain all three verse lemmata,
+full in-scope prose, Hebrew, Greek, citations, abbreviations, the embedded
+English phrase, and printed irregularities. The complete files contain 1,847
+Latin-file and 2,607 English-file whitespace-delimited words, respectively,
+including headers and markers.
+
+Every core image, PDF 461–464, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-461 marker begins only at
+`Vers. 7.` in the left column; the final verse 6 sentence above it is excluded.
+The final PDF-464 marker ends with the concluding prose of verse 9 above `V.
+10.`; no verse 10 material is imported. Page-turn catchwords `vero`, `litas`,
+and `loco` and the divided fragment `mutabi-` were excluded rather than
+duplicated. The wording `verò`, `mutabilitas`, and `loco`, with its
+corresponding English wording, was assigned wholly to receiving PDF 462, PDF
+463, and PDF 464 markers. Witness forms including `admisso`, `exacutum`,
+`judic's`, `hypocrisis`, `effecto`, `Ut cunque`, `rei peragendi`, `Priscill.`,
+`quod scripsi, scripsi`, `immorigera`, `substractum`, `foem.?`, and `He
+looketh 9. wayes at once.` were retained. This remains an AI-assisted working
+edition requiring qualified human review.
+
+- `parts/part-21-chapter-21c-latin.txt`
+- `parts/part-21-chapter-21c-english.md`
+
+The next unit begins with `V. 10. Anima improbi expetit malum; gratiam non
+consequitur in oculis ejus proximus ejus.` in the right column of shared PDF
+464 / printed column 913; restart at that lemma, excluding the final verse 9
+sentence above it.

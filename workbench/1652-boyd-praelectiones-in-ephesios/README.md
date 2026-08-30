@@ -67,6 +67,7 @@ same scan can legitimately close one part and open the next:
 | 22 | XXII | 126–130 | 84–88 | `Secundum Corollarium, ad Electionis conjugata, h.e. Electos ipsos pertinebit` through the fixed number of the elect, the final election corollary, and the name, scriptural basis, definition, two acts, and final causes of reprobation, ending `Atque hæc de ejus causâ finali dicta sunto` before Lecture XXIII |
 | 23 | XXIII | 130, 133–137 | 88–93 | `Sequitur nunc ut ejus effecta sive consequentia attingamus` through the distinction between effects and consequences, divine desertion, reprobation's conditions and comparison with election, three uses, and rules for judging persons, ending `à salutis limine arceamus aut excludamus` before Lecture XXIV; scans 131–132 are redundant captures of printed pages 87–88 and are not separately transcribed |
 | 24 | XXIV | 137–142 | 93–98 | `Atque hucusque totam Prædestinationis doctrinam` through the division of opposing arguments and the first three objections against predestination—concerning the decree's absoluteness, universal saving will, and universal redemption—and their answers, ending `nec veritatis appositæ lumen, nedum oppositæ limam aut collidentis aut elidentis impetum ferre possint` before Lecture XXV |
+| 25 | XXV | 142–148 | 98–104 | `Nunc & quartam objectionem in medium afferamus` through the fourth and fifth objections in the first class, the transition to the alleged impelling causes of election, and the arguments from foreseen faith, works, and Christ's merit, ending `sed ejus potiùs effectum sive consequens, ut ex se manifestum est` before Lecture XXVI |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -130,8 +131,9 @@ English translation:
 | 22 | The fixed number of the elect and the causes of reprobation | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt) | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md) |
 | 23 | The effects and consequences of reprobation | [`part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt) | [`part-23-praelection-23-effects-and-consequences-of-reprobation-english.md`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-english.md) |
 | 24 | Objections against predestination | [`part-24-praelection-24-objections-against-predestination-latin.txt`](parts/part-24-praelection-24-objections-against-predestination-latin.txt) | [`part-24-praelection-24-objections-against-predestination-english.md`](parts/part-24-praelection-24-objections-against-predestination-english.md) |
+| 25 | Immutability and the alleged causes of election | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-latin.txt) | [`part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md`](parts/part-25-praelection-25-immutability-and-alleged-causes-of-election-english.md) |
 
-The completed sequence now extends through Lecture XXIV. Its successive subjects
+The completed sequence now extends through Lecture XXV. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -290,6 +292,17 @@ also develops its final answer through the conditional threat to Nineveh,
 different kinds of divine command, and the responsibility of those who reject
 the gospel, before closing the third objection immediately prior to Lecture
 XXV's fourth objection.
+Lecture XXV completes the first class of objections. It answers the claim that
+a universal election would be a greater good by distinguishing simple and
+comparative goods, the supreme end from subordinate means, and extension from
+intension. It then reconciles the decree's immutability with creaturely
+freedom, contingent secondary causes, and the necessary use of divinely
+appointed means. Turning to the second class, the lecture rejects foreseen
+faith, foreseen works, and Christ's merit as antecedent or impelling causes of
+election. Its scriptural answers distinguish election in Christ from present
+union by faith, eternal favor from actual acceptance in justification, the
+signs and effects of election from its cause, and the meritorious cause of
+justification from the antecedent cause of God's decree.
 
 ## Validation
 

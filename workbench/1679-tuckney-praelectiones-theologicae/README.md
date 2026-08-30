@@ -1514,6 +1514,14 @@ Part 91 begins the formal confirmation from Scripture with the prophets and Chri
 - English: `parts/part-91-moral-law-06-english.md`
 - Extent: one synchronized marker, new-series fol. 30 / IA leaf 350
 
+## Part 92: seventh unit on the moral law under the gospel
+
+Part 92 gives Tuckney's five-point close reading of Christ's words in Matthew 5:17–18, explains the four ways in which Christ fulfilled the law, and defends the testimony against Suarez's exception. It runs from `At loci ἔμφασιν (si placet) attendamus` on new-series fol. 30 / IA leaf 350 through Tuckney's three-part answer to Suarez on new-series fol. 31 / IA leaf 351. The turn to the apostolic testimony beginning `Apostolos vero, eorumque testimonia quod spectat` is excluded.
+
+- Latin: `parts/part-92-moral-law-07-latin.txt`
+- English: `parts/part-92-moral-law-07-english.md`
+- Extent: two synchronized markers, new-series fols. 30–31 / IA leaves 350–351
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

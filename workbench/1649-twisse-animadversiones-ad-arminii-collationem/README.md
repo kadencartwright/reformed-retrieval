@@ -613,21 +613,74 @@ working draft.
 - `parts/part-18-proposition-17-latin.txt`
 - `parts/part-18-proposition-17-english.md`
 
+## Part 19: exact authorial boundary
+
+Part 19 begins with the centered headings `Propositio Decima-octava.` and
+`SECTIO PRIMA` lower in the shared right column of **first-body printed p. 71 /
+BSB canvas 83** and contains Proposition XVIII in full. Section I gives
+Arminius's first argument against punishment following preterition, Junius's
+answer, Arminius's extended reply, and Twisse's response concerning Adam's
+grace and freedom, divine permission, providence, predestination, necessity,
+and foreknowledge. Section II gives the argument from spiritual punishment and
+reward, the Junius–Arminius exchange, and Twisse's complete response concerning
+natural and supernatural power, the form of Arminius's syllogisms, Thomas
+Aquinas, and conditional preparation of eternal life. The unit continues
+through **first-body printed p. 77 / BSB canvas 89**, with seven synchronized
+source markers.
+
+At the p. 71–72 join the printer divides the phrase after `in`, and the p. 71
+catchword `hominis` does not match the p. 72 opening `homine`; the normalized
+Latin retains the printed p. 71 `in` and places the p. 72 marker before the
+opening `homine`, while the English marker correspondingly stands between
+“in” and “man.” At the p. 72–73 join the catchword `potentia` is omitted and
+the p. 73 marker precedes the full word. At the p. 73–74 join the printer
+divides `possi-` / `bilibus`; the Latin joins `possibilibus` and places the
+p. 74 marker before the complete word, while the English correspondingly
+places it before “possibilities.” At the p. 74–75 join the catchword `potest` is
+omitted and the Latin marker precedes the p. 75 opening, while the English
+marker correspondingly precedes “possible.” At the p. 75–76 join the printer
+divides `praeteritio-` / `nem` and repeats `nem` as a catchword; the normalized
+Latin joins `praeteritionem` and puts the marker before the complete word,
+while the English places it before “preterition.” At the p. 76–77 join the
+catchword `sua` is omitted and the marker precedes the p. 77 opening.
+
+The printed grammatical forms `est aut providentia`, `actus ille est
+providentia`, `libere transgressus est lege Dei`, and `fuisse inconveniente`
+are retained in the Latin rather than silently regularized. The printed Greek
+`κακὸν ὢν`, `κυρίαν δόξαν`, and `μυστηριῶδές` is retained and
+rendered or transliterated in the English. Twisse's response to Section I
+retains the printed return from `3.` to `2.` before proceeding again to `3.`
+No printed marginal annotation occurs within this unit.
+
+The unit stops in the left column of printed p. 77 after Twisse's sentence
+ending:
+
+> `… Arminium gravem dissertatorem nequaquam decent.`
+
+It stops immediately before the centered heading `Propositio decimanona.`
+lower in the same column. The next part must therefore begin with that heading
+and repeat the marker for **first-body printed p. 77 / BSB canvas 89**; it must
+not advance directly to p. 78. The Latin and English markers are
+byte-identical, and the pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-19-proposition-18-latin.txt`
+- `parts/part-19-proposition-18-english.md`
+
 ## Status
 
-**Parts 01–18 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–19 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 71 of 135,
-a continuation-position estimate of about 52.6% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 77 of 135,
+a continuation-position estimate of about 57.0% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 11.7% of their combined printed-page extent. Because p. 71 is shared
-with the untranslated Proposition XVIII, these are position estimates, not a
-claim that 71 complete pages—or the same percentage of words—have been
+at about 12.6% of their combined printed-page extent. Because p. 77 is shared
+with the untranslated Proposition XIX, these are position estimates, not a
+claim that 77 complete pages—or the same percentage of words—have been
 reviewed.
 
-No global status ledger or manifest is updated by this Part 18 continuation,
+No global status ledger or manifest is updated by this Part 19 continuation,
 and no claim of human review is made.

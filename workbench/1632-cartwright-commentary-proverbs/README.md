@@ -1035,7 +1035,39 @@ an AI-assisted working edition requiring qualified human review.
 - `parts/part-21-chapter-21h-latin.txt`
 - `parts/part-21-chapter-21h-english.md`
 
-The next unit begins with `Vers. 21. Persequens justitiam, & benignitatem
-inveniet vitam, justitiam, & honorem.` in the right column of shared PDF 475 /
-printed column 935; restart at that lemma, excluding the final verse 20
-sentence above it.
+**Part 21i is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `Vers. 21. Persequens
+justitiam, & benignitatem inveniet vitam, justitiam, & honorem.` in the right
+column of shared PDF 475 / printed column 935 through the final prose of verse
+28 on PDF 482 / printed column 949, ending `ne ad dicendum testim.
+admittantur.` It stops immediately before `Vers. 29. Obfirmat vir improbus
+faciem suam: rectus autem aptat viam suam.` in that same right column. Latin
+and English have eight byte-identical source markers (PDF 475–482;
+synchronized printed columns 934–935 through 948–949) and retain all eight
+verse lemmata, full in-scope prose, the analytical structure, Hebrew, Greek,
+citations, abbreviations, and printing irregularities. The complete files
+contain 3,469 Latin-file and 4,878 English-file whitespace-delimited words,
+respectively, including headers and markers.
+
+Every core image, PDF 475–482, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-475 marker begins only at
+`Vers. 21.` in the right column; all final verse 20 prose above it is excluded.
+At the subsequent page turns, catchwords `prome-`, `administr-`, `animum`,
+`In`, `ribus`, `hone-`, and `palam` were excluded rather than duplicated. The
+whole divided wording `promeritos`, `administratione`, `animum`,
+`peccatoribus`, `honestatem`, and `palam`, with its corresponding English
+wording, was assigned to the receiving PDF 476, 477, 478, 480, 481, and 482
+markers; the catchword `In` precedes a fresh paragraph beginning wholly under
+PDF 479. The final PDF-482 marker includes only the conclusion of verse 28
+above `Vers. 29.`; no verse 29 material is imported. Witness forms including
+`cavendum`, `hostile animum`, `quos piger desiderat`, `usq;`, `atq;`,
+`missificant`, `mandata 5. priora`, `foecibus`, `sorices`, `obthurabitur`, and
+`nec illi in foro nunquam` were retained. This remains an AI-assisted working
+edition requiring qualified human review.
+
+- `parts/part-21-chapter-21i-latin.txt`
+- `parts/part-21-chapter-21i-english.md`
+
+The next unit begins with `Vers. 29. Obfirmat vir improbus faciem suam: rectus
+autem aptat viam suam.` in the right column of shared PDF 482 / printed column
+949; restart at that lemma, excluding the final verse 28 sentence above it.

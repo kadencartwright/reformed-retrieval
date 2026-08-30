@@ -231,6 +231,27 @@ printed p. 94 / IA leaf 102 and is excluded.
   Chrysostom on printed p. 93 is rendered closely in the English while the
   witness's wording is retained in the Latin transcription.
 
+## Part 09: eighth unit of the Romans 1:17 lecture
+
+Part 09 answers Bellarmine's attempt to restrict Paul's exclusion of a
+believer's works, then completes Tuckney's second inquiry into the principal
+aim of Paul's argument. Augustine, Ambrose, Jerome, and Protestant expositors
+are marshalled to show that Paul's chief thesis is gratuitous justification
+by faith in Christ without works of any kind. It begins with `Quod vero
+alicubi respondet Bellarminus ...` on printed p. 94 / IA leaf 102 and ends
+with `Et primo de priore` partway down printed p. 98 / IA leaf 106. The next
+centered question, `An cum Apostolus nos ex operibus legis justificari negat,
+sola opera Ceremonialia excludat`, begins the separate examination of the
+first Roman Catholic restriction and is excluded.
+
+- Latin: `parts/part-09-romans-01-17-justification-08-latin.txt`
+- English: `parts/part-09-romans-01-17-justification-08-english.md`
+- Extent: five synchronized markers, printed pp. 94–98 / IA leaves 102–106
+- Scripts and disclosure: the Greek terms and all marginal source references
+  are retained in both files. The brief Greek phrase spanning the p. 94/95
+  join is difficult in the microfilm; its visible wording is retained in the
+  Latin and its contextual force is rendered conservatively in the English.
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

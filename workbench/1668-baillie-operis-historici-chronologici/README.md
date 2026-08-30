@@ -298,6 +298,58 @@ excluded. Both controlling 300-dpi images, `pdf-186.jpg` and `pdf-187.jpg`,
 were used for the transcription; OCR and PDF text served only as aids. The
 pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 15 boundary and status
+
+Part 15 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 157 and 159 and complete p. 158, IA leaves
+187–189, access-PDF pp. 187–189, and DjVu OCR objects 186–188. It begins in
+the left column of printed p. 157 immediately after Part 14 with `QUAESTIO
+VII. Quomodo concilietur Esdrae quartum v. 6, 7. cum ejusdem sexto vers. 14,
+15?`, contains Question VII in full, and ends in the left column of printed p.
+159 after `Persarum omnium benignissimo.`
+
+`QUAESTIO VIII. Quisnam ille Darius fuerit, cujus anno secundo templum
+reaedificari & sexto perfici dicitur Esdrae 4. v. 24. & 6. v. 15?` begins
+below it in the same column and is wholly excluded. All three controlling
+300-dpi images, `pdf-187.jpg` through `pdf-189.jpg`, were used for the
+transcription; OCR and PDF text served only as aids. Page-spanning words were
+joined and placed wholly after the later synchronized marker. The pair
+remains an AI-assisted, unreviewed draft and is not publication-ready.
+
+## Part 16 boundary and status
+
+Part 16 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 159 and 161 and complete p. 160, IA leaves
+189–191, access-PDF pp. 189–191, and DjVu OCR objects 188–190. It begins in
+the left column of printed p. 159 immediately after Part 15 with `QUAESTIO
+VIII`, contains Question VIII in full, and ends in the right column of printed
+p. 161 after `Caetera ejus firmamenta in primo nostro argumento dissolvimus.`
+
+`QUAESTIO IX. Quis fuerit Artaxerxes, à quo Esdras & Nehemias Hierosolymam
+missi sunt?` begins below it in the same column and is wholly excluded. All
+three controlling 300-dpi images, `pdf-189.jpg` through `pdf-191.jpg`, were
+used for the transcription; OCR and PDF text served only as aids. Page-
+spanning words were joined and placed wholly after the later synchronized
+marker. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
+## Part 17 boundary and status
+
+Part 17 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 161–162, IA leaves 191–192, access-PDF pp. 191–192, and
+DjVu OCR objects 190–191. It begins in the right column of printed p. 161
+immediately after Part 16 with `QUAESTIO IX`, contains Question IX in full,
+and ends in the left column of printed p. 162 after `Itaque ne actum agamus
+procedimus ad alia.`
+
+`QUAESTIO X. An Septuaginta hebdomadae Danielis tempus aliquod certum &
+definitum, an verò incertum & indefinitum importent?` begins below it in the
+same column and is wholly excluded. Both controlling 300-dpi images,
+`pdf-191.jpg` and `pdf-192.jpg`, were used for the transcription; OCR and PDF
+text served only as aids. The word divided across the p. 161/p. 162 break is
+joined and placed wholly after the p. 162 marker in both files. The pair
+remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -342,12 +394,19 @@ have not been modernized or endorsed.
 - `parts/part-13-book-01-chapter-10-question-05-english.md`
 - `parts/part-14-book-01-chapter-10-question-06-latin.txt`
 - `parts/part-14-book-01-chapter-10-question-06-english.md`
+- `parts/part-15-book-01-chapter-10-question-07-latin.txt`
+- `parts/part-15-book-01-chapter-10-question-07-english.md`
+- `parts/part-16-book-01-chapter-10-question-08-latin.txt`
+- `parts/part-16-book-01-chapter-10-question-08-english.md`
+- `parts/part-17-book-01-chapter-10-question-09-latin.txt`
+- `parts/part-17-book-01-chapter-10-question-09-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
-12, three for Part 13, and two for Part 14. There are twenty-eight current
-files in fourteen Latin/English pairs, containing 168 synchronized source
-markers per language (336 marker occurrences across all twenty-eight files).
-The files remain AI-assisted and unreviewed.
+12, three for Part 13, two for Part 14, three each for Parts 15 and 16, and two
+for Part 17. There are thirty-four current files in seventeen Latin/English
+pairs, containing 176 synchronized source markers per language (352 marker
+occurrences across all thirty-four files). The files remain AI-assisted and
+unreviewed.

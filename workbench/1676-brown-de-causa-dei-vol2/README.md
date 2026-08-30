@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations through printed page 258 of Volume II. The
-> forty-four paired parts remain unreviewed and are not publication-ready.
+> close English translations through printed page 276 of Volume II. The
+> forty-five paired parts remain unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -70,10 +70,14 @@ access restriction. No modern edition or translation supplies wording here.
 - IA PDF 1031–1032 / leaves 1031–1032, plus leaf 1033 outside the access PDF:
   terminal ownership/binding matter; excluded.
 
-The one-to-one correspondence between logical printed pages and scan frames
-from printed p. 1 onward is therefore: printed page *n* = IA PDF/leaf *n* + 8.
-The map was checked at the beginnings and endings of all three books and at
-both indexes, rather than inferred only from the first numbered leaf.
+The usual correspondence between logical printed pages and scan frames from
+printed p. 1 onward is: printed page *n* = IA PDF/leaf *n* + 8. The typeset
+pagination is not error-free: IA leaf 274 repeats `265` where the sequence
+requires `266`, and after `271` leaves 280–282 bear `274`, `275`, and `276`.
+The text joins continuously across those leaves, so no text is missing; paired
+file markers report the displayed numerals and stable PDF/leaf identifiers.
+The broader map was checked at the beginnings and endings of all three books
+and at both indexes, rather than inferred only from the first numbered leaf.
 
 ## Editorial method and apparatus
 
@@ -85,10 +89,10 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 258 is applied and disclosed in the relevant
+completed span through printed p. 276 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, XX, XXI,
-XXII, and XXIII were read from the images, not reconstructed from IA OCR.
+XXII, XXIII, and XXV were read from the images, not reconstructed from IA OCR.
 Apparatus notes record printed errata, source-language glosses needed by the
 English, and anomalous citations without silently repairing them.
 
@@ -101,7 +105,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Forty-four paired parts are complete as scan-audited, AI-assisted, unreviewed
+Forty-five paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -327,13 +331,22 @@ working drafts:
   leaves 262–266; five synchronized markers.
   [Latin](parts/part-44-book-04-chapter-24-objections-latin.txt) |
   [English](parts/part-44-book-04-chapter-24-objections-english.md)
+- **Part 45:** all of Chapter XXV, refuting Dr. Burmann's principal argument
+  against the moral character of the fourth commandment by examining the
+  determination of the seventh day, Sabbath rest, and the sanctification of
+  that rest; printed pp. 258–276 / IA PDF and leaves 266–282; seventeen
+  synchronized markers. The witness repeats printed `265` and jumps from
+  `271` to `274`, without a textual lacuna.
+  [Latin](parts/part-45-book-04-chapter-25-burmann-primary-argument-latin.txt) |
+  [English](parts/part-45-book-04-chapter-25-burmann-primary-argument-english.md)
 
-Part 44 ends with Chapter XXIV's response to its fifteenth objection on
-printed p. 258. The exact next untranslated chapter text is `CAP. XXV.` later
-on printed p. 258 / IA PDF 266 / IA leaf 266, followed by `Refutatur primarium
-D. Burmanni argumentum`. Chapters VI through XXIV are complete. Every
-completed pair has an identical source-marker sequence, and all forty-four
-pairs remain AI-assisted and unreviewed.
+Part 45 ends with Chapter XXV's answer to Burmann's principal argument on
+printed p. 276. The exact next untranslated chapter text is `CAP. XXVI.` on
+printed p. 277 / IA PDF 283 / IA leaf 283, followed by `Praeceptum quartum non
+esse partim morale, partim Ceremoniale evincitur, contra D. Walaeum & D.
+Strangium.` Chapters VI through XXV are complete. Every completed pair has an
+identical source-marker sequence, and all forty-five pairs remain AI-assisted
+and unreviewed.
 
 ## Licensing
 

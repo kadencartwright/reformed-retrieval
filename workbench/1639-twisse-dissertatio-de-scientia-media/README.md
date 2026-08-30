@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–57 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–58 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -761,6 +761,31 @@ and 136; the paired markers stand immediately before `qui` / `who` and `Quando`
 The next unit resumes on printed p. 136 / canvas 00162 with Penottus's
 `Oppositam sententiam puto verissimam & omnino sequendam`, and must repeat the
 shared-page marker.
+
+Part 58 spans **printed pp. 136–138 / BSB canvases 00162–00164** and contains
+Penottus's first two proofs for the contrary position together with Twisse's
+complete responses. Penottus first appeals to the Fathers' distinction between
+foreknowledge and predestination, then to Aquinas's division of prophecy and
+his treatment of effects completed through secondary causes. Twisse answers
+that the older restriction of *predestination* to works God himself performs
+does not exclude a permissive decree concerning sin, and that Aquinas's
+qualification applies equally to natural and voluntary secondary causes while
+allowing their effects to be predestined insofar as they depend upon the first
+cause. The unit ends in the left column of p. 138 at Twisse's authorial close,
+`luxuriantem ejus rhetoricationem in hoc apice compescendam`, immediately
+before Penottus begins his third proof with `Tertio probatur eadem veritas
+ratione`, and has three identical source markers and four synchronized speaker
+labels. The printer's page-end divisions `as-` / `serit` and `osten-` /
+`ostendam` are joined as `asserit` and `ostendam`; the p. 137 and p. 138 markers
+stand immediately before the complete Latin words and their English
+counterparts, `asserts` and `I shall show`.
+
+- `parts/part-58-penottus-book-03-chapter-22-fathers-and-aquinas-arguments-latin.txt`
+- `parts/part-58-penottus-book-03-chapter-22-fathers-and-aquinas-arguments-english.md`
+
+The next unit resumes on printed p. 138 / canvas 00164 with Penottus's `Tertio
+probatur eadem veritas ratione; si Deus cognoscit peccata futura in decreto`,
+and must repeat the shared-page marker.
 
 ## Editorial method and cautions
 

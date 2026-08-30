@@ -252,6 +252,27 @@ first Roman Catholic restriction and is excluded.
   join is difficult in the microfilm; its visible wording is retained in the
   Latin and its contextual force is rendered conservatively in the English.
 
+## Part 10: ninth unit of the Romans 1:17 lecture
+
+Part 10 opens the separate inquiry whether Paul's exclusion of works of the
+law reaches ceremonial works alone. After three preliminary concessions,
+Tuckney contrasts the continuing office of the moral law with the abolished
+ceremonial law and presents ten positive arguments that Paul excludes moral
+as well as ceremonial works from justification. It begins with the centered
+question `An cum Apostolus nos ex operibus legis justificari negat, sola opera
+Ceremonialia excludat` on printed p. 98 / IA leaf 106 and ends with the two
+brief corroborating appeals to Romans 4 and Philippians 3 partway down printed
+p. 106 / IA leaf 114. The next sentence, `Restant tandem ad hanc absolvendam
+controversiam quaedam Adversariorum argumenta diluenda`, opens the answers to
+the opposing arguments and is excluded.
+
+- Latin: `parts/part-10-romans-01-17-justification-09-latin.txt`
+- English: `parts/part-10-romans-01-17-justification-09-english.md`
+- Extent: nine synchronized markers, printed pp. 98–106 / IA leaves 106–114
+- Scripts and disclosure: all Greek expressions and marginal source
+  references are retained in both files; the short Greek phrases are
+  translated or contextually glossed in the English.
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

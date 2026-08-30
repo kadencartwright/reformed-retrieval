@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–17 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–18 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -106,7 +106,10 @@ faith, from its heading on printed p. 172 / canvas 182 through its concluding
 comparison of the Remonstrants’ contradictory claims on printed p. 175 /
 canvas 185. Part 17 begins Article IV and completes Chapter I, which elicits
 the state of the question concerning the manner of conversion, on printed
-pp. 176–187 / canvases 186–197. The units are divided as follows:
+pp. 176–187 / canvases 186–197. Part 18 completes Article IV, Chapter II, the
+first argument on conversion, from printed p. 188 / canvas 198 through the
+chapter’s conclusion on printed p. 193 / canvas 203. The units are divided as
+follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -145,6 +148,8 @@ pp. 176–187 / canvases 186–197. The units are divided as follows:
   paired transcription and translation are included below because this unit
   is confined by request to this README.
 - Part 17: Article IV, Chapter I, canvases 186–197 / printed pp. 176–187.
+- Part 18: Article IV, Chapter II, canvases 198–203 / printed pp. 188–193; only
+  the upper portion of canvas 203 belongs to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -329,8 +334,23 @@ omitted under the established policy. The witness’s surprising `redagendo`,
 - Both Part 17 files contain twelve synchronized source markers for BSB
   canvases 186–197 / printed pp. 176–187.
 
-The next untranslated unit begins with `CAP. II. Argumentum primum. Pag.
-279.` on printed p. 188 / BSB canvas 198.
+Part 18 begins with the exact display heading `CAP. II. Argumentum primum.
+Pag. 279.` and `Si operatio gratiae Dei qua fidem & conversionem in nobis
+efficit` on printed p. 188 / BSB canvas 198. It answers nine Remonstrant
+replies to the first argument and ends with `...exigere volunt affectus &
+officia hominum.` in the upper portion of printed p. 193 / canvas 203. The
+single-column chapter has no marginal annotations; running heads, signatures,
+and catchwords are omitted under the established policy. The witness’s
+punctuation in `Fides ipsa in actu. tum`, the citation forms `Ioha. 15. 5.`
+and `Hebr. 5. 7.`, and `praedefinitione` are retained.
+
+- Latin: `parts/part-18-article-04-chapter-02-latin.txt`
+- English: `parts/part-18-article-04-chapter-02-english.md`
+- Both Part 18 files contain six synchronized source markers for BSB canvases
+  198–203 / printed pp. 188–193.
+
+The next untranslated unit begins with `CAP. III. Argumentum secundum. Pag.
+281.` lower on printed p. 193 / BSB canvas 203.
 
 ## Part 16: Article III — Latin transcription
 

@@ -74,7 +74,8 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Twenty paired parts are complete as AI-assisted, scan-audited working drafts:
+Twenty-one paired parts are complete as AI-assisted, scan-audited working
+drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -145,10 +146,14 @@ Twenty paired parts are complete as AI-assisted, scan-audited working drafts:
 - **Part 20:** Sections XXXVIII–XXXIX, answering the Paradoxical Exercitator's
   examples of alleged biblical ambiguity and defending Luther and Chamier on
   the perspicuity of Scripture, printed pp. 153–158 / ONB canvases 207–212;
-  six synchronized source markers. Because this continuation is restricted to
-  the present README, its paired Latin and English texts appear below.
+  six synchronized source markers. Its paired Latin and English texts remain
+  below.
+- **Part 21:** Section XL, examining the Paradoxical Exercitator's account of
+  the true interpreter, Wolzogen's claims about the sacred amanuenses, and his
+  three ways of interpretation, printed pp. 158–167 / ONB canvases 212–221;
+  ten synchronized source markers.
 
-Parts 01–19 are stored in the following files:
+Parts 01–19 and 21 are stored in the following files:
 
 - `parts/part-01-preface-assertions-01-15-latin.txt`
 - `parts/part-01-preface-assertions-01-15-english.md`
@@ -188,11 +193,13 @@ Parts 01–19 are stored in the following files:
 - `parts/part-18-relative-and-objective-perspicuity-english.md`
 - `parts/part-19-simple-and-true-meaning-latin.txt`
 - `parts/part-19-simple-and-true-meaning-english.md`
+- `parts/part-21-the-interpreter-and-wolzogens-three-ways-latin.txt`
+- `parts/part-21-the-interpreter-and-wolzogens-three-ways-english.md`
 
-Part 20 ends with Section XXXIX on printed p. 158 / ONB canvas 212 after the
-sentence `An potius collusorem?` Section XL, beginning `Dicebat Paradoxus. §.
-4. ejusdem Cap. IV.`, is excluded. The next part should resume there on the
-same canvas.
+Part 21 ends with Section XL on printed p. 167 / ONB canvas 221 after the
+sentence `Sed ad alia pergimus.` Section XLI, beginning `Postquam §. 2. Cap.
+IV. nobis indicaverat Paradoxus`, is excluded. The next part should resume
+there on the same canvas.
 
 ## Part 20: Latin transcription
 

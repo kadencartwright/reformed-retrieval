@@ -331,6 +331,27 @@ approximately ten full pages of text. The exact next untranslated boundary is
 `ASSERTIO XVI. Ecclesia est Coetus seu Societas à Republicâ prorsus, suâ
 naturâ, distincta.`
 
+## Part 19 boundary and source map
+
+Part 19 is Brown’s complete `ASSERTIO XVI`, arguing that the Church is by its
+nature a society wholly distinct from the civil commonwealth. Brown gives
+twenty-two arguments from Christ’s otherworldly kingdom, the separability,
+matter, causes, laws, ends, privileges, officers, powers, offenses, and titles
+of the two societies, and the duties of Christians under hostile magistrates.
+He then traces the distinction from the patriarchal families through the
+Jewish commonwealth and Church, concluding with nine further contrasts between
+their laws, acts, assemblies, officers, forms, and membership. The part begins
+at the exact requested join in the lower portion of printed p. 290 / ONB canvas
+298 and ends with `Et ex dictis satis, ut opinor, confirmatur hæc Assertio.
+Sequitur` in the upper portion of printed p. 300 / ONB canvas 308. The paired
+transcription and translation below contain eleven synchronized markers for
+printed pp. 290–300, approximately ten full pages of text. No authorial
+marginal note occurs in the unit; the printed brackets and marginal quotation
+marks distinguishing the cited definitions on p. 298 are represented by the
+paired text’s established bracketed-quotation format. The exact next untranslated
+boundary is `ASSERTIO XVII. In Ecclesiâ divinitus datur potestas & authoritas
+ad ipsam conservandam & gubernandam necessaria.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -387,7 +408,7 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-16-pastoral-authority-english.md`
 
 Each pair contains the complete unit described above and matching source
-markers. Parts 17 and 18 are presented as synchronized pairs directly in this
+markers. Parts 17–19 are presented as synchronized pairs directly in this
 README. All files and the paired text below remain AI-assisted and unreviewed.
 
 ## Part 17: conversion through the ministry of the word
@@ -2417,3 +2438,726 @@ from the truth
 
 and turn aside to fables.” But enough now concerning this position which
 breathes nothing but profanity. I proceed to other matters. Thus, therefore—
+
+## Part 19: the Church distinct from the commonwealth
+
+### Latin source
+
+[Volume II; printed p. 290; ONB canvas 298 (lower portion)]
+
+ASSERTIO XVI.
+
+Ecclesia est Coetus seu Societas à Republicâ prorsus, suâ naturâ, distincta.
+
+Quia Adversarii ægrè hoc fateri volunt, probare conabimur: & eò magis, quòd
+hoc substrato fundamento, faciliori negotio confirmabuntur quæ sequuntur.
+Assertio nostra confirmatur,
+
+1. Quòd dicat Christus *Joan.* XVIII. 36. Regnum suum non esse ex hoc mundo,
+*Respondit Jesus, Regnum meum non est ex hoc mundo, si ex hoc mundo esset
+Regnum meum, Ministri mei certassent ne traderer Judæis: nunc autem Regnum
+meum non est hinc*: ubi duo apertè asseruntur à Christo, 1. Eum habere Regnum,
+*Regnum meum*, inquit bis. 2. Regnum hoc, quod suum vocat, distinctum esse, ac
+diversum ab iis Regnis, quæ sunt ex hoc mundo: & hinc ergo sequitur
+*Ecclesiam*, quæ est Christi Regnum, longè differre à *Republicâ*: *Respublica*
+enim est ex hoc mundo, *Regnum* Christi non item. Si autem *Ecclesia* quâ
+talis, esset pars *Reipublicæ*, aut à *Republicâ* non distincta, quo sensu
+potuerit Christus dicere Regnum suum non esse de hoc mundo?
+
+2. Si *Ecclesia* & *Respublica* possint à se mutuo separari, & separatim
+existere; erunt realiter distinctæ Societates. At verum prius. Ergo &c.
+Consequentia Majoris negari non potest: nam nullum majus fingi potest argumentum
+ad probandam realem aliquam distinctionem, quàm est mutua separatio. Si ergo
+separari possit *Ecclesia* à *Republicâ*, & ab eâ separata existere, seu per se;
+distincta erit à *Republicâ* Societas. Quod autem Minor vera sit, hinc liquet,
+Quia
+
+[Volume II; printed p. 291; ONB canvas 299]
+
+primitiva *Ecclesia*, quâ talis, non faciebat partem *Reipublicæ*; à
+Republicâ, & à Reipublicæ Præpositis vexabatur. Hi illam persequebantur,
+destruere conati sunt, suis legibus eam non tuebantur, curam ejus nullam
+habebant. Erat nihilominus *Ecclesia*, & actu subsistebat. Vix ulla est Gens
+adeo fera, barbara, & inculta, quin aliquam habeat *Reipublicæ* politicæ
+formam; multæ tamen sunt Gentes in quibus nulla hactenus instituta est
+*Ecclesia*. Et quando in iis instituitur Ecclesia Christiana, non mutatur natura
+*Reipublicæ*, nec fit ea *Ecclesia*, formaliter quâ talis, pars *Reipublicæ*;
+sed manet suâ naturâ distincta à *Republicâ*.
+
+3. Certum est, *Rempublicam* quâ talem non esse *Ecclesiam*, alioquin omnis
+*Respublica* esset etiam *Ecclesia*, quod apertè falsum. Ergo, suâ naturâ &
+realiter distinguitur *Respublica* ab *Ecclesiâ*. Et si *Respublica* suâ naturâ
+ab Ecclesiâ distinguatur, ab illâ rursus realiter distinguetur *Ecclesia*.
+
+4. Hæ Societates prorsus distinctis reguntur legibus: *Ecclesia* enim regitur
+legibus Christi, & canonibus Ecclesiasticis, à Rectoribus Ecclesiasticis, juxta
+regulas generales à Christo præscriptas, conditis. *Respublica* autem civilis,
+legibus politicis, & municipalibus, à Magistratu politico latis, gubernatur.
+Quæ distinctis gubernantur legibus Respublicæ, pro distinctis habentur. Ergo
+distinctæ erunt Societates *Ecclesia* & *Respublica* civilis.
+
+5. Materia proxima *Reipublicæ* civilis, sunt homines ut sic considerati, seu
+quatenus sunt animalia sociabilia. Materia autem proxima *Ecclesiæ*, sunt
+homines Christiani, qui & quatenus veram profitentur Religionem, seu fidem in
+Christum. Quæ autem ex distinctâ constant materiâ proximâ Societates, distinctæ
+sunt. Ergo distincta est *Ecclesia* à *Republicâ*. Civis politicus est homo
+politicus legibus Reipublicæ obstrictus, & ejusdem civitatis immunitatibus &
+beneficiis
+
+[Volume II; printed p. 292; ONB canvas 300]
+
+gaudens, virtutemque civilem seu politicam exercens. Civis autem Ecclesiasticus
+est homo Ecclesiasticus, legibus Christi & Ecclesiæ obstrictus, & ejusdem
+immunitatibus & beneficiis gaudens, virtutemque Ecclesiasticam exercens. Longè
+ergo differunt hæ duæ civitates.
+
+6. Causa principalis remota *Reipublicæ* civilis, est Deus naturæ author. Causa
+autem principalis remota *Ecclesiæ*, est Deus gratiæ author, seu in Christo
+propitius.
+
+7. Causa principalis proxima *Reipublicæ* civilis, est affectus naturalis, quo
+præditus est homo, natus ad societatem cum aliis colendam, causa autem
+principalis proxima *Ecclesiæ*, est affectus supernaturalis, quo præditus est
+homo Christianus. Distinctam ergo agnoscunt hæ Societates originem. Distinctæ
+ergo sunt.
+
+8. Causa minus principalis *Reipublicæ* civilis, est indigentia eorum quæ ad
+vitam hanc nostram naturalem & civilem spectant. Hinc *Cicero de Republicâ*
+apud *Augustinum de civitate Dei* lib. 2. cap. 21. populum vocat *cœtum
+multitudinis juris consensu & utilitatis communione sociatum*. Causa autem
+minus principalis *Reipublicæ Ecclesiasticæ*, est necessitas & indigentia eorum
+quæ ad bonum animæ spectant, & sine quibus vita spiritualis non potest benè
+conservari & foveri.
+
+9. Ratio naturalis præcipuum est *Rerumpublicarum politicarum* fundamentum;
+nullum enim extat positivum Dei mandatum talem aut talem Rerumpublicarum
+erectionem, aut constitutionem injungens. Ratio autem naturalis *Ecclesiæ*
+fundamentum sternere non potest; ea enim, quibus præcipuè innititur Societas
+Ecclesiastica, prorsus ignorat ratio. Distinctæ ergo & longè diversæ sunt hæ
+Societates.
+
+10. Si *Ecclesia* non sit jure divino distincta Societas à *Republicâ*, tum
+invito aut non consentiente Magistratu
+
+[Volume II; printed p. 293; ONB canvas 301]
+
+politico, non licet Ecclesiam instituere, aut communionem Ecclesiasticam
+colere. At hoc absurdum. Ergo &c. Majoris consequentia hinc patet. Quod quæ
+politica sunt, & ad Rempublicam quâ talem spectant, ad judicium &
+determinationem Magistratus politici propriè pertinent, nec debet ullum
+collegium purè politicum, sine ejus approbatione & authoritate institui. Quod
+ad Minorem attinet, Ejus veritas hinc patet, Quòd scil. Christus & Apostoli non
+modò non consentientibus, sed & invitis Magistratibus politicis qui tum
+Imperium tenebant, Ecclesiam instituerunt. Ergo non erat illicitum. Ergo
+Ecclesia erat distincta Societas à Republicâ.
+
+11. Si *Ecclesia* non sit Societas realiter distincta à *Republicâ*, tum
+abolenda erit prorsus Ecclesia, quandocunque Magistratibus politicis visum
+fuerit, nec contranitendum erit vel patiendo; nam si sit collegium merè
+politicum, Magistratus potest id abolere, quando commodum Reipublicæ id judicat,
+quemadmodum potest collegia alia Mercatorum, Fabrorum & ejusmodi prohibere, nec
+tenentur ii mercatores aut fabri in conscientiâ renuere, & propterea vel
+mulctam aliquam pati. Et hoc forsan est quod volunt ac optant adversarii, ut
+scil. aboleretur prorsus Ecclesia ac abigeretur; odio enim Vatiniano eam
+prosequi videntur, quam autem ob causam, ipsi optimè norunt. Verùm an dicent
+cedendum esse Magistratibus, quando omnem destruere conantur Ecclesiam, & omnem
+Christianorum conventum, & quando ipsam Nominis Christi professionem
+prohibent? Si sic, damnandi erunt primitivi Christiani, qui propter hanc
+causam, mille periculis sese exposuerunt, & tandem martyrio coronati sunt.
+Mirerisne quid illis in mentem venerit, quòd mortem, imo mortem acerbissimam
+maluerint subire, quam Magistratibus in re purè politicâ (si modo talis fuerit)
+cedere. Quid? an dicemus eos
+
+[Volume II; printed p. 294; ONB canvas 302]
+
+omnes in rebellione nefariâ mortem obiisse? Dicent forte adversarii, obstrictos
+fuisse Christianos, lege Christi expressâ & positivâ, ad professionem istam
+continuè celebrandam, & ad alia quam plurima, quæ præstare non potuerant, nisi
+constans coleretur christiana communio, & mutua Societas. *Resp.* Hoc nobis
+satisfaciet: Quia hinc satis patebit, Societatem Ecclesiasticam non niti jure
+humano, sed divino; & in expresso Dei mandato fundari: nam qui finem instituit,
+instituit & media, sine quibus finis ille acquiri non possit. Quando ergo
+Christus tales fines instituerit, quos assequi non possunt Christiani, nisi
+mediante Societate aut cœtu Ecclesiastico, Hunc etiam, procul dubio, cœtum
+instituit Christus. Ergo cœtus hic non est politicus, sed à politico distinctus,
+nam per cœtum politicum quâ talem, non potuerunt Christiani hos fines
+præscriptos assequi; & id satis noverat Christus, quando novum instituit Regnum
+à Regnis hujus mundi distinctum.
+
+12. Distinctio harum Societatum evincitur ex diverso earum fine. Negari non
+potest, finem *Reipublicæ* proprium, esse rerum humanarum ac politicarum
+conservationem, ac procurationem, communem scil. utilitatem, auxilium mutuum,
+vitæ commoditatem: *confluxerunt enim homines* (ut loquitur *Hoenonius* disp.
+1. pol.) *ut operas conjungentes suas, ea facilius pararent, quorum vita
+mortalis indiget*. Finis autem Ecclesiæ, est bonum Christianorum quâ talium,
+seu bonum spirituale, quod animas spectat, & vitam æternam. Quis ergo negabit,
+has Societates, quarum proprii fines adeo discordes & tam longè à se invicem
+differentes sunt, esse etiam distinctissimas? Frustra objiciunt, teneri
+unumquodque Reipublicæ membrum finem spiritualem in omnibus intendere. Quia
+tales intendit fines spirituales, non quatenus civis, sed quatenus civis
+Christianus. Christianitas qualificat,
+
+[Volume II; printed p. 295; ONB canvas 303]
+
+regulat, animum civis disponit, & ad omnia piè ac more Christiano agenda, ducit
+ac dirigit; aliud tamen longè in hoc intendit, quàm bonum Reipub. externum,
+licet & hoc in subordinatione ad majus bonum intendat, bonum scil. æternum ac
+spirituale & internum. Quare nisi probaverint adversarii, Christianitatem nihil
+aliud, præter bonum Reipublicæ temporale & externum, intendere, nihil evincent.
+Hoc autem probatum iri non expectamus.
+
+13. In *Republicâ civili* multi privilegiorum capaces non sunt, quales sunt
+Servi nondum manumissi, & alii. In *Ecclesiâ* autem nulla est distinctio Servos
+inter & Dominos, aut liberos *Col.* III. 11. *ubi non est Græcus & Judæus,
+circumcisio & præputium, Barbarus & Scytha, servus & liber, sed omnia & in
+omnibus est Christus.* Vide etiam 1 *Cor.* VII. 21, 22.
+
+14. Hinc aliud elicimus argumentum. Quod sc. distincta sint harum Societatum
+privilegia ac jura, quibus potiuntur singula membra. Etenim qui membrum est
+Reipublicæ politicæ, & jus habet *in re*, seu propinquum, ad privilegia ista
+omnia, eo ipso tamen non fit membrum *Ecclesiæ*, non habet jus, nec *in re* nec
+*ad rem*, ad ea privilegia Ecclesiæ propria, alioquin dicendum Atheum, perfidum,
+apertè profanum, ac scandalosum, posse *actu* & *de jure* participem fieri sacræ
+cœnæ, imo etiamsi non sit Christianus vel nomine tenus, aut baptizatus. Frustra
+dicet adversarius talem parvi facere illud privilegium, & nunquam petere velle.
+Nim non est improbabile vel profligatissimum, modò nomine tenus Christianum,
+hoc petere velle privilegium, & quidni & atheus non baptizatus, ut eo magis
+omnia Dei instituta conculcaret & contemptui exponeret, hoc petere possit? Et
+posito *possibili in esse*, nullum sequitur impossibile. Dein etsi actualem
+privilegii fruitionem non peteret, haberet tamen jus & *ad rem* & *in re*. Et
+si peteret, nullo jure, posset
+
+[Volume II; printed p. 296; ONB canvas 304]
+
+hoc jus ei denegari. Quo quid absurdius fingi potest? Et vice versâ omnia
+membra Ecclesiæ, essent eo ipso membra *Reipublicæ*. Quod itidem absurdum.
+
+15. Societates illæ quæ longè distinctos habent officiarios, oportet sint etiam
+distinctæ. At tales sunt *Respublica* & *Ecclesia*. Distinctos habent
+officiarios hæ Societates, nec est Minister Ecclesiasticus, quâ talis,
+officiarius politicus: nec est Magistratus quâ talis aut eo ipso, minister
+Ecclesiæ aut officiarius Ecclesiasticus. Si Ecclesia non esset à Republicâ
+distincta, quorsum institueret in eâ Christus novos ac distinctos ministros?
+
+16. Omnes Ministri Ecclesiastici sunt juris divini, & speciatim à Christo
+instituti, nec licet alios de novo creare. Officiarii autem politici ab hominum
+pendent arbitrio, & potest eorum numerus vel augeri vel minui, prout hominibus
+visum fuerit. Distinctæ sunt ergo illæ Societates, non una & eadem.
+
+17. Non licet Ministris Ecclesiasticis res politicas attingere, id enim apertè
+prohibuit Christus, qui & ipse noluit Magistratus politici munere fungi, *quis
+inquiens me constituit judicem aut partitorem Luc.* XII. 14. necesse est ergo
+ut Ecclesia, cujus illi sunt Ministri constituti, sit à *Republicâ* distincta.
+
+18. Affirmant Adversarii *Ecclesiæ* non competere potestatem externam
+coactivam. Hæc autem benè competit *Reipublicæ politicæ*. Quomodo potest ergo
+*Ecclesia* eadem esse cum *Republicâ*. Societas?
+
+19. Habent singulæ suas distinctas offensas, nonnunquam materialiter, semper
+formaliter diversas, peccatur in *Rempublicam*, aliter quam in *Ecclesiam*,
+peccata in *Ecclesiam* commissa sunt scandala, quâ talia.
+
+20. *Respublica* est pars Regni Christi, quatenus Deus est Patri co-æqualis;
+*Ecclesia* autem ad Regnum ejus spectat Mediatorium. Vide Assertionem
+
+[Volume II; printed p. 297; ONB canvas 305]
+
+secundam, ubi fusius hoc confirmatur. Sunt ergo distinctæ hæ Societates.
+
+21. Epitheta *Ecclesiæ*, *Reipublicæ* non sunt attribuenda. Sunt ergo diversæ
+Societates ac distinctæ. *Ecclesia* dicitur *Sponsa* Christi; *Respublica* quâ
+talis hoc non gaudet titulo. *Ecclesia* dicitur *corpus* Christi; *Respublica*
+non item. *Ecclesia* est *domus Dei* Viventis; *Respublica* quâ talis hoc non
+ornatur titulo. *Ecclesia* super Petram ædificata est, & portæ inferorum eam
+non superabunt; Hæc autem non conveniunt Reipublicæ vide *Mat.* XVI. 18.
+*Ecclesia* est columna & stabilimentum veritatis 1 *Tim.* III. 15. de
+*Republicâ* hoc dictum non legimus. *Ecclesia* candelabrum nuncupatur *Apoc.*
+I. 20. ubi quæso ita nominatur *Respublica*?
+
+22. In Ecclesiis non licet fæminis publicè docere, aut iis præesse 1 *Cor.*
+XIV. 34. 1 *Tim.* II. 11, 12. præsunt tamen nonnunquam Reipublicæ.
+
+Plura adduci possunt argumenta hanc distinctionem confirmantia, sed hæc
+sufficere possunt. Facile etiam esset, hanc distinctionem vel à primordiis
+mundi repetere. Nam *Gen.* VI. 2. de *filiis Dei* à *filiis hominum* distinctis
+legimus. Hi autem filii Dei, membra erant Ecclesiæ. Vide *Pareum* in locum. Et
+quando Ecclesia in familiis *Noachi, Abrahami*, & aliorum Patriarcharum erat,
+licet ibi fuerit coalitio materiæ Ecclesiæ & Reipublicæ, manebant tamen hæ
+Societates formaliter distinctæ; nam sacrificia, circumcisio cæteræque divini
+cultus partes, ab iis familiis, quatenus familiæ erant, non peragebantur, sed
+quatenus Ecclesiæ.
+
+Verùm postquam Dei populus ex Ægypto esset eductus, licet iidem tum
+*Rempublicam*, tum *Ecclesiam* constituerint, luculenter apparuit inter has
+Societates formaliter consideratas distinctio. Quia autem adversarii hoc
+negant, breviter sic confirmamus.
+
+1. *Respublica Judaica* legibus politicis & forensibus
+
+[Volume II; printed p. 298; ONB canvas 306]
+
+gubernabatur, eas nunc, distinctionis ergo, vocamus leges judiciales, quæ (ut
+loquitur *Tilenus in Syntagmate*) *primario & per se ad ordinandam politiam
+populi Israëlitici, pertinebant*. Erant hæ leges forenses, (ut habet *Bucan.
+loc. com.* loc. 18. q. 22.) *præceptiones de externis actionibus, quibus regi
+civilem Israëlitarum societatem oportuit, seu jus civile Israëliticum*. Lex
+politica (inquit *Joan. Polyander in Synopsi* disp. XVIII. th. 49.) *Est quæ
+officia Magistratuum ac subditorum Reipublicæ Israëliticæ certis
+constitutionibus civilibus determinat, easque pœnis corporalibus in rebelles
+sancit, juxta normam utriusque tabulæ decalogi, atque imprimis secundæ.* Lex
+divina forensis seu judicialis (teste *Polano in Synag. theol.* lib. VI. cap.
+X. pag. 1151.) [*Est lex quæ præcipit de gubernatione politicâ in populo
+Judaico: hoc est, de ordine ac officiis Magistratuum, judiciorum, pœnarum,
+contractuum, de distinctione dominiorum &c. in hunc finem lata, ut justitia
+inter cives & tranquillitas publica vigeret, & leges Dei à contemptu
+vindicarentur. Hæc ergo lex tantum vel saltem præcipuè externam corporalem
+politiam, seu civilem gubernationem spectabat, non fidem & Religionem.*] Leges
+judiciales (inquit *Maccovius loc. com.* cap. XII.) Sunt [*Leges de jure
+contractuum, & pœnis eorum qui deliquerunt in hunc finem latæ, ut justitia
+inter cives, & tranquillitas publica vigeat, & leges Dei cùm morales, tum
+cæremoniales a contemptu vindicentur.*] Spectabant ergo hæ leges ad populum
+Israëliticum, quatenus Rempublicam faciebant. Quatenus autem Ecclesia erant,
+lege ceremoniali regebantur. Erant enim hæ ceremoniæ leges de ordinibus &
+ritibus quibusdam in Ecclesiâ observandis, ut loquitur *Maccov.* ubi supra,
+cap. XIII. Hanc legem sic describit *Polanus* ubi supra. *Lex quæ præcipit de
+cultu Dei externo, qualem Deus olim in Ecclesiâ Veteris Testamenti*
+
+[Volume II; printed p. 299; ONB canvas 307]
+
+*voluit observari.* Distinguebatur ergo *Respublica Judaica* ab *Ecclesiâ
+Judaicâ*.
+
+2. Distinctos habuerunt actus, & distincta exercitia: nam quatenus
+*Respublica civilis*, non quatenus *Ecclesia*, justitiam colebant, nefarios
+morte mulctabant, &c. Quatenus *Ecclesia*, non quatenus *Respublica*, Deum
+colebant & invocabant, sacrificia offerebant, & sacramenta administrabant.
+
+3. Distinctos habuerunt conventus: alios nempe quatenus erant *Ecclesia*, ad
+Deum colendum & celebrandum, tum *Hierosolymis* toties quotannis, tum in
+Synagogis singulis diebus dominicis *Actor.* XIII. 27. & XV. 21. At longè alios
+habuerunt conventus quatenus erant *Respublica politica*, ad eas res tractandas
+sc. quæ ad bonum Reipublicæ spectabant, & ad bellum gerendum, & ad pacem
+tractandam, & ejusmodi.
+
+4. Ad hos distinctos actus peragendos, distinctos habuerunt institutos
+officiarios. Ad cultum enim in conventibus Ecclesiasticis celebrandum,
+instituti erant *Sacerdotes* & *Levitæ*: Ad alios verò actus politicos
+administrandos, Rex aliique judices politici ordinati erant.
+
+5. Supremus Ministrorum Ecclesiasticorum, erat Summus Sacerdos; Supremus verò
+officiariorum politicorum Rex erat, seu Supremus Magistratus. Licet aliquando,
+unus & idem extra ordinem utroque illo functus est munere, ut in Samuele
+videmus.
+
+6. Non licuit vel Regi officio Sacerdotis fungi, eòque munia quæ Deus
+distinxerat confundere, & propter hanc invasionem graves tulerunt pœnas, tum
+Saulus tum Uzzias.
+
+7. Sæpius mutata erat forma *politiæ civilis*, eâdem semper manente Ecclesiæ
+formâ. Alia enim erat politiæ civilis forma regnante *Mose*, alia imperium
+obtinentibus Judicibus, alia rursus creatis postea Regibus. Et alia denique
+post reductam captivitatem. Non
+
+[Volume II; printed p. 300; ONB canvas 308 (upper portion)]
+
+tamen toties immutata erat forma *Ecclesiæ*.
+
+8. In hunc usque diem, licet omnem amiserint politias civilis formam, aliqualem
+tamen habent ac retinent Ecclesiæ formam.
+
+9. Quidam pro membris Ecclesiæ habebantur & privilegiorum Eclesiasticorum
+participes erant, quippe in Congregationem Israëlis admissi, & Judæi nominati,
+qui tamen à non paucis privilegiis politicis, quorum capaces erant alii,
+excludebantur. *Proselytæ* enim *justitiæ* (ut luculenter ostendit *Seldenus de
+jur. Nat. & Gent. juxta discipl. hebraor.* lib. II. c. 2.) solenniter
+admittebantur circumcisione, baptismo & oblationibus; & Judæi vocabantur, (unde
+illud, *Hebræus ex Hebræis Phil.* III. 5. ad distinguendum Hebræos natos à
+Proselytis istis) ac regeneriti. Nam nulla (inquit) eis dein restabat pristina
+cognatio seu sanguinis relatio, nec fratrem, sororem, patrem, matrem, liberos,
+aut genitos omnino in suis habebant: Et privilegiorum Ecclesiasticorum erant
+participes juxta expressam Dei legem *Levit.* XIX. 33, 34. *Num.* XV. 14, 15,
+16. Hi tamen, ut docet *Seldenus*, ubi supra, lib. II. c. 4. pag. 167. incapaces
+erant Magistraturæ & Præfecturæ, tam civilis omnimodæ, quàm castrensis. Quare,
+licet novato patriæ nomine, Judæi dicerentur, non tamen cives Judaici
+simpliciter censendi erant. Plura ex eodem addere possumus, sed necesse non
+judicamus: Et ex dictis satis, ut opinor, confirmatur hæc Assertio. Sequitur
+
+### English translation
+
+[Volume II; printed p. 290; ONB canvas 298 (lower portion)]
+
+ASSERTION XVI.
+
+The Church is an Assembly or Society wholly distinct by its own nature from
+the Commonwealth.
+
+Because the Adversaries are reluctant to admit this, we will endeavor to prove
+it, and all the more because, once this foundation is laid, the things which
+follow will be confirmed with less difficulty. Our Assertion is confirmed:
+
+1. Because Christ says in John 18:36 that his Kingdom is not of this world:
+“Jesus answered, My Kingdom is not of this world. If my Kingdom were of this
+world, my Ministers would have fought that I might not be delivered to the
+Jews; but now my Kingdom is not from here.” Here two things are openly asserted
+by Christ: 1. That he has a Kingdom—“my Kingdom,” he says twice. 2. That this
+Kingdom, which he calls his own, is distinct and different from those kingdoms
+which are of this world. It therefore follows from this that the Church, which
+is Christ’s Kingdom, differs greatly from the Commonwealth. For the
+Commonwealth is of this world; Christ’s Kingdom is not. But if the Church as
+such were a part of the Commonwealth, or were not distinct from the
+Commonwealth, in what sense could Christ have said that his Kingdom is not of
+this world?
+
+2. If the Church and Commonwealth can be separated from each other and exist
+separately, they will be really distinct Societies. But the former is true.
+Therefore, and so forth. The consequence of the Major cannot be denied, for no
+greater argument can be devised to prove a real distinction between things
+than their mutual separation. Therefore, if the Church can be separated from
+the Commonwealth and exist apart from it, or by itself, it will be a Society
+distinct from the Commonwealth. That the Minor is true is clear from this:
+because
+
+[Volume II; printed p. 291; ONB canvas 299]
+
+the primitive Church, as such, did not form part of the Commonwealth. It was
+harassed by the Commonwealth and by the Commonwealth’s Rulers. They persecuted
+it, attempted to destroy it, did not protect it with their laws, and had no
+care for it. Nevertheless, it was the Church and actually subsisted. Scarcely
+any Nation is so savage, barbarous, and uncultivated that it does not have some
+form of political Commonwealth; yet there are many Nations in which no Church
+has yet been instituted. And when a Christian Church is instituted among them,
+the nature of the Commonwealth is not changed, nor does that Church, formally
+and as such, become part of the Commonwealth. Rather, it remains by its own
+nature distinct from the Commonwealth.
+
+3. It is certain that the Commonwealth as such is not the Church; otherwise
+every Commonwealth would also be a Church, which is openly false. Therefore,
+the Commonwealth is distinguished by its own nature and in reality from the
+Church. And if the Commonwealth is distinguished by its own nature from the
+Church, the Church in turn will be really distinguished from it.
+
+4. These Societies are governed by wholly distinct laws. For the Church is
+governed by Christ’s laws and by Ecclesiastical canons enacted by
+Ecclesiastical Rulers according to the general rules prescribed by Christ. But
+the civil Commonwealth is governed by political and municipal laws enacted by
+the political Magistrate. Commonwealths governed by distinct laws are
+regarded as distinct. Therefore, the Church and civil Commonwealth will be
+distinct Societies.
+
+5. The proximate matter of the civil Commonwealth is human beings considered
+simply as such, or insofar as they are social animals. But the proximate matter
+of the Church is Christian human beings who profess the true Religion, or
+faith in Christ, precisely insofar as they do so. Societies which consist of
+distinct proximate matter are distinct. Therefore, the Church is distinct from
+the Commonwealth. A political citizen is a political person bound by the laws
+of the Commonwealth, enjoying the immunities and benefits of that city, and
+exercising civil or political virtue. But an Ecclesiastical citizen is an
+
+[Volume II; printed p. 292; ONB canvas 300]
+
+Ecclesiastical person bound by the laws of Christ and the Church, enjoying its
+immunities and benefits, and exercising Ecclesiastical virtue. These two cities
+therefore differ greatly.
+
+6. The remote principal cause of the civil Commonwealth is God, the author of
+nature. But the remote principal cause of the Church is God, the author of
+grace, or God propitious in Christ.
+
+7. The proximate principal cause of the civil Commonwealth is the natural
+inclination with which a human being is endowed, being born to cultivate
+society with others. But the proximate principal cause of the Church is the
+supernatural inclination with which the Christian is endowed. These Societies
+therefore acknowledge a distinct origin. Therefore, they are distinct.
+
+8. The less principal cause of the civil Commonwealth is the need for those
+things which pertain to this natural and civil life of ours. Hence Cicero in
+*The Commonwealth*, as quoted by Augustine in *The City of God*, book 2,
+chapter 21, calls a people “an assembly of a multitude united by agreement in
+law and community of advantage.” But the less principal cause of the
+Ecclesiastical Commonwealth is the necessity and need of those things which
+pertain to the good of the soul and without which spiritual life cannot be
+properly preserved and fostered.
+
+9. Natural reason is the principal foundation of political Commonwealths, for
+there exists no positive command of God enjoining the erection or constitution
+of this or that kind of Commonwealth. But natural reason cannot lay the
+foundation of the Church, for reason is wholly ignorant of the things upon
+which Ecclesiastical Society principally rests. Therefore, these Societies are
+distinct and widely different.
+
+10. If the Church is not by divine right a Society distinct from the
+Commonwealth, then it is not lawful to institute the Church or cultivate
+Ecclesiastical communion when the political Magistrate is unwilling or does
+not consent.
+
+[Volume II; printed p. 293; ONB canvas 301]
+
+But this is absurd. Therefore, and so forth. The consequence of the Major is
+clear from this: political matters, and those which pertain to the
+Commonwealth as such, properly belong to the judgment and determination of the
+political Magistrate, and no purely political association ought to be
+instituted without his approval and authority. As for the Minor, its truth is
+clear from this: Christ and the Apostles instituted the Church not only
+without the consent of the political Magistrates who then held supreme power,
+but even against their will. Therefore, it was not unlawful. Therefore, the
+Church was a Society distinct from the Commonwealth.
+
+11. If the Church is not a Society really distinct from the Commonwealth,
+then the Church must be utterly abolished whenever political Magistrates see
+fit, and there will be no duty to resist even by passive suffering. For if it
+is a
+merely political association, the Magistrate can abolish it whenever he judges
+this advantageous to the Commonwealth, just as he can prohibit other
+associations of Merchants, Craftsmen, and the like. Nor are those merchants or
+craftsmen bound in conscience to refuse, and consequently to suffer some fine.
+And perhaps this is what the adversaries will and desire: that the Church be
+utterly abolished and driven away. For they seem to pursue it with a Vatinian
+hatred; for what cause, however, they themselves know best. But will they say
+that one must yield to Magistrates when they attempt to destroy every Church
+and every assembly of Christians, and when they prohibit the very profession
+of Christ’s Name? If so, the primitive Christians must be condemned, for on
+account of this they exposed themselves to a thousand dangers and were finally
+crowned with martyrdom. Will you wonder what came over them, that they
+preferred to undergo death—indeed, the most painful death—rather than yield to
+Magistrates in a purely political matter, if indeed it was such? What? Shall
+we say that they
+
+[Volume II; printed p. 294; ONB canvas 302]
+
+all died in wicked rebellion? Perhaps the adversaries will say that the
+Christians were bound by Christ’s express and positive law to maintain that
+profession continually and to perform very many other things which they could
+not have performed unless constant Christian communion and mutual Society were
+maintained. *Reply.* This will satisfy us, because it will be sufficiently
+clear from this that Ecclesiastical Society rests not upon human but divine
+right, and is founded upon God’s express command. For the one who instituted
+the end also instituted the means without which that end cannot be obtained.
+Therefore, since Christ instituted such ends as Christians cannot attain
+except by means of an Ecclesiastical Society or assembly, beyond doubt Christ
+also instituted this assembly. Therefore, this assembly is not political but
+distinct from the political assembly, for Christians could not attain these
+prescribed ends through a political assembly as such. Christ knew this well
+enough when he instituted a new Kingdom distinct from the kingdoms of this
+world.
+
+12. The distinction between these Societies is demonstrated from their
+different ends. It cannot be denied that the proper end of the Commonwealth is
+the preservation and management of human and political affairs: namely, common
+advantage, mutual assistance, and the convenience of life. For “human beings
+came together,” as Hoenonius says in political disputation 1, “so that by
+joining their efforts they might more easily procure the things which mortal
+life needs.” But the end of the Church is the good of Christians as such, or
+the spiritual good which concerns souls and eternal life. Who, then, will deny
+that these Societies, whose proper ends are so discordant and differ so widely
+from each other, are also entirely distinct? They object in vain that every
+member of the Commonwealth is bound to intend a spiritual end in all things,
+because such a person intends those spiritual ends not insofar as he is a
+citizen, but insofar as he is a Christian citizen. Christianity qualifies and
+
+[Volume II; printed p. 295; ONB canvas 303]
+
+regulates the citizen, disposes his mind, and leads and directs him to do
+everything piously and in a Christian manner. Yet in this it intends something
+very different from the external good of the Commonwealth, although it also
+intends this in subordination to a greater good: namely, the eternal,
+spiritual, and internal good. Therefore, unless the adversaries prove that
+Christianity intends nothing other than the temporal and external good of the
+Commonwealth, they will prove nothing. But we do not expect that this will be
+proved.
+
+13. In the civil Commonwealth many are not capable of privileges, such as
+Slaves not yet manumitted, and others. But in the Church there is no distinction
+between Slaves and Masters, or free persons. Colossians 3:11: “where there is
+neither Greek nor Jew, circumcision nor uncircumcision, Barbarian nor Scythian,
+slave nor free, but Christ is all and in all.” See also 1 Corinthians 7:21–22.
+
+14. From this we draw another argument: the privileges and rights of these
+Societies which their individual members enjoy are distinct. For one who is a
+member of the political Commonwealth and has a right *in re*, or a proximate
+right, to all its privileges does not by that very fact become a member of the
+Church. He has no right, either *in re* or *ad rem*, to those privileges proper
+to the Church. Otherwise it must be said that an atheist, an unbeliever, a
+person openly profane and scandalous, can actually and by right become a
+participant in the sacred supper, even if he is not a Christian even in name,
+or baptized. The adversary will say in vain that such a person makes light of
+that privilege and will never wish to seek it. For it is not improbable that
+even the most abandoned person, provided he is a Christian in name only, may
+wish to seek this privilege. And why could not an unbaptized atheist seek it,
+so that he might all the more trample upon all God’s institutions and expose
+them to contempt? When something possible is posited as actual, no
+impossibility follows. Then, even if he did not seek the actual enjoyment of
+the privilege, he would nevertheless have a right both *ad rem* and *in re*.
+And if he did seek it, this right could be denied him by no law.
+
+[Volume II; printed p. 296; ONB canvas 304]
+
+What greater absurdity can be imagined? And conversely, all members of the
+Church would by that very fact be members of the Commonwealth. This is likewise
+absurd.
+
+15. Societies which have widely distinct officers must also be distinct. But
+the Commonwealth and the Church are such. These Societies have distinct
+officers: an Ecclesiastical Minister as such is not a political officer, nor
+is a Magistrate as such, or by that very fact, a minister of the Church or an
+Ecclesiastical officer. If the Church were not distinct from the Commonwealth,
+to what purpose would Christ institute new and distinct ministers in it?
+
+16. All Ecclesiastical Ministers are of divine right and were specially
+instituted by Christ, nor is it lawful to create others anew. But political
+officers depend upon human choice, and their number can be either increased or
+diminished as human beings see fit. Therefore, those Societies are distinct,
+not one and the same.
+
+17. Ecclesiastical Ministers are not permitted to handle political affairs,
+for Christ openly prohibited this and himself refused to discharge the office
+of political Magistrate, saying, “Who appointed me a judge or divider?” Luke
+12:14. Therefore, the Church, whose appointed Ministers they are, must be
+distinct from the Commonwealth.
+
+18. The Adversaries affirm that external coercive power does not belong to the
+Church. But this certainly belongs to the political Commonwealth. How, then,
+can the Church be the same Society as the Commonwealth?
+
+19. Each has its own distinct offenses, sometimes different materially and
+always formally. One sins against the Commonwealth in a different manner from
+sinning against the Church; sins committed against the Church are, as such,
+scandals.
+
+20. The Commonwealth is a part of Christ’s Kingdom insofar as he is God,
+coequal with the Father. But the Church pertains to his Mediatorial Kingdom.
+See the second Assertion,
+
+[Volume II; printed p. 297; ONB canvas 305]
+
+where this is confirmed more fully. Therefore, these Societies are distinct.
+
+21. The titles of the Church are not to be attributed to the Commonwealth.
+Therefore, they are different and distinct Societies. The Church is called
+Christ’s *Bride*; the Commonwealth as such does not enjoy this title. The
+Church is called Christ’s *body*; the Commonwealth is not. The Church is the
+*house of the living God*; the Commonwealth as such is not adorned with this
+title. The Church is built upon the Rock, and the gates of hell will not
+overcome it. But these things do not belong to the Commonwealth; see Matthew
+16:18. The Church is the pillar and support of the truth, 1 Timothy 3:15. We do
+not read this said of the Commonwealth. The Church is called a lampstand,
+Revelation 1:20. Where, I ask, is the Commonwealth so named?
+
+22. In Churches women are not permitted to teach publicly or preside over
+them, 1 Corinthians 14:34; 1 Timothy 2:11–12. Yet they sometimes preside over
+Commonwealths.
+
+More arguments confirming this distinction could be advanced, but these can
+suffice. It would also be easy to trace this distinction even from the
+beginnings of the world. For in Genesis 6:2 we read of the “sons of God” as
+distinct from the “sons of men.” But these sons of God were members of the
+Church. See Pareus on the passage. And when the Church existed in the families
+of Noah, Abraham, and the other Patriarchs, although there was a coalescence of
+the matter of Church and Commonwealth, these Societies nevertheless remained
+formally distinct. For sacrifices, circumcision, and the other parts of divine
+worship were not performed by those families insofar as they were families,
+but insofar as they were Churches.
+
+But after God’s people had been brought out of Egypt, although the same people
+constituted both the Commonwealth and the Church, the distinction between
+these Societies considered formally appeared plainly. But because the
+adversaries deny this, we confirm it briefly as follows.
+
+1. The Jewish Commonwealth was governed by political and forensic
+
+[Volume II; printed p. 298; ONB canvas 306]
+
+laws. For the sake of distinction, we now call them judicial laws, which, as
+Tilenus says in the *Syntagma*, “primarily and of themselves pertained to
+ordering the polity of the Israelite people.” These were forensic laws, or, as
+Bucanus has it in *Common Places*, locus 18, question 22, “precepts concerning
+external actions by which the civil society of the Israelites had to be
+governed, or Israelite civil law.” “Political law,” says Johannes Polyander in
+the *Synopsis*, disputation 18, thesis 49, “is that which determines the duties
+of Magistrates and subjects of the Israelite Commonwealth by fixed civil
+constitutions and enforces them upon rebels by corporal punishments, according
+to the norm of both tables of the Decalogue, and especially the second.” The
+divine forensic or judicial law, according to Polanus in the *Syntagma of
+Theology*, book 6, chapter 10, page 1151, “is the law which gives precepts
+concerning political government among the Jewish people: that is, concerning
+the order and duties of Magistrates, judgments, punishments, contracts, the
+distinction of possessions, and so forth, enacted for this end, that justice
+among citizens and public tranquility might flourish and that God’s laws might
+be vindicated from contempt. Therefore, this law concerned only, or at least
+principally, external bodily polity or civil government, not faith and
+Religion.” “Judicial laws,” says Maccovius in *Common Places*, chapter 12, “are
+laws concerning the law of contracts and the punishments of those who have
+offended, enacted for this end: that justice among citizens and public
+tranquility might flourish, and that God’s laws, both moral and ceremonial,
+might be vindicated from contempt.” These laws therefore pertained to the
+Israelite people insofar as they formed a Commonwealth. But insofar as they
+were the Church, they were governed by the ceremonial law. For these
+ceremonies were laws concerning certain orders and rites to be observed in the
+Church, as Maccovius says in the place cited above, chapter 13. Polanus in the
+place cited above describes this law thus: “The law which gives precepts
+concerning the external worship of God, such as God formerly willed to be
+observed in the Church of the Old Testament.”
+
+[Volume II; printed p. 299; ONB canvas 307]
+
+The Jewish Commonwealth was therefore distinguished from the Jewish Church.
+
+2. They had distinct acts and distinct exercises. For insofar as they were a
+civil Commonwealth, not insofar as they were the Church, they cultivated
+justice, punished the wicked with death, and so forth. Insofar as they were the
+Church, not insofar as they were the Commonwealth, they worshiped and invoked
+God, offered sacrifices, and administered sacraments.
+
+3. They had distinct assemblies: some insofar as they were the Church, to
+worship and praise God, both at Jerusalem so many times each year and in
+the Synagogues on every Lord’s day, Acts 13:27 and 15:21. But they had quite
+different assemblies insofar as they were a political Commonwealth, to handle
+those matters which pertained to the Commonwealth’s good, to wage war, to
+negotiate peace, and the like.
+
+4. To perform these distinct acts, they had distinct appointed officers. For
+Priests and Levites were instituted to celebrate worship in Ecclesiastical
+assemblies. But the King and other political judges were ordained to
+administer the other political acts.
+
+5. The supreme Ecclesiastical Minister was the High Priest. But the supreme
+political officer was the King, or Supreme Magistrate, although sometimes one
+and the same person extraordinarily discharged both offices, as we see in
+Samuel.
+
+6. Even the King was not permitted to discharge the Priest’s office and thus
+confound the duties which God had distinguished. Both Saul and Uzziah suffered
+severe punishments for this usurpation.
+
+7. The form of the civil polity was changed several times while the form of
+the Church always remained the same. For the form of the civil polity was one
+thing when Moses ruled, another when the Judges held power, and another again
+after Kings were appointed. Finally, it was another after the return from
+captivity. Yet
+
+[Volume II; printed p. 300; ONB canvas 308 (upper portion)]
+
+the form of the Church was not changed so many times.
+
+8. To this very day, although they have lost every form of civil polity, they
+nevertheless have and retain some form of the Church.
+
+9. Some were regarded as members of the Church and were participants in
+Ecclesiastical privileges, since they were admitted into the Congregation of
+Israel and called Jews, yet they were excluded from not a few political
+privileges for which others were eligible. For “Proselytes of righteousness,”
+as Selden clearly shows in *The Law of Nature and Nations according to the
+Discipline of the Hebrews*, book 2, chapter 2, were solemnly admitted by
+circumcision, baptism, and offerings. They were called Jews (hence that
+expression, “a Hebrew of Hebrews,” Philippians 3:5, to distinguish native
+Hebrews from those Proselytes) and regenerated. For afterward, he says, no
+former kinship or blood relation remained to them, nor did they regard any
+brother, sister, father, mother, children, or any relations by birth whatsoever
+as their own. They were also participants in Ecclesiastical privileges
+according to God’s express law, Leviticus 19:33–34; Numbers 15:14–16. Yet, as
+Selden teaches in the place cited above, book 2, chapter 4, page 167, they were
+ineligible for Magistracy and Prefecture, both every kind of civil office and
+military command. Therefore, although they were called Jews after the name of
+their native country had been changed, they were nevertheless not to be
+regarded simply as Jewish citizens. We could add more from the same author,
+but we do not judge it necessary. From what has been said, this Assertion is,
+as I think, sufficiently confirmed. The following comes next:

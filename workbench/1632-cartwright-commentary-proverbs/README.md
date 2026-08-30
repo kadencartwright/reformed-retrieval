@@ -1068,6 +1068,39 @@ edition requiring qualified human review.
 - `parts/part-21-chapter-21i-latin.txt`
 - `parts/part-21-chapter-21i-english.md`
 
-The next unit begins with `Vers. 29. Obfirmat vir improbus faciem suam: rectus
-autem aptat viam suam.` in the right column of shared PDF 482 / printed column
-949; restart at that lemma, excluding the final verse 28 sentence above it.
+**Part 21j is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It completes Chapter XXI from `Vers. 29. Obfirmat vir
+improbus faciem suam: rectus autem aptat viam suam.` in the right column of
+shared PDF 482 / printed column 949 through the final prose of verse 31 on PDF
+485 / printed column 954, ending `praesentem hanc vitam propriis aut viribus,
+aut sapientia tueri concessum non sit.` It stops immediately before the ruled
+`CAPUT XXII` in the right column of PDF 485 / printed column 955. Latin and
+English have four byte-identical source markers (PDF 482–485; synchronized
+printed columns 948–949 through 954–955) and retain all three verse lemmata,
+full in-scope prose, Hebrew, citations, abbreviations, and printing
+irregularities. The complete files contain 1,498 Latin-file and 2,121
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 482–485, was inspected at original and enlarged detail
+in left-then-right column order, and PDF 486 was checked to confirm that its
+text is wholly Chapter XXII. The shared PDF-482 marker begins only at `Vers.
+29.` in the right column; every final verse 28 sentence above it is excluded.
+At the subsequent page turns, catchword fragments `ab-`, `du-`, and `ne-` and
+the catchwords `horrent`, `modo`, and `cessitas` were excluded rather than
+duplicated. The whole divided wording `abhorrent`, `dumodo`, and `necessitas`,
+with its corresponding English wording, was assigned to the receiving PDF
+483, 484, and 485 markers. The final PDF-485 marker contains only the Chapter
+XXI text in the left column and excludes the ruled `CAPUT XXII` and all of its
+text in the right column. Witness forms including `mataph.`, `ilico`, `Bal.`,
+`Phara.`, `à foem.`, `praeter varum`, `Iohar Achabi`, `foedicat`, `neq;`,
+`quorum suffragines`, and `Ps. 39.` were retained. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-21-chapter-21j-latin.txt`
+- `parts/part-21-chapter-21j-english.md`
+
+The next unit begins with the ruled `CAPUT XXII` and `Vers. 1. Optabilius est
+nomen divitiis amplis, & auro, & argento gratia bona.` in the right column of
+shared PDF 485 / printed column 955; restart at that chapter heading and lemma,
+excluding every Chapter XXI sentence in the left column.

@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–10 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–11 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -90,7 +90,9 @@ Article II, Chapter IV, from its heading lower on that page through the end of
 the third argument on printed p. 124 / canvas 134. Part 10 completes Article
 II, Chapter V, from its heading at the top of printed p. 125 / canvas 135
 through the end of the fourth argument in the upper portion of printed p. 128
-/ canvas 138. The files are divided as follows:
+/ canvas 138. Part 11 completes Article II, Chapter VI, from its heading lower
+on that page through the end of the fifth argument in the upper portion of
+printed p. 135 / canvas 145. The files are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -111,6 +113,9 @@ through the end of the fourth argument in the upper portion of printed p. 128
   only the lower portion of canvas 130 belongs to this unit.
 - Part 10: Article II, Chapter V, canvases 135–138 / printed pp. 125–128; only
   the upper portion of canvas 138 belongs to this unit.
+- Part 11: Article II, Chapter VI, canvases 138–145 / printed pp. 128–135; only
+  the lower portion of canvas 138 and the upper portion of canvas 145 belong
+  to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -184,7 +189,23 @@ corrected or completed.
 - Both Part 10 files contain four synchronized source markers for BSB canvases
   135–138 / printed pp. 125–128.
 
-The next untranslated unit begins with `CAP. VI. Argumentum quintum. Pag.
+Part 11 answers the fifth argument: if reconciliation and remission have been
+procured for every person without exception, the word through which people
+partake of that reconciliation by faith should always be proclaimed to every
+person without exception. It begins with `CAP. VI. Argumentum quintum. Pag.
 189.` and `Si omnibus & singulis hominibus, nemine excepto, reconciliatio cum
-Deo, & remissio peccatorum impetrata est` lower on printed p. 128 / BSB canvas
-138.
+Deo, & remissio peccatorum impetrata est` lower on printed p. 128 / canvas 138
+and ends with `...ut divinando quaeramus quorsum haec talia fundunt.` in the
+upper portion of printed p. 135 / canvas 145. The witness's `Actor. 14. 16. &
+16. 6.`, the grammatically surprising `redemptionem commune exaequet`, and its
+distinct `coelum` / `coelo` spellings are retained rather than silently
+regularized.
+
+- Latin: `parts/part-11-article-02-chapter-06-latin.txt`
+- English: `parts/part-11-article-02-chapter-06-english.md`
+- Both Part 11 files contain eight synchronized source markers for BSB
+  canvases 138–145 / printed pp. 128–135.
+
+The next untranslated unit begins with `CAP. VII. Argumentum sextum. Pag.
+193.` and `Pro quibus Christus proprie est mortuus, eos & summe dilexit.`
+lower on printed p. 135 / BSB canvas 145.

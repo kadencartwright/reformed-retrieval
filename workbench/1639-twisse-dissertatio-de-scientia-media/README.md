@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–58 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–59 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -786,6 +786,38 @@ counterparts, `asserts` and `I shall show`.
 The next unit resumes on printed p. 138 / canvas 00164 with Penottus's `Tertio
 probatur eadem veritas ratione; si Deus cognoscit peccata futura in decreto`,
 and must repeat the shared-page marker.
+
+Part 59 spans **printed pp. 138–145 / BSB canvases 00164–00171** and completes
+Penottus, Book III, Chapter XXII. It begins in the lower section of shared p.
+138 with Penottus's third proof, `Tertio probatur eadem veritas ratione`, and
+includes his argument from concomitant, subsequent, and antecedent decrees,
+his fourth proof from the Tridentine maxim that God does not desert the
+justified unless first deserted, the exchanges concerning sufficient and
+efficacious assistance, and his final appeal to Adam and the angels before the
+fall. Twisse answers each formal turn, distinguishes necessity upon a
+hypothesis from necessity in the manner of acting, argues that divine
+permission precedes the first sin without being penal desertion, and closes
+the chapter by challenging every defender of middle knowledge to explain how
+an evil that is only possible by nature becomes future from eternity apart
+from God's decree. The unit ends at the bottom of p. 145 at that authorial
+close, `Ad hujus Argumenti solutionem scientiae mediae assertores ad unum
+omnes provoco`, immediately before the separately headed Chapter XXIII on p.
+146, and has eight identical source markers, eighteen synchronized speaker
+labels, and one paired marginal citation. The p. 139 catchword `aut`, the p.
+142 catchword `standum`, and the printer's page-end divisions `Triden-` /
+`tino`, `la-` / `psum`, and `natura-` / `lem` are represented only by the
+complete textual occurrences at the heads of pp. 139, 141, 143–145; the paired
+markers stand immediately before `aut` / `either`, `Tridentino` / `of Trent`,
+`standum` / `remain standing`, `lapsum` / `fall`, and `naturalem` / `natural
+act of sin` respectively.
+
+- `parts/part-59-penottus-book-03-chapter-22-third-and-final-proofs-latin.txt`
+- `parts/part-59-penottus-book-03-chapter-22-third-and-final-proofs-english.md`
+
+The next unit resumes on printed p. 146 / canvas 00172 with `IN GABRIELIS
+PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XXIII`, headed
+`Dubium tertium expeditur. An praeciso divino decreto, adhuc concipiatur in
+Deo certa notitia futurorum contingentium`.
 
 ## Editorial method and cautions
 

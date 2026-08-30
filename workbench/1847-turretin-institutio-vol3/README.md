@@ -1116,3 +1116,66 @@ The next restart point is `QUÆSTIO VII. DE INTENTIONE MINISTRI. An ad essentiam
 et efficiam Sacramenti, necessaria sit intentio Ministri, saltem faciendi id
 quod facit Ecclesia? Neg. cont. Pontif.` on shared printed p. 304 / IA leaf 338
 / PDF p. 338.
+
+## Part 41
+
+Part 41 contains the complete Locus XIX, Question VII, “De Intentione
+Ministri.” It begins with the question heading on shared printed p. 304 / IA
+leaf 338 / PDF p. 338, immediately after Question VI, and ends with section XV
+on shared printed p. 308 / IA leaf 342 / PDF p. 342. Question VIII, “De
+Efficacia Sacramentorum,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-41-locus-19-question-07-latin.txt`
+- English: `parts/part-41-locus-19-question-07-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XV, and ten synchronized marginalia blocks.
+- The scan verification covered all five page images and all four page joins.
+  The pp. 304–305 join falls within section II after `vel “ex`; the pp. 305–306
+  join falls within section V after `Ergo`; the pp. 306–307 join falls between
+  sections IX and X; and the pp. 307–308 join divides section XII’s numbered
+  answers between (1) and (2). No word is divided at these joins.
+- The transcription retains the heading’s printed `efficiam`, the abbreviations
+  and citations, and the witness’s wording and punctuation in the conciliar
+  and patristic extracts. The erroneous running head `LOCUS DECIMUS OCTAVUS`
+  on printed p. 308 is omitted under the stated editorial method; the English
+  translates the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO VIII. DE EFFICACIA SACRAMENTORUM. An
+Sacramenta Novi Testamenti ita physice operentur gratiam, ut eam ex opere
+operato, sive adsit fides et devotio, sive non, efficiant et contineant? An
+potius sint signa et sigilla efficacia gratiæ? Prius Neg. Poster. Affir. cont.
+Pontif.` on shared printed p. 308 / IA leaf 342 / PDF p. 342.
+
+## Part 42
+
+Part 42 contains the complete Locus XIX, Question VIII, “De Efficacia
+Sacramentorum.” It begins with the question heading on shared printed p. 308 /
+IA leaf 342 / PDF p. 342, immediately after Question VII, and ends with section
+XXVIII on shared printed p. 315 / IA leaf 349 / PDF p. 349. Question IX, “De
+Discrimine Sacramentorum Vet. et Novi Test.,” begins below it on that page and
+is excluded.
+
+- Latin: `parts/part-42-locus-19-question-08-latin.txt`
+- English: `parts/part-42-locus-19-question-08-english.md`
+- Both files contain eight synchronized source-page markers, the complete
+  section sequence I–XXVIII, and fifteen synchronized marginalia blocks. The
+  printed marginal argument sequence has no heading numbered 7 between the
+  headings numbered 6 and 8; both files retain that omission.
+- The scan verification covered all eight page images and all seven page
+  joins. The pp. 310–311 and 313–314 joins divide `contineant` and
+  `crediderit`; each complete Latin word and its English counterpart is placed
+  after the new-page marker. The other joins divide no word.
+- The transcription retains all five printed Greek expressions—`ὀχήματα`,
+  `ἐπερώτημα`, `ἐξηγητικῶς`, `ἐπανόρθωσις`, and `παῤῥησίᾳ`—together with the
+  witness’s `aptum natum`, `efficerunt`, `administare`, `simpli,`,
+  abbreviations, and citations. In particular, the section XV text cites
+  `cap. ii. 1æ ver. 21.` while its marginal heading and quoted matter point to
+  1 Peter 3:21; both files retain the printed citation. The erroneous running
+  head `LOCUS DECIMUS OCTAVUS` on printed p. 312 is omitted under the stated
+  editorial method; the English translates the evident sense without silently
+  altering the Latin witness.
+
+The next restart point is `QUÆSTIO IX. DE DISCRIMINE SACRAMENTORUM VET. ET
+NOVI TEST. An differentia Sacramentorum Vet. et Novi Test. in eo consistat,
+quod illa adumbrarint gratiam, hæc contineant, illa figuram, hæc ipsum corpus
+habeant? Neg.` on shared printed p. 315 / IA leaf 349 / PDF p. 349.

@@ -416,21 +416,55 @@ pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-13-proposition-14-section-02-latin.txt`
 - `parts/part-13-proposition-14-section-02-english.md`
 
+## Part 14: exact authorial boundary
+
+Part 14 begins with centered `SECTIO TERTIA` on the shared right column of
+**first-body printed p. 62 / BSB canvas 74** and contains Proposition XIV,
+Section III in full: Arminius's argument from the threatened bodily and
+spiritual penalty, Junius's answer concerning the gravity of Adam's sin,
+Arminius's rejoinder from the analogy between supernatural grace and
+supernatural happiness, and Twisse's complete three-part response. It
+continues through **first-body printed p. 63 / BSB canvas 75**, with two
+synchronized source markers.
+
+At the page join the p. 62 text ends with `quod`; the catchword `justius` is
+omitted and the p. 63 marker precedes the full word `justius`, while the
+English marker correspondingly precedes “a penalty is more justly imposed.”
+The printed transposition `supernatruali` on p. 62 is retained. The p. 63 hOCR
+string `LES P.I.A` is erroneous recognition around the printed `RESP. I.` and
+the drop-cap opening of `Arminii`, not marginalia. No printed marginal
+annotation occurs within this unit.
+
+The unit stops in the right column of printed p. 63 after Twisse's sentence
+ending:
+
+> `… Verum ab argumentatione Iunii sequente nè ipse quidem se expedire
+> molitur.`
+
+It stops immediately before the centered heading `SECTIO QUARTA` lower in the
+same column. The next part must therefore begin with `SECTIO QUARTA` and
+repeat the marker for **first-body printed p. 63 / BSB canvas 75**; it must not
+advance directly to p. 64. The Latin and English markers are byte-identical,
+and the pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-14-proposition-14-section-03-latin.txt`
+- `parts/part-14-proposition-14-section-03-english.md`
+
 ## Status
 
-**Parts 01–13 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–14 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 62 of 135,
-a continuation-position estimate of about 45.9% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 63 of 135,
+a continuation-position estimate of about 46.7% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 10.2% of their combined printed-page extent. Because p. 62 is shared
-with the untranslated Proposition XIV, Section III, these are position
-estimates, not a claim that 62 complete pages—or the same percentage of
+at about 10.3% of their combined printed-page extent. Because p. 63 is shared
+with the untranslated Proposition XIV, Section IV, these are position
+estimates, not a claim that 63 complete pages—or the same percentage of
 words—have been reviewed.
 
-No global status ledger or manifest is updated by this Part 13 continuation,
+No global status ledger or manifest is updated by this Part 14 continuation,
 and no claim of human review is made.

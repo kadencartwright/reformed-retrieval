@@ -499,6 +499,18 @@ markers.
 The next unit resumes on printed p. 86 / canvas 00112 with `Et quis eruditus
 unquam statuit, res aliter a Deo intelligi cum praesentes sunt...`.
 
+Part 45 remains on **printed p. 86 / BSB canvas 00112** and contains Twisse's
+complete critique of Penottus's claim that future being in its causes cannot
+ground certain knowledge. It ends at `sed ad rationis accommodationem veniamus`,
+immediately before the separately numbered `II. Modo`, and has one identical
+source marker.
+
+- `parts/part-45-penottus-book-03-chapter-17-certainty-critique-latin.txt`
+- `parts/part-45-penottus-book-03-chapter-17-certainty-critique-english.md`
+
+The next unit resumes on printed p. 86 / canvas 00112 with `II. Modo, (inquit)
+Deus ab aeterno habet praesens non solum esse futurum...`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

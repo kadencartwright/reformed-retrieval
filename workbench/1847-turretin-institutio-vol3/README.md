@@ -874,3 +874,34 @@ The next restart point is `QUÆSTIO XXXII. DE DISCIPLINA ECCLESIASTICA, ET
 EXCOMMUNICATIONE. An Ministris sacris competat Potestas spiritualis peccatores
 contumaces et scandalos excommunicandi? Affirm. contra Erastum et ejus
 Sequaces.` on shared printed p. 248 / IA leaf 282 / PDF p. 282.
+
+## Part 32
+
+Part 32 contains the complete Locus XVIII, Question XXXII, “De Disciplina
+Ecclesiastica, et Excommunicatione.” It begins with the question heading on
+shared printed p. 248 / IA leaf 282 / PDF p. 282, immediately after Question
+XXXI, and ends with section XXVIII on printed p. 259 / IA leaf 293 / PDF p.
+293. Question XXXIII, “De Conciliorum Origine, et Autoritate,” begins on the
+next printed page and is excluded.
+
+- Latin: `parts/part-32-locus-18-question-32-latin.txt`
+- English: `parts/part-32-locus-18-question-32-english.md`
+- Both files contain twelve synchronized source-page markers, the complete
+  section sequence I–XXVIII, and nine synchronized marginalia blocks.
+- The scan verification covered all twelve page images and all eleven page
+  joins. The pp. 250–251, 253–254, and 258–259 joins divide `convellere`,
+  `provocatio`, and `communicant`; each word is joined, with the new-page marker
+  placed before the complete Latin word and its English counterpart. The other
+  joins divide no word.
+- The transcription retains all printed Greek and Hebrew. `[sic]` identifies
+  the witness’s malformed `scandalos`, `scandolosos`, `in probo`, and
+  `aoccurrunt`; the English translates the evident sense without silently
+  altering the Latin witness. The witness’s historical dates, biblical
+  citations, and patristic references are retained rather than silently
+  corrected.
+
+The next restart point is `QUÆSTIO XXXIII. DE CONCILIORUM ORIGINE, ET
+AUTORITATE. An proprium sit Pontificis Romani indicere et cogere Concilia, iis
+præesse, et autoritatem ipsis conferre infallibilem in dogmatis Fidei et
+Religionis? Et an recipiendum sit Concilium Tridentinum? Neg. c. Pontif.` on
+printed p. 260 / IA leaf 294 / PDF p. 294.

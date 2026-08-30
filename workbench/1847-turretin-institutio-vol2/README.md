@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question VII
+  Christi Mediatorio*, begun through Question VIII
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–64 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–65 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–VII,
-from printed p. 3 / PDF 31 through section XX of Question VII on printed p.
-355 / PDF 383. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–VIII,
+from printed p. 3 / PDF 31 through section XI of Question VIII on printed p.
+358 / PDF 386. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,347 numbered
-sections across 344 unique numbered text pages and 399 source markers in each
-language (393 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 190,169 whitespace-delimited
-words and the complete English files 259,341, counted over Parts 01–64 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,358 numbered
+sections across 347 unique numbered text pages and 403 source markers in each
+language (397 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 191,760 whitespace-delimited
+words and the complete English files 261,434, counted over Parts 01–65 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -122,6 +122,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 62 | Locus XIV, Question V | printed pp. 344–348 / PDFs 372–376 | XIII | 5 | `part-62-locus-14-question-05-{latin.txt,english.md}` |
 | 63 | Locus XIV, Question VI | printed pp. 348–349 / PDFs 376–377 | VIII | 2 | `part-63-locus-14-question-06-{latin.txt,english.md}` |
 | 64 | Locus XIV, Question VII | printed pp. 350–355 / PDFs 378–383 | XX | 6 | `part-64-locus-14-question-07-{latin.txt,english.md}` |
+| 65 | Locus XIV, Question VIII | printed pp. 355–358 / PDFs 383–386 | XI | 4 | `part-65-locus-14-question-08-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1087,11 +1088,32 @@ audited against both files; the OCR excerpt was used only as an aid. No
 supplementary witness was needed. The Question VIII heading and body later on
 printed p. 355 / PDF 383 are excluded.
 
-Part 64's exact next restart is `QUAESTIO VIII. DE OFFICIO SACERDOTALI CHRISTI.
-An Christus fuerit veri nominis Sacerdos, qui in terris Sacerdotium suum jam
-inchoaverit, An figurate tantum dictus, qui in cœlis demum post Ascensionem
-Munus suum impleverit? Affirm. Prius; Neg. Poster.; contra Socin.` on printed
-p. 355 / PDF 383.
+Question VIII of Locus XIV argues against the Socinians that Christ is a priest
+in the true sense and began his priestly office on earth rather than becoming
+a merely figurative priest only after his ascension. It defines the priesthood
+by Christ's once-for-all self-offering and perpetual intercession, establishes
+its proper character from its name, acts, and types, and proves that the cross
+was a true sacrifice offered by an already constituted priest. It then
+distinguishes priesthood from kingship and explains Hebrews 8:4, the earthly
+inauguration and heavenly consummation of the office, and Hebrews 5:5, in
+eleven sections. It begins at the Question VIII heading below section XX of
+Part 64 on printed p. 355 / PDF 383 and ends with section XI on printed p. 358
+/ PDF 386 immediately before Question IX. The Latin and English files contain
+1,591 and 2,093 whitespace-delimited words respectively, counted over each
+complete file with `wc -w`. Both carry all four printed-page markers in the
+same sequence and retain all six substantive marginal headings, citations,
+and scan-exact Greek. At the printed pp. 355/356 join, section III continues
+between `Catech. Rako. de Munere Christi Sacerdotali` and `Smalci. lib. de
+Divinitate Christi`. The pp. 356/357 join falls within section VI between `Et
+quia agitur de` and `oblatione quæ facta est ἐφάπαξ`. The pp. 357/358 join
+falls within section IX between `Imo vel` and `ad illa auspicanda`. The four
+controlling facsimile images were audited against both files; the OCR excerpt
+was used only as an aid. No supplementary witness was needed. The Question IX
+heading and body later on printed p. 358 / PDF 386 are excluded.
+
+Part 65's exact next restart is `QUAESTIO IX. De natura, et Unitate Sacerdotii
+Christi, et Cur dicatur secundum Ordinem Melchisedeci?` on printed p. 358 / PDF
+386.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

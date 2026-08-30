@@ -75,6 +75,7 @@ same scan can legitimately close one part and open the next:
 | 30 | XXX | 166–171 | 122–127 | `Quinta & postrema ratio à Bellarmino allata est hæc` through the fifth argument from uncertainty and despair, three further arguments concerning Adam's fall, union with Christ, and the coexistence of sin and grace, the patristic confirmations, and the general close of the refutation of four classes of objections, ending `finem tandem imponemus` before Lecture XXXI |
 | 31 | XXXI | 171–175 | 127–131 | `Superest nunc tantùm, ut priusquam totum hunc Locum Theologicum concludamus` through the survey of Pelagian, scholastic, Roman, Ubiquitarian, universal-election, universal-redemption, universal-calling, mutability, and sufficient-grace errors, ending with the announcement of three scriptural counterexamples, `quorum nos specimen in his tribus duntaxat afferemus`, before `Primò, Esai. 5` and Lecture XXXII |
 | 32 | XXXII | 175–179 | 131–135 | `Primò, Esai. 5` through answers to the three scriptural objections concerning Isaiah 5, Matthew 23:37, and Revelation 3:20, errors nine and ten, the patristic and Prosperian confirmations, the eleven-part recapitulation of the entire commonplace on predestination, and the final prayer and `AMEN.`, before `Contextus Apostolici retexendi in manus resumptio`, Ephesians 1:15, and Lecture XXXIII |
+| 33 | XXXIII | 179–184 | 135–140 | `Contextus Apostolici retexendi in manus resumptio`, `In CAP. I. ad EPHES. vers. 15. &c.`, and `Absoluto jam, Dei ope & gratiâ` through the resumption of Ephesians 1:15, the chapter’s division, Paul’s thanksgiving, faith in Christ and love toward the saints, and the comparison of their two offices to the hands of a person climbing Jacob’s ladder, ending `fascem perferendum ac sustinendum` before `Hinc jam secundo loco perpendendum venit Charitatis objectum` and Lecture XXXIV |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -146,8 +147,9 @@ English translation:
 | 30 | Certainty of salvation and the final arguments on perseverance | [`part-30-praelection-30-certainty-and-final-arguments-latin.txt`](parts/part-30-praelection-30-certainty-and-final-arguments-latin.txt) | [`part-30-praelection-30-certainty-and-final-arguments-english.md`](parts/part-30-praelection-30-certainty-and-final-arguments-english.md) |
 | 31 | A survey and refutation of errors against predestination | [`part-31-praelection-31-errors-against-predestination-latin.txt`](parts/part-31-praelection-31-errors-against-predestination-latin.txt) | [`part-31-praelection-31-errors-against-predestination-english.md`](parts/part-31-praelection-31-errors-against-predestination-english.md) |
 | 32 | Scriptural objections and a recapitulation of the whole commonplace on predestination | [`part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt) | [`part-32-praelection-32-scriptural-objections-and-recapitulation-english.md`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-english.md) |
+| 33 | Resumption of the apostolic context, faith in Christ, and love toward the saints | [`part-33-praelection-33-resumption-faith-and-charity-latin.txt`](parts/part-33-praelection-33-resumption-faith-and-charity-latin.txt) | [`part-33-praelection-33-resumption-faith-and-charity-english.md`](parts/part-33-praelection-33-resumption-faith-and-charity-english.md) |
 
-The completed sequence now extends through Lecture XXXII. Its successive subjects
+The completed sequence now extends through Lecture XXXIII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -399,7 +401,15 @@ his judicial testimony toward others. It then identifies two further errors,
 compares the modern position with the Pelagians refuted by Augustine and
 Prosper, recapitulates the entire predestination commonplace in eleven stages,
 and closes that long digression with thanksgiving, prayer, and `AMEN.` Lecture
-XXXIII next resumes the apostolic context at Ephesians 1:15.
+XXXIII resumes the apostolic context at Ephesians 1:15, recalls the two-part
+division of the chapter, and analyzes Paul’s thanksgiving for the Ephesians’
+faith in Christ and love toward all the saints. It explains faith as the
+apprehension of God’s fatherly love in Christ, from which confidence in God
+and reciprocal love for God arise; then it traces love of neighbor through
+that reciprocal love and compares faith and love to the two hands of a person
+climbing Jacob’s ladder. Lecture XXXIV next begins `Hinc jam secundo loco
+perpendendum venit Charitatis objectum` and takes up the object and ordered
+degrees of Christian love.
 
 ## Validation
 
@@ -410,12 +420,13 @@ python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part01.py
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part02.py
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part31.py
 python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part32.py
+python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part33.py
 ```
 
 These check UTF-8 and line hygiene, exact marker sequence and parity,
 AI/unreviewed disclosures, minimum full-text size, required closes and
 marginalia, exact cross-page joins, and the available source-map structure.
-Parts 31 and 32 now have their own work-local validators; the intervening later
+Parts 31–33 now have their own work-local validators; the intervening later
 pairs follow the same marker-parity and hygiene requirements. This workbench
 sequence does not modify global ledgers, the publication manifest, or
 repository checksums.

@@ -710,3 +710,31 @@ The next restart point is `QUÆSTIO XXVI. DE CONIUGIO CLERICORUM. An Cœlibatus
 perpetuus, ex instituto Apostolico, ordini sacro necessario sit servandus? An
 vero licitum sit Ministris sacris Conjugium? Prius Neg. Poster. Affir. cont.
 Pontif.` on printed p. 209 / IA leaf 243 / PDF p. 243.
+
+## Part 26
+
+Part 26 contains the complete Locus XVIII, Question XXVI, “De Coniugio
+Clericorum.” It begins with the question heading on printed p. 209 / IA leaf
+243 / PDF p. 243 and ends with section XXVI on shared printed p. 219 / IA leaf
+253 / PDF p. 253. Question XXVII, “De Immunitate Clericorum,” begins below it
+on that page and is excluded.
+
+- Latin: `parts/part-26-locus-18-question-26-latin.txt`
+- English: `parts/part-26-locus-18-question-26-english.md`
+- Both files contain eleven synchronized source-page markers, the complete
+  section sequence I–XXVI, and eleven synchronized marginalia blocks.
+- All eleven page images and all ten page joins were checked directly against
+  the scan. The pp. 209–210 and 215–216 joins divide `omnibus` and
+  `Bellarminus`; each word is joined, with the new-page marker placed before
+  the complete Latin word and its English counterpart.
+- The transcription retains all printed Greek and Hebrew, the witness’s
+  `Phillipus`, `perigrinantium`, `Pahnutius`, `quadriugentis`, and `illaud
+  concilium`, and the marginal citation `2 Cor. vii. 7.` even though the
+  corresponding text cites `1 Cor. vii. 7.` The running page number misprinted
+  as `112` on the page between printed pp. 211 and 213 is omitted with the
+  other running matter; the synchronized source marker records it as printed
+  p. 212.
+
+The next restart point is `QUÆSTIO XXVII. DE IMMUNITATE CLERICORUM. An Personæ
+Ecclesiasticæ exemptæ sint a Jurisdictione et subjectione Magistratus Civilis?
+Neg. contra Pontificios.` on shared printed p. 219 / IA leaf 253 / PDF p. 253.

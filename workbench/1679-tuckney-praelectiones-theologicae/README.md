@@ -658,6 +658,23 @@ exposition on printed p. 234 / IA leaf 242. The companion proof from Romans
 - English: `parts/part-37-romans-04-05-abraham-13-english.md`
 - Extent: ten synchronized markers, printed pp. 225–234 / IA leaves 233–242
 
+## Part 38: fourteenth unit of the Romans 4:5 lecture
+
+Part 38 begins Tuckney's companion proof from Romans 5:18. It states the
+parallel between condemnation in the first Adam and justification in the
+second, presents Socinus's attempt to remove imputation from Romans 5, and
+answers his first denial by appealing to Romans 5:13, the necessary
+consequence of the chapter's Adam–Christ parallel, and the deliberate
+repetition of `of the one` and `through the one` in verse 17. It runs from
+`Ad Rom. 5.18` on printed p. 234 / IA leaf 242 through the completion of the
+second proof under Tuckney's first reply on printed p. 236 / IA leaf 244.
+The third proof, beginning `Videamus etiam, annon hoc idem ex illo (cui
+Socinus insistit) loco ἐφ' ᾧ πάντες ἥμαρτον evinci poterit`, is excluded.
+
+- Latin: `parts/part-38-romans-04-05-abraham-14-latin.txt`
+- English: `parts/part-38-romans-04-05-abraham-14-english.md`
+- Extent: three synchronized markers, printed pp. 234–236 / IA leaves 242–244
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

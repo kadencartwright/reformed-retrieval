@@ -24,7 +24,7 @@ The controlling witness is the public-domain Google Books full-view scan
 [*Bellarminus enervatus*, Tome IV](https://books.google.com/books?id=1AfNlTSMfpEC).
 Google's viewer explicitly reports the volume as public domain. The relevant
 images are [`PA223`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA223)
-through [`PA369`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA369).
+through [`PA374`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA374).
 Page images, not Google OCR, govern the transcription.
 
 For higher-resolution inspection of the same impression, the page images were
@@ -38,8 +38,8 @@ leaves 669–815. No modern edition or translation supplied wording.
 Google `PA221` is Tome IV's separate title page and `PA222` is its dedication;
 both preliminaries are outside the body text. The completed parts continue
 without a textual gap from the opening of Tome IV on printed p. 223 / Google
-`PA223` through the end of Book VI, Chapter VI on printed p. 369 / Google
-`PA369`. The following heading, Book VI, Chapter VII, and all of its text are
+`PA223` through the end of Book VI, Chapter VII on printed p. 374 / Google
+`PA374`. The following heading, Book VI, Chapter VIII, and all of its text are
 excluded.
 
 | Part | Complete unit | Printed pages / Google images |
@@ -62,8 +62,9 @@ excluded.
 | 16 | Book VI, Chapter IV | 359–364 / `PA359`–`PA364` |
 | 17 | Book VI, Chapter V | 364–367 / `PA364`–`PA367` |
 | 18 | Book VI, Chapter VI | 367–369 / `PA367`–`PA369` |
+| 19 | Book VI, Chapter VII | 369–374 / `PA369`–`PA374` |
 
-Across the eighteen paired part files, each language has 161 synchronized
+Across the nineteen paired part files, each language has 167 synchronized
 source markers across the complete present extent, all in the identical form:
 
 `[Printed p. N | Google Books PAN | GB 1AfNlTSMfpEC]`
@@ -83,5 +84,5 @@ images, but they have not received independent human review.
 
 ## Current files
 
-The `parts/` directory contains the eighteen synchronized Latin/English pairs
+The `parts/` directory contains the nineteen synchronized Latin/English pairs
 enumerated in the table above.

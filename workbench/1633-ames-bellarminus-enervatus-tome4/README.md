@@ -24,22 +24,22 @@ The controlling witness is the public-domain Google Books full-view scan
 [*Bellarminus enervatus*, Tome IV](https://books.google.com/books?id=1AfNlTSMfpEC).
 Google's viewer explicitly reports the volume as public domain. The relevant
 images are [`PA223`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA223)
-through [`PA367`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA367).
+through [`PA369`](https://books.google.com/books?id=1AfNlTSMfpEC&pg=PA369).
 Page images, not Google OCR, govern the transcription.
 
 For higher-resolution inspection of the same impression, the page images were
 also checked against the Koninklijke Bibliotheek copy made publicly available
 by Internet Archive as
 [`ned-kbn-all-00002889-001`](https://archive.org/details/ned-kbn-all-00002889-001),
-leaves 669–813. No modern edition or translation supplied wording.
+leaves 669–815. No modern edition or translation supplied wording.
 
 ## Exact boundaries
 
 Google `PA221` is Tome IV's separate title page and `PA222` is its dedication;
 both preliminaries are outside the body text. The completed parts continue
 without a textual gap from the opening of Tome IV on printed p. 223 / Google
-`PA223` through the end of Book VI, Chapter V on printed p. 367 / Google
-`PA367`. The following heading, Book VI, Chapter VI, and all of its text are
+`PA223` through the end of Book VI, Chapter VI on printed p. 369 / Google
+`PA369`. The following heading, Book VI, Chapter VII, and all of its text are
 excluded.
 
 | Part | Complete unit | Printed pages / Google images |
@@ -61,8 +61,9 @@ excluded.
 | 15 | Book VI, Chapter III | 357–359 / `PA357`–`PA359` |
 | 16 | Book VI, Chapter IV | 359–364 / `PA359`–`PA364` |
 | 17 | Book VI, Chapter V | 364–367 / `PA364`–`PA367` |
+| 18 | Book VI, Chapter VI | 367–369 / `PA367`–`PA369` |
 
-Across the seventeen paired part files, each language has 158 synchronized
+Across the eighteen paired part files, each language has 161 synchronized
 source markers across the complete present extent, all in the identical form:
 
 `[Printed p. N | Google Books PAN | GB 1AfNlTSMfpEC]`
@@ -82,37 +83,5 @@ images, but they have not received independent human review.
 
 ## Current files
 
-- `parts/part-01-book-01-and-book-02-chapter-01-latin.txt`
-- `parts/part-01-book-01-and-book-02-chapter-01-english.md`
-- `parts/part-02-book-02-chapter-02-latin.txt`
-- `parts/part-02-book-02-chapter-02-english.md`
-- `parts/part-03-book-02-chapter-03-latin.txt`
-- `parts/part-03-book-02-chapter-03-english.md`
-- `parts/part-04-book-03-introduction-and-chapter-01-latin.txt`
-- `parts/part-04-book-03-introduction-and-chapter-01-english.md`
-- `parts/part-05-book-03-chapter-02-latin.txt`
-- `parts/part-05-book-03-chapter-02-english.md`
-- `parts/part-06-book-03-chapter-03-latin.txt`
-- `parts/part-06-book-03-chapter-03-english.md`
-- `parts/part-07-book-03-chapter-04-latin.txt`
-- `parts/part-07-book-03-chapter-04-english.md`
-- `parts/part-08-book-03-chapter-05-latin.txt`
-- `parts/part-08-book-03-chapter-05-english.md`
-- `parts/part-09-book-04-chapters-01-02-latin.txt`
-- `parts/part-09-book-04-chapters-01-02-english.md`
-- `parts/part-10-book-04-chapter-03-latin.txt`
-- `parts/part-10-book-04-chapter-03-english.md`
-- `parts/part-11-book-05-chapters-01-03-latin.txt`
-- `parts/part-11-book-05-chapters-01-03-english.md`
-- `parts/part-12-book-05-chapter-04-latin.txt`
-- `parts/part-12-book-05-chapter-04-english.md`
-- `parts/part-13-book-06-chapter-01-latin.txt`
-- `parts/part-13-book-06-chapter-01-english.md`
-- `parts/part-14-book-06-chapter-02-latin.txt`
-- `parts/part-14-book-06-chapter-02-english.md`
-- `parts/part-15-book-06-chapter-03-latin.txt`
-- `parts/part-15-book-06-chapter-03-english.md`
-- `parts/part-16-book-06-chapter-04-latin.txt`
-- `parts/part-16-book-06-chapter-04-english.md`
-- `parts/part-17-book-06-chapter-05-latin.txt`
-- `parts/part-17-book-06-chapter-05-english.md`
+The `parts/` directory contains the eighteen synchronized Latin/English pairs
+enumerated in the table above.

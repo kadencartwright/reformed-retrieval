@@ -56,14 +56,15 @@ omit content.
 | 21 | Question IV: goodness, love, hatred, justice, mercy, anger, chastity | 200–205 | 00116–00119 |
 | 22 | Question IV: divine power | 205–208 | 00119–00120 |
 | 23 | `DE TRINITATE`: distinction of the persons | 208–220 | 00120–00126 |
+| 24 | Second controversy: consubstantiality of the persons | 220–237 | 00126–00135 |
 
-The sequence is continuous from the opening of Tome I through the first
-Trinitarian controversy. Part 22 ends in column 208 with `in adversis
-patientes simus.` Part 23 begins immediately afterward at the ornamental
-heading `DE TRINITATE`; nothing at the shared-column join is repeated or
-omitted. It ends after the response to objection 13 in column 220. `SECUNDA
-CONTROVERSIA. De Personarum ὁμοουσία.` begins immediately afterward and is the
-exact resume boundary.
+The sequence is continuous from the opening of Tome I through the second
+Trinitarian controversy. Part 23 ends after the response to objection 13 in
+column 220. Part 24 begins immediately at `SECUNDA CONTROVERSIA. De Personarum
+ὁμοουσία.`; nothing at the shared-column join is repeated or omitted. It ends
+after objection 35 and its response in column 237. The ornamental heading `DE
+PRAEDESTINATIONE.` begins immediately afterward and is the exact resume
+boundary.
 
 ## Editorial method
 
@@ -112,3 +113,15 @@ points of translation in the paired English files.
   personal sense and records the form.
 - No separate marginal notes occur in this unit; its printed patristic and
   biblical locators are preserved inline in both files.
+
+## Part 24 witness anomalies
+
+- The witness's extensive printed Greek is transcribed rather than replaced
+  by transliteration; no separate marginal notes occur in this unit.
+- The preliminary numbered senses move from `1.` and `2.` to `5.` in column
+  223. The objections likewise jump from `25.` to `36.` in column 236 and then
+  resume at `27.`. Both sequences are retained.
+- Defective locators include `Isa. 20.6.` (col. 228), `Matt. 28.30` (col. 229),
+  `1. Cor. 11.30` (col. 234), `Ioan. 27.5` (col. 236), and
+  `Luc. 1.21` (col. 237). The Latin retains them and the English notes the
+  apparent references where reasonably clear.

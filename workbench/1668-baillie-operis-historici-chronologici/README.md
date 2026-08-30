@@ -1003,6 +1003,29 @@ the repeated whole-word catchwords at the pp. 265/266, 266/267, 267/268, and
 268/269 transitions were omitted. OCR served only as a reading aid. The pair
 remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 48 boundary and status
+
+Part 48 is a synchronized Latin/English working pair with exactly seven
+markers: partial printed pp. 270 and 276 and complete pp. 271–275, IA leaves
+300–306, access-PDF pp. 300–306, and DjVu OCR objects 299–305. It begins in
+the left column of printed p. 270 immediately after Part 47 with `QUAESTIO
+VII. Quibus temporibus assignanda sint quae de Gog & Magog habet Ezekiel
+Capitibus 38. & 39?` It contains Question VII in full and ends in the upper
+right column of printed p. 276 after `Ad minutiora non descendimus, aliis ad
+quaestiones Apocalypticas remissis.`
+
+`QUAESTIO VIII. Ad quae tempora templi fabrica & partitio terrae, aliaque
+Ezekielis quadragesimo ac sequentibus, referenda sint?` begins immediately
+below in the same column and is wholly excluded. All seven controlling 300-dpi
+page images, `pdf-300.jpg` through `pdf-306.jpg`, governed the transcription
+and were visually inspected at original detail, including both partial-page
+boundaries, every page and column transition, all verbal marginalia, names,
+numbers, and the Greek and Hebrew strings. The p. 270/p. 271, p. 271/p. 272,
+p. 272/p. 273, p. 273/p. 274, p. 274/p. 275, and p. 275/p. 276 catchwords were
+omitted, with their corresponding whole words placed after the later
+synchronized markers in both files. OCR served only as a reading aid. The
+pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1113,6 +1136,8 @@ have not been modernized or endorsed.
 - `parts/part-46-book-01-chapter-12-question-05-english.md`
 - `parts/part-47-book-01-chapter-12-question-06-latin.txt`
 - `parts/part-47-book-01-chapter-12-question-06-english.md`
+- `parts/part-48-book-01-chapter-12-question-07-latin.txt`
+- `parts/part-48-book-01-chapter-12-question-07-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1125,7 +1150,7 @@ three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
 eight for Part 42, five for Part 43, eleven for Part 44, four for Part 45,
-eight for Part 46, and seven for Part 47. There are ninety-four current files
-in forty-seven Latin/English pairs, containing 312 synchronized source markers
-per language (624 marker occurrences across all ninety-four files). The files
-remain AI-assisted and unreviewed.
+eight for Part 46, and seven each for Parts 47 and 48. There are ninety-six
+current files in forty-eight Latin/English pairs, containing 319 synchronized
+source markers per language (638 marker occurrences across all ninety-six
+files). The files remain AI-assisted and unreviewed.

@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–13 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–14 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -96,8 +96,10 @@ printed p. 135 / canvas 145. Part 12 completes Article II, Chapter VII, from
 its heading lower on that page through the end of the sixth argument in the
 upper portion of printed p. 141 / canvas 151. Part 13 completes Article II,
 Chapter VIII, from its heading lower on that page through the end of the
-seventh argument in the upper portion of printed p. 143 / canvas 153. The
-files are divided as follows:
+seventh argument in the upper portion of printed p. 143 / canvas 153. Part 14
+completes Article II, Chapter IX, from its heading lower on that page through
+its concluding historical discussion on printed p. 153 / canvas 163. The files
+are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -127,6 +129,8 @@ files are divided as follows:
 - Part 13: Article II, Chapter VIII, canvases 151–153 / printed pp. 141–143;
   only the lower portion of canvas 151 and the upper portion of canvas 153
   belong to this unit.
+- Part 14: Article II, Chapter IX, canvases 153–163 / printed pp. 143–153; only
+  the lower portion of canvas 153 belongs to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -248,6 +252,23 @@ retained rather than silently regularized.
 - Both Part 13 files contain three synchronized source markers for BSB
   canvases 151–153 / printed pp. 141–143.
 
-The next untranslated unit begins with `CAP. IX. Argumentum octavum. Pag.
-198.` and `Quibus Christus Reconciliator est factus, eorum & Intercessor
-factus est` lower on printed p. 143 / BSB canvas 153.
+Part 14 answers the eighth argument: those for whom Christ was made Reconciler
+also have him as Intercessor, since these two parts of his office ought not to
+be disjoined. It then treats three corollaries, the agreement of the Confession
+and Catechism, and the Remonstrants’ appeal to Faustus of Riez. It begins with
+`CAP. IX. Argumentum octavum. Pag. 198.` and `Quibus Christus Reconciliator
+est factus, eorum & Intercessor factus est` lower on printed p. 143 / canvas
+153 and ends with `...qui nec testis, nec testimonii rationem ullam habent.`
+on printed p. 153 / canvas 163. The witness’s `Rom. 8. 3. 4.`, `Act. 3 & 5`,
+`Cathechismo`, `à Scriptura sensu`, and Greek `αὐτοκατάκριτος` are retained
+rather than silently regularized.
+
+- Latin: `parts/part-14-article-02-chapter-09-latin.txt`
+- English: `parts/part-14-article-02-chapter-09-english.md`
+- Both Part 14 files contain eleven synchronized source markers for BSB
+  canvases 153–163 / printed pp. 143–153.
+
+The next untranslated unit begins with `CAP. X. De Scripturae testimoniis
+suffulciendae sua thesi, à Remonstrantibus productis.` and `Primum desumitur
+ex Ioh. 3. 16. Sic Deus dilexit mundum, ut Filium suum unigenitum dederit`
+on printed p. 154 / BSB canvas 164.

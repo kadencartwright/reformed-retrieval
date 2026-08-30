@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XVIII
+  Statu Christi*, complete in nineteen questions
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–56 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–57 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XVIII, from printed p. 3 / PDF 31
-through section XII on printed p. 323 / PDF 351. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XIX, from printed p. 3 / PDF 31
+through section XX on printed p. 327 / PDF 355. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,220 numbered sections across 315 unique numbered
-text pages and 363 source markers in each language (359 printed-page markers
+268. The sequence comprises 1,240 numbered sections across 319 unique numbered
+text pages and 367 source markers in each language (363 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 174,546 whitespace-delimited words and the complete English files
-238,313, counted over Parts 01–56 with `wc -w`. Each part is a complete question,
+contain 176,579 whitespace-delimited words and the complete English files
+241,115, counted over Parts 01–57 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -111,6 +111,7 @@ the substantive marginal headings.
 | 54 | Locus XIII, Question XVI | printed pp. 317–319 / PDFs 345–347 | XI | 3 | `part-54-locus-13-question-16-{latin.txt,english.md}` |
 | 55 | Locus XIII, Question XVII | printed pp. 319–321 / PDFs 347–349 | X | 3 | `part-55-locus-13-question-17-{latin.txt,english.md}` |
 | 56 | Locus XIII, Question XVIII | printed pp. 321–323 / PDFs 349–351 | XII | 3 | `part-56-locus-13-question-18-{latin.txt,english.md}` |
+| 57 | Locus XIII, Question XIX | printed pp. 324–327 / PDFs 352–355 | XX | 4 | `part-57-locus-13-question-19-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -887,10 +888,33 @@ conversatione`, the form `unum præsentiam`, and `opparitionem` are retained in
 the Latin with `[sic]` rather than silently regularized. The Question XIX
 heading and body on printed p. 324 / PDF 352 are excluded.
 
-Part 56's exact next restart is `QUAESTIO XIX. DE SESSIONE CHRISTI AD DEXTRAM
-DEI. Quid sit Sessio Christi ad Dextram Dei, Secundum quam naturam Christo
-conveniat, Et an ad situs rationem pertineat? Neg.` on printed p. 324 / PDF
-352.
+Question XIX explains Christ's session at God's right hand as the glorious
+state and mediatorial sovereignty of his person rather than a literal bodily
+position. It assigns the power to the person and its exercise to both natures,
+dates the session in its incarnate form from Christ's resurrection and
+ascension, and rejects the Lutheran inference from the session to the bodily
+ubiquity and omnipotence of Christ's human nature, in twenty sections. It
+begins on printed p. 324 / PDF 352 and ends with section XX on printed p. 327 /
+PDF 355, completing Locus XIII. The Latin and English files contain 2,033 and
+2,802 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all four printed-page markers in the same
+sequence and retain all three substantive marginal headings, citations, and
+scan-exact Greek and Hebrew. At the printed pp. 324/325 join, the
+printer-divided `po-/testas` is normalized as `potestas`, with the incoming
+marker placed before the complete word in both files. The pp. 325/326 join
+falls within section XII between `Sed` and `ut ἔνσαρκος`; the pp. 326/327 join
+falls within section XVII between `conditum` and `et postea corruptibilem
+factum`. The four controlling facsimile images were audited against both
+files; the OCR excerpt was used only as an aid. No supplementary witness was
+needed. Blank PDF 356, the Locus XIV divisional title on PDF 357, its blank
+verso on PDF 358, and the repeated title and Question I on printed p. 331 /
+PDF 359 are excluded.
+
+PDF 356 is blank and remains excluded. Part 57's exact next restart is the
+unnumbered divisional title `LOCUS DECIMUS QUARTUS. DE OFFICIO CHRISTI
+MEDIATORIO.` on PDF 357; its blank verso is PDF 358, and the title is repeated
+above `QUAESTIO PRIMA. Quo sensu nomen Mediatoris Christo competat?` on printed
+p. 331 / PDF 359.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

@@ -241,6 +241,22 @@ exact next untranslated boundary is `ASSERTIO XI. In Ordinatione hâc ritè
 peragendâ, requiritur manuum impositio. Necessarium duco hanc addere
 Assertionem propter ea quæ habet Velthusius pag. 298. & alibi in præfatione.`
 
+## Part 14 boundary and source map
+
+Part 14 is Brown’s complete `ASSERTIO XI`, arguing that the proper performance
+of ordination requires the imposition of hands by necessity of divine command,
+though not as a sacrament, an effective means of grace, or a condition without
+which ordination is null. Brown gives six positive arguments, answers seven
+objections, and closes with an extended discussion of the ordination,
+permanence, and material support of elders and deacons. The part begins in the
+lower portion of printed p. 193 / ONB canvas 201 and ends immediately before
+`ASSERTIO XII` in the upper portion of printed p. 205 / ONB canvas 213. Its
+paired files contain thirteen synchronized markers for printed pp. 193–205,
+approximately twelve full pages of text. The exact next untranslated boundary
+is `ASSERTIO XII. Ministerium hocce, seu munus aut functio hæc pastoralis,
+pastoribus legitimè vocatis, electis ac ritè ordinatis propria, perpetuò in
+Ecclesiâ Christi necessaria est, & in finem usque duratura.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -289,6 +305,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-12-popular-power-and-ordination-english.md`
 - `parts/part-13-right-of-ordination-latin.txt`
 - `parts/part-13-right-of-ordination-english.md`
+- `parts/part-14-laying-on-of-hands-latin.txt`
+- `parts/part-14-laying-on-of-hands-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

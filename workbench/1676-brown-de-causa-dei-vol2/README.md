@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening eighty-five printed pages of
-> Volume II. The twenty paired parts are unreviewed and are not
+> close English translations of the opening ninety-seven printed pages of
+> Volume II. The twenty-five paired parts are unreviewed and are not
 > publication-ready.
 
 ## Work and edition
@@ -86,11 +86,12 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 85 is applied and disclosed in the relevant
+completed span through printed p. 97 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
-Hebrew and Greek on p. 4 were read from the image, not reconstructed from IA
-OCR. Apparatus notes record printed errata, source-language glosses needed by
-the English, and anomalous citations without silently repairing them.
+Hebrew and Greek on p. 4 and in Chapter VII were read from the images, not
+reconstructed from IA OCR. Apparatus notes record printed errata,
+source-language glosses needed by the English, and anomalous citations without
+silently repairing them.
 
 The English is a complete independent translation of the accompanying Latin,
 not a summary. Biblical quotations are translated from Brown's wording, and
@@ -101,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Twenty paired parts are complete as scan-audited, AI-assisted, unreviewed
+Twenty-five paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -184,13 +185,40 @@ working drafts:
   pp. 83–85 / IA PDF and leaves 91–93; three synchronized markers.
   [Latin](parts/part-20-book-04-chapter-06-objections-24-28-latin.txt) |
   [English](parts/part-20-book-04-chapter-06-objections-24-28-english.md)
+- **Part 21:** Chapter VII's question, distinctions, thesis, and preliminary
+  case for the Decalogue's special privileges; printed pp. 85–87 / IA PDF and
+  leaves 93–95; three synchronized markers.
+  [Latin](parts/part-21-book-04-chapter-07-framework-latin.txt) |
+  [English](parts/part-21-book-04-chapter-07-framework-english.md)
+- **Part 22:** Chapter VII's first privilege, that God himself promulgated the
+  Decalogue, with four objections and responses; printed pp. 87–91 / IA PDF
+  and leaves 95–99; five synchronized markers.
+  [Latin](parts/part-22-book-04-chapter-07-privilege-01-latin.txt) |
+  [English](parts/part-22-book-04-chapter-07-privilege-01-english.md)
+- **Part 23:** Chapter VII's second privilege, the other circumstances of the
+  Decalogue's promulgation; printed pp. 91–92 / IA PDF and leaves 99–100; two
+  synchronized markers.
+  [Latin](parts/part-23-book-04-chapter-07-privilege-02-latin.txt) |
+  [English](parts/part-23-book-04-chapter-07-privilege-02-english.md)
+- **Part 24:** Chapter VII's third privilege, that God twice engraved the
+  Decalogue on stone tablets, with seven objections and responses; printed pp.
+  92–95 / IA PDF and leaves 100–103; four synchronized markers.
+  [Latin](parts/part-24-book-04-chapter-07-privilege-03-latin.txt) |
+  [English](parts/part-24-book-04-chapter-07-privilege-03-english.md)
+- **Part 25:** Chapter VII's fourth privilege, that the tablets were stored in
+  the ark of the covenant, with two objections and responses, completing the
+  chapter; printed pp. 95–97 / IA PDF and leaves 103–105; three synchronized
+  markers.
+  [Latin](parts/part-25-book-04-chapter-07-privilege-04-latin.txt) |
+  [English](parts/part-25-book-04-chapter-07-privilege-04-english.md)
 
-Part 20 ends after the final response to Objection 28 and before `CAP. VII.`
-on shared printed p. 85. The exact next untranslated text is `CAP. VII.
-Praecepta Decalogica moralia esse, probatur ex privilegiis Decalogi.`, at
-printed p. 85 / IA PDF 93 / IA leaf 93. Chapter VI is complete; Chapter VII
-has not begun. Every completed pair has an identical source-marker sequence,
-and all twenty pairs remain AI-assisted and unreviewed.
+Part 25 ends after the response to the second objection under Chapter VII's
+fourth privilege and before `CAP. VIII.` on shared printed p. 97. The exact
+next untranslated text is `CAP. VIII. Aliis rationibus probatur, legem
+Decalogi moralem esse.`, at printed p. 97 / IA PDF 105 / IA leaf 105. Chapters
+VI and VII are complete; Chapter VIII has not begun. Every completed pair has
+an identical source-marker sequence, and all twenty-five pairs remain
+AI-assisted and unreviewed.
 
 ## Licensing
 

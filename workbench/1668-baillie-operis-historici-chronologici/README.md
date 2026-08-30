@@ -916,7 +916,7 @@ legimus ...`. It contains Question III in full and ends at the foot of the
 right column of printed p. 252 after `Novitatis & singularitatis affectatio
 rarò cuiquam benè cessit.`
 
-`QUAESTIO IV. Quid de diebus his mille trecentis Dan. 8. v. 14. sentiendum?`
+`QUAESTIO IV. Quid de diebus bis mille trecentis Dan. 8. v. 14. sentiendum?`
 begins at the top of printed p. 253 / IA leaf 283 / access-PDF p. 283 / DjVu
 OCR object 282 and is wholly excluded; that heading is the exact next restart.
 
@@ -931,6 +931,29 @@ transitions were joined and placed wholly after the later synchronized marker
 in both files.
 OCR served only as a reading aid. The pair remains an AI-assisted, unreviewed
 draft and is not publication-ready.
+
+## Part 45 boundary and status
+
+Part 45 is a synchronized Latin/English working pair with exactly four markers:
+complete printed pp. 253–255 and partial p. 256, IA leaves 283–286, access-PDF
+pp. 283–286, and DjVu OCR objects 282–285. It begins at the top of printed p.
+253 immediately after Part 44 with `QUAESTIO IV. Quid de diebus bis mille
+trecentis Dan. 8. v. 14. sentiendum?` It contains Question IV in full and ends
+in the left column of printed p. 256 after `Sed de insulsis hisce nugis satis
+superque.`
+
+`QUAESTIO V. Qui sint termini dierum 1290. & 1335. de quibus Daniel 12. vers.
+11. & 12?` begins immediately below in the same column and is wholly excluded;
+that heading is the exact next restart. All four controlling 300-dpi page
+images, `pdf-283.jpg` through `pdf-286.jpg`, governed the transcription and
+were visually inspected at original detail, including every page and column
+transition, number, name, citation, Greek string, and verbal marginalium. The
+body words divided at the pp. 253/254 and 254/255 transitions were joined and
+placed wholly after the later synchronized marker in both files; the repeated
+whole-word catchword at the pp. 255/256 transition was omitted. `pdf-287.jpg`
+was checked as downstream boundary evidence only. OCR served only as a reading
+aid. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
 
 ## Editorial method
 
@@ -1036,6 +1059,8 @@ have not been modernized or endorsed.
 - `parts/part-43-book-01-chapter-12-question-02-english.md`
 - `parts/part-44-book-01-chapter-12-question-03-latin.txt`
 - `parts/part-44-book-01-chapter-12-question-03-english.md`
+- `parts/part-45-book-01-chapter-12-question-04-latin.txt`
+- `parts/part-45-book-01-chapter-12-question-04-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1047,7 +1072,7 @@ Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
-eight for Part 42, five for Part 43, and eleven for Part 44. There are
-eighty-eight current files in forty-four Latin/English pairs, containing 293
-synchronized source markers per language (586 marker occurrences across all
-eighty-eight files). The files remain AI-assisted and unreviewed.
+eight for Part 42, five for Part 43, eleven for Part 44, and four for Part 45.
+There are ninety current files in forty-five Latin/English pairs, containing
+297 synchronized source markers per language (594 marker occurrences across
+all ninety files). The files remain AI-assisted and unreviewed.

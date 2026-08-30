@@ -1068,6 +1068,22 @@ beginning `Huic itaque levi armaturae`, are excluded.
 - English: `parts/part-62-romans-04-05-abraham-38-english.md`
 - Extent: two synchronized markers, printed pp. 285–286 / IA leaves 293–294
 
+## Part 63: thirty-ninth unit of the Romans 4:5 lecture
+
+Part 63 answers the first two of Castellio's three follow-up objections.
+Faith operates instrumentally while death supplies the way and means; and
+death is not an ally lending Christ assistance, since Enoch and Elijah show
+Christ could remove sin without it. Ordinarily Christ instead displays his
+victory by yoking the last enemy and making death destroy the sin that gave
+it birth, like borers destroying their native tree. It runs from `Huic
+itaque levi armaturae` on printed p. 286 / IA leaf 294 through the second
+response on printed p. 287 / IA leaf 295. The third objection, beginning
+`At illud inprimis urget`, is excluded.
+
+- Latin: `parts/part-63-romans-04-05-abraham-39-latin.txt`
+- English: `parts/part-63-romans-04-05-abraham-39-english.md`
+- Extent: two synchronized markers, printed pp. 286–287 / IA leaves 294–295
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

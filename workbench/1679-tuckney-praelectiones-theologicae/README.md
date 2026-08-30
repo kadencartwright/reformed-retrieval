@@ -1132,6 +1132,22 @@ insurgit Castellio`, is excluded.
 - English: `parts/part-66-romans-04-05-abraham-42-english.md`
 - Extent: two synchronized markers, printed pp. 289–290 / IA leaves 297–298
 
+## Part 67: forty-third unit of the Romans 4:5 lecture
+
+Part 67 answers Castellio's appeal to “My grace is sufficient” and “power
+is perfected in weakness.” Paul conquers progressively by enduring and
+weakening the enemy, then gains complete victory at death; sufficient grace
+sustains the fight and completes the victory. Divine power is increasingly
+displayed in continuing weakness, while evangelical perfection includes
+recognition of present imperfection. It runs from `Sed hic insurgit
+Castellio` on printed p. 290 / IA leaf 298 through the comments of Estius,
+Augustine, and Jerome on printed p. 291 / IA leaf 299. The next response,
+beginning `Et secundo ad id quod dicit`, is excluded.
+
+- Latin: `parts/part-67-romans-04-05-abraham-43-latin.txt`
+- English: `parts/part-67-romans-04-05-abraham-43-english.md`
+- Extent: two synchronized markers, printed pp. 290–291 / IA leaves 298–299
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

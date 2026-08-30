@@ -56,13 +56,13 @@ reply.
 
 ## Completed units
 
-**Parts 01–13 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–14 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
 (printed pages 59–66), and the opening argument blocks of Book IV, chapter I,
-through Bellarmine's arguments from the Pauline epistles (printed pages
-67–91).
+through Ames's scriptural arguments against the real presence (printed pages
+67–94).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -121,6 +121,12 @@ through Bellarmine's arguments from the Pauline epistles (printed pages
   page 91).
   - `parts/part-13-book-04-eucharist-chapter-01-pauline-arguments-latin.txt`
   - `parts/part-13-book-04-eucharist-chapter-01-pauline-arguments-english.md`
+- **Part 14:** Book IV, *De Sacramento Eucharistiae*, chapter I: the complete
+  internal section of Ames's scriptural arguments against the real presence,
+  printed items 53–56, printed pages 91–94 (ending before the `CAPVT III`
+  heading on page 94).
+  - `parts/part-14-book-04-eucharist-chapter-01-scriptural-arguments-against-real-presence-latin.txt`
+  - `parts/part-14-book-04-eucharist-chapter-01-scriptural-arguments-against-real-presence-english.md`
 
 Both Part 12 files contain nine exactly synchronized printed-page markers. The
 four words divided across printed-page boundaries—`demonstrat` (pages 80/81),
@@ -144,9 +150,13 @@ numbers two successive points `I`. The forms `fractio hac` in item 50,
 `Bethchematae`, and `carnibus propositionis` in the repeated item 51 are also
 retained as printed.
 
-The next untranslated boundary is `Argumenta quaedam nostra, contra realem
-praesentiam corporis & sanguinis Christi in Eucharistia, sub speciebus panis
-& vini, ex Scripturis deprompta`, on printed page 91. Its introductory
-paragraph begins `Quia illa argumenta, quae Bellarm. l. 1. c. 14. solvenda
-proponit`, and the first numbered argument is item 53, `Protest. Mat. 15. Omne
-quod intrat in os, in ventrem vadit`.
+Both Part 14 files contain four exactly synchronized printed-page markers.
+The word divided across the printed page 93/94 boundary, `corpo- | ralibus`, is
+joined as `corporalibus` and placed wholly after the incoming page marker; the
+English marker is synchronized before “bodily foods.”
+
+The next untranslated boundary is `CAPVT III. De possibilitate praesentiae
+corporis & sanguinis Domini sub specie panis, & Vini`, on printed page 94. Its
+first question asks `an non implicet contradictionem unum corpus totum simul
+esse in pluribus locis?`, followed by `Argumenta Bellarmini`, `THESIS I`, and
+Bellarmine's first argument, `Matt. 19. Apud Deum omnia possibilia sunt`.

@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations through printed page 207 of Volume II. The forty
-> paired parts remain unreviewed and are not publication-ready.
+> close English translations through printed page 215 of Volume II. The
+> forty-one paired parts remain unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -85,12 +85,12 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 207 is applied and disclosed in the relevant
+completed span through printed p. 215 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
-Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, and XX were
-read from the images, not reconstructed from IA OCR. Apparatus notes record
-printed errata, source-language glosses needed by the English, and anomalous
-citations without silently repairing them.
+Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, XX, and
+XXI were read from the images, not reconstructed from IA OCR. Apparatus notes
+record printed errata, source-language glosses needed by the English, and
+anomalous citations without silently repairing them.
 
 The English is a complete independent translation of the accompanying Latin,
 not a summary. Biblical quotations are translated from Brown's wording, and
@@ -101,7 +101,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Forty paired parts are complete as scan-audited, AI-assisted, unreviewed
+Forty-one paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -300,13 +300,20 @@ working drafts:
   leaves 205–215; eleven synchronized markers.
   [Latin](parts/part-40-book-04-chapter-20-burmann-and-others-latin.txt) |
   [English](parts/part-40-book-04-chapter-20-burmann-and-others-english.md)
+- **Part 41:** all of Chapter XXI, giving a brief exposition of the fourth
+  commandment: its place within immediate worship, its prescribed day and
+  cessation, its division of six working days and one Sabbath, the duties of
+  superiors, and its implicit and explicit reasons; printed pp. 207–215 / IA
+  PDF and leaves 215–223; nine synchronized markers.
+  [Latin](parts/part-41-book-04-chapter-21-brief-exposition-fourth-commandment-latin.txt) |
+  [English](parts/part-41-book-04-chapter-21-brief-exposition-fourth-commandment-english.md)
 
-Part 40 ends with Chapter XX's final response to Cocceius on printed p. 207.
-The exact next untranslated chapter text is `CAP. XXI.` later on printed p.
-207 / IA PDF 215 / IA leaf 215, followed by `Expositio brevis quarti
-praecepti.` Chapters VI through XX are complete. Every completed pair has an
-identical source-marker sequence, and all forty pairs remain AI-assisted and
-unreviewed.
+Part 41 ends with Chapter XXI's fourth and final observation on printed p.
+215. The exact next untranslated chapter text is `CAP. XXII.` on printed p.
+216 / IA PDF 224 / IA leaf 224, followed by `Quartum Decalogi praeceptum est
+Morale.` Chapters VI through XXI are complete. Every completed pair has an
+identical source-marker sequence, and all forty-one pairs remain AI-assisted
+and unreviewed.
 
 ## Licensing
 

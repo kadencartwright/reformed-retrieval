@@ -607,3 +607,52 @@ The next restart point is `QUÆSTIO XXII. DE VOCATIONE PASTORUM. An necesse sit
 dari Ministerium Publicum, et Vocationem ad illud in Ecclesia? Affir. contra
 Fanaticos et Enthousiastas.` on shared printed p. 178 / IA leaf 212 / PDF p.
 212.
+
+## Part 22
+
+Part 22 contains the complete Locus XVIII, Question XXII, “De Vocatione
+Pastorum.” It begins with the question heading on shared printed p. 178 / IA
+leaf 212 / PDF p. 212, immediately after Question XXI, and ends with section
+XIX on printed p. 182 / IA leaf 216 / PDF p. 216. Question XXIII begins on the
+next printed page and is excluded.
+
+- Latin: `parts/part-22-locus-18-question-22-latin.txt`
+- English: `parts/part-22-locus-18-question-22-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XIX, and nine synchronized marginalia blocks.
+- All five page images and all four page joins were checked directly against
+  the scan. The pp. 181–182 join divides `Philippus`; the word is joined, with
+  the p. 182 marker placed before the complete Latin word and its English
+  counterpart.
+- The transcription retains all printed Greek and the witness’s forms
+  `Svvencfeldianos`, `loquutus`, `Uza`, and `minorennes`; the English translates
+  the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XXIII. Quotuplex sit Vocatio ad Ministerium,
+et an ordinaria semper sit necessaria? Dist.` on printed p. 183 / IA leaf 217 /
+PDF p. 217.
+
+## Part 23
+
+Part 23 contains the complete Locus XVIII, Question XXIII, beginning “Quotuplex
+sit Vocatio ad Ministerium.” It begins with the question heading on printed p.
+183 / IA leaf 217 / PDF p. 217 and ends with section XXIII on printed p. 189 /
+IA leaf 223 / PDF p. 223. Question XXIV, “De Jure Vocationis,” begins on the
+next printed page and is excluded.
+
+- Latin: `parts/part-23-locus-18-question-23-latin.txt`
+- English: `parts/part-23-locus-18-question-23-english.md`
+- Both files contain seven synchronized source-page markers, the complete
+  section sequence I–XXIII, and fifteen synchronized marginalia blocks.
+- All seven page images and all six page joins were checked directly against
+  the scan. No word is divided across a page boundary; the pp. 183–184 and
+  185–186 joins continue sentences within sections V and XI respectively.
+- The transcription retains all printed Greek and the witness’s malformed
+  marginal heading `Fontes Solutionem`; `[sic]` identifies the disruptive `in
+  urbi`. The English translates the evident sense while preserving the
+  synchronized structure.
+
+The next restart point is `QUÆSTIO XXIV. DE JURE VOCATIONIS. An Jus eligendi
+et vocandi Pastores ad solos Episcopos pertineat, an vero ad totam Ecclesiam?
+Prius. Neg. Poster. Affir. cont. Pontif.` on printed p. 190 / IA leaf 224 / PDF
+p. 224.

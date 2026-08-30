@@ -1475,3 +1475,33 @@ excluded.
 The next restart point is `QUÆSTIO XX. DE PÆDOBAPTISMO. An Infantes fidelium
 fœderatorum sint baptizandi? Affir. cont. Anabapt.` on printed p. 354 / IA
 leaf 388 / PDF p. 388.
+
+## Part 54
+
+Part 54 contains the complete Locus XIX, Question XX, “De Pædobaptismo.” It
+begins with the question heading on printed p. 354 / IA leaf 388 / PDF p. 388
+and ends with section XXVI on shared printed p. 359 / IA leaf 393 / PDF p.
+393. Question XXI, “De Sacra Cœna,” begins below it on that page and is
+excluded.
+
+- Latin: `parts/part-54-locus-19-question-20-latin.txt`
+- English: `parts/part-54-locus-19-question-20-english.md`
+- Both files contain six synchronized source-page markers, the complete
+  section sequence I–XXVI, and ten synchronized marginalia blocks.
+- The scan verification covered all six page images and all five page joins.
+  The pp. 354–355 join divides `baptismo`; the complete Latin word and its
+  English counterpart are placed after the new-page marker. The pp. 355–356,
+  356–357, 357–358, and 358–359 joins fall within sections VI, VIII, XIV, and
+  XXI respectively and divide no word.
+- The transcription retains every printed Greek expression, the Hebrew
+  `קדושה`, and the witness’s abbreviations, spelling, capitalization,
+  punctuation, and citations. `[sic]` identifies the malformed
+  `Anabaptisarum`, `Catabaptisarum`, `contemtores`, `Papanorum`, `initationis`,
+  `nostri` in its syntactically disrupted clause, `commendassse`, both
+  occurrences of `exerere`, and `deceptos`, as well as the printed `Gen. vii.
+  7` and `Marc. vii. 19`; the English translates the evident sense without
+  silently altering the two citations.
+
+The next restart point is `QUÆSTIO XXI. DE SACRA CŒNA. Quid sit Sacra Cœna,
+et quibus nominibus præcipue tam in Scriptura, quam apud Veteres insigniatur?`
+on shared printed p. 359 / IA leaf 393 / PDF p. 393.

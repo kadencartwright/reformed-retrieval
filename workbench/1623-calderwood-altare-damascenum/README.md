@@ -87,12 +87,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-four numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the complete Roman-presbyter subargument in the
-upper portion of printed p. 290, but the inherited Part 02 English file remains
-incomplete and therefore prevents calling that span a continuous paired draft.
+Twenty-five numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the complete adjoining-region and rural-bishop
+subargument in the upper portion of printed p. 301, but the inherited Part 02
+English file remains incomplete and therefore prevents calling that span a
+continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
-This update does not silently clear those flags: Parts 09–24 begin exactly at
+This update does not silently clear those flags: Parts 09–25 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -121,6 +122,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 22 | Chapter IV: argument 6, concluding synthesis from order and jurisdiction | printed pp. 275–280 / PDFs 287–292, first boundary page partial | 6 paired and image-audited |
 | 23 | Chapter IV: extensive episcopal power and the equality of local churches | printed pp. 281–287 / PDFs 293–299, last boundary page partial | 7 paired and image-audited |
 | 24 | Chapter IV: Roman presbyters and common government after parish division | printed pp. 287–290 / PDFs 299–302, both boundary pages partial | 4 paired and image-audited |
+| 25 | Chapter IV: rural bishops, small ancient dioceses, and later diocesan expansion | printed pp. 290–301 / PDFs 302–313, both boundary pages partial | 12 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -881,7 +883,54 @@ both boundaries.
 - Latin: `parts/part-24-chapter-04-roman-presbyters-and-common-government-latin.txt`
 - English: `parts/part-24-chapter-04-roman-presbyters-and-common-government-english.md`
 
-All twenty-four units remain **AI-assisted and unreviewed**. They require
+### Part 25 bounds and evidence
+
+Part 25 begins exactly where Part 24 ends, in the upper portion of shared
+printed p. 290 / IA leaf 302 / PDF p. 302, at:
+
+`Concedatur Episcopum non modo inspectorem, sed etiam Pastorem distinctarum
+Paroeciarum in civitate & fuisse`
+
+It contains Calderwood’s complete inquiry whether a city bishop’s office
+extended into the adjoining region. He examines Eusebius’s uses of `παροικία`
+and related local expressions; argues that the original chorepiscopi were
+bishops of equal power rather than urban suffragans; adduces the density of
+ancient African and other rural bishoprics; traces the canons by which bishops
+in villages and small towns were suppressed; and concludes that the enlarged
+modern diocese deprives local churches, presbyteries, people, and provinces of
+their proper common government. The pair retains the attributed quotations,
+all visible marginal citations, and the Greek text.
+
+Part 25 ends in the upper portion of printed p. 301 / IA leaf 313 / PDF p. 313
+at:
+
+`Atque hae absurditates & injuriae, haec ut pleraque alia, incommoda extensivae
+potestatis Episcoporum.`
+
+The immediately following centered heading, `De Episcopo Praeside`, opens the
+next internal unit and is excluded. This gives Part 25 twelve identical Latin
+and English source markers, p. 290 partial through p. 301 partial, and eleven
+byte-identical marginalia records. Printer-divided words at every intervening
+page boundary are joined, with each incoming marker placed before the complete
+Latin word and the corresponding English word or phrase. Catchwords are
+omitted without duplication.
+
+The 1623 repetitions `totalis totalis` and `anno anno` and the anomalous
+wording `mutuo muliscabunt` are retained in the Latin; the English marks the
+repetitions and translates the evident proverbial sense of the latter.
+
+The exact controlling Internet Archive access PDF documented above was used,
+and its PDFs 302–313 were freshly rendered at 220 dpi and inspected page by
+page against both files. Its page count, byte size, and SHA-256, and the hashes
+of the OCR/scandata aids, match the acquisition evidence already documented
+under Part 16. The IA OCR and the 1708 Leiden reset assisted reading only; the
+1623 images governed wording, typography, quotations, citations, Greek,
+joins, and both boundaries.
+
+- Latin: `parts/part-25-chapter-04-rural-bishops-and-diocesan-expansion-latin.txt`
+- English: `parts/part-25-chapter-04-rural-bishops-and-diocesan-expansion-english.md`
+
+All twenty-five units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

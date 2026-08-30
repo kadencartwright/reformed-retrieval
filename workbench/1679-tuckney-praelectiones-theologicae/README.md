@@ -391,6 +391,32 @@ adhuc tertia Bellarmini objectio`, is excluded.
 - English: `parts/part-19-romans-01-17-justification-18-english.md`
 - Extent: five synchronized markers, printed pp. 131–135 / IA leaves 139–143
 
+## Part 20: nineteenth unit of the Romans 1:17 lecture
+
+Part 20 opens Bellarmine's third objection from Philippians 3 and answers his
+first claim that Paul rejects only pre-conversion works. It runs from `Restat
+adhuc tertia Bellarmini objectio` on printed p. 135 / IA leaf 143 through the
+contrast between justification and sanctification on printed p. 139 / IA
+leaf 147. The next supplementary objection, `At forsan illud etiam hic
+opponi potest`, is excluded.
+
+- Latin: `parts/part-20-romans-01-17-justification-19-latin.txt`
+- English: `parts/part-20-romans-01-17-justification-19-english.md`
+- Extent: five synchronized markers, printed pp. 135–139 / IA leaves 143–147
+
+## Part 21: twentieth unit of the Romans 1:17 lecture
+
+Part 21 completes Bellarmine's third objection from Philippians 3 and
+Tuckney's answer, including the charge that the Reformed account makes good
+works dung and destroys their proper use. It runs from `At forsan illud etiam
+hic opponi potest` on printed p. 139 / IA leaf 147 through Tuckney's final
+reply to Bellarmine on printed p. 144 / IA leaf 152. The remaining appeal to
+patristic testimonies, `Tantum adhuc expendenda restant`, is excluded.
+
+- Latin: `parts/part-21-romans-01-17-justification-20-latin.txt`
+- English: `parts/part-21-romans-01-17-justification-20-english.md`
+- Extent: six synchronized markers, printed pp. 139–144 / IA leaves 147–152
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -1004,7 +1004,38 @@ human review.
 - `parts/part-21-chapter-21g-latin.txt`
 - `parts/part-21-chapter-21g-english.md`
 
-The next unit begins with `V. 19. Melius est habitare in terra deserti, quàm
-cum muliere contentionum, & indignationis.` in the right column of shared PDF
-473 / printed column 931; restart at that lemma, excluding the final verse 18
+**Part 21h is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `V. 19. Melius est habitare in
+terra deserti, quàm cum muliere contentionum, & indignationis.` in the right
+column of shared PDF 473 / printed column 931 through the final prose of verse
+20 on PDF 475 / printed column 935, ending `quoddam sapientiae, quod caelitus
+confertur.` It stops immediately before `Vers. 21. Persequens justitiam, &
+benignitatem inveniet vitam, justitiam, & honorem.` in that same right column.
+Latin and English have three byte-identical source markers (PDF 473–475;
+synchronized printed columns 930–931 through 934–935) and retain both verse
+lemmata, full in-scope prose, Hebrew, citations, abbreviations, English witness
+phrase, and printing irregularities. The complete files contain 960 Latin-file
+and 1,339 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 473–475, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-473 marker begins only at `V.
+19.` in the right column; all preceding verse 18 prose is excluded. At the
+PDF-473/474 turn, the catchword `affinitate` was excluded: `magnae` remains
+under PDF 473, while whole `affinitate` and its corresponding English wording
+are assigned to PDF 474. At the PDF-474/475 turn, the catchword `jam` was
+excluded: `cumque quae` and its corresponding English wording remain under PDF
+474, while whole `jam` and its corresponding English wording are assigned to
+PDF 475. The final PDF-475 marker ends with the concluding verse 20 prose above
+`Vers. 21.`; no verse 21 material is imported. Witness forms including
+`necessium`, `cotex acuta`, `ob immanibus belluis`, `restingui`, `Apocopaeos`,
+`apathecas`, `eos confirmat`, and `Good fellowes` were retained. This remains
+an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-21-chapter-21h-latin.txt`
+- `parts/part-21-chapter-21h-english.md`
+
+The next unit begins with `Vers. 21. Persequens justitiam, & benignitatem
+inveniet vitam, justitiam, & honorem.` in the right column of shared PDF 475 /
+printed column 935; restart at that lemma, excluding the final verse 20
 sentence above it.

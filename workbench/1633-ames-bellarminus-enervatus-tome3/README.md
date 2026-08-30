@@ -56,7 +56,7 @@ reply.
 
 ## Completed units
 
-**Parts 01–17 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–18 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
@@ -64,7 +64,8 @@ Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 the opening of chapter III through the complete `Argumenta Bellarmini` block
 of its first thesis, item 8 of `Argumenta nostra` in the paired continuation
 below, items 9–15 in Part 16, and the complete `Argumenta Bellarmini` block of
-the second question, items 16–25, in Part 17 (printed pages 67–107).
+the second question, items 16–25, in Part 17, followed by the complete chapter
+`De Transubstantiatione, Quid sit` in Part 18 (printed pages 67–116).
 
 The paired continuation included below completes `Argumenta nostra`, item 8,
 from its exact join on printed page 97 through the authorial boundary before
@@ -154,6 +155,12 @@ files.
   De Transubstantiatione, Quid sit` heading).
   - `parts/part-17-book-04-eucharist-chapter-03-arguments-16-25-latin.txt`
   - `parts/part-17-book-04-eucharist-chapter-03-arguments-16-25-english.md`
+- **Part 18:** Book IV, *De Sacramento Eucharistiae*, the complete chapter
+  `CAP. III. De Transubstantiatione, Quid sit`, from its exact join after Part
+  17 through Thesis I and arguments 2–15, printed pages 107–116 (ending before
+  the next `CAP. III. De Natura Sacramenti Eucharistiae` heading).
+  - `parts/part-18-book-04-eucharist-chapter-03-transubstantiation-latin.txt`
+  - `parts/part-18-book-04-eucharist-chapter-03-transubstantiation-english.md`
 
 Both Part 12 files contain nine exactly synchronized printed-page markers. The
 four words divided across printed-page boundaries—`demonstrat` (pages 80/81),
@@ -365,6 +372,17 @@ Ames's reply to item 25. The inset references `Mat. 19.`, `Mar. 10.24.`, `in
 4. d. 44. q. 6.`, `Ioh. 20.`, and `Act. 12.` remain at their corresponding
 locations in both texts; no other distinct marginal notes occur in the unit.
 The witness's anomalous `reali` in item 19 is retained without silent
-correction, while the English follows the evident sense “relative.” The next
-untranslated boundary is the new `CAP. III. De Transubstantiatione, Quid sit`
-heading on printed page 107.
+correction, while the English follows the evident sense “relative.”
+
+Part 18 resumes at the exact heading on printed page 107. Both files contain
+ten synchronized printed-page markers. The divided words at pp. 107/108 and
+110/111—`bre- | viter` and `vo- | luntas`—are joined after the incoming
+markers, with the English markers aligned before “briefly” and “will.” The
+other breaks are aligned at `ullo | modo`, `orbe | condito`, before
+`supponunt`, `postea | per`, before Ames's reply to item 12, `Qualitates |
+nunquam`, and `ordine | rerum`. No distinct marginal notes occur in the unit;
+its inset authorities and references remain in place. The witness's forms
+`extraordinem`, `transubstantionis`, `non vix`, and `inmateriale`, and its
+repeated subpoint `II` in item 11, are retained without silent correction. The
+next untranslated boundary is `CAP. III. De Natura Sacramenti Eucharistiae`
+on printed page 117.

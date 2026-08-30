@@ -486,6 +486,19 @@ and an alien measure. It ends immediately before Twisse's separately labeled
 The next unit resumes on printed p. 85 / canvas 00111 at `Respons. Omnino
 assentior Penotto, dum distinctionem illam de rerum omnium existentia...`.
 
+Part 44 spans **printed pp. 85–86 / BSB canvases 00111–00112** and contains the
+first complete movement of Twisse's response to Penottus's opening proposition.
+It rejects the Dominican construction while criticizing Penottus's appeal to
+present being as the basis of certainty, and ends with the contrast between
+simple intelligence and the knowledge of vision. It has two identical source
+markers.
+
+- `parts/part-44-penottus-book-03-chapter-17-first-response-latin.txt`
+- `parts/part-44-penottus-book-03-chapter-17-first-response-english.md`
+
+The next unit resumes on printed p. 86 / canvas 00112 with `Et quis eruditus
+unquam statuit, res aliter a Deo intelligi cum praesentes sunt...`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

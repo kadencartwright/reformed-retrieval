@@ -57,7 +57,8 @@ and remain byte-identical to the recorded derivatives; the same locally
 retained derivatives govern Parts 36–37. The access PDF and plain OCR were
 freshly acquired once more for Parts 38–39 on 30 August 2026 and remain
 byte-identical to the recorded derivatives; the same locally retained
-derivatives govern Parts 40–45:
+derivatives govern Parts 40–46, with the byte-identical DjVu XML also used as a
+page-structured collation aid for Part 46:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -101,7 +102,7 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter XII on the upper part of logical printed p. 301. Shared-page boundaries
+Chapter XIII on logical printed p. 327. Shared-page boundaries
 preserve each new argumentative unit in the following part rather than
 duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
 275; from that point the continuous logical numbering used in the markers is
@@ -155,6 +156,7 @@ identify the exact images without ambiguity.
 | 43 | Book II, Chapter X; principal and solemn time and its necessary determination | logical printed p. 275 through the upper part of shared logical p. 281 / IA leaves 293–299 / PDF pp. 293–299; visible pp. 293–299; stops before `CAP. XI.` | 7 |
 | 44 | Book II, Chapter XI; no human power to determine principal and solemn time | lower part of shared logical printed p. 281 through the upper part of shared logical p. 287 / IA leaves 299–305 / PDF pp. 299–305; visible pp. 299–305; stops before `CAP. XII.` | 7 |
 | 45 | Book II, Chapter XII; the church cannot determine principal and solemn time | lower part of shared logical printed p. 287 through the upper part of shared logical p. 301 / IA leaves 305–319 / PDF pp. 305–319; visible pp. 305–319; stops before `CAP. XIII.` | 15 |
+| 46 | Book II, Chapter XIII; the church cannot institute annual feast days | lower part of shared logical printed p. 301 through logical p. 327 / IA leaves 319–345 / PDF pp. 319–345; visible pp. 319–345; stops before `CAP. XIV.` on p. 328 | 27 |
 
 The files are:
 
@@ -203,8 +205,9 @@ The files are:
 - `parts/part-43-book-02-chapter-10-principal-solemn-time-{latin.txt,english.md}`
 - `parts/part-44-book-02-chapter-11-no-human-power-to-determine-{latin.txt,english.md}`
 - `parts/part-45-book-02-chapter-12-church-cannot-determine-{latin.txt,english.md}`
+- `parts/part-46-book-02-chapter-13-annual-feast-days-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–45 image audits
+### Part 04 re-audit and Parts 05–46 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -1198,6 +1201,39 @@ retained. The exact Part 45 ending is `...Antecedens sequenti capite probabitur.
 The following rule and `CAP. XIII.` are excluded. The next untranslated text is
 `CAP. XIII. An liceat Ecclesiae Dies Festos anniversarios instituere?` on shared
 logical printed p. 301 / IA leaf 319 / PDF p. 319.
+
+Part 46 is the complete, image-audited thirteenth chapter of Book II, arguing
+that the church cannot institute annual feast days and distinguishing them
+from the weekly Sabbath, ordinary meeting times, and extraordinary days of
+fasting or thanksgiving. Every controlling image from the Chapter XIII heading
+on PDF 319 through the chapter end on PDF 345 was read directly, including all
+twenty-six internal joins; PDF 346 was also inspected to verify the outgoing
+stop before `CAP. XIV.` OCR and the byte-identical page-structured DjVu XML were
+used only as collation aids. The Latin and English contain the identical
+twenty-seven-marker sequence. The visible witness numbers these pages 319–345;
+the markers retain the continuous logical sequence 301–327 and record the exact
+IA leaves and PDF pages.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 319–345. Its general warning about deficient Greek and Hebrew type is
+disclosed in both file headers, and the controlling images govern the Hebrew,
+Greek, and Dutch forms. No separate substantive marginal gloss occurs.
+Printer-divided words at the logical pp. 301/302, 302/303, 303/304, 304/305,
+306/307, 307/308, 308/309, 311/312, 312/313, 313/314, 314/315, 315/316,
+316/317, 321/322, 322/323, 323/324, and 325/326 joins are joined with the new
+marker before the complete Latin word or corresponding English word or phrase.
+The other nine joins fall between complete words; running heads,
+signatures, catchwords, rules, and the Chapter XIV heading are omitted. All
+headings, twenty numbered arguments, objections, citations, quotations, and
+substantive italic distinctions are retained.
+
+The exact Part 46 opening is `CAP. XIII. An liceat Ecclesiae Dies Festos
+anniversarios instituere?` Its final included words are `...istâque Dei
+voluntate nitantur tum Magistratuum leges, tum monita Ecclesiae.` The rule,
+catchword `CAP.`, and `CAP. XIV.` on logical printed p. 328 are excluded. The
+next untranslated text is therefore `CAP. XIV. Deo soli competit potestas,
+Tempus hoc Solenne Necessarium & Sufficiens determinandi.` on logical printed
+p. 328 / IA leaf 346 / PDF p. 346.
 
 ## Review and licensing status
 

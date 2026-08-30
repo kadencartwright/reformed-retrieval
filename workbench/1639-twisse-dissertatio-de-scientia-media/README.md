@@ -431,6 +431,20 @@ The next unit resumes on printed p. 76 / canvas 00102 with `DIGRESSIONIS
 TERTIAE SECTIO NONA`, headed `Solvuntur argumenta posita a principio`, and the
 first argument from Augustine, *De civitate Dei* 12.20.
 
+Part 40 spans **printed pp. 76–79 / BSB canvases 00102–00105** and contains the
+first five arguments and complete replies of Digression III, Section IX. The
+exchanges address Augustine's *De civitate Dei* 12.20, the analogy between
+divine immensity and eternity, production in time, common coexistence with a
+third measure, and whether coexistence presupposes a thing's own existence. It
+ends immediately before `Sexto: Sequeretur futura contingentia etiam ab Angelo
+certo sciri` and has four identical source markers.
+
+- `parts/part-40-digression-03-section-09-arguments-01-05-latin.txt`
+- `parts/part-40-digression-03-section-09-arguments-01-05-english.md`
+
+The next unit resumes on printed p. 79 / canvas 00105 with that sixth argument,
+beginning `Sexto: Sequeretur futura contingentia etiam ab Angelo certo sciri`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

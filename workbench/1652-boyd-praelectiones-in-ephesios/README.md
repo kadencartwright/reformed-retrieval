@@ -76,7 +76,8 @@ same scan can legitimately close one part and open the next:
 | 31 | XXXI | 171–175 | 127–131 | `Superest nunc tantùm, ut priusquam totum hunc Locum Theologicum concludamus` through the survey of Pelagian, scholastic, Roman, Ubiquitarian, universal-election, universal-redemption, universal-calling, mutability, and sufficient-grace errors, ending with the announcement of three scriptural counterexamples, `quorum nos specimen in his tribus duntaxat afferemus`, before `Primò, Esai. 5` and Lecture XXXII |
 | 32 | XXXII | 175–179 | 131–135 | `Primò, Esai. 5` through answers to the three scriptural objections concerning Isaiah 5, Matthew 23:37, and Revelation 3:20, errors nine and ten, the patristic and Prosperian confirmations, the eleven-part recapitulation of the entire commonplace on predestination, and the final prayer and `AMEN.`, before `Contextus Apostolici retexendi in manus resumptio`, Ephesians 1:15, and Lecture XXXIII |
 | 33 | XXXIII | 179–184 | 135–140 | `Contextus Apostolici retexendi in manus resumptio`, `In CAP. I. ad EPHES. vers. 15. &c.`, and `Absoluto jam, Dei ope & gratiâ` through the resumption of Ephesians 1:15, the chapter’s division, Paul’s thanksgiving, faith in Christ and love toward the saints, and the comparison of their two offices to the hands of a person climbing Jacob’s ladder, ending `fascem perferendum ac sustinendum` before `Hinc jam secundo loco perpendendum venit Charitatis objectum` and Lecture XXXIV |
-| 34 | XXXIV | 184–187 | 140–143 | `Hinc jam secundo loco perpendendum venit Charitatis objectum` through the object and ordered degrees of Christian love, the transition from the causes of Paul’s thanksgiving to its manner, prayer and thanksgiving, their relation to spiritual joy, and the meaning of praying without ceasing, ending `tum etiam nos operaque nostra sanctificet` before `Atque ita partis hujus prioris membrum utrunque fusè declaravimus` and Lecture XXXV |
+| 34 | XXXIV | 184–187 | 140–143 | `Hinc jam secundo loco perpendendum venit Charitatis objectum` through the object and ordered degrees of Christian love, the transition from the causes of Paul’s thanksgiving to its manner, prayer and thanksgiving, their relation to spiritual joy, and the meaning of praying without ceasing, ending `tum etiam nos operaque nostra sanctificet` before `Atque ita partis hujus prioris membrum utrunque fuse declaravimus` and Lecture XXXV |
+| 35 | XXXV | 187–190 | 143–146 | `Atque ita partis hujus prioris membrum utrunque fuse declaravimus` through eight observations from Ephesians 1:15–16 on faith, charity, repentance, pastoral prayer, zeal, freedom from envy, and spiritual thanksgiving, ending with the doxology and `AMEN.` before `In VERS. 17. &c.` and Lecture XXXVI |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -150,8 +151,9 @@ English translation:
 | 32 | Scriptural objections and a recapitulation of the whole commonplace on predestination | [`part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt) | [`part-32-praelection-32-scriptural-objections-and-recapitulation-english.md`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-english.md) |
 | 33 | Resumption of the apostolic context, faith in Christ, and love toward the saints | [`part-33-praelection-33-resumption-faith-and-charity-latin.txt`](parts/part-33-praelection-33-resumption-faith-and-charity-latin.txt) | [`part-33-praelection-33-resumption-faith-and-charity-english.md`](parts/part-33-praelection-33-resumption-faith-and-charity-english.md) |
 
-Lecture XXXIV is continued directly below as a synchronized README-only pair;
-no separate part files or source-audit artifacts have been created for it.
+Lectures XXXIV–XXXV are continued directly below as synchronized README-only
+pairs; no separate part files or source-audit artifacts have been created for
+them.
 
 ## Lecture XXXIV: The object of charity, prayer, and thanksgiving
 
@@ -574,9 +576,7 @@ alioqui ponderoso, sustentet, tum etiam nos operaque nostra sanctificet.
 
 [Marginalia: Conclusio. Confirmatio Responsionis hujus.]
 
-[Explicit Prælectio XXXIV. The following `Atque ita partis hujus prioris
-membrum utrunque fusè declaravimus`, `Prælectio XXXV`, and observations drawn
-from verses 15–16 are excluded.]
+[Explicit Prælectio XXXIV.]
 
 ### English translation
 
@@ -1024,11 +1024,619 @@ also sanctifies both us and our works.
 
 [Marginalia: Conclusion. Confirmation of this answer.]
 
-[End of Lecture XXXIV. The following `Atque ita partis hujus prioris membrum
-utrunque fusè declaravimus`, `Prælectio XXXV`, and observations drawn from
-verses 15–16 are excluded.]
+[End of Lecture XXXIV.]
 
-The completed sequence now extends through Lecture XXXIV. Its successive subjects
+## Lecture XXXV: Observations on faith, charity, prayer, and thanksgiving
+
+> **AI-assisted, unreviewed working transcription and translation.** The Latin
+> is a diplomatic-normalized transcription from the controlling BSB page
+> images, and the English is a fresh, full translation of that Latin, not a
+> summary. A qualified human editor must compare both with the facsimile before
+> quotation or publication.
+
+### Latin source transcription
+
+[BSB bsb11059161 | scan 187 | Caput I p. 143 (from Prælectio XXXV opening)]
+
+Atque ita partis hujus prioris membrum utrunque fuse declaravimus; superest nunc
+ut ex doctrinâ eâdem duobus hisce versibus comprehensa Observationes aliquot,
+de more & instituto nostro, deducamus.
+
+Ac primum, Fidei à Charitate discrimen, ab objectis petitum: quod illa ad Jesum
+Christum in Evangelio prædicatum, hæc verò ad Sanctos
+
+[Marginalia: Prælectio XXXV. Transitio ad observationes doctrinæ. Observatio
+1.]
+
+[BSB bsb11059161 | scan 188 | Caput I p. 144]
+
+omnes qui Christi sunt membra referatur: contra eorum errorem, qui hæc duo sic
+ineptè confundunt, ut charitatem fidei formam esse statuant: quorum nos
+absurditatem supra perspicuè deteximus atque rejecimus.
+
+Deinde, & veram charitatis naturam: quod scilicet eam naturâ nequaquam habeamus,
+nec affectus sit naturalis, quum à fide in Jesum Christum promanet: Unde sequitur
+in iis tantum esse veram charitatem, in quibus & fides reperitur: Ac proinde
+homines ψυχικοὺς ac non regenitos, quantamcunque jactent secum invicem
+amicitiam, verâ tamen charitate destitutos esse, imò illa ipsa apud Poetas
+Historicosque decantata amicorum paria, ne vel guttam aut scintillam charitatis
+habuisse, quum non in Deo, nec propter ipsum, sed ex vitiosæ & cœcæ inflatæque
+carnis instinctu sese invicem dilexerint.
+
+[Marginalia: Observatio 2.]
+
+3. Duo illa hominis regeniti & Christiani officia, quæ ex duobus verbi divini
+partibus potissimis, Lege nimirum & Evangelio petenda sunt: Siquidem Fides ad
+Evangelium, Charitas autem ad Legem refertur: & Evangelium quidem, verbum fidei,
+Lex verò verbum operum jure appellatur, cujus hæc forma, hoc pactum & fœdus ab
+Apostolo substernitur, Rom. 10. *Qui præstiterit ea, vivet per illa*: hujus autem
+complementum est charitas. Nec moveat quenquam, quod videatur inde sequi, Lege
+prius esse Evangelium: Sicut charitate prior est fides, quippe à quâ promanet
+charitas, ut supra ex ipso Apostoli ordine observavimus, ac proinde & Evangelium,
+quod est verbum fidei, legem, quæ verbum est charitatem perfectam exigens,
+præcedet: quod tamen videtur harum Scripturæ sacræ partium naturali ordini
+repugnare.
+
+[Marginalia: Observatio 3. Rom. 10:5. Prolepsis 1.]
+
+Siquidem hunc scrupulum hâc distinctione facile eximemus, ex duplici legis usu
+observato, quem etiam in ipsis Electis obtinet, verum diverso in statu &
+conditione constitutis: alium siquidem habet usum in iisdem nondum regenitis ad
+Christi gratiam recipiendam præparandis, peccati & miseriæ suæ agnitione, quæ ex
+lege est peccatoris conscientiam excitante & exterrente, atque ita peccatorem in
+mortis angustias redactum ad remedium sui mali extra semet, in Evangelio
+scilicet quærendum, impellente & incitante. Atque ita prior est lex Evangelio.
+Alium deinde habet usum in homine Evangelium jam per fidem amplexo, & Spiritu
+Sanctificationis ex fide donato, ut nimirum ipsum in novâ illâ obedientiâ normæ
+instar dirigat, & ad eam homo regenitus tanquam ad lucernam gressus vitæ suæ
+omnes formet atque disponat, in justitiæ ac charitatis operibus ex Legis
+præscripto per Christi Spiritum præstandis. Quem legis usum præsertim urget
+Psaltes, in Ps. 119. dum pedibus suis lucernam, & gressibus lucem esse Dei legem
+asserit: atque ita Evangelio lex posterior est. Paucis ergo: præcedit lex
+Evangelium, tum naturæ ordine, si hominis naturâ sancti & integri ratio habeatur:
+quia lex hâc ratione fœdus illud operum sive naturale concernit, quod Evangelii
+fœdere gratuito prius est: Tum nostræ utilitatis ac melioris doctrinæ ordine, si
+hominem in statu peccati consideres, ut instrumentum nos præparans ad Christi
+gratiam in Evangelio requirendam & amplectendam. In praxi verò & executione ipsâ
+eorum quæ à lege requiruntur, quatenus hominem jam fidelem & regenitum spectat,
+ut fide sanctificatio ac nova obedientia, ita etiam lex posterior est Evangelio.
+Hinc sequitur tantum abesse ut Evangelium legem abroget, ut contra vel maximè
+eam stabiliat, vide Rom. 3:31.
+
+[Marginalia: Responsio. Nota legis usum duplicem. 1. 2. Ps. 119:105.
+Distinctionis conclusio.]
+
+Quod si quis adhuc instet & arguat illa duo membra ab Apostolo expressa
+Christiani hominis officium non sufficienter implere, atque complecti; quippe
+quum præterea tertium adhuc requiratur ab utroque distinctum, quod nosmet ipsos
+respicit, sicut fides Deum, charitas autem proximum spectat. Omissa est igitur
+Resipiscentia, quâ nos ipsi ad Deum convertimur, & ad Christi imaginem renovamur,
+per eam quam habemus tam cum ejus morte & cruce, quam cum resurrectione vitâque
+communionem, veterem in nobis hominem crucifigendo ac mortificando, novum autem
+vivificando.
+
+[Marginalia: Prolepsis 2.]
+
+Paucis Respondemus, membrum hoc tertium, ad illorum duorum alterutrum facile
+revocari, & sub utrolibet comprehendi posse, vel ut fidei effectum proximum, vel
+ut charitatis fraternæ fundamentum. Siquidem ut supra dicebamus, amorem Dei, qui
+ex fide est, insequitur immediatè tum studium Deo placendi & obsequendi, tum ejus
+voluntati contraria, h. e. peccatum, seriò fugiendi & aversandi, tum verò dolores
+ob hunc quem in nobis sentimus adhuc defectum, & peccata hactenus in Deum
+commissa: atque hæc est illa ipsa resipiscentia, & ad Deum conversio, de qua
+loquimur. Deinde in naturâ nostrâ, nisi per resipiscentiam aliquatenus renovatâ
+& repurgatâ, vera charitas locum habere nequit, quia naturâ omnes φίλαυτοι
+sunt, non φιλάνθρωποι, nec φιλάδελφοι; nec à Deo tantum per peccatum separati,
+sed & à se invicem distracti atque divulsi: Quare renovatione opus est ad hoc ut
+φιλαυτία illa nativa ac perversa, in φιλαδελφίαν, quæ sancta & spiritualis est,
+commutetur: quæ renovatio resipiscentiæ opus est: hanc igitur necessariò
+præsupponit fraterna charitas.
+
+[Marginalia: Confirmatio. 1. 2.]
+
+Quod si quærat aliquis, ad quodnam igitur membrorum horum potiùs revocanda sit
+Resipiscentia, ad fidemne an ad charitatem, quum utramque tantâ, ut dictum est,
+affinitate contingat? Dicemus nos quidem, etsi parum referat, ad hunc scrupulum
+eximendum, sub utro membro comprehendas, malle nos tamen ad fidem revocare, cum
+cujus naturâ tam implicitam invenimus resipiscentiam, ut vix altera sine alterâ
+considerari possit aut explicari, vix habeamus cui locum ordine priorem
+assignemus: quum tamen longè clarius distingui possit utrumque ab eâ quæ proximum
+spectat charitate. Quare quoties fides à charitate contradistinguitur, ad illam
+resipiscentia revocatur, & sub ejus nomine comprehenditur.
+
+[Marginalia: Quæstio. Solutio.]
+
+4. Ex illo gratulandi modo Apostolico observetur, veri & fidelis Pastoris
+officium, ut erga totam Christi Ecclesiam, ita nominatim erga eos ad quos
+vocatione speciali missus est, in quorum aut conversione, aut etiam ædificatione
+& profectu in fide Jesu Christi, Deus ejus operâ & ministerio uti dignatus est,
+ut non solum præsens & liber ipsorum curam gerat, sed & absens, & vinctus pro
+Evangelio quoad potest, eandem semper curam Pastoralem pro grege suo retineat,
+preces nimirum continuas Deo pro ipsis offerendo: Et quoties audit de ipsorum
+constantiâ aut progressu in Christi agnitione, verâque pietate, toto pectore
+gratias Deo pro ipsis agat,
+
+[Marginalia: Observatio 4.]
+
+[BSB bsb11059161 | scan 189 | Caput I p. 145]
+
+ob spirituales illas in Jesu Christo benedictiones.
+
+5. Notetur ex eâ precum & gratiarum actionis etiam pro fratrum bono & salute
+ἀδιαλειψία, quam fervens in nobis hujus rei studium esse debeat, etiam pro
+nobis ipsis. Nam si ille nunquam cessabat Deum orare, Deoque gratias agere, pro
+aliis fidelibus à se conversis & fide Christianâ imbutis; Quid quæso nobis
+conveniet, in nostræ ipsorum salutis & fidei promovendæ negotio, quam instans,
+quam continua precum & gratiarum Deo actarum frequentatio? quâ eo magis in piis
+animis viguisse scimus, quo majori Spiritus Sancti mensurâ patet eos à Deo
+fuisse donatos, quo magis illa Christi Imago fuerat in ipsis instaurata: ut vel
+ex uno Davidis exemplo manifestum est, qui eodem planè sensu, eodemque animo
+(licet verbis ab Apostolo nostro diversis) alias ter, alias verò septies
+quotidie, se Dei nomen invocâsse, laudibusque celebrâsse profitetur: idque sanè
+non immeritò, si quis ea, quæ jam supra de hoc tam sancto & salutari studio
+dicta sunt, exactè perpendat: Hâc scilicet ratione nostram cum Deo ipso, cum
+Jesu Christo communionem sensumque divinæ præsentiæ in cordibus nostris, velut
+efficacissimo fomite conservari atque foveri, novas fidei, spei & patientiæ
+vires hâc ratione cœlitus elici attrahique; novum perseverantiæ robur, novum
+omnium donorum & benedictionum spiritualium incrementum; præsertim verò
+salutaris illius fiduciæ, pacis conscientiæ, & Gaudii per Spiritum Sanctum;
+etiam in mediis lachrimis atque suspiriis narrandi; In quibus ipsum Dei
+regnum in hâc vitâ consistere, disertim docet Apostolus, Rom. 14.
+
+[Marginalia: Observatio 5. Confirmatio. Rom. 14:17.]
+
+6. Et hinc veri zeli de Dei gloriâ, de Christi Regno promovendo, notam habemus
+egregiam; si sanctum hunc in Apostolo nostro relucentem affectum, cum eâ ipsius
+conditione conferamus & componamus, in quâ versabatur, dum hanc ad Ephesios
+Epistolam scriberet. Erat siquidem ipse vinctus Jesu Christi, & pro Evangelii
+testimonio Romæ in catenâ detentus, ut supra in præfatione monuimus. Interea
+tamen auditâ fidelium in fide & charitate constantiâ, immò profectu; audito
+Regni Jesu Christi incremento, nunquam ipsi deest & gaudii, & gratulationis
+materia, & gratias Deo agendi occasio, & benedicendi ejus nomini (unde hanc
+Epistolam exorsus est) & laudes ejus perpetuò celebrandi argumentum.
+
+[Marginalia: Observatio 6.]
+
+Jam non postremum hoc est, immò certissimum potiùs, veri & sinceri pro Dei
+gloriâ zeli testimonium, si quis, etiam ipse afflictus & variâ cruce pressus
+atque gravatus, de Regno tamen Christi Domini sui propagato, & pace prosperoque
+statu Ecclesiæ, ex animo gaudere possit, & fratribus suis felicem illam sortem
+sincero pectore gratulari: vel etiam vicissim, si quis, licet ipse opibus,
+honore, gratiâ, & pace externâ floreat, vigeatque, auditâ tamen fratrum suorum
+fidelium afflictione, auditâ Ecclesiæ Dei clade, damno, persecutione, aut
+impedito cursu Evangelii, & Regni Dei incremento, aut quovis fratribus suis
+imminente periculo, cum Daniele, Mordecaio, Hestera, aliisque hujusmodi verè
+piis hominibus, ex animo indoleat & ingemiscat, & humili dejectoque pectore, pro
+Ecclesiæ Christi pace atque præsidio, coram Deo suo preces ardentes effundat,
+cum piis illis qui Ps. 137. loquentes introducuntur, hinc sui solatii lætitiæque
+materiam & occasionem expectans: *Si obliviscar vestri*, inquiens, *O
+Jeruschalaima, obliviscatur sui dextra mea; adhæreat lingua mea palato meo, si
+non recorder tui; si non eveham Jeruschalaima supra caput lætitiæ meæ.*
+
+[Marginalia: Indicium zeli haud fallax. Ps. 137:5, 6.]
+
+7. Videatur & hinc veræ charitatis ingenium, juxta eam, quam habemus apud
+Apostolum 1 Cor. 13. luculentam ejus descriptionem; quod nimirum tantum absit,
+ab hoc ut cuiquam Dei dona & beneficia invideat, ut contra hæc eadem & horum
+incrementum cuivis ex animo gratuletur, immò eandem ex Dei voluntate gratiam,
+quam in se efficacem sensit ad salutem, optet in omnes derivari posse, & ad
+omnes usque pertingere.
+
+[Marginalia: Observatio 7.]
+
+Quare non tantum ex hoc Apostoli nostri exemplo, cavenda omnis invidia, quam
+omnes facile cernunt ex diametro charitati contrariam esse, verum etiam de Dei
+donis in quovis, immò cujusvis ministerio collatis, ex animo lætandum est, &
+fratribus nostris gratulandum. Quod eo magis monendum, ac memorandum censeo;
+quod hæc sit naturæ nostræ φιλαυτία, etiam in ea sese ingerens officia, quæ
+videntur ex charitate profecta esse, & ad proximi tantum utilitatem spectare,
+cujusmodi v. g. sunt Evangelium prædicare, Ecclesiam Dei aut verbo, aut opere,
+aut scriptis juvare, aliaque hujusmodi: ut plerique reperiantur, quibus gratum
+quidem jucundumque foret, ipsorum operâ aliquid fieri, quod in Ecclesiæ
+utilitatem cederet; ipsos à Deo adhiberi, ut sui operis administros, & id quod
+præ manibus habent opus ipsorum ministerio, curâ ac labore prosperari; qui
+tamen parem aut majorem operis ejusdem successum aliis invidere parati sunt,
+quos Deus ipsis hâc ex parte præferre voluerit. Cur autem hoc, nisi quia ex
+illius φιλαυτίας, quam nondum penitus abnegarunt, reliquiis, aliquid sibi ipsis
+adhuc ex Dei opere rectè & feliciter administrato gloriolæ, laudis, &
+existimationis aucupantur; ac proinde zelus aut charitas illa non est in iis
+undiquaque sincera.
+
+[Marginalia: Corollarium. Nota φιλαυτίας humanæ indolem.]
+
+Atqui longè alius profectò fuit Apostoli nostri affectus, qui Regnum Jesu
+Christi promoveri, Ecclesias plantari, ædificari, irrigari, Dei sui opus
+incrementum accipere, non suâ tantum operâ & ministerio, sed & aliorum
+quorumvis à Deo vocatorum laboribus impensè lætabatur; etiamsi hominum alioqui
+sibi infensorum, & occultâ adversus ipsos invidiâ, & æmulatione laborantium:
+Quemadmodum clarè testatum reliquit, ad Phil. 1. *Nonnulli quidem*, inquit, *per
+invidiam & contentionem, non sincerè Christum annunciant, quod existiment sese
+afflictionem adjicere vinculis meis, alii verò ex bono affectu & charitate
+Christum prædicant, scientes me ad defensionem Evangelii constitutum esse: Quid
+igitur? Attamen quovis modo, sive in speciem, sive sincerè Christus annunciatur;
+& de hoc gaudeo, atque etiam gaudebo.*
+
+[Marginalia: Amplificatio à contrario. Phil. 1:15, 16.]
+
+8. Et postremo loco, ad modum piæ hujus gratulationis quod attinet, observetur
+quæso discrimen inter filiorum hujus sæculi, h. e. hominum ψυχικῶν, & verè
+piorum gratulationes, valdè conspicuum; sive materiam & occasionem spectes, sive
+ipsum gratulandi modum. Illis siquidem, qui rerum cœlestium nequaquam capaces
+sunt, è rebus hisce terrenis & mundanis, oritur omnis & sui gaudii, &
+gratulationis erga alios materia: Si prosper illis rerum præsentium status, si
+lætus & uber anni proventus, si supplantati quo jure quâve injuriâ inimici, si
+devicti & spe suâ dejecti hostes; Si apud principem gratiâ pollent, apud populum
+auctoritate, apud exteros, nominis & famæ claritate; Si corpore,
+
+[Marginalia: Observatio 8. Membrum 1. de materia. 1. Τῶν ψυχικῶν.]
+
+[BSB bsb11059161 | scan 190 | Caput I p. 146 (through Prælectio XXXV close)]
+
+viribus, ingenio, formâ, opibus, valent ac vigent; Si denique votorum quantumvis
+inanium aut etiam impiorum compotes facti sunt, hinc iis omnis lætitiæ seges,
+omnis gratulandi amicis occasio & argumentum: de animi interim statu, de pace
+conscientiæ, de salutis & Electionis suæ certitudine, de suo vel aliorum in fide
+& pietate progressu, de Dei præsentiâ, de vitâ & morte futurâ, de glorioso illo
+Christi adventu, aliisque hujusmodi, nulla ipsis cura, nulla cogitatio, ne de
+amicis quidem suis, ad hunc animæ statum quod attinet, ulla percontatio. Atqui
+viri spiritualis & regeniti longè alium esse animum in gaudendo sibi, in
+fratribus amicisque suis gratulando, vel sola hæc Pauli experientia abundè
+testatur. Hic siquidem primum ante omnia, de animo & conscientiâ sollicitus est,
+de statu hujus inquirit inprimis, & advenas percontatur; quem ubi rectè se habere
+percepit, hinc præsertim ejus lætitia, gratulatio, gratiarum actio: de cæteris
+ad corpus vitamque corpoream attinentibus non multum laborat, nec anxiè sese
+sollicitum ostendit: Nec tam scire cupit, e. g. an frater amicusve aliquis, de
+cujus rebus inquirit, à morbo liberatus sit, afflictionis onere levatus, &
+opibus ac fortunis auctus, quam, an in mediâ paupertate animum divitem habeat;
+h. e. pium & suâ sorte contentum, an tam egere, quam abundare didicerit, an in
+morbo fidem atque fiduciam in Deum, & sub cruce gaudium ac patientiam ostendat:
+quæ dona si affuerint, gaudii & gratulationis messem uberrimam fidelis animus
+inde reportabit.
+
+[Marginalia: 2. Τῶν πνευματικῶν.]
+
+Deinde in gratulandi formâ & modo, illi qui terrenum habent animum, nec unquam
+ad Deum usque cogitationes suas attollunt, dum aliis gratulantur, illis ipsis
+ascribunt, quicquid habent boni, aut bracteatæ, ut ita dicam, felicitatis:
+hominum ipsorum prudentiam, fortitudinem, vigilantiam, aliasque virtutes
+admirantur atque deprædicant, illis ipsis omnem rerum benè feliciterque gestarum
+gloriam attribuunt, aut bonæ saltem fortunæ, prophano ore & more, nomen
+usurpant: de Deo interim ejusque gratiâ, benedictione, præsentiâ, aut verbum
+nullum, nulla omnino mentio, aut ea tam frigida & perfunctoria, ut de eo tacere
+præstiterit, quam tam illoto pectore, linguâque tam sanctum nomen usurpare. Hi
+verò, Deum solum omnis boni authorem, & ex merâ gratiâ datorem, agnoscentes,
+dum fratribus quæcunque dona gratulantur, non possunt omnem gloriam, non Deo
+ipsi soli & per Jesum Christum tribuere; non possunt, non in gratiarum actionem,
+cum Apostolo nostro, corditus erumpere, ac Deum Patrem, ut omnis benedictionis
+fontem, affectu intimo laudare, celebrare, adorare: Sicut & nos, huic membro
+finem tandem imponentes, ipsi per Jesum Christum in Spiritus Sancti unitate,
+laudem omnem, honorem, gloriamque tribuimus in omne ævum. AMEN.
+
+[Marginalia: Membrum 2. de modo. 1. Τῶν ψυχικῶν. 2. Τῶν πνευματικῶν.]
+
+[Explicit Prælectio XXXV. The following `In VERS. 17. &c.`, `Prælectio
+XXXVI`, and exposition of Ephesians 1:17–19 are excluded.]
+
+### English translation
+
+[BSB bsb11059161 | scan 187 | Caput I p. 143 (from Prælectio XXXV opening)]
+
+And so we have explained at length both members of the first part of this
+passage. It remains now for us, according to our custom and practice, to draw
+some observations from the same doctrine contained in these two verses.
+
+First, there is the distinction between faith and charity drawn from their
+objects: faith is directed toward Jesus Christ proclaimed in the gospel,
+whereas charity is directed toward the saints
+
+[Marginalia: Lecture XXXV. Transition to doctrinal observations. Observation
+1.]
+
+[BSB bsb11059161 | scan 188 | Caput I p. 144]
+
+all of whom are members of Christ. This stands against the error of those who so
+clumsily confuse the two that they maintain charity to be the form of faith;
+we have clearly exposed and rejected their absurdity above.
+
+Second, we may also observe the true nature of charity: we do not possess it
+by nature, nor is the affection natural, since it flows from faith in Jesus
+Christ. It follows that true charity exists only in those in whom faith is
+also found. Consequently, however much unspiritual and unregenerate people
+may boast of their friendship with one another, they are nevertheless
+destitute of true charity. Indeed, even those celebrated pairs of friends sung
+by poets and historians did not possess so much as a drop or spark of charity,
+since they loved one another neither in God nor for his sake, but from the
+impulse of corrupt, blind, and swollen flesh.
+
+[Marginalia: Observation 2.]
+
+3. Those two duties of a regenerate Christian must be sought from the two
+chief parts of the divine word, namely the law and the gospel. Faith relates
+to the gospel, while charity relates to the law. The gospel is rightly called
+the word of faith, and the law the word of works, beneath which the apostle
+places this form, covenant, and compact in Romans 10: “The one who performs
+these things shall live by them.” Charity, however, is the fulfillment of the
+law. Let no one be troubled that it may seem to follow from this that the law
+is prior to the gospel. Faith is prior to charity, since charity flows from
+faith, as we observed above from the apostle’s own order. Consequently, the
+gospel, which is the word of faith, will precede the law, which is the word
+that demands perfect charity. Yet this seems to conflict with the natural
+order of these parts of Holy Scripture.
+
+[Marginalia: Observation 3. Romans 10:5. First objection.]
+
+We may easily remove this difficulty by making the following distinction,
+based upon the law’s twofold use, which it exercises even upon the elect,
+though upon them in different states and conditions. First, it has one use in
+those not yet regenerate, preparing them to receive Christ’s grace. It does
+this through a knowledge of their sin and misery arising from the law, which
+rouses and terrifies the sinner’s conscience. Thus, after reducing the sinner
+to the agonies of death, it impels and urges him to seek outside himself—that
+is, in the gospel—the remedy for his evil. In this sense the law is prior to
+the gospel. It then has another use in the person who has already embraced
+the gospel through faith and from faith has received the Spirit of
+sanctification. The law directs him in that new obedience as a rule, and the
+regenerate person orders and fashions by it, as by a lamp, all the steps of
+his life in the works of justice and charity to be performed by Christ’s
+Spirit according to the law’s prescription. The psalmist especially urges
+this use of the law in Psalm 119 when he declares God’s law to be a lamp to
+his feet and a light to his steps. In this sense the law is posterior to the
+gospel. In brief, then, the law precedes the gospel in the order of nature if
+we consider a human being naturally holy and upright, because in that respect
+the law concerns the covenant of works or natural covenant, which is prior to
+the gospel’s gracious covenant. It also precedes in the order of our benefit
+and of the better method of teaching if we consider a human being in the
+state of sin, since it is an instrument preparing us to seek and embrace
+Christ’s grace in the gospel. Yet in the actual practice and performance of
+the things required by the law, insofar as it regards a person who is now
+faithful and regenerate, the law is posterior to the gospel, just as
+sanctification and new obedience are posterior to faith. Hence it follows
+that the gospel is so far from abolishing the law that, on the contrary, it
+especially establishes it; see Romans 3:31.
+
+[Marginalia: Answer. Note the law’s twofold use. 1. 2. Psalm 119:105.
+Conclusion of the distinction.]
+
+But someone may still press the objection that those two members expressed
+by the apostle do not adequately fill out and comprehend the Christian’s
+duty, since a third is still required, distinct from both and directed toward
+ourselves, just as faith regards God and charity our neighbor. Repentance has
+therefore been omitted. By repentance we ourselves are converted to God and
+renewed into Christ’s image through the communion we have both with his death
+and cross and with his resurrection and life, crucifying and mortifying the
+old man in us and bringing the new man to life.
+
+[Marginalia: Second objection.]
+
+We answer briefly that this third member may readily be brought under either
+of the other two and included beneath either one, whether as the proximate
+effect of faith or the foundation of brotherly charity. For, as we said above,
+love of God, which arises from faith, is immediately followed by a desire to
+please and obey God, then by an earnest flight from and loathing of what is
+contrary to his will—that is, sin—and finally by sorrow over the defect which
+we still feel in ourselves and the sins hitherto committed against God. This
+is that very repentance and conversion to God of which we speak. Again, true
+charity can have no place in our nature unless it has been renewed and
+cleansed to some extent through repentance. By nature everyone is a lover of
+self, not a lover of humanity or of the brethren; through sin people are not
+only separated from God but also torn and wrenched away from one another.
+Renewal is therefore necessary in order that this native and perverse
+self-love may be transformed into a holy and spiritual love of the brethren.
+That renewal is the work of repentance, and brotherly charity therefore
+necessarily presupposes it.
+
+[Marginalia: Confirmation. 1. 2.]
+
+If someone asks to which of these members repentance should preferably be
+referred, faith or charity, since, as we have said, it touches both through so
+close an affinity, we answer that it matters little for removing this
+difficulty under which member one includes it. Nevertheless, we prefer to
+refer it to faith, with whose nature we find repentance so closely
+interwoven that one can scarcely be considered or explained without the
+other, and we can scarcely decide which to assign the prior place in order.
+Both, however, can be distinguished much more clearly from charity, which
+regards one’s neighbor. Therefore, whenever faith is distinguished by contrast
+from charity, repentance is referred to faith and comprehended under its
+name.
+
+[Marginalia: Question. Solution.]
+
+4. From that apostolic manner of giving thanks, we may observe the duty of a
+true and faithful pastor toward the whole Church of Christ and particularly
+toward those to whom he has been sent by a special calling, in whose
+conversion, or in whose edification and advancement in the faith of Jesus
+Christ, God has deigned to employ his labor and ministry. Not only while
+present and at liberty must he care for them; while absent and imprisoned for
+the gospel he must also retain, so far as he can, the same pastoral care for
+his flock by offering continual prayers to God for them. And whenever he hears
+of their constancy or progress in the knowledge of Christ and true godliness,
+he must thank God for them with his whole heart
+
+[Marginalia: Observation 4.]
+
+[BSB bsb11059161 | scan 189 | Caput I p. 145]
+
+because of those spiritual blessings in Jesus Christ.
+
+5. From that constancy in prayer and thanksgiving even for the good and
+salvation of his brothers, let us observe how ardent a zeal for this matter
+ought to exist in us even on our own behalf. For if Paul never ceased praying
+to God and giving him thanks for other believers whom he had converted and
+instructed in the Christian faith, what, I ask, will be fitting for us in the
+work of advancing our own salvation and faith except an urgent and continual
+practice of prayer and thanksgiving to God? We know that this practice
+flourished more strongly in godly souls the greater the measure of the Holy
+Spirit with which it is evident God had endowed them, and the more Christ’s
+image had been restored in them. This is manifest from the single example of
+David, who with precisely the same sense and disposition—though in words
+different from our apostle’s—professes that at one time he called upon and
+praised God’s name three times daily, and at another seven times. This was
+certainly with good reason, if one weighs carefully what has already been
+said above about so holy and saving a practice. In this way our communion with
+God himself and Jesus Christ, and our sense of the divine presence in our
+hearts, are preserved and fostered as though by the most effective fuel. In
+this way new strength for faith, hope, and patience is drawn down and
+attracted from heaven; new firmness for perseverance and new growth in every
+spiritual gift and blessing are supplied; and above all there is growth in
+that saving confidence, peace of conscience, and joy through the Holy Spirit,
+to be recounted even amid tears and groanings. The apostle
+explicitly teaches in Romans 14 that the kingdom of God in this life consists
+in these things.
+
+[Marginalia: Observation 5. Confirmation. Romans 14:17.]
+
+6. From this we also have an excellent mark of true zeal for God’s glory and
+for the advancement of Christ’s kingdom, if we compare this holy affection
+shining in our apostle with the condition in which he found himself when he
+wrote this letter to the Ephesians. He was a prisoner of Jesus Christ,
+detained in chains at Rome for the testimony of the gospel, as we noted above
+in the preface. Yet when he heard of the believers’ constancy, indeed their
+progress, in faith and charity, and heard of the growth of Jesus Christ’s
+kingdom, he never lacked material for joy and congratulation, an occasion for
+giving thanks to God and blessing his name—with which he began this
+letter—and a reason for continually celebrating his praises.
+
+[Marginalia: Observation 6.]
+
+This is by no means the least, but rather the surest, testimony of true and
+sincere zeal for God’s glory: though a person is himself afflicted, pressed,
+and burdened by various crosses, he can nevertheless rejoice from the heart
+over the advancement of the kingdom of Christ his Lord and the peace and
+prosperous condition of the Church, and can sincerely congratulate his
+brothers upon their happy lot. Conversely, though a person may himself
+flourish and thrive in wealth, honor, favor, and outward peace, when he hears
+of the affliction of his faithful brothers, the calamity, loss, or persecution
+of God’s Church, some obstruction to the course of the gospel and growth of
+God’s kingdom, or any danger threatening his brothers, he should grieve and
+groan from the heart with Daniel, Mordecai, Esther, and other truly godly
+people of this kind. With a humble and downcast heart he should pour out
+ardent prayers before his God for the peace and protection of Christ’s Church,
+expecting from this the matter and occasion of his own comfort and joy, with
+the godly speakers introduced in Psalm 137: “If I forget you, O Jerusalem, let
+my right hand forget itself; let my tongue cling to my palate if I do not
+remember you, if I do not exalt Jerusalem above the crown of my joy.”
+
+[Marginalia: An unfailing mark of zeal. Psalm 137:5–6.]
+
+7. From this we may also see the character of true charity according to the
+lucid description of it which we have from the apostle in 1 Corinthians 13.
+So far is charity from envying anyone God’s gifts and benefits that, on the
+contrary, it heartily congratulates everyone upon these gifts and their
+increase. Indeed, it desires that the same grace which, by God’s will, it has
+felt effectual for salvation in itself might be able to flow into all and
+reach everyone.
+
+[Marginalia: Observation 7.]
+
+Therefore, from this example of our apostle, not only must we guard against
+all envy, which everyone easily sees to be diametrically opposed to charity;
+we must also rejoice sincerely over God’s gifts bestowed upon anyone, indeed
+through anyone’s ministry, and congratulate our brothers. I think this must be
+urged and remembered all the more because such is the self-love of our nature
+that it intrudes even into duties which seem to proceed from charity and to
+regard only the benefit of one’s neighbor—preaching the gospel, for example,
+helping God’s Church by word, deed, or writing, and other things of this kind.
+Many people would find it welcome and pleasant if something benefiting the
+Church were done through their labor, if God employed them as servants of his
+work, and if the task before them prospered through their ministry, care, and
+labor. Yet they are ready to envy others an equal or greater success in the
+same work when God has willed to prefer those others to them in this respect.
+Why is this, unless from the remnants of that self-love which they have not
+yet entirely denied? They still hunt after some petty glory, praise, and
+reputation for themselves from God’s work rightly and successfully
+administered. Consequently, their zeal or charity is not sincere on every
+side.
+
+[Marginalia: Corollary. Note the character of human self-love.]
+
+Our apostle’s affection was certainly far different. He rejoiced exceedingly
+that the kingdom of Jesus Christ was advanced, churches planted, built up,
+and watered, and his God’s work increased, not only by his own labor and
+ministry but also by the labors of any others called by God, even when they
+were people otherwise hostile to him and afflicted by secret envy and rivalry
+toward him. He left this clearly attested in Philippians 1: “Some indeed
+proclaim Christ through envy and contention, not sincerely, because they
+think they are adding affliction to my chains; but others preach Christ from
+goodwill and charity, knowing that I have been appointed for the defense of
+the gospel. What then? Nevertheless, in every way, whether in pretense or in
+sincerity, Christ is proclaimed; and in this I rejoice, and I will continue
+to rejoice.”
+
+[Marginalia: Amplification from the contrary. Philippians 1:15–16.]
+
+8. In the last place, as regards the manner of this godly congratulation,
+please observe the very conspicuous difference between the congratulations
+of the children of this age—that is, unspiritual people—and those of the truly
+godly, whether you consider their matter and occasion or the manner of
+congratulation itself. Those who are wholly incapable of heavenly things
+derive all the material for their own joy and for congratulating others from
+these earthly and worldly things: if their present circumstances are
+prosperous; if the year’s yield is welcome and abundant; if their enemies have
+been supplanted, whether justly or unjustly; if their foes have been defeated
+and cast down from their hope; if they possess favor with a prince, authority
+among the people, and distinction of name and reputation among foreigners; if
+in body,
+
+[Marginalia: Observation 8. First member, concerning the matter. 1. Of the
+unspiritual.]
+
+[BSB bsb11059161 | scan 190 | Caput I p. 146 (through Prælectio XXXV close)]
+
+strength, talent, beauty, and wealth they are vigorous and flourishing; or,
+finally, if they have obtained their desires, however empty or even ungodly
+those desires may be. From these things comes their whole harvest of joy and
+every occasion and reason for congratulating their friends. Meanwhile they
+have no care or thought for the state of the soul, peace of conscience,
+certainty of their salvation and election, their own or others’ progress in
+faith and godliness, the presence of God, the future life and death, Christ’s
+glorious advent, or other things of this kind. They do not even inquire about
+their own friends as regards this state of the soul. Yet this single example
+of Paul abundantly testifies that the spiritual and regenerate person has a
+far different disposition in rejoicing for himself and congratulating his
+brothers and friends. Before all things, such a person is concerned for the
+soul and conscience. He inquires first about its state and questions those
+who have arrived; when he perceives that it is sound, from this above all
+arise his joy, congratulation, and thanksgiving. He does not labor greatly
+over other things belonging to the body and bodily life, nor show himself
+anxiously concerned about them. He does not so much desire to know, for
+example, whether some brother or friend whose affairs he asks about has been
+freed from disease, relieved from the burden of affliction, and increased in
+wealth and fortune, as whether amid poverty that person has a rich soul—that
+is, a godly soul content with its lot; whether he has learned both to be in
+need and to abound; and whether in sickness he displays faith and confidence
+in God and under the cross joy and patience. If these gifts are present, the
+faithful soul will reap from them a most abundant harvest of joy and
+congratulation.
+
+[Marginalia: 2. Of the spiritual.]
+
+Second, as to the form and manner of congratulation, those whose minds are
+earthbound and who never raise their thoughts all the way to God attribute to
+the people themselves, when congratulating them, whatever good or merely
+gilded happiness, so to speak, they possess. They admire and praise those
+people’s own prudence, courage, vigilance, and other virtues; they attribute
+to the people themselves all the glory of things well and successfully done,
+or at least employ the name of good fortune in profane speech and fashion.
+Meanwhile they say not a word about God, his grace, blessing, and presence;
+there is no mention of them at all, or else it is so cold and perfunctory that
+it would have been better to remain silent about him than to employ so holy a
+name with so unclean a heart and tongue. The spiritual, however, acknowledge
+God alone as the author of every good and its giver by sheer grace. When they
+congratulate their brothers upon any gifts, they cannot but ascribe all glory
+to God himself alone through Jesus Christ; they cannot but burst forth from
+the heart into thanksgiving with our apostle, and praise, celebrate, and
+adore God the Father as the fountain of every blessing with their deepest
+affection. And so, as we at last bring this member to an end, we ascribe to
+him, through Jesus Christ in the unity of the Holy Spirit, all praise, honor,
+and glory forever. AMEN.
+
+[Marginalia: Second member, concerning the manner. 1. Of the unspiritual. 2.
+Of the spiritual.]
+
+[End of Lecture XXXV. The following `In VERS. 17. &c.`, Lecture XXXVI, and
+exposition of Ephesians 1:17–19 are excluded.]
+
+The completed sequence now extends through Lecture XXXV. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -1294,7 +1902,14 @@ mediator, and beneficiaries, explains thanksgiving as grateful remembrance
 and self-dedication, relates prayer and thanksgiving to spiritual joy, and
 closes by interpreting prayer without ceasing as daily constancy and an inward
 orientation toward God that sanctifies rather than displaces one’s lawful
-calling.
+calling. Lecture XXXV draws eight observations from that exposition. It
+distinguishes faith from charity by their objects, treats charity as a
+supernatural fruit of faith, orders law and gospel according to the law’s two
+uses, and places repentance under faith while showing why brotherly charity
+presupposes it. It then applies Paul’s example to pastoral prayer, personal
+devotion, zeal for the Church amid affliction, freedom from ministerial envy,
+and the contrast between worldly congratulations and spiritual thanksgiving,
+closing with a Trinitarian doxology and `AMEN.`
 
 ## Validation
 

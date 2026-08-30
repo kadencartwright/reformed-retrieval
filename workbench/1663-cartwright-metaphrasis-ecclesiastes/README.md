@@ -1010,3 +1010,52 @@ This unit is bounded by the chapter boundary rather than by an arbitrary
 image count. The next unit begins in the left column of reader image `PA177` /
 printed p. 177, after the dividing rule, at `CAPUT IV` and the initial lemmata
 for verses 1–8.
+
+**Part 44 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Chapter IV heading and initial Ecclesiastes 4:1–8 lemma block,
+followed by the complete exposition of verse 1, on reader images `PA177` and
+`PA179`. It begins in the left column of printed p. 177 after the dividing rule
+at `CAPUT IV`, crosses the image and printed-page join in the division `spi- /
+ritus`, and ends in the right column of printed p. 180 immediately before the
+repeated lemma `Vers. 2. Melior est, inquit, plena vola quietis`. The paired
+files have two exactly identical reader-image markers and retain the chapter
+heading, all eight opening lemmata, the summary and analytical division, the
+description of idleness through its bodily, intellectual, domestic, and penal
+effects, the Greek `αὐτοχειρίας`, and every printed biblical reference. The
+English translator's notes disclose the image-spanning word, the Greek term,
+the printed `odii`, and the compressed or irregular `per hoc modo`, `In summa
+etenim otiosi inscitia`, and `unde summam ... mendicitatem` constructions
+rather than silently repairing or omitting them:
+
+- `parts/part-44-homiliae-chapter-04-verse-01-latin.txt`
+- `parts/part-44-homiliae-chapter-04-verse-01-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader
+image `PA179` / printed p. 180 at `Vers. 2. Melior est, inquit, plena vola
+quietis, plenis pugnis molestiæ & afflictionis spiritus`.
+
+**Part 45 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the complete homiletic exposition attached to the repeated
+Ecclesiastes 4:2 lemma on reader images `PA179` and `PA181`. It begins in the
+right column of printed p. 180 at `Vers. 2. Melior est, inquit, plena vola
+quietis`, crosses the image and printed-page join after the catchword `se`, and
+ends in the right column of printed p. 182 immediately before the repeated
+lemmata for verses 3 and 4. The paired files have two exactly identical
+reader-image markers and retain the repeated verse lemma, the idle man's
+argument from peace and contentment, Cartwright's counteranalysis of hypocrisy
+and the wisdom of the flesh, the application to candidates for the ministry,
+and every printed biblical reference. No independent marginal notes, Greek,
+Hebrew, or other foreign-script text occurs in this unit. The English
+translator's notes disclose the catchword join, the meanings of `vola` and
+`cupediæ`, the printed `Marc. 15. 37. 38` reference, and the difficult
+alternative beginning `sine quo tamen aut Rempublicam` rather than silently
+repairing or omitting them:
+
+- `parts/part-45-homiliae-chapter-04-verse-02-latin.txt`
+- `parts/part-45-homiliae-chapter-04-verse-02-english.md`
+
+This unit is bounded by the exact next repeated verse lemmata rather than by
+an arbitrary image count. The next unit begins in the right column of reader
+image `PA181` / printed p. 182 at `Vers. 3. Sed rursus ego vidi hoc esse
+vanitatem sub Sole` and `Vers. 4. Est unus aliquis cui deest secundus`.

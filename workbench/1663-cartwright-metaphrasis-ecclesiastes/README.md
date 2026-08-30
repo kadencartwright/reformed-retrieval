@@ -2522,3 +2522,514 @@ translated “prize.”
 [End of Part 101. The next part begins on the same reader image PA325, printed
 p. 326, at the division `CHAPTER IX` and the lemma `VERSE 1. But when I applied
 my mind to knowing wisdom`.]
+
+**Part 102 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the opening Ecclesiastes 9:1–8 lemma block and the complete prefatory
+exposition attached to verses 1–2 on reader images `PA325`–`PA333`. It begins
+on printed p. 326 at the ruled division `CAPUT IX` and `Vers. 1. Quum autem
+adhiberem animum meum ad cognoscendam sapientiam`, crosses the image joins at
+the p. 326 catchword `& ad`, the division `com- / plectatur` on pp. 328–329,
+the p. 330 catchword `Deus`, and the division `exposi- / tam` on pp. 332–333,
+and ends on printed p. 333 immediately before the repeated verse-3 lemma. The
+paired Latin transcription and English translation below have five exactly
+identical reader-image markers and retain all eight verse lemmata, the formal
+division between the judgments of the Spirit and the flesh, the comparisons
+with Solomon's judgment and the Queen of Sheba, the examples of Jerusalem,
+Christ's crucifixion, Paul, Job, and Josiah, the Greek `ἀγχινοίας` and
+`ἀδυναμίαν`, and every printed biblical reference, including the witness's
+`Actor. 20.` and `Iacob. 4.`.
+
+This unit is bounded by the exact repeated verse-3 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA333` / printed
+p. 333 at `Vers. 3. Nam totum hoc condidi in animo meo`.
+
+### Part 102 — Latin source transcription
+
+THOMAS CARTWRIGHT
+
+METAPHRASIS ET HOMILIAE IN LIBRUM SALOMONIS, QUI INSCRIBITUR ECCLESIASTES
+(1663)
+
+PARS CENTESIMA SECUNDA — HOMILIAE, CAPUT IX, VERSUS 1–8
+
+Transcription diplomatica-normalizata, ope AI confecta et nondum recognita.
+Imagines voluminis Google Books `pthrWjdL0BgC` textum regunt; OCR tantum
+subsidium est. Longum s, ligaturae, divisiones in fine linearum, atque usus
+typographicus u/v normalizantur. Haec pars incipit in imagine PA325, pagina
+impressa 326, ad divisionem `CAPUT IX` et lemma versus 1; lemmata versuum 1–8
+atque integram praefatoriam expositionem versuum 1–2 continet; atque in
+imagine PA333, pagina impressa 333, ante lemma iteratum versus 3 desinit.
+
+[Google Books pthrWjdL0BgC | reader image PA325 | printed pp. 325–326 | begins on p. 326 at the ruled division Caput IX and Vers. 1; ends before complete & ad perspiciendum after the p. 326 catchword & ad]
+
+CAPUT IX.
+
+VERS. 1. Quum autem adhiberem animum meum ad cognoscendam sapientiam,
+
+[Google Books pthrWjdL0BgC | reader image PA327 | printed pp. 327–328 | begins with complete & ad perspiciendum after the p. 326 catchword & ad; ends before complete complectatur after divided com- / plectatur at the foot of p. 328]
+
+& ad perspiciendum ipsum negotium quod fit super terram, si etiam interdiu &
+noctu somnum oculis suis quispiam non percipiat.
+
+VERS. 2. Animadverti totum opus Dei, non posse hominem assequi illud opus quod
+fit sub Sole, quamvis laboriose homo quaerat, non tamen assequuturum esse: quin
+etiam si cogitet sapientissimus cognoscere, non tamen posse assequi.
+
+SUMMA est horum versuum, sicut & reliqui capitis, judicium de Dei
+administratione, qua mundum universum gubernat.
+
+Partes sunt, de administratione in mundo judicium, Spiritus. 1. 2. 3. &
+carnis, reliquo cap.
+
+Superiore capite de hominum administratione, tractatu absoluto, accedit ad
+illum qui est de administratione Dei in mundo. Atque in illa explicanda
+eandem rationem adhibet, quam in superiore: ut primum judicium spiritus,
+deinde carnis vanam opinionem in medium afferat, ubi duo docentur. Prius, quid
+homines ratiocinando & investigando consequi non possunt de operibus Dei:
+alterum, quid possunt consequi.
+
+Novum argumentum tractaturus, novum exordium (pro more suo, cum in hoc Libro,
+tum in novem primis Prov. capitibus) praemittit, quo attentionem comparet.
+Quod cum praescius imbecillitatis & somnolentiae nostrae facit, nos etiam quos
+sensu proprii veterni penitus affici decet, nos ipsos ad singulas separatim
+doctrinas expergefacere debemus. Ea est enim perversitas & alienatio animorum
+nostrorum à Deo, & ab his quae Dei sunt, ut totum diem fabulas aut hominum
+gesta narrantem, non gravate audiamus; qui tamen Deum nos in Verbo
+alloquentem, aegre & non sine aut somno, aut mentis vago errore & mundanis
+cogitationibus ad unicam horam ferimus. Et certe si Verbi praedicationis ad
+salutem efficacis alia argumenta non suppeterent: istud unum ejus rei plenam
+fidem faceret, quod homines natura sua ad illud audiendum sunt aut aversi, aut
+torpentes, aut dormitabundi. Cujus haud alia causa reddi potest, nisi quod
+corporibus huc ad conciones & reliquum Dei cultum allatis, animus unà non
+adducitur: cum tamen sicut Prophetae animum suum applicant ad illa
+investiganda quae ad nostram salutem spectant, sic animum nostrum promptum &
+praesentem exigunt: unde illud Salomonis Prov. 23. 26. Fili mi, da mihi cor
+tuum.
+
+Inter Libros communes toti mundo, in quibus Deus se nobis veluti legendum
+proposuit, hic de Dei in mundo administratione non est praestantia postremus,
+vel nostra lectione indignus. Singula etenim Dei in hac administratione opera,
+tanquam elementa & literae hujus Libri, ita à Deo confecta sunt, ut laudem
+promereantur, & admirationem excitent; eoque reverentiam in Deum. Si enim
+Salomon unica illa sententia, qua prudenter discrevit inter germanam matrem &
+adulteram, effecit ut totus populus Salomonem revereretur, & timeret; quanto &
+magis Dei judicium in administratione mundi, Dei timore nos debet afficere?
+Et si opus Salomonis in ordinata domus suae procuratione, sapientissimam
+Reginam in stuporem adegit; nedum interior meditatio Divinae administrationis,
+nos in illius admirationem abripere convenit? Hic si quis quaerat, quo modo
+differat administratio Dei in mundo, ab illa quae ante dicta est de hominum
+gubernatione? Respondeo, subjectum circa quod versatur, non usque quaque
+differre. Tametsi etenim latius pateat Dei quam Principum administratio,
+utpote quae Angelos electos pariter & reprobos
+
+[Google Books pthrWjdL0BgC | reader image PA329 | printed pp. 329–330 | begins with complete complectatur after divided com- / plectatur on p. 328; ends before complete Deus suam potentiam after the p. 330 catchword Deus]
+
+complectatur: tamen eadem omnia quae homines sua ditione, suo Deus item
+imperio continet; & res omnes quae Principes & Magistratus tractant, Deus
+etiam sceptro Regni sui moderatur & regit. In uno etenim eodemque negotio Dei
+digitum, & hominum opus considerare nos decet. In justis eorum consiliis,
+cogitationibus, & operibus intueri nobis perfectam Dei licet justitiam; in
+sapientibus exactam sapientiam; in bonitate summam bonitatem; ita ut hominum
+respectu argentum sit scoria aliquantulum permixtum, quod Dei ratione purum &
+septies excoctum est. In injustis vero, insipientibus, & malignis hominum
+operibus, Dei non minus justam, sapientem & bonitatis plenam administrationem
+datur intueri, quam quae ab hominibus recte & cum officio procurantur. Quod
+majus est, quae res injuste, insipienter, male ab hominibus geruntur: eo magis
+juste, sapienter & bene à Deo temperantur. Testis sit eversio Hierosolymorum
+per Romanos; Christi per Iudaeos Cruci suffixio: quibus cum nihil unquam Sol
+vidit sceleratius cum homines respicis: tamen mente ad Deum conversa, qui huic
+omni negotio non adfuit tantum, sed praefuit etiam, atque moderatus est, nihil
+ut sine suo nutu & voluntate effectum sit, summe justum & sanctum comperietur.
+Periti pictores sua arte efficient, ut una eadem pictura in tabula expressa,
+uno situ deformem, altero vero situ speciosum aspectum habitura: Sic unum idem
+opus, si homines illius operis fabricatores respicias, execrandum erit: sin ad
+Deum animum referas, summe benedictum existit.
+
+Deinde dicit opus hoc Dei impervestigabile esse, neminem esse qui Dei in sua
+mundi administratione consilium expiscari possit, altius esse quam ut
+altissimus hoc pertingat; profundius esse hoc mare, quam ut quis bolide suae
+rationis explorare possit. Psal. 36. 6. 7. Si etenim opera quae fecit Salomon,
+sapientem reginam Sabae in admirationem ita abripuit, ut non esset amplius in
+illa spiritus: 1. Reg. 10. quanto magis opera Dei, omnem nostram intelligentiam
+superantia, nos in admirationem ejus adducant? Ut etenim quisque est, ita sunt
+ejus opera. Cum igitur infinitus sit potentia, sapientia, & justitia, opera
+ejus incomparabilem, aut sapientiam, aut potentiam, aut justitiam in se
+complecti, necessum est. Atque ut propius accedam ad illud ad quod Salomonis
+generale hoc axioma accommodatur: Nemo est qui consilium Dei perscrutari
+potest, cur Deus impios nonnunquam ad summum dignitatis fastigium attollit,
+dejectis & depressis quandoquidem piis regibus: cur illis ditatis, hi penuria
+laborant: cur illis saturis, hi famelici & sitibundi hinc inde palanter
+oberrant. Hoc est illud in quo amici Iobi, quantumvis pii & docti, hallucinati
+sunt, cum bonis prospere, improbis vero adverse res semper casuras affirmant:
+contra vero Iobus in eo praecipue versatur, ut ostendat Dei administrationem
+omnem mentis humanae aciem fugere. Vide Iob 9. 10. 11. 12. Invenias homines qui
+privatam vitam agentes, modeste se gerunt, & multa bonorum civium officia
+exsequuntur; qui iidem à Deo ad honores elati, immanes Tyranni evadunt: alios,
+qui paupertate pressi, in officio manserunt; qui ditati à Deo, effractores,
+omnisque officii desertores existunt: Contra alios qui divitiis abundantes,
+magnum specimen pietatis praebuere; qui bonis exuti, perditissime &
+profligatissime vixerunt. Quis est tantae ἀγχινοίας, ut Dei in hac
+administratione consilium quaerendo invenire possit: verum quidem est, ex ipso
+rerum eventu, aut Dei revelatione, horum operum consilium quod Deus sequutus
+est, palam fieri; ut viperam ideo Pauli manum corripuisse liquet, ut ejusdem
+sine salutis damno excussione
+
+[Google Books pthrWjdL0BgC | reader image PA331 | printed pp. 331–332 | begins with complete Deus suam potentiam after the p. 330 catchword Deus; ends before complete expositam after divided exposi- / tam at the foot of p. 332]
+
+Deus suam potentiam ostenderet, atque Apostoli ministerium apud Barbaras
+nationes obsignaret. Actor. 20. Iobum item (Deo revelante) ideo tam inaudite
+afflictum esse constat, ut omni posteritati in eo uno exemplum patientiae
+statueret Deus, Iacob. 4. Iosiam etiam Regem pietate praestantem, ideo immature
+ab impio Rege obtruncatum constat, ne mala quae Deus in illum populum brevi
+importaturus erat, magno animi sui cruciatu & moerore aspiceret, atque
+intueretur.
+
+Quamobrem discendum nobis est, ne quid in hac Dei administratione
+praecipitemus, quod aut Deo ingloriosum, aut proximo damnosum & noxium sit:
+meminerimusque consilii quod dat Christus, ut rectum judicium judicemus:
+eoque non obliviscamur quod Apostolus commonet, ne ante tempus judicemus,
+atque ut expectemus quoad dies rem declaret; quo in genere saepe peccatur.
+Ioan. 5. 1. Cor. 3. 13. Si enim quis alium secundis rebus affluentem videat,
+illum à Deo amatum statuit, eoque suos mores ad illius exemplar exigit, non
+respiciens, neque expectans quis ejus exitus futurus sit: sicut contra, si
+diversis rebus afflictum cernat, ilico à Deo exosum existimat, eoque se ab
+illo avertit, & ejus vivendi rationem refugit, non expectato ejus eventu.
+
+Hanc pervestigandi operum Dei ἀδυναμίαν amplificat à circumstantiis: primum,
+adjuncto tempore, quod si quis dies noctesque in illud incumberet, tamen non
+posse hujus rei profunditatem penetrare: deinde alio adjuncto, nempe laboriosa
+& sollicita indagatione: denique à subjecto. Tametsi enim sapiens hanc &
+assiduam atque laboriosam operam in id studium conferat, non tamen ab illo
+capi posse tantae rei difficultatem. Hic si quis insurgat, stultum igitur esse
+in illis perscrutandis operam ponere, quandoquidem nemo illa assequi possit.
+Respondeo, illud non consequi. Nam Dei opera ab his omnibus perquiruntur, qui
+illis delectantur, Psal. 111. Deinde Esaias populum Dei accusat, quod opus
+Jehovae non intuentur, neque facta manuum ejus considerant, Esai. 5. 12. Et
+quis discipulus est, qui institutionem praeceptoris contemnat, quia illum
+doctrina & literis non assequitur: aut qui calamum è manu abjicit, quia tam
+eleganter atque institutor suas pingere nequit.
+
+Quod dicit ne sapientem quidem hoc complecti: quaeritur quis sit ille sapiens?
+Respondeo, sapientem hoc loco intelligi eum, qui timore Dei imbutus est. Nam
+alios omnes Propheta David stultos appellat, ut qui nihil hic intelligunt, ut
+est Psal. 93. 6. 7. 8. dictum enim est prius, praesidio notitiae Scripturarum
+tanquam specillis vel face nobis praelata, alios de Deo libros legi. Atque
+sicut prae aliis, sic ante alios omnes libros Liber Scripturarum ediscendus
+est: cum quod earum beneficio via & aditus pateat ad intelligentiam aliorum
+Librorum, tum quod omnium librorum facillimus intellectu sit. Psal. 19. 8. &
+1. Cor. 1. 21. Unde est quod Philosophi, & alii, qui prius notitiam aliquam
+interiorem naturis rimandis & investigandis perceperunt, quam ad Verbi divini
+intelligentiam se adjunxerunt, omnium hominum ad regnum Dei maxime inepti &
+inidonei sunt: cujus rei illustre testimonium extat, Actor. 17.
+
+VERS. 3. Nam totum hoc condidi in animo meo, idque declaraturus totum hoc,
+justos & sapientes, factaque eorum in manu Dei ipsius esse: tum re amata, tum
+exosa non uti homines, nullam esse
+
+[Google Books pthrWjdL0BgC | reader image PA333 | printed pp. 333–334 | begins with complete expositam after divided exposi- / tam on p. 332; ends on p. 333 immediately before repeated Vers. 3]
+
+expositam ipsis.
+
+VERS. 4. His omnibus, quemadmodum reliquis omnibus evenire, eventum eundem
+esse justo & improbo, bono sive mundo & immundo, tam sacrificanti, quam ei,
+qui non sacrificat: ita bono sicut peccatori, juranti quemadmodum juramentum
+reverenti.
+
+VERS. 5. Hoc pessimum esse in omnibus quae fiunt sub Sole, quod eventus idem
+sit omnibus; quin etiam animum filiorum hominum qui expletus fuerit malo, &
+quorum animo insederit omnis insania quamdiu vixerunt, itidem postea concedere
+ad mortuos.
+
+VERS. 6. Nam uter sit qui eligatur, in tota hac vita adest fiducia: quin cani
+viventi est melius, quam leoni mortuo.
+
+VERS. 7. Viventes enim sciunt se morituros esse; mortuos autem nescire
+quicquam, nec esse amplius eis mercedem, quum oblivioni tradita fuerit memoria
+eorum.
+
+VERS. 8. Tum rem amatam eis, tum exosam eis, tum desideratam eis jam periisse,
+& partem nullam esse eis amplius unquam in ulla re quae fit sub Sole.
+
+Hactenus fuit judicium Spiritus de Dei in mundo administratione, sequitur
+Carnis judicium.
+
+In quo consideratur 1. Praefatio in hoc judicium, vers. 3. 2. Ipsummet Carnis
+judicium, rel. cap.
+
+Praefatio complectitur, 1. Adjunctam Salomonis exactam diligentiam in carnis
+judicio pervestigando. 2. Subjectum, circa quod hoc carnis judicium occupatur.
+
+[Finis Partis 102. Pars sequens incipit in eadem imagine PA333, pagina
+impressa 333, ad lemma iteratum `VERS. 3. Nam totum hoc condidi in animo meo`.]
+
+### Part 102 — English translation
+
+#### Thomas Cartwright, *Metaphrasis and Homilies on Ecclesiastes* (1663)
+
+##### Homilies, Chapter 9, Verses 1–8
+
+> **AI-assisted first draft from the Latin; not independently reviewed.** The
+> Google Books images of volume `pthrWjdL0BgC` control the transcription and
+> translation. OCR has been used only as an aid and not as source authority.
+> This English is a fresh close translation prepared for checking, not a
+> summary or publication. No modern translation has been used. This part
+> begins on PA325, printed p. 326, at the division Chapter 9 and the lemma for
+> verse 1; it contains the verse 1–8 lemma block and the complete prefatory
+> exposition of verses 1–2; and it ends on PA333, printed p. 333, before the
+> repeated lemma for verse 3.
+
+[Google Books pthrWjdL0BgC | reader image PA325 | printed pp. 325–326 | begins on p. 326 at the ruled division Caput IX and Vers. 1; ends before complete & ad perspiciendum after the p. 326 catchword & ad]
+
+CHAPTER IX.
+
+VERSE 1. But when I applied my mind to knowing wisdom,
+
+[Google Books pthrWjdL0BgC | reader image PA327 | printed pp. 327–328 | begins with complete & ad perspiciendum after the p. 326 catchword & ad; ends before complete complectatur after divided com- / plectatur at the foot of p. 328]
+
+and to perceiving the very business done upon the earth, even if someone
+receives no sleep for his eyes by day or night—
+
+VERSE 2. I observed the whole work of God, and that a person cannot attain the
+work done under the Sun. However laboriously a person seeks, he will not
+attain it; indeed, even if the consummately wise person thinks he knows, he
+nevertheless cannot attain it.
+
+The sum of these verses, as also of the rest of the chapter, is a judgment
+concerning God's administration by which he governs the whole world.
+
+The parts are the judgment of the Spirit concerning administration in the
+world, verses 1, 2, and 3, and the judgment of the flesh in the rest of the
+chapter.
+
+Having completed in the preceding chapter his treatment of human
+administration, Solomon proceeds to the treatment of God's administration in
+the world. In explaining it he employs the same method as in the preceding
+chapter: first he brings forward the judgment of the Spirit, then the empty
+opinion of the flesh. Here two things are taught. The first is what human
+beings cannot attain concerning the works of God by reasoning and
+investigation; the second is what they can attain.
+
+As he prepares to treat a new subject, Solomon first supplies a new beginning,
+according to his custom both in this Book and in the first nine chapters of
+Proverbs, in order to gain attention. He does this with foreknowledge of our
+weakness and drowsiness. It is therefore fitting that we too, deeply affected
+by an awareness of our own lethargy, should rouse ourselves separately to each
+doctrine. For such is the perversity and alienation of our minds from God and
+the things of God that we listen without reluctance throughout an entire day
+to someone recounting tales or human deeds, yet scarcely endure God addressing
+us in the Word for a single hour without either sleep, the mind's wandering,
+or worldly thoughts.
+
+Indeed, if there were no other arguments for the efficacy of the preaching of
+the Word unto salvation, this one fact would give full assurance of it: human
+beings by their nature are either averse, sluggish, or drowsy toward hearing
+it. No other cause for this can be given than that, although bodies are
+brought here to sermons and the rest of God's worship, the mind is not brought
+with them. Yet just as the Prophets apply their mind to investigating the
+things that concern our salvation, so they require our mind to be ready and
+present. Hence Solomon's words, Proverbs 23:26: “My son, give me your heart.”
+
+Among the Books common to the whole world, in which God has set himself before
+us as though to be read, this Book concerning God's administration in the
+world is neither the least in excellence nor unworthy of our reading. For the
+individual works of God in this administration, like the elements and letters
+of this Book, have been so fashioned by God that they deserve praise, excite
+wonder, and thereby stir up reverence toward God. If Solomon, by that single
+judgment in which he prudently distinguished between the true mother and the
+adulteress, caused the whole people to revere and fear him, how much more ought
+God's judgment in administering the world to affect us with the fear of God?
+And if Solomon's work in the orderly management of his house drove the wisest
+Queen into astonishment, how much more fitting is it that inward meditation
+upon the divine administration should carry us away into wonder at it?
+
+If someone asks here how God's administration in the world differs from the
+human government described earlier, I answer that the subject with which each
+is concerned does not differ in every respect. For although God's
+administration extends more widely than that of Princes, since it
+
+[Google Books pthrWjdL0BgC | reader image PA329 | printed pp. 329–330 | begins with complete complectatur after divided com- / plectatur on p. 328; ends before complete Deus suam potentiam after the p. 330 catchword Deus]
+
+embraces both elect and reprobate Angels, God nevertheless contains within his
+own empire all the same things that human beings contain within their
+dominion. God also directs and rules with the scepter of his Kingdom every
+matter that Princes and Magistrates handle. Thus, in one and the same affair,
+we ought to consider both the finger of God and the work of human beings. In
+their righteous counsels, thoughts, and works, we may behold God's perfect
+justice; in their wise counsels, his exact wisdom; and in goodness, his highest
+goodness. Thus the silver that is somewhat mixed with dross from the human
+standpoint is pure and seven-times refined in God's account.
+
+In the unjust, foolish, and malicious works of human beings, no less than in
+the things properly and dutifully administered by them, it is possible to
+behold God's just, wise, and wholly good administration. What is more, the
+more unjustly, foolishly, and wickedly affairs are conducted by human beings,
+the more justly, wisely, and well they are regulated by God. Let the
+destruction of Jerusalem by the Romans and the crucifixion of Christ by the
+Jews bear witness. When you look to the human beings involved, the Sun has
+never seen anything more criminal than these events. Yet when the mind is
+turned to God, who was not merely present in this whole affair but also
+presided over and governed it so that nothing was accomplished without his
+decree and will, it will be found supremely righteous and holy. Skillful
+painters can by their art make one and the same picture expressed upon a panel
+present a misshapen appearance from one position and a beautiful appearance
+from another. So too, if you look to the human fabricators of a single work,
+it will be execrable; but if you direct your mind to God, it stands supremely
+blessed.
+
+Solomon next says that this work of God cannot be searched out: no one can
+fathom God's counsel in his administration of the world. It is higher than
+even the highest person can reach and a deeper sea than anyone can explore
+with the sounding line of his reason, Psalm 36:6–7. If the works Solomon
+performed so carried the wise Queen of Sheba into wonder that there was no
+more spirit in her, 1 Kings 10, how much more should the works of God, which
+surpass all our understanding, bring us into wonder at him? For as each person
+is, so are his works. Since God is infinite in power, wisdom, and justice, his
+works must embrace incomparable wisdom, power, or justice.
+
+To approach more closely the subject to which this general axiom of Solomon is
+applied: no one can search out God's counsel as to why God sometimes raises
+the ungodly to the highest summit of dignity while godly kings are cast down
+and depressed; why, when the former are enriched, the latter labor in poverty;
+or why, while the former are satisfied, the latter wander here and there,
+hungry and thirsty. This is the point at which Job's friends, however godly and
+learned, went astray when they affirmed that affairs would always fall out
+prosperously for the good and adversely for the ungodly. Job, by contrast, is
+especially concerned to show that God's entire administration eludes every
+edge of the human mind. See Job 9, 10, 11, and 12.
+
+You may find people who, while living private lives, conduct themselves
+modestly and fulfill many duties of good citizens, yet who, when raised by God
+to honors, become monstrous Tyrants. You may find others who remained in their
+duty when pressed by poverty, yet who, when enriched by God, become robbers
+and deserters of every duty. Conversely, others who abounded in wealth gave a
+great proof of godliness, yet when stripped of their goods lived most
+desperately and profligately. Who possesses such great acuteness as to be able,
+by inquiry, to discover God's counsel in this administration? It is indeed
+true that the counsel God followed in these works is sometimes disclosed by
+the very outcome of events or by God's revelation. Thus it is evident that the
+viper seized Paul's hand so that, when he shook it off without injury,
+
+[Google Books pthrWjdL0BgC | reader image PA331 | printed pp. 331–332 | begins with complete Deus suam potentiam after the p. 330 catchword Deus; ends before complete expositam after divided exposi- / tam at the foot of p. 332]
+
+God would display his power and seal the Apostle's ministry among the
+barbarous nations, Acts 20. Likewise, it is established by God's revelation
+that Job was afflicted in so unheard-of a manner so that in him alone God
+might set an example of patience for all posterity, James 4. It is also
+established that Josiah, a King eminent in godliness, was cut down prematurely
+by an ungodly King so that he would not behold and gaze upon, with great grief
+and sorrow of mind, the evils that God was soon to bring upon that people.
+
+Therefore, we must learn not to rush to any judgment concerning this
+administration of God that would either dishonor God or harm and injure our
+neighbor. We should remember Christ's counsel that we judge righteous
+judgment. We should likewise not forget the Apostle's admonition that we not
+judge before the time, but wait until the day discloses the matter—a point in
+which people often sin, John 5; 1 Corinthians 3:13. For if someone sees another
+person overflowing with prosperity, he concludes that the person is loved by
+God and therefore conforms his own conduct to that person's example, neither
+considering nor waiting to see what his end will be. Conversely, if he sees a
+person afflicted by adverse circumstances, he immediately judges him hated by
+God, turns away from him, and shuns his manner of life without waiting for the
+outcome.
+
+Solomon amplifies this inability to search out the works of God from its
+circumstances. First, he adds the circumstance of time: even if someone should
+apply himself to it day and night, he still could not penetrate the depth of
+this matter. He next adds laborious and anxious investigation, and finally the
+subject. Even if a wise person should devote constant and laborious effort to
+this study, the difficulty of so great a matter still could not be
+comprehended by him. If someone should object here that it is therefore
+foolish to expend effort in searching out these works, since no one can attain
+them, I answer that this does not follow. For the works of God are sought out
+by all who delight in them, Psalm 111. Isaiah also accuses the people of God
+because they do not regard the work of Jehovah or consider the deeds of his
+hands, Isaiah 5:12. What pupil despises his teacher's instruction because he
+cannot equal him in learning and letters? Or who casts the pen from his hand
+because he cannot form his own letters as elegantly as his instructor?
+
+Since Solomon says that not even a wise person can comprehend this, it is
+asked who that wise person is. I answer that “wise” in this passage means the
+person imbued with the fear of God. For the Prophet David calls all others
+fools, since they understand nothing here, as in Psalm 93:6–8. It has already
+been said that the other books concerning God are to be read with the aid of
+the knowledge of the Scriptures, like spectacles or a lamp held before us.
+And just as the Book of the Scriptures must be learned in preference to other
+books, so it must be learned before all other books: both because by its
+benefit a way and entrance to understanding the other Books lies open, and
+because it is the easiest of all books to understand, Psalm 19:8 and 1
+Corinthians 1:21. Hence Philosophers and others who acquired some deeper
+knowledge by probing and investigating natures before they applied themselves
+to understanding the divine Word are, of all people, the most unfit and
+unsuitable for the Kingdom of God. A splendid testimony to this fact stands
+in Acts 17.
+
+VERSE 3. For I placed all this in my mind in order to explain it all: the
+righteous and the wise, and their deeds, are in the hand of God himself.
+Human beings use neither the thing loved nor the thing hated; neither is
+
+[Google Books pthrWjdL0BgC | reader image PA333 | printed pp. 333–334 | begins with complete expositam after divided exposi- / tam on p. 332; ends on p. 333 immediately before repeated Vers. 3]
+
+laid open to them.
+
+VERSE 4. The same outcome happens to all these people, just as to all the
+rest: to the righteous and the ungodly, to the good or pure and the impure, to
+the one who sacrifices as to the one who does not sacrifice, to the good as
+to the sinner, and to the one who swears as to the one who reveres an oath.
+
+VERSE 5. This is the worst thing in all that is done under the Sun: the same
+outcome belongs to everyone. Indeed, the heart of the children of human beings
+is filled with evil, and every madness resides in their heart as long as they
+live; afterward they likewise go to the dead.
+
+VERSE 6. For whichever is to be chosen, there is confidence throughout this
+life; indeed, a living dog is better than a dead lion.
+
+VERSE 7. For the living know that they will die, but the dead know nothing,
+nor do they have any further reward, since their memory has been given over to
+oblivion.
+
+VERSE 8. Both the thing they loved and the thing they hated, and also the
+thing they desired, have now perished for them, and they no longer have any
+part ever again in anything done under the Sun.
+
+Thus far has been the judgment of the Spirit concerning God's administration
+in the world; the judgment of the Flesh follows.
+
+In it are considered: 1. the preface to this judgment, verse 3; 2. the judgment
+of the Flesh itself, in the rest of the chapter.
+
+The preface embraces: 1. Solomon's exact diligence applied to searching out
+the judgment of the flesh; 2. the subject with which this judgment of the
+flesh is concerned.
+
+*Translator's notes:*
+
+The repeated chapter-opening lemma on printed p. 326 reads `cognoscendam
+sapientiam`; the earlier metaphrasis lemma reads `cognoscendum sapientiam`.
+The transcription preserves the repeated form governing this homiletic unit,
+and the English repeats the established wording “applied my mind to knowing
+wisdom.”
+
+The p. 326 catchword is `& ad`; the p. 328–329 join divides `com- / plectatur`;
+the p. 330 catchword is `Deus`; and the p. 332–333 join divides `exposi- /
+tam`. The paired texts place each complete continuation after the matching
+PA327, PA329, PA331, or PA333 marker.
+
+The Greek `ἀγχινοίας` means “acuteness” or “quickness of understanding,” and
+`ἀδυναμίαν` means “inability” or “powerlessness.” Both are retained at their
+points in Cartwright's analysis.
+
+The witness prints `Actor. 20.` beside the episode of Paul and the viper and
+`Iacob. 4.` beside the example of Job's patience. The paired texts retain these
+references as printed rather than silently replacing them with the expected
+locations. All other printed biblical references and the analytical numerals
+are likewise retained; no additional independent marginal note appears in
+this unit.
+
+The lemmata for verses 3–8 form an initial block after the exposition of
+verses 1–2. Printed p. 333 then supplies the analytical summary and begins the
+detailed exposition by repeating verse 3. This part stops immediately before
+that repetition.
+
+[End of Part 102. The next part begins on the same reader image PA333, printed
+p. 333, at the repeated lemma `VERSE 3. For I placed all this in my mind`.]

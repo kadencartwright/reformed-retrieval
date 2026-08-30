@@ -1977,3 +1977,21 @@ and the Greek `τῶν ἀδυνάτων`, `πολυποικίλης`, `περι
 This joint unit is bounded by the exact verse-16 lemma rather than by an
 arbitrary image count. The next unit begins on reader image `PA277` / printed
 p. 277 at `Vers. 16. Ne esto justus nimium`.
+
+**Part 90 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 7:16–19 lemma block, the summary and division, and
+the complete joint exposition on reader images `PA277`, `PA279`, and `PA281`.
+It begins on printed p. 277 at `Vers. 16. Ne esto justus nimium`, crosses the
+image join within `agendi`, and ends on printed p. 282 after the complete
+exposition of verse 19 and before the verse-20 lemma. The paired files have
+three exactly identical reader-image markers and retain the examples of the
+unnamed prophet, Saul, Timothy, the Corinthians, Naboth, David, and the angelic
+army, every printed biblical reference, the source's irregular constructions,
+and the Greek `Κατὰ ζῆλος`, `ἐπὶ τὸ πολὺ`, and `πάγχρηστον`:
+
+- `parts/part-90-homiliae-chapter-07-verses-16-19-latin.txt`
+- `parts/part-90-homiliae-chapter-07-verses-16-19-english.md`
+
+This joint unit is bounded by the exact verse-20 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA281` / printed
+p. 282 at `Vers. 20. Quamvis homo nemo sit justus in terra`.

@@ -86,7 +86,8 @@ then continues through the existence, unity, and essence of God, the opening
 taxonomy and rules of the divine attributes, the complete treatments of
 divine simplicity and infinity, including eternity, immutability, and
 immensity, and the opening rule for communicable attributes with the complete
-treatments of divine life, divine wisdom or knowledge, and the divine will.
+treatments of divine life, divine wisdom or knowledge, the divine will, and
+divine truth.
 Units that share a numbered column meet at the printed internal heading or
 section boundary in that column; neither pair duplicates matter across the
 join.
@@ -111,6 +112,7 @@ join.
 | 17 | Question IV: communicable attributes and divine life | 192–193 | 00112–00113 |
 | 18 | Question IV: divine wisdom or knowledge | 194–196 | 00113–00114 |
 | 19 | Question IV: divine will | 197–200 | 00115–00116 |
+| 20 | Question IV: divine truth | 200 | 00116 |
 
 For each row the normal pair is stored under `parts/` as a normalized Latin
 transcription (`-latin.txt`) and a fresh English translation (`-english.md`)
@@ -159,12 +161,18 @@ In Part 18 the Greek word `βλεπομένων` and the Latin word `cogitationi
 numbered-column boundaries and are represented by synchronized splits in both
 files.
 
-**Exact resume boundary:** Part 19 ends in column 200 at BSB frame 00116 with
-the list of names given to the one divine will, `castitas, &c.` The heading
-`De Veritate Dei.` begins immediately afterward in the same column and is
-excluded. The treatment of divine truth is the next untranscribed text. In
-Part 19 the Latin words `beneplaciti` and `Malum` cross numbered-column
-boundaries and are represented by synchronized splits in both files.
+**Part-19/Part-20 join:** Part 19 ends in column 200 at BSB frame 00116 with
+the list of names given to the one divine will, `castitas, &c.` Part 20 begins
+immediately afterward in the same column at `De Veritate Dei.` No text is
+omitted or duplicated at the join. In Part 19 the Latin words `beneplaciti`
+and `Malum` cross numbered-column boundaries and are represented by
+synchronized splits in both files.
+
+**Exact resume boundary:** Part 20 ends in column 200 at BSB frame 00116 with
+the fourth use of the doctrine of divine truth, `licèt nobis quae promisit
+impossibilia esse videantur.` The heading `De Bonitate Dei.` begins immediately
+afterward in the same column and is excluded. The treatment of divine goodness
+is the next untranscribed text.
 
 ## Editorial method and status
 
@@ -298,3 +306,9 @@ Both files are AI-assisted and unreviewed.
 - The small Greek types in columns 197–198 have been normalized to Unicode
   directly from the page images but should receive specialist collation before
   publication.
+
+## Printed anomalies in Part 20
+
+- Column 200 prints `Iere. 0 10.` in the proofs of divine truth; Jeremiah
+  10:10 appears to be intended. The printed locator is retained and noted in
+  the English.

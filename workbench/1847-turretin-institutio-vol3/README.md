@@ -683,3 +683,30 @@ below it on that page and is excluded.
 The next restart point is `QUÆSTIO XXV. DE VOCATIONE PRIMORUM REFORMATORUM.
 An Vocatio Primorum Reformatorum fuerit legitima. Affirm. cont. Pontif.` on
 shared printed p. 199 / IA leaf 233 / PDF p. 233.
+
+## Part 25
+
+Part 25 contains the complete Locus XVIII, Question XXV, “De Vocatione
+Primorum Reformatorum.” It begins with the question heading on shared printed
+p. 199 / IA leaf 233 / PDF p. 233, immediately after Question XXIV, and ends
+with section XXXI on printed p. 208 / IA leaf 242 / PDF p. 242. Question XXVI,
+“De Coniugio Clericorum,” begins on the next printed page and is excluded.
+
+- Latin: `parts/part-25-locus-18-question-25-latin.txt`
+- English: `parts/part-25-locus-18-question-25-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XXXI, and three synchronized marginalia blocks.
+- All ten page images and all nine page joins were checked directly against
+  the scan. The pp. 205–206 join divides `ministerium`; the word is joined,
+  with the p. 206 marker placed before the complete Latin word and its English
+  counterpart.
+- The transcription retains all eleven printed Greek expressions and the
+  printed abbreviation `D:us`. `[sic]` identifies the witness’s logically
+  disruptive `Ubi est vocatio vera, ibi est Ecclesia vera` and the malformed
+  `idem illum munus`; the English identifies the first anomaly explicitly and
+  translates the evident sense in both places.
+
+The next restart point is `QUÆSTIO XXVI. DE CONIUGIO CLERICORUM. An Cœlibatus
+perpetuus, ex instituto Apostolico, ordini sacro necessario sit servandus? An
+vero licitum sit Ministris sacris Conjugium? Prius Neg. Poster. Affir. cont.
+Pontif.` on printed p. 209 / IA leaf 243 / PDF p. 243.

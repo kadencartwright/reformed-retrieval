@@ -511,6 +511,17 @@ source marker.
 The next unit resumes on printed p. 86 / canvas 00112 with `II. Modo, (inquit)
 Deus ab aeterno habet praesens non solum esse futurum...`.
 
+Part 46 spans **printed pp. 86–87 / BSB canvases 00112–00113** and contains
+Twisse's complete numbered movement II on Penottus's reformulation of actual
+existence and the proper state of the question. It ends before Penottus's new
+`Secundo in opinione D. Thom.` proposition and has two identical markers.
+
+- `parts/part-46-penottus-book-03-chapter-17-numbered-movement-02-latin.txt`
+- `parts/part-46-penottus-book-03-chapter-17-numbered-movement-02-english.md`
+
+The next unit resumes on printed p. 87 / canvas 00113 with `Secundo in opinione
+D. Thom. aeternitas eatenus est mensura rerum...`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

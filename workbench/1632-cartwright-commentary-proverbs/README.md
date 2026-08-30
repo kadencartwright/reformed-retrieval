@@ -1164,7 +1164,40 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22b-latin.txt`
 - `parts/part-22-chapter-22b-english.md`
 
-The next unit begins with `V. 6. Institue puerum pro ratione viae suae: etiam
-cum senuerit, non recedet ab illa.` in the right column of shared PDF 491 /
-printed column 967; restart at that lemma, excluding every verse 5 sentence
-above it.
+**Part 22c is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `V. 6. Institue puerum pro
+ratione viae suae: etiam cum senuerit, non recedet ab illa.` in the right
+column of shared PDF 491 / printed column 967 through the final prose of verse
+7 on PDF 494 / printed column 972, ending `cum carceri, ubi nec sibi, nec aliis
+prodesse potest addicitur.` It stops immediately before `Vers. 8. Seminator
+iniquitatis metet molestiam, & virga furoris sui consumetur.` in that same left
+column. Latin and English have four byte-identical source markers (PDF
+491–494; synchronized printed columns 966–967 through 972–973) and retain both
+verse lemmata, full in-scope prose, Hebrew, Greek, citations, abbreviations,
+and printing irregularities. The complete files contain 1,211 Latin-file and
+1,764 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 491–494, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-491 marker begins only at `V.
+6.` in the right column; every verse 5 sentence above it is excluded. At the
+PDF-491/492 turn, the catchword `In` was excluded, while whole `In` and its
+corresponding English wording were assigned to PDF 492. At the PDF-492/493
+turn, the catchword fragment `juven-` was excluded: the whole `juventute` and
+its corresponding English `youth` were assigned to PDF 493. At the
+PDF-493/494 turn, the catchword `Hoc` was excluded, while whole `Hoc` and its
+corresponding English wording were assigned to PDF 494. The final PDF-494
+marker contains only the verse 7 prose ending `addicitur.` above `Vers. 8.`;
+no verse 8 material or right-column text is imported. Witness forms including
+`חנך על פי`, `imbellicitatem`, `παιδεία`, `ὡς τὸ πολὺ`, `conscelerârunt`,
+`αἱ γὰρ δεσποτῶν δεήσεις ἀνάγκη εἰσί`, `eisque pauperes petant`, `herile
+regio`, `ne capite quidem expectato`, and `non multo mitius aut etiam durius`
+were retained. This remains an AI-assisted working edition requiring
+qualified human review.
+
+- `parts/part-22-chapter-22c-latin.txt`
+- `parts/part-22-chapter-22c-english.md`
+
+The next unit begins with `Vers. 8. Seminator iniquitatis metet molestiam, &
+virga furoris sui consumetur.` in the left column of shared PDF 494 / printed
+column 972; restart at that lemma, excluding every verse 7 sentence above it.

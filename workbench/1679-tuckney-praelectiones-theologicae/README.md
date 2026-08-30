@@ -948,6 +948,23 @@ is excluded.
 - English: `parts/part-55-romans-04-05-abraham-31-english.md`
 - Extent: three synchronized markers, printed pp. 274–276 / IA leaves 282–284
 
+## Part 56: thirty-second unit of the Romans 4:5 lecture
+
+Part 56 supplies Tuckney's final principal proof that the remnants of
+indwelling sin are wholly removed at death. From Romans 7:24 he reconciles
+the interpretations of the “body of death” as death-dealing sin and as the
+mortal body: death, sin's daughter, finally destroys the mother that first
+introduced it. Origen, Ambrose, Augustine, Calvin, Piscator, Erasmus, Louis
+de Dieu, Grotius, Theophylact, Estius, Beza, and Pareus are brought into the
+exposition. It runs from `Ultimo ad sententiam nostram stabiliendam` on
+printed p. 276 / IA leaf 284 through Tuckney's answer to the boast that no
+Scripture supports his position on printed p. 278 / IA leaf 286. The
+additional proofs beginning `Quibus et alii adjungi possunt` are excluded.
+
+- Latin: `parts/part-56-romans-04-05-abraham-32-latin.txt`
+- English: `parts/part-56-romans-04-05-abraham-32-english.md`
+- Extent: three synchronized markers, printed pp. 276–278 / IA leaves 284–286
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

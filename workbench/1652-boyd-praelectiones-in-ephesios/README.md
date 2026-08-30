@@ -64,6 +64,7 @@ same scan can legitimately close one part and open the next:
 | 19 | XIX | 108–113 | 66–71 | `Sequitur nunc, ut Electos Christo unitos consideremus` through the elect angels and humanity, the efficient, impelling, and final causes of election, and `Atque hæc de causâ Electionis nostræ finali disseruisse sufficiat` before Lecture XX; scan 107 has only the omitted catchword `Sequitur` |
 | 20 | XX | 113–119 | 71–77 | `Sequuntur jam, priusquam ad effecta veniamus` through the four conditions and four temporal effects of election, the opening corollary on its signs and assurance, and `Ita etiam cum vero Spiritus Sancti testimonio, multa alia dona, gratiæque speciales conjuncta sunt` before Lecture XXI |
 | 21 | XXI | 119–126 | 77–84 | `In quibus vobis paulò distinctius exprimendis & enarrandis adhuc visum est immorari` through the gifts peculiar to the elect, the internal and external signs of election, and `quod primum ac præcipuum erat Corollarium nobis ex doctrinâ præcedente deducendum` before Lecture XXII |
+| 22 | XXII | 126–130 | 84–88 | `Secundum Corollarium, ad Electionis conjugata, h.e. Electos ipsos pertinebit` through the fixed number of the elect, the final election corollary, and the name, scriptural basis, definition, two acts, and final causes of reprobation, ending `Atque hæc de ejus causâ finali dicta sunto` before Lecture XXIII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -124,8 +125,9 @@ English translation:
 | 19 | The elect and the causes of election | [`part-19-praelection-19-the-elect-and-causes-of-election-latin.txt`](parts/part-19-praelection-19-the-elect-and-causes-of-election-latin.txt) | [`part-19-praelection-19-the-elect-and-causes-of-election-english.md`](parts/part-19-praelection-19-the-elect-and-causes-of-election-english.md) |
 | 20 | The conditions, effects, and signs of election | [`part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt) | [`part-20-praelection-20-conditions-effects-and-signs-of-election-english.md`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-english.md) |
 | 21 | The gifts and signs distinguishing the elect | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt) | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md) |
+| 22 | The fixed number of the elect and the causes of reprobation | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt) | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md) |
 
-The completed sequence now extends through Lecture XXI. Its successive subjects
+The completed sequence now extends through Lecture XXII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -250,6 +252,16 @@ and whole-life obedience extending to every command. The lecture closes with
 pastoral counsel for those who find only the smallest beginnings of grace or
 no present assurance, directing them to persistent repentance, prayer, the
 word, and hope rather than despair.
+Lecture XXII establishes the fixed number of the elect, many when considered
+in themselves but few in comparison with the reprobate, and concludes that
+living faith, the saving promises, Christ’s benefits, membership in the
+invisible Church, and final perseverance belong to the elect alone. It then
+turns from election to reprobation, defends the term and doctrine from
+Scripture, defines its human and angelic objects, and distinguishes passing
+over from the decree to condemn for sin. The lecture denies that reprobation
+is the proper cause of sin or condemnation and concludes by treating the
+manifestation of divine justice as its supreme end and the admonition,
+humility, gratitude, and consolation of the elect as its subordinate end.
 
 ## Validation
 

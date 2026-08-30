@@ -445,6 +445,19 @@ excluded.
 - English: `parts/part-23-romans-01-17-justification-22-english.md`
 - Extent: seven synchronized markers, printed pp. 149–155 / IA leaves 157–163
 
+## Part 24: twenty-third unit of the Romans 1:17 lecture
+
+Part 24 contains Tuckney's appendix evaluating a recent paraphrast's proposed
+twofold sense of `law`, including its application to Gnostic opponents and
+to Paul's exclusion of works from justification. It runs from `Appendicis
+loco amicum et placidum examen` on printed p. 155 / IA leaf 163 through the
+appendix's conclusion on printed p. 161 / IA leaf 169. The new lecture on
+Romans 4:5 is excluded.
+
+- Latin: `parts/part-24-romans-01-17-justification-23-latin.txt`
+- English: `parts/part-24-romans-01-17-justification-23-english.md`
+- Extent: seven synchronized markers, printed pp. 155–161 / IA leaves 163–169
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -43,9 +43,9 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
   Chapter VII), printed pp. 28–31.
 - IA scans `n249`–`n253`: Part 06, Book I, Chapter VII, printed pp. 32–36.
 - IA scans `n253`–`n257`: Part 07, Book II, Chapter I, printed pp. 36–40.
-- The next unit begins at the excluded `CAP. II. De Ecclesiae visibilitate, &
-  immunitate ab errore` heading on the lower portion of printed p. 40 / IA scan
-  `n257`.
+- IA scans `n257`–`n261`: Part 08, Book II, Chapter II, printed pp. 40–44.
+- The next unit begins at the excluded `CAP. III. De Ecclesiae Notis.` heading
+  on the lower portion of printed p. 44 / IA scan `n261`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -160,6 +160,22 @@ heading and text on that shared page are excluded.
   IA scans `n253`–`n257`.
 - All ten numbered points and replies are present.
 
-The next unit begins at the excluded `CAP. II. De Ecclesiae visibilitate, &
-immunitate ab errore` heading on the lower portion of printed p. 40 / IA scan
-`n257`.
+**Part 08 is complete as an AI-assisted working draft.** It contains Book II,
+Chapter II, on the visibility of the Church and its immunity from error. It
+begins at the Chapter II heading on the lower portion of printed p. 40 / IA
+scan `n257` and ends with the completion of numbered point 9 on the upper
+portion of printed p. 44 / IA scan `n261`. The Chapter III heading and text on
+that shared page are excluded.
+
+- `parts/part-08-book-02-chapter-02-latin.txt`
+- `parts/part-08-book-02-chapter-02-english.md`
+- Both files contain five synchronized source markers for printed pp. 40–44 /
+  IA scans `n257`–`n261`.
+- Printer-divided `quotidianum` at the pp. 41–42 turn and `columna` at the pp.
+  42–43 turn are joined; in each file the incoming page marker precedes the
+  complete joined word or its English equivalent.
+- The five included scan frames are approximately 0.59% of the controlling
+  witness's 851 frames, below the global 1% ceiling.
+
+The next unit begins at the excluded `CAP. III. De Ecclesiae Notis.` heading on
+the lower portion of printed p. 44 / IA scan `n261`.

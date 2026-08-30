@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–33.
+checked page by page against canvases 9–34.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -84,6 +84,11 @@ made here for the Latin transcription, witness images, or metadata.
   Perkins's proposition that God acts prudently through Twisse's reply on
   action, permission, prudence, and divine production; it ends on p. 25
   immediately before `SECTIO SEXTA NOTIO IV`.
+- BSB canvases 33–34: Part 09 contains the complete `SECTIO SEXTA NOTIO IV`,
+  from Perkins's proposition on divine immutability through Arminius's account
+  of effecting and permissive decrees and Twisse's four-part reply on the
+  creature's changes, divine providence, and the illustration of God's glory;
+  it ends on p. 26 immediately before `SECTIO SEPTIMA NOTIO V`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -216,7 +221,22 @@ two substantive scholarly marginalia are retained.
 - Latin: `parts/part-08-preface-section-05-notion-03-divine-prudence-latin.txt`
 - English: `parts/part-08-preface-section-05-notion-03-divine-prudence-english.md`
 
-The next untranslated unit begins with the centered `SECTIO SEXTA NOTIO IV`
-on printed p. 25 / BSB canvas 33 and Perkins's proposition `Deum non mutari;
-& ea quae mutantur, certis & fixis omnibus circumstantiis non sine immutabili
-ipsius decreto mutari`.
+**Part 09 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO SEXTA NOTIO IV`, beginning
+on shared printed p. 25 / BSB canvas 33 with Perkins's proposition `Deum non
+mutari; & ea quae mutantur, certis & fixis omnibus circumstantiis non sine
+immutabili ipsius decreto mutari`. It preserves Arminius's account of God's
+immutable effecting and permissive decrees and Twisse's complete four-part
+reply on the limits of created change, bringing a creature into order, divine
+providence, permission, and the illustration of God's glory. It continues
+through printed p. 26 / canvas 34 and ends immediately before the centered
+`SECTIO SEPTIMA NOTIO V`. The pair has two identical source markers; the p.
+25–26 join `demonstra-` / `re` is normalized as `demonstrare` after the p. 26
+marker, and the substantive `pag. 27. 28.` marginal reference is retained.
+
+- Latin: `parts/part-09-preface-section-06-notion-04-divine-immutability-latin.txt`
+- English: `parts/part-09-preface-section-06-notion-04-divine-immutability-english.md`
+
+The next untranslated unit begins with the centered `SECTIO SEPTIMA NOTIO V`
+on printed p. 26 / BSB canvas 34 and Perkins's proposition `Judicia Dei
+occulta & inscrutabilia honoranda esse & agnoscenda`.

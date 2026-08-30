@@ -273,6 +273,24 @@ the opposing arguments and is excluded.
   references are retained in both files; the short Greek phrases are
   translated or contextually glossed in the English.
 
+## Part 11: tenth unit of the Romans 1:17 lecture
+
+Part 11 begins Tuckney's answers to the opposing arguments concerning
+ceremonial works. It answers the appeal to Paul's frequent mention of
+circumcision and then refutes Alfonso de Castro's inference from the
+juxtaposition of justification without works and God as God of Jews and
+Gentiles. It begins with `Restant tandem ad hanc absolvendam controversiam
+quaedam Adversariorum argumenta diluenda` on printed p. 106 / IA leaf 114 and
+ends with `ut prius ostendimus` partway down printed p. 109 / IA leaf 117. The
+next sentence, `Sed exauctorato tandem Alphonsi argumento, videamus an magis
+pro hac causa ...`, turns to Domingo de Soto's arguments and is excluded.
+
+- Latin: `parts/part-11-romans-01-17-justification-10-latin.txt`
+- English: `parts/part-11-romans-01-17-justification-10-english.md`
+- Extent: four synchronized markers, printed pp. 106–109 / IA leaves 114–117
+- Scripts and disclosure: Greek expressions and marginal source references
+  are retained in both files and contextually glossed in the English.
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

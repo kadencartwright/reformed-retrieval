@@ -1297,6 +1297,22 @@ cum Osiandro agamus`, are excluded.
 - English: `parts/part-76-romans-04-05-abraham-52-english.md`
 - Extent: four synchronized markers, printed pp. 302–305 / IA leaves 310–313
 
+## Part 77: fifty-third unit of the Romans 4:5 lecture
+
+Part 77 presents Tuckney's four concessions to Osiander: God as the efficient
+source of righteousness, the necessity of Christ's two natures, the true
+forms of divine indwelling and union with Christ, and the inseparable but
+distinct gifts of justification and sanctification. It then identifies the
+remaining disagreement over participation in God's essential righteousness
+and explains the ensuing digression. It runs from `Sed ut magis liberaliter
+cum Osiandro agamus` on printed p. 305 / IA leaf 313 through the transition
+to direct refutation on printed p. 306 / IA leaf 314. The refutation,
+beginning `Sed quod nostrum est`, is excluded.
+
+- Latin: `parts/part-77-romans-04-05-abraham-53-latin.txt`
+- English: `parts/part-77-romans-04-05-abraham-53-english.md`
+- Extent: two synchronized markers, printed pp. 305–306 / IA leaves 313–314
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

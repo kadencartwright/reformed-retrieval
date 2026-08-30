@@ -42,9 +42,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
 - IA scans `n245`–`n248`: Part 05, the sixth question of Book I (printed as
   Chapter VII), printed pp. 28–31.
 - IA scans `n249`–`n253`: Part 06, Book I, Chapter VII, printed pp. 32–36.
-- The next unit begins at the excluded `LIBER SECUNDUS. DE ECCLESIA. CAP. I.
-  De Ecclesiae definitione` heading on the lower portion of printed p. 36 / IA
-  scan `n253`.
+- IA scans `n253`–`n257`: Part 07, Book II, Chapter I, printed pp. 36–40.
+- The next unit begins at the excluded `CAP. II. De Ecclesiae visibilitate, &
+  immunitate ab errore` heading on the lower portion of printed p. 40 / IA scan
+  `n257`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -146,6 +147,19 @@ of argument 11. The Book II heading and text on that shared page are excluded.
   IA scans `n249`–`n253`.
 - All eleven numbered arguments and replies are present.
 
-The next unit begins at the excluded `LIBER SECUNDUS. DE ECCLESIA. CAP. I. De
-Ecclesiae definitione` heading on the lower portion of printed p. 36 / IA scan
-`n253`.
+**Part 07 is complete as an AI-assisted working draft.** It contains Book II,
+Chapter I, on the definition of the Church. It begins at the `LIBER SECUNDUS.
+DE ECCLESIA. CAP. I. De Ecclesiae definitione` heading on the lower portion of
+printed p. 36 / IA scan `n253` and ends with the final sentence of numbered
+point 10 on the upper portion of printed p. 40 / IA scan `n257`. The Chapter II
+heading and text on that shared page are excluded.
+
+- `parts/part-07-book-02-chapter-01-latin.txt`
+- `parts/part-07-book-02-chapter-01-english.md`
+- Both files contain five synchronized source markers for printed pp. 36–40 /
+  IA scans `n253`–`n257`.
+- All ten numbered points and replies are present.
+
+The next unit begins at the excluded `CAP. II. De Ecclesiae visibilitate, &
+immunitate ab errore` heading on the lower portion of printed p. 40 / IA scan
+`n257`.

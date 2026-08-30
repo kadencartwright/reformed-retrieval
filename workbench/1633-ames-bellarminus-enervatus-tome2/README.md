@@ -45,9 +45,9 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
 - IA scans `n253`–`n257`: Part 07, Book II, Chapter I, printed pp. 36–40.
 - IA scans `n257`–`n261`: Part 08, Book II, Chapter II, printed pp. 40–44.
 - IA scans `n261`–`n275`: Part 09, Book II, Chapter III, printed pp. 44–58.
-- The next unit begins at the excluded `LIBER TERTIUS. DE CLERICIS. CAP. I. De
-  nomine Clericorum.` heading on the lower portion of printed p. 58 / IA scan
-  `n275`.
+- IA scans `n275`–`n278`: Part 10, Book III, Chapter I, printed pp. 58–61.
+- The next unit begins at the excluded `CAP. II. De vocatione Ministrorum.`
+  heading on printed p. 62 / IA scan `n279`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -196,6 +196,23 @@ The Book III heading and text on that shared page are excluded.
   the incoming page marker precedes the complete joined word or its English
   equivalent.
 
-The next unit begins at the excluded `LIBER TERTIUS. DE CLERICIS. CAP. I. De
-nomine Clericorum.` heading on the lower portion of printed p. 58 / IA scan
-`n275`.
+**Part 10 is complete as an AI-assisted working draft.** It contains Book III,
+Chapter I, on the name “Clerics.” It begins at the `LIBER TERTIUS. DE CLERICIS.
+CAP. I. De nomine Clericorum.` heading on the lower portion of printed p. 58 /
+IA scan `n275` and ends with the final sentence of numbered point 7 on printed
+p. 61 / IA scan `n278`. The Chapter II heading and text beginning on the next
+page are excluded.
+
+- `parts/part-10-book-03-chapter-01-latin.txt`
+- `parts/part-10-book-03-chapter-01-english.md`
+- Both files contain four synchronized source markers for printed pp. 58–61 /
+  IA scans `n275`–`n278`.
+- The opening thesis and all numbered points 2–7 are present.
+- Printer-divided `eorum` at the pp. 59–60 turn is joined; in each file the
+  incoming page marker precedes the complete joined word or its English
+  equivalent.
+- Within point 5 the witness numbers the final subpoint `IV` after subpoint
+  `V`; the Latin and English retain this repeated numeral.
+
+The next unit begins at the excluded `CAP. II. De vocatione Ministrorum.`
+heading on printed p. 62 / IA scan `n279`.

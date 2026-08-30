@@ -1465,6 +1465,22 @@ ultimo ut de obligatione dicamus`, is excluded.
 - English: `parts/part-87-moral-law-02-english.md`
 - Extent: four synchronized markers, new-series fols. 19–22 / IA leaves 339–342
 
+## Part 88: third unit on the moral law under the gospel
+
+Part 88 treats the first two distinctions governing the moral law's mode of
+obligation. Tuckney distinguishes the law as covenant from the law as rule,
+explains believers' freedom from the covenant of works and the old legal
+administration of grace, and argues that moral obligation arises both from
+the subject matter and from the authority of God the legislator. It runs
+from `Restat ultimo ut de obligatione dicamus` on new-series fol. 22 / IA
+leaf 342 through `Atque haec secunda Distinctio fuit` on new-series fol. 25 /
+IA leaf 345. The third distinction, beginning `Tertia haec est, Lex moralis
+spectari potest`, is excluded.
+
+- Latin: `parts/part-88-moral-law-03-latin.txt`
+- English: `parts/part-88-moral-law-03-english.md`
+- Extent: four synchronized markers, new-series fols. 22–25 / IA leaves 342–345
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

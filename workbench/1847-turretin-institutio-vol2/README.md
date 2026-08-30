@@ -13,7 +13,7 @@
 - **Edition:** Edinburgh, John D. Lowe, 1847
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
   Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, through Question VIII
+  Testamento*, through Question IX
 
 ## Controlling witness and rights
 
@@ -38,15 +38,15 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–34 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–35 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Questions I–VIII, from printed p. 3 / PDF 31 through section XXV on printed p.
-212 / PDF 240. Part 27 also includes the Locus XII divisional title on PDF 177
-and its blank verso on PDF 178. The sequence comprises 778 numbered sections
-across 207 numbered text pages and 235 source markers in each language (233
+Questions I–IX, from printed p. 3 / PDF 31 through section XX on printed p.
+218 / PDF 246. Part 27 also includes the Locus XII divisional title on PDF 177
+and its blank verso on PDF 178. The sequence comprises 798 numbered sections
+across 213 numbered text pages and 242 source markers in each language (240
 printed-page markers plus the two divisional-leaf markers in Part 27). The
-complete Latin files contain 114,156 whitespace-delimited words and the
-complete English files 155,646, counted over Parts 01–34 with `wc -w`. Each
+complete Latin files contain 117,377 whitespace-delimited words and the
+complete English files 159,952, counted over Parts 01–35 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -86,6 +86,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 32 | Locus XII, Question VI | printed pp. 182–191 / PDFs 210–219 | XXXII | 10 | `part-32-locus-12-question-06-{latin.txt,english.md}` |
 | 33 | Locus XII, Question VII | printed pp. 192–206 / PDFs 220–234 | XLIX | 15 | `part-33-locus-12-question-07-{latin.txt,english.md}` |
 | 34 | Locus XII, Question VIII | printed pp. 206–212 / PDFs 234–240 | XXV | 7 | `part-34-locus-12-question-08-{latin.txt,english.md}` |
+| 35 | Locus XII, Question IX | printed pp. 212–218 / PDFs 240–246 | XX | 7 | `part-35-locus-12-question-09-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -331,10 +332,30 @@ at pp. 210/211 are normalized as `gratuitum` and `sanguinem`, with the incoming
 marker placed before each complete word in both files. The visibly printed
 `quibus totus umbraticus et carnalis fuit` in section XXII on printed p. 211
 is retained in the Latin with `[sic]`; the syntax requires `qui` as the
-relative subject of `fuit`. No supplementary witness was needed. The exact
-next restart is `QUAESTIO IX. DE SPONSORE FOEDERIS GRATIAE. An Christus sub V.
-T. habuerit tantum rationem Sponsoris Fidejussoris, An etiam Expromissoris? Pr.
-Neg., Poster. Affirm.` on printed p. 212 / PDF 240.
+relative subject of `fuit`. No supplementary witness was needed. Question IX
+asks whether Christ’s suretyship under the Old Testament had merely the civil
+character of *fidejussio* or also the more effective character of
+*expromissio*. It argues from the nature of Christ’s suretyship, God, the
+divine-human Surety, the elect, and the suretyship’s effects that Christ’s
+eternal undertaking truly released the fathers from personal liability, while
+also distinguishing penal substitution from a complete transfer of monetary
+debt and from civil novation, in twenty sections. It begins at the Question IX
+heading below the close of Part 34 on printed p. 212 / PDF 240 and ends with
+section XX before Question X on printed p. 218 / PDF 246. The Latin and
+English files contain 3,221 and 4,306 whitespace-delimited words respectively,
+counted over each complete file with `wc -w`. Both carry all seven page
+markers in the same sequence and retain both substantive marginal headings,
+citations, and Greek. The printer-divided `ut-/raque` at the printed pp.
+213/214 join and `di-/cendum` at pp. 215/216 are normalized as `utraque` and
+`dicendum`, with the incoming marker placed before each complete word in both
+files. The visibly printed `non desinunt ese nostras` in section XVI on
+printed p. 217 is retained in the Latin with `[sic]`; the grammar requires
+`esse`. No supplementary witness was needed. The exact next restart is
+`QUAESTIO X. DE STATU PATRUM SUB VET. TEST. An Patres sub Vet. Test. dici
+possint fuisse adhuc sub ira Dei, et maledictione Legis, et permansisse in
+reatu peccati, usque ad mortem Christi; Nec habuisse ἄφεσιν, seu plenam et
+proprie dictam remissionem peccatorum, sed tantum πάρεσιν? D.` on printed p.
+218 / PDF 246.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

@@ -552,3 +552,32 @@ The next restart point is `QUÆSTIO XX. An Primatus, qui obtinet in Ecclesia
 Romana, ab initio sit constitutus? An vero paulatim et per gradus in decursu
 seculorum invectus sit? Prius Negamus. Poster. Affirm.` on shared printed p.
 160 / IA leaf 194 / PDF p. 194.
+
+## Part 20
+
+Part 20 contains the complete Locus XVIII, Question XX, beginning “An
+Primatus, qui obtinet in Ecclesia Romana, ab initio sit constitutus?” It
+begins with the question heading on shared printed p. 160 / IA leaf 194 / PDF
+p. 194, immediately after Question XIX, and ends with section XIX on shared
+printed p. 169 / IA leaf 203 / PDF p. 203. Question XXI begins below it on
+that page and is excluded.
+
+- Latin: `parts/part-20-locus-18-question-20-latin.txt`
+- English: `parts/part-20-locus-18-question-20-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XIX, and one synchronized marginalia block.
+- All ten page images and all nine page joins were checked directly against
+  the scan. The pp. 161–162, 163–164, 165–166, and 168–169 joins divide
+  `excommunicat`, `competebat`, `regerent`, and `sacrarumque`; each word is
+  joined, with the new-page marker placed before the complete Latin word and
+  its English counterpart.
+- The transcription retains all printed Greek. `[sic]` identifies the
+  witness’s disruptive `in alium imperium`, `potestatim`, `acqusivit`,
+  `Palchasino`, `urbis regina`, `sub uno Capite Papa`, and `illi merentes`;
+  the English translates the evident sense without silently altering the
+  Latin witness.
+
+The next restart point is `QUÆSTIO XXI. DE DISTINCTIONE EPISCOPI ET
+PRESBYTERI. An Episcopatus sit Ordo, aut gradus Hierarchiæ Ecclesiasticæ a
+Presbyteratu distinctus, et superior Jure divino? Neg.` on shared printed p.
+169 / IA leaf 203 / PDF p. 203.

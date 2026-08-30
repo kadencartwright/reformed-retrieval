@@ -100,8 +100,18 @@ four synchronized printed-column markers:
 - `parts/part-05-church-triumphant-question-05-opening-arguments-latin.txt`
 - `parts/part-05-church-triumphant-question-05-opening-arguments-english.md`
 
-The next continuation boundary is therefore `OBIECTIONES`, beginning with
-Objection 1 from Job 42:8 in printed column 45 on BSB canvas 23.
+**Part 06 is complete as an AI-assisted, unreviewed working draft.** It
+contains the complete series of Objections 1–14 to Question V, on the
+invocation of the saints, in printed columns 45–51. It begins with Objection 1
+from Job 42:8 and ends after the response to Objection 14, immediately before
+`CONTROVERSIA II. De cultu Imaginum`; it contains seven synchronized
+printed-column markers:
+
+- `parts/part-06-church-triumphant-question-05-objections-latin.txt`
+- `parts/part-06-church-triumphant-question-05-objections-english.md`
+
+The next continuation boundary is therefore `CONTROVERSIA II. De cultu
+Imaginum`, beginning in printed column 51 on BSB canvas 26.
 
 ## Review and licensing notice
 

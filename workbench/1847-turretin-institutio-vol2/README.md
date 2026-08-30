@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XV
+  Statu Christi*, begun through Question XVI
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–53 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–54 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XV, from printed p. 3 / PDF 31
-through section XIV on printed p. 317 / PDF 345. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XVI, from printed p. 3 / PDF 31
+through section XI on printed p. 319 / PDF 347. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,187 numbered sections across 309 unique numbered
-text pages and 354 source markers in each language (350 printed-page markers
+268. The sequence comprises 1,198 numbered sections across 311 unique numbered
+text pages and 357 source markers in each language (353 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 170,830 whitespace-delimited words and the complete English files
-233,318, counted over Parts 01–53 with `wc -w`. Each part is a complete question,
+contain 172,208 whitespace-delimited words and the complete English files
+235,131, counted over Parts 01–54 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -108,6 +108,7 @@ the substantive marginal headings.
 | 51 | Locus XIII, Question XIII | printed pp. 306–309 / PDFs 334–337 | XVI | 4 | `part-51-locus-13-question-13-{latin.txt,english.md}` |
 | 52 | Locus XIII, Question XIV | printed pp. 309–313 / PDFs 337–341 | XV | 5 | `part-52-locus-13-question-14-{latin.txt,english.md}` |
 | 53 | Locus XIII, Question XV | printed pp. 313–317 / PDFs 341–345 | XIV | 5 | `part-53-locus-13-question-15-{latin.txt,english.md}` |
+| 54 | Locus XIII, Question XVI | printed pp. 317–319 / PDFs 345–347 | XI | 3 | `part-54-locus-13-question-16-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -826,9 +827,27 @@ images are the controlling witness; the specified OCR excerpt was used only
 as an aid. No supplementary witness was needed. The Question XVI heading and
 body later on printed p. 317 / PDF 345 are excluded.
 
-Part 53's exact next restart is `QUAESTIO XVI. An Descensus ad Inferos recte ad
-Cruciatus infernales, et ad statum abjectissimum sub dominio mortis in
-sepulchro referatur? Affirm.` on printed p. 317 / PDF 345.
+Question XVI considers the two principal orthodox interpretations of the
+descent to hell: Christ's infernal torments in the soul and his detention in
+the tomb under the dominion of death. It argues that neither interpretation
+should be rejected and reconciles them as the final degree of Christ's
+emptying with respect to soul and body, in eleven sections. It begins at the
+Question XVI heading below section XIV of Part 53 on printed p. 317 / PDF 345
+and ends with section XI on printed p. 319 / PDF 347 immediately before
+Question XVII. The Latin and English files contain 1,378 and 1,813
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all three printed-page markers in the same sequence and
+retain all five substantive marginal headings, citations, and scan-exact
+Greek and Hebrew. The printed pp. 317/318 join falls between sections II and
+III. At the pp. 318/319 join, the printer-divided `cru-/ciatus` is normalized
+as `cruciatus`, with the incoming marker placed before the complete word in
+both files. The three supplied page images are the controlling witness; the
+specified OCR excerpt was used only as an aid. No supplementary witness was
+needed. The Question XVII heading and body later on printed p. 319 / PDF 347
+are excluded.
+
+Part 54's exact next restart is `QUAESTIO XVII. An Christus propria virtute
+resurrexerit? Affirm. contra Socin.` on printed p. 319 / PDF 347.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

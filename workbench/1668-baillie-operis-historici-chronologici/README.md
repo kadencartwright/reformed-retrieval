@@ -705,6 +705,32 @@ the transcription; OCR served only as an aid. The body word divided at the p.
 marker, and all included printed marginalia are retained. The pair remains an
 AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 36 boundary and status
+
+Part 36 is a synchronized Latin/English working pair with exactly four
+markers: partial printed pp. 218 and 221 and complete pp. 219–220, IA leaves
+248–251, access-PDF pp. 248–251, and DjVu OCR objects 247–250. It begins in
+the left column of printed p. 218 immediately after Part 35 with `Successorum
+Alexandri potentia & gloria jam vergebat in occasum ...`. It contains the
+Macedonian succession from Demetrius through Antigonus Doson and Philip;
+Agis’s and Cleomenes’s Spartan reforms and their fall; Antigonus’s victory and
+death; the Roman war with Teuta; Philip’s dealings with the Aetolians,
+Achaeans, Hannibal, Athens, Cius, and Rhodes; Flamininus’s defeat and settlement
+of Philip; the Roman withdrawal from Greece; and Philopoemen’s military reform
+of the Achaeans. It ends in the left column of printed p. 221 after
+Philopoemen’s citizen army defeats the Lacedaemonians and Nabis and is judged
+equal to the Roman legions.
+
+The next paragraph, `Praecipua Aetolorum cura & spes fuit Antiochus ...`,
+begins immediately below and is wholly excluded. The four controlling 300-dpi
+page images, `pdf-248.jpg` through `pdf-251.jpg`, governed the transcription;
+OCR served only as an aid. The body text divided at each of the three page
+boundaries is joined and placed wholly after the later synchronized marker,
+and the marginalium divided across pp. 219–220 is likewise joined and labeled
+for both pages. All included printed marginalia and the Greek word are
+retained. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -791,6 +817,8 @@ have not been modernized or endorsed.
 - `parts/part-34-book-01-chapter-11e-philadelphus-and-callinicus-english.md`
 - `parts/part-35-book-01-chapter-11f-antiochus-magnus-and-philopator-latin.txt`
 - `parts/part-35-book-01-chapter-11f-antiochus-magnus-and-philopator-english.md`
+- `parts/part-36-book-01-chapter-11g-macedon-sparta-and-rome-latin.txt`
+- `parts/part-36-book-01-chapter-11g-macedon-sparta-and-rome-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -800,7 +828,7 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
-30, four for Part 31, and three each for Parts 32–35. There are seventy current
-files in thirty-five Latin/English pairs, containing 250 synchronized source
-markers per language (500 marker occurrences across all seventy files). The
-files remain AI-assisted and unreviewed.
+30, four for Part 31, three each for Parts 32–35, and four for Part 36. There
+are seventy-two current files in thirty-six Latin/English pairs, containing
+254 synchronized source markers per language (508 marker occurrences across
+all seventy-two files). The files remain AI-assisted and unreviewed.

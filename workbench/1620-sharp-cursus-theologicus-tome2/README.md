@@ -43,7 +43,8 @@ images for canvases 55–67. Part 13 was compared line by line with the six BSB
 images for canvases 67–72. Part 14 was compared line by line with the five BSB
 images for canvases 72–76. Part 15 was compared line by line with the five BSB
 images for canvases 76–80. Part 16 was compared line by line with the six BSB
-images for canvases 80–85. No e-rara text, modern edition, or modern
+images for canvases 80–85. Part 17 was compared line by line with the nine BSB
+images for canvases 85–93. No e-rara text, modern edition, or modern
 translation was used.
 
 ## Editorial method
@@ -257,6 +258,25 @@ ten synchronized printed-column markers:
 The next continuation boundary is therefore `QUÆSTIO VI. An Papa sit magnus
 ille Antichristus, de quo Scriptura agit`, later in printed column 171 on BSB
 canvas 85.
+
+**Part 17 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It opens Question VI, `An Papa sit magnus ille Antichristus, de quo
+Scriptura agit`, later in printed column 171 and contains the initial semantic
+distinctions, Sharp’s definition of the great Antichrist, the complete series
+of Arguments 1–18 identifying him with the Pope, ten supporting testimonies,
+and six rejected alternative accounts in printed columns 171–187. Greek
+terms printed within the text block and abbreviated citations are retained.
+No distinct printed marginalia occur in this span; running heads, signatures,
+catchwords, gutter show-through, and later physical marks are excluded. The
+part ends immediately before `Obiectiones Bellarmini & aliorum Papistarum
+soluuntur` and contains seventeen synchronized printed-column markers:
+
+- `parts/part-17-church-militant-antichrist-opening-arguments-latin.txt`
+- `parts/part-17-church-militant-antichrist-opening-arguments-english.md`
+
+The next continuation boundary is therefore `Obiectiones Bellarmini & aliorum
+Papistarum soluuntur. Obiect. A nomine Antichristi desumpta`, later in printed
+column 187 on BSB canvas 93.
 
 ## Review and licensing notice
 

@@ -54,7 +54,9 @@ again for Parts 28–29 on the same date and remain byte-identical to that set;
 the same locally retained derivatives govern Parts 30–32. The access PDF and
 plain OCR were freshly acquired once more for Parts 33–35 on 30 August 2026
 and remain byte-identical to the recorded derivatives; the same locally
-retained derivatives govern Parts 36–37:
+retained derivatives govern Parts 36–37. The access PDF and plain OCR were
+freshly acquired once more for Parts 38–39 on 30 August 2026 and remain
+byte-identical to the recorded derivatives:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -98,8 +100,12 @@ summary, and no modern English translation has been used as a wording source.
 
 The paired working draft now runs continuously from the Book I prospectus on
 printed p. 1 through the Book II title and prospectus and the end of Book II,
-Chapter IV on the upper part of printed p. 255. Shared-page boundaries preserve
-each new argumentative unit in the following part rather than duplicating it.
+Chapter VI on the upper part of logical printed p. 263. Shared-page boundaries
+preserve each new argumentative unit in the following part rather than
+duplicating it. The witness's visible pagination jumps from 256 to 275 at PDF
+275; from that point the continuous logical numbering used in the markers is
+eighteen lower than the visible numbers, while the IA-leaf and PDF references
+identify the exact images without ambiguity.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -140,6 +146,8 @@ each new argumentative unit in the following part rather than duplicating it.
 | 35 | Book II, Chapter II; ejaculatory and solemn solitary worship | lower part of shared printed p. 242 through the upper part of shared p. 246 / IA leaves 260–264 / PDF pp. 260–264; stops before `CAP. III.` | 5 |
 | 36 | Book II, Chapter III; social and especially domestic worship | lower part of shared printed p. 246 through the upper part of shared p. 250 / IA leaves 264–268 / PDF pp. 264–268; stops before `CAP. IV.` | 5 |
 | 37 | Book II, Chapter IV; general principles concerning time | lower part of shared printed p. 250 through the upper part of shared p. 255 / IA leaves 268–273 / PDF pp. 268–273; stops before `CAP. V.` | 6 |
+| 38 | Book II, Chapter V; time applied to religion and divine worship | lower part of shared logical printed p. 255 through the upper part of shared logical p. 259 / IA leaves 273–277 / PDF pp. 273–277; visible pagination jumps from 256 to 275; stops before `CAP. VI.` | 5 |
+| 39 | Book II, Chapter VI; usefulness and necessity of determining time for worship | lower part of shared logical printed p. 259 through the upper part of shared logical p. 263 / IA leaves 277–281 / PDF pp. 277–281; visible pp. 277–281; stops before `CAP. VII.` | 5 |
 
 The files are:
 
@@ -180,8 +188,10 @@ The files are:
 - `parts/part-35-book-02-chapter-02-solitary-worship-{latin.txt,english.md}`
 - `parts/part-36-book-02-chapter-03-domestic-worship-{latin.txt,english.md}`
 - `parts/part-37-book-02-chapter-04-general-principles-of-time-{latin.txt,english.md}`
+- `parts/part-38-book-02-chapter-05-time-applied-to-worship-{latin.txt,english.md}`
+- `parts/part-39-book-02-chapter-06-utility-of-determining-time-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–37 image audits
+### Part 04 re-audit and Parts 05–39 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -977,6 +987,53 @@ The exact Part 37 ending is `...ut haec
 accepta referamus.` The next untranslated text is `CAP. V. Generalia quaedam de
 Tempore Religioni aut Cultui Divino applicata.` on shared printed p. 255 / IA
 leaf 273 / PDF p. 273.
+
+Part 38 is the complete, image-audited fifth chapter of Book II, applying the
+preceding distinctions of duration, frequency, and beginning to religion and
+divine worship. Every controlling image from `CAP. V. Generalia quaedam de
+Tempore Religioni aut Cultui Divino applicata.` on PDF 273 through the chapter
+end on PDF 277 was read directly, including all four internal joins and the
+outgoing shared-page stop before `CAP. VI.` OCR was used only as a collation
+aid. The Latin and English contain the identical five-marker sequence. The
+witness moves from visible p. 256 on PDF 274 to visible p. 275 on PDF 275; the
+markers retain the continuous logical sequence 255–259 while recording the
+exact IA leaves and PDF pages.
+
+The terminal erratum `Meditemur` (visible p. 275, line 15; logical p. 257) is
+incorporated and disclosed in both file headers. The errata leaf's general
+warning about Greek and Hebrew type is retained there as well, though neither
+script occurs in this unit. No separate substantive marginal gloss occurs.
+The printer-divided word `corporalibus` at
+the logical pp. 256/257 join is joined with the new marker before the complete
+Latin word and corresponding English word. The other three joins fall between
+complete words; catchwords and rules are omitted.
+The exact Part 38 ending is `...tum Temporis Longitudini, tum Frequentiae.` The
+next untranslated text at that handoff was `CAP. VI. Quàm utilis aut necessaria
+sit Temporis ad Dei cultum determinatio in genere, ostenditur.` on shared
+logical printed p. 259 / IA leaf 277 / PDF p. 277.
+
+Part 39 is the complete, image-audited sixth chapter of Book II, giving six
+general reasons for determining time for any important undertaking and then
+applying the same six reasons to divine worship. Every controlling image from
+the Chapter VI heading on PDF 277 through the chapter end on PDF 281 was read
+directly, including all four internal joins and the outgoing shared-page stop
+before `CAP. VII.` OCR was used only as a collation aid. The Latin and English
+contain the identical five-marker sequence. The visible witness numbers these
+pages 277–281; the markers retain the continuous logical sequence 259–263 and
+record the exact IA leaves and PDF pages.
+
+The terminal errata leaf assigns no particular correction to visible printed
+pp. 277–281. Its general warning about Greek and Hebrew type is disclosed in
+both file headers, though neither script occurs in this unit. No separate
+substantive marginal gloss occurs. All four joins fall between complete words;
+catchwords and rules are omitted. All headings, numbered arguments, citations,
+and substantive italic distinctions are retained. The exact Part 39 ending is
+`...abundè jam est indicatum, & nemo negabit.` The rule and `CAP. VII.`, its
+title, and the opening of Chapter VII on the remainder of logical printed p.
+263 are excluded. The next untranslated text is therefore `CAP. VII. De
+Utilitate determinationis Temporis ad cultum Dei, quoad Continuationem &
+Frequentiam, separatim, & conjunctim.` on shared logical printed p. 263 / IA
+leaf 281 / PDF p. 281.
 
 ## Review and licensing status
 

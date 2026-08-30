@@ -1560,3 +1560,29 @@ The next restart point is `QUÆSTIO XXIII. DE CONSECRATIONE. An in Eucharistia
 consecratio fiat pronuntiatione verborum, “hoc est enim corpus meum?” Et an
 secrete pronuntianda sint? Neg. cont. Pontifi.` on shared printed p. 372 / IA
 leaf 406 / PDF p. 406.
+
+## Part 57
+
+Part 57 contains the complete Locus XIX, Question XXIII, “De Consecratione.”
+It begins with the question heading on shared printed p. 372 / IA leaf 406 /
+PDF p. 406, immediately after Question XXII, and ends with section XXV on
+shared printed p. 377 / IA leaf 411 / PDF p. 411. Question XXIV, “De Panis
+Fractione,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-57-locus-19-question-23-latin.txt`
+- English: `parts/part-57-locus-19-question-23-english.md`
+- Both files contain six synchronized source-page markers, the complete
+  section sequence I–XXV, and nine synchronized marginalia blocks.
+- The scan verification covered all six page images and all five page joins.
+  The pp. 373–374, 375–376, and 376–377 joins divide `quibus`, `inclinato`, and
+  `sacramento`; each complete Latin word and its English counterpart is placed
+  after the new-page marker. The other two joins divide no word.
+- The transcription retains every printed Greek expression and the witness’s
+  abbreviations, spelling, capitalization, punctuation, and citations. `[sic]`
+  identifies the duplicated `Ephes. i. 3, 3`, `neccessaria`, `intelligibli`,
+  `sucipientibus`, `coficiliandam`, `sursom`, and `populos`; the English
+  translates the evident sense without silently altering the citation.
+
+The next restart point is `QUÆSTIO XXIV. DE PANIS FRACTIONE. An ritus
+fractionis panis sit necessaria in administratione cœnæ? Affirm.` on shared
+printed p. 377 / IA leaf 411 / PDF p. 411.

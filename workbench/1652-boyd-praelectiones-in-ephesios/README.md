@@ -59,6 +59,7 @@ same scan can legitimately close one part and open the next:
 | 14 | XIV | 88–92 | 46–50 | `In Versum 13. ac 14.` and `Hucusque fuit prior applicationis hujus pars` through `Spiritus promissionis hîc appellatur` before Lecture XV |
 | 15 | XV | 92–96 | 50–54 | `Atque hactenus prius ex illis duobus membris executi sumus` through its four-stage synopsis and concluding `Amen` before Lecture XVI |
 | 16 | XVI | 96–100 | 54–58 | `Sequitur Loci communis Theologici, de æterna Sanctorum Prædestinatione sive Electione, Methodica Tractatio` through its defense of teaching election and reprobation and concluding `Amen` before Lecture XVII |
+| 17 | XVII | 100–103 | 58–61 | `Quod ad hujus doctrinæ tractationem ipsam attinet` through its cautions, general definition of predestination, and treatment of creation and the permitted fall before Lecture XVIII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -114,8 +115,9 @@ English translation:
 | 14 | Gentile calling by the word of truth and sealing by the Spirit | [`part-14-praelection-14-gentile-calling-and-sealing-latin.txt`](parts/part-14-praelection-14-gentile-calling-and-sealing-latin.txt) | [`part-14-praelection-14-gentile-calling-and-sealing-english.md`](parts/part-14-praelection-14-gentile-calling-and-sealing-english.md) |
 | 15 | The Spirit’s earnest and the consummation of redemption | [`part-15-praelection-15-earnest-and-redemption-latin.txt`](parts/part-15-praelection-15-earnest-and-redemption-latin.txt) | [`part-15-praelection-15-earnest-and-redemption-english.md`](parts/part-15-praelection-15-earnest-and-redemption-english.md) |
 | 16 | The public teaching and uses of predestination | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt) | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md) |
+| 17 | Cautions and the definition of predestination | [`part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-latin.txt) | [`part-17-praelection-17-cautions-and-definition-of-predestination-english.md`](parts/part-17-praelection-17-cautions-and-definition-of-predestination-english.md) |
 
-The completed sequence now extends through Lecture XVI. Its successive subjects
+The completed sequence now extends through Lecture XVII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -185,6 +187,17 @@ include assurance, humility, defense of grace and Christ’s deity, love of God
 and neighbor, holiness, and patience under the cross. It concludes that
 reprobation cannot be separated from election, is itself taught in Scripture,
 and magnifies the gratuitous mercy shown to the elect.
+Lecture XVII then prefaces the treatment itself with six cautions governing
+speech about God’s eternal counsel: God must be known from God, divine justice
+and wisdom remain axiomatic when their reasons are hidden, all times are
+present to God, providence orders contingent events without destroying their
+native liberty, every good act requires divine efficacy, and God wisely uses
+evil acts without sharing their fault. It distinguishes broad, narrow, and
+middle senses of predestination, adopts the middle sense encompassing both
+election and reprobation, and defines predestination as God’s eternal decree
+concerning the final state of rational creatures. It closes by identifying
+creation and the permitted fall as means common to the execution of both
+parts, while denying that God is the culpable cause of Adam’s defection.
 
 ## Validation
 

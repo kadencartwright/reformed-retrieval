@@ -1290,7 +1290,39 @@ human review.
 - `parts/part-22-chapter-22f-latin.txt`
 - `parts/part-22-chapter-22f-english.md`
 
-The next unit begins with `V. 14. Puteus profundus est os extranearum: in eum
-corruet, cui Dominus indignatur.` in the right column of shared PDF 499 /
-printed column 983; restart at that lemma, excluding every verse 13 sentence
-in the left column before it.
+**Part 22g is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `V. 14. Puteus profundus est
+os extranearum: in eum corruet, cui Dominus indignatur.` in the right column
+of shared PDF 499 / printed column 983 through the final prose of verse 15 on
+PDF 501 / printed column 987, ending `cum ipsa de causa arctiori illos amore
+complecti debeant.` It stops immediately before `V. 16. Opprimens tenuem, ut
+seipsum augeat, dans diviti [ut rem suam augeat] utique egestati erit
+uterque.` in that same right column. Latin and English have three
+byte-identical source markers (PDF 499–501; synchronized printed columns
+982–983 through 986–987) and retain both verse lemmata, full in-scope prose,
+Hebrew, Greek, citations, abbreviations, and printing irregularities. The
+complete files contain 1,176 Latin-file and 1,658 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 499–501, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-499 marker begins only at `V.
+14.` in the right column; every verse 13 sentence in the left column and above
+the lemma is excluded. At the PDF-499/500 turn, the catchword fragment
+`meretri-` was excluded: whole `meretriciarum` and its corresponding English
+wording are assigned to PDF 500. At the PDF-500/501 turn, both the divided
+body fragment `me-` and the catchword `rito` were excluded: whole `merito` and
+its corresponding English `deservedly` are assigned to PDF 501. The final
+PDF-501 marker contains only the verse 15 prose ending `cum ipsa de causa
+arctiori illos amore complecti debeant.` above `V. 16.`; no verse 16 material
+or text below it is imported. Witness forms including `meta.`, `adulteri`,
+`.n.`, `à subj.`, `persentiscere`, `jud.caverat`, `νουθεσίᾳ`, `Salom.`,
+`שוחה`, `פי`, `זרות`, `קשורה`, and `ירחיק` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22g-latin.txt`
+- `parts/part-22-chapter-22g-english.md`
+
+The next unit begins with `V. 16. Opprimens tenuem, ut seipsum augeat, dans
+diviti [ut rem suam augeat] utique egestati erit uterque.` in the right column
+of shared PDF 501 / printed column 987; restart at that lemma, excluding every
+verse 15 sentence above it and all left-column text before it.

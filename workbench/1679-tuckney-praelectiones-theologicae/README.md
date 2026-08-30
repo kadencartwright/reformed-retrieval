@@ -209,6 +209,28 @@ hoc esto`, begins the second foundation and is excluded.
   and identified in the English. No unresolved source damage or illegible
   reading occurs in this part.
 
+## Part 08: seventh unit of the Romans 1:17 lecture
+
+Part 08 begins Tuckney's second foundation for adjudicating competing accounts
+of justification: Paul's argument must be understood from the historical aim
+and genuine state of the controversy. It completes the first of two inquiries,
+identifying both the open opponents who set law against gospel and the
+pseudo-apostles and seduced believers who combined law with gospel, and then
+applies that distinction against the Roman Catholic inclusion of works done
+from faith and grace. It begins with `2. Secundum fundamentum hoc esto` on
+printed p. 90 / IA leaf 98 and ends with `at suis operibus ... confisos` at
+the end of printed p. 93 / IA leaf 101. The next paragraph, `Quod vero alicubi
+respondet Bellarminus ...`, begins a subsidiary answer concerning Abraham on
+printed p. 94 / IA leaf 102 and is excluded.
+
+- Latin: `parts/part-08-romans-01-17-justification-07-latin.txt`
+- English: `parts/part-08-romans-01-17-justification-07-english.md`
+- Extent: four synchronized markers, printed pp. 90–93 / IA leaves 98–101
+- Scripts and disclosure: Greek expressions and the marginal references are
+  retained in both files. The extended Greek sentence attributed to
+  Chrysostom on printed p. 93 is rendered closely in the English while the
+  witness's wording is retained in the Latin transcription.
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

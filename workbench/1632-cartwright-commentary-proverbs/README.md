@@ -816,7 +816,38 @@ qualified human review.
 - `parts/part-21-chapter-21a-latin.txt`
 - `parts/part-21-chapter-21a-english.md`
 
-The next unit begins with `V. 4. Elatio oculorum, & amplitudo cordis, aratio
-improborum sunt peccatum.` in the right column of shared PDF 457 / printed
-column 899; restart at that lemma, excluding the final verse 3 sentence above
+**Part 21b is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXI from `V. 4. Elatio oculorum, &
+amplitudo cordis, aratio improborum sunt peccatum.` in the right column of
+shared PDF 457 / printed column 899 through the final prose of verse 6 on PDF
+461 / printed column 906, ending `pro rata portione thesaurum irae divinae
+congerant in diem irae & vindictae.` It stops immediately before `Vers. 7.
+Vastatio improborum dissecabit eos, qui renuerunt exercere judicium.` in that
+same left column. Latin and English have five byte-identical source markers
+(PDF 457–461; synchronized printed columns 898–899 through 906–907) and retain
+all three verse lemmata, full in-scope prose, Hebrew, Greek, citations,
+abbreviations, both embedded English proverbs, and printed irregularities.
+The complete files contain 1,778 Latin-file and 2,506 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 457–461, was inspected at original detail in
+left-then-right column order. The shared PDF-457 marker begins only at `V. 4.`
+in the right column; the final verse 3 sentence above it is excluded. The
+final PDF-461 marker includes only the concluding sentence of verse 6 above
+`Vers. 7.` in the left column; no verse 7 material or right-column prose is
+imported. Page-turn catchwords `damnum`, `loquitur)`, `tantum`, and `una` were
+excluded rather than duplicated. The divided wording `damnum`, `loquitur)`,
+`tantum`, and `una tecum pereat`, with its corresponding English wording, was
+assigned wholly to receiving PDF 458, 459, 460, and 461 markers. Witness forms
+including `Eph. 4. 52.`, `furniculos`, `Unum est, est`, `ἀνοίᾳ`,
+`ἐρωτηματικῶς`, `Hast makes wast`, and `Soft fier makes sweet malt` were
+retained. This remains an AI-assisted working edition requiring qualified
+human review.
+
+- `parts/part-21-chapter-21b-latin.txt`
+- `parts/part-21-chapter-21b-english.md`
+
+The next unit begins with `Vers. 7. Vastatio improborum dissecabit eos, qui
+renuerunt exercere judicium.` in the left column of shared PDF 461 / printed
+column 906; restart at that lemma, excluding the final verse 6 sentence above
 it.

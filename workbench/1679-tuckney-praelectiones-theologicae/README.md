@@ -353,6 +353,18 @@ sit`, is excluded.
 - English: `parts/part-16-romans-01-17-justification-15-english.md`
 - Extent: seven synchronized markers, printed pp. 115–121 / IA leaves 123–129
 
+## Part 17: sixteenth unit of the Romans 1:17 lecture
+
+Part 17 gives Tuckney's fourth through eighth arguments against justification
+by works following faith. It runs from `Quartum hoc sit` on printed p. 121 /
+IA leaf 129 through the conclusion of the eighth argument on printed p. 126 /
+IA leaf 134. The ninth argument, `Nil ergo Mantissae loco superaddere opus
+est`, is excluded.
+
+- Latin: `parts/part-17-romans-01-17-justification-16-latin.txt`
+- English: `parts/part-17-romans-01-17-justification-16-english.md`
+- Extent: six synchronized markers, printed pp. 121–126 / IA leaves 129–134
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

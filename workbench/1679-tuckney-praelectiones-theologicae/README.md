@@ -1538,6 +1538,14 @@ Part 94 presents Tuckney's arguments from the moral law itself. He appeals to th
 - English: `parts/part-94-moral-law-09-english.md`
 - Extent: two synchronized markers, new-series fols. 32–33 / IA leaves 352–353
 
+## Part 95: tenth and concluding unit on the moral law under the gospel
+
+Part 95 completes the determination. Tuckney formally condemns the Antinomian opinion in Luther's words, affirms the defended thesis that the moral law binds believers under the gospel, and closes with a prayer for God's glory, growth in faith and godliness, sincere obedience, and salvation through Christ. It runs from `Concludo itaque, & (prout hujus loci & officii ratio postulat) definio Antinomorum sententiam` through the final `Amen` on new-series fol. 34 / IA leaf 354. The distinct work headed `CONCIO AD CLERUM pro Doctoratus gradu in Templo B. Mariae habita Maji 8vo. 1650` is excluded.
+
+- Latin: `parts/part-95-moral-law-10-latin.txt`
+- English: `parts/part-95-moral-law-10-english.md`
+- Extent: one synchronized marker, new-series fol. 34 / IA leaf 354
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

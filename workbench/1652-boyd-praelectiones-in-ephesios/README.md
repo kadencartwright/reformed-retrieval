@@ -55,6 +55,7 @@ same scan can legitimately close one part and open the next:
 | 10 | X | 71–75 | 29–33 | `Sequitur jam versu proximo, pars ejusdem secunda` through `de ipsâ recollectione dicta sunto` |
 | 11 | XI | 75–80 | 33–38 | `Quod ad secundum membrum attinet` through its concluding `Amen` |
 | 12 | XII | 80–85 | 38–43 | `In Versum 11. ac 12.` and `Dictum nobis suprà suo loco` through `quam cum discrimine veritatis aliquo judicare` before Lecture XIII |
+| 13 | XIII | 85–88 | 43–46 | `Jam ad quartum hujus loci membrum pergamus` through its concluding `Amen` before `In Versum 13. ac 14.` and Lecture XIV |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -106,8 +107,9 @@ English translation:
 | 10 | The mystery of God’s will and recapitulation in Christ | [`part-10-praelection-10-mystery-and-recapitulation-latin.txt`](parts/part-10-praelection-10-mystery-and-recapitulation-latin.txt) | [`part-10-praelection-10-mystery-and-recapitulation-english.md`](parts/part-10-praelection-10-mystery-and-recapitulation-english.md) |
 | 11 | The scope and time of recapitulation | [`part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-latin.txt) | [`part-11-praelection-11-scope-and-time-of-recapitulation-english.md`](parts/part-11-praelection-11-scope-and-time-of-recapitulation-english.md) |
 | 12 | Inheritance in Christ and the counsel of God’s will | [`part-12-praelection-12-inheritance-and-divine-purpose-latin.txt`](parts/part-12-praelection-12-inheritance-and-divine-purpose-latin.txt) | [`part-12-praelection-12-inheritance-and-divine-purpose-english.md`](parts/part-12-praelection-12-inheritance-and-divine-purpose-english.md) |
+| 13 | The praise of God’s glory and the priority of Jewish hope | [`part-13-praelection-13-praise-and-priority-latin.txt`](parts/part-13-praelection-13-praise-and-priority-latin.txt) | [`part-13-praelection-13-praise-and-priority-english.md`](parts/part-13-praelection-13-praise-and-priority-english.md) |
 
-The completed sequence now extends through Lecture XII. Its successive subjects
+The completed sequence now extends through Lecture XIII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -142,6 +144,14 @@ then examines God as the one who works all things according to the counsel of
 his will, distinguishes divine counsel from creaturely deliberation, and
 weighs restricted and providential readings of “all things” while denying
 that divine providence makes God the author of sin.
+Lecture XIII completes the exposition of Ephesians 1:12 by distinguishing the
+inherent glory of God from creaturely praise and explaining the passive and
+active senses in which believers exist for the praise of that glory. It then
+interprets the Jews’ prior hope in Christ as a priority of time rather than
+merit, grounds the gospel’s historical priority to Israel in God’s covenant
+promises, and draws applications concerning personal appropriation of the
+gospel, gratuitous election, submission to providence, and holy living as the
+praise of divine glory.
 
 ## Validation
 

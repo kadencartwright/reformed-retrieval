@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Twenty-two paired parts are complete as AI-assisted, scan-audited working
+Twenty-three paired parts are complete as AI-assisted, scan-audited working
 drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
@@ -156,8 +156,12 @@ drafts:
   certainty, the Holy Spirit's efficacy in interpretation, and Wolzogen's
   attempt to make usage of speech the certain norm, printed pp. 167–179 / ONB
   canvases 221–233; thirteen synchronized source markers.
+- **Part 23:** Section XLII, examining the claimed indissoluble bond between
+  scriptural truths and true meanings, Wolzogen's response, and his renewed
+  admission of Reason as judge, printed pp. 179–182 / ONB canvases 233–236;
+  four synchronized source markers.
 
-Parts 01–19 and 21–22 are stored in the following files:
+Parts 01–19 and 21–23 are stored in the following files:
 
 - `parts/part-01-preface-assertions-01-15-latin.txt`
 - `parts/part-01-preface-assertions-01-15-english.md`
@@ -201,14 +205,18 @@ Parts 01–19 and 21–22 are stored in the following files:
 - `parts/part-21-the-interpreter-and-wolzogens-three-ways-english.md`
 - `parts/part-22-the-true-interpreter-certainty-and-the-spirits-aid-latin.txt`
 - `parts/part-22-the-true-interpreter-certainty-and-the-spirits-aid-english.md`
+- `parts/part-23-truth-meaning-and-reason-as-norm-latin.txt`
+- `parts/part-23-truth-meaning-and-reason-as-norm-english.md`
 
-Part 22 begins immediately after Part 21's sentence `Sed ad alia pergimus.`
-with the witness's exact opening words `XLI. Postquam §. 2. Cap. IV. nobis
-indicaverat Paradoxus` on printed p. 167 / ONB canvas 221. It ends with Section
-XLI on printed p. 179 / ONB canvas 233 after the question `An haec cum doctrinâ
-Reformatorum bene quadrant?` Section XLII, beginning `Dixit Paradoxus. §. 4.
-§. 6. In Sacris literis, veritates & veros sensus`, is excluded. The next part
-should resume there on the same canvas.
+Part 23 begins immediately after Part 22's question `An haec cum doctrinâ
+Reformatorum bene quadrant?` with the witness's exact opening words `XLII.
+Dixit Paradoxus. §. 4. §. 6. In Sacris literis, veritates & veros sensus` on
+printed p. 179 / ONB canvas 233. It ends with Section XLII on printed p. 182 /
+ONB canvas 236 after the sentence `Et si his legibus Exercitatoris Interpretem
+admittat (ut ipse dicit pag. 160.) nae, quicquid ogganiat, Reformatos eum
+deserere certissimum est.` Section XLIII, beginning `Ibidem §. 7. dixit
+Exercitator Interpretem suum caeteris omnibus longè praecellere`, is excluded.
+The next part should resume there on the same canvas.
 
 ## Part 20: Latin transcription
 

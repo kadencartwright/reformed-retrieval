@@ -818,3 +818,59 @@ begins below it on that page and is excluded.
 The next restart point is `QUÆSTIO XXX. An Potestas Ecclesiastica versetur
 circa dogmata Fidei, et circa Symbola et Confessiones Fidei? Affirm.` on shared
 printed p. 239 / IA leaf 273 / PDF p. 273.
+
+## Part 30
+
+Part 30 contains the complete Locus XVIII, Question XXX, beginning “An
+Potestas Ecclesiastica versetur circa dogmata Fidei.” It begins with the
+question heading on shared printed p. 239 / IA leaf 273 / PDF p. 273,
+immediately after Question XXIX, and ends with section XII on shared printed
+p. 242 / IA leaf 276 / PDF p. 276. Question XXXI begins below it on that page
+and is excluded.
+
+- Latin: `parts/part-30-locus-18-question-30-latin.txt`
+- English: `parts/part-30-locus-18-question-30-english.md`
+- Both files contain four synchronized source-page markers, the complete
+  section sequence I–XII, and four synchronized marginalia blocks.
+- The scan verification covered all four page images and all three page joins.
+  No word is divided across a page boundary; the pp. 239–240, 240–241, and
+  241–242 joins continue sections IV, VII, and XI respectively.
+- The transcription retains all nineteen printed Greek expressions and the
+  witness’s `suam [sic] etiam pondus memorabile`; the English translates the
+  evident sense without silently altering the Latin witness. It also retains
+  the witness’s dates for the listed confessions rather than silently
+  correcting them.
+
+The next restart point is `QUÆSTIO XXXI. An Ecclesiæ competat Potestas
+Legislatoria, proprie dicta, Leges ferendi, quæ conscientiam per se obligent?
+An vero διατακτικὴ tantum Constitutiones et Canones ad εὐταξίαν sanciendi?
+Prius Neg. Posterius Affirm. contra Pontificios.` on shared printed p. 242 / IA
+leaf 276 / PDF p. 276.
+
+## Part 31
+
+Part 31 contains the complete Locus XVIII, Question XXXI, beginning “An
+Ecclesiæ competat Potestas Legislatoria.” It begins with the question heading
+on shared printed p. 242 / IA leaf 276 / PDF p. 276, immediately after Question
+XXX, and ends with section XXV on shared printed p. 248 / IA leaf 282 / PDF p.
+282. Question XXXII, “De Disciplina Ecclesiastica, et Excommunicatione,”
+begins below it on that page and is excluded.
+
+- Latin: `parts/part-31-locus-18-question-31-latin.txt`
+- English: `parts/part-31-locus-18-question-31-english.md`
+- Both files contain seven synchronized source-page markers, the complete
+  section sequence I–XXV, and eight synchronized marginalia blocks.
+- The scan verification covered all seven page images and all six page joins.
+  The pp. 245–246 join divides `instrumentalis`; the word is joined, with the
+  p. 246 marker placed before the complete Latin word and its English
+  counterpart. The other joins divide no word.
+- The transcription retains all printed Greek and marks the witness’s
+  disruptive `magistrum`, `concientiam`, and `cononicum` with `[sic]`; the
+  English translates the evident sense without silently altering the Latin
+  witness. The witness’s historical dates and cross-references are retained
+  rather than silently corrected.
+
+The next restart point is `QUÆSTIO XXXII. DE DISCIPLINA ECCLESIASTICA, ET
+EXCOMMUNICATIONE. An Ministris sacris competat Potestas spiritualis peccatores
+contumaces et scandalos excommunicandi? Affirm. contra Erastum et ejus
+Sequaces.` on shared printed p. 248 / IA leaf 282 / PDF p. 282.

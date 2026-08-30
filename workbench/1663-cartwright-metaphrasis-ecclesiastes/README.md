@@ -2092,3 +2092,24 @@ and verse 3 ends at the stronger authorial boundary formed by the shared
 verse-4–7 lemma block. The next unit begins on reader image `PA311` / printed
 p. 311 at `Vers. 4. Qui observat praeceptum`, followed by the lemmata for
 verses 5–7.
+
+**Part 96 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 8:4–7 lemma block and its complete joint
+exposition on reader images `PA311`, `PA313`, and `PA315`. It begins on printed
+p. 311 at `Vers. 4. Qui observat praeceptum`, crosses the image joins within
+the divided `prae- / stetur` and `muti- / latio`, and ends on printed p. 315
+immediately before the initial verse-8–13 lemma block on printed p. 316. The
+paired files have three exactly identical reader-image markers and retain the
+distinctions concerning timely and discriminating obedience, the examples of
+Joshua's ambush, Saul, the Israelites, Daniel's companions, Jeroboam, David,
+and Abigail, every printed biblical reference, and the repeated lemmata's
+`experitur` and `isti` in place of the initial lemma block's `experietur` and
+`ipsi`:
+
+- `parts/part-96-homiliae-chapter-08-verses-04-07-latin.txt`
+- `parts/part-96-homiliae-chapter-08-verses-04-07-english.md`
+
+This joint unit is bounded by the initial verse-8–13 lemma block rather than
+by an arbitrary image count. The next unit begins on reader image `PA315` /
+printed p. 316 at `Vers. 8. In tota hac re vidi`, followed by the lemmata for
+verses 9–13.

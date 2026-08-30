@@ -102,6 +102,25 @@ This second shared-page endpoint likewise preserves the complete authorial
 unit without absorbing the next chapter. The Chapter V heading and all
 following matter are excluded from Part 03.
 
+**Part 04 is the complete fifth chapter.** It begins with the `CAPUT V` heading
+below the completion of Chapter IV on shared printed p. 44 and continues
+through the last response on printed p. 58, stopping immediately before
+Chapter VI:
+
+- e-rara canvases 54–68 / printed pp. 44–58;
+- same-impression Augsburg comparison canvases 68–82;
+- Chapter V, *De Iudice controversiarum*;
+- next unit: Chapter VI, *De sufficientia Scripturae*, beginning on printed
+  p. 59.
+
+The paired files carry fifteen identical source markers. The five words split
+by page boundaries—`significantur` (pp. 45/46), `unumquemque` (pp. 46/47),
+`negavit` (pp. 49/50), `inspirationem` (pp. 52/53), and `verbo` (pp. 56/57)—are
+joined and placed wholly after the incoming marker in both files. The
+controlling and comparison images agree throughout this chapter's setting.
+The witness's return from numbered point `32` to `23` on printed p. 55 and its
+form `Cathrdra` on printed p. 57 are retained rather than silently corrected.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -110,7 +129,9 @@ retained. Printer abbreviations are expanded silently when unambiguous.
 Page-crossing words are joined and placed after the new page marker. The
 edition's erroneous point numbering on printed p. 10 (`6` before `5`) is
 retained rather than silently regularized. The Greek wordplay quoted from
-Jerome on printed p. 12 has been checked directly against the image.
+Jerome on printed p. 12 has been checked directly against the image. Chapter
+V's Greek `ἀναλογίαν` on printed p. 53 has likewise been checked against both
+copies.
 
 The English is a full new translation of the paired Latin, not a summary. No
 modern English translation was used. These files are explicitly **AI-assisted
@@ -126,3 +147,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-02-book-01-chapter-03-english.md`
 - `parts/part-03-book-01-chapter-04-latin.txt`
 - `parts/part-03-book-01-chapter-04-english.md`
+- `parts/part-04-book-01-chapter-05-latin.txt`
+- `parts/part-04-book-01-chapter-05-english.md`

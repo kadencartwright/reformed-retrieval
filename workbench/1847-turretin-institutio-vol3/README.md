@@ -1449,3 +1449,29 @@ imputentur? An tollat præterita et præsentia tantum, et futura pœnitentiæ
 relinquat? An vero se extendat ad peccata, non solum quæ ante, sed etiam quæ
 post baptismum committuntur? Prius neg. Post. aff. cont. Pontifi.` on printed
 p. 350 / IA leaf 384 / PDF p. 384.
+
+## Part 53
+
+Part 53 contains the complete Locus XIX, Question XIX, “De Efficacia
+Baptismi.” It begins with the question heading on printed p. 350 / IA leaf 384
+/ PDF p. 384 and ends with section XXVII on printed p. 353 / IA leaf 387 / PDF
+p. 387. Question XX, “De Pædobaptismo,” begins on the next printed page and is
+excluded.
+
+- Latin: `parts/part-53-locus-19-question-19-latin.txt`
+- English: `parts/part-53-locus-19-question-19-english.md`
+- Both files contain four synchronized source-page markers, the complete
+  section sequence I–XXVII, and ten synchronized marginalia blocks.
+- The scan verification covered all four page images and all three page joins.
+  The pp. 350–351, 351–352, and 352–353 joins divide `tollatur`, `relinqui`,
+  and `irremissibile`; each complete Latin word and its English counterpart is
+  placed after the new-page marker.
+- The transcription retains both printed Greek expressions and the witness’s
+  abbreviations, spelling, capitalization, punctuation, and citations. `[sic]`
+  identifies the printed `ant` in `non imputetur ant dominetur` and `Tit. v.
+  3`, whose cited matter points to Titus 3:5. The English translates the
+  evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XX. DE PÆDOBAPTISMO. An Infantes fidelium
+fœderatorum sint baptizandi? Affir. cont. Anabapt.` on printed p. 354 / IA
+leaf 388 / PDF p. 388.

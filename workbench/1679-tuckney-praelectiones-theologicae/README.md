@@ -1615,6 +1615,24 @@ headed `DETERMINATIO. IN PUBLICIS COMITIIS Julii 6 1652` on new-series fol. 45
 - English: `parts/part-100-concio-ad-clerum-05-english.md`
 - Extent: three synchronized markers, new-series fols. 42–44 / IA leaves 362–364
 
+## Part 101: first unit of the 1652 determination on Christ’s sacrifice
+
+Part 101 begins the determination delivered on July 6, 1652, in place of the
+ailing Dr. Love, Lady Margaret Professor. It states the determination’s two
+theses, then defines the first claim that through his death Christ was a
+properly expiatory sacrifice. Tuckney contrasts Socinian accounts of Christ’s
+death with bodily and spiritual suffering, legal sacrifice, liberation from
+guilt, vicarious substitution, and full satisfaction to vindicatory justice.
+It runs from the heading `DETERMINATIO. IN PUBLICIS COMITIIS Julii 6to. 1652`
+on new-series fol. 45 / IA leaf 365 through the completed threefold definition
+of full satisfaction and announcement of the ensuing proofs on new-series
+fol. 47 / IA leaf 367. The first scriptural argument, beginning `Quorum ea
+imprimis agmen ducunt Scripturae loca`, is excluded.
+
+- Latin: `parts/part-101-determinatio-de-sacrificio-christi-01-latin.txt`
+- English: `parts/part-101-determinatio-de-sacrificio-christi-01-english.md`
+- Extent: three synchronized markers, new-series fols. 45–47 / IA leaves 365–367
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

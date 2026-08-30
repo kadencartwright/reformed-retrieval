@@ -1177,3 +1177,53 @@ This unit is bounded by the exact next lemma block rather than by an arbitrary
 image count. The next unit begins in the left column of reader image `PA191` /
 printed p. 191 at the lemmata for verses 9–12, beginning `Vers. 9. Melior est
 puer indigus & sapiens, rege sene & stolido, qui nescit admoneri amplius`.
+
+**Part 51 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 4:9–12 lemma block and the complete remaining
+exposition of Chapter IV on reader images `PA191`, `PA193`, `PA195`, and
+`PA197`. It begins in the left column of printed p. 191 at `Vers. 9. Melior est
+puer indigus & sapiens`, crosses the image joins after the p. 192 catchword
+`natio-`, at the repeated verse-9 lemma on p. 195, and after the p. 196
+division `deficien-`, and ends in the right column of printed p. 198 at the end
+of Chapter IV. The paired files have four exactly identical reader-image
+markers and retain all four initial lemmata, the repeated lemmata for verses
+9–12, the comparison between wise youth and foolish age, the examples of
+Joseph, Daniel, fallen kings, and rejected rulers, the discussion of popular
+fickleness, and every printed biblical and classical reference. No independent
+marginal notes, Greek, Hebrew, or other foreign-script text occurs in this
+unit. The English translator's notes disclose both page joins, the shortened
+initial verse-11 lemma, the verse-12 construction, the printed `condocesiam`,
+the grammatical shifts, `abblandiuntur`, `ad Virtute & pietate`, and the
+unusual references rather than silently repairing or omitting them:
+
+- `parts/part-51-homiliae-chapter-04-verses-09-12-latin.txt`
+- `parts/part-51-homiliae-chapter-04-verses-09-12-english.md`
+
+This unit is bounded by the chapter division rather than by an arbitrary image
+count. The next unit begins in the left column of reader image `PA199` /
+printed p. 199 at `CAPUT V` and the initial lemmata for verses 1–8.
+
+**Part 52 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Chapter V heading and initial Ecclesiastes 5:1–8 lemma block,
+followed by the complete exposition of verse 1, on reader images `PA199` and
+`PA201`. It begins in the left column of printed p. 199 at `CAPUT V`, crosses
+the image and printed-page join after the p. 200 catchword `pellen-`, and ends
+in the right column of printed p. 202 immediately before the repeated lemma
+`Vers. 2. Ne acceleres ore tuo`. The paired files have two exactly identical
+reader-image markers and retain the chapter heading, all eight opening
+lemmata, the summary and analytical division, the preparation required for
+divine worship, the primacy of hearing the Word, the critique of merely
+ceremonial worship, and every printed biblical reference. No independent
+marginal notes, Greek, Hebrew, or other foreign-script text occurs in this
+unit. The English translator's notes disclose the catchword join, the
+verse-6 agreement mismatch, the verse-8 construction, the printed `Bethleem`,
+the grammatical shift in `appropinquemus`, and the irregular closing `omnis &
+ardor` rather than silently repairing or omitting them:
+
+- `parts/part-52-homiliae-chapter-05-verse-01-latin.txt`
+- `parts/part-52-homiliae-chapter-05-verse-01-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader
+image `PA201` / printed p. 202 at `Vers. 2. Ne acceleres ore tuo, & animus tuus
+ne festinet proferre quicquam coram ipso Deo`.

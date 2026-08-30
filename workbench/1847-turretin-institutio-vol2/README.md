@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question IX
+  Statu Christi*, begun through Question X
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–47 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–48 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–IX, from printed p. 3 / PDF 31
-through section VIII on printed p. 294 / PDF 322. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–X, from printed p. 3 / PDF 31
+through section XVII on printed p. 298 / PDF 326. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,089 numbered sections across 286 unique numbered
-text pages and 325 source markers in each language (321 printed-page markers
+268. The sequence comprises 1,106 numbered sections across 290 unique numbered
+text pages and 330 source markers in each language (326 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 157,875 whitespace-delimited words and the complete English files
-215,493, counted over Parts 01–47 with `wc -w`. Each part is a complete question,
+contain 160,201 whitespace-delimited words and the complete English files
+218,758, counted over Parts 01–48 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -102,6 +102,7 @@ the substantive marginal headings.
 | 45 | Locus XIII, Question VII | printed pp. 280–283 / PDFs 308–311 | XVII | 4 | `part-45-locus-13-question-07-{latin.txt,english.md}` |
 | 46 | Locus XIII, Question VIII | printed pp. 283–292 / PDFs 311–320 | XLII | 10 | `part-46-locus-13-question-08-{latin.txt,english.md}` |
 | 47 | Locus XIII, Question IX | printed pp. 292–294 / PDFs 320–322 | VIII | 3 | `part-47-locus-13-question-09-{latin.txt,english.md}` |
+| 48 | Locus XIII, Question X | printed pp. 294–298 / PDFs 322–326 | XVII | 5 | `part-48-locus-13-question-10-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -693,6 +694,36 @@ printed p. 294 / PDF 322 are excluded.
 Part 47's exact next restart is `QUAESTIO X. DE PRINCIPIO AERAE CHRISTIANAE.
 Quis fuerit Annus, Mensis ac Dies Natalis Christi?` on printed p. 294 / PDF
 322.
+
+Question X asks for the year, month, and day of Christ's birth. It recounts
+the late adoption of the Christian era and the chronological disagreements
+over its exact beginning, then argues that Scripture supplies three general
+historical markers sufficient for faith without specifying the year. It
+examines the December 25 and autumnal-equinox proposals for the month and day,
+rejects their arguments as conjectural, and concludes that Scripture has left
+the exact date indeterminate, in seventeen sections. It begins at the
+Question X heading below section VIII of Part 47 on printed p. 294 / PDF 322
+and ends with section XVII on printed p. 298 / PDF 326 immediately before
+Question XI. The Latin and English files contain 2,326 and 3,265
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all five printed-page markers in the same sequence and
+retain all eight substantive marginal headings, citations, and scan-exact
+Greek. At the printed pp. 294/295 join, the printer-divided
+`perse-/cutoris` is normalized as `persecutoris`, with the incoming marker
+placed before the complete word in both files. At the pp. 295/296 join, the
+printer-divided `Bet-/hlehemi` is normalized as `Bethlehemi`, again with the
+incoming marker placed before the complete word in both files. The pp. 296/297
+join falls between the printed `jus` and `ἐφημερίας`, mirrored between `right`
+and `of their rotation` in the English. The printer-divided `fami-/liis` at the
+pp. 297/298 join is normalized as `familiis`, with the incoming marker placed
+before the complete word in both files. The five supplied page images are the
+controlling witness; the specified OCR excerpt was used only as an aid. No
+supplementary witness was needed. The Question XI heading and body later on
+printed p. 298 / PDF 326 are excluded.
+
+Part 48's exact next restart is `QUAESTIO XI. DE CONCEPTIONE ET NATIVITATE
+CHRISTI. Quomodo Christus conceptus fuerit ex Spiritu S. et natus ex B.
+Virgine?` on printed p. 298 / PDF 326.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

@@ -1074,6 +1074,47 @@ omitted and their corresponding words placed wholly after the later markers.
 OCR served only as a reading aid. The pair remains an AI-assisted, unreviewed
 draft and is not publication-ready.
 
+## Part 51 boundary, status, and witness structure
+
+Part 51 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 287 and 289 and complete p. 288, IA leaves
+317–319, access-PDF pp. 317–319, and DjVu OCR objects 316–318. It begins in
+the upper left column of printed p. 287, immediately after Part 50, with the
+exact witness heading `CAPUT XIII. De rebus gestis Epochae nobis septimae, ab
+Aristobuli in Judaea Regnum ad natum Christum.` It follows the Jewish,
+Seleucid, and Lagid narrative through Pompey's settlement of the contest
+between Aristobulus and Hyrcanus, and ends in the left column of printed p.
+289 after `& Hircano Pontificatum cum aliquali principatu, sed nequaquam Regio
+diademate concesserit.`
+
+The following Roman excursus is wholly excluded. Its exact restart is `Locus
+hic requirit ut de rebus Romanorum aliqua carptim delibemus.` This is a
+coherent authorial turn from the opening regional narrative to Baillie's
+survey of Roman affairs.
+
+The witness supplies no question heading at the Chapter XIII join: Chapter
+XIII is historical narrative. Indeed, Chapter XIV at the end of Book I says
+that no chronological questions or doubts are appended to the seventh epoch
+because canonical Scripture is silent for it. The first actual question
+heading thereafter occurs only in Book II, Chapter II, printed p. 29 / IA leaf
+367 / access-PDF p. 367 / DjVu OCR object 366, where the witness reads exactly
+`QUAESTIO PRIMA. De anno natali Salvatoris.` That later heading is recorded
+here as structural evidence and is not imported into Part 51 across the
+intervening text.
+
+All three controlling 300-dpi page images, `page-317.jpg` through
+`page-319.jpg`, governed the transcription and were visually inspected at
+original detail, including both partial-page boundaries, the exact chapter
+title, every column and page transition, the Greek word, names, numbers, and
+all ten verbal marginalia. The first-question evidence on `boundary-367.jpg`
+and the Chapter XIV explanation on `caput14-337.jpg` were also visually checked
+at original detail. The repeated whole-word catchword at the pp. 287/288
+transition was omitted and its word placed after the p. 288 synchronized
+marker. The word divided across the pp. 288/289 transition was joined and
+placed wholly after the p. 289 marker in both files. OCR served only as a
+reading aid. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1190,6 +1231,8 @@ have not been modernized or endorsed.
 - `parts/part-49-book-01-chapter-12-question-08-english.md`
 - `parts/part-50-book-01-chapter-12-question-09-latin.txt`
 - `parts/part-50-book-01-chapter-12-question-09-english.md`
+- `parts/part-51-book-01-chapter-13a-aristobulus-to-pompeys-settlement-latin.txt`
+- `parts/part-51-book-01-chapter-13a-aristobulus-to-pompeys-settlement-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1203,7 +1246,7 @@ three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
 eight for Part 42, five for Part 43, eleven for Part 44, four for Part 45,
 eight for Part 46, seven each for Parts 47 and 48, eight for Part 49, and five
-for Part 50. There are one hundred current files in fifty Latin/English pairs,
-containing 332 synchronized source markers per language (664 marker
-occurrences across all one hundred files). The files remain AI-assisted and
-unreviewed.
+for Part 50, and three for Part 51. There are one hundred two current files in
+fifty-one Latin/English pairs, containing 335 synchronized source markers per
+language (670 marker occurrences across all one hundred two files). The files
+remain AI-assisted and unreviewed.

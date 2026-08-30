@@ -1213,6 +1213,23 @@ p. 296 / IA leaf 304. Bellarmine's fifth and seventh arguments, beginning
 - English: `parts/part-71-romans-04-05-abraham-47-english.md`
 - Extent: three synchronized markers, printed pp. 294–296 / IA leaves 302–304
 
+## Part 72: forty-eighth unit of the Romans 4:5 lecture
+
+Part 72 answers Bellarmine's sixth argument, which reasons that Christ only
+restores the kind of righteousness lost in Adam. Tuckney examines alternate
+syllogistic forms, rejects the restricted major premise, and distinguishes
+the substance of righteousness from its mode of reception. He then answers
+the minor and conclusion through the covenant of works, federal solidarity
+with Adam and Christ, and the inseparable gifts of imputed righteousness in
+justification and inherent righteousness in sanctification. It runs from
+`Quintum ejus argumentum` on printed p. 296 / IA leaf 304 through the close
+of the sixth argument on printed p. 298 / IA leaf 306. Bellarmine's eighth
+argument, beginning `Octavum Bellarmini argumentum`, is excluded.
+
+- Latin: `parts/part-72-romans-04-05-abraham-48-latin.txt`
+- English: `parts/part-72-romans-04-05-abraham-48-english.md`
+- Extent: three synchronized markers, printed pp. 296–298 / IA leaves 304–306
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

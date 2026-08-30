@@ -1280,6 +1280,23 @@ through the close of the second main question on printed p. 302 / IA leaf
 - English: `parts/part-75-romans-04-05-abraham-51-english.md`
 - Extent: two synchronized markers, printed pp. 301–302 / IA leaves 309–310
 
+## Part 76: fifty-second unit of the Romans 4:5 lecture
+
+Part 76 opens the third main question, which asks which righteousness of
+Christ is imputed, and begins its first sub-inquiry concerning Christ's
+essential divine righteousness. Tuckney surveys Osiander's life, Adamic
+theology, Christology, agreements and disagreements with Roman theology, and
+doctrine of essential indwelling. The detailed exposition ends where Tuckney
+declares that stating Osiander's position has itself nearly refuted it. It
+runs from `Soluto jam tandem secundo` on printed p. 302 / IA leaf 310 through
+that preliminary exposition on printed p. 305 / IA leaf 313. Tuckney's
+structured concessions and objections, beginning `Sed ut magis liberaliter
+cum Osiandro agamus`, are excluded.
+
+- Latin: `parts/part-76-romans-04-05-abraham-52-latin.txt`
+- English: `parts/part-76-romans-04-05-abraham-52-english.md`
+- Extent: four synchronized markers, printed pp. 302–305 / IA leaves 310–313
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

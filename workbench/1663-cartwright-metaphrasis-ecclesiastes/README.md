@@ -2354,3 +2354,171 @@ between the judgment of the Holy Spirit and the judgment of corrupt flesh.
 
 [End of Part 100. The next part begins on reader image PA325, printed p. 325,
 at the repeated lemma `VERSE 14. Therefore I had praised gladness`.]
+
+**Part 101 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 8:14 lemma and its complete exposition on
+the single reader image `PA325`. It begins on printed p. 325 at `Vers. 14.
+Quapropter laudaveram ego laetitiam`, crosses the printed-page join between
+`futura` and `vita`, and ends on printed p. 326 at the ruled division
+immediately before `CAPUT IX`. The paired Latin transcription and English
+translation below have one exactly identical reader-image marker and retain
+the argument attributed to corrupt flesh, the images of bridles and reins,
+thick cords, broken banks, and an athletic contest, the printed reference
+`Esa. 5.`, and the witness's `quid ni` as two words.
+
+This unit is bounded by the chapter division rather than by an arbitrary image
+count. The next unit begins on reader image `PA325` / printed p. 326 at `CAPUT
+IX`, followed by `Vers. 1. Quum autem adhiberem animum meum ad cognoscendam
+sapientiam`.
+
+### Part 101 — Latin source transcription
+
+THOMAS CARTWRIGHT
+
+METAPHRASIS ET HOMILIAE IN LIBRUM SALOMONIS, QUI INSCRIBITUR ECCLESIASTES
+(1663)
+
+PARS CENTESIMA PRIMA — HOMILIAE, CAPUT VIII, VERSUS 14
+
+Transcription diplomatica-normalizata, ope AI confecta et nondum recognita.
+Imagines voluminis Google Books `pthrWjdL0BgC` textum regunt; OCR tantum
+subsidium est. Longum s, ligaturae, divisiones in fine linearum, atque usus
+typographicus u/v normalizantur. Haec pars incipit in imagine PA325, pagina
+impressa 325, ad lemma iteratum versus 14; integram ejus expositionem continet;
+atque in eadem imagine, pagina impressa 326, ante divisionem et titulum
+`CAPUT IX` desinit.
+
+[Google Books pthrWjdL0BgC | reader image PA325 | printed pp. 325–326 | begins on p. 325 at repeated Vers. 14; crosses the printed-page join at futura / vita; ends on p. 326 at the ruled division immediately before Caput IX]
+
+VERS. 14. Quapropter laudaveram ego laetitiam, nullum esse bonum homini sub
+Sole, nisi ut comedat ac bibat & laetetur: hoc enim adjacere ipsi ex labore
+suo diebus vitae suae, quos dat ei Deus sub Sole.
+
+Sequitur conclusio, quam caro ex hac impia sententia deducit, cujus summa est:
+fraena & habenas libidini & luxui esse omnino remittenda, ut nostris ipsorum
+brutis & caecis cupiditatibus per omnia obsequamur, edendum, bibendum,
+ludendum, scortandum: breviter, hoc quid aliud est, quam funibus crassis
+peccata (ut inquit Propheta, Esa. 5.) trahere? Sic impii peccata peccatis
+nectunt, ut uno absurdo semel admisso, multa consequantur. Sic fit ut
+perruptis littoribus & ripis, atque cataractis omnibus apertis, peccatorum
+fluctus terram ipsam & terrae faciem operiant.
+
+Ratio quam addit, quod nullum aliud bonum sit, quod hominem manet, praeter
+hujus vitae voluptatem, si promiscue omnia piis & improbis obveniunt: ut esset
+vera, (sicut à vero penitus abhorret) tamen haec non sunt recte conclusa:
+quandoquidem ut nullum esset praemium pietatis, neque in hac neque in futura
+vita, tamen Deo, qui jus creationis atque conservationis in nos habet,
+parendum est. Deo equidem & ejus bonitati & justitiae visum est, praemium piis,
+sicut poenam impiis constituere, quo pii allecti animosius & majori studio Dei
+obsequio se addicerent: sed si nullum bene operantibus praemium repositum
+esset, illos tamen jus atque authoritas Dei in officio & obsequio erga Deum
+retinere deberet.
+
+Praeterea ex his quae hujus conclusionis fundamenta caro jecit, non
+consequitur haec quae hoc loco infertur conclusio: caro etiam illud modo
+proposuit, esse justum cui obtingit sicut injusto, & esse injustum cui obvenit
+ut justo, neutrum universim & sine omni exceptione affirmans. Si igitur
+inveniantur quidam justi, qui suae justitiae praemium consequuntur; aut
+injusti, qui suae injustitiae poenam auferunt: ob illam ipsam remunerationem
+in bono aut malo, quam aliqui consequuntur, cum virtus persequenda, tum vitium
+declinandum erat. Videmus enim multos in stadio currere, & ad metam omnibus
+nervis contendere, cum tamen unus brabium reportet: quid ni igitur opera danda
+est, ut pie & sancte vivamus: etiamsi non omnes suae pietatis praemium
+adipiscerentur? Sed hic videmus quanta propensione animi, ad omnem vitae
+licentiam praecipites ferimur, qui primum falsa comminiscimur, quibus studium
+pietatis & justitiae frangatur atque labefactetur: deinde quomodo ex illis
+falsis principiis captiose & sophistarum more ratiocinamur: ut in hoc
+improbitatis aedificio, quod mens humana exstruit, cum fundamenta ipsa infirma
+sint, quae illis superstruuntur fundamentis analoga necessum est.
+
+[Finis Partis 101. Pars sequens incipit in eadem imagine PA325, pagina
+impressa 326, ad divisionem `CAPUT IX` et lemma `VERS. 1. Quum autem adhiberem
+animum meum ad cognoscendam sapientiam`.]
+
+### Part 101 — English translation
+
+#### Thomas Cartwright, *Metaphrasis and Homilies on Ecclesiastes* (1663)
+
+##### Homilies, Chapter 8, Verse 14
+
+> **AI-assisted first draft from the Latin; not independently reviewed.** The
+> Google Books images of volume `pthrWjdL0BgC` control the transcription and
+> translation. OCR has been used only as an aid and not as source authority.
+> This English is a fresh close translation prepared for checking, not a
+> summary or publication. No modern translation has been used. This part
+> begins on PA325, printed p. 325, at the repeated lemma for verse 14; it
+> contains the complete exposition of verse 14; and it ends on the same reader
+> image, printed p. 326, at the ruled division before Chapter 9.
+
+[Google Books pthrWjdL0BgC | reader image PA325 | printed pp. 325–326 | begins on p. 325 at repeated Vers. 14; crosses the printed-page join at futura / vita; ends on p. 326 at the ruled division immediately before Caput IX]
+
+VERSE 14. Therefore I had praised gladness: there is no good for a person
+under the Sun except to eat, drink, and rejoice, for this remains with him
+from his labor during the days of his life that God gives him under the Sun.
+
+There follows the conclusion that the flesh draws from this ungodly judgment.
+Its sum is this: the bridles and reins are to be completely relaxed for lust
+and luxury, so that in every respect we may obey our own brutish and blind
+desires—we must eat, drink, play, and fornicate. In brief, what else is this
+than to draw sins with thick cords, as the Prophet says, Isaiah 5? Thus the
+ungodly link sins to sins, so that once one absurdity has been admitted, many
+follow. Thus it comes about that, when the shores and banks have been broken
+through and all the floodgates opened, the floods of sins cover the earth
+itself and the face of the earth.
+
+The reason the flesh adds is that, if all things befall the godly and the
+ungodly indiscriminately, no other good awaits a person except the pleasure of
+this life. Even if this reason were true—as it is utterly remote from the
+truth—these conclusions still would not have been rightly drawn. For even if
+there were no reward for godliness, either in this life or in the life to
+come, God must nevertheless be obeyed, since he possesses the right of
+creation and preservation over us. Indeed, God in his goodness and justice
+saw fit to appoint a reward for the godly, just as he appointed punishment for
+the ungodly, so that the godly, attracted by it, might devote themselves to
+obedience to God more courageously and with greater zeal. But even if no
+reward had been laid up for those who do well, the right and authority of God
+ought nevertheless to keep them in their duty and obedience toward God.
+
+Moreover, the conclusion inferred here does not follow from the things that
+the flesh laid as foundations for this conclusion. The flesh had just
+proposed that there is a righteous person to whom it happens as to the
+unrighteous, and that there is an unrighteous person to whom it happens as to
+the righteous; it affirmed neither statement universally and without any
+exception. Therefore, if some righteous people are found who obtain the
+reward of their righteousness, or some unrighteous people who bear the
+punishment of their unrighteousness, then, on account of that very recompense
+in good or evil which some obtain, virtue was to be pursued and vice avoided.
+For we see many people running in the stadium and striving toward the finish
+with every sinew, although only one carries off the prize. Why then should
+every effort not be made to live piously and holily, even if not all were to
+obtain the reward of their godliness?
+
+But here we see with how great a propensity of mind we are carried headlong
+toward every license in life. First we invent falsehoods by which the pursuit
+of godliness and righteousness is broken and undermined; then we see how we
+reason captiously from those false principles, after the manner of Sophists.
+Thus, in this edifice of wickedness that the human mind constructs, since the
+foundations themselves are weak, it is necessary that the things built upon
+them should correspond to the foundations.
+
+*Translator's notes:*
+
+The repeated verse-14 lemma on printed p. 325 agrees with the initial lemma in
+the verse-8–14 block on PA315. Its English wording is repeated exactly from
+Part 97 so that the paired sequence remains consistent.
+
+The exposition crosses from printed p. 325 to p. 326 between `futura` and
+`vita`. The transcription normalizes the page-end division as `futura vita`,
+and the shared PA325 marker records the join in both texts.
+
+The printed citation `Esa. 5.` is retained at its point in the Latin argument
+and rendered “Isaiah 5” in the translation. No additional independent
+marginal note appears within this unit.
+
+The witness prints `quid ni` as two words, and the transcription retains that
+spacing. The Greek-derived `brabium`, the prize in an athletic contest, is
+translated “prize.”
+
+[End of Part 101. The next part begins on the same reader image PA325, printed
+p. 326, at the division `CHAPTER IX` and the lemma `VERSE 1. But when I applied
+my mind to knowing wisdom`.]

@@ -1419,6 +1419,21 @@ prerogativa`, is excluded.
 - English: `parts/part-84-articles-of-faith-and-reason-03-english.md`
 - Extent: three synchronized markers, new-series fols. 9–11 / IA leaves 329–331
 
+## Part 85: fourth unit on articles of faith and human reason
+
+Part 85 completes Tuckney's formal proof that articles of faith must not be
+measured by human reason. Its five arguments appeal to God's prerogative,
+Scripture's mode of teaching, the transcendent nature of divine mysteries,
+reason's weakness in every human state, and the distinction between faith
+and reason. It runs from `Probatio` on new-series fol. 11 / IA leaf 331
+through Bacon's concluding admonition on new-series fol. 14 / IA leaf 334.
+The following separately headed determination on the moral law, beginning
+`Deus, Fons Luminum, Pater Misericordiarum`, is excluded.
+
+- Latin: `parts/part-85-articles-of-faith-and-reason-04-latin.txt`
+- English: `parts/part-85-articles-of-faith-and-reason-04-english.md`
+- Extent: four synchronized markers, new-series fols. 11–14 / IA leaves 331–334
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

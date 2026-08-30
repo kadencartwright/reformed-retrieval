@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations through printed page 297 of Volume II. The
-> forty-seven paired parts remain unreviewed and are not publication-ready.
+> close English translations through printed page 306 of Volume II. The
+> forty-eight paired parts remain unreviewed and are not publication-ready.
 
 ## Work and edition
 
@@ -89,11 +89,11 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 297 is applied and disclosed in the relevant
+completed span through printed p. 306 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, XVIII, XIX, XX, XXI,
-XXII, XXIII, XXV, XXVI, and XXVII were read from the images, not reconstructed
-from IA OCR.
+XXII, XXIII, XXV, XXVI, XXVII, and XXVIII were read from the images, not
+reconstructed from IA OCR.
 Apparatus notes record printed errata, source-language glosses needed by the
 English, and anomalous citations without silently repairing them.
 
@@ -106,7 +106,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Forty-seven paired parts are complete as scan-audited, AI-assisted, unreviewed
+Forty-eight paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -352,12 +352,18 @@ working drafts:
   and leaves 293–303; eleven synchronized markers.
   [Latin](parts/part-47-book-04-chapter-27-walaeus-strangius-arguments-latin.txt) |
   [English](parts/part-47-book-04-chapter-27-walaeus-strangius-arguments-english.md)
+- **Part 48:** all of Chapter XXVIII, answering sixteen numbered and one
+  unnumbered objections that the fourth precept is ceremonial or typical,
+  including its alleged sacramental, memorial, and heavenly-rest senses;
+  printed pp. 297–306 / IA PDF and leaves 303–312; ten synchronized markers.
+  [Latin](parts/part-48-book-04-chapter-28-not-ceremonial-latin.txt) |
+  [English](parts/part-48-book-04-chapter-28-not-ceremonial-english.md)
 
-Part 47 ends with Chapter XXVII's conclusion on printed p. 297. The exact next
-untranslated chapter text is `CAP. XXVIII.` on printed p. 297 / IA PDF 303 /
-IA leaf 303, followed by `Praeceptum Decalogi quartum non est Ceremoniale.`
-Chapters VI through XXVII are complete. Every completed pair has an identical
-source-marker sequence, and all forty-seven pairs remain AI-assisted and
+Part 48 ends with Chapter XXVIII's conclusion on printed p. 306. The exact
+next untranslated chapter text is `CAP. XXIX.` on printed p. 307 / IA PDF 313 /
+IA leaf 313, followed by `Quartum Decalogi praeceptum obligabat Gentiles.`
+Chapters VI through XXVIII are complete. Every completed pair has an identical
+source-marker sequence, and all forty-eight pairs remain AI-assisted and
 unreviewed.
 
 ## Licensing

@@ -66,11 +66,12 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–27 contain none of the appended documents. Parts 01–26 do not
+prose. Parts 01–28 contain none of the appended documents. Parts 01–26 do not
 reach the embedded Tilenus refutation; Part 27 opens Chapter V by reporting
-and quoting Tilenus’s claims before Calderwood answers them. Parts 07–27 also
+and quoting Tilenus’s claims before Calderwood answers them. Parts 07–28 also
 include long passages that Calderwood expressly quotes from Thomas Brightman,
-Tilenus, Eusebius, Scaliger, Luther, German theologians, English jurists,
+Tilenus, Eusebius, Scaliger, Luther, German theologians, Francis Bacon,
+English jurists,
 patristic writers, imperial and conciliar legislation, English canons,
 canonists, and other named writers; the paired files retain their quotation
 boundaries and attributions.
@@ -89,13 +90,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-seven numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the first of Chapter V’s four announced issues,
-ending in the lower portion of printed p. 310, but
+Twenty-eight numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the second of Chapter V’s four announced issues,
+ending in the lower portion of printed p. 313, but
 the inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
-This update does not silently clear those flags: Parts 09–27 begin exactly at
+This update does not silently clear those flags: Parts 09–28 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -127,6 +128,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 25 | Chapter IV: rural bishops, small ancient dioceses, and later diocesan expansion | printed pp. 290–301 / PDFs 302–313, both boundary pages partial | 12 paired and image-audited |
 | 26 | Chapter IV: the presiding bishop and chapter close | printed pp. 301–302 / PDFs 313–314, first boundary page partial | 2 paired and image-audited |
 | 27 | Chapter V: English episcopacy, German superintendents, and the royal derivation of jurisdiction | printed pp. 303–310 / PDFs 315–322, last boundary page partial | 8 paired and image-audited |
+| 28 | Chapter V: singular exercise of episcopal jurisdiction | printed pp. 310–313 / PDFs 322–325, both boundary pages partial | 4 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -1020,7 +1022,54 @@ joins, and both boundaries.
 - Latin: `parts/part-27-chapter-05-anglican-episcopacy-and-royal-jurisdiction-latin.txt`
 - English: `parts/part-27-chapter-05-anglican-episcopacy-and-royal-jurisdiction-english.md`
 
-All twenty-seven units remain **AI-assisted and unreviewed**. They require
+### Part 28 bounds and evidence
+
+Part 28 resumes exactly after Part 27’s `ab authoritate regia` in the lower
+portion of printed p. 310 / IA leaf 322 / PDF p. 322 at:
+
+`Quod ad secundum attinet audiamus censuram Francisci Baconi`
+
+It contains the second of Chapter V’s four announced issues, the singular
+exercise of episcopal jurisdiction. Calderwood quotes Francis Bacon’s critique
+of bishops who ordain, excommunicate, and judge alone; Bacon compares episcopal
+practice with the collegial administration of the English temporal courts,
+argues that deans and chapters originally assisted bishops in jurisdiction,
+and proposes restoring assessors in weightier spiritual causes. Calderwood
+then distinguishes that relatively late arrangement from the earlier common
+government of all a city’s presbyters, rejects Roman consistorial government
+as a model, and develops the temporal-court comparison with quotations from
+the *Assertio verae Christianae politiae* and Downham. All visible marginal
+citations and quotation boundaries are retained.
+
+Part 28 ends in the lower portion of printed p. 313 / IA leaf 325 / PDF p. 325
+at:
+
+`...quantum potest fieri, repudiant.`
+
+The immediately following paragraph, `Quantum ad tertium, nempe deputationem
+attinet`, opens the third announced issue and is excluded. This gives Part 28
+four identical Latin and English source markers and three byte-identical
+marginalia entries in two records. At the p. 311/312 boundary the
+printer-divided `Presby-` / `teri` is joined, with the incoming marker placed
+before the complete Latin word and the corresponding English word. The p. 310
+catchword `fere` and p. 312 catchword `alias` are omitted without duplication;
+their incoming markers stand before the corresponding text on pp. 311 and 313.
+The anomalous 1623 plural `Presbyterii` is retained in the Latin and translated
+by its evident sense; the 1708 reset regularizes it to `Presbyteria`.
+
+The controlling Internet Archive access PDF documented above was used; PDFs
+322–325 were freshly rendered at 240 dpi and inspected page by page against
+both files, and PDFs 323–325 were also rendered at 500 dpi for dense-text and
+marginalia checks. The PDF’s page count, byte size, and SHA-256, and the hashes
+of the OCR/scandata aids, match the acquisition evidence already documented
+under Part 07. The IA OCR and the 1708 Leiden reset assisted reading only; the
+1623 images governed wording, typography, quotations, citations, joins, and
+both boundaries.
+
+- Latin: `parts/part-28-chapter-05-singular-exercise-of-episcopal-jurisdiction-latin.txt`
+- English: `parts/part-28-chapter-05-singular-exercise-of-episcopal-jurisdiction-english.md`
+
+All twenty-eight units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

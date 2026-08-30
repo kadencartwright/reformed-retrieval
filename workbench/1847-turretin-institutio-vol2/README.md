@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question I
+  Christi Mediatorio*, begun through Question II
 
 ## Controlling witness and rights
 
@@ -40,18 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–58 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–59 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Question I, from
-printed p. 3 / PDF 31 through section XIII on printed p. 334 / PDF 362. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–II,
+from printed p. 3 / PDF 31 through section XXIII of Question II on printed p.
+339 / PDF 367. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,253 numbered
-sections across 323 unique numbered text pages and 373 source markers in each
-language (367 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 178,523 whitespace-delimited
-words and the complete English files 243,715, counted over Parts 01–58 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,276 numbered
+sections across 328 unique numbered text pages and 379 source markers in each
+language (373 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 180,977 whitespace-delimited
+words and the complete English files 247,076, counted over Parts 01–59 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -115,6 +116,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 56 | Locus XIII, Question XVIII | printed pp. 321–323 / PDFs 349–351 | XII | 3 | `part-56-locus-13-question-18-{latin.txt,english.md}` |
 | 57 | Locus XIII, Question XIX | printed pp. 324–327 / PDFs 352–355 | XX | 4 | `part-57-locus-13-question-19-{latin.txt,english.md}` |
 | 58 | Locus XIV, Question I | title and blank verso PDFs 357–358; printed pp. 331–334 / PDFs 359–362 | XIII | 6 | `part-58-locus-14-question-01-{latin.txt,english.md}` |
+| 59 | Locus XIV, Question II | printed pp. 334–339 / PDFs 362–367 | XXIII | 6 | `part-59-locus-14-question-02-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -937,9 +939,36 @@ aid. No supplementary witness was needed. The visibly printed `ilberaret` in
 section IX is retained in the Latin with `[sic]` rather than silently corrected.
 The Question II heading and body later on printed p. 334 / PDF 362 are excluded.
 
-Part 58's exact next restart is `QUAESTIO II. An Christus sit Mediator secundum
-utramque Naturam. Affirm. cont. Pontific. et Stancarum.` on printed p. 334 /
-PDF 362.
+Question II of Locus XIV argues against Roman Catholics and Stancarus that
+Christ is mediator according to both natures. It distinguishes the one acting
+person, the two formal natural principles, their two proper operations, and
+the one mediatorial work; then it shows that Christ's prophetic, priestly, and
+kingly offices and the effects of his mediation require both his divinity and
+humanity. It answers objections concerning 1 Timothy 2:5, mediation before the
+incarnation, the Trinity's common external operations, Christ's economic
+subordination, Moses, and Arianism, in twenty-three sections. It begins at the
+Question II heading below section XIII of Part 58 on printed p. 334 / PDF 362
+and ends with section XXIII on printed p. 339 / PDF 367 immediately before
+Question III. The Latin and English files contain 2,454 and 3,361
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all six printed-page markers in the same sequence and
+retain all ten substantive marginal headings, citations, and scan-exact Greek.
+The printed pp. 334/335 join falls within section II between `passiones` and
+`Mediatoris`; the pp. 335/336 join falls within section VI between `qui solus
+eum novit?` and `Matth. xi. 27`. At the pp. 336/337 join, the printer-divided
+`ac-/tionibus` is normalized as `actionibus`, with the incoming marker placed
+before the complete word in both files. The pp. 337/338 and pp. 338/339 joins
+fall cleanly between sections XV and XVI and sections XXII and XXIII,
+respectively. The six controlling facsimile images were audited against both
+files; the OCR excerpt was used only as an aid. No supplementary witness was
+needed. The edition visibly misnumbers the twelfth paragraph `IX.`; both files
+retain it as `IX. [sic; XII.]`. The visibly printed `est actionibus` in that
+paragraph is likewise retained in the Latin with `[sic]`; the context appears
+to require `et actionibus`. The Question III heading and body later on printed
+p. 339 / PDF 367 are excluded.
+
+Part 59's exact next restart is `QUAESTIO III. An Christus sit Mediator
+Angelorum? Neg.` on printed p. 339 / PDF 367.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

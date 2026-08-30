@@ -1,0 +1,121 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part resumes near the top of shared printed p. 576 at
+the lemma `1 TIM. 1:19.`, without repeating Part 47's closing conclusion. It
+contains the complete question whether Hymeneus, Philetus, Alexander, Demas,
+David, and Solomon were truly regenerate and afterward apostates. It ends
+within printed p. 579 after the third and final point concerning Solomon. The
+new lemma printed `PHIL. 2:21.` and the following question concerning
+exhortations, fear, and the absolute promise of perseverance are excluded and
+form the exact restart for Part 49. Printer line-end and page-end divisions
+have been joined; each new-page marker precedes the whole word at a split-word
+boundary.]
+
+[Errata note: The printed errata's direction for p. 579 line 23 concerns the
+following excluded lemma and is reserved for Part 49. No printed correction
+applies within this unit.]
+
+[Printed-form note: The Greek `περὶ τὴν πίστιν ἐναυάγησαν` is retained and
+translated. The difficult or visibly irregular forms and citations `Matth.
+7:22,23`, `Phil. 4:3`, `Act. 19`, `Joan. 13:1`, and the claim concerning
+Socrates are retained or disclosed rather than silently regularized. No Hebrew
+or substantive marginal note occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 576 | PDF p. 625 | begins at 1 TIM. 1:19.]
+
+1 TIM. 1:19.
+
+--- Quâ nonnulli expulsâ, naufragium fidei fecerunt. v. 20. Ex quibus est
+Hymeneus & Alexander.
+
+Quæritur, An Hymeneus, Philetus, Alexander, Demas, David, Salomon, verè
+regeniti fuerunt, & tamen tandem Apostatæ? Ajunt Remonstrantes. Nos negamus.
+
+1. Quia Hymeneus & Alexander dicuntur aberrâsse à fide tanquam à scopo, h. e.
+à sanâ doctrinâ fidei, quippe, negantes præcipuum articulum fidei,
+resurrectionem mortuorum. Nam fides hîc sumitur pro objecto fidei, seu fide,
+quæ creditur; non pro habitu salvificæ fidei, seu pro fide, quâ ad salutem
+creditur: Neque enim fides sana de Resurrectione mortuorum validè arguit
+regenerationem.
+
+2. Repellunt multi bonam conscientiam, qui eam non habent. Nam bonam
+conscientiam repellebant non formalitèr, quasi habuerint, sed in causâ suâ,
+nempe, sanâ doctrinâ interpretativè; quia eam habere nolebant. Ideò specialis
+exceptio à Paulo ponitur, & in quo eorum defectio fuit, exponit, περὶ τὴν
+πίστιν ἐναυάγησαν.
+
+3. Non negamus, eos rejecisse eandem fidem objectivè, quæ fuit in Timotheo,
+nempe, sanam doctrinam, quam Timotheus salvificè
+
+[1668 KBNL/UvA witness | logical printed p. 577 | PDF p. 626 | split word joined: amplexus]
+
+amplexus est; illi verò Theoreticè, & sanè tenuerunt, sicut ii qui habitum
+Theologiæ sanæ acquisitum habent, donec Resurrectionem negârunt. Sed non fuit
+eadem Fides specie & naturâ; quinimò differunt, ut habitus Fidei seu Theologiæ
+supernaturalitèr infusus, quæ est in verè regenitis, & habitus Fidei seu
+Theologiæ, studio & exercitatione acquisitus; quem etiam irregenitus habere
+potest, ut impii Prophetæ & Ecclesiastæ. Matth. 7:22, 23.
+
+4. Quia Demas mundum dilexit plus, quàm fidum pastorem decuit, & quidem
+tempore gravissimæ persecutionis, & alium fidum Pastorem deseruit, ideò non
+sequitur fuisse Apostatam.
+
+5. Nec rectè concludunt Demam inscriptum fuisse libro vitæ & electum, ex Col.
+4:14. Quia salutat sanctos, & fuit adjutor Pauli; nisi diceretur Phil. 4:3.
+omnia coadjutorum suorum nomina, citra exceptionem inscripta fuisse in libro
+vitæ, quod minimè dicitur: Etsi Paulus juxta charitatem, tunc de singulis ità
+judicare potuit.
+
+6. Graves Theologi putant Alexandrum, qui in discrimen mortis pro Evangelio,
+se cum Paulo conjecit Act. 19. fuisse Ærarium illum, Paulo tandem hostem
+infestissimum. 2 Tim. 4:14. Nec omnes, qui pro veritate patiuntur, statim verè
+regeniti sunt; constat enim Socratem cicutam bibisse, eò quòd multitudinem
+Deorum negaret.
+
+[1668 KBNL/UvA witness | logical printed p. 578 | PDF p. 627]
+
+7. Negamus Davidem Apostatam fuisse, quia in operibus carnis non ambulavit:
+nec unum aut alterum opus carnis regno cœlorum, nisi demeritoriè excludit: quia
+longè differunt, Davidem esse virum mortis demeritoriè, & è regno cœlorum
+excludi demeritoriè (quod nos de Davide agnoscimus) & esse virum mortis
+formalitèr & actu (quod nos de Davide negamus). Nec multum est, quod dicunt
+Adversarii, Davidem Apostatam fuisse, quia verbum Jehovæ sprevit, & hostes
+blasphemare fecit. 2 Sam. 12. & bona opera, fidei declarativa, eo temporis
+puncto nulla habuit: quia sic omnes sancti peccantes & dormientes, gratiâ
+exciderent; cùm tamen certum sit. 1. Præclaris partibus Judicis eo tempore
+functum esse, & sententiam bono Rege dignam in ereptorem oviculæ tulisse. 2.
+Deum Fœdus æternum cum Davide pepigisse. 3. David oravit, nè Spiritum gratiæ
+Deus sibi auferret: habuit, ergo, spiritum Adoptionis. 4. Non dicent Arminiani
+congruentèr suis principiis, infusum fuisse supernaturalem habitum & potentiam
+credendi, orandi, resipiscendi, primâ concione Nathanis Prophetæ; quia negant
+omnem infusionem habitûs supernaturalis: Et etiam negant concionibus
+Propheticis, quæ suasoriè & moralitèr tantùm operantur, infundi supernaturales
+potentias: quinimò volunt omnem potentiam supernaturalem credendi &
+resipiscendi, & habitum, non nisi
+
+[1668 KBNL/UvA witness | logical printed p. 579 | PDF p. 628 | split word joined: crebris]
+
+crebris actionibus, & frequenti exercitio & industriâ acquiri. Constat autem
+ex Historiâ, Davidem ad primam concionem Nathanis seriò resipuisse, credidisse,
+& Psalmum 51 concepisse verè pœnitentialem; ac proindè semen Dei i. e. habitum
+salvificæ gratiæ in Davide latuisse, sub isto horrendo lapsu.
+
+Denique de Solomone dicimus, eum Apostatam minimè fuisse. 1. Quòd Scriptura
+asserat Deum ipsum dilexisse: Ergo, ad finem illum dilexit. Joan. 13:1. & ille
+vicissim Deum dilexit.
+
+2. Promisit Deus, se nunquam deserturum Solomonem, quemadmodùm Saulum
+Apostatam deseruerat.
+
+3. Licèt gravitèr peccarit, eum in Idolis fiduciam collocâsse, probari non
+potest ex Sacrâ Scripturâ, neque divinitatem iis tribuisse, ut Ethnici. Licèt,
+exemplo satis dolendo, externos idololatriæ actus patravit; non tamen ad
+Idololatriam populum incitavit, ut Aaron; non coegit eos, ut Jeroboam; non in
+propriâ personâ ea adoravit, non in Templo collocavit.

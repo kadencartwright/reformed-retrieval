@@ -1,0 +1,70 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 page images, using the
+> British Library exemplar for the KBNL/University of Amsterdam copy's absent
+> pp. 574–575. It must be checked by a qualified human editor before quotation
+> or publication.
+
+[Editorial note: This part resumes within shared printed p. 574 at the lemma
+`2 PET. 2:20.`, without repeating Part 46's closing analogy. It contains the
+complete four-argument question whether those who escape the world's
+pollutions through knowledge of Christ and are entangled again were truly
+regenerate. It ends at the top of printed p. 576 after the conclusion that
+they joined the saints outwardly while lacking true sanctity. The new lemma `1
+TIM. 1:19.` is excluded and forms the exact restart for Part 48. Printer
+line-end and page-end divisions have been joined; each new-page marker
+precedes the whole word at a split-word boundary.]
+
+[Witness note: Printed pp. 574–575 are absent leaves in the controlling
+KBNL/UvA scan and are supplied here from Google/BL `mLpoAAAAcAAJ`, PA574–PA575.
+The text returns to the controlling witness at printed p. 576 / PDF 625.]
+
+[Errata note: The printed errata has no applicable correction for this unit.]
+
+[Printed-form note: The printed Greek `ὄντες`, the textual variants `ὄντως`
+and `ὀλίγως`, and the
+expressions `ψυχὰς ἀστηρίκτους` and `ἀγάπαις`, are retained and translated or
+explained. The witness's visibly irregular verse references `porcos v. 12`,
+`animantia rationis expertia. v. 13`, and `v. 13. Judæ. v. 12` are retained
+rather than silently regularized. No Hebrew or substantive marginal note
+occurs.]
+
+[Printed p. 574 | Google/KBNL-UvA leaf absent; supplied from Google/BL PA574 | GB mLpoAAAAcAAJ | begins at 2 PET. 2:20.]
+
+2 PET. 2:20.
+
+Nam si postquam pollutiones mundi, per agnitionem Domini & Servatoris Jesu
+Christi effugerint, his rursus implicati superentur, facta est ultima eorum
+conditio deterior priore.
+
+[Printed p. 575 | Google/KBNL-UvA leaf absent; supplied from Google/BL PA575 | GB mLpoAAAAcAAJ]
+
+Undè Quæritur, An hi verè renati fuerunt. Ajunt Remonstrantes. Nos negamus.
+
+1. Quia ut observat Pareus Coment. ibid. Semper iis tribuitur notitia
+historica tantùm. 1. Effugerunt inquinamenta mundi per agnitionem veræ doctrinæ
+& abjectionem errorum. v. 20. in agnitione Domini effugerunt. Et v. 21. satiùs
+fuisset non cognovisse viam justitiæ.
+
+2. Quia Judas, Herodes, Achabus ad tempus multa inquinamenta mundi effugerunt;
+sed rediit Diabolus cum septem deterioribus spiritibus. Nullus est hîc
+fiducialis innixus in Christum, nihil de Justificatione, Redemptione,
+Adoptione, & æternâ horum Electione in Christo est in textu.
+
+3. Quamvis dicuntur ὄντες effugisse, tamen ut observat Beza & Amesius, ὄντως
+non est in codicibus Regio, Complutensi, Plantiniano. Erasmus & Vatablus legunt
+ὄντως: alii codices, ὀλίγως.
+
+4. Tota series contextus contrarium clamat. Nam Petrus vocat tales, qui hæc
+mundi inquinamenta effugerunt, ψυχὰς ἀστηρίκτους, animas instabiles, porcos v.
+12. animantia rationis expertia. v. 13. qui sunt reportaturi mercedem
+injustitiæ; vocat labeculas in epulis ipsorum, habentes oculos adulterii
+plenos; inescantes; habentes cor ad avaritiam exercitatum. v. 15. Ergo,
+externè tantùm profitebantur Christum, & in ἀγάπαις sese jungebant cum
+
+[1668 KBNL/UvA witness | logical printed p. 576 | PDF p. 625]
+
+sanctis, cùm tamen nihil veræ sanctitatis in se haberent. v. 13. Judæ. v. 12.

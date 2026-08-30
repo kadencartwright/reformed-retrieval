@@ -1,0 +1,138 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumtertium, De Perseverantia Sanctorum — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images, with the absent printed p. 574 supplied from the
+> British Library exemplar. It must be checked by a qualified human editor
+> before quotation or publication.
+
+[Editorial note: This part begins within shared printed p. 570 at the lemma
+`HEB. 6:4.`, the exact restart reserved by Part 45. It contains the complete
+ten-argument response to the claim that Hebrews 6 proves the total and final
+fall of the regenerate. It ends within printed p. 574 after the analogy of
+Joseph and Mary's flight into Egypt. The new lemma `2 PET. 2:20.` is excluded
+and forms the exact restart for Part 47. Printer line-end and page-end
+divisions have been joined; each new-page marker precedes the whole word at a
+split-word boundary.]
+
+[Witness note: The controlling KBNL/UvA scan passes directly from printed p.
+573 / PDF 624 to printed p. 576 / PDF 625. The failed catchword and the intact
+British Library exemplar prove that pp. 574–575 are absent leaves rather than
+a harmless pagination skip. The portion of p. 574 required by this unit is
+therefore supplied from Google/BL `mLpoAAAAcAAJ`, PA574, under its own marker.]
+
+[Errata note: The printed errata has no applicable correction for this unit.]
+
+[Printed-form note: The Greek `παραπίπτειν` and `ἀδύνατον` are retained and
+translated or explained. The witness's forms and citations `Matth. 16:28`, `1
+Pet. 2:3`, `Joan. 11:26`, and `Gal. 3:14` are retained rather than silently
+regularized. No Hebrew or substantive marginal note occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 570 | PDF p. 621 | begins at HEB. 6:4.]
+
+HEB. 6:4.
+
+Nam fieri non potest, ut qui semel fuerunt illuminati, gustaveruntque donum
+illud cœleste, & participes facti fuerunt Spiritûs Sancti v. 5.
+Gustaveruntque bonum Dei Verbum, & virtutes futuri seculi. v. 6. Si
+prolabantur, denuò renoventur ad resipiscentiam.
+
+Ex hoc loco conantur Adversarii probare, verè regenitos & justificatos, gratiâ
+totalitèr & finalitèr excidere posse. Script. Synod. art. 5. pag. 237.
+
+[1668 KBNL/UvA witness | logical printed p. 571 | PDF p. 622]
+
+Nos negamus tales, de quibus loquitur Apostolus, verè renatos fuisse.
+
+1. Quia hic locus, ut nostri post Athanasium rectè notant, est intelligendus
+de peccato in Spiritum Sanctum; non est hic simplex peccatum, sed
+παραπίπτειν, est excidere totali apostasiâ: quod peccatum in verè electos &
+justificatos, cadere non posse, infinita Scripturæ loca probant, ut suprà
+visum; id quod notat Pareus comment. ibid.
+
+2. Quia tales, de quibus hîc loquitur, aures paratas, & sensus ad discretionem
+boni & mali non habuerunt, nec solidi cibi capaces erant; imò tales erant
+quibus necessaria fuit alphabetaria instructio in primis elementis
+Christianitatis, ut videre est c. 5:12, 13, 14. At verò Apostolus ait de
+electis & verè credentibus, ad quos scribit v. 9. & 10. hujus capitis, se
+persuasum esse de melioribus & saluti adhærentibus, de laboriosâ charitate
+eorum, quâ sanctis ministrârunt.
+
+3. Quia totum argumentum est ex utrâque affirmante in secundâ figurâ.
+
+Renati fuerunt illuminati, gustaverunt donum cœleste, participes facti sunt
+Spiritûs Sancti.
+
+At hi justificati & regeniti ad quos scribit Apostolus, sunt illuminati,
+gustaverunt donum cœleste, &c. Ergo &c.
+
+Alioqui major propositio conversa est apertè falsa, & id quod est in
+quæstione.
+
+[1668 KBNL/UvA witness | logical printed p. 572 | PDF p. 623]
+
+4. Quia cùm non agat hîc Apostolus de crassioribus hypocritis, sed de
+professoribus paulò illuminatioribus; non rarò fit ut ii, qui nunquam renati
+fuerunt, primoribus labris suavitatem verbi & fœlicitatem futuri seculi
+gustent. Nam gustare in verbo opponitur rei internæ & radicatæ impressioni in
+cor, affectus & potentias animi: Undè gustare mortem Matth. 16:28. Et Christus
+mortem gustasse dicitur, & tamen scimus eum mortis imperio non planè subjectum
+fuisse. Et 1 Pet. 2:3. significat initialem perceptionem gratiæ, quæ præcedit
+primam infantis nativitatem & genituram. Gustare mortem credentibus tribuitur,
+de quibus negatur quòd sint morituri. Joan. 11:26. Ergo, gustare virtutes
+futuri seculi, non necessariò ità sonat, participem fieri vitæ æternæ, ut ii
+qui primitias habent; sed ut ii, qui non sunt participes. At quamvis hujus
+gustationis objectum materiale sit bonum Dei Verbum & virtutes futuri seculi;
+attamen non est objectum formale: multùm enim differunt, diligere uxorem, ut
+scortum, amore meretricio, & diligere eam, ut uxorem, amore conjugali: Eodem
+modo res cœlestis & spiritualis sæpè gaudio afficit Herodem seu temporarium,
+ut bonum jucundum, & verè credentem, ut bonum honestum; sed non sub eadem
+formali ratione. Sicut enim homo spiritualis gaudium spirituale in Deo habet
+de bonis temporalibus; ità homo irrenatus de objecto
+
+[1668 KBNL/UvA witness | logical printed p. 573 | PDF p. 624]
+
+supernaturali, gaudium concipere potest naturale. Non enim affectus & motiones
+voluntatis & cordis, specificationem sumunt ab objecto materiali.
+
+5. Participatio Spiritûs Sancti, est donorum Sp. S. communium in Sacramentis &
+promissis Evangelicis communicatio. Sed quamvis eximia hæc dona hisce
+temporariis tribuantur, est tamen altum silentium de remissione peccatorum, de
+justificatione, de obsignatione Spiritûs, de primitiis vitæ futuræ, de gratuitâ
+electione ad salutem; quæ essentialitèr discriminant credentem à non-credente.
+
+6. Impossibilitas renovationis nullis verè electis & credentibus tribui potest
+secundùm dogmata Adversariorum, qui tuentur gratiam universalem & sufficientem
+præstò esse omnibus in hâc vitâ. Nam quod ἀδύνατον hîc pro difficili somniant,
+adeò ut præstò sit gratia sufficiens talibus, facit levem comminationem peccato
+longè atrocissimo denunciatam; nam talis est pœna levioris peccati.
+
+7. Crucifigere rursum Filium Dei, non magis significat Filium Dei pro iis
+semel crucifixum fuisse, quàm indignè communicantes & participantes Cœnam
+Domini, qui rei dicuntur corporis & sanguinis Domini, tales esse, pro quibus
+corpus Domini fractum & sanguis effusus dicitur in ligno crucis; ut observat
+Amesius in Antisynodalibus.
+
+[Printed p. 574 | Google/KBNL-UvA leaf absent; supplied from Google/BL PA574 | GB mLpoAAAAcAAJ]
+
+Sed alludit hîc Apostolus ad perversos Judæos; qui Christum crucifixerunt de
+novo, sicut patres ipsorum semel sub Pontio Pilato eum crucifixerunt; quia ejus
+ignominiosæ morti assensum præbuerunt malitiosâ oppugnatione Evangelii &
+persecutione omnium credentium in Christum.
+
+8. Sanctificatio illa, quæ iis tribuitur, est 1. Sacramentalis. 2. Interna
+quidem, sed communis. 3. Externa per professionem Evangelii.
+
+9. Falsum est verè regenitos vocari, v. 8. terram maledictam & maledictioni
+proximam, cujus exitus tendit ad exustionem, quia profert spinas & tribulos;
+cùm omnes qui sunt in Christo per fidem, in quo benedictæ sunt omnes gentes
+terræ, benedicti sunt cum Abrahamo. Gal. 3:14.
+
+10. Intendunt Adversarii præcipuè hîc frustraneam esse hanc comminationem
+electis, si Apostasia sit ipsis impossibilis; quæ tamen basis argumenti lubrica
+& debilis est: quia fuga Josephi & Mariæ in Ægyptum cum Christo adhuc infante,
+nè puer ab Herode interficeretur, non est frustranea; licèt occisio Christi in
+infantiâ fuerit ex decreto Dei absoluto æquè impossibilis, quàm electorum
+apostasia.

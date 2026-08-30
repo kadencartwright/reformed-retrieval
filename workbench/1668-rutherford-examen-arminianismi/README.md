@@ -28,10 +28,10 @@ The primary controlling witness is the public-domain Google Books scan
 `9IhiAAAAcAAJ`, digitized from the KBNL/University of Amsterdam copy:
 [`Examen Arminianismi`](https://books.google.com/books?id=9IhiAAAAcAAJ). The
 downloaded PDF has 857 one-based frames and embedded OCR. The page images, not
-OCR, govern transcription. That exemplar is defective at printed pp. 42–43;
-those missing leaves are supplied from the intact British Library exemplar at
-Google Books (`mLpoAAAAcAAJ`). The Biblioteca Angelica copy
-(`GC9rDo5BOUwC`) is also available for comparison.
+OCR, govern transcription. That exemplar is defective at printed pp. 42–43
+and again at printed pp. 574–575; those missing leaves are supplied from the
+intact British Library exemplar at Google Books (`mLpoAAAAcAAJ`). The
+Biblioteca Angelica copy (`GC9rDo5BOUwC`) is also available for comparison.
 
 For the Parts 08–16 audit the controlling PDF was freshly acquired from the
 public-domain Google Books download on 19 August 2026. The acquired file is
@@ -54,16 +54,17 @@ Converter (rel 3 12/12/14)`, and has SHA-256
 - PDF 811–853: editorial chapter/question, Scripture, and subject indexes.
 - PDF 854–857: terminal blank matter; excluded.
 
-The body has press-pagination anomalies and one demonstrated lacuna in the
-controlling copy. Logical p. 28 is visibly misprinted 58. The KBNL/UvA scan
-then passes directly from printed p. 41 / PDF 94 to printed p. 44 / PDF 95;
+The body has a press-pagination anomaly and two demonstrated two-leaf lacunae
+in the controlling copy. Logical p. 28 is visibly misprinted 58. The KBNL/UvA
+scan passes directly from printed p. 41 / PDF 94 to printed p. 44 / PDF 95;
 the failed catchword and the intact British Library copy confirm that complete
-printed pp. 42–43 are absent, not merely misnumbered. Those two pages are
-therefore supplied under explicit witness markers from the public-domain
-British Library Google Books copy `mLpoAAAAcAAJ`. The later numerical sequence
-skips 574–575 while the text and catchwords join continuously. Markers record
-logical/visible pagination, physical PDF frame, and any substitute-witness
-provenance independently.
+printed pp. 42–43 are absent, not merely misnumbered. It later passes directly
+from printed p. 573 / PDF 624 to printed p. 576 / PDF 625; here too the failed
+catchword and the intact British Library copy confirm that complete printed
+pp. 574–575 are absent. Both pairs of leaves are therefore supplied under
+explicit witness markers from the public-domain British Library Google Books
+copy `mLpoAAAAcAAJ`. Markers record logical/visible pagination, physical PDF
+frame, and any substitute-witness provenance independently.
 
 ## Editorial method
 
@@ -1098,3 +1099,76 @@ and conclusion structures.
 
 - Latin: `parts/part-45-chapter-13d-latin.txt`
 - English: `parts/part-45-chapter-13d-english.md`
+
+**Part 46 is complete as a scan-audited working draft.** It begins within
+shared printed p. 570 / PDF 621 at the lemma `HEB. 6:4.`, the exact restart
+reserved by Part 45. It contains the complete ten-argument response to the
+claim that Hebrews 6 proves the total and final fall of the regenerate. It
+ends within printed p. 574 after the analogy of Joseph and Mary's flight into
+Egypt. The new lemma `2 PET. 2:20.` is excluded and forms the exact restart for
+Part 47. The pair has five byte-identical synchronized markers for the partial
+pp. 570 and 574 and complete pp. 571–573. A page-by-page image audit covered
+all five included pages, every page join, the lemma, quotation, complete
+ten-argument structure, biblical, patristic, and polemical citations, Greek,
+and the absence of Hebrew and substantive marginalia. That audit demonstrated
+that the controlling KBNL/UvA copy's passage directly from printed p. 573 /
+PDF 624 to printed p. 576 / PDF 625 is a second two-leaf lacuna: its catchword
+fails, while the intact British Library copy contains complete pp. 574–575.
+The required portion of p. 574 is consequently supplied under an explicit
+Google/BL `mLpoAAAAcAAJ` marker. The printed errata has no applicable
+correction. The Greek `παραπίπτειν` and `ἀδύνατον` are retained and translated
+or explained. The English follows the Latin at clause level while preserving
+the lemma, quotation, distinctions, syllogism, and numbered argument
+structure.
+
+- Latin: `parts/part-46-chapter-13e-latin.txt`
+- English: `parts/part-46-chapter-13e-english.md`
+
+**Part 47 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 574 at the lemma `2 PET. 2:20.`, without repeating Part 46's
+closing analogy. It contains the complete four-argument question whether
+those who escape the world's pollutions through knowledge of Christ and are
+entangled again were truly regenerate. It ends at the top of printed p. 576 /
+PDF 625 after the conclusion that they joined the saints outwardly while
+lacking true sanctity. The new lemma `1 TIM. 1:19.` is excluded and forms the
+exact restart for Part 48. The pair has three byte-identical synchronized
+markers for partial pp. 574–576. The absent pp. 574–575 are supplied under
+explicit Google/BL `mLpoAAAAcAAJ` markers; the text returns to the controlling
+KBNL/UvA witness on p. 576. A page-by-page image audit covered all three
+included pages, both shared-page boundaries, every page join, the lemma,
+complete question and four-argument structure, biblical and textual-critical
+citations, Greek, and the absence of Hebrew and substantive marginalia. The
+printed errata has no applicable correction. The witness's printed `ὄντες`,
+the variants `ὄντως` and `ὀλίγως`, and the expressions `ψυχὰς ἀστηρίκτους` and
+`ἀγάπαις` are retained and translated or explained; visibly irregular verse
+references are disclosed rather than silently regularized. The English
+follows the Latin at clause level while preserving the lemma, question,
+textual variants, and numbered argument structure.
+
+- Latin: `parts/part-47-chapter-13f-latin.txt`
+- English: `parts/part-47-chapter-13f-english.md`
+
+**Part 48 is complete as a scan-audited working draft.** It resumes near the
+top of shared printed p. 576 / PDF 625 at the lemma `1 TIM. 1:19.`, without
+repeating Part 47's closing conclusion. It contains the complete question
+whether Hymeneus, Philetus, Alexander, Demas, David, and Solomon were truly
+regenerate and afterward apostates. It ends within printed p. 579 / PDF 628
+after the third and final point concerning Solomon. The new lemma printed
+`PHIL. 2:21.` and the following question concerning exhortations, fear, and
+the absolute promise of perseverance are excluded and form the exact restart
+for Part 49. The pair has four byte-identical synchronized markers for partial
+pp. 576 and 579 and complete pp. 577–578. A page-by-page image audit against
+the controlling KBNL/UvA Google Books images covered all four included frames,
+both shared-page boundaries, every page join, the lemma, complete question and
+its treatments of all six named figures, biblical, historical, and polemical
+citations, Greek, and the absence of Hebrew and substantive marginalia. The
+printed errata's direction for p. 579 line 23 concerns the following excluded
+lemma and is reserved for Part 49; no correction applies within this unit. The
+split words `amplexus` and `crebris` are joined with their new-page markers
+before the whole word and their English equivalents. The Greek `περὶ τὴν
+πίστιν ἐναυάγησαν` is retained and translated. The English follows the Latin
+at clause level while preserving the lemma, question, distinctions, and
+numbered structures.
+
+- Latin: `parts/part-48-chapter-13g-latin.txt`
+- English: `parts/part-48-chapter-13g-english.md`

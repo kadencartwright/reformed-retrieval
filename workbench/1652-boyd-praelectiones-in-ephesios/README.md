@@ -76,6 +76,7 @@ same scan can legitimately close one part and open the next:
 | 31 | XXXI | 171–175 | 127–131 | `Superest nunc tantùm, ut priusquam totum hunc Locum Theologicum concludamus` through the survey of Pelagian, scholastic, Roman, Ubiquitarian, universal-election, universal-redemption, universal-calling, mutability, and sufficient-grace errors, ending with the announcement of three scriptural counterexamples, `quorum nos specimen in his tribus duntaxat afferemus`, before `Primò, Esai. 5` and Lecture XXXII |
 | 32 | XXXII | 175–179 | 131–135 | `Primò, Esai. 5` through answers to the three scriptural objections concerning Isaiah 5, Matthew 23:37, and Revelation 3:20, errors nine and ten, the patristic and Prosperian confirmations, the eleven-part recapitulation of the entire commonplace on predestination, and the final prayer and `AMEN.`, before `Contextus Apostolici retexendi in manus resumptio`, Ephesians 1:15, and Lecture XXXIII |
 | 33 | XXXIII | 179–184 | 135–140 | `Contextus Apostolici retexendi in manus resumptio`, `In CAP. I. ad EPHES. vers. 15. &c.`, and `Absoluto jam, Dei ope & gratiâ` through the resumption of Ephesians 1:15, the chapter’s division, Paul’s thanksgiving, faith in Christ and love toward the saints, and the comparison of their two offices to the hands of a person climbing Jacob’s ladder, ending `fascem perferendum ac sustinendum` before `Hinc jam secundo loco perpendendum venit Charitatis objectum` and Lecture XXXIV |
+| 34 | XXXIV | 184–187 | 140–143 | `Hinc jam secundo loco perpendendum venit Charitatis objectum` through the object and ordered degrees of Christian love, the transition from the causes of Paul’s thanksgiving to its manner, prayer and thanksgiving, their relation to spiritual joy, and the meaning of praying without ceasing, ending `tum etiam nos operaque nostra sanctificet` before `Atque ita partis hujus prioris membrum utrunque fusè declaravimus` and Lecture XXXV |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -149,7 +150,885 @@ English translation:
 | 32 | Scriptural objections and a recapitulation of the whole commonplace on predestination | [`part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt) | [`part-32-praelection-32-scriptural-objections-and-recapitulation-english.md`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-english.md) |
 | 33 | Resumption of the apostolic context, faith in Christ, and love toward the saints | [`part-33-praelection-33-resumption-faith-and-charity-latin.txt`](parts/part-33-praelection-33-resumption-faith-and-charity-latin.txt) | [`part-33-praelection-33-resumption-faith-and-charity-english.md`](parts/part-33-praelection-33-resumption-faith-and-charity-english.md) |
 
-The completed sequence now extends through Lecture XXXIII. Its successive subjects
+Lecture XXXIV is continued directly below as a synchronized README-only pair;
+no separate part files or source-audit artifacts have been created for it.
+
+## Lecture XXXIV: The object of charity, prayer, and thanksgiving
+
+> **AI-assisted, unreviewed working transcription and translation.** The Latin
+> is a diplomatic-normalized transcription from the controlling BSB page
+> images, and the English is a fresh, full translation of that Latin, not a
+> summary. A qualified human editor must compare both with the facsimile before
+> quotation or publication.
+
+### Latin source transcription
+
+[BSB bsb11059161 | scan 184 | Caput I p. 140 (from Prælectio XXXIV opening)]
+
+Hinc jam secundo loco perpendendum venit Charitatis objectum, quod per
+(*Sanctos omnes*) exprimit Apostolus, h. e. omnes Fideles, & quotquot sunt
+Ecclesiæ Christianæ membra: quamvis enim proximi (quem ut nosmet ipsos diligere
+lege Dei jubemur, in magno illo præcepto secundæ tabulæ summam & sensum
+complectente) nomen ad omnes in universum homines extendendum sit, ut homines
+sunt, ad eandem Dei imaginem nobiscum conditi; nec ejusdem tantum humanæ naturæ
+vinculo, sed & ejusdem originis ex iisdem primis parentibus, ejusdemque
+sanguinis cognatione devincti (Sicut nos monet ac docet Apostolus, Act. 17.
+*Fecitque*, inquit, *ex uno sanguine totam gentem humanam, ut habitaret super
+universâ terræ superficie*) ut homines sunt, inquam, non autem ut peccatores ac
+Dei hostes ac adversarii: Sic enim verus ac perfectus Dei amor, per quem fit ut
+omnia in Deo ac propter Deum amemus, eorum etiam omnium quæ Deus odit ac
+detestatur odium secum necessariò importat; putà non peccati tantum ac malitiæ,
+& iniquitatis omnis, quæ cum Dei summâ sanctitate, puritate, atque justitiâ
+pugnat, sed & peccatorum qua tales sunt, eorum præsertim quos reprobos, & à Dei
+communione æternum seclusos esse constat, ut diabolum inprimis cum suis Angelis,
+& quotquot in ejus potestatem, immutabili Dei decreto judicioque traditi sunt,
+juxta illud Psalmistæ Regii, Ps. 139. qui affectu vehementi sic in verba nobis
+admodum notanda prorumpit: *An non osores tuos, O Jehovah odio habeo? Et de
+insurgentibus in te, fastidio meipsum torqueo? Perfecto odio odi illos;
+inimicorum loco sunt mihi.* Quod ut suæ sinceritatis argumentum, & non fucati in
+Deum amoris, ac veræ pietatis indicium, Prophetam Deo afferre patet ex verbis
+quæ proximè subjungit, *Pervestiga me Deus fortis*, inquit, *& cognosce animum
+meum: Proba me, & cognosce cogitationes meas.* Quamvis inquam amor proximi, ad
+homines omnes omnino, qua homines, ex Dei voluntate officioque nostro pertingat;
+atque ita ad omnes in universum extendi debeat: ut nullo odio, nullis inimicitiis
+privatis, nullius offensæ injuriæve prætextu, nullius denique noxæ quæ animos
+nostros exacerbet obtentu, vinculum illud humanitatis, propinquitatis, & amoris
+fraterni debeat abrumpi: Quia tamen, hic de Charitate tantum Christianâ propriè
+mentionem facit Apostolus, quæ ex fide in Jesum Christum ortum habet, propterea
+meritò ad Sanctos & Fideles, ut ad objectum suum proprium & peculiare eam
+restringit. Siquidem amoris illius etiam sancti, & ex fideli corde, ex animo
+puro, bonâque conscientiâ profecti, gradus quosdam esse convenit, secundum quos
+fideles alios aliis arctius complectantur, alios aliis intentius, impensiusque
+diligant, nec eodem planè charitatis affectu fidelem, v. g. & infidelem
+prosequantur, Turcam & Christianum, Verè pium, & Atheum aliquem; Idololatram &
+veræ Ecclesiæ hostem infensissimum. Absit ut hæc tam absona, tam absurda
+cogitemus! cujus rei ratio rursus ex jam dictis manifesta. Quod scilicet vir
+verè pius ac fidelis in Deo, ac propter Deum & Christum, proximos quoscunque
+diligit.
+
+[Marginalia: Prælectio XXXIV. Nota secunda exegetica de charitatis objecto.
+Act. 17:26. Ps. 139:21 & 22. Item v. 23. Resumptio argumenti diversorum.
+Confirmatio.]
+
+Hinc sequitur necessariò eo quemque ipsi chariorem esse, quo Deo charior,
+Christoque ipsi conjunctior. Nec promiscuè & sine discrimine, quod dici solet,
+Ἐν ταὐτῷ πυέλῳ τόν τ᾽ ἀγαθὸν τόν τε κακὸν λούει, *In eodem solio probum lavat &
+improbum*: Sed homines quidem omnes, ut sibi naturæ & cognationis vinculo
+proximos, immo fratres, si naturæ à Deo conditæ statum respicias, in Deo ac
+propter Deum diligit: Solos autem fideles qui Christi membra sunt, Christianâ
+charitate complectitur: Hos sibi per Gratiæ, & Fidei, & Spei, & Baptismatis, &
+Vocationis, & Spiritus, & vitæ ejusdem Spiritualis communionem, verè proprièque
+devinctos esse sentit in Christo Jesu, Capite, Redemptore, ac Mediatore communi.
+Hos itaque non tam ex naturæ conditione (cujus vinculum omne, quod ad
+spiritualem attinet communionem, per peccatum abolitum est, irritumque factum,
+nisi per Christi gratiam reparetur, & instauretur) quàm ex æterno illo novoque
+fœdere Christi sanguine sancito, nec tam ex generationis, quam regenerationis
+illius vivificæ lege fratres sibi reputat, ex eodem Fratre primogenito cum eodem
+Patre cœlesti communionem secum invicem habentes.
+
+[Marginalia: Proverbia. In sententia.]
+
+Hanc porro distinctionem, & hos amoris per Christi Spiritum sanctificati gradus
+innuit nobis Apostolus ipse, Gal. 6. *Igitur, dum tempus habemus opportunum*,
+inquit, *simus benefici erga omnes, maximè verò erga domesticos fidei*: Immò &
+ex his ipsis rursus, habendum esse delectum hujusmodi, ut quemque suo loco &
+gradu habeamus, ut eum servemus ordinem in ipsis juvandis atque fovendis, quem
+tum naturæ & cognationis, tum alia etiam, sive domestica, sive civilia
+affinitatis, amicitiæ, societatis jura nobis ostendunt atque præscribunt, idem
+docet Apostolus, 1 Tim. 5. *Quod si quis suis*, inquiens, *& maximè domesticis
+non providit, fidem abnegavit, & est infideli deterior*: Priore item ad Thess.
+5. *Rogamus autem vos fratres, ut eos qui laborant inter vos, & præsunt vobis
+in Domino, & admonent vos, agnoscatis, & supra modum charos ducatis propter opus
+ipsorum.* Sicut enim Sanctus Dei Spiritus, affectus hosce naturales, amoris &
+στοργῆς, in parentes, in liberos, in agnatos, & cæteros quavis nobiscum ratione
+conjunctos non tollit nec eradicat è cordibus fidelium, sed tantum renovat,
+sanctificat, rectèque dirigit, ordinat, ac moderatur, ex verbi divini
+præscripto, ita neque objectorum ipsorum gradus diversos, ac distinctionem omnem
+abolet: sed quid hâc ex parte sequendum sit, & quo quisque loco & gradu, &
+pretio habendus, quo item modo, qua de causâ, quousque & quo fine, quisque
+proximorum diligendus, ex verbi divini face prælucente demonstrat: Illâ semper
+observatâ regulâ generali, quam supra jam attigimus, ut omni naturali cognatione
+semper nobis Christianis pretiosior, chariorque sit, spiritualis illa Sanctorum
+communio; juxta Domini ipsius ac Servatoris Jesu Christi exemplum illud
+affectumque gratiosissimum, & vobis omni consolatione plenissimum, quem Mat. 12.
+indicat atque testatur. Quum enim quidam ipsum admonuisset, Matrem ipsius
+fratresque foris adstare colloquium ipsius quærentes, ipse respondens dixit ei
+qui illi hoc dixerat, *quæ est mater mea & qui sunt fratres mei?* Protensâque
+manu in suos discipulos dixit: *Ecce mater mea, & fratres mei. Quisquis enim
+fecerit voluntatem Patris mei qui est in cælis, is est*
+
+[Marginalia: Gal. 6:10. 1 Tim. 5:8. 1 Thess. 5:12 & 13. Norma generalis. Mat.
+12:47 &c.]
+
+[BSB bsb11059161 | scan 185 | Caput I p. 141]
+
+*meus frater, & soror & mater.* Ubi disertè ostendit se pluris facere vinculum
+illud Spiritus Sancti, per fidem & novam obedientiam sese indicans testatumque
+faciens, quam omnem sanguinis generisque propinquitatem; quæ si sola in iis
+absque fide & communione Spiritus fuisset, ne matrem quidem suam Christus Jesus,
+& fratres secundum carnem, in suorum numero unquam agnovisset.
+
+Atque hactenus gaudii & gratulationis hujus Apostolicæ causas, seu mavis
+occasionem aut fundamentum illud geminum executi sumus. Sequitur nunc ut modum
+ejusdem versic. sequente ab Apostolo expressum & indicatum ex verbis ipsius
+videamus & explicemus. Quem subjungit. (*Non cesso gratias agere pro vobis,
+mentionem vestri faciens in precibus meis.*) Quibus in verbis, ut videtis,
+nulla occurrit obscuritas, nulla difficultas. Ad rem autem ipsam quod attinet,
+ut gaudii & gratulationis ejus pia admodum causa fuit sanctumque fundamentum;
+dona nempe illa salutaria divinitus in Ephesios fideles collata, ita etiam non
+minus sancto pioque modo eam exprimit atque testatur; gratiarum actione nimirum
+& precibus Deo pro ipsorum profectu, & confirmatione in accepta gratia
+indesinenter oblatis. Gaudium ejus ergo, in Deo fidei & charitatis auctore
+conceptum, in Deum ipsum rursus per preces tendit & elevatur, in ipsum per
+Gratiarum actionem omne refunditur. Hæc duo porro tum fidei in Deum, tum
+Christianæ charitatis effecta, preces nimirum & Gratiarum actionem, tum hic tum
+alibi meritò conjungit Apostolus, ut videre est nominatim, tum Phil. 4. *De
+nulla re solliciti*, inquit, *estote: sed omni in re precibus & deprecatione cum
+gratiarum actione petitiones vestræ apud Deum innotescant*: & 1 Thess. 5.
+*Semper gaudete; indesinenter, vel sine intermissione orate; in omnibus gratias
+agite*: Ubi & illis duobus non hoc tantum loco, sed & illo ad Phil. Gaudium
+tertium tanquam utriusque fontem & comitem individuum adjungit: precum enim &
+gratias agendi studio παραίνεσιν ad gaudium vers. 4. præmiserat, *Gaudete*,
+inquit, *in Domino semper: Rursus inquam gaudete.* Jam hæc tria meritò
+optimoque jure conjungi patebit ex brevi ipsorum διασκέψει, quam tantum quantum
+præsens locus exigit, obiter delibabo.
+
+[Marginalia: Transitio a causis ad modum. Explicatio. Collatio causæ & modi.
+Notatus nexus precum & εὐχαριστίας. Phil. 4:6. 1 Thess. 5:16, 17 & 18.]
+
+Atque ad orationem primùm quod attinet, quæ pars insignis & eximia est
+spiritualis illius & interni cultus Deo soli & immediatè dati ac debiti, ex fide
+& fiduciâ in Deum, sensuque & agnitione miseriæ nostræ profecta; possumus eam
+ita rudiori quâdam descriptione adumbrare, Quod sit cordis & mentis fidelis in
+Deum elevatio, quâ per humilem & pium affectum, cum nostri ipsorum abjectione,
+ad thronum illum reverendæ & gloriosæ Dei Majestatis, cum summâ ipsius
+exaltatione, supra omnia quæ mente concipere possumus atque complecti, ex ejus
+amoris & misericordiæ erga nos paternæ in Jesu Christo apprehensione, ex
+promissorum ipsius fiduciâ, nostræque miseriæ, fragilitatis, inopiæ sensu, ad
+gratiam ejus confugimus, & vota precesque nostras ipsi exponimus, remissionem
+peccatorum, aliaque ad vitam & salutem æternam necessaria, secundum ipsius
+verbum & voluntatem, per & propter Jesum Christum Mediatorem ac Redemptorem
+nostrum, ab ipso petimus & imploramus: Idque non pro nobismet solum, sed & pro
+fratribus nostris, sive generatim, sive speciatim, aut etiam nominatim
+expressis, adeoque pro totâ Ecclesiâ Christianâ; ejus ipsius tam præcepto, quam
+exaudiendi promissione subnixi.
+
+[Marginalia: De precibus. Quid oratio.]
+
+Ex quâ satis luculenta descriptione, duo præsertim nobis elucescunt in precibus
+& oratione, sive mentali solâ, sive etiam vocali ad Deum directâ; materia
+nimirum aut argumentum, & actionis ipsius modus. Materia ex eâ normâ precationis
+petenda est, quam Deus nobis in verbo suo patefecit, & secundum quam preces
+nostræ omnes concipiendæ sunt, ut ad Dei voluntatem dirigantur & exigantur,
+ipsique hac ex parte conformentur: dum scilicet honesta illa sanctaque cordis
+desideria ipsius Dei voluntati conformia, aut mente affectuque solo ad ipsum
+dirigimus & elevamus (*nam desiderium pauperum vel mansuetorum exaudit Jehovah*,
+inquit Psaltes, Ps. 10. & Apostolus Rom. 8. *Ipse Spiritus intercedit pro nobis
+suspiriis inenarrabilibus*) Aut etiam voce proferimus & exprimimus; expetentes
+ejus nomen glorificari, regnum ipsius in cordibus nostris indies erigi,
+voluntati ejus omnem obedientiam præstari, fidem quâ etiam in rebus ad vitam
+præsentem attinentibus ex ipsius providentiâ pendeamus, peccatorum remissionem,
+ac præsentiam ejus & gratiam in tentatione confirmantem, ac denique plenam
+victoriam de omnibus nostræ salutis hostibus, & gloriosam illam in nobis gratiæ
+suæ consummationem. Huc enim referri potest omne precum nostrarum argumentum.
+
+[Marginalia: Corollarium duplex. Prius de precum materia. Ps. 10:17. Rom.
+8:26.]
+
+Agendi aut precandi modum quod attinet, in eo spectatur prævia ad actionem
+præparatio, quæ velut causa quædam remota est; tum ipsa precandi actio.
+Præparatio, quum ad Deum accessuri, tum quis & qualis ille, tum qui qualesque
+nosmet, tum quo fine ad eum accedimus, & quid ipse à nobis in hoc actu exigat,
+seriò reputamus, ut ita ipsum in infinitam sublimitatem evehentes, nos ipsos
+tantum deprimamus & submittamus, & corda nostra affectusque in ejus obsequium
+sincerè & sine fuco componamus.
+
+[Marginalia: Posterius de precandi modo.]
+
+In actione rursus ipsâ tria spectari possunt, tum precum ipsarum fundamentum
+sive causa proxima, tum is per quem & cujus mediationem, tum ii pro quibus
+preces concipiendæ sunt & effundendæ. Fundamentum duplex est, 1. miseriæ
+inopiæque nostræ, & specialium defectuum, distincta & specialis agnitio, vivus
+& serius sensus, qui cum cordis dolore, & contritione quâdam necessariò
+conjunctus est. 2. Fides h. e. misericordiæ, favoris & benevolentiæ Dei gratuitæ
+in Christo Jesu, ex ipsius verbo & promissionibus per Spiritum Sanctum
+Adoptionis concepta agnitio & apprehensio, & inde nata in Deum ipsum, ut
+benevolum & propitium, ut veracem, ut constantem, ut sapientem & potentem in
+promissionibus suis erga nos præstandis, recumbens fiducia.
+
+[Marginalia: Subdivisio. Fundamentum geminum.]
+
+Ex his duobus fundamentis proximè exsurgit fidelis Oratio: quorum beneficio fit
+ut precibus animam nostram coram Deo effundere dicamur, & faciem ejus
+requirere: quoque vividior & efficacior fuerit horum duorum sensus in cordibus
+& apprehensio, eo etiam ferventior & inflammatior ad Deum nostra subvehetur
+oratio, ut videre est nominatim è Ps. 77. Item 88. Jes. 38. & Jon. 2. inter alia
+loca Scripturæ sacræ innumera nobis in hunc usum delecta.
+
+[Marginalia: Nota Corollarium obiter.]
+
+Is per quem est solus Christus Mediator θεάνθρωπος. Absit enim ut vel absque
+Mediatore & sacrificio hilastico ad Deum accedamus; aut alterius quam hujus
+filii sui dilecti nomine, & intercessu freti, aut alii cuivis sacrificio nixi
+atque confisi, quam ejus quod ipse
+
+[Marginalia: Mediator per quem.]
+
+[BSB bsb11059161 | scan 186 | Caput I p. 142]
+
+semel, nunquam iterandum, in cruce pro nobis obtulit, ad Deum Patrem preces
+votaque nostra mittere tentemus: denique non pro nobis tantum ipsis, sed & pro
+iis omnibus, pro quibus ut preces concipiantur, tum Dei ipsius mandatum, tum
+Sanctorum in Scripturis sacris, & Apostolorum habemus exemplum; quemadmodum hoc
+ipso loco videmus, prout nobis aut conjunctiores sunt in Deo & Christo, aut nos
+ipsis obstrictiores, aut ipsi sese precibus nostris vehementius commendarunt,
+aut ipsorum specialis necessitas & indigentia nobis innotuit, aut ullam causam
+& rationem habemus legitimam, ex Christianæ charitatis prudentiæque
+præscripto, cur de hujus aut illius, de horum aut illorum salute, speciali
+quadam curâ debeamus esse solliciti: Non autem pro hac vitâ functis; cujusmodi
+preces ex fide provenire non possunt, quum nullo Dei verbo, nullo mandato,
+promissione nullâ, immo ne ullo quidem probato Scripturæ Canonicæ exemplo
+innitantur, ac proinde, præterquam quod vanæ irritæque sint, ut ex orthodoxorum
+doctrinâ de animarum statu post suum ex hoc corpore & vitâ excessum abundè
+constat, & Deo abominandas ingratasque esse necesse est, tanquam ex infidiâ, &
+præfractâ in Dei voluntatem rebellione profectas, atque ita authoribus suis in
+peccatum ab ipso imputari. Quibus videmus meritò hâc ex parte accidere, quod
+suis ac Dei hostibus imprecatur Propheta, Ps. 109. *Quum in jus venerit, abeat
+damnatus, & oratio ejus illi in peccatum imputetur.* Atque hæc de oratione ipsa
+suffecerint.
+
+[Marginalia: Ii pro quibus, sive precum nostrarum objectum. Corollarium
+notandum. Ps. 109:7.]
+
+Ad Gratiarum actionem quod attinet, quæ cum precibus plerunque etiam usu ipso
+praxique conjuncta est, sicut naturam habet ei affinem. In eâ duo tantum hæc
+cursim attingo; 1. Quod in eâ requiratur benedictionum Dei in nos per Christum
+collatarum, præsertim autem nostræ Redemptionis, fida & firma memoria, seriaque
+meditatio & agnitio, adeo ut gratum oporteat esse memorem, sicut contra
+acceptorum beneficiorum obliviosum & immemorem, tum erga Deum, tum etiam erga
+homines ingratum esse contingit. Deinde, quod hujus nostræ gratitudinis
+attestandæ ergo debeamus nos ac nostra omnia Deo ex animo consecrare, ac
+dedicare: h. e. ejus nomini, honori, & cultui legitimo nos totos addicere, ac
+devovere; sincero nimirum studio animique proposito Deo vivendi ac serviendi,
+Deo corpus, animum, affectus, bona, actus, ita per omnem vitam consecrandi, ut
+ipsum in omnibus non ex nostrâ, sed ex ipsius voluntate nobis in ipsius verbo
+revelatâ glorificare studeamus: quod solenne votum in Baptismo ipso primum
+inivimus, deinde cœnæ dominicæ celebratione idem subinde renovavimus; nosque ad
+idem præstandum indies arctius astrinximus: Quæ gratitudinis vel gratiarum
+actionis pars in primis observanda, sacrificiis illis legalibus olim fuerat
+adumbrata, dum primum ad altare adducta, coram Deo quasi præsentia sistebantur,
+deinde ipsi immolabantur, & aræ ejus imposita offerebantur: Sic hâc nostri
+ipsorum dedicatione & consecratione in Dei honorem, cultum & obedientiam,
+oportet nosmet ipsi sistamus & offeramus, ut hostias Eucharisticas pro
+beneficiis acceptis, ipsum solum omnis gratiæ, vitæ & salutis authorem atque
+datorem profitentes, agnoscentes, & voce vitâque celebrantes.
+
+[Marginalia: De Gratiarum actione. Γνώμη notanda. Confirmatio.]
+
+Jam ex hâc tam precum, quam Gratiarum actionis explicatione, patet utriusque
+connexio. Quum enim veræ preces ex fide & fiduciâ in Deum oriantur, ut dictum
+est, nulla tanta nos urget ad precandum necessitas, quin semper interea suppetat
+materia Gratiarum actionis: cum Dei erga nos gratiam & misericordiam nullo non
+temporis momento sentire possimus & experiri: Sic vicissim nulla tam ampla
+datur in hâc vitâ gratiarum actionis materia, quæ omni precum necessitate nos
+exsolvat aut eximat: Semper enim nobis in hâc fragilitate constitutis, in hâc
+pugnâ luctâque Christianâ versantibus, & peccati adhuc reliqui multâ labe
+respersis, & offensarum veniâ quotidianâ opus est, & novâ subinde gratiæ
+confirmantis, & virium novarum accessione, & manu Dei perpetuò fulciente,
+dirigente, circumque infraque supraque muniente ac protegente, donec in ipsum
+salutis portum perducamur. Unde videmus in veterum piorum & fidelium exemplis
+nobis in Scripturâ sacrâ propositis, & precibus Gratiarum actiones, &
+Eucharistiis vicissim ac doxologiis preces, ferè semper intermixtas: quod vel
+unicum Psalmorum volumen evolventi & observanti perspicuum fiet.
+
+[Marginalia: Corollarium 1. de precum & εὐχαριστίας connexione.]
+
+Rursus, ad Gaudium quod attinet; non mirum cum his duabus cultus divini
+partibus ferè semper ab Apostolo conjungi: quia hæc tria nimirum se mutuò
+fovent, augent, conservant, & velut circulo quodam suavissimo sese invicem
+consequuntur. Quemadmodum in illis naturæ operibus, vi & attractione Solis è
+terrâ madefactâ surrigitur vapor, qui in nubem cogitur, in pluviam densatur, &
+hæc rursus in imbrem redacta guttatim in terram delabitur; quo terra iterum
+irrigata vapori, nubi, pluviæque sequenti materiam subministrat; atque ita
+deinceps eâdem serie: Ita & hic sese habet in hoc opere gratioso. Nam vi
+Spiritus Sancti, quem tanquam vultus sui radium salutarem in corda nostra
+demittit Sol ille justitiæ, surriguntur ac suscitantur preces cum suspiriis
+inenarrandis, quibus ipsa corda nostra Dei vultui præsentiæque quasi propius
+admota, vivificam ejus præsentiam in Jesu Christo persentiscant, atque ita velut
+cera à facie ejus liquefacta & emollita, pace illâ gaudioque intellectum omnem
+superante, sensim irrigantur, & in mediis lacrymis atque gemitibus, in medio
+desiderii sui fervore, placidissimo illo pacis lætitiæque refrigerio, &
+inenarrandâ suavitate complentur & occupantur, immo tota absorbentur & extra se
+rapiuntur. Jam Gaudii rursus & pacis imber hic salutaris, in Gratiarum actionem
+erumpat necesse est, eodem Dei Spiritu intus agente, & animos nostros in Dei
+laudem & gloriam, immo & ora ipsa linguasque resolvente. Ita paucis videmus, &
+ex precibus veris & ardentibus nasci majorem sensum præsentiæ divinæ in animis
+nostris, nos cum Deo arctius uniri, hinc rursus pacem & gaudium in Spiritu
+Sancto; & ex hoc quasi fonte, Gratiarum actionem scaturire; ipsâque Deo gratias
+agendi actione, Gaudium illud idem ex Dei præsentiâ foveri, & precum ipsarum
+studium & exercitium, ex optatissimi illius effectus experientiâ. Scio nihil
+hic aut capere aut sentire hominem ψυχικόν. Sed in quo habitat Sanctus ille
+Christi Spiritus, quique eo agitur, ut loquitur Apostolus Rom. 8. is hæc omnia
+non tantum verissima esse novit, sed & super omnia quæ aut à nobis, aut ab alio
+quopiam, dici exprimique possunt, rerum harum veritatem extolli.
+
+[Marginalia: Corollarium 2. de utriusque comite & fomite Gaudio. Simile
+notandum. Apodosis. Nota valde. Comparationis conclusio. Rom. 8:14.]
+
+Denique & hinc solutio dubii emergentis ex utriusque hujus actionis
+ἐνδελεχείᾳ, sive continuitate colligitur; quam innuit Apostolus dum inquit, non
+desinere sese vel cessare à precibus & gratiarum
+
+[Marginalia: Corollarium 3. περὶ τῆς προσευχῆς & εὐχαριστίας.]
+
+[BSB bsb11059161 | scan 187 | Caput I p. 143 (through Prælectio XXXIV close)]
+
+actione pro Ephesiis: Siquidem adjunctum hoc perpetuitatis, aut (ut ita dicam)
+indesinentiæ, ad utramque partem, tam ad preces nimirum, quam ad gratiarum
+actionem, extendo. Quomodo enim, dicat aliquis, hic verè asserat Apostolus, non
+cessare se ab hoc pro Ephesiis officio præstando? aut quomodo fieri possit, ut
+quis vel gratias agat, vel oret indesinenter & sine intermissione; quod tamen
+supra audivimus eum à Thessalonicensibus exigere. An à precibus nunquam
+vacandum aut cessandum est, nec aliud quidquam per totam vitam faciendum,
+abjectâ aliâ omni sive familiæ, sive reipublicæ & Ecclesiæ, curâ ac
+sollicitudine, omnique particularis cujusvis vocationis opere abdicato? Quod
+superstitiosi nostri Monachi adhuc hodierno die profitentur: & olim hæretici
+illi, qui inde, voce origine Chaldaicâ, Massaliani dicti sunt: quos Epiphanius,
+In Thesauri sui hæresi octogesimâ, εὐχομένους vel εὐφημίτας interpretatur,
+atque Ἐσσηνῶν ἀπόσπασμά τι, h. e. Essenorum laciniam sive propaginem quandam
+fuisse; quæ postea in Pseudo-christianos Monachos degenerarit: hi inquam,
+hujusmodi Scripturæ testimonia detorquendo ac depravando, idem vitæ institutum
+secuti sunt. Quid ergo dicendum, & quomodo hæc, aliaque loca hujusmodi
+accipienda fuerint?
+
+[Marginalia: Objectio. Vide Elench. Tribær. cap. 18. צלא, מצלין, orare, hinc
+orans vel superstitiosus.]
+
+Ad quod paucis respondemus, 1. Loca hujusmodi humanæ sorti & conditioni
+adaptanda esse; nempe quantum per naturæ nostræ infirmitatem fieri potest
+studiis hujusmodi vacandum esse; illamque continuitatem non tam de actu nunquam
+cessante, nunquam interrupto, intelligendam esse (alioqui ne dormiendum quidem
+esset unquam, quod stultum est & absurdum cogitatu) quam de precum quotidie
+offerendarum studio & exercitio nunquam intermittendo: Quemadmodum & ex usitatâ
+apud omnes loquendi consuetudine observare est. Dicitur enim quis v. g. nunquam
+ab aleâ, à scortatione, à potatione, à lusu, aliisve hujusmodi cessare; non quod
+in actu ipso nunquam interrupto semper perseveret: Sed quod consuetudinem
+hujusmodi contraxerit, ut semper datâ occasione, vel quotidie actus eosdem
+frequentet, unde nihil aliud dicitur agere: Ita etiam contra, dicitur is
+ἀδιαλείπτως orare, qui nullum diem intermittit, quin sancto huic exercitio
+temporis aliquid impendat; qui quotidie orando semet exercet, & hoc velut juge
+sacrificium mane vesperique olim Deo offerri solitum, toties quotidie Deo
+immolat, quoties per vocationis peculiaris munia curasque licet, nec ullam
+occasionem omittit Deum tam in rebus prosperis quam adversis, & in quavis vitæ
+sorte & conditione per Jesum Christum invocandi. Atque ita intelligendum quod
+de Annâ sanctissimâ viduâ narratur à Luca cap. 2. quod non abscederet à templo,
+jejuniis ac deprecationibus Deum colens noctem ac diem; de hoc scilicet
+quotidiano precum studio & exercitio, quo se tam noctu quam interdiu exercebat:
+Idemque sensus horum dictorum, adeoque hujus, ut ita dicam, ἀδιαλειψίας, ex
+initio cap. 18. ejusdem Evangelii colligi potest: ubi dicitur Dominus Parabolam
+illam viduæ, Judicem atheum & iniquum continuâ flagitatione fatigantis &
+obtundentis, discipulis suis in eum finem proposuisse, ut semper orarent. Quid
+enim sit illud πάντοτε προσεύχεσθαι, verbis immediatè subjectis exponit nobis.
+Spiritus Sanctus, nempe μὴ ἐκκακεῖν, h. e. non segnescere, non deficere, nec
+animum despondere, nec denique precandi studium unquam abjicere; etiamsi quis
+non statim exaudiatur, sed in eodem constanter per omnem vitam persistere.
+Adeoque, ut verbo dicam, nec somnum, nec victum quotidianum ad corpoream hanc
+fragilemque vitam tolerandam magis necessariam ducere, quam illum precum &
+gratiarum jugis actionis fomitem, ad vitam illam animæ spiritualem in nobis
+fovendam, provehendam, & conservandam.
+
+[Marginalia: Responsionis membrum prius. Confirmatio Responsionis. Luc. 2:36.
+Luc. 18:1.]
+
+Deinde, quod ex cultus illius interni naturâ superius descriptâ colligere est,
+dum orare diceremus esse mentem affectumque ad Deum elevare, non tam de actu
+externo, quam de affectu interno accipienda est hæc precum continuatio: quippe
+quam quovis loco & tempore, etiamque in operibus externis ex cujusque vocatione
+obeundis, hoc in sensu observare licet.
+
+[Marginalia: Responsionis membrum 2.]
+
+Quare non omnem aliam curam, non vocationem omnem legitimam, non vocationis
+utilis & honestæ necessaria munia operaque sperni vult à nobis Apostolus, ut
+orationi soli vacemus; sed hoc vult potius, ut etiam inter operandum, affectu
+animoque cum Deo simus; etiam cum operi manum admovemus, mentem interim ad
+Christum elevemus; memores, nos interea Cœlorum cives & municipes esse, nec
+terrena tantum quæramus atque curemus, nec in iis toti hæreamus defixi, sed
+animi acie & cordis affectu semper ulterius provehamur, etiam eo usque quo
+Christus ingressus est, & nostram intulit evexitque naturam, ut de Deo, de
+Christi gloriâ, de vitâ illâ nostrâ in Christo absconditâ, interea cogitemus;
+ac ut verbo dicam, de rebus illis futuris æternis, ac suo demum tempore
+revelandis, quantum fieri potest, perpetuò meditemur. Quod nec absque internâ
+illâ prece, nec εὐχαριστίᾳ mentis ad Deum ita conversâ, fieri potest: hinc enim
+tantum abest, ut ab occupatione muniisque nostræ vocationis ordinariis
+distrahamur, ut contra, duo hæc eximia commoda sive fructus omni pretio
+chariores inde consequamur; primum scilicet animi alacritatem ac promptitudinem,
+ad vocationem nostram obeundam, ejusque labores & perferendos & leniendos hoc
+velut oleo quodam ἀνωδύνῳ & paregorico, omnium longè pretiosissimo: Deinde Dei
+benedictionem in nos laboresque nostros, quæ ipsos & suâ efficaciâ secundet, &
+ipsius Dei præsentiâ sanctificet, adeo ut bonâ cum conscientiâ laborare nobis
+liceat in eo vitæ genere, in quo nos Deus constitutos voluit. Siquidem hæc Dei
+præsentia, quæ meditatione illâ secretâ, internâque prece, fovetur & augetur in
+nobis, sola est quæ tum nos in opere nostro alioqui laborioso, in onere nostro
+alioqui ponderoso, sustentet, tum etiam nos operaque nostra sanctificet.
+
+[Marginalia: Conclusio. Confirmatio Responsionis hujus.]
+
+[Explicit Prælectio XXXIV. The following `Atque ita partis hujus prioris
+membrum utrunque fusè declaravimus`, `Prælectio XXXV`, and observations drawn
+from verses 15–16 are excluded.]
+
+### English translation
+
+[BSB bsb11059161 | scan 184 | Caput I p. 140 (from Prælectio XXXIV opening)]
+
+From this, in the second place, we now come to consider the object of charity,
+which the apostle expresses by “all the saints,” that is, all believers and
+all who are members of the Christian Church. For although the name “neighbor”
+—whom we are commanded by God’s law to love as ourselves in that great command
+which embraces the sum and meaning of the second table—must be extended to all
+human beings without exception insofar as they are human, created together
+with us in the same image of God, bound not only by the bond of the same human
+nature but also by the same origin from the same first parents and by kinship
+of the same blood (as the apostle warns and teaches us in Acts 17: “He made the
+whole human race from one blood, to dwell over the entire face of the earth”):
+they are to be loved, I say, insofar as they are human, but not insofar as they
+are sinners and enemies and adversaries of God. For the true and perfect love
+of God, through which we love all things in God and for God’s sake, necessarily
+carries with it hatred also of all the things that God hates and detests: not
+only sin, wickedness, and every iniquity which conflicts with God’s supreme
+holiness, purity, and justice, but also sinners insofar as they are such,
+especially those who are known to be reprobate and eternally excluded from
+communion with God—above all the devil with his angels and all who, by God’s
+immutable decree and judgment, have been delivered into his power. This accords
+with the royal psalmist’s words in Psalm 139, where he breaks out with intense
+feeling into statements highly worthy of our attention: “Do I not hate those
+who hate you, O Jehovah? And do I not torment myself with loathing over those
+who rise against you? I hate them with perfect hatred; they are counted as
+enemies to me.” It is clear from the words the prophet immediately adds that he
+presents this to God as evidence of his own sincerity, his unfeigned love of
+God, and true godliness: “Search me, mighty God,” he says, “and know my mind;
+test me, and know my thoughts.” Although, I say, love of one’s neighbor extends
+by God’s will and by our duty to absolutely all people insofar as they are
+human, and must thus be extended to everyone without exception, so that the
+bond of humanity, kinship, and brotherly love must not be broken by any hatred,
+private enmities, pretext of any offense or injury, or allegation of any harm
+that may embitter our minds; nevertheless, because the apostle here properly
+mentions only Christian charity, which has its origin in faith in Jesus
+Christ, he rightly restricts it to the saints and believers as its proper and
+peculiar object. For even that holy love which proceeds from a faithful heart,
+a pure mind, and a good conscience must have certain degrees. According to
+these degrees believers embrace some more closely than others and love some
+more earnestly and devotedly than others. They do not pursue a believer and an
+unbeliever with exactly the same affection of charity—a Turk and a Christian,
+a truly godly person and an atheist, an idolater and the most bitter enemy of
+the true Church. Far be it from us to entertain thoughts so discordant and
+absurd! The reason for this is again evident from what has already been said:
+the truly godly and faithful person loves every neighbor in God and for the
+sake of God and Christ.
+
+[Marginalia: Lecture XXXIV. Second exegetical note on the object of charity.
+Acts 17:26. Psalm 139:21–22. Also verse 23. Resumption of the various argument.
+Confirmation.]
+
+It necessarily follows from this that each person is dearer to him in
+proportion as that person is dearer to God and more closely joined to Christ
+himself. He does not love indiscriminately and without distinction, as the
+saying goes, “In the same basin he washes both the good man and the bad”—the
+upright and the wicked are washed in the same tub. Rather, he loves all human
+beings in God and for God’s sake as those near to him by the bond of nature and
+kinship, indeed as brothers, if one considers the state of nature as created by
+God. But with Christian charity he embraces only believers, who are Christ’s
+members. He perceives that they are truly and properly bound to him in Christ
+Jesus, their common head, redeemer, and mediator, through communion in grace,
+faith, hope, baptism, calling, the Spirit, and the same spiritual life. He
+therefore counts them as his brothers not so much by the condition of nature
+—whose entire bond as regards spiritual communion has been abolished and made
+void by sin unless it is repaired and restored by Christ’s grace—as by that
+eternal and new covenant ratified by Christ’s blood. He counts them as
+brothers not so much by the law of generation as by that life-giving law of
+regeneration: from the same firstborn brother, they share with one another and
+with him communion with the same heavenly Father.
+
+[Marginalia: Proverbs. In a saying.]
+
+The apostle himself indicates this distinction and these degrees of love
+sanctified through the Spirit of Christ in Galatians 6: “Therefore, while we
+have a suitable opportunity,” he says, “let us do good to all, but especially
+to the household of faith.” He also teaches that we must in turn make a choice
+even among these, assigning each person his own place and degree, so that in
+helping and supporting them we preserve the order which the claims of nature
+and kinship, as well as other rights of domestic or civil affinity,
+friendship, and society, show and prescribe to us. Thus he says in 1 Timothy
+5, “If anyone does not provide for his own, and especially for those of his
+household, he has denied the faith and is worse than an unbeliever”; and in the
+first letter to the Thessalonians, chapter 5, “We ask you, brothers, to
+acknowledge those who labor among you, preside over you in the Lord, and
+admonish you, and to esteem them exceedingly dear for their work.” For just as
+God’s Holy Spirit does not remove or eradicate from believers’ hearts these
+natural affections of love and tender devotion toward parents, children,
+kindred, and all others joined to us in any way, but only renews, sanctifies,
+rightly directs, orders, and moderates them according to the prescription of
+God’s word, so too he does not abolish the different degrees and every
+distinction among the objects themselves. Instead, by the torch of the divine
+word shining ahead he shows what must be followed in this matter: in what place,
+degree, and estimation each is to be held, and in what manner, for what reason,
+how far, and to what end each neighbor is to be loved. The general rule we
+already touched upon above must always be observed: to us as Christians that
+spiritual communion of the saints must always be more precious and dearer than
+every natural kinship. This follows the most gracious example and affection of
+the Lord and Savior Jesus Christ himself, an example full of all consolation
+for you, which Matthew 12 indicates and attests. For when someone told him that
+his mother and brothers were standing outside seeking to speak with him, he
+answered the person who told him, “Who is my mother, and who are my brothers?”
+Then, stretching out his hand toward his disciples, he said, “Behold my mother
+and my brothers. For whoever does the will of my Father who is in heaven is”
+
+[Marginalia: Galatians 6:10. 1 Timothy 5:8. 1 Thessalonians 5:12–13. General
+rule. Matthew 12:47 and following.]
+
+[BSB bsb11059161 | scan 185 | Caput I p. 141]
+
+“my brother and sister and mother.” Here he expressly shows that he values the
+bond of the Holy Spirit, which indicates and attests itself through faith and
+new obedience, above every nearness of blood and family. Had that natural
+nearness existed in them alone, without faith and communion in the Spirit,
+Christ Jesus would never have acknowledged even his own mother and brothers
+according to the flesh among his own.
+
+Thus far we have discussed the causes of this apostolic joy and thanksgiving,
+or, if you prefer, its occasion or that twofold foundation. It now follows that
+we examine and explain from the apostle’s own words the manner of that joy,
+expressed and indicated by him in the following verse, which he adds: “I do not
+cease to give thanks for you, making mention of you in my prayers.” As you see,
+these words present no obscurity or difficulty. As for the matter itself, just
+as the saving gifts divinely bestowed upon the believing Ephesians were a most
+godly cause and holy foundation of his joy and thanksgiving, so he expresses
+and attests it in an equally holy and godly manner: by thanksgiving and prayers
+continually offered to God for their advancement and confirmation in the grace
+they had received. Therefore his joy, conceived in God as the author of faith
+and love, once again tends and rises toward God through prayer and is poured
+back entirely upon him through thanksgiving. The apostle rightly joins these
+two effects both of faith in God and of Christian charity—prayer and
+thanksgiving—here and elsewhere, as may be seen particularly in Philippians 4:
+“Be anxious about nothing, but in everything by prayer and supplication with
+thanksgiving let your requests be made known before God”; and in 1
+Thessalonians 5: “Rejoice always; pray continually, or without interruption;
+give thanks in everything.” Both here and in the passage to the Philippians he
+adds a third thing, joy, as the fountain and inseparable companion of both. For
+in verse 4 he had prefaced his exhortation to prayer and thanksgiving with joy:
+“Rejoice in the Lord always; again I say, rejoice.” A brief consideration,
+then, will show that these three are joined rightly and with the best reason; I
+will touch upon it in passing only so far as the present passage requires.
+
+[Marginalia: Transition from the causes to the manner. Explanation. Comparison
+of cause and manner. The connection of prayer and thanksgiving noted.
+Philippians 4:6. 1 Thessalonians 5:16–18.]
+
+First, as for prayer, it is an eminent and excellent part of that spiritual
+and inward worship which is given and owed immediately to God alone. It
+proceeds from faith and trust in God and from a sense and acknowledgment of our
+misery. We may sketch it in this somewhat rough description: it is the raising
+of a believer’s heart and mind to God. Through humble and godly affection,
+abasing ourselves, we approach that throne of the reverend and glorious
+majesty of God, exalting him supremely above all we can conceive and
+comprehend. From an apprehension of his fatherly love and mercy toward us in
+Jesus Christ, from trust in his promises, and from a sense of our own misery,
+frailty, and need, we flee to his grace and lay our wishes and prayers before
+him. In accordance with his word and will, we ask and implore from him the
+forgiveness of sins and the other things necessary for eternal life and
+salvation, through and for the sake of Jesus Christ our mediator and redeemer.
+We do this not only for ourselves but also for our brothers, whether generally,
+specifically, or even expressly by name, and thus for the whole Christian
+Church, relying both on his command and on his promise to hear.
+
+[Marginalia: On prayers. What prayer is.]
+
+From this sufficiently clear description, two things shine forth to us above
+all in prayer, whether directed to God only mentally or also aloud: its matter
+or subject and the manner of the act itself. The matter must be sought from
+that rule of prayer which God has revealed to us in his word and according to
+which all our prayers must be conceived, so that they may be directed and
+regulated by God’s will and conformed to it in this respect. Thus we direct
+and raise to him, either in mind and affection alone or also by uttering and
+expressing them with the voice, those honorable and holy desires of the heart
+which conform to God’s own will. “For Jehovah hears the desire of the poor or
+meek,” says the psalmist in Psalm 10, and the apostle says in Romans 8, “The
+Spirit himself intercedes for us with groanings that cannot be uttered.” We
+desire that his name be glorified, his kingdom be raised up daily in our
+hearts, and all obedience be rendered to his will; that we have faith to
+depend upon his providence even in matters belonging to the present life; that
+we have forgiveness of sins, his presence, and his grace strengthening us in
+temptation; and finally that we obtain complete victory over all the enemies
+of our salvation and that glorious consummation of his grace in us. The whole
+subject of our prayers may be referred to these things.
+
+[Marginalia: A twofold corollary. First, on the matter of prayers. Psalm 10:17.
+Romans 8:26.]
+
+As for the manner of acting or praying, in it we consider the preparation
+preceding the act, which is a kind of remote cause, and then the act of praying
+itself. The preparation occurs when, as we are about to approach God, we
+seriously ponder who and what sort of being he is, who and what sort of people
+we ourselves are, to what end we approach him, and what he requires from us in
+this act. Thus, raising him to infinite sublimity, we humble and submit
+ourselves correspondingly, and sincerely and without pretense compose our
+hearts and affections for obedience to him.
+
+[Marginalia: Second, on the manner of praying.]
+
+In the act itself, again, three things may be considered: the foundation or
+proximate cause of the prayers themselves; the one through whom and by whose
+mediation they are made; and those for whom the prayers are conceived and
+poured out. The foundation is twofold. First, it is a distinct and particular
+acknowledgment and a living and serious sense of our misery, need, and special
+deficiencies, necessarily joined with sorrow of heart and a certain
+contrition. Second, it is faith: that is, an acknowledgment and apprehension
+of God’s gratuitous mercy, favor, and benevolence in Christ Jesus, conceived
+from his word and promises through the Holy Spirit of adoption; and the trust
+born from it which rests upon God himself as benevolent and propitious,
+truthful, constant, wise, and powerful to fulfill his promises toward us.
+
+[Marginalia: Subdivision. Twofold foundation.]
+
+Faithful prayer arises immediately from these two foundations. By their
+benefit we are said to pour out our soul before God in prayer and to seek his
+face; and the more lively and effectual the sense and apprehension of these two
+things is in our hearts, the more fervently and ardently our prayer will rise
+to God. This may be seen particularly in Psalms 77 and 88, Isaiah 38, and Jonah
+2, among innumerable other passages of sacred Scripture selected for our use
+in this matter.
+
+[Marginalia: Note the corollary in passing.]
+
+The one through whom we pray is Christ alone, the God-man and mediator. Far be
+it from us to attempt to send our prayers and vows to God the Father without a
+mediator and a propitiatory sacrifice, relying on the name and intercession of
+anyone other than this his beloved Son, or resting and trusting in any other
+sacrifice than that which he himself
+
+[Marginalia: The mediator through whom.]
+
+[BSB bsb11059161 | scan 186 | Caput I p. 142]
+
+once offered for us on the cross, never to be repeated. Finally, we pray not
+only for ourselves but for all those for whom we have both God’s own command
+that prayers be conceived and the example of the saints and apostles in sacred
+Scripture—as we see in this very passage. We pray according as they are more
+closely joined to us in God and Christ, we are more deeply obligated to them,
+they have more earnestly commended themselves to our prayers, their particular
+necessity and need has become known to us, or we have some other legitimate
+cause and reason, under the rule of Christian charity and prudence, to be
+specially concerned for the salvation of this or that person, or of these or
+those people. But we do not pray for those who have departed this life. Such
+prayers cannot arise from faith, since they rest upon no word of God, no
+command, no promise, and indeed not even upon any approved example of canonical
+Scripture. Consequently, besides being vain and ineffectual, as is abundantly
+clear from orthodox teaching on the state of souls after their departure from
+this body and life, they must be abominable and displeasing to God, since they
+proceed from distrust and stubborn rebellion against God’s will, and so are
+imputed by him as sin to their authors. We see that what the prophet prays
+against his own and God’s enemies in Psalm 109 deservedly falls upon them in
+this respect: “When he comes to judgment, let him go out condemned, and let his
+prayer be counted as sin to him.” Let this suffice concerning prayer itself.
+
+[Marginalia: Those for whom we pray, or the object of our prayers. A corollary
+to be noted. Psalm 109:7.]
+
+As for thanksgiving, it is usually joined with prayers also in actual use and
+practice, just as its nature is akin to prayer. I touch briefly on only these
+two things in it. First, it requires a faithful and firm remembrance and
+serious meditation upon and acknowledgment of God’s blessings bestowed upon us
+through Christ, especially our redemption. A grateful person must be mindful,
+just as, conversely, one who forgets and is unmindful of benefits received
+becomes ungrateful both toward God and toward other people. Second, in order to
+attest this gratitude of ours, we must consecrate and dedicate ourselves and
+all that is ours to God from the heart: that is, devote and pledge ourselves
+wholly to his name, honor, and lawful worship, with the sincere zeal and
+purpose of heart to live for and serve God. We are to consecrate body, soul,
+affections, possessions, and actions to God throughout our life, so that in
+everything we strive to glorify him according not to our own will but to his
+will revealed to us in his word. We first undertook this solemn vow in baptism,
+subsequently renewed it from time to time in the celebration of the Lord’s
+Supper, and daily bound ourselves more closely to fulfill it. This part of
+gratitude or thanksgiving, which must chiefly be observed, was formerly
+foreshadowed in the legal sacrifices. First they were led to the altar and set
+before God as though present; then they were slain for him and offered upon his
+altar. So too, by this dedication and consecration of ourselves to God’s honor,
+worship, and obedience, we ought to present and offer ourselves as eucharistic
+sacrifices for benefits received, confessing, acknowledging, and celebrating
+in voice and life that he alone is the author and giver of every grace, of
+life, and of salvation.
+
+[Marginalia: On thanksgiving. A maxim to be noted. Confirmation.]
+
+From this explanation of both prayer and thanksgiving, their connection is
+now evident. For since true prayers arise from faith and trust in God, as has
+been said, no necessity that drives us to pray is ever so great that material
+for thanksgiving is not meanwhile at hand, since at every moment we can
+perceive and experience God’s grace and mercy toward us. Conversely, no
+material for thanksgiving given in this life is so abundant that it releases
+or exempts us from every need for prayer. For as long as we remain in this
+frail condition, engaged in this Christian struggle and conflict, and still
+stained with many remnants of sin, we always need daily pardon for offenses,
+fresh accessions of strengthening grace and new powers from time to time, and
+God’s hand continually supporting, directing, surrounding, fortifying, and
+protecting us below and above until we are brought into the very harbor of
+salvation. Hence in the examples of the godly and faithful of old set before us
+in sacred Scripture, we see thanksgivings almost always intermingled with
+prayers, and prayers in turn with thanksgivings and doxologies. This will be
+clear to anyone who opens and attentively reads even the single volume of the
+Psalms.
+
+[Marginalia: Corollary 1, on the connection of prayer and thanksgiving.]
+
+Again, as for joy, it is no wonder that the apostle almost always joins it with
+these two parts of divine worship, because these three mutually foster,
+increase, and preserve one another and follow one another as in a most
+delightful circle. In the works of nature, the sun’s power and attraction draw
+vapor from the moistened earth; the vapor gathers into a cloud and condenses
+into rain; this, formed again into a shower, falls drop by drop upon the earth;
+and the earth, watered once more, supplies material for the next vapor, cloud,
+and rain—and so the same sequence continues. It is the same here in this
+gracious work. By the power of the Holy Spirit, whom that Sun of righteousness
+sends down into our hearts as a saving ray of his countenance, prayers rise
+and are stirred up with unutterable groanings. By them our very hearts are
+brought, as it were, nearer to God’s face and presence and perceive his
+life-giving presence in Jesus Christ. Like wax melted and softened before his
+face, they are gradually watered by that peace and joy which surpass all
+understanding; amid tears and groans and in the midst of the fervor of their
+desire, they are filled and occupied, indeed wholly absorbed and carried out of
+themselves, by that most tranquil refreshment of peace and gladness and by
+inexpressible sweetness. Then this saving shower of joy and peace must in turn
+burst forth into thanksgiving, with the same Spirit of God acting within and
+loosening our souls—and indeed our very mouths and tongues—for God’s praise and
+glory. Thus, to state it briefly, we see that true and ardent prayers give rise
+to a greater sense of the divine presence in our souls and unite us more
+closely with God; from this come peace and joy in the Holy Spirit; and from
+this, as from a fountain, thanksgiving springs forth. In the very act of
+giving God thanks, that same joy from God’s presence is nourished, as is the
+zeal and exercise of prayer through experience of that most desirable effect.
+I know that the natural person can neither grasp nor perceive anything here.
+But the person in whom that Holy Spirit of Christ dwells and who is led by him,
+as the apostle says in Romans 8, knows not only that all these things are most
+true, but that their truth rises above everything that can be spoken or
+expressed by us or by anyone else.
+
+[Marginalia: Corollary 2, on joy as the companion and fuel of both. A notable
+comparison. Apodosis. Note well. Conclusion of the comparison. Romans 8:14.]
+
+Finally, from this we may also gather the solution to a difficulty arising
+from the constancy, or continuity, of both these actions. The apostle indicates
+this when he says that he does not stop or cease from prayer and
+
+[Marginalia: Corollary 3, concerning prayer and thanksgiving.]
+
+[BSB bsb11059161 | scan 187 | Caput I p. 143 (through Prælectio XXXIV close)]
+
+thanksgiving for the Ephesians. I extend this adjunct of perpetuity—or, so to
+speak, unceasingness—to both parts, namely both to prayer and to thanksgiving.
+For how, someone may ask, can the apostle truthfully assert here that he does
+not cease to perform this duty for the Ephesians? Or how is it possible for
+anyone either to give thanks or to pray continually and without interruption,
+as we heard above that he required of the Thessalonians? Must one never take a
+break or cease from prayer, and do nothing else throughout one’s whole life,
+casting aside every other concern and anxiety for family, commonwealth, and
+Church and abandoning every task of one’s particular calling? Our
+superstitious monks profess this even today; and so did those heretics of old
+who were accordingly called Messalians, from a word Chaldaic in origin.
+Epiphanius, in the eightieth heresy of his *Treasury*, interprets them as
+“those who pray” or “those who speak auspiciously,” and says they were “a
+fragment,” that is, a certain offshoot, “of the Essenes,” which afterward
+degenerated into pseudo-Christian monks. These people, I say, followed the
+same way of life by twisting and corrupting scriptural testimonies of this
+kind. What, then, must be said, and how should these and other passages of this
+kind be understood?
+
+[Marginalia: Objection. See the refutation of the Triers, chapter 18. צלא,
+מצלין, “to pray”; hence “one who prays” or “a superstitious person.”]
+
+We answer briefly as follows. First, passages of this kind must be adapted to
+the lot and condition of humanity: we must devote ourselves to such pursuits
+as far as the weakness of our nature allows. That continuity must be
+understood not so much of an act which never ceases or is never interrupted
+—otherwise one could never even sleep, which is foolish and absurd to
+imagine—as of never abandoning the zeal and exercise of offering prayers
+daily. This may be observed from the ordinary usage of speech among everyone.
+For example, someone is said never to cease from gambling, fornication,
+drinking, play, or other things of this kind. This does not mean that he always
+perseveres in the act itself without interruption, but that he has contracted
+such a habit that whenever opportunity is given, or every day, he repeatedly
+performs the same acts, so that he is said to do nothing else. Conversely, a
+person is said to pray without ceasing when he lets no day pass without
+devoting some time to this holy exercise. He exercises himself daily in prayer
+and offers this as a continual sacrifice to God as often each day as the
+duties and cares of his particular calling allow—like the sacrifice formerly
+customarily offered morning and evening. Nor does he neglect any opportunity
+to call upon God through Jesus Christ in prosperity as well as adversity and
+in every lot and condition of life. This is how we must understand what Luke 2
+relates about the most holy widow Anna: that she did not depart from the temple
+but worshiped God with fastings and supplications night and day. It refers to
+this daily zeal and exercise of prayer in which she exercised herself by night
+as well as by day. The same meaning of these sayings, and thus of this
+“unceasingness,” so to speak, can be gathered from the beginning of chapter 18
+of the same Gospel. There the Lord is said to have set before his disciples,
+to the end that they should always pray, the parable of the widow who wearied
+and battered an atheistic and unjust judge with continual demands. The words
+immediately following explain for us what “always to pray” means. The Holy
+Spirit says “not to lose heart”: that is, not to grow sluggish, fail, become
+discouraged, or ever cast away the practice of prayer, even if one is not
+heard at once, but to persist in it steadfastly throughout one’s whole life.
+In a word, we are to reckon neither sleep nor daily food more necessary for
+sustaining this frail bodily life than that continual fuel of prayer and
+thanksgiving is for nurturing, advancing, and preserving the spiritual life
+of the soul within us.
+
+[Marginalia: First part of the answer. Confirmation of the answer. Luke 2:36.
+Luke 18:1.]
+
+Second, as may be gathered from the nature of that inward worship described
+above, when we said that to pray is to raise the mind and affection to God,
+this continuity of prayer must be understood not so much of the outward act as
+of the inward affection. For in this sense it may be observed in every place
+and time, even while performing the outward works belonging to each person’s
+calling.
+
+[Marginalia: Part 2 of the answer.]
+
+Therefore the apostle does not want us to despise every other care, every
+lawful calling, or the necessary duties and works of a useful and honorable
+calling in order to devote ourselves to prayer alone. Rather, he wants us,
+even while working, to remain with God in affection and soul; even when we put
+our hands to our work, meanwhile to raise our minds to Christ. We should
+remember that we are citizens and inhabitants of heaven and should not seek
+and attend only to earthly things or remain wholly fixed and fastened upon
+them. Instead, by the gaze of the mind and the affection of the heart we should
+always advance farther, even to the place Christ has entered and to which he
+has brought and raised our nature. Meanwhile we are to think about God,
+Christ’s glory, and that life of ours hidden in Christ; in a word, as far as
+possible we are continually to meditate upon those eternal things yet to come
+and to be revealed at last in their own time. This cannot be done without that
+inward prayer and thanksgiving of a mind turned toward God in this way. So far
+is this from distracting us from the ordinary activities and duties of our
+calling that, on the contrary, from it we obtain these two excellent benefits
+or fruits, more precious than any price. First comes eagerness and readiness
+of soul to fulfill our calling and both to endure and soothe its labors with
+this oil, as it were, which relieves pain and gives comfort and is by far the
+most precious of all. Then comes God’s blessing upon us and our labors, making
+them prosper by his efficacy and sanctifying them by God’s own presence, so
+that we may labor with a good conscience in that manner of life in which God
+has willed to place us. For this presence of God, which is fostered and
+increased in us by that secret meditation and inward prayer, alone sustains us
+in our otherwise laborious work and under our otherwise burdensome load, and
+also sanctifies both us and our works.
+
+[Marginalia: Conclusion. Confirmation of this answer.]
+
+[End of Lecture XXXIV. The following `Atque ita partis hujus prioris membrum
+utrunque fusè declaravimus`, `Prælectio XXXV`, and observations drawn from
+verses 15–16 are excluded.]
+
+The completed sequence now extends through Lecture XXXIV. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -407,9 +1286,15 @@ faith in Christ and love toward all the saints. It explains faith as the
 apprehension of God’s fatherly love in Christ, from which confidence in God
 and reciprocal love for God arise; then it traces love of neighbor through
 that reciprocal love and compares faith and love to the two hands of a person
-climbing Jacob’s ladder. Lecture XXXIV next begins `Hinc jam secundo loco
-perpendendum venit Charitatis objectum` and takes up the object and ordered
-degrees of Christian love.
+climbing Jacob’s ladder. Lecture XXXIV then takes up the object and ordered
+degrees of Christian love, distinguishing love owed to all human beings from
+the special communion of the saints. It proceeds from the causes of Paul’s
+thanksgiving to its manner, defines prayer and its matter, foundations,
+mediator, and beneficiaries, explains thanksgiving as grateful remembrance
+and self-dedication, relates prayer and thanksgiving to spiritual joy, and
+closes by interpreting prayer without ceasing as daily constancy and an inward
+orientation toward God that sanctifies rather than displaces one’s lawful
+calling.
 
 ## Validation
 

@@ -1586,3 +1586,30 @@ Fractione,” begins below it on that page and is excluded.
 The next restart point is `QUÆSTIO XXIV. DE PANIS FRACTIONE. An ritus
 fractionis panis sit necessaria in administratione cœnæ? Affirm.` on shared
 printed p. 377 / IA leaf 411 / PDF p. 411.
+
+## Part 58
+
+Part 58 contains the complete Locus XIX, Question XXIV, “De Panis Fractione.”
+It begins with the question heading on shared printed p. 377 / IA leaf 411 /
+PDF p. 411, immediately after Question XXIII, and ends with section XIII on
+shared printed p. 381 / IA leaf 415 / PDF p. 415. Question XXV, “De Communione
+sub Utraque Specie,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-58-locus-19-question-24-latin.txt`
+- English: `parts/part-58-locus-19-question-24-english.md`
+- Both files contain five synchronized source-page markers, the complete
+  section sequence I–XIII, and eleven synchronized marginalia blocks.
+- The scan verification covered all five page images and all four page joins.
+  The pp. 377–378, 378–379, 379–380, and 380–381 joins fall within sections I,
+  V, VII, and X respectively and divide no word.
+- The transcription retains all six printed Greek expressions and the
+  witness’s abbreviations, spelling, capitalization, punctuation, and
+  citations. `[sic]` identifies `circunstandiarum`, `meledictionis`,
+  `augustiam`, the omitted negative in `mox idem sunt`, and `peculiare de
+  causa`; the English translates the evident sense.
+
+The next restart point is `QUÆSTIO XXV. DE COMMUNIONE SUB UTRAQUE SPECIE. An
+ex Dei præcepto omnibus et singulis fidelibus adultis utrumque Eucharistiæ
+symbolum administrari debeat? An vero usus Calicis Populi interdicendus sit?
+Prius Aff. Posterius Neg. contra Pontif.` on shared printed p. 381 / IA leaf
+415 / PDF p. 415.

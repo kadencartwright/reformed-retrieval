@@ -51,7 +51,9 @@ byte-identical to the recorded derivatives. The access PDF and plain OCR were
 freshly acquired once more for Parts 25–27 on 30 August 2026 and likewise
 remain byte-identical to the recorded derivatives. They were freshly acquired
 again for Parts 28–29 on the same date and remain byte-identical to that set;
-the same locally retained derivatives govern Parts 30–32:
+the same locally retained derivatives govern Parts 30–32. The access PDF and
+plain OCR were freshly acquired once more for Parts 33–35 on 30 August 2026
+and remain byte-identical to the recorded derivatives:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -94,9 +96,9 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the end of Chapter XV and Book I on printed p. 231.
-Shared-page boundaries preserve each new argumentative unit in the following
-part rather than duplicating it.
+printed p. 1 through the Book II title and prospectus and the end of Book II,
+Chapter II on the upper part of printed p. 246. Shared-page boundaries preserve
+each new argumentative unit in the following part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -132,6 +134,9 @@ part rather than duplicating it.
 | 30 | Chapter XV continuation; polygamy and rash divorce | lower part of shared printed p. 224 through p. 225 / IA leaves 242–243 / PDF pp. 242–243; stops before `Quarto. Hoc liquet etiam in octavo praecepto` | 2 |
 | 31 | Chapter XV continuation; ownership and political magistracy | printed p. 226 through the lower part of shared p. 227 / IA leaves 244–245 / PDF pp. 244–245; stops before `Celeberrimus Hoornbekius in libro vernaculo` | 2 |
 | 32 | Chapter XV and Book I conclusion; supporting testimonies | lower part of shared printed p. 227 through p. 231 / IA leaves 245–249 / PDF pp. 245–249; includes `Finis Libri primi.` | 5 |
+| 33 | Book II title and prospectus | printed pp. 233–234 / IA leaves 251–252 / PDF pp. 251–252; follows the blank verso on PDF 250 and stops before `CAP. I.` on p. 235 | 2 |
+| 34 | Book II, Chapter I; divine worship and its divisions | printed p. 235 through the upper part of shared p. 242 / IA leaves 253–260 / PDF pp. 253–260; stops before `CAP. II.` | 8 |
+| 35 | Book II, Chapter II; ejaculatory and solemn solitary worship | lower part of shared printed p. 242 through the upper part of shared p. 246 / IA leaves 260–264 / PDF pp. 260–264; stops before `CAP. III.` | 5 |
 
 The files are:
 
@@ -167,8 +172,11 @@ The files are:
 - `parts/part-30-book-01-chapter-15i-polygamy-and-divorce-{latin.txt,english.md}`
 - `parts/part-31-book-01-chapter-15j-property-and-magistracy-{latin.txt,english.md}`
 - `parts/part-32-book-01-chapter-15k-testimonies-and-conclusion-{latin.txt,english.md}`
+- `parts/part-33-book-02-prospectus-{latin.txt,english.md}`
+- `parts/part-34-book-02-chapter-01-worship-and-divisions-{latin.txt,english.md}`
+- `parts/part-35-book-02-chapter-02-solitary-worship-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–32 image audits
+### Part 04 re-audit and Parts 05–35 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -882,6 +890,52 @@ libro vernaculo`. Its final included words are `Finis Libri primi.` The next
 untranslated text is the Book II title and prospectus, `DE CAUSA DEI CONTRA
 ANTISABBATARIOS. LIBER SECUNDUS, De Cultu ac Tempore Solenni.`, on printed p.
 233 / IA leaf 251 / PDF p. 251.
+
+Part 33 is the complete Book II title and prospectus. PDF 250 was inspected as
+the blank verso immediately following `Finis Libri primi.`; both controlling
+images from the exact heading `DE CAUSA DEI CONTRA ANTISABBATARIOS. LIBER
+SECUNDUS, De Cultu ac Tempore Solenni.` on PDF 251 through the end of the
+twenty-chapter prospectus on PDF 252 were read directly. OCR was used only as
+a collation aid. The Latin and English contain the identical two-marker
+sequence. The terminal errata leaf assigns no particular correction to
+printed pp. 233–234. No Greek, Hebrew, or separate substantive marginal gloss
+occurs. The exact Part 33 ending is `...Religionis circumstantiae, falsissimum
+esse.` The next untranslated text at that handoff was `CAP. I. De Cultu Dei,
+ejusque Divisione.` on printed p. 235 / IA leaf 253 / PDF p. 253.
+
+Part 34 is the complete, image-audited first chapter of Book II, defining
+related terms for divine worship and setting out Brown's principal divisions
+of worship. Every controlling image from `CAP. I. De Cultu Dei, ejusque
+Divisione.` on PDF 253 through the chapter end on PDF 260 was read directly,
+including all seven internal joins and the outgoing shared-page stop before
+`CAP. II.` OCR was used only as a collation aid. The Latin and English contain
+the identical eight-marker sequence. The terminal errata readings `humiliatus`
+(printed p. 235, line 9) and `esset` (p. 241, line 13) are incorporated; its
+general warning about deficient Greek and Hebrew type is disclosed in both
+file headers, and the controlling images govern all foreign-script readings.
+No separate substantive marginal gloss occurs. Printer-divided words at the
+pp. 237/238, 238/239, 240/241, and 241/242 joins are joined with the new marker
+before the complete word or corresponding English phrase. The exact Part 34
+ending is `...& Timere Deum, passim.` The next untranslated text is `CAP. II.
+De Cultu Solitario.` on shared printed p. 242 / IA leaf 260 / PDF p. 260.
+
+Part 35 is the complete, image-audited second chapter of Book II, distinguishing
+ejaculatory from solemn solitary worship and arguing from natural reason,
+Scripture, and Christian experience for the latter. Every controlling image
+from `CAP. II. De Cultu Solitario.` on PDF 260 through the chapter end on PDF
+264 was read directly, including all four internal joins and the outgoing
+shared-page stop before `CAP. III.` OCR was used only as a collation aid. The
+Latin and English contain the identical five-marker sequence. The terminal
+erratum `est` (printed p. 246, line 7) is incorporated; its general warning
+about deficient Greek and Hebrew type is disclosed in both file headers, and
+the controlling image governs `τὸ γνωστὸν τοῦ Θεοῦ` and `πολιτεύματος`. No
+Hebrew or separate substantive marginal gloss occurs. The printer-divided word
+`idololatras` at the pp. 244/245 join is joined with the new marker before the
+complete Latin word and corresponding English word; catchwords and the rule
+before Chapter III are omitted. The exact Part 35 ending is `...sufficiat hoc
+hîc obiter annotasse.`
+The next untranslated text is `CAP. III. De Cultu Sociali, imprimis Domestico.`
+on shared printed p. 246 / IA leaf 264 / PDF p. 264.
 
 ## Review and licensing status
 

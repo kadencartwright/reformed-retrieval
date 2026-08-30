@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question VII
+  Statu Christi*, begun through Question VIII
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–45 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–46 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–VII, from printed p. 3 / PDF 31
-through section XVII on printed p. 283 / PDF 311. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–VIII, from printed p. 3 / PDF 31
+through section XLII on printed p. 292 / PDF 320. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,039 numbered sections across 275 unique numbered
-text pages and 312 source markers in each language (308 printed-page markers
+268. The sequence comprises 1,081 numbered sections across 284 unique numbered
+text pages and 322 source markers in each language (318 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 151,706 whitespace-delimited words and the complete English files
-206,910, counted over Parts 01–45 with `wc -w`. Each part is a complete question,
+contain 156,816 whitespace-delimited words and the complete English files
+214,023, counted over Parts 01–46 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -100,6 +100,7 @@ the substantive marginal headings.
 | 43 | Locus XIII, Question V | printed pp. 270–274 / PDFs 298–302 | XIX | 5 | `part-43-locus-13-question-05-{latin.txt,english.md}` |
 | 44 | Locus XIII, Question VI | printed pp. 274–279 / PDFs 302–307 | XXVI | 6 | `part-44-locus-13-question-06-{latin.txt,english.md}` |
 | 45 | Locus XIII, Question VII | printed pp. 280–283 / PDFs 308–311 | XVII | 4 | `part-45-locus-13-question-07-{latin.txt,english.md}` |
+| 46 | Locus XIII, Question VIII | printed pp. 283–292 / PDFs 311–320 | XLII | 10 | `part-46-locus-13-question-08-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -632,6 +633,40 @@ Part 45's exact next restart is `QUAESTIO VIII. DE COMMUNICATIONE IDIOMATUM.
 An humanae Naturae Christi per Unionem Personalem communicatae sint
 formaliter quaedam Proprietates Divinae Naturae? Neg. contra Lutheranos.` on
 printed p. 283 / PDF 311.
+
+Question VIII asks whether certain divine properties were formally
+communicated to Christ's human nature through the personal union. Against the
+Lutherans, it distinguishes the real communication of each nature's
+properties to the Person in the concrete from a communication between the
+natures in the abstract; rejects the latter as incompatible with the divine
+essence, the incommunicability and inseparability of its properties, and the
+continued distinction of the natures; and argues in particular against the
+communication of omnipresence, omniscience, omnipotence, and life-giving
+power. It then answers the principal Lutheran distinctions and biblical
+proofs in forty-two sections. It begins at the Question VIII heading on
+printed p. 283 / PDF 311 and ends with section XLII on printed p. 292 / PDF
+320 immediately before Question IX. The Latin and English files contain 5,110
+and 7,113 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all ten printed-page markers in the same sequence
+and retain all eighteen substantive marginal headings, citations, and
+scan-exact Greek. The printed pp. 283/284, 284/285, 285/286, 286/287, 287/288,
+288/289, 289/290, and 290/291 joins fall respectively after `Joh. i. 1`,
+between `tribuitur` and `personae`, after `Nec juvat`, after `Joh. vi. 24, et
+xi. 15`, between `sed` and `eam`, between sections XXIV and XXV, between the
+first and second arguments of section XXIX, and between `a Λόγῳ` and `in
+Unione personali`. At the printed pp. 291/292 join, the printer-divided
+`attribu-/torum` is normalized as `attributorum`, with the incoming marker
+placed before the complete word in both files. The second section printed as
+`XVII` on p. 287 is normalized to XVIII and recorded as `XVIII [sic: XVII]` in
+the Latin and `XVIII [printed XVII]` in the English, preserving the intended
+I–XLII sequence. The visibly printed `Rom. viii. 29` after *ἐν πᾶσι
+πρωτεύειν* in section XXXII is retained with `[sic]`; the phrase occurs at
+Col. i. 18. No supplementary witness was needed. The Question IX heading and
+body on printed p. 292 / PDF 320 are excluded.
+
+Part 46's exact next restart is `QUAESTIO IX. DE DUPLICI CHRISTI STATU. An
+Christus Mediator sub duplici Statu debuerit Munus suum exequi? Affirm.` on
+printed p. 292 / PDF 320.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

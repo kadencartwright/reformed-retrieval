@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and five printed pages
-> of Volume II. The twenty-seven paired parts are unreviewed and are not
+> close English translations of the opening one hundred and sixteen printed
+> pages of Volume II. The thirty paired parts are unreviewed and are not
 > publication-ready.
 
 ## Work and edition
@@ -86,7 +86,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 105 is applied and disclosed in the relevant
+completed span through printed p. 116 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapter VII were read from the images, not
 reconstructed from IA OCR. Apparatus notes record printed errata,
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Twenty-seven paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -222,13 +222,31 @@ working drafts:
   markers.
   [Latin](parts/part-27-book-04-chapter-08-arguments-03-10-latin.txt) |
   [English](parts/part-27-book-04-chapter-08-arguments-03-10-english.md)
+- **Part 28:** all of Chapter IX, arguing in fifteen ways that the covenant
+  made with the Israelites was the covenant of grace, with one objection and
+  four responses; printed pp. 105–111 / IA PDF and leaves 113–119; seven
+  synchronized markers.
+  [Latin](parts/part-28-book-04-chapter-09-covenant-of-grace-latin.txt) |
+  [English](parts/part-28-book-04-chapter-09-covenant-of-grace-english.md)
+- **Part 29:** Chapter X's framework, explaining how the covenant of works was
+  proposed to the Israelites and giving eight differences between that
+  proposal and the covenant made with Adam; printed pp. 111–113 / IA PDF and
+  leaves 119–121; three synchronized markers.
+  [Latin](parts/part-29-book-04-chapter-10-framework-latin.txt) |
+  [English](parts/part-29-book-04-chapter-10-framework-english.md)
+- **Part 30:** Chapter X's twenty-seven direct arguments that the covenant
+  made with the Israelites was not the covenant of works, completing the
+  chapter; printed pp. 113–116 / IA PDF and leaves 121–124; four synchronized
+  markers.
+  [Latin](parts/part-30-book-04-chapter-10-arguments-latin.txt) |
+  [English](parts/part-30-book-04-chapter-10-arguments-english.md)
 
-Part 27 ends with Cocceius's testimony under Chapter VIII's tenth argument and
-before `CAP. IX.` on shared printed p. 105. The exact next untranslated text is
-`CAP. IX. Foedus cum Israëlitis ictum fuit foedus gratiae.`, at printed p. 105
-/ IA PDF 113 / IA leaf 113. Chapters VI, VII, and VIII are complete. Every
-completed pair has an identical source-marker sequence, and all twenty-seven
-pairs remain AI-assisted and unreviewed.
+Part 30 ends with Chapter X's twenty-seventh argument and before `CAP. XI.` on
+shared printed p. 116. The exact next untranslated text is `CAP. XI. Foedus
+cum Israëlitis ictum non fuit foedus mixtum.`, at printed p. 116 / IA PDF 124
+/ IA leaf 124. Chapters VI through X are complete. Every completed pair has an
+identical source-marker sequence, and all thirty pairs remain AI-assisted and
+unreviewed.
 
 ## Licensing
 

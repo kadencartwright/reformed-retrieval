@@ -905,3 +905,29 @@ AUTORITATE. An proprium sit Pontificis Romani indicere et cogere Concilia, iis
 præesse, et autoritatem ipsis conferre infallibilem in dogmatis Fidei et
 Religionis? Et an recipiendum sit Concilium Tridentinum? Neg. c. Pontif.` on
 printed p. 260 / IA leaf 294 / PDF p. 294.
+
+## Part 33
+
+Part 33 contains the complete Locus XVIII, Question XXXIII, “De Conciliorum
+Origine, et Autoritate.” It begins with the question heading on printed p. 260
+/ IA leaf 294 / PDF p. 294 and ends with section XXVIII on shared printed p.
+268 / IA leaf 302 / PDF p. 302. Question XXXIV, “De Politica Ecclesiæ
+Gubernatione,” begins below it on that page and is excluded.
+
+- Latin: `parts/part-33-locus-18-question-33-latin.txt`
+- English: `parts/part-33-locus-18-question-33-english.md`
+- Both files contain nine synchronized source-page markers, the complete
+  section sequence I–XXVIII, and ten synchronized marginalia blocks.
+- The scan verification covered all nine page images and all eight page joins.
+  The pp. 265–266 and 266–267 joins divide `decreta` and `desiderari`; each word
+  is joined, with the new-page marker placed before the complete Latin word and
+  its English counterpart. The other joins divide no word.
+- The transcription retains all printed Greek, the witness’s unusual
+  `concalando`, `supparasitaturus`, and `didiximus`, and its historical and
+  biblical citations rather than silently correcting them. The English
+  translates the evident sense without silently altering the Latin witness.
+
+The next restart point is `QUÆSTIO XXXIV. DE POLITICA ECCLESIÆ GUBERNATIONE.
+Quodnam sit Jus Magistratus Christiani circa Sacra, et an Cura et Cognitio de
+Religione ad eum ullatenus pertineat? Affirm.` on shared printed p. 268 / IA
+leaf 302 / PDF p. 302.

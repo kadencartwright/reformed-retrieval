@@ -176,6 +176,21 @@ antecessoribus ecclesiasticis, instrumentaliter scil.` The heading and first
 clause begin in the lower portion of printed p. 155 / ONB canvas 163, and the
 sentence finishes on printed p. 156 / ONB canvas 164.
 
+## Part 10 boundary and source map
+
+Part 10 begins `ASSERTIO X` in the lower portion of printed p. 155 / ONB
+canvas 163 and contains the assertion’s opening statement and complete first
+proof that Scripture supplies neither precept nor example for ordination by
+the people. It includes Brown’s replies concerning Matthias in Acts 1,
+presbyters in Acts 14:23, and the Levites in Numbers 8. It ends with the sixth
+and final reply to the Numbers 8 objection in the upper portion of printed p.
+160 / ONB canvas 168. The following second proof, `Secundo, Illi tantummodo
+potestatem ordinandi habent, quibus datæ sunt à Christo claves`, is excluded.
+Its paired files contain six synchronized markers for printed pp. 155–160. The
+exact next untranslated boundary is `Secundo, Illi tantummodo potestatem
+ordinandi habent, quibus datæ sunt à Christo claves. At hæ claves non sunt
+populo datæ.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -216,6 +231,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-08-sacraments-and-lawful-ministers-english.md`
 - `parts/part-09-lawful-calling-and-ordination-latin.txt`
 - `parts/part-09-lawful-calling-and-ordination-english.md`
+- `parts/part-10-ordination-by-ecclesiastical-officers-latin.txt`
+- `parts/part-10-ordination-by-ecclesiastical-officers-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

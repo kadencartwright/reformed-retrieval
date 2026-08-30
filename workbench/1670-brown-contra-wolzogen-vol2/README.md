@@ -191,6 +191,22 @@ exact next untranslated boundary is `Secundo, Illi tantummodo potestatem
 ordinandi habent, quibus datæ sunt à Christo claves. At hæ claves non sunt
 populo datæ.`
 
+## Part 11 boundary and source map
+
+Part 11 begins with `Secundo, Illi tantummodo potestatem ordinandi habent...`
+in the lower portion of printed p. 160 / ONB canvas 168. It contains Brown’s
+second proof that the people cannot ordain: ordination belongs to those who
+have received the keys and ecclesiastical authority from Christ. After citing
+Apollonius, Baynes, and Ball, Brown answers at length the appeal to Matthew
+16:19 that Peter received the keys as a representative of all believers. The
+part ends with Brown’s transition to further arguments in the upper portion of
+printed p. 168 / ONB canvas 176. Its paired files contain nine synchronized
+markers for printed pp. 160–168, approximately eight full pages of text and
+approximately one percent of the 716-page global volume account. The exact
+next untranslated boundary is `Dico ergo II. Si data fuerit à Christo potestas
+hæc clavium, fidelium cœtui quâ tali, vel data fuerat, Ecclesiâ nondum
+constitutâ, sed constituendâ; vel Ecclesiâ jam constitutâ.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -233,6 +249,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-09-lawful-calling-and-ordination-english.md`
 - `parts/part-10-ordination-by-ecclesiastical-officers-latin.txt`
 - `parts/part-10-ordination-by-ecclesiastical-officers-english.md`
+- `parts/part-11-keys-and-ecclesiastical-authority-latin.txt`
+- `parts/part-11-keys-and-ecclesiastical-authority-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

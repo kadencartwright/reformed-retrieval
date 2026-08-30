@@ -163,6 +163,22 @@ The next excluded heading is `QUAESTIO X. De tempore quo adorarunt Christum
 infantem Magi.` The boundary is question-complete and includes no body text
 from Question X.
 
+## Part 11 boundary
+
+Part 11 resumes with the excluded Question X heading in the remainder of
+printed p. 68 / PDF-IA leaf 406 / OCR object 405. It surveys four principal
+opinions about the time of the Magi’s worship, rejects both a two-year interval
+and the Roman January 6 observance, considers the travel time from proposed
+eastern homelands, and concludes that the Magi came after the thirteenth day
+from Christ’s birth but before the fortieth-day purification. It ends with
+Question X within printed p. 71 / PDF-IA leaf 409 / OCR object 408 at `nihil
+tamen post eum lectum ex supra scriptis putavi immutandum.`
+
+The next excluded heading is `QUAESTIO XI. Qui Joannis 2. 20. templum
+aedificatum dicatur annis quadraginta sex, & tamen a Solomone templum
+perfectum est annis septem ...?` The boundary is question-complete and includes
+no body text from Question XI.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -202,6 +218,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-09-josephs-two-fathers-question-08-english.md`
 - `parts/part-10-joseph-rather-than-mary-question-09-latin.txt`
 - `parts/part-10-joseph-rather-than-mary-question-09-english.md`
+- `parts/part-11-magi-question-10-latin.txt`
+- `parts/part-11-magi-question-10-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -231,3 +249,6 @@ objects 396–401.
 The Part 10 pair contains five synchronized source markers, from the remainder
 of logical printed p. 64 through p. 68 / IA leaves-access-PDF pp. 402–406 / OCR
 objects 401–405.
+The Part 11 pair contains four synchronized source markers, from the remainder
+of logical printed p. 68 through p. 71 / IA leaves-access-PDF pp. 406–409 / OCR
+objects 405–408.

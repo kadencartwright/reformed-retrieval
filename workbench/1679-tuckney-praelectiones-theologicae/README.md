@@ -1578,6 +1578,24 @@ dignitate ista asserenda seduli fuerimus`, is excluded.
 - English: `parts/part-98-concio-ad-clerum-03-english.md`
 - Extent: three synchronized markers, new-series fols. 38–40 / IA leaves 358–360
 
+## Part 99: fourth unit of the 1650 clergy sermon for the doctoral degree
+
+Part 99 begins the sermon’s third main division on ministerial duty and
+completes its first requirement: those who season others must first have savor
+themselves. Tuckney demands agreement between doctrine and life, adequate
+learning and mature preparation for pastoral care, and a lawful divine call.
+He contrasts these with hypocritical teachers, unfledged graduates, soldiers
+who combine the two swords, and unqualified popular preachers. It runs from
+`Caveamus itaque ne dum in dignitate ista asserenda seduli fuerimus` on
+new-series fol. 40 / IA leaf 360 through the explanation of `τὸ ἅλας
+ἐμωράνθη` as a foolish pastor on new-series fol. 42 / IA leaf 362. The second
+requirement, beginning `Secundo. At quanto magis, si vitiorum sordibus
+coopertus totus`, is excluded.
+
+- Latin: `parts/part-99-concio-ad-clerum-04-latin.txt`
+- English: `parts/part-99-concio-ad-clerum-04-english.md`
+- Extent: three synchronized markers, new-series fols. 40–42 / IA leaves 360–362
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

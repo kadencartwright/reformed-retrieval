@@ -431,6 +431,20 @@ nostrorum dicta`, is excluded.
 - English: `parts/part-22-romans-01-17-justification-21-english.md`
 - Extent: six synchronized markers, printed pp. 144–149 / IA leaves 152–157
 
+## Part 23: twenty-second unit of the Romans 1:17 lecture
+
+Part 23 explains formulations by Pareus and Piscator that might appear to
+exclude only pre-faith works from justification, then concludes Tuckney's
+second preliminary question. It runs from `Restant quaedam etiam Theologorum
+nostrorum dicta` on printed p. 149 / IA leaf 157 through the conclusion that
+all believers' works themselves require pardon on printed p. 155 / IA leaf
+163. The following appendix, `Appendicis loco amicum et placidum examen`, is
+excluded.
+
+- Latin: `parts/part-23-romans-01-17-justification-22-latin.txt`
+- English: `parts/part-23-romans-01-17-justification-22-english.md`
+- Extent: seven synchronized markers, printed pp. 149–155 / IA leaves 157–163
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

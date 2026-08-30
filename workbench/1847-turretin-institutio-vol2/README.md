@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XIII
+  Statu Christi*, begun through Question XIV
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–51 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–52 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XIII, from printed p. 3 / PDF 31
-through section XVI on printed p. 309 / PDF 337. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XIV, from printed p. 3 / PDF 31
+through section XV on printed p. 313 / PDF 341. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,158 numbered sections across 301 unique numbered
-text pages and 344 source markers in each language (340 printed-page markers
+268. The sequence comprises 1,173 numbered sections across 305 unique numbered
+text pages and 349 source markers in each language (345 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 166,307 whitespace-delimited words and the complete English files
-227,268, counted over Parts 01–51 with `wc -w`. Each part is a complete question,
+contain 168,289 whitespace-delimited words and the complete English files
+229,905, counted over Parts 01–52 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -106,6 +106,7 @@ the substantive marginal headings.
 | 49 | Locus XIII, Question XI | printed pp. 298–304 / PDFs 326–332 | XXVIII | 7 | `part-49-locus-13-question-11-{latin.txt,english.md}` |
 | 50 | Locus XIII, Question XII | printed pp. 304–306 / PDFs 332–334 | VIII | 3 | `part-50-locus-13-question-12-{latin.txt,english.md}` |
 | 51 | Locus XIII, Question XIII | printed pp. 306–309 / PDFs 334–337 | XVI | 4 | `part-51-locus-13-question-13-{latin.txt,english.md}` |
+| 52 | Locus XIII, Question XIV | printed pp. 309–313 / PDFs 337–341 | XV | 5 | `part-52-locus-13-question-14-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -784,12 +785,30 @@ controlling witness; the specified OCR excerpt was used only as an aid. No
 supplementary witness was needed. The Question XIV heading and body later on
 printed p. 309 / PDF 337 are excluded.
 
-Part 51's exact next restart is `QUAESTIO XIV. DE PASSIONIBUS CHRISTI. An
-Christus pœnas tantum corporales in corpore, aut anima quidem, sed tantum quoad
-partem inferiorem et sensitivam, passus sit pro nobis? An vero ipsas etiam
-spirituales et gehennales peccati pœnas, tam in superiori, quam inferiori
-parte, proprie in se, et ex sensu iræ Dei sustinuerit? Neg. Prius; Poster.
-Affirm. contra Pontificios.` on printed p. 309 / PDF 337.
+Question XIV argues that Christ bore not only bodily punishments and passions
+in the lower soul, but also the spiritual and internal punishments owed to us
+in the higher soul through the sense of divine wrath. It explains the
+qualified abandonment of Christ, defends the terms hellish passions and
+damnation against Roman Catholic objections, and answers charges against
+Calvin, in fifteen sections. It begins at the Question XIV heading below
+section XVI of Part 51 on printed p. 309 / PDF 337 and ends with section XV on
+printed p. 313 / PDF 341 immediately before Question XV. The Latin and English
+files contain 1,982 and 2,637 whitespace-delimited words respectively, counted
+over each complete file with `wc -w`. Both carry all five printed-page markers
+in the same sequence and retain all four substantive marginal headings,
+citations, and scan-exact Greek. The printed pp. 309/310 join falls between
+`eo` and `usque progressi sunt`; the pp. 310/311 join between `utraque` and
+`parte patiendum`; the pp. 311/312 join between `animæ` and `symbolum dici
+potest`; and the pp. 312/313 join between `cur non` and `damnatio illi tribui
+potest`. The five supplied page images are the controlling witness; the
+specified OCR excerpt was used only as an aid. No supplementary witness was
+needed. The Question XV heading and body later on printed p. 313 / PDF 341 are
+excluded.
+
+Part 52's exact next restart is `QUAESTIO XV. DE DESCENSU CHRISTI AD INFEROS.
+An Anima Christi, statim post separationem sui a Corpore, translata fuerit in
+Paradisum? An vero localiter descenderit ad Inferos? Prius Affirm.; Poster.
+Neg.; contra Pontif. et Luther.` on printed p. 313 / PDF 341.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

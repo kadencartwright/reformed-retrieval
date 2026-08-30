@@ -498,6 +498,44 @@ aid. The Greek and Hebrew strings, the page-spanning marginalium, and all other
 included printed marginalia are retained. The pair remains an AI-assisted,
 unreviewed draft and is not publication-ready.
 
+## Part 26 boundary and status
+
+Part 26 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 189 and 191 and complete p. 190, IA leaves
+219–221, access-PDF pp. 219–221, and DjVu OCR objects 218–220. It begins in
+the left column of printed p. 189 immediately after Part 25 with `QUAESTIO
+XVIII. Qui concilientur primum Zachariae versu duodecimo cum Jeremia vigesimi
+quinti undecimo & duodecimo ...?`, contains Question XVIII in full, and ends
+in the right column of printed p. 191 after `sed ista divinae providentiae
+secundum suum beneplacitum perficienda relicta sunt.`
+
+`QUAESTIO XIX. Quid statuendum de quatuor mensium jejuniis à Zacharia Cap. 7.
+v. 3. & Cap. 8. v. 19. memoratis?` begins below it in the same column and is
+wholly excluded. All three controlling 300-dpi images, `pdf-219.jpg` through
+`pdf-221.jpg`, were used for the transcription; OCR served only as an aid. The
+page-spanning words were joined and placed wholly after the later synchronized
+marker. All included printed marginalia are retained. The pair remains an
+AI-assisted, unreviewed draft and is not publication-ready.
+
+## Part 27 boundary and status
+
+Part 27 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 191 and 193 and complete p. 192, IA leaves
+221–223, access-PDF pp. 221–223, and DjVu OCR objects 220–222. It begins in
+the right column of printed p. 191 immediately after Part 26 with `QUAESTIO
+XIX. Quid statuendum de quatuor mensium jejuniis à Zacharia Cap. 7. v. 3. &
+Cap. 8. v. 19. memoratis?`, contains Question XIX in full, and ends in the left
+column of printed p. 193 after `quae latam Pontificiis portam aperit
+introducendi suarum superstitionum & idololatriarum plenissima plaustra.`
+
+`QUAESTIO XX. Qui concilietur Haggaei secundum decimo nono cum Esdrae tertii
+decimo, undecimo, & duodecimo?` begins below it in the same column and is
+wholly excluded. All three controlling 300-dpi images, `pdf-221.jpg` through
+`pdf-223.jpg`, were used for the transcription; OCR served only as an aid. The
+word divided across the p. 191/p. 192 break is joined and placed wholly after
+the p. 192 marker. All included printed marginalia are retained. The pair
+remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -564,6 +602,10 @@ have not been modernized or endorsed.
 - `parts/part-24-book-01-chapter-10-question-16-english.md`
 - `parts/part-25-book-01-chapter-10-question-17-latin.txt`
 - `parts/part-25-book-01-chapter-10-question-17-english.md`
+- `parts/part-26-book-01-chapter-10-question-18-latin.txt`
+- `parts/part-26-book-01-chapter-10-question-18-english.md`
+- `parts/part-27-book-01-chapter-10-question-19-latin.txt`
+- `parts/part-27-book-01-chapter-10-question-19-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -571,7 +613,8 @@ above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
-21, two for Part 22, five for Part 23, six for Part 24, and three for Part 25.
-There are fifty current files in twenty-five Latin/English pairs, containing
-211 synchronized source markers per language (422 marker occurrences across
-all fifty files). The files remain AI-assisted and unreviewed.
+21, two for Part 22, five for Part 23, six for Part 24, three for Part 25, and
+three each for Parts 26 and 27. There are fifty-four current files in
+twenty-seven Latin/English pairs, containing 217 synchronized source markers
+per language (434 marker occurrences across all fifty-four files). The files
+remain AI-assisted and unreviewed.

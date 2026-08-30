@@ -224,6 +224,23 @@ pages of text. The exact next untranslated boundary is `Assertionis altera
 pars, quod scil. jus ac potestas ordinandi, solis competat Antecessoribus
 ecclesiasticis, sic evincitur.`
 
+## Part 13 boundary and source map
+
+Part 13 begins with `Assertionis altera pars, quòd scil. jus ac potestas
+ordinandi...` in the lower portion of printed p. 186 / ONB canvas 194 and
+completes the positive half of `ASSERTIO X`, arguing that the right and power
+of ordination belong only to ecclesiastical officers. Brown first appeals to
+the commands given to Timothy and Titus and then to the ordinations in Acts 6,
+Acts 13, Acts 14, and 1 Timothy 4:14. His extended treatment of the last text
+defends the collective sense of `presbyterium`, answers two objections about
+Timothy, and closes with the testimony of antiquity. The part ends with `Et sic
+satis confirmatur hæc nostra Assertio: sequitur altera.` in the upper portion
+of printed p. 193 / ONB canvas 201. Its paired files contain eight synchronized
+markers for printed pp. 186–193, approximately seven full pages of text. The
+exact next untranslated boundary is `ASSERTIO XI. In Ordinatione hâc ritè
+peragendâ, requiritur manuum impositio. Necessarium duco hanc addere
+Assertionem propter ea quæ habet Velthusius pag. 298. & alibi in præfatione.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -270,6 +287,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-11-keys-and-ecclesiastical-authority-english.md`
 - `parts/part-12-popular-power-and-ordination-latin.txt`
 - `parts/part-12-popular-power-and-ordination-english.md`
+- `parts/part-13-right-of-ordination-latin.txt`
+- `parts/part-13-right-of-ordination-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

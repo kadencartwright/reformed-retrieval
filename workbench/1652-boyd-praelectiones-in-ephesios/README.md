@@ -65,6 +65,7 @@ same scan can legitimately close one part and open the next:
 | 20 | XX | 113–119 | 71–77 | `Sequuntur jam, priusquam ad effecta veniamus` through the four conditions and four temporal effects of election, the opening corollary on its signs and assurance, and `Ita etiam cum vero Spiritus Sancti testimonio, multa alia dona, gratiæque speciales conjuncta sunt` before Lecture XXI |
 | 21 | XXI | 119–126 | 77–84 | `In quibus vobis paulò distinctius exprimendis & enarrandis adhuc visum est immorari` through the gifts peculiar to the elect, the internal and external signs of election, and `quod primum ac præcipuum erat Corollarium nobis ex doctrinâ præcedente deducendum` before Lecture XXII |
 | 22 | XXII | 126–130 | 84–88 | `Secundum Corollarium, ad Electionis conjugata, h.e. Electos ipsos pertinebit` through the fixed number of the elect, the final election corollary, and the name, scriptural basis, definition, two acts, and final causes of reprobation, ending `Atque hæc de ejus causâ finali dicta sunto` before Lecture XXIII |
+| 23 | XXIII | 130, 133–137 | 88–93 | `Sequitur nunc ut ejus effecta sive consequentia attingamus` through the distinction between effects and consequences, divine desertion, reprobation's conditions and comparison with election, three uses, and rules for judging persons, ending `à salutis limine arceamus aut excludamus` before Lecture XXIV; scans 131–132 are redundant captures of printed pages 87–88 and are not separately transcribed |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -126,8 +127,9 @@ English translation:
 | 20 | The conditions, effects, and signs of election | [`part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt) | [`part-20-praelection-20-conditions-effects-and-signs-of-election-english.md`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-english.md) |
 | 21 | The gifts and signs distinguishing the elect | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt) | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md) |
 | 22 | The fixed number of the elect and the causes of reprobation | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-latin.txt) | [`part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md`](parts/part-22-praelection-22-fixed-number-and-causes-of-reprobation-english.md) |
+| 23 | The effects and consequences of reprobation | [`part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-latin.txt) | [`part-23-praelection-23-effects-and-consequences-of-reprobation-english.md`](parts/part-23-praelection-23-effects-and-consequences-of-reprobation-english.md) |
 
-The completed sequence now extends through Lecture XXII. Its successive subjects
+The completed sequence now extends through Lecture XXIII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -262,6 +264,18 @@ over from the decree to condemn for sin. The lecture denies that reprobation
 is the proper cause of sin or condemnation and concludes by treating the
 manifestation of divine justice as its supreme end and the admonition,
 humility, gratitude, and consolation of the elect as its subordinate end.
+Lecture XXIII distinguishes reprobation's effects from its wider consequences,
+then divides divine desertion into an initial withholding of confirming grace
+and a punitive deprivation of saving grace after sin. It treats the decree's
+freedom, immutability, subjects, and unequal number; compares reprobation with
+election in causes, forms, means, effects, and ends; and denies that God
+produces the sins which the decree permits and orders. Its three corollaries
+draw practical uses against fatalistic unbelief, warn hearers not to harden
+under repeated gospel preaching, and prescribe restraint in judging anyone's
+final state. The lecture closes by applying those rules to people outside the
+visible Church, deaths clouded by illness, and ancestors who lived under the
+papacy, affirming that Christ preserved living members even amid
+Antichristian corruption.
 
 ## Validation
 

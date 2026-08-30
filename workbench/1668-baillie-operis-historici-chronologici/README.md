@@ -407,6 +407,40 @@ the later synchronized marker. The Greek strings and all included printed
 marginalia are retained. The pair remains an AI-assisted, unreviewed draft and
 is not publication-ready.
 
+## Part 21 boundary and status
+
+Part 21 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 175 and 177 and complete p. 176, IA leaves
+205–207, access-PDF pp. 205–207, and DjVu OCR objects 204–206. It begins in
+the left column of printed p. 175 immediately after Part 20 with `QUAESTIO
+XIII. Unde incipiant & ubi desinant Danielis septem hebdomadae, & quamobrem à
+reliquis hebdomadis dividantur?`, contains Question XIII in full, and ends in
+the left column of printed p. 177 after `primam istius septuagesimae partem in
+septenario non alio numero voluerit ponere.`
+
+`QUAESTIO XIV. Qui sint termini Hebdomadarum sexaginta duarum?` begins below
+it in the same column and is wholly excluded. All three controlling 300-dpi
+images, `pdf-205.jpg` through `pdf-207.jpg`, were used for the transcription;
+OCR served only as an aid. The Greek strings and all included printed
+marginalia are retained. The pair remains an AI-assisted, unreviewed draft and
+is not publication-ready.
+
+## Part 22 boundary and status
+
+Part 22 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 177–178, IA leaves 207–208, access-PDF pp. 207–208, and
+DjVu OCR objects 206–207. It begins in the left column of printed p. 177
+immediately after Part 21 with `QUAESTIO XIV. Qui sint termini Hebdomadarum
+sexaginta duarum?`, contains Question XIV in full, and ends in the right column
+of printed p. 178 after `finem totâ hebdomadâ & duobus annis post excisam
+urbem.`
+
+`QUAESTIO XV. De Hebdomadâ unâ ejusque dimidio.` begins below it in the same
+column and is wholly excluded. Both controlling 300-dpi images, `pdf-207.jpg`
+and `pdf-208.jpg`, were used for the transcription; OCR served only as an aid.
+The Greek and Hebrew strings and all included printed marginalia are retained.
+The pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -463,13 +497,18 @@ have not been modernized or endorsed.
 - `parts/part-19-book-01-chapter-10-question-11-english.md`
 - `parts/part-20-book-01-chapter-10-question-12-latin.txt`
 - `parts/part-20-book-01-chapter-10-question-12-english.md`
+- `parts/part-21-book-01-chapter-10-question-13-latin.txt`
+- `parts/part-21-book-01-chapter-10-question-13-english.md`
+- `parts/part-22-book-01-chapter-10-question-14-latin.txt`
+- `parts/part-22-book-01-chapter-10-question-14-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
-Part 17, five for Part 18, eight for Part 19, and three for Part 20. There are
-forty current files in twenty Latin/English pairs, containing 192 synchronized
-source markers per language (384 marker occurrences across all forty files).
-The files remain AI-assisted and unreviewed.
+Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
+21, and two for Part 22. There are forty-four current files in twenty-two
+Latin/English pairs, containing 197 synchronized source markers per language
+(394 marker occurrences across all forty-four files). The files remain
+AI-assisted and unreviewed.

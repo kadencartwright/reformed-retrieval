@@ -1,0 +1,277 @@
+# Samuel Rutherford, *Examen Arminianismi* (1668)
+
+## Caput Decimumquartum, De Certitudine Salutis — diplomatic-normalized Latin transcription
+
+> **AI-assisted, unreviewed working transcription.** This text has been
+> normalized and compared throughout with the 1668 KBNL/University of
+> Amsterdam page images. It must be checked by a qualified human editor before
+> quotation or publication.
+
+[Editorial note: This part begins at the heading and opening of Chapter XIV on
+printed p. 625, without repeating Chapter XIII's closing question. It defines
+objective and subjective certainty, distinguishes intellectual certainty from
+fiducial adherence, surveys Roman Catholic, Arminian, and Socinian positions,
+delimits the question in ten points, and gives Rutherford's seven arguments
+that adult believers may be certain of final perseverance and eternal
+salvation, followed by patristic testimony. It ends within shared printed p.
+635 after Augustine's testimony. The new question concerning Arminian
+certainty is excluded and forms the exact restart for Part 56. Printer
+line-end and page-end divisions have been joined; each new-page marker
+precedes the whole word at a split-word boundary.]
+
+[Errata note: The printed errata leaf has no correction applicable to this
+unit.]
+
+[Printed-form note: The witness's difficult or irregular forms and citations,
+including `Eph. 4.18,30.`, `Job. 19.25`, `gaudium Spiritum Sancti`, and `Joan.
+16,22.`, are retained rather than silently regularized. No Greek, Hebrew, or
+substantive marginal note occurs.]
+
+[1668 KBNL/UvA witness | logical printed p. 625 | PDF p. 674]
+
+CAPUT XIV.
+
+DE
+
+CERTITUDINE SALUTIS.
+
+Rom. 8.35.
+
+Quis nos separabit à charitate Dei.
+
+Intelligit amorem Dei activè præcipuè, non tamen prorsùs excludendo amorem Dei
+passivè. Unde
+
+Quæritur, An possit aliquis certus esse, se verè justificatum, esse in gratiâ
+Dei, & salvatum iri? Ad statum quæstionis determinandum, quædam prænotanda
+sunt.
+
+Certitudo alia est entis & objecti, seu entitativa & objectiva, quâ res fidei
+sunt certissimæ in se, quandò agitur de axiomatis & veritatibus generalibus.
+Concedunt Adversarii, tùm Pontificii, tùm Arminiani, hanc certitudinem talem
+esse, cui falsum subesse nequeat; nisi quòd Arminiani asserant multas veritates
+de futuris contingentibus, etiam à Deo prædictas, esse dubias, & ad utrumlibet
+oppositorum indifferentes. Undè in Vet. Test. hæc non erant in se certa:
+Josephus Mariam in uxorem ducturus est; Antichristus est
+
+[1668 KBNL/UvA witness | logical printed p. 626 | PDF p. 675 | split word joined: venturus]
+
+venturus; Ossa Christi minimè sunt frangenda. Alia est certitudo mentis seu
+subjecti, vel subjectiva, quâ res mihi & meæ apprehensioni certa est.
+
+Certitudo omnis subjectiva aliquam certitudinem objectivam habet, in quâ
+fundatur. Nemo enim certò scit rem esse, nisi certum sit, illam rem certam esse
+in se. Arminiani Electionem peremptoriam & completam nullius hominis certam
+esse volunt, vel certitudine entis, vel certitudine mentis; quia non est certum
+in se aliquem esse peremptoriè electum, donec expiret in Fide & Resipiscentiâ.
+Hinc facile sequitur fluctuatio & incertitudo mentis, ex incertitudine entis.
+
+Certitudo rursùs subjectiva est duplex. Alia est intellectualis in mente, quâ
+certus sum de omnibus, in Dei Verbo, veritatibus. Alia est fiducialis
+adhærentia, vel (ut in Scholis loquuntur) certitudo affectionis, quæ ad
+voluntatem & affectus pertinet, quâ recumbimus & speramus in Deum.
+
+Pontificiorum, Arminianorum & Socinianorum diversæ sunt hîc sententiæ.
+Pontificii alii antiquiores, alii recentiores hîc sunt. Antiquiores sunt
+saniores. Cajetanus, Scotus, Medina, Bannez, Ambrosius Catharinus in Apologiâ
+contra Dominicum à Soto, volunt homines certos esse, se in gratiâ esse. Quo
+nomine Catharinus vapulat à Francisco de Sanctâ Clarâ, de Naturâ & Gratiâ.
+probl.
+
+[1668 KBNL/UvA witness | logical printed p. 627 | PDF p. 676]
+
+1 probl. 27. Unde quoad certitudinis (inquit) punctum, putem ipsum (Catharinum)
+incidisse in errorem Calvini, qui fatetur hanc certitudinem esse ex speciali
+gratiâ, singulis tamen concessâ. Impudentèr verò & heterodoxè Recentiores,
+præsertim Tridentini. Sess. 6. c. 6. docent, neminem posse scire se esse in
+gratiâ, certitudine Fidei, cui non potest subesse falsum.
+
+Certitudo fiducialis non est communitèr & semper in Viatoribus, ut docent
+Pontificii. Franciscus de Sanctâ Clarâ tamen emollit sententiam de incertitudine
+hâc, exponens illud Rom. 8. Ipse Spiritus contestatur &c. Dixi (inquit) dari
+certitudinem inclinationis seu affectionis, quæ oritur ex spe; & hinc sæpiùs
+apud Doctores Ecclesiasticos vocatur & rectè, certitudo spei, quæ licet compati
+potest formidinem aliquam; sæpè tamen excludit omnem actualem formidinem de
+opposito; & pro tempore, sanctam quandam pacem & securitatem & magnam
+confidentiam in animâ reponit. Nos concedimus certitudinem spei, non semper &
+in omni differentiâ temporis, excludere omnem formidinem actualem, etsi
+habitualis semper maneat. Sed Pontificii volunt eam, non excludere omnem
+formidinem habitualem & actualem, adeò ut possit quis, imò debeat ordinariè
+timere & dubitare, an ipse sit in gratiâ; ut docet Gregorius de Valentiâ. tom.
+2. disp. 8. quæst. 4. puncto 4. Certitudinem excludentem & potentiam & actum
+formidandi, tribuit
+
+[1668 KBNL/UvA witness | logical printed p. 628 | PDF p. 677 | split word joined: confirmatis]
+
+confirmatis Apostolis & Virgini Mariæ. Alteram verò certitudinem, quæ excludit
+actum formidandi, non verò potentiam, iis tribuit, qui admodùm familiares sunt
+Deo, ejusque amori; etsi tales rarò ità prudentèr dubitent, quin signa salutis
+suæ invenire queant. Tertiam verò certitudinem, nempè, probabilem &
+conjecturalem notitiam gratiæ & salutis, fidelium vulgo tribuit.
+
+Arminiani & Sociniani, 1. Nè quidem certitudinem spei tribuunt ullis, quæ omnem
+formidinem deficiendi finalitèr, excludat. Pontificii multi certitudinem fidei
+negant, spei seu fiduciæ certitudinem admittunt. Arminiani utramque negant. 2.
+Admittunt pro tempore certitudinem, quâ aliquis, absque omni formidine, scire
+queat, & sciat, se justificatum esse. Sed 1. An peremptoriè electus ad gloriam
+sit, neminem in hâc vitâ scire posse docent. 2. An omnium peccatorum plenam
+remissionem, & plenam Justificationem habeat, non potest scire, qui finalitèr
+deficere potest. 3. Plenam certitudinem, excludentem omnem vel potentiam vel
+actum formidandi oppositum, quâ quis certus sit, se perseveraturum, & se
+glorificatum iri, neminem mortalium habere, clamant. 4. Certitudinem salutis &
+Perseverantiæ hypotheticam docent, quâ homo certus est se in gratiâ
+perseveraturum, si per Liberum Arbitrium, Dei gratiæ non deerit; sed absolutam
+certitudinem pernegant. Imò, contra
+
+[1668 KBNL/UvA witness | logical printed p. 629 | PDF p. 678 | split word joined: Jesuitas]
+
+Jesuitas, An ulli mortales in genere salvandi sint? An ulla sit futura Sponsa
+Christi in cœlis, negant sciri posse; quia, omnes mortales deficere totalitèr &
+finalitèr posse, docent. Et sic Arminiani certitudinem fidei in genere, & non
+tantùm certitudinem fidei singulis fidelibus applicatam negant, præsertim in
+puncto de Sanctorum Apostasiâ. 5. Aliquos confirmatos in gratiâ habere
+certitudinem absolutam Perseverantiæ & salutis suæ, & quæ omnem formidinem
+excludat, probabile esse docent.
+
+Non est igitur Quæstio, 1. De certitudine extraordinariâ, per extraordinariam
+revelationem. 2. Neque de certitudine objecti & entis, licèt eam etiam
+excutiant Remonstrantes, qui possibile esse volunt, ut nemo actu redemptus &
+salvatus sit per Christum. Modestiores hîc sunt Jesuitæ, qui necessitatem
+congruam & vagam Perseverantiæ & salvationis electorum concedunt, Arminiani
+omnem necessitatem inficiantur. 3. Nec est quæstio de certitudine conjecturali
+& morali; sed de infallibilitate & necessitate quasi physicâ, quæ ex debito
+omnem formidandi, tùm actum, tùm potentiam, finalitèr deficiendi excludat. 4.
+Nec de certitudine per revelationem naturalem, sed de eâ, quæ est per gratiam
+spiritualem, & internum testimonium Spirit. Sancti. Nec 5. quæritur, An
+certitudo de Perseverantiâ & Salute suâ, semper & in omni differentiâ
+
+[1668 KBNL/UvA witness | logical printed p. 630 | PDF p. 679 | split word joined: temporis]
+
+temporis insit credenti; sed an inesse debeat de jure? Nec 6. de eorum
+certitudine, qui in statu peccati sunt, aut mediis perseverandi in timore
+Domini non utuntur. Nec 7. de certitudine experimentali & sensûs, sed de
+certitudine Fidei. Nec 8. est quæstio de certitudine in præsenti, quam dant
+Arminiani; sed de certitudine in futurum, nempè, an certi esse possint, se
+nunquàm totalitèr & finalitèr defecturos? 9. Nec de eâ certitudine, quæ Liberi
+Arbitrii actibus fulcitur, pro quâ pugnant Remonstrantes; sed de eâ quæ nititur
+meritis Christi, & ejus gratiâ. 10. Nec denique est quæstio de illâ
+certitudine, quæ ut plurimùm fiduciam includit, formidinem excludit. Talem
+certitudinem dant Jesuitæ quibusdam in pietate & fide diu multùmque
+exercitatis; & Arminiani, nonnullis in gratiâ confirmatis.
+
+Quæstio est itàque, An adulti credentes possint, (non tantùm in præsenti, sed
+etiam de statu futuro,) esse certi, certitudine Intellectûs & fiduciâ
+supernaturali, omnem formidinem in oppositum excludente (non quidem in omni
+differentiâ temporis & de facto, sed ex debito) de suâ finali Perseverantiâ &
+æternâ Salute, absolutè futurâ, per eam specialem gratiam, quæ electorum est
+propria? Negant Pontificii & Arminiani: Nos affirmamus.
+
+1. Quia Rom. 5.1. Justificati igitur fide, pacem habemus erga Deum per Dominum
+nostrum Jesum Christum. v. 2. Per quem etiam adducti
+
+[1668 KBNL/UvA witness | logical printed p. 631 | PDF p. 680]
+
+sumus fide in hanc gratiam, per quam stamus, & gloriamur sub spe gloriæ Dei.
+Renati habent certitudinem Fidei & spei se glorificandos esse, Ergo, habent
+talem certitudinem. Rom. 8.38. Nam mihi persuasum est, neque mortem, neque
+vitam, neque angelos, neque principatus, neque potestates, neque præsentia,
+neque futura, v. 39. Neque sublimitatem, neque profunditatem, neque ullam rem
+aliam conditam, posse nos separare à charitate Dei, quæ est in Christo Jesu
+Domino nostro. Col. 2.2. Ut consolationem accipiant eorum corda, ipsis
+charitate compactis, & omni opulentiâ plenâ certioratæ intelligentiæ ad
+cognitionem mysterii Dei Patris & Christi. Hinc si fide persuasi sunt
+credentes, & consolationem ex fide habent, se salvatum iri; tùm non debent
+metuere finalem Apostasiam.
+
+2. Quibus facta est promissio, fieri non posse, ut verè renati totalitèr &
+finalitèr excidant gratiâ, idque propter prædestinationem Dei æternam. Rom.
+8.30. 2 Tim. 2.19. Rom. 11.7. & 29. propter Filii intercessionem Lucæ 22.31.
+Heb. 7.25. Joan. 17. & Spiritûs Sancti obsignationem in diem redemptionis. Eph.
+4.30. Ii debent, adeòque possunt, credere, eas promissiones esse veras, deque
+iis certi esse. Sed omnibus credentibus factæ sunt promissiones de suâ finali
+Perseverantiâ; ut suprà est probatum. Responsio Arminianorum ad hoc jam est
+diluta. Evasio Pontificiorum, nempe, credentes non posse certitudine fidei
+scire, se
+
+[1668 KBNL/UvA witness | logical printed p. 632 | PDF p. 681]
+
+credere salvificè, est 1. Petitio Principii. 2. Contra Scripturas. 1 Joan. 2.3.
+Et in hoc scimus quod cognoscimus eum, si observamus mandata ejus. & cap. 3.14.
+Nos scimus nos translatos esse à morte ad vitam, quia diligimus fratres.
+
+3. Quodcunque Spiritus Dei testatur nobis esse verum, id pro vero nobis, ex
+officio, credendum est. Atqui Spiritus testatur unicuique fidelium, se 1.
+credere, 2. se finalitèr perseveraturum, 3. se salvatum iri. Ergo hæc sunt, ex
+officio, credenda. Prob. minor ex Rom. 8.16. Et ipse spiritus testatur unà cum
+spiritu nostro, nos esse filios Dei. v. 17. Quòd si Filii, etiam hæredes:
+hæredes quidem Dei, cohæredes autem Christi, si modò cum eo patimur, ut cum eo
+glorificemur. Vanum est, quod Bellarminus hîc confugiat ad conjecturalem
+notitiam; quia (inquit) non constat fide divinâ, an sit Spiritus Dei, qui tale
+testimonium perhibeat? Quia quemadmodùm, quandò Deus in Verbo loquitur, nobis
+credendum, non tantùm verum esse quod loquatur, sed etiam Deum esse, qui
+loquatur; ità quandò Spiritus Dei intus loquitur, in conscientiâ, nobis
+credendum est, verum esse ipsius testimonium, & verum esse, quod ipse Deus
+est, qui testetur. Alii dicunt intelligi certitudinem spei, quæ sæpè pro
+tempore excludit omnem actualem formidinem de opposito; quod vanum esse patet
+ex 1 Cor. 2.12. Nos verò non spiritum mundi accepimus, sed spiritum, qui est
+
+[1668 KBNL/UvA witness | logical printed p. 633 | PDF p. 682]
+
+ex Deo, ut sciamus quæ Deus est nobis gratificatus. 1 Joan. 4.13. Per hoc
+cognoscimus, nos in eo habitare, & ipsum in nobis, quòd de spiritu suo dedit
+nobis. Constat, ergo, fide divinâ, quoties Spiritus contestatur spiritui nostro.
+Eph. 4.18,30. Spiritu obsignati sumus in diem redemptionis. 2 Cor. 1.21,22.
+Porrò, qui nos confirmat vobiscum in Christo, & qui unxit nos, Deus est: qui
+etiam obsignavit nos, indiditque arrhabonem Spiritûs cordibus nostris. Si
+igitur Spiritus obsignat credentes in diem redemptionis, ii de hâc
+obsignatione certiorari possunt & debent.
+
+4. Quia sancti, firmissimâ certitudine, erant persuasi de suâ perseverantiâ &
+æternâ salute. Job. 19.25. Equidem scio Redemptorem meum vivere, & posteriorem
+super pulverem, resurrecturum. v. 26. Et postquam vermes consoderint istud,
+evigilantem, tunc carne meâ me visurum esse Deum. Psal. 23.6. Nihil nisi bonum
+& benignitas prosequetur me, omnibus diebus vitæ meæ, &c. 2 Tim. 1.12. Novi
+enim cui crediderim, & mihi persuasum est, eum posse depositum meum in illum
+diem custodire. 1 Joan. 3.16. Per hoc novimus charitatem Dei, quòd ille animam
+suam pro nobis deposuit. Nec potest hoc adscribi peculiari revelationi, quia
+loquitur Scriptura de omnibus, pro quibus Christus animam suam posuit.
+
+5. A Dei mandato. Lucæ 12.32. Nolite timere, pusille grex; quia complacitum
+est Patri, dare vobis
+
+[1668 KBNL/UvA witness | logical printed p. 634 | PDF p. 683]
+
+regnum. Matth. 8.26. Dubitatio opponitur fidei & reprehenditur à Christo. Quid
+dubitatis, O exiguæ fidei?
+
+6. Quia consolatio nulla, pax nulla, spes (quæ non pudefacit) nulla, gaudium
+Spiritum Sancti nullum, Sanctis posset obtingere, sed timor gehennæ, perpetua
+agitatio & vacillatio conscientiarum, tremor, terror, Spiritus servitutis,
+illos perpetuò occuparent, necesse esset; si ignorent 1. An sint in gratiâ Dei
+& statu Justificationis? 2. An sint finalitèr perseveraturi, an verò fortè
+totalitèr gratiâ & fide excisuri? 3. An sint immutabilitèr ad gloriam electi,
+an verò peremptoriè ab æterno æternis cruciatibus cum Diabolo & Angelis suis,
+destinati? Contra hæc luculenta testimonia in contrarium. Rom. 5.1,2,3,4. 1
+Joan. 3.2. Rom. 14.17. Col. 2.2. Rom. 8.35,36,37,38. Rom. 15.4. 1 Joan. 2.1,2.
+1 Pet. 1.3,4. 2 Cor. 4.18. 2 Cor. 5.1,2,3. 2 Tim. 1.12. 1 Pet. 1.8. Joan.
+16,22.
+
+7. Quod sancti orant, per Dei voluntatem, in Mediatore Christo; id se
+consecuturos, per certitudinem fidei, scire possunt. At sancti orant
+testimonium Spiritûs, Perseverantiam finalem & æternam gloriam. Ergo &c. Major
+est ex Joan. 14.13. Mar. 11.24. 1 Joan. 5.14. Joan. 9.31. Minor constat ex
+Matth. 6.13. 1 Thess. 5.23. Lucæ 22.31. Psal. 119.34,35,36.
+
+Denique Tertullianus in Apologiâ, cap. 39.
+
+[1668 KBNL/UvA witness | logical printed p. 635 | PDF p. 684 | split word joined: Certi]
+
+Certi sumus de Dei conspectu, fides integra secura est de salute. Cyprianus
+contra Demetrium, serm. de mortalitate. Si verè in Deum credis, cur non securus
+es? Deus tecum loquitur, & tu perfidus fluctuas? hoc est fidem in domo Dei non
+habere, mori planè timeat; sed qui non renatus, gehennæ ignibus mancipatur.
+Chrysost. Homil. 2. in 2. ad Cor. Si Deus hâc arrhâ, nobis priùs datâ, reliquam
+hæreditatis possessionem non adficiet, ipse arrhæ perditæ damnum pateretur.
+Augustinus in epist. Joan. tract. 5. Nemo igitur interroget hominem; redeat ad
+cor suum; si ibi inveniat charitatem, securus sit, quia transiit à morte ad
+vitam.

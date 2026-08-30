@@ -1344,3 +1344,58 @@ structure and Chapter XIII's clean endpoint.
 
 - Latin: `parts/part-54-chapter-13m-latin.txt`
 - English: `parts/part-54-chapter-13m-english.md`
+
+**Part 55 is complete as a scan-audited working draft.** It begins on printed
+p. 625 / PDF 674 at the heading and opening of Chapter XIV, without repeating
+Chapter XIII's closing question. It defines objective and subjective
+certainty, distinguishes intellectual certainty from fiducial adherence,
+surveys the Roman Catholic, Arminian, and Socinian positions, delimits the
+question in ten points, and gives Rutherford's seven arguments that adult
+believers may be certain of final perseverance and eternal salvation,
+followed by patristic testimony. It ends within shared printed p. 635 / PDF
+684 after Augustine's testimony. The new question whether Arminian certainty
+can coexist with Scripture, faith, and hope is excluded and forms the exact
+restart for Part 56. The pair has eleven byte-identical synchronized markers
+for pp. 625–635. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all eleven included frames, every page join, the
+chapter heading and lemma, the preliminary distinctions, the complete
+question and seven-argument structure, biblical, scholastic, Roman Catholic,
+and patristic citations, and the absence of foreign scripts and substantive
+marginalia. The printed errata has no applicable correction. The split words
+`venturus`, `confirmatis`, `Jesuitas`, `temporis`, and `Certi` are joined with
+their new-page markers before the whole words and their English equivalents.
+The witness's difficult or irregular forms and citations, including `Eph.
+4.18,30.`, `Job. 19.25`, `gaudium Spiritum Sancti`, and `Joan. 16,22.`, are
+retained or disclosed rather than silently regularized. The English follows
+the Latin at clause level while preserving the definitions, quotations,
+distinctions, and complete argumentative structure.
+
+- Latin: `parts/part-55-chapter-14a-latin.txt`
+- English: `parts/part-55-chapter-14a-english.md`
+
+**Part 56 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 635 / PDF 684 at the question whether Arminian certainty can
+coexist with Scripture, faith, and hope, without repeating Part 55's
+patristic testimony. It contains two complete questions: the five-point
+critique of conditional assurance and the six-point argument that believers
+may know their eternal election from its effects. It ends within shared
+printed p. 640 / PDF 689 after the conclusion that no one is obliged to give
+thanks for a merely conjectural benefit whose personal application he is
+bound not to know. The following question whether certainty of perseverance
+must exceed the certainty afforded by indifferent acts of free choice is
+excluded and forms the exact restart for Part 57. The pair has six
+byte-identical synchronized markers for pp. 635–640. A page-by-page image
+audit against the controlling KBNL/UvA Google Books images covered all six
+included frames, both shared-page boundaries, every page join, both questions
+and their complete numbered structures, biblical and polemical citations,
+Greek, and the absence of Hebrew and substantive marginalia. The printed
+errata has no applicable correction. The split words `dependeat`,
+`Diabolicam`, `gratias`, and `gratuito` are joined with their new-page markers
+before the whole words and their English equivalents. The Greek `τεκμήρια`
+and `παῤῥησίαν`, the witness's unusual appeal to Cain, and the difficult or
+irregular forms and citations are retained or disclosed rather than silently
+regularized. The English follows the Latin at clause level while preserving
+both complete question and argument structures.
+
+- Latin: `parts/part-56-chapter-14b-latin.txt`
+- English: `parts/part-56-chapter-14b-english.md`

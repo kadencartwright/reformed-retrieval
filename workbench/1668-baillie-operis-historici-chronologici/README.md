@@ -1026,6 +1026,30 @@ omitted, with their corresponding whole words placed after the later
 synchronized markers in both files. OCR served only as a reading aid. The
 pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 49 boundary and status
+
+Part 49 is a synchronized Latin/English working pair with exactly eight
+markers: partial printed pp. 276 and 283 and complete pp. 277–282, IA leaves
+306–313, access-PDF pp. 306–313, and DjVu OCR objects 305–312. It begins in
+the upper right column of printed p. 276 immediately after Part 48 with
+`QUAESTIO VIII. Ad quae tempora templi fabrica & partitio terrae, aliaque
+Ezekielis quadragesimo ac sequentibus, referenda sint?` It contains Question
+VIII in full and ends at the foot of the left column of printed p. 283 after
+`utcunque nobis in praesentiâ ad hanc operam neque otium est, neque animus.`
+
+`QUAESTIO IX. An ad hanc Epocham maximarum urbium Ninives & Babylonis excidium
+spectet?` begins at the top of the right column of p. 283 and is wholly
+excluded; that heading is the exact next restart. All eight controlling
+300-dpi page images, `page-306.jpg` through `page-313.jpg`, governed the
+transcription and were visually inspected at original detail, including both
+partial-page boundaries, every page and column transition, all verbal
+marginalia, measurements, names, and the Hebrew and Greek strings. The word
+divided across the pp. 276/277 transition was joined and placed wholly after
+the later synchronized marker in both files; repeated whole-word catchwords at
+the remaining six transitions were omitted and their corresponding words
+placed wholly after the later markers. OCR served only as a reading aid. The
+pair remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1138,6 +1162,8 @@ have not been modernized or endorsed.
 - `parts/part-47-book-01-chapter-12-question-06-english.md`
 - `parts/part-48-book-01-chapter-12-question-07-latin.txt`
 - `parts/part-48-book-01-chapter-12-question-07-english.md`
+- `parts/part-49-book-01-chapter-12-question-08-latin.txt`
+- `parts/part-49-book-01-chapter-12-question-08-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1150,7 +1176,7 @@ three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
 eight for Part 42, five for Part 43, eleven for Part 44, four for Part 45,
-eight for Part 46, and seven each for Parts 47 and 48. There are ninety-six
-current files in forty-eight Latin/English pairs, containing 319 synchronized
-source markers per language (638 marker occurrences across all ninety-six
-files). The files remain AI-assisted and unreviewed.
+eight for Part 46, seven each for Parts 47 and 48, and eight for Part 49. There
+are ninety-eight current files in forty-nine Latin/English pairs, containing
+327 synchronized source markers per language (654 marker occurrences across
+all ninety-eight files). The files remain AI-assisted and unreviewed.

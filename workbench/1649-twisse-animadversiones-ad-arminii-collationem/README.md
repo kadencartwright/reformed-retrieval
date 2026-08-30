@@ -233,9 +233,41 @@ advance directly to p. 54.
 - `parts/part-08-proposition-12-section-03-response-completion-latin.txt`
 - `parts/part-08-proposition-12-section-03-response-completion-english.md`
 
+## Part 09: exact authorial boundary
+
+Part 09 begins with `SECTIO QUARTA` on the shared right column of **first-body
+printed p. 53 / BSB canvas 65** and contains Proposition XII, Section IV in
+full: Junius's three arguments, Arminius's three replies, and Twisse's complete
+response. It continues through **first-body printed p. 55 / BSB canvas 67**,
+with three synchronized source markers.
+
+At the first page join the printer divides `argu-` / `menta`; the normalized
+Latin joins `argumenta` and places the p. 54 marker before the complete word,
+while the English marker occupies the corresponding position before
+“arguments.” At the second join the printer divides `no-` / `mine`; the Latin
+similarly joins `nomine` and places the p. 55 marker before it, while the
+English marker occupies the corresponding position before “description.” The
+apparent mark beside `ta ἀκρίβειαν` on p. 55 is not marginalia: `ta` completes
+the preceding line's `jux-`, yielding `juxta ἀκρίβειαν`. No printed marginal
+annotation occurs within this unit.
+
+The unit stops in the left column of printed p. 55 after Twisse's sentence
+ending:
+
+> `… quam parum profutura sit ista speculatio, jam supra diximus.`
+
+It stops immediately before the centered heading `SECTIO QUINTA` on that same
+page. The next part must therefore begin with `SECTIO QUINTA` and repeat the
+marker for **first-body printed p. 55 / BSB canvas 67**; it must not advance
+directly to p. 56. The Latin and English markers are byte-identical, and the
+pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-09-proposition-12-section-04-latin.txt`
+- `parts/part-09-proposition-12-section-04-english.md`
+
 ## Status
 
-**Parts 01–08 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–09 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the

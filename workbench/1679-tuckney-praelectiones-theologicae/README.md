@@ -1181,6 +1181,21 @@ Ad illud quod improbat`, is excluded.
 - English: `parts/part-69-romans-04-05-abraham-45-english.md`
 - Extent: two synchronized markers, printed pp. 292–293 / IA leaves 300–301
 
+## Part 70: forty-sixth unit of the Romans 4:5 lecture
+
+Part 70 answers Bellarmine's objection to calling imputed righteousness the
+formal cause of justification. Tuckney treats that terminology as a
+scholastic and analogical description of God's justifying act, then defends
+it through ordinary legal examples: a debt paid by another, a surety's
+payment, Adam's imputed sin, and the supreme Judge's sentence. It runs from
+`Secundo, Ad illud quod improbat` on printed p. 293 / IA leaf 301 through
+the third response on printed p. 294 / IA leaf 302. Bellarmine's renewed
+appeal to contrary forms, beginning `At regerit Bellarminus`, is excluded.
+
+- Latin: `parts/part-70-romans-04-05-abraham-46-latin.txt`
+- English: `parts/part-70-romans-04-05-abraham-46-english.md`
+- Extent: two synchronized markers, printed pp. 293–294 / IA leaves 301–302
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

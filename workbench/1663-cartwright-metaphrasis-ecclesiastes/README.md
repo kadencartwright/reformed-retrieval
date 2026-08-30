@@ -2173,3 +2173,184 @@ This joint unit is bounded by the exact repeated verse-13 lemma rather than by
 an arbitrary image count. The next unit begins on reader image `PA323` /
 printed p. 323 at the repeated but misnumbered `Vers. 12. Est vanitas quae fit
 super terram` (verse 13).
+
+**Part 100 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 8:13 lemma and its complete exposition on
+reader images `PA323` and `PA325`. It begins on printed p. 323 at the repeated
+lemma `Vers. 12. Est vanitas quae fit super terram`, preserving the edition's
+misnumbering with an explicit `[sic; vers. 13]` annotation, crosses the
+printed-page join after `1. Cor. 2. 14.`, carries the p. 324 catchword `Et` into
+the complete `Et certe` on the next image, and ends on printed p. 325
+immediately before the repeated verse-14 lemma. The paired Latin transcription
+and English translation below have two exactly identical reader-image markers
+and retain the argument voiced by corrupt flesh, the qualifications concerning
+human and divine administration, the warning to Magistrates and judges, and
+the printed references `1. Cor. 2. 14.` and `cap. 3. vers. 18.`.
+
+This unit is bounded by the exact repeated verse-14 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA325` / printed
+p. 325 at `Vers. 14. Quapropter laudaveram ego laetitiam`.
+
+### Part 100 — Latin source transcription
+
+THOMAS CARTWRIGHT
+
+METAPHRASIS ET HOMILIAE IN LIBRUM SALOMONIS, QUI INSCRIBITUR ECCLESIASTES
+(1663)
+
+PARS CENTESIMA — HOMILIAE, CAPUT VIII, VERSUS 13
+
+Transcription diplomatica-normalizata, ope AI confecta et nondum recognita.
+Imagines voluminis Google Books `pthrWjdL0BgC` textum regunt; OCR tantum
+subsidium est. Longum s, ligaturae, divisiones in fine linearum, atque usus
+typographicus u/v normalizantur. Haec pars incipit in imagine PA323, pagina
+impressa 323, ad lemma iteratum versus 13, quod editio perperam `VERS. 12`
+inscribit; integram ejus expositionem continet; atque in imagine PA325,
+pagina impressa 325, ante lemma iteratum versus 14 desinit.
+
+[Google Books pthrWjdL0BgC | reader image PA323 | printed pp. 323–324 | begins on p. 323 at repeated Vers. 12 [sic; verse 13]; crosses the printed-page join after 1. Cor. 2. 14.; ends before complete Et certe after the p. 324 catchword Et]
+
+VERS. 12. [sic; vers. 13] Est vanitas quae fit super terram, quod sint justi
+quibus obtingit secundum opus improborum, & sint improbi quibus obtingit
+secundum opus justorum: dixeram, hoc quoque esse vanitatem.
+
+Vere est ab Apostolo dictum, carnalem hominem non accipere ea quae sunt
+spiritus Dei, quae illi stulta videntur. 1. Cor. 2. 14.
+
+Nec hoc tantum, sed quae sunt ex diametro pugnantia, illa probat: sicut hoc
+loco videbimus. Quamobrem quae hic à Salomone dicuntur, nequaquam in sua
+persona proponit, atque si illa probaret: sed corruptae & depravatae rationis
+nostrae in persona, haec haud secus in medium profert, quam prius fecit, cap.
+3. vers. 18. & sequentibus. Quod igitur dicit caro, esse hanc vanitatem quae
+post describitur, falsum est, & figmentum est. Si quidem hujusmodi aliquid
+subesset, maximae vanitatis nota dignissimum foret. Sed non est quod illi
+comminiscuntur, de aequo praemio ac poena justis pariter & injustis obventuris.
+
+Videamus igitur quale est quod affirmat: est autem illud perinde evenire
+justis & injustis, timentibus Deum, & Deum contemnentibus, id est, justos
+poenas suae justitiae dare, quemadmodum injusti suae injustitiae, & injustos
+non minus praemium ex sua injustitia auferre, quam justos ex justitia praemio
+remunerari; bona & mala utrique promiscue & ex aequo obvenire. Quod si unde
+haec opinio nata est consideraverimus, videbitur haec sententia carnis non
+esse prorsus à veritate aliena. Nam sub Tyrannis, maxime Ecclesiae
+persequutoribus, pejus agi videtur cum piis quam cum impiis, cum justis quam
+cum injustis. Atque etiam in recta gubernatione fit aliquando ut pii
+Magistratus, ignoratione aut perturbatione aliqua animi commoti, contra justos
+sententiam dicant. Huc accedit, quod ut jus ex aequo dicatur, Dei tamen
+administratione fieri, ut prospera improbis, adversa piis aliquando obveniant:
+ut non temere videantur hanc opinionem, quae hic proponitur, arripuisse
+carnales homines: praesertim cum in universum justis & improbis eadem obvenire
+non affirmet, sed incidere tempora ubi hoc fiat, & esse ubi justo accurrat,
+quod injusto & contra.
+
+[Google Books pthrWjdL0BgC | reader image PA325 | printed pp. 325–326 | begins with complete Et certe after the p. 324 catchword Et; ends on p. 325 immediately before Vers. 14]
+
+Et certe si justos & improbos eandem mercedem aliquando ab hominibus auferre
+& reportare, aut si quoad externam speciem eadem justis simul & injustis
+obtingere affirmassent, à scopo non aberrassent. Sed cum simpliciter & sine
+exceptione per omnia non ab hominibus tantum, sed à Deo illud fieri dicant,
+quod ex conclusione, quam versu sequenti hinc deducunt, liquido constare
+potest: oratio est plena falsitatis. Haec res Magistratus & judices
+expergisfacere debet ad omnem cautionem ne injusta Reipub. procuratione, aut
+perversis judiciis, ansam hominibus praebeant tantorum scelerum.
+
+[Finis Partis 100. Pars sequens incipit in imagine PA325, pagina impressa 325,
+ad lemma iteratum `VERS. 14. Quapropter laudaveram ego laetitiam`.]
+
+### Part 100 — English translation
+
+#### Thomas Cartwright, *Metaphrasis and Homilies on Ecclesiastes* (1663)
+
+##### Homilies, Chapter 8, Verse 13
+
+> **AI-assisted first draft from the Latin; not independently reviewed.** The
+> Google Books images of volume `pthrWjdL0BgC` control the transcription and
+> translation. OCR has been used only as an aid and not as source authority.
+> This English is a fresh close translation prepared for checking, not a
+> summary or publication. No modern translation has been used. This part
+> begins on PA323, printed p. 323, at the repeated lemma for verse 13, which
+> the edition labels `VERSE 12`; it contains the complete exposition of verse
+> 13; and it ends on PA325, printed p. 325, before the repeated lemma for verse
+> 14.
+
+[Google Books pthrWjdL0BgC | reader image PA323 | printed pp. 323–324 | begins on p. 323 at repeated Vers. 12 [sic; verse 13]; crosses the printed-page join after 1. Cor. 2. 14.; ends before complete Et certe after the p. 324 catchword Et]
+
+VERSE 12. [sic; verse 13] There is a vanity done upon the earth: there are
+righteous people to whom it happens according to the work of the ungodly, and
+there are ungodly people to whom it happens according to the work of the
+righteous. I said that this also is vanity.
+
+The Apostle spoke truly when he said that the natural person does not receive
+the things of the Spirit of God, which seem foolish to him, 1 Corinthians
+2:14.
+
+And not only this: the natural person approves things diametrically opposed to
+them, as we shall see in this passage. Accordingly, Solomon by no means
+advances the things said here in his own person, as though he approved them.
+Rather, he brings them forward in the person of our corrupt and depraved
+reason, just as he did before in chapter 3, verse 18 and the verses following.
+Therefore, what the flesh says—that the condition described next is
+vanity—is false and a fabrication. If anything of this kind really underlay
+events, it would richly deserve to be branded as the height of vanity. But
+what they imagine—an equal reward and punishment falling alike to the
+righteous and the unrighteous—is not the case.
+
+Let us therefore see what it is that the flesh asserts. It is that the same
+thing happens alike to the righteous and the unrighteous, to those who fear
+God and those who despise God: that is, that the righteous pay the penalty for
+their righteousness just as the unrighteous do for their unrighteousness, and
+that the unrighteous carry off a reward from their unrighteousness no less
+than the righteous are rewarded for their righteousness; in short, that good
+and evil befall both indiscriminately and equally.
+
+If we consider where this opinion arose, the judgment of the flesh will appear
+not to be altogether foreign to the truth. For under Tyrants, especially
+persecutors of the Church, the godly seem to fare worse than the ungodly, and
+the righteous worse than the unrighteous. Even under upright government it
+sometimes happens that godly Magistrates, moved by ignorance or by some
+disturbance of mind, pronounce judgment against the righteous. Besides this,
+although justice may be administered impartially, it nevertheless happens
+under God's administration that prosperity sometimes befalls the ungodly and
+adversity the godly. Carnal people therefore appear not to have seized upon
+the opinion advanced here without cause—especially since the flesh does not
+assert that the same things befall the righteous and the ungodly universally,
+but that occasions arise when this happens, and that there are circumstances
+in which what comes to the unrighteous comes to the righteous, and the
+reverse.
+
+[Google Books pthrWjdL0BgC | reader image PA325 | printed pp. 325–326 | begins with complete Et certe after the p. 324 catchword Et; ends on p. 325 immediately before Vers. 14]
+
+And indeed, if carnal people had asserted that the righteous and the ungodly
+sometimes receive and carry off the same recompense from human beings, or that
+the same things befall the righteous and the unrighteous together as far as
+outward appearance is concerned, they would not have missed the mark. But
+since they assert absolutely and without exception that in every respect this
+is done not only by human beings but also by God—as can be clearly established
+from the conclusion they derive from this in the following verse—their
+statement is full of falsehood. This matter ought to awaken Magistrates and
+judges to every precaution, lest by an unjust administration of the
+Commonwealth or by perverse judgments they give people an occasion for such
+great crimes.
+
+*Translator's notes:*
+
+The initial lemma block on PA315 correctly numbers this text `VERS. 13`, but
+the repeated lemma on printed p. 323 reads `VERS. 12`. The paired texts retain
+the repeated misnumbering and identify the actual verse without silently
+harmonizing the witness.
+
+The p. 324 catchword is `Et`; the sentence begins in full as `Et certe` on
+PA325. Both texts place the complete phrase after the PA325 marker so that the
+normalized join remains exact.
+
+The printed biblical references `1. Cor. 2. 14.` and `cap. 3. vers. 18.` are
+retained at their points in the argument. No additional independent marginal
+note appears within this unit.
+
+The translation renders `carnalem hominem` as “the natural person” in the
+allusion to 1 Corinthians 2:14, while `caro` and `carnales homines` are
+rendered “the flesh” and “carnal people” to preserve Cartwright's contrast
+between the judgment of the Holy Spirit and the judgment of corrupt flesh.
+
+[End of Part 100. The next part begins on reader image PA325, printed p. 325,
+at the repeated lemma `VERSE 14. Therefore I had praised gladness`.]

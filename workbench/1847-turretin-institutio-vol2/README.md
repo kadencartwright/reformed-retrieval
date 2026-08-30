@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question VIII
+  Statu Christi*, begun through Question IX
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–46 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–47 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–VIII, from printed p. 3 / PDF 31
-through section XLII on printed p. 292 / PDF 320. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–IX, from printed p. 3 / PDF 31
+through section VIII on printed p. 294 / PDF 322. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,081 numbered sections across 284 unique numbered
-text pages and 322 source markers in each language (318 printed-page markers
+268. The sequence comprises 1,089 numbered sections across 286 unique numbered
+text pages and 325 source markers in each language (321 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 156,816 whitespace-delimited words and the complete English files
-214,023, counted over Parts 01–46 with `wc -w`. Each part is a complete question,
+contain 157,875 whitespace-delimited words and the complete English files
+215,493, counted over Parts 01–47 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -101,6 +101,7 @@ the substantive marginal headings.
 | 44 | Locus XIII, Question VI | printed pp. 274–279 / PDFs 302–307 | XXVI | 6 | `part-44-locus-13-question-06-{latin.txt,english.md}` |
 | 45 | Locus XIII, Question VII | printed pp. 280–283 / PDFs 308–311 | XVII | 4 | `part-45-locus-13-question-07-{latin.txt,english.md}` |
 | 46 | Locus XIII, Question VIII | printed pp. 283–292 / PDFs 311–320 | XLII | 10 | `part-46-locus-13-question-08-{latin.txt,english.md}` |
+| 47 | Locus XIII, Question IX | printed pp. 292–294 / PDFs 320–322 | VIII | 3 | `part-47-locus-13-question-09-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -667,6 +668,31 @@ body on printed p. 292 / PDF 320 are excluded.
 Part 46's exact next restart is `QUAESTIO IX. DE DUPLICI CHRISTI STATU. An
 Christus Mediator sub duplici Statu debuerit Munus suum exequi? Affirm.` on
 printed p. 292 / PDF 320.
+
+Question IX asks whether Christ the Mediator had to discharge his office under
+a twofold state. It demonstrates the truth of humiliation and exaltation from
+the Old and New Testaments, establishes their necessity on the part of God,
+Christ, us, and salvation, and distinguishes how each state is attributed to
+Christ's Person and two natures. It concludes that the Son's emptying was not
+an abandonment of deity or loss of divine riches, but their concealment under
+the form of a servant, in eight sections. It begins at the Question IX heading
+on printed p. 292 / PDF 320 and ends with section VIII on printed p. 294 / PDF
+322 immediately before Question X. The Latin and English files contain 1,059
+and 1,470 whitespace-delimited words respectively, counted over each complete
+file with `wc -w`. Both carry all three printed-page markers in the same
+sequence and retain all six substantive marginal headings, citations, and
+scan-exact Greek. The printed pp. 292/293 join falls between `opposite` and
+`torrenti deliciarum` in the Latin and between `in contrast with` and `the
+torrent of delights` in the English. The printed pp. 293/294 join falls
+between sections VI and VII in both files. The three supplied page images are
+the controlling witness; the specified OCR excerpt was used only as an aid,
+including for letters cropped at the left edge of printed p. 293. No
+supplementary witness was needed. The Question X heading and body later on
+printed p. 294 / PDF 322 are excluded.
+
+Part 47's exact next restart is `QUAESTIO X. DE PRINCIPIO AERAE CHRISTIANAE.
+Quis fuerit Annus, Mensis ac Dies Natalis Christi?` on printed p. 294 / PDF
+322.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

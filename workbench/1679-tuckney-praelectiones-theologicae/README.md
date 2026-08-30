@@ -1247,6 +1247,23 @@ excluded.
 - English: `parts/part-73-romans-04-05-abraham-49-english.md`
 - Extent: two synchronized markers, printed pp. 298–299 / IA leaves 306–307
 
+## Part 74: fiftieth unit of the Romans 4:5 lecture
+
+Part 74 answers Bellarmine's ninth argument that only inherent cleansing can
+prepare the heart to see God. Tuckney distinguishes cleansing from guilt in
+justification from cleansing from sin's stain in sanctification, analyzes
+Bellarmine's syllogism and proof texts, and answers the analogy of an unclean
+eye. The believer's present vision grows with sanctification toward the
+direct, beatific vision while resting on the real and effectual relation of
+imputed righteousness. It runs from `Argumentum Bellarmini nonum` on printed
+p. 299 / IA leaf 307 through the close of the ninth argument on printed p.
+301 / IA leaf 309. Bellarmine's tenth and final argument, beginning `Ejusdem
+commatis est decimum`, is excluded.
+
+- Latin: `parts/part-74-romans-04-05-abraham-50-latin.txt`
+- English: `parts/part-74-romans-04-05-abraham-50-english.md`
+- Extent: three synchronized markers, printed pp. 299–301 / IA leaves 307–309
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

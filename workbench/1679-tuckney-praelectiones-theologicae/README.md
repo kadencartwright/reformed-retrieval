@@ -291,6 +291,19 @@ pro hac causa ...`, turns to Domingo de Soto's arguments and is excluded.
 - Scripts and disclosure: Greek expressions and marginal source references
   are retained in both files and contextually glossed in the English.
 
+## Part 12: eleventh unit of the Romans 1:17 lecture
+
+Part 12 answers Domingo de Soto's two arguments from Abraham's justification
+before circumcision and Paul's rebuke of Peter. It begins with `Sed
+exauctorato tandem Alphonsi argumento` on printed p. 109 / IA leaf 117 and
+ends with `Non desunt tamen alia, quibus aliquatenus incrustari possit` on
+printed p. 111 / IA leaf 119. The next sentence, `Quinto enim in loco ...`,
+opens the fifth objection and is excluded.
+
+- Latin: `parts/part-12-romans-01-17-justification-11-latin.txt`
+- English: `parts/part-12-romans-01-17-justification-11-english.md`
+- Extent: three synchronized markers, printed pp. 109–111 / IA leaves 117–119
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

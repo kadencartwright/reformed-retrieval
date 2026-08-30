@@ -43,7 +43,9 @@ Archive now serves a regenerated access PDF, so its current checksum is
 recorded separately rather than silently replacing the earlier evidence. All
 four derivatives were acquired again for Parts 14–16 on 29 August 2026. They
 were freshly acquired once more for Parts 17–18 on 30 August 2026 and were
-byte-identical to this most recently recorded set:
+byte-identical to this most recently recorded set. The current access PDF was
+freshly acquired again for Parts 19–20 on 30 August 2026 and remains
+byte-identical to that set:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -86,10 +88,10 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the end of Brown's reply to Burmann's three alleged
-dangerous consequences in the upper part of printed p. 184. Shared-page
-boundaries preserve each new argumentative unit in the following part rather
-than duplicating it.
+printed p. 1 through the end of Brown's seven replies to Burmann's rejection
+of the distinction between broad and proper morality in the lower part of
+printed p. 190. Shared-page boundaries preserve each new argumentative unit in
+the following part rather than duplicating it.
 
 | Part | Contents | Exact bounds | Paired markers |
 |---|---|---|---:|
@@ -111,6 +113,8 @@ than duplicating it.
 | 16 | Chapter XIII remainder; external acts and moral terminology | shared printed p. 170 through the upper part of shared p. 177 / IA leaves 188–195 / PDF pp. 188–195; stops before `CAP. XIV.` | 8 |
 | 17 | Chapter XIV opening; positive determination and the morality of actions | shared printed p. 177 through the upper part of shared p. 182 / IA leaves 195–200 / PDF pp. 195–200; stops before `Periculosam tamen esse hanc sententiam` | 6 |
 | 18 | Chapter XIV continuation; three alleged dangerous consequences | shared printed p. 182 through the upper part of shared p. 184 / IA leaves 200–202 / PDF pp. 200–202; stops before `Novi hoc non arridere adversario nostro` | 3 |
+| 19 | Chapter XIV continuation; indifference and the force of divine command | shared printed p. 184 through the upper part of shared p. 187 / IA leaves 202–205 / PDF pp. 202–205; stops before `Novi adversarium nostrum hanc rejicere distinctionem` | 4 |
+| 20 | Chapter XIV continuation; broad and proper morality | shared printed p. 187 through the lower part of shared p. 190 / IA leaves 205–208 / PDF pp. 205–208; stops before `Ex dictis nunc liquet` | 4 |
 
 The files are:
 
@@ -132,8 +136,10 @@ The files are:
 - `parts/part-16-book-01-chapter-13d-external-acts-and-moral-terminology-{latin.txt,english.md}`
 - `parts/part-17-book-01-chapter-14a-positive-determination-{latin.txt,english.md}`
 - `parts/part-18-book-01-chapter-14b-three-alleged-dangers-{latin.txt,english.md}`
+- `parts/part-19-book-01-chapter-14c-indifference-and-command-{latin.txt,english.md}`
+- `parts/part-20-book-01-chapter-14d-broad-and-proper-morality-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–18 image audits
+### Part 04 re-audit and Parts 05–20 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -511,6 +517,57 @@ individuo tantum.` The following paragraph is excluded. The next untranslated
 text is therefore `Novi hoc non arridere adversario nostro: Nam multis illud,
 quòd praeceptum tollat indifferentiam actûs, impugnare studet Pag. 22. & 23.`
 on shared printed p. 184 / IA leaf 202 / PDF p. 202.
+
+Part 19 is a coherent, image-audited continuation of Chapter XIV containing
+Brown's extended defense of the claim that a divine command removes an act's
+indifference, followed by his qualification that broadly moral acts are not
+thereby placed on the same footing as acts properly moral. Every controlling
+image from `Novi hoc non arridere adversario nostro` on PDF 202 through the
+upper part of PDF 205 was read directly, including all three internal joins;
+the remainder of PDF 205 was also inspected to verify the outgoing stop. OCR
+was used only as a collation aid. The Latin and English contain the identical
+four-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+184–187. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the page images govern `πεποίθησιν` and `κατ’ ἐξοχήν`. No Hebrew
+or separate substantive marginal gloss occurs. The printer-divided word
+`praeceptum` at the p. 185/186 join is joined with the new marker before the
+complete word or corresponding English phrase. The repeated catchwords
+`naturâ` and `fatetur` at the p. 184 and p. 186 feet are omitted and placed
+only after the following markers. All quotations, citations, numbered replies,
+and substantive italic distinctions are retained. The exact Part 19 opening
+is `Novi hoc non arridere adversario nostro: Nam multis illud, quòd praeceptum
+tollat indifferentiam actûs, impugnare studet Pag. 22. & 23.` Its final
+included words are `...moralia κατ’ ἐξοχήν nuncupantur.` The following
+paragraph is excluded. The next untranslated text is therefore `Novi
+adversarium nostrum hanc rejicere distinctionem Pag. 20. 21.` on shared
+printed p. 187 / IA leaf 205 / PDF p. 205.
+
+Part 20 is a coherent, image-audited continuation of Chapter XIV containing
+Brown's seven replies to Burmann's rejection of the distinction between moral
+in the broad sense and moral in the proper sense. Every controlling image from
+`Novi adversarium nostrum hanc rejicere distinctionem` on PDF 205 through the
+lower part of PDF 208 was read directly, including all three internal joins;
+the remainder of PDF 208 was also inspected to verify the outgoing stop. OCR
+was used only as a collation aid. The Latin and English contain the identical
+four-marker sequence.
+
+The terminal erratum `correctionis` (p. 188, line 19) is incorporated and
+disclosed in both file headers. The errata leaf's general warning about Greek
+and Hebrew type is retained there as well; the page images govern `κατ’
+ἐξοχήν`, `τῷ κατ’ ἐξοχήν`, `μονογενὲς`, `ἐν ἀρχῇ`, `κατὰ τὸ ὅλον`, and `σὺν
+Θεῷ`. No Hebrew or separate substantive marginal gloss occurs. The
+printer-divided words `universo` and `facta` at the p. 187/188 and p. 188/189
+joins are joined with the new marker before the complete Latin word and
+corresponding English phrase. The repeated catchword `Tandem` at the p. 189
+foot is omitted and placed only after the following marker. All quotations,
+citations, numbered replies, and substantive italic distinctions are
+retained. The exact Part 20 opening is `Novi adversarium nostrum hanc rejicere
+distinctionem Pag. 20. 21.` Its final included words are `...ad alia ergò
+pergamus.` The following paragraph is excluded. The next untranslated text is
+therefore `Ex dictis nunc liquet, omnem moralitatem à praecepto Dei pendere`
+on printed p. 190 / IA leaf 208 / PDF p. 208.
 
 ## Review and licensing status
 

@@ -1017,6 +1017,23 @@ objicit`, is excluded.
 - English: `parts/part-59-romans-04-05-abraham-35-english.md`
 - Extent: two synchronized markers, printed pp. 281–282 / IA leaves 289–290
 
+## Part 60: thirty-sixth unit of the Romans 4:5 lecture
+
+Part 60 answers Castellio's claim that the dying lack the faculties needed
+for faith to complete sanctification. Tuckney first adduces lucid deathbeds;
+then argues that God can act in believers who are unconscious or suddenly
+dying, just as he implants grace in infants who cannot exercise reason; and
+finally turns the objection back upon Castellio by considering late
+conversion and imperfect saints overtaken by lethargy or sudden death. It
+runs from `Ad illam, quam objicit` on printed p. 282 / IA leaf 290 through
+the close of the reversed objection on printed p. 284 / IA leaf 292. The
+next argument, beginning `Tertio accedamus ad secundum ejus Argumentum`, is
+excluded.
+
+- Latin: `parts/part-60-romans-04-05-abraham-36-latin.txt`
+- English: `parts/part-60-romans-04-05-abraham-36-english.md`
+- Extent: three synchronized markers, printed pp. 282–284 / IA leaves 290–292
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

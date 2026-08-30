@@ -44,8 +44,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
 - IA scans `n249`–`n253`: Part 06, Book I, Chapter VII, printed pp. 32–36.
 - IA scans `n253`–`n257`: Part 07, Book II, Chapter I, printed pp. 36–40.
 - IA scans `n257`–`n261`: Part 08, Book II, Chapter II, printed pp. 40–44.
-- The next unit begins at the excluded `CAP. III. De Ecclesiae Notis.` heading
-  on the lower portion of printed p. 44 / IA scan `n261`.
+- IA scans `n261`–`n275`: Part 09, Book II, Chapter III, printed pp. 44–58.
+- The next unit begins at the excluded `LIBER TERTIUS. DE CLERICIS. CAP. I. De
+  nomine Clericorum.` heading on the lower portion of printed p. 58 / IA scan
+  `n275`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -174,8 +176,26 @@ that shared page are excluded.
 - Printer-divided `quotidianum` at the pp. 41–42 turn and `columna` at the pp.
   42–43 turn are joined; in each file the incoming page marker precedes the
   complete joined word or its English equivalent.
-- The five included scan frames are approximately 0.59% of the controlling
-  witness's 851 frames, below the global 1% ceiling.
 
-The next unit begins at the excluded `CAP. III. De Ecclesiae Notis.` heading on
-the lower portion of printed p. 44 / IA scan `n261`.
+**Part 09 is complete as an AI-assisted working draft.** It contains Book II,
+Chapter III, on the marks of the Church. It begins at the Chapter III heading
+on the lower portion of printed p. 44 / IA scan `n261` and ends with the
+chapter's corollary on the upper portion of printed p. 58 / IA scan `n275`.
+The Book III heading and text on that shared page are excluded.
+
+- `parts/part-09-book-02-chapter-03-latin.txt`
+- `parts/part-09-book-02-chapter-03-english.md`
+- Both files contain fifteen synchronized source markers for printed pp. 44–58
+  / IA scans `n261`–`n275`.
+- The opening thesis and all numbered points 2–32 are present, including the
+  survey of Bellarmine's fifteen marks and the concluding quotation from
+  Nicholas of Cusa.
+- Printer-divided `ratione` at the pp. 45–46 turn, `recipiatur` at the pp.
+  46–47 turn, `spiritualis` at the pp. 50–51 turn, `legem` at the pp. 51–52
+  turn, and `administrationis` at the pp. 54–55 turn are joined; in each file
+  the incoming page marker precedes the complete joined word or its English
+  equivalent.
+
+The next unit begins at the excluded `LIBER TERTIUS. DE CLERICIS. CAP. I. De
+nomine Clericorum.` heading on the lower portion of printed p. 58 / IA scan
+`n275`.

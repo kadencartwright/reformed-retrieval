@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Eleven paired parts are complete as AI-assisted, scan-audited working drafts:
+Twelve paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -113,6 +113,9 @@ Eleven paired parts are complete as AI-assisted, scan-audited working drafts:
   immediate efficacy against Wolzogen's objections concerning apostolic
   infallibility and Enthusiasm, printed pp. 108–113 / ONB canvases 162–167;
   six synchronized source markers.
+- **Part 12:** all of Section XXIV, examining Wolzogen's account of human
+  mental corruption and the Spirit's illuminating work, printed pp. 113–118 /
+  ONB canvases 167–172; six synchronized source markers.
 
 The files are:
 
@@ -138,8 +141,11 @@ The files are:
 - `parts/part-10-the-spirits-efficacy-in-interpretation-english.md`
 - `parts/part-11-the-spirits-immediate-efficacy-defended-latin.txt`
 - `parts/part-11-the-spirits-immediate-efficacy-defended-english.md`
+- `parts/part-12-the-spirits-work-and-human-corruption-latin.txt`
+- `parts/part-12-the-spirits-work-and-human-corruption-english.md`
 
-Part 11 ends with Section XXIII on printed p. 113 / ONB canvas 167 after
-Brown's sentence `Sed quaenam sint Spiritus S. partes in sequentibus nobis
-explicas.` Section XXIV, beginning `Quo minus autem (inquit p. 64.) pervidere
-queamus`, is excluded. Part 12 should resume there on the same canvas.
+Part 12 ends with Section XXIV on printed p. 118 / ONB canvas 172 after
+Brown's sentence `Sed Wolzogium in luto Pelagiano haerentem relinquamus, & ad
+alia pergamus.` Section XXV, beginning `Paginis aliquot in sequentibus, Scil.
+67. 68. 69. 70. de Ratione disceptat`, is excluded. Part 13 should resume there
+on the same canvas.

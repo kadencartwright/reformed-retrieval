@@ -16,7 +16,7 @@
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
   Christi Mediatorio*, complete through Question XIII and begun through
-  section XXIII of Question XIV
+  section XXIX of Question XIV
 
 ## Controlling witness and rights
 
@@ -41,20 +41,20 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–72 are complete as AI-assisted working drafts.**
+**Parts 01–73 are complete as AI-assisted working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
 Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–XIII,
-plus sections I–XXIII of Question XIV, from printed p. 3 / PDF 31 through
-printed p. 408 / PDF 436. Part 27
+plus sections I–XXIX of Question XIV, from printed p. 3 / PDF 31 through
+printed p. 411 / PDF 439. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,534 numbered
-sections across 397 unique numbered text pages and 459 source markers in each
-language (453 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 220,213 whitespace-delimited
-words and the complete English files 294,799, counted over Parts 01–72 with
-`wc -w`. Parts 01–70 are complete questions; Parts 71–72 are coherent
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,540 numbered
+sections across 400 unique numbered text pages and 463 source markers in each
+language (457 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 221,768 whitespace-delimited
+words and the complete English files 296,769, counted over Parts 01–73 with
+`wc -w`. Parts 01–70 are complete questions; Parts 71–73 are coherent
 successive units of Question XIV. Each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -132,6 +132,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 70 | Locus XIV, Question XIII | printed pp. 391–400 / PDFs 419–428 | XXXIII | 10 | `part-70-locus-14-question-13-{latin.txt,english.md}` |
 | 71 | Locus XIV, Question XIV, sections I–XVII | printed pp. 400–406 / PDFs 428–434 | XVII | 7 | `part-71-locus-14-question-14-{latin.txt,english.md}` |
 | 72 | Locus XIV, Question XIV, sections XVIII–XXIII | printed pp. 406–408 / PDFs 434–436 | XXIII | 3 | `part-72-locus-14-question-14-sections-18-23-{latin.txt,english.md}` |
+| 73 | Locus XIV, Question XIV, sections XXIV–XXIX | printed pp. 408–411 / PDFs 436–439 | XXIX | 4 | `part-73-locus-14-question-14-sections-24-29-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1303,8 +1304,29 @@ Corinthians 5:15 on printed p. 407 is retained in the Latin with `[sic]`; the
 Vulgate and the syntax require `pro ipsis`, which governs the English. The OCR
 excerpt was used only as an aid.
 
-Part 72's exact next restart is `XXIV. Quarto, Ex inseparabilitate doni Filii,
-et doni Spiritus Sancti.` on printed p. 408 / PDF 436.
+Part 73 continues Question XIV with the fourth through seventh arguments for
+particular redemption and the replies attached to the seventh. It argues from
+the inseparable gifts of the Son and Spirit, Christ's supreme love, the nature
+of his suretyship, and the necessary connection of procurement and
+application. It then rejects both absolute and conditional universal
+procurement and a merely possible salvation that depends on an unprovided
+condition. It runs from section XXIV on printed p. 408 / PDF 436 through
+section XXIX on printed p. 411 / PDF 439, immediately before the eighth
+argument in section XXX. The Latin and English files contain 1,555 and 1,970
+whitespace-delimited words respectively. Both carry four synchronized
+printed-page markers, four substantive marginal headings, and byte-identical
+Greek. The printed pp. 408/409 join falls within section XXIV between `Atque
+huc pertinet` and `argumentum Pauli`; the pp. 409/410 join falls within section
+XXVI between `castigatio pacis` and `nostrae`; and the pp. 410/411 join falls
+within section XXIX between `Prius` and `dici non potest`. The visibly printed
+forms `decrerum`, `irrecovabili`, and `Socianianos` on printed p. 409 are
+retained in the Latin with `[sic]`; the expected forms are `decretum`,
+`irrevocabili`, and `Socinianos`. The OCR excerpt was used only as an aid.
+
+Part 73's exact next restart is `XXX. Octavo, Pro iis tantum Christus mortuus
+est, quibus meruit salutem, et cum salute media omnia ad salutem obtinendam
+necessaria, praecipue fidem et resipiscentiam, et Spiritum Sanctum utriusque
+authorem, sine quibus nulla dari potest salus.` on printed p. 411 / PDF 439.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

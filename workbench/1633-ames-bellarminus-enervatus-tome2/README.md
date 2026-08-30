@@ -48,8 +48,10 @@ The scan is a composite of all four tomes. Tome II begins at IA scan `n218`:
 - IA scans `n275`–`n278`: Part 10, Book III, Chapter I, printed pp. 58–61.
 - IA scans `n279`–`n284`: Part 11, the opening and complete `De Ordinatione`
   section of Book III, Chapter II, printed pp. 62–67.
-- The next unit begins at the excluded `De Vocatione.` heading on the lower
-  portion of printed p. 67 / IA scan `n284`.
+- IA scans `n284`–`n286`: Part 12, the complete `De Vocatione` section of Book
+  III, Chapter II, printed pp. 67–69.
+- The next unit begins at the excluded `De Electione.` heading on the lower
+  portion of printed p. 69 / IA scan `n286`.
 
 The source catalogue labels the OCR language incorrectly as Middle English.
 The work itself is Latin, with occasional Greek. The microfilm has intermittent
@@ -239,3 +241,31 @@ excluded.
 
 The next unit begins at the excluded `De Vocatione.` heading on the lower
 portion of printed p. 67 / IA scan `n284`.
+
+**Part 12 is complete as an AI-assisted working draft.** It continues Book III,
+Chapter II with the complete second topical section, `De Vocatione`. It begins
+at that heading on the lower portion of printed p. 67 / IA scan `n284` and ends
+with the final sentence of numbered point 15 on the upper portion of printed p.
+69 / IA scan `n286`. The `De Electione` heading and text that follow on that
+shared page are excluded.
+
+- `parts/part-12-book-03-chapter-02-vocation-latin.txt`
+- `parts/part-12-book-03-chapter-02-vocation-english.md`
+- Both files contain three synchronized source markers for printed pp. 67–69 /
+  IA scans `n284`–`n286`.
+- All numbered points 12–15 in the calling section are present.
+- Printer-divided `institutionem` at the pp. 67–68 turn is joined; in each file
+  the incoming page marker precedes the complete joined word or its English
+  equivalent.
+- The sentence continued by the p. 69 catchword `sicut` is kept across the
+  pp. 68–69 turn; in each file the incoming page marker precedes that word or
+  its English equivalent.
+- In point 15 the witness prints the grammatically irregular `Paulus autem
+  ordinatio`; the Latin retains it, while the English renders the evident
+  intended sense, “Paul's instruction.”
+- In point 13 the witness likewise prints `Ordinatione omnes Pontificii
+  referunt`; the Latin retains that reading, while the English supplies the
+  evident accusative sense, “All the Pontificians refer ordination.”
+
+The next unit begins at the excluded `De Electione.` heading on the lower
+portion of printed p. 69 / IA scan `n286`.

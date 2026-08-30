@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and fifty-two printed
-> pages of Volume II. The thirty-three paired parts are unreviewed and
+> close English translations of the opening one hundred and sixty printed
+> pages of Volume II. The thirty-four paired parts are unreviewed and
 > are not publication-ready.
 
 ## Work and edition
@@ -86,10 +86,10 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 152 is applied and disclosed in the relevant
+completed span through printed p. 160 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
-Hebrew and Greek on p. 4 and in Chapter VII were read from the images, not
-reconstructed from IA OCR. Apparatus notes record printed errata,
+Hebrew and Greek on p. 4 and in Chapters VII and XIV were read from the images,
+not reconstructed from IA OCR. Apparatus notes record printed errata,
 source-language glosses needed by the English, and anomalous citations without
 silently repairing them.
 
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty-three paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty-four paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -258,13 +258,18 @@ working drafts:
   leaves 135–160; twenty-six synchronized markers.
   [Latin](parts/part-33-book-04-chapter-13-no-external-legal-typical-covenant-latin.txt) |
   [English](parts/part-33-book-04-chapter-13-no-external-legal-typical-covenant-english.md)
+- **Part 34:** all of Chapter XIV, arguing that the covenant of works was
+  proposed to the Israelites to expose their inability and lead them to the
+  promised Messiah; printed pp. 152–160 / IA PDF and leaves 160–168; nine
+  synchronized markers.
+  [Latin](parts/part-34-book-04-chapter-14-covenant-of-works-leads-to-messiah-latin.txt) |
+  [English](parts/part-34-book-04-chapter-14-covenant-of-works-leads-to-messiah-english.md)
 
-Part 33 ends with Chapter XIII's twentieth concluding argument and before
-`CAP. XIV.` at the foot of printed p. 152. The exact next untranslated text is
-`CAP. XIV.`, at printed p. 152 / IA PDF 160 / IA leaf 160, followed on printed
-p. 153 by `Foedus operum Israëlitis erat propositum, ut ad Messiam promissum
-adigerentur.` Chapters VI through XIII are complete. Every completed pair has
-an identical source-marker sequence, and all thirty-three pairs remain
+Part 34 ends with Chapter XIV's thirteenth argument and before `CAP. XV.` on
+printed p. 160. The exact next untranslated text is `CAP. XV.`, at printed p.
+160 / IA PDF 168 / IA leaf 168, followed by `Decalogus non est formula foederis
+gratiae.` Chapters VI through XIV are complete. Every completed pair has an
+identical source-marker sequence, and all thirty-four pairs remain
 AI-assisted and unreviewed.
 
 ## Licensing

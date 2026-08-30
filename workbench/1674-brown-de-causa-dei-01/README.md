@@ -49,7 +49,8 @@ byte-identical to that set. The access PDF, plain OCR, and scan-data XML were
 freshly acquired again for Parts 22–24 on 30 August 2026 and remain
 byte-identical to the recorded derivatives. The access PDF and plain OCR were
 freshly acquired once more for Parts 25–27 on 30 August 2026 and likewise
-remain byte-identical to the recorded derivatives:
+remain byte-identical to the recorded derivatives. They were freshly acquired
+again for Parts 28–29 on the same date and remain byte-identical to that set:
 
 - current access PDF: `8de7698c22e5182ea8b3ebc7e3b7e4032f815bb8c5cfb5d3b055e2be75bb9e9e`
 - DjVu plain OCR: `fcbe877f139a9df77e27fc71a66eb01fa8e23c045a7cce0b8dcdd6e4aeca6cce`
@@ -92,7 +93,7 @@ summary, and no modern English translation has been used as a wording source.
 ## Current extent
 
 The paired working draft now runs continuously from the Book I prospectus on
-printed p. 1 through the lower part of Chapter XV on printed p. 217. Shared-page
+printed p. 1 through the upper part of Chapter XV on printed p. 224. Shared-page
 boundaries preserve each new argumentative unit in the following part rather
 than duplicating it.
 
@@ -125,6 +126,8 @@ than duplicating it.
 | 25 | Chapter XV continuation; Romans 2 and universal revelation | lower part of shared printed p. 202 through p. 204 / IA leaves 220–222 / PDF pp. 220–222; stops before `Haec sunt quae hîc habet ad sententiam hanc evertendam` | 3 |
 | 26 | Chapter XV continuation; six arguments against moral-positive law | printed p. 205 through the lower part of shared p. 211 / IA leaves 223–229 / PDF pp. 223–229; stops before `Hîc etiam examinandum venit illud saepius ab adversario nostro ingeminatum` | 7 |
 | 27 | Chapter XV continuation; Ezekiel 20 and positive precepts | lower part of shared printed p. 211 through the lower part of shared p. 217 / IA leaves 229–235 / PDF pp. 229–235; stops before `Ex hactenus dictis liquet satis` | 7 |
+| 28 | Chapter XV continuation; positive moral precepts and faith in Christ | lower part of shared printed p. 217 through the lower part of shared p. 219 / IA leaves 235–237 / PDF pp. 235–237; stops before `Secundò, praeceptum prohibens matrimonium contrahi` | 3 |
+| 29 | Chapter XV continuation; incest, natural shame, and external acts | lower part of shared printed p. 219 through the upper part of shared p. 224 / IA leaves 237–242 / PDF pp. 237–242; stops before `Tertiò, Praeceptum prohibens polygamiam` | 6 |
 
 The files are:
 
@@ -155,8 +158,10 @@ The files are:
 - `parts/part-25-book-01-chapter-15d-romans-2-and-universal-revelation-{latin.txt,english.md}`
 - `parts/part-26-book-01-chapter-15e-six-arguments-against-moral-positive-law-{latin.txt,english.md}`
 - `parts/part-27-book-01-chapter-15f-ezekiel-20-and-positive-precepts-{latin.txt,english.md}`
+- `parts/part-28-book-01-chapter-15g-positive-moral-precepts-and-faith-{latin.txt,english.md}`
+- `parts/part-29-book-01-chapter-15h-incest-natural-shame-and-external-acts-{latin.txt,english.md}`
 
-### Part 04 re-audit and Parts 05–27 image audits
+### Part 04 re-audit and Parts 05–29 image audits
 
 The interrupted-at-handoff Part 04 pair was re-audited against all twenty-five
 controlling page images, including all page joins, its opening after Chapter
@@ -754,6 +759,53 @@ venit illud saepius ab adversario nostro ingeminatum`. Its final included words
 are `...Jerem. 34: vers. 17. & alibi saepius.` The following paragraph is
 excluded. The next untranslated text is therefore `Ex hactenus dictis liquet
 satis` on shared printed p. 217 / IA leaf 235 / PDF p. 235.
+
+Part 28 is a coherent, image-audited continuation of Chapter XV containing
+Brown's conclusion from the preceding arguments and his first example of a
+moral-positive precept, namely faith in Christ. Every controlling image from
+`Ex hactenus dictis liquet satis` on PDF 235 through the lower part of PDF 237
+was read directly, including both internal joins; the remainder of PDF 237 was
+also inspected to verify the outgoing stop. OCR was used only as a collation
+aid. The Latin and English contain the identical three-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+217–219. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the controlling images govern `εὐδοκία`, `δόγμα`,
+`ἐργαζομένῳ`, and `δικαιοῦντι τὸν ἀσεβῆ`. No Hebrew or separate substantive
+marginal gloss occurs. The continuation onto p. 218 is preserved with the new
+marker before the complete Latin `nos` and corresponding English `us`; the
+catchword `quod` at the p. 218 foot is omitted and placed only after the
+following marker. All extended quotations, numbered replies, citations, and
+substantive italic distinctions are retained. The exact Part 28 opening is `Ex
+hactenus dictis liquet satis`. Its final included words are `...praeceptum
+morale-positivum.` The following paragraph is excluded. The next untranslated
+text is therefore `Secundò, praeceptum prohibens matrimonium contrahi` on
+shared printed p. 219 / IA leaf 237 / PDF p. 237.
+
+Part 29 is a coherent, image-audited continuation of Chapter XV containing
+Brown's second example of a moral-positive precept, the prohibition of
+marriage between close blood relations, and his replies to the adversary's
+arguments from natural shame, parents, the Egyptians' goods, and external
+acts. Every controlling image from `Secundò, praeceptum prohibens matrimonium
+contrahi` on PDF 237 through the upper part of PDF 242 was read directly,
+including all five internal joins; the remainder of PDF 242 was also inspected
+to verify the outgoing stop. OCR was used only as a collation aid. The Latin
+and English contain the identical six-marker sequence.
+
+The terminal errata leaf assigns no particular correction to printed pp.
+219–224. Its general warning about Greek and Hebrew type is disclosed in both
+file headers; the controlling image governs `שאל` and `נצל`. No Greek or
+separate substantive marginal gloss occurs. The printer-divided words
+`naturâ`, `dicatur`, `dispensationem`, and `recognoscit` at the pp. 219/220,
+220/221, 221/222, and 222/223 joins are joined with the new marker before the
+complete Latin word and corresponding English word or phrase. The catchword
+`non` at the p. 223 foot is omitted and placed only after the following marker.
+All extended quotations, numbered replies, citations, Hebrew terms, and
+substantive italic distinctions are retained. The exact Part 29 opening is
+`Secundò, praeceptum prohibens matrimonium contrahi`. Its final included words
+are `...esse morale bonum vel malum.` The following paragraph is excluded. The
+next untranslated text is therefore `Tertiò, Praeceptum prohibens polygamiam`
+on shared printed p. 224 / IA leaf 242 / PDF p. 242.
 
 ## Review and licensing status
 

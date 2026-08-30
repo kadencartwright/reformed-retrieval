@@ -522,6 +522,17 @@ existence and the proper state of the question. It ends before Penottus's new
 The next unit resumes on printed p. 87 / canvas 00113 with `Secundo in opinione
 D. Thom. aeternitas eatenus est mensura rerum...`.
 
+Part 47 remains on **printed p. 87 / BSB canvas 00113** and contains Penottus's
+complete second proposition and Twisse's full two-part reply concerning eternity
+as a common measure. It ends before `Tertio quando Thomas` and has one identical
+source marker.
+
+- `parts/part-47-penottus-book-03-chapter-17-proposition-02-latin.txt`
+- `parts/part-47-penottus-book-03-chapter-17-proposition-02-english.md`
+
+The next unit resumes on printed p. 87 / canvas 00113 with `Tertio quando Thomas
+ex praesentialitate rerum conciliavit certitudinem divinae praescientiae...`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

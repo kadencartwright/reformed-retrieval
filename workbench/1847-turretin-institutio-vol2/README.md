@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XII
+  Statu Christi*, begun through Question XIII
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–50 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–51 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XII, from printed p. 3 / PDF 31
-through section VIII on printed p. 306 / PDF 334. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XIII, from printed p. 3 / PDF 31
+through section XVI on printed p. 309 / PDF 337. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,142 numbered sections across 298 unique numbered
-text pages and 340 source markers in each language (336 printed-page markers
+268. The sequence comprises 1,158 numbered sections across 301 unique numbered
+text pages and 344 source markers in each language (340 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 164,517 whitespace-delimited words and the complete English files
-224,707, counted over Parts 01–50 with `wc -w`. Each part is a complete question,
+contain 166,307 whitespace-delimited words and the complete English files
+227,268, counted over Parts 01–51 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -105,6 +105,7 @@ the substantive marginal headings.
 | 48 | Locus XIII, Question X | printed pp. 294–298 / PDFs 322–326 | XVII | 5 | `part-48-locus-13-question-10-{latin.txt,english.md}` |
 | 49 | Locus XIII, Question XI | printed pp. 298–304 / PDFs 326–332 | XXVIII | 7 | `part-49-locus-13-question-11-{latin.txt,english.md}` |
 | 50 | Locus XIII, Question XII | printed pp. 304–306 / PDFs 332–334 | VIII | 3 | `part-50-locus-13-question-12-{latin.txt,english.md}` |
+| 51 | Locus XIII, Question XIII | printed pp. 306–309 / PDFs 334–337 | XVI | 4 | `part-51-locus-13-question-13-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -765,10 +766,30 @@ Christo collatas esse et vero et plene, probatur` in section II is retained
 rather than silently regularized. The Question XIII heading and body later on
 printed p. 306 / PDF 334 are excluded.
 
-Part 50's exact next restart is `QUAESTIO XIII. DE SCIENTIA ANIMÆ CHRISTI. An
-Christi Anima ab ipsa Creatione, ita repleta fuerit scientia, ut nihil
-ignoraverit, vel didicerit? Neg. contra Pontificios.` on printed p. 306 / PDF
-334.
+Question XIII examines the kinds and extent of the knowledge of Christ's human
+soul, argues from his growth in wisdom and ignorance of the day of judgment
+that its created knowledge was not absolutely exhaustive from the moment of
+creation, and denies that Christ was simultaneously a wayfarer and one who had
+attained the goal, in sixteen sections. It begins at the Question XIII heading
+below section VIII of Part 50 on printed p. 306 / PDF 334 and ends with section
+XVI on printed p. 309 / PDF 337 immediately before Question XIV. The Latin and
+English files contain 1,790 and 2,561 whitespace-delimited words respectively,
+counted over each complete file with `wc -w`. Both carry all four printed-page
+markers in the same sequence and retain all seven substantive marginal
+headings, citations, and scan-exact Greek. The printed pp. 306/307 join falls
+between `de` and `novo discere potuerit`; the pp. 307/308 join between
+`ignorantia` and `quam Christo tribuimus`; and the pp. 308/309 join between
+`Comprehensori` and `beneficio frui`. The four supplied page images are the
+controlling witness; the specified OCR excerpt was used only as an aid. No
+supplementary witness was needed. The Question XIV heading and body later on
+printed p. 309 / PDF 337 are excluded.
+
+Part 51's exact next restart is `QUAESTIO XIV. DE PASSIONIBUS CHRISTI. An
+Christus pœnas tantum corporales in corpore, aut anima quidem, sed tantum quoad
+partem inferiorem et sensitivam, passus sit pro nobis? An vero ipsas etiam
+spirituales et gehennales peccati pœnas, tam in superiori, quam inferiori
+parte, proprie in se, et ex sensu iræ Dei sustinuerit? Neg. Prius; Poster.
+Affirm. contra Pontificios.` on printed p. 309 / PDF 337.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

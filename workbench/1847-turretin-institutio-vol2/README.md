@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question III
+  Statu Christi*, begun through Question IV
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–41 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–42 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–III, from printed p. 3 / PDF 31
-through section XXII on printed p. 268 / PDF 296. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–IV, from printed p. 3 / PDF 31
+through section XI on printed p. 270 / PDF 298. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 966 numbered sections across 260 unique numbered
-text pages and 294 source markers in each language (290 printed-page markers
+268. The sequence comprises 977 numbered sections across 262 unique numbered
+text pages and 297 source markers in each language (293 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 143,466 whitespace-delimited words and the complete English files
-195,334, counted over Parts 01–41 with `wc -w`. Each part is a complete question,
+contain 144,524 whitespace-delimited words and the complete English files
+196,802, counted over Parts 01–42 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -96,6 +96,7 @@ the substantive marginal headings.
 | 39 | Locus XIII, Question I | title and blank verso PDFs 267–268; printed pp. 241–254 / PDFs 269–282 | XL | 16 | `part-39-locus-13-question-01-{latin.txt,english.md}` |
 | 40 | Locus XIII, Question II | printed pp. 254–264 / PDFs 282–292 | XXXII | 11 | `part-40-locus-13-question-02-{latin.txt,english.md}` |
 | 41 | Locus XIII, Question III | printed pp. 264–268 / PDFs 292–296 | XXII | 5 | `part-41-locus-13-question-03-{latin.txt,english.md}` |
+| 42 | Locus XIII, Question IV | printed pp. 268–270 / PDFs 296–298 | XI | 3 | `part-42-locus-13-question-04-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -519,6 +520,31 @@ of Question IV is later content and is excluded.
 Part 41's exact next restart is `QUAESTIO IV. An sola secunda Persona S. S.
 Trinitatis fuerit Incarnata, Et quare?` below section XXII on printed p. 268 /
 PDF 296.
+
+Question IV asks whether only the second Person of the Most Holy Trinity was
+incarnate and why. It distinguishes the external work of the incarnation,
+which is common to the whole Trinity, from its personal terminus in the Son
+alone; then argues from Scripture and from the distinct personal order and
+offices of the Father, Son, and Holy Spirit that only the Son could fittingly
+undertake this office. It answers objections from the incarnation of the
+divine nature, the simplicity of the divine essence, the beatific vision, and
+Lutheran terminology in eleven sections. It begins at the Question IV heading
+below section XXII on printed p. 268 / PDF 296 and ends with section XI on
+printed p. 270 / PDF 298 immediately before Question V. The Latin and English
+files contain 1,058 and 1,468 whitespace-delimited words respectively, counted
+over each complete file with `wc -w`. Both carry all three printed-page markers
+in the same sequence and retain both substantive marginal headings, citations,
+and Greek. The printer-divided `indi-/visa` at the printed pp. 268/269 join is
+normalized as `indivisa`, with the incoming marker placed before the complete
+word in both files. The printed pp. 269/270 join falls between the complete
+words `sed` and `potius`, so no normalization was required there. No
+supplementary witness was needed. PDF 299 was consulted only to confirm that
+its continuation of Question V is later content and is excluded.
+
+Part 42's exact next restart is `QUAESTIO V. DE NATURA ASSUMPTA. An Natura
+Humana assumpta a Λόγῳ fuerit nostrae per omnia similis excepto peccato, et
+Caro ejus ex substantia B. Virginis desumpta? An vero coelitus delapsa? Prius
+Affirm., Poster. Neg., contra Anabaptistas.` on printed p. 270 / PDF 298.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

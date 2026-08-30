@@ -9,7 +9,7 @@
 > summary or publication. No modern translation has been used. This part
 > begins on PA311, printed p. 311, at the repeated lemmata for verses 4–7; it
 > contains their complete joint exposition; and it ends on PA315, printed p.
-> 315, before the initial lemma block for verses 8–13 on printed p. 316.
+> 315, before the initial lemma block for verses 8–14 on printed p. 316.
 
 [Google Books pthrWjdL0BgC | reader image PA311 | printed pp. 311–312 | begins on p. 311 at the repeated Vers. 4–7 lemma block; crosses the printed-page join within the exposition; ends before complete praestetur after divided prae- / stetur at the foot of p. 312]
 
@@ -128,7 +128,7 @@ thieves. As he walks in the streets, the danger of death from a falling roof
 tile hangs over him. In a garden a serpent and snake lie in wait for him. If he
 rides outside, the wavering foot of a horse threatens death or
 
-[Google Books pthrWjdL0BgC | reader image PA315 | printed pp. 315–316 | begins with complete mutilatio after divided muti- / latio on p. 314; ends on p. 315 immediately before the initial Vers. 8–13 lemma block on p. 316]
+[Google Books pthrWjdL0BgC | reader image PA315 | printed pp. 315–316 | begins with complete mutilatio after divided muti- / latio on p. 314; ends on p. 315 immediately before the initial Vers. 8–14 lemma block on p. 316]
 
 mutilation; if he makes the journey on foot, robbers attack him; in his food
 there may be a pin or needle, and in the pot, death. Solomon amplifies this

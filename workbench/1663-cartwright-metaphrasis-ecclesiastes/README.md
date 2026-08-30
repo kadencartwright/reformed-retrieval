@@ -2098,7 +2098,7 @@ contains the repeated Ecclesiastes 8:4–7 lemma block and its complete joint
 exposition on reader images `PA311`, `PA313`, and `PA315`. It begins on printed
 p. 311 at `Vers. 4. Qui observat praeceptum`, crosses the image joins within
 the divided `prae- / stetur` and `muti- / latio`, and ends on printed p. 315
-immediately before the initial verse-8–13 lemma block on printed p. 316. The
+immediately before the initial verse-8–14 lemma block on printed p. 316. The
 paired files have three exactly identical reader-image markers and retain the
 distinctions concerning timely and discriminating obedience, the examples of
 Joshua's ambush, Saul, the Israelites, Daniel's companions, Jeroboam, David,
@@ -2109,7 +2109,28 @@ and Abigail, every printed biblical reference, and the repeated lemmata's
 - `parts/part-96-homiliae-chapter-08-verses-04-07-latin.txt`
 - `parts/part-96-homiliae-chapter-08-verses-04-07-english.md`
 
-This joint unit is bounded by the initial verse-8–13 lemma block rather than
+This joint unit is bounded by the initial verse-8–14 lemma block rather than
 by an arbitrary image count. The next unit begins on reader image `PA315` /
 printed p. 316 at `Vers. 8. In tota hac re vidi`, followed by the lemmata for
-verses 9–13.
+verses 9–14.
+
+**Part 97 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the initial Ecclesiastes 8:8–14 lemma block, the summary and division,
+and the complete joint exposition of verses 8–9 on reader images `PA315`,
+`PA317`, and `PA319`. It begins on printed p. 316 at `Vers. 8. In tota hac re
+vidi`, carries the divided `non- / nonnunquam` into the next image, crosses the
+next image join after the p. 318 catchword `qui`, and ends on printed p. 320
+immediately before the repeated verse-10 lemma. The paired files have three
+exactly identical reader-image markers and retain the four-book account of
+faithful study, the contrast between pastoral rule and tyranny, the formal
+prolepsis and answer, the royal crown and iron-rod comparison, every printed
+biblical reference, and the Greek `ἐπιτάφια`:
+
+- `parts/part-97-homiliae-chapter-08-verses-08-09-latin.txt`
+- `parts/part-97-homiliae-chapter-08-verses-08-09-english.md`
+
+The controlling image continues beyond the verse-13 lemma to a verse-14 lemma
+before the summary; the paired files retain it so that the source sequence
+remains complete. This joint unit is bounded by the exact repeated verse-10
+lemma rather than by an arbitrary image count. The next unit begins on reader
+image `PA319` / printed p. 320 at `Vers. 10. Quia nullum efficitur decretum`.

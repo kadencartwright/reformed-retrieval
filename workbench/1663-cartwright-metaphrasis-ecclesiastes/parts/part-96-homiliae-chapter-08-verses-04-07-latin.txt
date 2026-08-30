@@ -8,7 +8,7 @@ subsidium est. Longum s, ligaturae, divisiones in fine linearum, atque usus
 typographicus u/v normalizantur. Haec pars incipit in imagine PA311, pagina
 impressa 311, ad lemmata iterata versuum 4–7; integram expositionem communem
 eorundem versuum continet; atque in imagine PA315, pagina impressa 315, ante
-lemmata initialia versuum 8–13 desinit.
+lemmata initialia versuum 8–14 desinit.
 
 [Google Books pthrWjdL0BgC | reader image PA311 | printed pp. 311–312 | begins on p. 311 at the repeated Vers. 4–7 lemma block; crosses the printed-page join within the exposition; ends before complete praestetur after divided prae- / stetur at the foot of p. 312]
 
@@ -105,7 +105,7 @@ est; aedes à furibus suffodiuntur; in plateis ambulanti mortis periculum à
 decidente tegula illi imminet; in horto serpens & anguis illi insidiatur; foras
 equitanti ab equi vacillante pede mors aut
 
-[Google Books pthrWjdL0BgC | reader image PA315 | printed pp. 315–316 | begins with complete mutilatio after divided muti- / latio on p. 314; ends on p. 315 immediately before the initial Vers. 8–13 lemma block on p. 316]
+[Google Books pthrWjdL0BgC | reader image PA315 | printed pp. 315–316 | begins with complete mutilatio after divided muti- / latio on p. 314; ends on p. 315 immediately before the initial Vers. 8–14 lemma block on p. 316]
 
 mutilatio, pedibus iter facientem latrones adoriuntur, in cibis acicula vel
 acus, in olla mors. Hoc malum & calamitosam hominis conditionem amplificat ab
@@ -137,5 +137,5 @@ quodammodo mors non est, utpote cujus aculeus eximitur, mucro & acies
 retunditur.
 
 [Finis Partis 96. Pars sequens incipit in imagine PA315, pagina impressa 316,
-ad lemmata initialia `VERS. 8. In tota hac re vidi`–`VERS. 13. Est vanitas quae
-fit super terram`.]
+ad lemmata initialia `VERS. 8. In tota hac re vidi`–`VERS. 14. Quapropter
+laudaveram ego laetitiam`.]

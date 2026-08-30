@@ -66,7 +66,7 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–23 contain none of the appended documents and do not reach the
+prose. Parts 01–26 contain none of the appended documents and do not reach the
 embedded Tilenus refutation. Parts 07–22 do, however, include long passages
 that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
 Scaliger, patristic writers, imperial and conciliar legislation, English
@@ -87,13 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-five numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the complete adjoining-region and rural-bishop
-subargument in the upper portion of printed p. 301, but the inherited Part 02
-English file remains incomplete and therefore prevents calling that span a
-continuous paired draft.
+Twenty-six numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the end of Chapter IV on printed p. 302, but
+the inherited Part 02 English file remains incomplete and therefore prevents
+calling that span a continuous paired draft.
 The August 2026 handoff also specifically flagged Parts 02 and 06 for re-audit.
-This update does not silently clear those flags: Parts 09–25 begin exactly at
+This update does not silently clear those flags: Parts 09–26 begin exactly at
 their audited predecessor boundaries and do not alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -123,6 +122,7 @@ their audited predecessor boundaries and do not alter either inherited part.
 | 23 | Chapter IV: extensive episcopal power and the equality of local churches | printed pp. 281–287 / PDFs 293–299, last boundary page partial | 7 paired and image-audited |
 | 24 | Chapter IV: Roman presbyters and common government after parish division | printed pp. 287–290 / PDFs 299–302, both boundary pages partial | 4 paired and image-audited |
 | 25 | Chapter IV: rural bishops, small ancient dioceses, and later diocesan expansion | printed pp. 290–301 / PDFs 302–313, both boundary pages partial | 12 paired and image-audited |
+| 26 | Chapter IV: the presiding bishop and chapter close | printed pp. 301–302 / PDFs 313–314, first boundary page partial | 2 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -930,7 +930,46 @@ joins, and both boundaries.
 - Latin: `parts/part-25-chapter-04-rural-bishops-and-diocesan-expansion-latin.txt`
 - English: `parts/part-25-chapter-04-rural-bishops-and-diocesan-expansion-english.md`
 
-All twenty-five units remain **AI-assisted and unreviewed**. They require
+### Part 26 bounds and evidence
+
+Part 26 begins exactly where Part 25 ends, in the lower portion of shared
+printed p. 301 / IA leaf 313 / PDF p. 313, at the centered heading:
+
+`De Episcopo Praeside.`
+
+It contains the complete chapter-closing discussion of the presiding bishop.
+Calderwood distinguishes the temporary, rotating presidency of the apostolic
+age from the later permanent presidency; argues that primacy of order thereby
+developed into primacy of power; quotes Beza on the ascent from human
+episcopacy through oligarchy to the Antichristian hierarchy; and rejects an
+appeal to the post-apostolic primitive church. The pair also includes the
+brief final subsection `De Episcopo Presbytero`, in which Calderwood restates
+the scriptural identity of bishop and presbyter and closes his unexpectedly
+long discussion of episcopacy. It retains both attributed quotations, the
+Greek `προστασίαν ἀδιάδοχον`, and all visible marginal citations.
+
+Part 26 ends at the foot of printed p. 302 / IA leaf 314 / PDF p. 314 at:
+
+`Pergamus ad Episcopatum Anglicanum.`
+
+The catchword `CAP.` and Chapter V beginning on printed p. 303 are excluded.
+This gives Part 26 two identical Latin and English source markers and one
+byte-identical consolidated marginalia record. The p. 301 catchword
+`Episco-` is omitted without duplication, with the incoming marker placed
+before the complete `Episcopatum` on p. 302 and the corresponding English
+phrase. The anomalous 1623 reading `praevidebent` is retained in the Latin
+and translated by its evident sense.
+
+The controlling Internet Archive images for IA leaves 313–314, corresponding
+to access-PDF pp. 313–314, were freshly acquired at full resolution and
+inspected against both files. The IA OCR and the 1708 Leiden reset assisted
+reading only; the 1623 images governed wording, typography, quotations,
+citations, Greek, the page join, and both boundaries.
+
+- Latin: `parts/part-26-chapter-04-presiding-bishop-and-chapter-close-latin.txt`
+- English: `parts/part-26-chapter-04-presiding-bishop-and-chapter-close-english.md`
+
+All twenty-six units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

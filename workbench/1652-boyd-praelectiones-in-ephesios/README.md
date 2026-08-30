@@ -79,6 +79,7 @@ same scan can legitimately close one part and open the next:
 | 34 | XXXIV | 184–187 | 140–143 | `Hinc jam secundo loco perpendendum venit Charitatis objectum` through the object and ordered degrees of Christian love, the transition from the causes of Paul’s thanksgiving to its manner, prayer and thanksgiving, their relation to spiritual joy, and the meaning of praying without ceasing, ending `tum etiam nos operaque nostra sanctificet` before `Atque ita partis hujus prioris membrum utrunque fuse declaravimus` and Lecture XXXV |
 | 35 | XXXV | 187–190 | 143–146 | `Atque ita partis hujus prioris membrum utrunque fuse declaravimus` through eight observations from Ephesians 1:15–16 on faith, charity, repentance, pastoral prayer, zeal, freedom from envy, and spiritual thanksgiving, ending with the doxology and `AMEN.` before `In VERS. 17. &c.` and Lecture XXXVI |
 | 36 | XXXVI | 190–195 | 146–151 | `In VERS. 17. &c.` and `Hucusque primum hujus partis membrum` through the synopsis of Ephesians 1:17–19 and the exposition of verse 17: the Spirit of wisdom, God as the God of Christ and Father of glory, revelation, and the acknowledgment of Christ, ending `Atque ita petitionis summam absolvimus hoc vers. 17.` before `Jam fusiorem ejusdem declarationem` and Lecture XXXVII |
+| 37 | XXXVII | 195–200 | 151–156 | `Jam fusiorem ejusdem declarationem` through the exposition of Ephesians 1:18–19: enlightened understanding, the hope and riches of the saints' inheritance, and the greatness and efficacy of divine power in believers, ending at the explicit lecture close before Lecture XXXVIII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -2142,8 +2143,7 @@ reddit.
 
 Atque ita petitionis summam absolvimus hoc vers. 17.
 
-[Explicit Prælectio XXXVI. The following `Jam fusiorem ejusdem declarationem`,
-`Prælectio XXXVII`, and exposition of Ephesians 1:18–19 are excluded.]
+[Explicit Prælectio XXXVI.]
 
 ### English translation
 
@@ -2704,10 +2704,640 @@ consolation, and confidence.
 
 And so we have completed the sum of the petition in this seventeenth verse.
 
-[End of Lecture XXXVI. The following “Now let us consider its fuller
-explanation,” Lecture XXXVII, and exposition of Ephesians 1:18–19 are excluded.]
+[End of Lecture XXXVI.]
 
-The completed sequence now extends through Lecture XXXVI. Its successive subjects
+## Lecture XXXVII: Illuminated eyes, the hope of calling, and the greatness of divine power
+
+> **AI-assisted, unreviewed working transcription and translation.** The Latin
+> is a diplomatic-normalized transcription from the controlling BSB page
+> images, and the English is a fresh, full translation of that Latin, not a
+> summary. A qualified human editor must compare both with the facsimile before
+> quotation or publication.
+
+### Latin source transcription
+
+[BSB bsb11059161 | scan 195 | Caput I p. 151 (from Prælectio XXXVII opening)]
+
+Jam fusiorem ejusdem declarationem videamus versiculis duobus sequentibus. Ubi
+primum ejusdem Sapientiæ nobis conferendæ modum illustrat, allatâ eleganti
+similitudine, ad revelationem illam declarandam, dum inquit, *Illuminatis oculis
+mentis vestræ*: deinde petitionem suam per partes explicat: quarum prior
+versiculo hoc 18. posterior sequenti habetur, ut suo loco patebit.
+
+[Marginalia: Prælectio XXXVII. Membrum alterum, petitionis explicatio.]
+
+Quod ad modum attinet, quo Spiritum Sapientiæ & Revelationis dari Ephesiis
+precatur, sic est: *Illuminatis mentis ipsorum oculis.* Ubi sanè non video cur
+Interpretum nonnulli de horum verborum constructione & cum præcedentibus
+connexione laborârint, imò quoque mirati sint, quomodo Chrysostomus, &
+Theophylactus, aut nullum hic scrupulum senserint, aut si senserunt, silentio
+præterierint ac dissimulârint.
+
+[Marginalia: Cohæsio verborum *illuminatis mentis oculis*.]
+
+Nam plana semper & expedita Cohæsio est atque constructio, sive obliquum hunc,
+ad verbum δῴη, per Epexegêsin referamus, hoc pacto: ut det vobis Spiritum
+Sapientiæ & Revelationis, nempe oculos mentis vestræ illuminatos: sive quartum
+hunc casum, eleganti Atticismo à D. Bezâ observato, absolutè sumamus: sive
+denique unius tantum apicis mutatione (nam mutato illo apice, sive unco
+inferiore ablato, quo τοῦ cum σ sequente cohæret, & litera & casus ipse
+mutabitur) legamus πεφωτισμένοις, qui elegans est, & Latinis etiam usitatus
+Hellenismus; illuminatis oculis mentis vestræ. Sic enim tertius ille casus, ad
+antecedens illud (ὑμῖν) referetur, ut patet: quæ lectio & sensu eadem est cum
+nostrâ, & constructionis concinnioris venustate inprimis arridet.
+
+[Marginalia: Explicatio.]
+
+Sed ad Rem ipsam, patet similitudinem esse ab oculis corporeis ad animum
+translatam. Nam ut corpore videamus, non videndi tantum facultate opus est, sed
+& organo visivo, & re objectâ, & medio etiam, lumine aliquâ saltem tenus
+illustratis. Jam ad animum quod attinet, initio quum Deus hominem ad imaginem
+suam conderet, animam ipsi rationalem largitus est, & intellectu perfecto &
+ὀξυδερκείᾳ, ut ita dicam, & voluntate sanctâ & rectè ordinatâ præditam
+instructamque: in quibus præsertim facultatibus, ut præcipuis, Imago Dei in
+homine νεοδμήτῳ, sive νεοκτίστῳ refulgebat. Jam intellectus est ipse mentis
+oculus, ut hic eum appellat Apostolus: quia ut se habet oculus ad corpus, ita
+intellectus ad animam, etiam in Philosophorum Scholis trito ac pervulgato
+proportionis exemplo.
+
+[Marginalia: Lumen intellectus quoddam.]
+
+Jam per lumen intellectus hoc loco, quo eum à Spiritu Revelationis illuminari
+optat Apostolus, non ipsam tantum cognitionem actualem intelligo, sed & ipsam
+sanctè & secundum Deum intelligendi facultatem: siquidem utroque per peccatum
+lapsumque suum homo privatus est: amisit, inquam, non tantum claram illam Dei
+ac rerum divinarum, quæ mentem ejus anteà lucidissimæ facis instar illustrabat,
+notitiam actualem, sed & oculus ejus excæcatus est, idque bifariam: 1. Quod Deum
+ipsum, & ea quæ ad Deum pertinent, ad salutem cognoscere nequeat, sed tantum
+quantum ipsi sat erit, ut coram Deo ἀναπολόγητος reddatur; adeoque rerum
+spiritualium ne capax quidem naturâ sit ejus intellectus, non magis ac cæci
+oculus luminis aut coloris incapax est. Deinde quod alia quæcunque animo capere
+potest & intelligere, non possit sanctè & secundum rectam rationem voluntati &
+legi divinæ consentaneam intelligere: quia sanctitatem prorsus omnem amisit
+Intellectus humanus; ita ut peccatori extra Christum Jesum, prophana sit omnis
+rerum quarumcunque cognitio.
+
+[Marginalia: Cæcitas mentis.]
+
+Quare in homine per Christum reparando & instaurando, oportet ante omnia mentem
+ipsam, sive Intellectum humanum renovari, ad hoc ut capax reddatur rerum
+cœlestium & spiritualium, quæ Evangelio continentur; ut possit eas intelligere,
+& recto sanctoque modo, hoc est, spiritualiter non autem carnaliter de iis
+judicare: Alioqui Dei Sapientiam & Dei potentiam, in iis relucentem nihil aliud
+quam stultitiam, scandalum, ac probrum censebit: Ac præterea lumen ipsum
+cognitionis illius gloriosæ per Evangelii splendorem infundi immittique; quorum
+utrumque hoc in loco comprehendit Apostolus, dum iis mentis oculos illuminari
+cupit, & renovari nimirum indies magis magisque, ac sanctificari intellectum
+ipsum, qui Spiritûs gratiâ jam acceptâ, è cæco videns factus erat aliquatenus,
+& cognitionis lumen ipsis indies uberius clariusque præberi in facie Jesu
+Christi, ut inquit ipse alias, 2 *Cor.* 4.
+
+[Marginalia: Applicatio ad institutum. 2 Cor. 4:6.]
+
+Nam quemadmodum lucis hujus visibilis gradus quidam sunt, & latitudo secundum
+quam tam in medio, putà aere interjecto, quam in ipso oculo videntis augeri
+gradatim intendique potest: Ita etiam suos habet gradus lumen illud spirituale
+cognitionis Dei in Jesu Christo: adeo ut pro mensurâ revelationis quæ fit à
+Spiritu Dei in animis nostris, per clariorem Scripturæ sacræ intelligentiam
+augeri intendique possit: atque hoc vult & petit Apostolus, ut Ephesii ita
+quotidie proficiant in Christi mysterio, ut naturæ tenebris paulatim expulsis &
+fugatis, tandem nullâ remanente caligine, toti in lucem convertantur, &
+intellectum habeant prorsus & omni modo illuminatum: quod non nisi in illo demum
+statu perfectionis gloriosæ continget. Nam in hâc ærumnosâ vitâ animo semper
+inhæret haud parum primævæ illius æruginis: nec nisi crepusculum vel diluculum
+in eo locum habet, h. e. lumen tenebris permistum: etsi fideles ac Spirituales
+à potiori parte etiam in hâc vitâ lumen & luminaria denominentur, infra hâc
+ipsâ Epistolâ cap. 5. *Eratis olim tenebræ*, inquit, *nunc autem lux in Domino*:
+Et *Phil.* 2. *ut sitis filii Dei inculpati & simplices, in medio generationis
+pravæ ac perversæ, inter quos splendetis ut luminaria vel faces in mundo.*
+
+[Marginalia: Eph. 5:8. Phil. 2:15.]
+
+Quod autem voce διανοίας utatur, ἀντὶ τοῦ νοός, vel τοῦ νοῦ, cum διάνοια propriè
+ipsum discursum, ut vocant, & ratiocinium significet, h. e. mentis aut
+intellectûs, aut facultatem discursivam & ratiocinativam, aut functionem ejus in
+ratiocinando occupati, nihil refert: quum intellectus ab hâc suâ potissimâ
+functione satis aptè denominetur: Ac præterea, quorundam Interpretum judicio,
+hâc voce importet Apostolus, non ipsum tantum Sapientiæ donum, sed & rectum
+ejus usum, nec tantum, ut loquuntur Philosophi, actum primum, i. e. habitum
+ipsum Sapientiæ, sed & actum secundum, i. e. cognitionem vel contemplationem
+ipsam; quorum uterque ex Dei dono & Spiritus Sancti operatione dependet, tum
+donum ipsum habituale, ut loquuntur, tum ejus usus & exercitium, quod in actuali
+cognitione consistit: Sed parum firmo nititur vocis hujus fundamento, vera hæc
+alioquin & pia licet observatio.
+
+[Marginalia: Nota obiter. Ita Zanchius.]
+
+Nunc ad partes ipsas hujusdem Sapientiæ veniamus: Quarum prior hoc versu reliquo
+proponitur & exponitur. Proponitur his verbis; *ut sciatis quæ sit*
+
+[Marginalia: Transitio ad partium explicationem.]
+
+[BSB bsb11059161 | scan 196 | Caput I p. 152]
+
+*spes vocationis ipsius*: Exponitur sequentibus, *Et quæ opes gloriæ hæreditatis
+ipsius in Sanctis.* Posterior versic. sequenti comprehenditur, quum adjicit, *Et
+quæ sit excellens magnitudo*, &c. Quæ partes à se invicem distinguuntur, ex
+rerum subjectarum illi sapientiæ & cognitioni naturâ, ex rebus ipsis
+cognoscendis, quæ duûm sunt generum; aliæ ad vitam illam futuram reservatæ,
+nempe spes illa ad quam nos vocavit, h. e. ipsa vita æterna quam speramus; aliæ
+etiam in hâc vitâ præsenti in nobis inchoatæ, nempe potentia Dei agentis &
+operantis efficaciter in credentibus, etiam in corpore degentibus. Hæ duæ sunt
+partes cognitionis Dei in Jesu Christo, prout sese nobis in Evangelio
+patefecit.
+
+[Marginalia: Subdivisio. Pars 1.]
+
+Jam ad priorem partem quod attinet, quemadmodum spei nomen duobus modis
+accipitur in Scripturâ sacrâ: primo propriè pro dono ipso & gratiâ, quæ veram
+fidem ut effectus causam insequitur; dono, inquam, quo bona illa futura cum
+fiduciâ & patientiâ speramus & expectamus, ut 1 *Cor.* 13. *Nunc autem manent
+tria ista; Fides, Spes, charitas*, &c. deinde Tropicè & Metonymicè pro re
+speratâ, *Rom.* 8. *Spes autem si cernatur, non est spes: quod enim quis cernit,
+cur speret?* Sic *Col.* 1. Christum ipsum, inter fideles, appellat spem illam
+gloriæ. Prout ergo Spei nomen interdum significat id quo (ut loquuntur)
+interdum id quod speratur: Ita etiam duplex esse potest verborum horum
+expositio.
+
+[Marginalia: Spes vocationis nostræ, quæ sit. 1 Cor. 13 ult. Rom. 8:24. Col.
+1:27.]
+
+1. Prior hoc sensu: Ut sciatis quæ sit spes illa vocationis ejus, h. e. quam
+certa, quam firma, quam læta, & consolatione plena sit spes ipsa ad quam vos
+vocavit: nam sicut nos ad credendum, ad diligendum, imò & ad crucem ipsius
+ferendam, sic etiam ad sperandum vocavit in hâc vitâ, ut & spe & fide, priusquam
+aspectu, incedamus. Quare petit Apostolus illuminari fidelium oculos à Spiritu
+Sancto, ad hoc ut spei suæ, quâ in hâc vitâ sustentantur ac fulciuntur,
+firmissimam ac indubitatam certitudinem agnoscant, quippe quæ fundamentis omnium
+firmissimis innitatur, ut ita nunquam possit hominem fidelem pudefacere, ut
+loquitur Apostolus *Rom.* 5.
+
+[Marginalia: Prior expositio Zanchii. Rom. 5:5. Spei fundamenta.]
+
+Sive eum spectemus, qui nos ex consilii sui immutabilis æterno proposito
+vocavit ad cœlestem illam hæreditatem sperandam, nempe Deum ipsum, qui nec
+mutari nec falli potest, nec fallere, quique nobis bona illa sperata in
+Evangelio promisit, qui est ipsa veritas; Sive eum in quo omnes Dei promissiones
+sunt Etiam & Amen, ad Dei gloriam per nos, ut loquitur idem 2 *Cor.* 1. h. e. in
+quo & per quem rata & sancta sunt omnia, ipsum (inquam) Dei filium Jesum
+Christum fœderis Mediatorem ac Testatorem, qui sanguine suo pretioso & suæ
+mortis interventu novum illud suum testamentum ratum fecit in æternum, & nulli
+prorsus mutationi obnoxium, ut ab Apostolo docemur *Heb.* 9. Sive eum qui
+promissiones illas & res easdem speratas, divini cujusdam sigilli & firmissimi
+arrhabonis instar, in fidelium cordibus obsignat, nempe Sanctum ipsum Dei
+Spiritum, cujus hoc munus & effectum esse erga credentes, Apostolus ipse supra
+nos docuit priore capitis hujus parte: Sive primum illud salutis nostræ
+fundamentum, à Deo jactum ante omnia tempora secularia, nempe arcanum illud &
+irrevocabile æternæ Electionis & gratuitæ Prædestinationis decretum, quod hunc
+in finem statim ab hujus Epistolæ limine substravit Apostolus, ex quo patet non
+nobis ipsis, aut ullâ omnino creaturâ, sed ipsius Dei gratuitâ εὐδοκίᾳ niti spem
+omnem salutemque nostram; sive promissionum ipsarum (ut ita dicam) formulam, &
+in eâ tum amplitudinem, tum assertionem validissimam, quâ nobis etiam eas
+jurejurando adhibito Deus firmare dignatus est, & ingeminato asseverationum
+gravissimarum pondere, in animis nostris eo altius infigere (*Quâ in re*, inquit
+Apostolus *Heb.* 6. *Voluit hæredibus promissionis consilii sui firmitatem
+ostendere, ut per duas res immutabiles in quibus fieri non potest ut Deus
+mentiatur, validam consolationem habeamus nos qui cursum eo corripuimus, ut spem
+propositam retineamus*): Sive sacramenta & sigilla illa externa, quibus
+promissionum suarum non veritatem tantum certissimam, sed & particularem
+applicationem, ita in nobis munire voluit eadem Dei bonitas, ut fœderi huic
+Evangelico signa hujusmodi appendi adjungique curaverit, quæ à nobis rectè
+usurpata, nexum quendam arctissimum & insolubilem cum Christo unionem nostram
+spiritualem repræsentent, quâ modo quodam ineffabili nos in ejus ipsius
+substantiam transeamus, & caro de carne, os ex ossibus ejus fiamus, unde certi
+simus non magis posse nos à spe cœlestis illius hæreditatis excidere, quam
+possit ipsius Christi corpus à capite divelli atque separari: Sive denique jus
+ipsum attendamus, quo nobis vitam illam gloriosam vendicamus, jus nimirum
+Adoptionis, quo fit ut illam tanquam filii paternam hæreditatem cernamus, non
+autem ut mercenarii debitam nostris operibus mercedem (Quis enim sanæ mentis
+homo, non malit idem regnum, sive aliam quamvis possessionem, sibi à Rege
+dominoque suo, hæredis & filii nomine, qui titulus longè augustior,
+magnificentior, optabilior, ut hæreditatem donari; quàm ut operario servoque
+fideli, debitum ex pacto stipendium aut mercedem, quod jus longè vilius,
+inferius, & à priori illo tantum discrepans, quantum à filii dignitate cadit
+servi conditio?) Hæc, inquam, omnia spei vivæ & certæ firmissima sunt
+invictaque munimina: ac proinde merito petere potuisset Apostolus, Ephesiis
+illuminari mentis oculos, ad hoc ut sciant quæ sit spes, h. e. quam firma, quam
+bene fundata atque subnixa, quam gloriosa sit spes illa, quâ Deus fideles etiam
+in hâc vitâ fulcit atque sustentat, quæque fidem ipsorum & vocationem efficacem
+individuo nexu comitatur.
+
+[Marginalia: 2 Cor. 1:20. Heb. 9:16, 17. Eph. 1:13, 14. Heb. 6:17, 18. Nota
+ratiocinem.]
+
+Verùm nobis planior videtur & expeditior illa reliqua ab aliis recepta
+expositio, quâ spes hic pro re speratâ accipitur; adeo ut spes vocationis Dei
+hoc in loco, sit res illa ad quam sperandam Deus fideles vocavit. Quæ porro sit
+res illa sperata, ipse verbis sequentibus declarat, quum adjungit, *Et quæ opes
+gloriæ*, &c. sic enim hæc verba cum præcedentibus optimè cohærebunt, ut ea κατ᾽
+ἐπεξήγησιν dicamus esse subjecta, præsertim quum locum huic omnino similem
+habeamus, 1 *Pet.* 1. ubi quum Deo gratias egisset Apostolus, quod nos in spem
+vivam regeneravisset, quænam sit spes illa viva verbis sequ. exponit, i. ad
+hæreditatem ἄφθαρτον, ἀμίαντον, ἀμάραντον nobis in cœlis servatam. Res igitur
+sperata est hæreditas, quæ quidem propriè ad Christum pertinet, utpote solum
+Dei filium naturalem; nobis verò communicatur per illum, in quo in filios
+adoptati sumus: *Quòd si filii*, inquit Apostolus *Rom.* 8. *etiam hæredes:
+hæredes autem Dei, cohæredes autem Christi*, qui maluit primogenitus esse inter
+multos fratres, quibuscum paternam illam hæreditatem communem faceret,
+
+[Marginalia: Posterior expositio aliorum. Bezæ. 1 Pet. 1:3, 4. Rom. 8:17.]
+
+[BSB bsb11059161 | scan 197 | Caput I p. 153]
+
+quam solus eam possidere. Jam hanc hæreditatem hic illustrat Apostolus, 1. ab
+adjunctâ ejusdem excellentiâ; deinde, ad quos pertineat indicando. Prius illud
+his verbis exprimit, (*Quæ opes gloriæ*) unde duo licet hæreditatis illius
+epitheta sive conditiones colligere: Primum, quod gloriosa sit, non vilis aut
+obscura, aut corruptibilis, aut labi vel defectui cuivis obnoxia; deinde quod
+gloria illa dives & opulenta sit, non autem parca, jejuna, exilis, non
+umbratilis (ut ita dicam) aut evanida, sed solida, vera, perfecta, & omnibus
+numeris absoluta, quæ sui consortes verè gloriosos perfectèque beatos &
+αὐταρκῶς redditura sit.
+
+[Marginalia: Quæ opes gloriæ hæreditatis ejus. Explicatio.]
+
+Sic hæreditatis illius magnitudinem & excellentiam, quam nos in hâc vitâ ne
+cogitando quidem assequi possumus, nedum fando exprimere, paucis quidem sed
+magnificentissimis verbis aliquatenus nobis adumbravit: Siquidem harum quibus
+utitur vocum, unaquæque suum pondus habet, & miram quandam ἔμφασιν ad hoc quo
+de agitur nobis commendandum: sive hæreditatis nomen spectemus, quæ hominibus
+possessionum omnium solet esse antiquissima atque charissima; præsertim si
+nobis fuerit ab iis relicta, quorum hæredes extitisse, non utile tantum nobis
+fuerit, sed & honorificum & gloriosum: nam nihil hominibus gratius, nihil
+optatius possit contingere, quàm v. g. à maximo & optimo aliquo Principe in
+hæredem deligi atque destinari; non tantum hæreditatis ipsius nomine, sed & ejus
+habitâ ratione, cujus gratiâ & benevolentiâ contigit nobis hujusmodi beneficium.
+Quantum igitur illud, quam summum & admirandum, quod in Christo Jesu consecuti
+sumus, ut nimirum Dei ipsius hæredes, idque filiorum jure ac titulo decorati,
+fieremus?
+
+[Marginalia: Hæreditas.]
+
+sive divitiarum aut opum nomen attendamus, quam in hæreditate conditionem solent
+homines inprimis requirere, ut opulenta sit, omniumque si fieri possit bonorum
+copiâ circumfluens: hinc enim ostenditur, quanta sit in illâ cœlesti hæreditate
+bonorum omnium abundantia, supra omnia quæ nos aut cogitare aut vovere possumus
+animoque complecti; quam nihil ibi defuturum, quod ad nos animo corporeque in
+æternum beandos requiri possit.
+
+[Marginalia: Opulenta.]
+
+Sive denique vocem gloriæ spectemus, quâ tota tum loci, tum conditionis illius
+excellentia comprehendi soleat in sacrâ Scripturâ; idque optimâ aptissimâque
+descriptione. Quia quum gloria videatur nihil esse aliud, quam ipsum felicitatis
+culmen atque fastigium; alio quidem modo Deo ipsi glorioso, alio autem Angelis
+beatis & reliquis creaturis in cœlo glorificatis competens (nam in Deo quidem
+est illa ipsa infinita majestas & excellentia naturæ sive essentiæ divinæ
+omniumque ejus attributorum; in creaturis verò gloriosis est illius excellentiæ
+& majestatis imago quædam; & in creaturis ratione præditis imaginis divinæ
+absoluta & consummata perfectio) patet in cœlesti illâ hæreditate omnia summè
+gloriosa esse. Siquidem Deus ibi suæ majestatis infinitam excellentiam, in loco
+gloriosissimo, & modo prorsus ineffabili, Angelis hominibusque in æternum
+patefacit, idque per Jesum Christum Mediatorem, per quem Deus erit omnia in
+omnibus. Ibi corpora ipsa nostra, nedum animi, gloriosis qualitatibus ornata
+fulgebunt: Ibi denique Deus benedictus à toto cœtu illo glorioso in æternum
+glorificabitur.
+
+[Marginalia: Gloriosa. Confirmatio.]
+
+Hæc aliaque hujusmodi quum scimus de vitâ illâ cœlesti, dicimur hic ab Apostolo
+scire quæ sint opes gloriæ illius hæreditatis, h. e. quæ sit ejus natura atque
+conditio. Quamvis enim plenè eum statum gloriosum in hâc vitâ cognoscere
+nequeamus, quum (ut supra dictum est) *oculus non viderit, nec auris audierit,
+nec mens hominis ea comprehenderit, quæ Deus præparavit diligentibus ipsum*;
+tamen illuminati mentis oculos Spiritu illo Revelationis & Sapientiæ, tantam ex
+ipsâ Scripturâ sacrâ cognitionem ejus haurimus, quæ nobis ad ejus excellentiam
+& perfectionem summam, etiam in hâc vitâ, fide & spe percipiendam &
+apprehendendam, immo & ad vitam illam in nobis inchoandam, à nobis degustandam
+abundè sufficit. Scimus utique è Scripturâ sacrâ, ejus gloriam omnem nostram
+scientiam superare, immo & fidem, & spem ipsam omnem longè antevertere: Scimus
+nos hic nihil scire posse, quod cum ejus dignitate & magnitudine conferendum
+sit: Scimus eam denique non ex nostro sensu scientiâve præsenti, immo ne ex
+fidei quidem aut spei nostræ angustiis, sed ex Dei promissione metiendam esse:
+ex Dei potentiâ, sapientiâ, bonitate, misericordiâ, & Electorum gratuitâ
+dilectione, ex Christi ipsius morte & meritis æstimandam esse.
+
+[Marginalia: Prolepticè.]
+
+Unde præ spe hujus hæreditatis, præsentia omnia quantumvis humano judicio magna,
+opulenta, gloriosa, fastidimus & flocci facimus, cumque Psalte Regio, limen aut
+vestibulum domus Dei quibusvis Regum palatiis facilè præferimus.
+
+[Marginalia: Corollarium. Ps. 84:11.]
+
+Quod ad eos ad quos hæreditas hæc pertinet, hoc Sanctorum nomine exprimit
+Apostolus, de quibus supra in ipsâ hujus Epistolæ inscriptione dictum est,
+quosnam pro sanctis agnoscat, Fideles nimirum ac regenitos; ad hos siquidem
+solos attinet hæc hæreditas, qui renati sunt ex aquâ & Spiritu, his tantum jus
+fas est ingredi in regnum cœlorum: nam jus hæreditatis ad solos pertinet Dei
+filios; atqui ii demum sunt filii Dei, inquit Joannes Evangelista, qui credunt
+in nomen Jesu Christi, quique non ex sanguine, nec ex libidine carnis, nec ex
+libidine viri, sed ex Deo geniti sunt. Hujusmodi autem sunt Sancti duntaxat. In
+Sanctis igitur solis refulget gloriosa illa cœlestis hæreditatis opulentia, qui
+& ipsi sunt Dei hæreditas, & peculium, & populus ipsi acquisitus ac tanto
+redemptus pretio è reliquâ generis humani massâ.
+
+[Marginalia: Membrum 2. Joan. 3:3 & 5. Joan. 1:12, 13.]
+
+Quum enim sancta sit & incontaminata illa Dei hæreditas, qui posset ad alios,
+quam ad Sanctos pertinere? Prophanis & impuris hominibus nondum ablùtis nec
+sanctificatis, nec justificatis in nomine Domini Jesu, & per Spiritum Dei
+nostri, qui posset ullus esse locus aditusve, in sedem tam sanctam ac cœlestem,
+ipsâ Dei præsentiâ gloriosâ sanctificatam? Unde Sanctus hujus habitaculi, sive
+cœlestis aulæ magnificam illam descriptionem hâc clausulâ terminat ipse Sanctus
+Dei Spiritus *Apoc.* 21. *Non intrabit in eam quidquam quod inquinat, aut
+abominandum quippiam patrat, vel mendacium loquitur, sed qui scripti sunt in
+libro vitæ Agni.*
+
+[Marginalia: Confirmatio. 1 Cor. 6:11. Apoc. 21:27.]
+
+Jam veniamus ad alteram explicationis hujus partem, quæ versic. sequenti, 19.
+continetur, cum subjungit Apostolus (*Et quæ sit excellens illa magnitudo
+potentiæ ipsius, in nobis qui credimus, κατὰ τὴν ἐνέργειαν τοῦ κράτους τῆς
+ἰσχύος αὐτοῦ*) Hoc reliquum illud est, ad cujus cognitionem animi ipsorum oculos
+illuminari cupiebat, tanquam altera pars sapientiæ illius ac revelationis
+divinæ quæ in Christi agnitione
+
+[Marginalia: Transitio ad ver. 19. cum exegesi de effectu potentiæ Dei in
+credentibus.]
+
+[BSB bsb11059161 | scan 198 | Caput I p. 154]
+
+consistere supra innuebat: est autem cognitio magnitudinis potentiæ Dei in
+credentibus vel erga credentes: per hanc autem potentiam non eam intelligimus
+Creatoris potentiam, quâ omnia ex nihilo condidit, omnia item quæ creata sunt
+potenti suo brachio sustentat atque conservat; quamvis & ea, ut ad omnes
+homines omnesque res creatas, ita & ad Electos & fideles etiam creandos,
+conservandos, ac sustinendos extendatur; sed specialem quandam potentiam Dei
+Redemptoris, quæ ad solam Ecclesiam & singula ejus membra restringitur &
+coarctatur, quâ Deus opus suum diaboli malitiâ, propriâque hominis culpâ
+collapsum atque corruptum, reparare & instaurare dignatur, non quidem in toto
+genere humano, sed in solis Electis & credentibus: Et hæc est potentia illa
+efficax quam exerit per Spiritum sanctificationis in illis immutandis,
+renovandis, convertendis, vivificandis, & in novas creaturas transformandis,
+adeoque tandem glorificandis in vitâ futurâ.
+
+[Marginalia: Potentia Dei quæ hic intelligenda.]
+
+Jam specialem hanc efficaciam, quam in solis fidelibus hic quidem inchoat, in
+cœlis autem consummat Spiritus Sanctificationis, trifariam nobis hoc versiculo
+commendat & illustrat Apostolus, 1. Ab adjunctâ magnitudine, eâque non quâvis,
+sed excellenti magnitudine; deinde ab objecto, vel materiâ circa quam & in quâ
+Deus eam exserit, nempe (*nobis qui credimus*) ac 3°. à causâ principioque suo,
+nempe ipso Dei robore; eoque non vulgari aliquo, aut creaturæ ulli
+communicabili, sed forti & soli Deo competente, nec etiam otioso, sed efficaciter
+agente. Hæc tria igitur nobis ordine perstringenda fuerint: Nam de hâc eâdem
+Spiritus Dei efficaciâ in nobis regenerandis ac vivificandis, fusius ex Apostolo
+ipso cap. sequente tractandum fuerit.
+
+[Marginalia: Trifariam hic illustrata.]
+
+Primum igitur, quod statim ab opibus gloriosæ illius hæreditatis quæ Sanctis in
+cœlo reservata est, & ad quam fide & spe in hâc vitâ apprehendendam à Deo
+vocati sunt, excellentis illius magnitudinis potentiæ divinæ mentionem
+subjungat Apostolus versiculo hoc sequenti, mihi valdè probatur eorum sententia,
+qui tacitam hic ἀνθυποφοράν quandam sive occupationem observant: quâ occurrat
+Apostolus eorum hæsitationi ac diffidentiæ, quibus auditâ tam gloriosâ &
+opulentâ hæreditatis mentione, statim obversari potuit suæ ipsorum quâ
+infirmitas, quâ etiam indignitas, & hujusmodi cogitatio in animis ipsorum
+suboriri.
+
+[Marginalia: Excellens magnitudo. Prolepsis.]
+
+Nam tu quidem, ô Paule, magnifica nobis & ampla promittis, immo pleno ore
+deprædicas, quorum vel solâ spe & expectatione quis non excitetur, quis non
+tacito quodam gaudii sensu perfundatur? Sed vah! quum nos ipsos reputamus, & ad
+nostram sortem oculos rursùs convertimus, qui simus, quàm miseri & indigni
+homunciones, quàm nil nisi terra cinisque, in animâ peccatum, & in corpore ipso
+peccati stipendia & monumenta circumferentes, quàm inepti ad tanta tamque
+præclara bona possidenda, ad quæ credenda & speranda nihilominus à Deo vocati
+sumus: siquidem illa cœlestia sunt, invisibilia, spiritualia, planèque divina;
+Nos autem terreni, mortales, caro & sanguis, & (ut verbo dicam) massa luti,
+peccati fermento acida atque corrupta: Quum, inquam, hanc tam infirmam
+indignamque conditionem nostram cogitamus, heu! quî possumus non diffidere, ac
+penè animum non despondere? Immo, quod mirum videatur, quanto majora, altiora,
+diviniora sunt bona illa Electis in cœlo reservata, tanto minus videntur ad nos
+tam humiles & abjectos pertinere, tanto à nobis esse remotiora, ac proinde tanto
+etiam magis arduum, firmam eorum spem animo concipere.
+
+[Marginalia: Amplificatio.]
+
+Apostolus ergo, ut huic ipsorum aut aliorum quorumvis diffidentiæ occurreret,
+vult ipsorum animos à propriâ infirmitate & indignitate paulisper abducere, ut
+sicut ejus qui promisit voluntatem ex ipsâ vocatione tam benignâ & gratiosâ
+abundè perspexerunt, ita etiam ejusdem potentiam animadvertant, immo
+excellentem illam potentiæ ipsius magnitudinem, quam jam cœpit in iis exerere,
+per vocationem illam efficacem, quâ factum est ut ipsi in peccatis mortui,
+vocem Filii Dei vocantis audierint & vivere cœperint, quemadmodum ipse *Joan.*
+5. futurum prædixerat: In quo vivificationis & regenerationis ipsorum effecto,
+vult eos non tantum potentiam divinam, sed & potentiæ magnitudinem; neque hoc
+solum, sed & excellentem vel supereminentem ejus magnitudinem contemplari,
+agnoscere, admirari.
+
+[Marginalia: Responsio. Joan. 5:25. Gradatio.]
+
+Quâ profectò tam elatâ & sublimi loquendi ratione, nobis innuit & colligendum
+relinquit Apostolus, majorem & illustriorem quandam potentiæ suæ magnitudinem
+Deum patefecisse in nobis per Jesum Christum recreandis ac reformandis ad suam
+imaginem, quàm in nobis ex nihilo creandis, in nobis hâc naturali vitâ donandis
+& in lucem hanc educendis. Idque merito sanè: Sicut enim operosius est atque
+difficilius figulo aut vitrario, v. g. opus aliquod suum in frusta comminutum
+atque corruptum reficere, in pristinam suam integritatem restituere, quàm novum
+fingere & efformare; & corpus idoneum ac præparatum spiritu vitæ animare, quàm
+cadaveri vitam rursus immittere: longè facilius; quum illud ordinariâ Dei
+potentiâ quotidie fiat, hoc non nisi miraculo, h. e. virtute Dei absolutâ &
+extraordinariâ fieri possit: Ita potentiæ suæ magnitudinem excellentiori modo &
+gradu eminentiori patefecit Deus in homine instaurando, redimendo, vivificando,
+& ad Christi imaginem reformando, quàm vel in ejus primâ creatione, vel in
+propagatione illâ ordinariâ per generationem carnalem & naturalem.
+
+[Marginalia: Confirmatio. Similis. Apodosis.]
+
+Quamvis enim Deo omnipotenti facilia sint omnia, nihilque difficile quod ille
+effectum vult, qui volendo efficit omnia, hoc tamen nihil impedit quo minus in
+aliquibus Dei operibus excellentior & eminentior potentiæ divinæ magnitudo sese
+nobis patefaciat, quàm in aliis. Hanc autem, ex hoc Apostoli loco apertè
+colligimus, in illo Redemptionis humanæ opere longè gloriosissimo, omnium
+evidentissimè nobis illuxisse; quippe quod modo medioque longè augustiori,
+magisque mirando Deus effectum dederit, quam alia opera quæcunque; nempe per
+Filii sui unigeniti incarnationem, crucem & mortem ignominiosam primum, deinde
+ejusdem resurrectionem & gloriam; quum solo verbi sui nutu omnia creaverit.
+Atqui quum quis videt Regem, v. g. illud quidem solo verbo & nutu exequentem,
+hoc autem non nisi magno conatu atque molimine, adhibitis & suis & regni sui
+viribus & copiis, nonne merito dixerit, hîc potiùs quam illic, Regem potentiæ
+suæ magnitudinem exeruisse, quum illud vel infirmus efficere potuerit, hoc autem
+non nisi potens & robustus exequi valuisset.
+
+[Marginalia: Similitudo.]
+
+Quâvis fatear in Deo longè secus rem se habere: quum nimirum tam Creationis
+quam Redemptionis & Sanctificationis opus potentiæ magnitudinem requirat
+infinitam, nec nisi ab omnipotente perfici potuerit,
+
+[Marginalia: Correctio.]
+
+[BSB bsb11059161 | scan 199 | Caput I p. 155]
+
+ac præterea agendi modum, & media sive majora sive minora, sive plura sive
+pauciora, quibus Deo uti visum est ad opus aliquod suum exequendum, ex solâ Dei
+ipsius εὐδοκίᾳ liberrimâque voluntate dependeant, non autem ex ullâ rerum
+ipsarum absolutâ necessitate: verùm nobis ita de Deo Deique operibus inter se
+comparatis ἀνθρωποπαθῶς, i. e. humano more modoque, cum Scripturâ ipsâ loqui
+fas est.
+
+Quod ad hujus potentiæ tam excellenter magnæ objectum attinet, h. e. eos erga
+quos & in quibus Deus eam exserit, iidem reipsâ sunt, quos versic. præcedente
+Sanctos appellavit, quos hîc Credentes appellat, Seipsum iis annumerans &
+accensens, dum non simpliciter dicit (*in credentibus*) sed (*in nobis qui
+credimus*) idque duplici potissimum de causâ, ut videtur.
+
+[Marginalia: In nobis qui credimus. Αἰτιολογία 1.]
+
+Primum, ut ostendat se his de rebus ad salutem & vitam æternam pertinentibus,
+non ut inexpertum loqui ex merâ & nudâ quadam contemplatione, sive contemplativâ
+scientiâ; sed ut expertum ista testari, seque ipsum vel inprimis testem posse
+producere veritatis quam aliis annunciabat, quibus nihil prædicabat de
+magnitudine potentiæ divinæ, in aliis fidelibus ex ipsis orci & mortis æternæ
+faucibus eruendis, inque lucem illam admirabilem Evangelii & libertatem
+filiorum Dei evocandis, nisi suâ ipsius experientiâ comprobatum; quippe erga
+quem, ut testatur ipse 1 *Tim.* 1. superabundavit gratia illa Domini nostri,
+cum fide & dilectione Jesu Christi, qui ideo ipsius misertus est, ut in ipso
+omnium primo ostenderet omnem lenitudinem ac tolerantiam, ut exemplar esset
+credituris in ipsum ad vitam æternam.
+
+[Marginalia: 1 Tim. 1:14.]
+
+Hanc ergo Dei potentiam, quum ipse in suâ conversione & regeneratione tam
+admirabili modo sensisset, & etiamnum sentiret indies, etiam in mediis vinculis,
+carceribus, cruciatibus, & mortibus omnigenis, non potuit non seipsum hoc in
+loco in eorum numero complecti, in quibus Deus hanc suam vivificam potentiam
+etiam in hâc vitâ cœpit exercere: Nam non uno in loco docet se ex hujusmodi
+πληροφορίᾳ certâque & plenâ persuasione loqui, quæ non in nudâ tantum
+simplicique verbi divini cognitione & revelatione, sed & in suâ ipsius
+experientiâ & constantissimâ praxi fundata sit: sicut ex his tribus quæ
+subjungam testimoniis inter alia conspicuis manifestum fiet, 2 *Cor.* 4. *Et
+quoniam habemus*, inquit, *eundem spiritum fidei, secundum illud quod scriptum
+est, Credidi & ideo loquutus sum; Nos quoque credimus, & ideo etiam loquimur*;
+*Col.* 1. *Ad quod etiam enitor, decertans secundum vim illam ipsius efficacem
+agentem in me potenter.* Et 1 *Thess.* 1. *Quoniam Evangelium nostrum constitit
+apud vos, non sermone solum, sed etiam potentiâ & Spiritu Sancto, & plenâ
+persuasione vel certitudine; sicut nostis quales fuerimus inter vos vestri
+causâ.*
+
+[Marginalia: 2 Cor. 4:13. Col. 1:29. 1 Thess. 1:5.]
+
+Hæc ergo prior est ratio cur ita loquatur. Posterior, ut & ipsos Ephesios eodem
+numero comprehendat, ad majorem ipsorum consolationem, & fidei incrementum:
+quem in scopum per totam hanc Epistolam semper collineat: Atque ita eos, cum
+reliquis fidelibus, exemplo suo doceat, hæc de quibus loquitur salutis mysteria
+sibi ipsis applicare, ne tanquam de rebus alienis & ad se nequaquam
+pertinentibus de iis verba faciant, sed ut in semet omnium primò ea sentiant &
+experiantur, quæ vera est & propria salvificæ fidei natura.
+
+[Marginalia: 2. Immoratio.]
+
+Quum ergo dicit (*In nobis qui credimus*) vult Ephesios ipsos, hanc de quâ
+loquebatur excellentem potentiæ divinæ magnitudinem, non velut eminus otiosos
+spectare, sed potiùs ad seipsos attrahere, & in suâ conversione ac regeneratione
+eandem inprimis agnoscere. Nam in hâc speciali applicatione, est omnis nostra
+consolatio: Alioqui enim, quid meâ quæso refert, quàm magnificè & excellenter
+Deus vim illam vivificam & salutarem sui Spiritus erga alios exercuerit, si ego
+interim ejus exsors & expers vitam miserrimam traduco? Si nullum, inquam, ejus
+effectum ac documentum in memet illuminando, vivificando, ac renovando expertus
+sum; si nullam arrham, nullum pignus habeam, quo de eâdem ejus potentiâ in me
+glorificando, plenè tandem exserendâ, persuadear, omninòque certus fiam?
+Profectò tantum abest ut mihi gaudio solatiove sit hujus rei cogitatio, ut
+contra mœrori meo augendo, meque magis angendo & excruciando vehementer
+inserviat.
+
+[Marginalia: Amplificatio à contrario.]
+
+Denique, quod ad hujus potentiæ causam attinet (quæ 3. loco consideranda nobis
+hîc occurrebat) efficaciam eam his verbis valdè efficacibus & sublimibus
+exprimit Apostolus, (*κατὰ τὴν ἐνέργειαν τοῦ κράτους τῆς ἰσχύος αὐτοῦ*) Ubi
+quamvis nonnulli inter voces has ita subtilius & scrupulosius distinguant, ut
+ἰσχὺν ipsi arboris radici, κράτος arboris trunco & caudici cum ramis, ἐνέργειαν
+verò fructui ejusdem assimilent; atque ita τῆς ἐνεργείας vox actum ipsum
+secundum, sive operationem effectumque designet, quem Deus producit extra sese
+in creaturis suis; τὸ κράτος autem nomen significet potestatem illam summam
+quam habet in omnem creaturam quæ est in ejus manu, ut ex eâ faciat quidquid
+vult pro arbitrio, tanquam ejus non solùm Rex & Dominus & Creator, quem penes
+est jus omne & authoritas de creaturâ suâ pro arbitrio statuendi, verùm etiam
+is qui brachio suo potenti creaturam omnem conservat & sustentat infinitâ suâ
+virtute, ad omnia quibus esse dedit immediatè pertingente: sic enim dicuntur
+aliqui eorum κρατεῖν sive in ea κράτος habere, quæ habent in suâ manu ac
+potestate, ut Rex in vitam & necem subditorum; quamvis non de suo, sed de alieno
+potiùs potens sit, h. e. tam suis viribus quàm aliorum ministerio possit illam
+suam quam habet in alios potestatem & authoritatem exercere. τῆς ἰσχύος
+denique, ut & τῆς δυνάμεως vocabulum, propriè significet naturalem illam &
+essentialem potentiam quæ in Deo ipso infinita est, & à quâ ipse solus
+omnipotens denominatur, ac tam κράτους quam ἐνεργείας omnis prima radix est &
+fundamentum.
+
+[Marginalia: Secundùm efficaciam fortis roboris ipsius. Harum trium vocum
+subtilior distinctio.]
+
+Ex eo enim quod Deus ipse naturâ suâ, ut omni-sapiens est & omni-bonus, ut ita
+dicam, h. e. summè bonus & sapiens, adeoque ipsa bonitas & sapientia, ita etiam
+omnipotens est, h. e. summè potens & robustus, adeoque ipsum robur, ipsa
+potentia, cui nihil omnino possit reniti aut obsistere, cujus actum nihil omnino
+retardare possit, nedum impedire; hinc fit ut & omnia in suâ manu ac potestate
+teneat, & quæcunque vult in omnibus ac de omnibus actu efficiat & operetur pro
+solâ suâ εὐδοκίᾳ. Quamvis (inquam) liceat has voces ita distinguere à se
+invicem, tamen eâ subtilitate nequaquam hîc opus existimo ad Apostoli mentem
+assequendam: Suffecerit hîc solum observâsse ex ejus verbis, 1. Causam &
+fundamentum illius efficacis & potentis operationis, quam in nobis exercuit
+regenerandis suo Spiritu; nempe ipsam illam DEI potentiam naturalem & infinitam,
+quam, illis epithetis & adjunctis exornat
+
+[Marginalia: Ratio ordinis. Resumptio. Nota 1.]
+
+[BSB bsb11059161 | scan 200 | Caput I p. 156 (through Prælectio XXXVII close)]
+
+illustratque primum quod fortis sit & robusta illa potentia, infinitâ nimirum
+virtute pollens: unde אֵל, i. Deus fortis passim appellatur in Scripturis
+veteris Testamenti, nomine à robore & fortitudine deducto: deinde quod sit
+efficax in operando, quòd in operibus suis excellenti modo suam exerat
+efficaciam, sive ea vocando quæ non sunt, & faciendo ut sint, h. e. ex nihilo
+creando; sive ea revocando quæ esse desierant, h. e. recreando & reficiendo quæ
+suo vitio culpâque perierant.
+
+[Marginalia: Nota 2.]
+
+Deinde & modum quo hæc duo potentiæ divinæ epitheta sive attributa effert
+Apostolus, per Hebraismum nempe sibi familiarem, abstracta in regimine sibi
+subordinata, pro concretis & adjectivis, quæ appellant, usurpando: Nec enim,
+inquit, secundum potentiam suam fortem & efficacem, sed secundum efficaciam
+roboris potentiæ suæ: quæ loquendi formula longè vehementior est & gravior
+atque sublimior: ut ita ex magnitudine & efficaciâ potentiæ hujus quam Deus in
+ipsis & erga ipsos exercuerat, eos in beneficii ipsius magnitudinem &
+excellentiam quasi manu duceret, & animos eorum excitaret ad seriò reputandum
+apud sese, quam non vulgaris aut mediocris esset illa gratia, quam divinâ
+benignitate fuerant consecuti; quam non leve aut peractu facile illud opus,
+quod Deus in ipsis ad Christum convertendis & sanctificandis ediderat; sed
+hujusmodi quod efficaciam fortitudinis roboris ipsius requireret, quodque ab
+omnibus simul creaturis præstari nequibat, sed omnipotentem Dei manum
+exposceret.
+
+[Marginalia: Usus hujus membri.]
+
+Hinc autem ingens rursus, & efficax erga illos, gratitudinis argumentum, quo
+excitentur fidelium animi ad Deum totâ vitâ, summo studio & ardenti zelo
+glorificandum, cogitantes apud animum suum, quantam brachii sui efficaciam,
+quantam sui roboris excellentiam pro ipsis liberandis, in ipsis ad vitam illam
+suam, quæ sola vitæ nomen meretur, à tam dirâ morte, ex tam durâ servitute
+revocandis, in ipsis (inquam) tam indignis, ex gratuitâ suâ benevolentiâ
+exerere dignatus est.
+
+[Marginalia: Corollarium.]
+
+[Explicit Prælectio XXXVII. The following `Atque ita precum harum pro Ephesiis
+ab Apostolo conceptarum`, `Prælectio XXXVIII`, and observations from Ephesians
+1:17–19 are excluded.]
+
+### English translation
+
+The completed sequence now extends through Lecture XXXVII. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -2993,6 +3623,11 @@ He closes by defining saving wisdom as the faithful, loving, and obedient
 acknowledgment of Christ rather than bare knowledge, ending on scan 195 with
 `Atque ita petitionis summam absolvimus hoc vers. 17.` before Lecture XXXVII
 turns to the fuller explanation in verses 18–19.
+Lecture XXXVII supplies that fuller explanation. It treats the eyes of the
+understanding as the inward faculty illuminated by God, the hope attached to
+his calling, the riches of glory in the saints' inheritance, and the surpassing
+greatness of divine power exercised in believers. It concludes by turning the
+power's strength and efficacy into a motive for lifelong gratitude and zeal.
 
 ## Validation
 

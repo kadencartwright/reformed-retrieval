@@ -13,7 +13,7 @@
 - **Edition:** Edinburgh, John D. Lowe, 1847
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions, and
   Locus XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
-  Testamento*, through Question IX
+  Testamento*, through Question X
 
 ## Controlling witness and rights
 
@@ -38,15 +38,15 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–35 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–36 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, and Locus XII,
-Questions I–IX, from printed p. 3 / PDF 31 through section XX on printed p.
-218 / PDF 246. Part 27 also includes the Locus XII divisional title on PDF 177
-and its blank verso on PDF 178. The sequence comprises 798 numbered sections
-across 213 numbered text pages and 242 source markers in each language (240
+Questions I–X, from printed p. 3 / PDF 31 through section XXXII on printed p.
+226 / PDF 254. Part 27 also includes the Locus XII divisional title on PDF 177
+and its blank verso on PDF 178. The sequence comprises 830 numbered sections
+across 221 numbered text pages and 251 source markers in each language (249
 printed-page markers plus the two divisional-leaf markers in Part 27). The
-complete Latin files contain 117,377 whitespace-delimited words and the
-complete English files 159,952, counted over Parts 01–35 with `wc -w`. Each
+complete Latin files contain 122,015 whitespace-delimited words and the
+complete English files 166,292, counted over Parts 01–36 with `wc -w`. Each
 part is a complete question, and each Latin/English pair has an identical
 source-marker sequence and retains the substantive marginal headings.
 
@@ -87,6 +87,7 @@ source-marker sequence and retains the substantive marginal headings.
 | 33 | Locus XII, Question VII | printed pp. 192–206 / PDFs 220–234 | XLIX | 15 | `part-33-locus-12-question-07-{latin.txt,english.md}` |
 | 34 | Locus XII, Question VIII | printed pp. 206–212 / PDFs 234–240 | XXV | 7 | `part-34-locus-12-question-08-{latin.txt,english.md}` |
 | 35 | Locus XII, Question IX | printed pp. 212–218 / PDFs 240–246 | XX | 7 | `part-35-locus-12-question-09-{latin.txt,english.md}` |
+| 36 | Locus XII, Question X | printed pp. 218–226 / PDFs 246–254 | XXXII | 9 | `part-36-locus-12-question-10-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -350,12 +351,32 @@ citations, and Greek. The printer-divided `ut-/raque` at the printed pp.
 `dicendum`, with the incoming marker placed before each complete word in both
 files. The visibly printed `non desinunt ese nostras` in section XVI on
 printed p. 217 is retained in the Latin with `[sic]`; the grammar requires
-`esse`. No supplementary witness was needed. The exact next restart is
-`QUAESTIO X. DE STATU PATRUM SUB VET. TEST. An Patres sub Vet. Test. dici
-possint fuisse adhuc sub ira Dei, et maledictione Legis, et permansisse in
-reatu peccati, usque ad mortem Christi; Nec habuisse ἄφεσιν, seu plenam et
-proprie dictam remissionem peccatorum, sed tantum πάρεσιν? D.` on printed p.
-218 / PDF 246.
+`esse`. No supplementary witness was needed. Question X asks whether the
+fathers under the Old Testament remained under divine wrath, the curse of the
+law, and the guilt of sin until Christ's death, possessing only πάρεσις rather
+than full ἄφεσις. It argues from Christ's suretyship, the nature of the covenant
+of grace, guilt, justification, justifying faith, sanctification, and the usage
+of πάρεσις and ἄφεσις that the fathers already possessed true remission by the
+power of Christ's certainly future satisfaction. It then answers objections
+from Rom. iii. 25, New Testament promises, the repeated legal sacrifices, and
+the consciousness of sin in thirty-two sections. It begins at the Question X
+heading below the close of Part 35 on printed p. 218 / PDF 246 and ends with
+section XXXII on printed p. 226 / PDF 254, before Question XI on printed p. 227
+/ PDF 255. The Latin and English files contain 4,638 and 6,340
+whitespace-delimited words respectively, counted over each complete file with
+`wc -w`. Both carry all nine page markers in the same sequence and retain all
+nine substantive marginal headings, citations, Greek, and Hebrew. The
+printer-divided `incutien-/dum` at the printed pp. 224/225 join is normalized
+as `incutiendum`, with the incoming marker placed before the complete word in
+both files. The visibly printed `portuerint` and `Viti Docti` in section VI on
+printed p. 219 and `Testamentati` in section XXXII on printed p. 226 are
+retained in the Latin with `[sic]`; the grammar requires `potuerint`, `Viri
+Docti`, and `Testamenti`, respectively. The printed `ἁμαρτιῶν` in the Greek
+quotation of Rom. iii. 25 in section XVIII on printed p. 222 is likewise
+retained. No supplementary witness was needed. The exact next restart is
+`QUAESTIO XI. DE LIMBO PATRUM. An Patres Vet. Testamenti post obitum statim
+recepti fuerint quoad animas in Coelum? An vero in Limbum detrusi? Prius
+Affirm., Post. Neg., contra Pontificios.` on printed p. 227 / PDF 255.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

@@ -786,7 +786,37 @@ requiring qualified human review.
 - `parts/part-20-chapter-20i-latin.txt`
 - `parts/part-20-chapter-20i-english.md`
 
-The next unit begins with the ruled `CAPUT XXI` and `Vers. 1. Rivi aquarum
-sunt cor Regis in manu Domini; ad rem quamcunque libuerit inflectit illud.` in
-the right column of shared PDF 455 / printed column 895; restart at the rule,
-excluding the final Chapter XX sentence above it.
+**Part 21a is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It begins Chapter XXI at the ruled `CAPUT XXI` and `Vers. 1.
+Rivi aquarum sunt cor Regis in manu Domini; ad rem quamcunque libuerit
+inflectit illud.` in the right column of shared PDF 455 / printed column 895
+and continues through the short concluding prose of verse 3 on PDF 457 /
+printed column 899. It stops immediately before `V. 4. Elatio oculorum, &
+amplitudo cordis, aratio improborum sunt peccatum.` in that same right column.
+Latin and English have three byte-identical source markers (PDF 455–457;
+synchronized printed columns 894–895 through 898–899) and retain all three
+verse lemmata, full prose, Hebrew, citations, abbreviations, and printed
+irregularities. The complete files contain 1,032 Latin-file and 1,438
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 455–457, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-455 marker includes only the
+ruled Chapter XXI heading and verse 1 material in the right column; the final
+Chapter XX sentence above the rule is excluded. The divided `celeberrimum`,
+with its corresponding English wording, was assigned wholly to the receiving
+PDF-456 marker; the ending `cele-` and catchword `berri-` on PDF 455 were not
+duplicated. The catchword `V. 3.` on PDF 456 was excluded, and verse 3 begins
+under PDF 457. The final PDF-457 marker ends with the short verse 3 conclusion
+above `V. 4.`; no verse 4 material is imported. Witness forms including
+`Nabuch. atuvenit`, `Neh. 1. 2.`, `Esavo`, `Isra.`, `Voce, justitiae`, and
+`judicij` were retained. This remains an AI-assisted working edition requiring
+qualified human review.
+
+- `parts/part-21-chapter-21a-latin.txt`
+- `parts/part-21-chapter-21a-english.md`
+
+The next unit begins with `V. 4. Elatio oculorum, & amplitudo cordis, aratio
+improborum sunt peccatum.` in the right column of shared PDF 457 / printed
+column 899; restart at that lemma, excluding the final verse 3 sentence above
+it.

@@ -2014,3 +2014,41 @@ printed biblical reference, the source's irregular constructions, the Hebrew
 This joint unit is bounded by the exact verse-23–29 lemma block rather than by
 an arbitrary image count. The next unit begins on reader image `PA289` /
 printed p. 289 at `Vers. 23. Omnia illa probavi in sapientia`.
+
+**Part 92 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 7:23–29 lemma block, the summary and division, and
+the complete joint exposition on reader images `PA289`, `PA291`, `PA293`,
+`PA295`, `PA297`, `PA299`, `PA301`, and `PA303`. It begins on printed p. 289
+at `Vers. 23. Omnia illa probavi in sapientia`, crosses the image joins within
+the divided `po- / tius`, `habe- / re`, `im- / probi`, `improbi- / tatis`, and
+`eo- / rum`, and after the p. 302 catchword `figulo`, and ends on printed p.
+303 after the complete exposition of verse 29 and before the verse-30 lemma.
+The paired files have eight exactly identical reader-image markers and retain
+the full analytical structure, every printed biblical reference, the Hebrew
+`אדם` and `האדם`, the Greek `ἀδυναμία`, `ἀδυναμίαν`, `ἀκαταλήψεως`, and
+`πολυποικίλη`, and the source's irregular constructions:
+
+- `parts/part-92-homiliae-chapter-07-verses-23-29-latin.txt`
+- `parts/part-92-homiliae-chapter-07-verses-23-29-english.md`
+
+This joint unit is bounded by the exact verse-30 lemma rather than by an
+arbitrary image count. The next unit begins on reader image `PA303` / printed
+p. 303 at `Vers. 30. Quis est par illi sapienti?`.
+
+**Part 93 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 7:30 lemma, the initial Chapter VIII lemmata for
+verses 1–7, the shared summary and division, and the complete exposition of
+verse 30 on reader images `PA303` and `PA305`. It begins on printed p. 303 at
+`Vers. 30. Quis est par illi sapienti?`, crosses the printed-page join within
+the exposition, and ends on printed p. 306 after `Et de priori parte hactenus`
+and before the repeated `Vers. 2. Praestitutum meum` lemma. The paired files
+have two exactly identical reader-image markers and preserve the edition's
+initial numbering of `Praestitutum meum` as verse 1 and its immediate repeated
+numbering as verse 2 without silently harmonizing them:
+
+- `parts/part-93-homiliae-chapter-07-verse-30-latin.txt`
+- `parts/part-93-homiliae-chapter-07-verse-30-english.md`
+
+This unit is bounded by the exact repeated `Praestitutum meum` lemma rather
+than by an arbitrary image count. The next unit begins on reader image `PA305`
+/ printed p. 306 at `Vers. 2. Praestitutum meum, praestitutum regis observa`.

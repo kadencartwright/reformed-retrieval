@@ -39,7 +39,8 @@ for canvases 36–44. Part 09 was compared line by line with the five BSB images
 for canvases 44–48. Part 10 was compared line by line with the six BSB images
 for canvases 48–53. Part 11 was compared line by line with the two BSB images
 for canvases 54–55. Part 12 was compared line by line with the thirteen BSB
-images for canvases 55–67. No e-rara text, modern edition, or modern
+images for canvases 55–67. Part 13 was compared line by line with the six BSB
+images for canvases 67–72. No e-rara text, modern edition, or modern
 translation was used.
 
 ## Editorial method
@@ -191,9 +192,22 @@ contains twenty-five synchronized printed-column markers:
 - `parts/part-12-church-militant-petrine-monarchy-objections-latin.txt`
 - `parts/part-12-church-militant-petrine-monarchy-objections-english.md`
 
-The next continuation boundary is therefore `QUÆSTIO III. An Petrus Romæ
-fuerit. Bellarminus lib. 2. de Rom. Pont. cap. 2. asserit Petrum Romæ fuisse`,
-later in printed column 134 on BSB canvas 67.
+**Part 13 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the complete Question III, whether Peter was at Rome, in
+printed columns 134–145. It gives seventeen arguments against Peter's Roman
+episcopate and answers nine objections. The witness's printed numbering jumps
+directly from column 136 to column 139 even though the prose is continuous;
+the paired source markers preserve that printed irregularity. The part ends
+after the response to Objection 9, immediately before `QUÆSTIO IV. An Papa sit
+Petri successor`; it contains ten synchronized printed-column markers:
+
+- `parts/part-13-church-militant-peter-in-rome-latin.txt`
+- `parts/part-13-church-militant-peter-in-rome-english.md`
+
+The next continuation boundary is therefore `QUÆSTIO IV. An Papa sit Petri
+successor. Bellarminus lib. 2. de Romano Pont. cap. 11. ait Papam Petro
+succedere, non tantùm in Episcopatu, sed etiam in universæ Ecclesiæ primatu`,
+later in printed column 145 on BSB canvas 72.
 
 ## Review and licensing notice
 

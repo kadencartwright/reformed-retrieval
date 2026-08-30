@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Fifteen paired parts are complete as AI-assisted, scan-audited working drafts:
+Sixteen paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -126,6 +126,10 @@ Fifteen paired parts are complete as AI-assisted, scan-audited working drafts:
   ambiguity, his laws of interpretation, and the concluding claims of his
   first book, printed pp. 130–138 / ONB canvases 184–192; nine synchronized
   source markers.
+- **Part 16:** Section XXX, turning to Wolzogen's response to the Paradoxical
+  Exercitator and arguing that he evades the controversy over the infallible
+  norm of interpretation, printed pp. 138–141 / ONB canvases 192–195; four
+  synchronized source markers.
 
 The files are:
 
@@ -159,10 +163,12 @@ The files are:
 - `parts/part-14-usage-of-speech-and-the-norm-of-interpretation-english.md`
 - `parts/part-15-scriptural-ambiguity-and-wolzogen-first-book-conclusion-latin.txt`
 - `parts/part-15-scriptural-ambiguity-and-wolzogen-first-book-conclusion-english.md`
+- `parts/part-16-wolzogen-response-to-the-paradox-latin.txt`
+- `parts/part-16-wolzogen-response-to-the-paradox-english.md`
 
-Part 15 ends with Section XXIX on printed p. 138 / ONB canvas 192 after the
-sentence `Ergo, propter hoc privilegium, possunt omnes fideles omnem
-interpretari scripturam.` Section XXX, beginning `Hactenus quam fideliter se
-gesserit Wolzogius in primo suo libello, in quo sententiam suam nude proposuit,
-vidimus: videndum nunc quomodo se gerat, dum in hostem movet;`, is excluded.
-Part 16 should resume there on the same canvas.
+Part 16 ends with Section XXX on printed p. 141 / ONB canvas 195 after the
+sentence `Hîc se magis a parte Paradoxi, quam a parte Reformatorum stare apertè
+declarat, cum Rationem vult esse veri sensus disceptatricem.` Section XXXI,
+beginning `Culpat dein in Exercitatore Wolzogius, quòd interpretem, quem
+quaerebat, accuratiore paulo judicio non definiverit;`, is excluded. Part 17
+should resume there on the same canvas.

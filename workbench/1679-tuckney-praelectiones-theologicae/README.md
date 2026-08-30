@@ -557,6 +557,23 @@ is excluded.
 - English: `parts/part-31-romans-04-05-abraham-07-english.md`
 - Extent: seven synchronized markers, printed pp. 202–208 / IA leaves 210–216
 
+## Part 32: eighth unit of the Romans 4:5 lecture
+
+Part 32 opens Tuckney's second inquiry into Genesis 15:6 and completes its
+first subordinate question, the lexical meaning of `λογίζεσθαι` / to
+impute. It distinguishes imputation from reckoning, traces the word's
+logical and mercantile senses, answers contrary restrictions by Piscator and
+Roman writers, and classifies imputation as essential or by thought, then as
+personal or real. It runs from `Secundum sequitur, Quid hoc sit quod fides
+Abrahami hic dicatur imputari` on printed p. 208 / IA leaf 216 through the
+conclusion of the lexical question on printed p. 215 / IA leaf 223. The
+second subordinate question, `Secundum est de Phraseos hujus
+significatione`, is excluded.
+
+- Latin: `parts/part-32-romans-04-05-abraham-08-latin.txt`
+- English: `parts/part-32-romans-04-05-abraham-08-english.md`
+- Extent: eight synchronized markers, printed pp. 208–215 / IA leaves 216–223
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

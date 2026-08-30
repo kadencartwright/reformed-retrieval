@@ -66,8 +66,8 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–18 contain none of the appended documents and do not reach the
-embedded Tilenus refutation. Parts 07–18 do, however, include long passages
+prose. Parts 01–21 contain none of the appended documents and do not reach the
+embedded Tilenus refutation. Parts 07–21 do, however, include long passages
 that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
 Scaliger, patristic writers, imperial and conciliar legislation, English
 canons, canonists, and other named writers; the paired files retain their
@@ -87,12 +87,12 @@ modern selection.
 
 ## Current progress and audit state
 
-Nineteen numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the upper portion of printed p. 267, but the
+Twenty-one numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the upper portion of printed p. 275, but the
 inherited Part 02 English file remains incomplete and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–19 begin exactly at their audited predecessor boundaries and do not
+Parts 09–21 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -116,6 +116,8 @@ alter either inherited part.
 | 17 | Chapter IV: argument 6, jurisdiction and presbyteral government | printed pp. 243–252 / PDFs 255–264, both boundary pages partial | 10 paired and image-checked |
 | 18 | Chapter IV: argument 6, Jerome on common presbyteral government | printed pp. 252–259 / PDFs 264–271, both boundary pages partial | 8 paired and image-audited |
 | 19 | Chapter IV: argument 6, early bishops as presidents in presbyteries | printed pp. 259–267 / PDFs 271–279, both boundary pages partial | 9 paired and image-audited |
+| 20 | Chapter IV: argument 6, presbyteral votes in provincial councils | printed pp. 267–268 / PDFs 279–280, both boundary pages partial | 2 paired and image-audited |
+| 21 | Chapter IV: argument 6, decline of presbyteries and excommunication | printed pp. 268–275 / PDFs 280–287, both boundary pages partial | 8 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -669,8 +671,83 @@ boundaries.
 - Latin: `parts/part-19-chapter-04-argument-06-early-presbyteries-latin.txt`
 - English: `parts/part-19-chapter-04-argument-06-early-presbyteries-english.md`
 
-All nineteen units remain **AI-assisted and unreviewed**. They require complete
-comparison by a qualified Latin editor before quotation or publication.
+### Part 20 bounds and evidence
+
+Part 20 begins exactly where Part 19 ends, in the upper portion of shared
+printed p. 267 / IA leaf 279 / PDF p. 279, at:
+
+`A presbyterorum suffragiis in Conciliis Provincialibus`
+
+It contains Calderwood's complete argument from presbyters' deciding votes and
+subscriptions in provincial and national synods to their judicial authority
+in local presbyteries. It retains the attributed passages from Field,
+Bilson, Dounamus, Marsilius of Padua, Jerome, and Chrysostom, the conciliar
+examples, and every visible marginal citation.
+
+Part 20 ends in the lower portion of printed p. 268 / IA leaf 280 / PDF p. 280
+at:
+
+`...nullam ne hic quidem iure divino esse differentiam inter Episcopum &
+Presbyterum evicimus.`
+
+The immediately following `Presbyteri, qui erant in puriore Ecclesia
+negotiorum & causarum iudices` begins the distinct treatment of the later
+exclusion of presbyters from common government and is excluded. This gives
+Part 20 two identical Latin and English source markers and two byte-identical
+marginalia records, p. 267 partial through p. 268 partial.
+
+The controlling access-PDF images for PDFs 279–280 were freshly rendered at
+240 dpi and inspected against both files. The access PDF and its OCR/scandata
+aids match the identity and hashes documented under Part 16. The IA OCR and
+1708 Leiden reset assisted reading only; the 1623 images governed wording,
+typography, quotations, citations, and both boundaries.
+
+- Latin: `parts/part-20-chapter-04-argument-06-presbyteral-votes-in-councils-latin.txt`
+- English: `parts/part-20-chapter-04-argument-06-presbyteral-votes-in-councils-english.md`
+
+### Part 21 bounds and evidence
+
+Part 21 begins exactly where Part 20 ends, in the lower portion of shared
+printed p. 268 / IA leaf 280 / PDF p. 280, at:
+
+`Presbyteri, qui erant in puriore Ecclesia negotiorum & causarum iudices`
+
+It contains Calderwood's complete account of presbyters' gradual exclusion
+from common government, his rebuttal of Bilson's and Dounamus's argument that
+synods and enacted canons made presbyteries unnecessary, and his extended
+proof that excommunication belonged to the authority and consent of the
+whole presbytery rather than to an individual bishop or parish minister. It
+retains the attributed quotations, the canon-law and conciliar evidence, all
+visible marginal citations, and Theophylact's Greek `ἐπὶ τῶν τῆς ἐκκλησίας
+προέδρων δημοσίευσον τὸ πλημμελές`.
+
+Part 21 ends in the upper portion of printed p. 275 / IA leaf 287 / PDF p. 287
+at Calderwood's explicit close:
+
+`Atque haec de potestate iurisdictionis.`
+
+The immediately following `Cum itaque presbytero competat utraque potestas &
+ordinis & iurisdictionis` begins the concluding synthesis from both powers and
+is excluded. This gives Part 21 eight identical Latin and English source
+markers, p. 268 partial through p. 275 partial, and eight byte-identical
+marginalia records. Printer-divided words at the p. 269/270, 270/271, and
+273/274 boundaries are joined, with each incoming marker placed before the
+complete Latin word and the corresponding English word or phrase.
+
+The controlling access-PDF images for PDFs 280–287 were freshly rendered at
+240 dpi and inspected page by page against both files, including a direct
+image check of the Greek and dense canon-law marginalia on PDFs 284–287. The
+access PDF and its OCR/scandata aids match the identity and hashes documented
+under Part 16. The IA OCR and 1708 Leiden reset assisted reading only; the
+1623 images governed wording, typography, quotations, citations, Greek,
+joins, and both boundaries.
+
+- Latin: `parts/part-21-chapter-04-argument-06-decline-of-presbyteries-and-excommunication-latin.txt`
+- English: `parts/part-21-chapter-04-argument-06-decline-of-presbyteries-and-excommunication-english.md`
+
+All twenty-one units remain **AI-assisted and unreviewed**. They require
+complete comparison by a qualified Latin editor before quotation or
+publication.
 
 ## Licensing
 

@@ -148,6 +148,21 @@ The next excluded heading is `QUAESTIO IX. Cur ad Josephum potius, quam ad
 Mariam Christi stemma referatur.` The boundary is question-complete and
 includes no body text from Question IX.
 
+## Part 10 boundary
+
+Part 10 resumes with the excluded Question IX heading in the remainder of
+printed p. 64 / PDF-IA leaf 402 / OCR object 401. It explains why both
+evangelists refer Christ’s genealogy to Joseph rather than naming Mary,
+develops the Jewish rules of tribal marriage and landed heiresses, and rejects
+claims of Mary’s Levitical descent together with several attempted particular
+reconstructions of Mary’s kinship to Joseph. It ends with Question IX within
+printed p. 68 / PDF-IA leaf 406 / OCR object 405 at `plura quam quisquam ante
+eum mortalium.`
+
+The next excluded heading is `QUAESTIO X. De tempore quo adorarunt Christum
+infantem Magi.` The boundary is question-complete and includes no body text
+from Question X.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -185,6 +200,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-08-shealtiel-and-zerubbabel-question-07-english.md`
 - `parts/part-09-josephs-two-fathers-question-08-latin.txt`
 - `parts/part-09-josephs-two-fathers-question-08-english.md`
+- `parts/part-10-joseph-rather-than-mary-question-09-latin.txt`
+- `parts/part-10-joseph-rather-than-mary-question-09-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -211,3 +228,6 @@ objects 392–396.
 The Part 09 pair contains six synchronized source markers, from the remainder
 of logical printed p. 59 through p. 64 / IA leaves-access-PDF pp. 397–402 / OCR
 objects 396–401.
+The Part 10 pair contains five synchronized source markers, from the remainder
+of logical printed p. 64 through p. 68 / IA leaves-access-PDF pp. 402–406 / OCR
+objects 401–405.

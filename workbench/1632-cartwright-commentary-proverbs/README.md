@@ -754,7 +754,39 @@ human review.
 - `parts/part-20-chapter-20h-latin.txt`
 - `parts/part-20-chapter-20h-english.md`
 
-The next unit begins with `V. 28. Benignitas, & veritas custodient Regem: &
-eadem benignitate sustentat solium suum.` in the left column of shared PDF
-452 / printed column 878; restart there, excluding the final verse 27 sentence
-above it. Its commentary continues into the right column / printed column 879.
+**Part 20i is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It concludes Chapter XX from `V. 28. Benignitas, & veritas
+custodient Regem: & eadem benignitate sustentat solium suum.` in the left
+column of shared PDF 452 / printed column 878 through the final prose of verse
+30 on PDF 455 / printed column 895. It stops immediately before the ruled
+`CAPUT XXI` and its `Vers. 1.` in that same right column. Latin and English
+have four byte-identical source markers (PDF 452–455; visible printed columns
+878–879, 880–881, 892–893, and 894–895) and retain all three verse lemmata,
+full prose, Hebrew, Greek, citations, both embedded English phrases, and
+printed irregularities. The complete files contain 1,798 Latin-file and 2,529
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 452–455, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-452 marker is intentional:
+Part 20h ends above `V. 28.`, while Part 20i begins with that lemma below it,
+so no verse 27 prose overlaps and none is omitted. The visible printed column
+sequence jumps directly from 881 on PDF 453 to 892 on PDF 454; the paired
+PDF-454 markers record this press anomaly rather than silently renumbering it.
+The final PDF-455 marker includes only the concluding prose of verse 30 above
+the rule; no `CAPUT XXI` or verse 1 material is imported. Page-turn catchwords
+`cum`, `electorum,`, and `cina,` were excluded rather than duplicated. The
+divided wording `cum δῶρα ἄδωρα`, `electorum`, and `medicina`, with its
+corresponding English wording, was assigned wholly to the receiving PDF-453,
+PDF-454, and PDF-455 markers. Witness forms including `artribuit`,
+`expliandis`, `humines`, `ab suam morositatem`, `Tumices`, `black, & blew`,
+and `Hebr. 12. 1.` were retained. This remains an AI-assisted working edition
+requiring qualified human review.
+
+- `parts/part-20-chapter-20i-latin.txt`
+- `parts/part-20-chapter-20i-english.md`
+
+The next unit begins with the ruled `CAPUT XXI` and `Vers. 1. Rivi aquarum
+sunt cor Regis in manu Domini; ad rem quamcunque libuerit inflectit illud.` in
+the right column of shared PDF 455 / printed column 895; restart at the rule,
+excluding the final Chapter XX sentence above it.

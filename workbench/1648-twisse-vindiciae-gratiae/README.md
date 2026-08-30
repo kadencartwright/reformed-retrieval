@@ -31,8 +31,8 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 [`bsb00009011`](https://www.digitale-sammlungen.de/en/details/bsb00009011).
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
-hOCR is only a navigation and collation aid. This first part was checked page
-by page against canvases 9–25.
+hOCR is only a navigation and collation aid. The completed sequence has been
+checked page by page against canvases 9–33.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -80,6 +80,10 @@ made here for the Latin transcription, witness images, or metadata.
   Twisse's reply on divine decrees, the fall, the mission of Christ, punishment,
   and the senses of *ordinare*; it ends in the top lines of p. 25 immediately
   before `SECTIO QUINTA NOTIO III`.
+- BSB canvas 33: Part 08 contains the complete `SECTIO QUINTA NOTIO III`, from
+  Perkins's proposition that God acts prudently through Twisse's reply on
+  action, permission, prudence, and divine production; it ends on p. 25
+  immediately before `SECTIO SEXTA NOTIO IV`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -88,7 +92,7 @@ made here for the Latin transcription, witness images, or metadata.
 The preliminary and body boundaries above were inspected in the continuous
 canvas sequence. Part 01 has seventeen synchronized printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–25. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–33. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -194,13 +198,25 @@ punishment, and the proper and extended senses of *ordinare*. It continues
 through the opening two lines of printed p. 25 / canvas 33 and ends immediately
 before the centered `SECTIO QUINTA NOTIO III`. The pair has four identical
 source markers; the p. 24–25 continuation `Jam` / `enim`, Greek
-`ἀκυρολογίας`, quotations, and substantive marginalia are retained. On the
-conservative global touched-canvas account, this unit occupies 4 of the
-edition's 816 canvases (approximately 0.49%), below the 1% stop.
+`ἀκυρολογίας`, quotations, and substantive marginalia are retained.
 
 - Latin: `parts/part-07-preface-section-04-notion-02-secondary-causes-latin.txt`
 - English: `parts/part-07-preface-section-04-notion-02-secondary-causes-english.md`
 
-The next untranslated unit begins with the centered `SECTIO QUINTA NOTIO III`
-on printed p. 25 / BSB canvas 33 and Perkins's proposition `Deum agere
-prudenter, id est adhibito certo fine`.
+**Part 08 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It contains the complete centered `SECTIO QUINTA NOTIO III` on
+printed p. 25 / BSB canvas 33, from Perkins's proposition `Deum agere
+prudenter, id est adhibito certo fine` through Arminius's linguistic cautions
+and Twisse's five-part reply on action and permission, prudence and wisdom,
+Perkins's phrasing, and the formal and material senses of evil. It ends after
+`Nota loquor`, immediately before the centered `SECTIO SEXTA NOTIO IV`. The
+pair has one identical source marker; no page-boundary join occurs, and the
+two substantive scholarly marginalia are retained.
+
+- Latin: `parts/part-08-preface-section-05-notion-03-divine-prudence-latin.txt`
+- English: `parts/part-08-preface-section-05-notion-03-divine-prudence-english.md`
+
+The next untranslated unit begins with the centered `SECTIO SEXTA NOTIO IV`
+on printed p. 25 / BSB canvas 33 and Perkins's proposition `Deum non mutari;
+& ea quae mutantur, certis & fixis omnibus circumstantiis non sine immutabili
+ipsius decreto mutari`.

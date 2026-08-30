@@ -544,7 +544,32 @@ an AI-assisted working edition requiring qualified human review.
 - `parts/part-19-chapter-19h-latin.txt`
 - `parts/part-19-chapter-19h-english.md`
 
-Chapter XX begins with `Vers. 1. Vinum est derisor, & potus inebrians
-tumultuator: ideò qui oberrat in eo, non sapiet.` in the right column of
-shared PDF 425 / printed column 825; restart there, below the chapter-ending
-rule and excluding all Chapter XIX text above it.
+**Part 20a is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It opens Chapter XX at `Vers. 1. Vinum est derisor, & potus
+inebrians tumultuator...` below the chapter-ending rule in the right column of
+shared PDF 425 / printed column 825 and continues through the final prose of
+verse 4 on PDF 429 / printed column 833. It stops immediately before `V. 5.`
+in that same right column. Latin and English have five byte-identical source
+markers (PDF 425–429; synchronized printed columns 824–825 through 832–833)
+and retain the chapter heading, all four verse lemmata, full prose, Hebrew,
+Greek, citations, the embedded English proverb, and printed irregularities.
+The complete files contain 2,063 Latin-file and 2,992 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 425–429, was inspected at original detail in both-column
+order. The shared PDF-425 marker is intentional: Part 19h ends above the
+chapter-ending rule, while Part 20a begins with `CAPUT XX.` below it, so no
+Chapter XIX prose overlaps and none is omitted. The shared PDF-429 marker
+includes only the concluding prose of verse 4 above `V. 5.`; no verse 5
+material is imported. Page-turn catchwords were excluded rather than
+duplicated, while witness forms including `Am.`, `tiranno`, the anomalous
+bracket before `nisi`, and `prospici` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-20-chapter-20a-latin.txt`
+- `parts/part-20-chapter-20a-english.md`
+
+The next unit begins with `V. 5. Aquae profundae sunt consilium in corde viri:
+sed vir intelligentiae exhauriet eas.` in the right column of shared PDF 429 /
+printed column 833; restart there, excluding all verse 4 text above it and the
+page-turn catchword `silium` below it.

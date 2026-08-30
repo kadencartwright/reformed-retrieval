@@ -594,6 +594,31 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-20-chapter-20b-latin.txt`
 - `parts/part-20-chapter-20b-english.md`
 
-The next unit begins with `V. 9. Quis dicat, mundavi cor meum? purus sum à
-peccato meo?` in the left column of shared PDF 434 / printed column 842;
-restart there, excluding the final verse 8 prose above it.
+**Part 20c is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XX from `V. 9. Quis dicat, mundavi cor
+meum? purus sum à peccato meo?` in the left column of shared PDF 434 / printed
+column 842 through the final prose of verse 12 on PDF 437 / printed column 849.
+It stops immediately before `V. 13.` in that same right column. Latin and
+English have four byte-identical source markers (PDF 434–437; synchronized
+printed columns 842–843 through 848–849) and retain all four verse lemmata,
+full prose, Hebrew, Greek, citations, the embedded English proverb, brackets,
+and printed irregularities. The complete files contain 1,793 Latin-file and
+2,520 English-file whitespace-delimited words, respectively, including
+headers and markers.
+
+Every core image, PDF 434–437, was inspected at original detail in both-column
+order. The shared PDF-434 marker is intentional: Part 20b ends above `V. 9.`,
+while Part 20c begins with that lemma below it, so no verse 8 prose overlaps
+and none is omitted. The final PDF-437 marker includes only the concluding
+prose of verse 12 above `V. 13.`; no verse 13 material is imported. Page-turn
+catchwords `Psal.`, `magis`, and `prae` were excluded rather than duplicated,
+while witness forms including `ὄνος ὄνον κνάπτει`, `regeniris`, `liberarum`,
+`Gen. 31. 19.`, and `Luc. 23.` were retained. This remains an AI-assisted working edition
+requiring qualified human review.
+
+- `parts/part-20-chapter-20c-latin.txt`
+- `parts/part-20-chapter-20c-english.md`
+
+The next unit begins with `V. 13. Ne diligas somnum, ne pauper fias: aperi
+oculos tuos, & satiator pane.` in the right column of shared PDF 437 / printed
+column 849; restart there, excluding the final verse 12 prose above it.

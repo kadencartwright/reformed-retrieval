@@ -78,6 +78,7 @@ same scan can legitimately close one part and open the next:
 | 33 | XXXIII | 179–184 | 135–140 | `Contextus Apostolici retexendi in manus resumptio`, `In CAP. I. ad EPHES. vers. 15. &c.`, and `Absoluto jam, Dei ope & gratiâ` through the resumption of Ephesians 1:15, the chapter’s division, Paul’s thanksgiving, faith in Christ and love toward the saints, and the comparison of their two offices to the hands of a person climbing Jacob’s ladder, ending `fascem perferendum ac sustinendum` before `Hinc jam secundo loco perpendendum venit Charitatis objectum` and Lecture XXXIV |
 | 34 | XXXIV | 184–187 | 140–143 | `Hinc jam secundo loco perpendendum venit Charitatis objectum` through the object and ordered degrees of Christian love, the transition from the causes of Paul’s thanksgiving to its manner, prayer and thanksgiving, their relation to spiritual joy, and the meaning of praying without ceasing, ending `tum etiam nos operaque nostra sanctificet` before `Atque ita partis hujus prioris membrum utrunque fuse declaravimus` and Lecture XXXV |
 | 35 | XXXV | 187–190 | 143–146 | `Atque ita partis hujus prioris membrum utrunque fuse declaravimus` through eight observations from Ephesians 1:15–16 on faith, charity, repentance, pastoral prayer, zeal, freedom from envy, and spiritual thanksgiving, ending with the doxology and `AMEN.` before `In VERS. 17. &c.` and Lecture XXXVI |
+| 36 | XXXVI | 190–195 | 146–151 | `In VERS. 17. &c.` and `Hucusque primum hujus partis membrum` through the synopsis of Ephesians 1:17–19 and the exposition of verse 17: the Spirit of wisdom, God as the God of Christ and Father of glory, revelation, and the acknowledgment of Christ, ending `Atque ita petitionis summam absolvimus hoc vers. 17.` before `Jam fusiorem ejusdem declarationem` and Lecture XXXVII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -151,7 +152,7 @@ English translation:
 | 32 | Scriptural objections and a recapitulation of the whole commonplace on predestination | [`part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-latin.txt) | [`part-32-praelection-32-scriptural-objections-and-recapitulation-english.md`](parts/part-32-praelection-32-scriptural-objections-and-recapitulation-english.md) |
 | 33 | Resumption of the apostolic context, faith in Christ, and love toward the saints | [`part-33-praelection-33-resumption-faith-and-charity-latin.txt`](parts/part-33-praelection-33-resumption-faith-and-charity-latin.txt) | [`part-33-praelection-33-resumption-faith-and-charity-english.md`](parts/part-33-praelection-33-resumption-faith-and-charity-english.md) |
 
-Lectures XXXIV–XXXV are continued directly below as synchronized README-only
+Lectures XXXIV–XXXVI are continued directly below as synchronized README-only
 pairs; no separate part files or source-audit artifacts have been created for
 them.
 
@@ -1314,8 +1315,7 @@ laudem omnem, honorem, gloriamque tribuimus in omne ævum. AMEN.
 
 [Marginalia: Membrum 2. de modo. 1. Τῶν ψυχικῶν. 2. Τῶν πνευματικῶν.]
 
-[Explicit Prælectio XXXV. The following `In VERS. 17. &c.`, `Prælectio
-XXXVI`, and exposition of Ephesians 1:17–19 are excluded.]
+[Explicit Prælectio XXXV.]
 
 ### English translation
 
@@ -1633,10 +1633,1081 @@ and glory forever. AMEN.
 [Marginalia: Second member, concerning the manner. 1. Of the unspiritual. 2.
 Of the spiritual.]
 
-[End of Lecture XXXV. The following `In VERS. 17. &c.`, Lecture XXXVI, and
-exposition of Ephesians 1:17–19 are excluded.]
+[End of Lecture XXXV.]
 
-The completed sequence now extends through Lecture XXXV. Its successive subjects
+## Lecture XXXVI: The Spirit of wisdom and revelation in the acknowledgment of Christ
+
+> **AI-assisted, unreviewed working transcription and translation.** The Latin
+> is a diplomatic-normalized transcription from the controlling BSB page
+> images, and the English is a fresh, full translation of that Latin, not a
+> summary. A qualified human editor must compare both with the facsimile before
+> quotation or publication.
+
+### Latin source transcription
+
+[BSB bsb11059161 | scan 190 | Caput I p. 146 (from Prælectio XXXVI opening)]
+
+In VERS. 17. &c.
+
+Ἵνα ὁ Θεὸς τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, &c.
+
+Prælectio XXXVI.
+
+Hucusque primum hujus partis membrum, Apostolici scilicet gaudium &
+gratulationem pro Ephesiis, tum à causis suis προκαταρκτικαῖς, auditâ
+nimirum ipsorum fide in Dominum Jesum Christum, & charitate erga omnes Sanctos,
+tum à modo suo, jugi scilicet gratiarum actione, & precibus pro ipsis erga
+Deum conceptis, declaratum audivimus. Sequitur nunc alterum ejusdem partis
+membrum, versibus tribus sequentibus precum ipsarum materiam & argumentum
+summatim complectens; dum petit, ut Deus Domini nostri Jesu Christi, officii
+scilicet, & assumptæ nostræ naturæ habitâ ratione, ille, inquam, Deus qui est
+Pater gloriosus, omnis gloriæ plenus, & fons ipsius Deitatis, det Ephesiis
+eorundem donorum, quæ jam ipsius gratuitâ bonitate consecuti sunt, perpetuum
+incrementum; Spiritum nempe Sapientiæ, & revelationis, h. e. donum illud
+sapientiæ cœlestis, per Spiritum Sanctum, qui ejus author est & effector in
+fidelium cordibus, idque per revelationem divinam, non autem per ingenium,
+judicium, aut rationem humanam, quæ sapientiam illam nunquam iis, aut cuiquam
+revelasset: quæ sapientia divina & salutaris, in Dei ipsius ac Domini nostri
+Jesu Christi, non cognitione tantum, sed & agnitione, per fidem scilicet,
+amorem, fiduciam, applicationem, animique submissionem, reverentiam & obsequium
+consistit: Revelantur autem fidelibus, dum à Spiritu Sancto mentes ipsorum
+illuminantur & aperiuntur, ut videant ad quæ, quantaque bona speranda, ab ipso
+vocati sunt, nempe ad gloriosas illas divitias hæreditatis illius, quæ sanctis
+omnibus in cœlis reservata est, & in quibus Deus glorificandis gratiæ suæ
+gloriosam planeque divinam opulentiam in vitâ illâ futurâ exserturus est. Quin
+imò non futura tantum illa, spe, fideque apprehendant, sed & horum ipsorum
+arrham atque primitias in seipsis aliisque fidelibus in hâc vitâ considerent,
+in excellenti nimirum illâ magnitudine potentiæ Dei, quam per Spiritum suum
+Sanctum, in fidelibus vivificandis, convertendis & renovandis, adeoque in Paulo
+ipso inter alios, tam potenter exercuit, secundum efficaciam fortis illius
+roboris, quod soli Deo cordium & animorum Creatori competere potest, ut
+scilicet ea, naturâ suâ tam cæca, dura, perversa, & à sese, ab Jesu Christo,
+h. e. à salute, à cœlis aversa, refringat atque reformet, ac totum hominem,
+qui nil nisi carnis & sanguinis massa erat fœdissima, & vitæ omnis inanissima,
+in aliam quandam, novam scilicet ac spiritualem creaturam transmutet. Hæc
+brevis est verborum & versiculorum trium sequentium explicatio. Quos facilioris
+doctrinæ memoriæque juvandæ gratiâ, ita distinguemus, ut eorum primo dicamus
+Apostolum petitionis suæ summam proponere; reliquis autem duobus eandem paulò
+distinctius & copiosius exponere, partes nimirum ejus præcipuas inducendo.
+
+[Marginalia: Prælectio XXXVI. Transitio. Verborum expositio κατὰ ἐπεξήγησιν. Versic. 1.
+Versic. 2. Versic. 3. Divisio sive distinctio horum trium versiculorum.]
+
+Ad summam rursus ipsam quod attinet, hæc est, unico verbo; petit ipsis Spiritum
+sapientiæ. Jam hoc sapientiæ donum, versiculo hoc 17. qui è tribus illis primus
+est, illustrat atque declarat, tum à causâ suâ efficiente primariâ ac
+principali, nempe Deo Patre, quem appellat Deum Domini nostri Jesu Christi, &
+Patrem Gloriæ; tum à modo, quo nobis confertur, vel per quem Deus nos hâc
+donat sapientiâ; dum Spiritum revelationis appellat. Tum denique brevi quâdam
+ejus definitione subjectâ, quæ præcipuum ejusdem objectum, & non rem tantum
+consideratam, sed & considerandi modum complectitur, duabus duntaxat vocibus,
+dum adjicit (*per agnitionem ipsius*) Sapientiam hanc innuens in Dei ipsius
+agnitione consistere. Atque hæc est versiculi hujus primi elucidatio; in quo tum
+petitionis Apostolicæ summam tanquam rem
+
+[Marginalia: Subdistinctio. Versic. 17. summa.]
+
+[BSB bsb11059161 | scan 191 | Caput I p. 147]
+
+substratam & subjectam habemus, tum ejusdem illustrationem trimembrem; nimirum
+à causâ efficiente, à modo, & à brevi definitione petitam. Quæ singula nobis
+ordine fuerint attingenda. Quamvis enim in Apostoli verbis primum occurrat
+causæ efficientis mentio, quia tamen res ipsa, quam Ephesiis à Deo precatur,
+est velut subjectum hoc in loco, ad quod illustrandum reliqua afferuntur,
+propterea tanquam θέμα aut propositum ipsum, ut à nonnullis appellatur, primo
+loco hic à nobis considerandum venit.
+
+Ac primum ad petitionem ipsam quod attinet, in eâ explicandâ non immorabimur;
+quia partim supra hâc eâdem de re dictum nobis in vers. 9. explicatione, partim
+infra ab Apostolo ipso explicatur: nam ut sapientiæ acceptiones à Philosophis
+usurpatas omittamus, & ea quæ hâc de re peti possunt ex *Aristotele* lib. 6.
+*Ethic. Nic.* ex quibus satis liquet sapientiam, etiam Ethnicorum judicio, τῶν
+τιμιωτάτων, h. e. rerum præstantissimarum ac divinissimarum scientiam, ac
+proinde πολυτελέστατόν τι χρῆμα καὶ κτῆμα, h. e. possessionem quandam
+præclarissimam, ac pretiosissimam habitam fuisse; in Scripturâ sacrâ, duplicem
+præsertim hujus vocis notionem reperimus: alia siquidem est sapientia illa
+ἀρχέτυπος & increata, quæ in Deo ipso est, immò est ipse Deus, ac divina
+essentia, Patri, Filio, Sanctoque Spiritui ex æquo communis, per quam nimirum
+ipse Deus sese suamque naturam & essentiam, & per sese opera sua omnia, immò
+quæcunque entis habent aut habere possunt rationem, uno simplici, æterno, &
+individuo mentis actu, perfectè cognoscit & intuetur. Verum quidem est, hoc
+nomen interdum, ut ita dicam, personaliter accipi, pro ipso Dei Filio æterno,
+qui Patris Sapientia dicitur, per quam ipse omnia creârit atque digesserit, ut
+ex *Proverbiorum* 8. illo capite manifestum est: Sed quum sapientia Deo in
+Scripturis attribuitur, prior illa, ut ita dicam, essentialis acceptio est
+usitatior atque frequentior, pro divino illo attributo, omnibus tribus personis
+Sacro-Sanctæ Trinitatis communi, quod ab ipsâ Dei essentiâ reipsâ differt.
+Verum hæc non est nostri instituti.
+
+[Marginalia: Spiritus sapientiæ. Sapientia duplex. Ἀρχέτυπος. Proverb. 8. per
+totum.]
+
+Alia est ἔκτυπος & creata sapientia, quam Deus per Filium suum creat ac
+producit in nobis, sive modo naturali & communi, sive speciali & gratioso, per
+verbum & voluntatem suam nobis in verbo expressam & revelatam: cujus sapientiæ
+nobis revelatæ, prior illa causa est atque principium. Quum enim Deus ipse
+naturâ suâ sit lux & sapientia infinitè perfecta; hinc fit ut sapientiæ & lucis
+omnis intelligibilis in nobis author sit, & ut λόγος ille æternus, æterna
+Patris Sapientia, quæ vera lux est, omnem hominem in hunc mundum venientem
+illuminat, ex quo illuminandi effectu longè mirissimo, hanc ipsius Dei naturam
+ac proprietatem, ut ita dicam, naturalem eleganter colligit Psaltes, Ps. 94.
+*Animadvertite* inquit, *O brutissimi in populo, & stultissimi quando
+intelligentes eritis? An plantator auris, an non audiat? An formator oculi, an
+non intueatur?* Idemque de mentis & intelligentiæ datore multò magis
+colligendum relinquit. Jam non de ἀρχετύπῳ illâ, sed de hâc sapientiâ ἐκτύπῳ
+nobis hîc sermo est cum Apostolo (nam distinctionem illam usitatam
+Theologis, in Theologiæ ipsius acceptionibus afferendis, nobis haud paulò
+videtur convenientius, huic Sapientiæ vocabulo accommodare) quæ quatenus in
+nobis est, meritò ἔκτυπος appellatur, quod sit obscura quædam imago Archetypæ
+illius, & increatæ quæ est in mente divinâ, immò potius tenuis quædam ejus
+umbra, eam in hujus vitæ statu admodum adhuc exiliter, & imperfectè
+repræsentans, sed in futuræ vitæ gloriâ eo perfectionis gradu exornanda, quæ
+in creaturam cadere, quam capere possit intellectus creatus & finitus.
+
+[Marginalia: Ἔκτυπος. Joan. 1:9. Ps. 94:8, 9.]
+
+Hoc porrò sapientiæ donum, quod Ephesiis comprecatur Apostolus, appellat
+Spiritum sapientiæ, h. e. donum ab ipso Dei Spiritu immediatè profectum, cujus
+ipse proximus author sit & effector in animis fidelium, à Patre & Filio, qui
+per Spiritum, ut omnia operantur & efficiunt, ita nominatim hâc donant
+sapientiâ spirituali & cœlesti, quicunque eâ præditi sunt.
+
+Hæc autem, inter alias acceptiones Spiritus quamplurimas passim in Scripturis
+obvias, valdè frequens est & usitata in iisdem phrasis, quâ multiplex Dei
+gratia, ac dona illa πολυποίκιλα nobis à Spiritu Sancto collata, Spiritus
+ipsius nomine designantur, adjectâ doni mentione, cujus author & effector est
+Spiritus; Sic v. g. *Heb.* 10. 29. dicitur Spiritus gratiæ, *Zach.* 12. 10.
+Spiritus gratiæ ac deprecationum, *Joh.* 14. 17. Spiritus veritatis, *Rom.* 1.
+4. Spiritus Sanctificationis, Spiritus Adoptionis, *Rom.* 8. 15. Spiritus
+Fidei, 2 *Cor.* 4. 13. Spiritus Lenitatis, *Gal.* 6. 1. Spiritus Roboris,
+Charitatis, & σωφρονισμοῦ, vel sanitatis animi: 2 *Tim.* 1. 7. Spiritus
+Sapientiæ, & Intelligentiæ, Spiritus Consilii & Potentiæ, Spiritus Scientiæ &
+Reverentiæ Jehovæ, *Jes.* 11. 2. & verbis sequentibus hoc ipso loco, Spiritus
+Revelationis.
+
+[Marginalia: Cur Spiritus Sapientiæ dicatur. Exemplorum inductio.]
+
+Quamvis fatear in plerisque citatis hîc testimoniis, non tam donum ipsum, quam
+Spiritum ipsum Dei, hujus aut illius doni authorem intelligendum esse, quod
+cuivis consideranti manifestum est: Spiritum, inquam, ipsum qui tertia est
+Sacro-Sanctæ Triados persona, non absolutè consideratum, sed relativè; h. e.
+sub tali efficientiâ, aut causatione, quatenus nimirum hujus aut illius doni
+causa & author est, quod ipsi in secundo casu attribuitur: v. g. quum promittit
+suis Discipulis Christus, se rogaturum Patrem, ipsumque alium illis Advocatum
+esse missurum; Spiritum nempe illum veritatis, quem mundus capere non possit;
+hoc de ipsâ Spiritus Sancti personâ intelligendum est: quem ita denominat,
+quod veritatis omnis author sit & dator in cordibus fidelium. Quando autem
+ipsam Spiritus Sancti personam, ut authorem; quando donum aut gratiam, ejus
+effectum, propriè Spiritus nomine intelligere debeamus in locis hujusmodi, in
+quibus horum alterutrum patet accipiendum esse, docebit nos contextûs ipsius
+Scripturæ sacræ seria & attenta consideratio: nam quædam loca sunt quæ nisi
+personæ convenire non possunt, v. g. cum *Heb.* 10. dicuntur Apostatæ
+contumeliâ afficere Spiritum gratiæ: Alia verò de personâ illâ gloriosâ
+intelligi non possunt, v. g. quod 1 *Cor.* 14. dicitur Spiritus Prophetarum
+Prophetis ipsis subjici, h. e. doctrinam ab ipsis propositam ac prædicatam.
+
+[Marginalia: Correctio. Comprobatio. Joan. 14. Heb. 10:26. 1 Cor. 14:32.]
+
+Ad locum verò, quem præ manibus habemus, quod attinet, quamvis de dono
+intelligi soleat, mihi tamen absurdi nihil aut incommodi videtur, datorem ipsum
+Spiritum intelligere, qui tum dicitur dari fidelibus, quum suam in iis
+efficaciam gratiosè exerit; ac variis adjectis Epithetis insignitur, pro
+donorum, quæ suâ efficaciâ in ipsis efficit, varietate: v. g. dicitur dari
+Spiritus fidei, quum mittitur in eorum corda ad exserendam suam efficaciam, per
+
+[Marginalia: Alia expositio.]
+
+[BSB bsb11059161 | scan 192 | Caput I p. 148]
+
+effectionem fidei; Spiritus sapientiæ dari, cum sapientiam producit; Spiritus
+revelationis, cum ipsis Dei voluntatem ex Scripturâ sacrâ revelat, &c.
+Emphatica sanè, & inprimis observanda phrasis, ad naturæ nostræ superbiam
+cæcamque arrogantiam, sive arrogantem cæcitatem, hoc ipso loquendi modo
+retundendam, ne sibi audeat quidquam ascribere eorum quæ à solo Dei Spiritu
+effici producique possunt; nec suis viribus, nec fidem, nec sapientiam, nec
+charitatem, aut ullam aliam virtutem salutarem attribuat. Jam quænam sit hæc
+sapientia, cujus naturæ, quâ ratione nos ejus fiamus compotes, & in quonam
+argumento versetur, quoniam è sequentibus ipsius Apostoli verbis infra patebit,
+nihil hîc ultra adjicimus; monentes tantum ejus magnificam inprimis
+descriptionem, è cap. 2. prioris ad *Cor.* peti posse, & ad hunc locum
+illustrandum transferri. Hanc igitur tanquam facem quandam ipsorum fidei
+præferri cupit & expetit, quâ tanquam simplici illo oculo totum vitæ & actionum
+quasi corpus illustretur, omnes tam fidei quam operum gressus intra veritatis &
+sanctitatis orbitam dirigantur.
+
+[Marginalia: Nota usum. 1 Cor. 2:6. Luc. 11:34.]
+
+Jam secundo loco videamus, à quonam ipsis hoc donum dari precatur: à Deo
+nimirum Patre cœlesti. Hunc autem duobus titulis epithetisve circumscribit.
+Primò, Deum Domini nostri Jesu Christi, deinde Patrem gloriæ indigitando.
+Quamvis enim suspicentur nonnulli aliquam in his verbis esse trajectionem, &
+vocabula Θεός ac Πατὴρ sedes locaque invicem commutâsse, (ut sanè negari non
+possit, quin hâc ratione longè usitatior fuerit oratio, si legamus, *Pater
+Domini nostri Jesu Christi, Deus gloriæ*, quemadmodum à Beato Stephano
+appellatur, *Act.* 7. sic apologiam suam exordiente:) Quia tamen in exemplaribus
+nullam hîc lectionis varietatem annotat oculatissimus Interpres, ideo nihil in
+verbis immutandum: præsertim quum hæc Dei Patris circumscriptio tum expresso
+Christi ipsius testimonio nitatur (ut mox patebit) tum utilissimam &
+consolationi nostræ summopere inservientem doctrinam contineat.
+
+[Marginalia: Causa efficiens principalis Deus Domini nostri Jesu Christi, &c.
+Act. 7:2.]
+
+Primùm enim dicitur Deus Pater, Deus esse Domini nostri Jesu Christi, triplici
+præsertim ratione. 1. Non respectu naturæ divinæ, secundum quam & Christus ipse
+Deus est Patri coæternus & coessentialis, ac proinde Deum habere non potest:
+sed ratione naturæ humanæ, quæ creatura est, ac proinde Deo tanquam creatori
+subjecta, cui nulla quantumvis gloriosa creatura comparari nedum æquari potest:
+deinde ratione officii Mediatoris, quod in illâ formâ servi, & Patris cœlestis
+legatus obivit ac præstitit, mundum Patri reconcilians. Sic enim Deum Patrem,
+etiam ut mittentem, se superiorem agnoscit, ipsique passim, tum operum suorum
+gloriam, tum doctrinæ jus & authoritatem vendicat & ascribit. Ac denique,
+speciali quâdam ratione Deus Christi dicitur, fœderis illius respectu, quo
+Christus hominum redimendorum gratiâ, ut homo comprehendi voluit: dicitur enim
+Deus eorum propriè Deus esse, quibuscum fœdus iniit, & quos ex fœdere pro suis
+agnoscit; cujus hæc est formula, *Ero Deus tuus, & Deus seminis tui.* Sic Deus
+dicitur Abrahami, Jahakobi, &c. quibuscum fœdus pepigerat. Jam hâc ratione
+meritò dicitur Deus Christi; quippe quum illud operum sive legale fœdus ad
+Christum peculiari modo pertineat, qui pro nobis illi sese subjecit, ac solus
+ejus conditionem nostri gratiâ, tam agendo, quam patiendo, implevit: fœdus autem
+gratiæ aliâ ratione ad Christum pertinet, nempe non ut ad partem contrahentem,
+non ut illi subjiciatur, ut fœderi operum obnoxius factus est, sed ut ad fœderis
+illius fundamentum & Mediatorem, ut ejus Conciliatorem & Interpretem, qui
+scilicet suâ morte fœderis illius pactionem sive initionem nobis à Deo
+promeritus sit & impetrârit.
+
+[Marginalia: Cur & quomodo Deus Christi. 1. 2. 3. Gen. 17:7.]
+
+Hinc rursus sequitur, alterius illius tituli nobiscum communicatio; quod
+nimirum Pater Domini nostri Jesu Christi, sit etiam Pater noster; quia nimirum
+Deus noster, etiam Deus Christi factus est, dum hic homo fieret pro nobis: nam
+alioqui profectò, nisi Deus noster, cui nos naturâ subjecti sumus ut creaturæ,
+factus fuisset etiam Deus Christi, dum ille frater noster fieret assumendo
+nostram naturam; nunquam futurum erat ut Pater ejus noster quoque Pater fieret.
+Jam igitur facta est illa nobis tam conducibilis permutatio, illa plena
+consolationis ἀντιμεταβολή, ut ipse homo factus nobiscum, eundem nobiscum
+Deum haberet, eum in finem, ut nos per ipsum adoptati, eundem secum Patrem
+haberemus; quam sortis communionem felicissimam, quâ ipse factus est filius
+hominis, ut nos Dei filios efficeret, ipse Christus, *Johan.* 20. post
+resurrectionem suam gloriosam, suavissimis illis verbis agnoscit & exprimit,
+dum hoc mandatum fratribus suis (ita enim discipulos suos appellare dignatur)
+perferendum dat Mariæ Magdalenæ, *Ascendo & ad Patrem meum, & ad Patrem
+vestrum, ad Deum meum, ac Deum vestrum*: quâ sententiâ profectò nulla unquam
+suavior & lætior, meo quidem judicio, in his terris audita est, nec audietur,
+usque ad illam vocem, *Venite benedicti*.
+
+[Marginalia: Corollarium de Patre. Johan. 20:17.]
+
+Alterum quo Deus Pater hîc ab Apostolo describitur epithetum est, Pater
+Gloriæ: quo Pater ille cœlestis à communi Patrum aliorum conditione
+distinguitur, ad ipsius divinam excellentiam & majestatem designandam: Nam
+sicut multi sunt Reges, sed unus tantum est Rex gloriæ, quem sic appellat
+Propheta, *Psal.* 24. Et multi domini, sed unus tantum dominus Gloriæ, &c. quem
+titulum domino Jesu Christo attribuit Apostolus, 1 *Cor.* 2. Ita etiam multi
+sunt Patres, sed unus tantum est Pater Gloriæ, h. e. summè gloriosus, & infinitâ
+naturæ suæ omniumque proprietatum vel attributorum divinorum excellentiâ
+supereminens, omniaque quæ à nobis concipi & cogitari possunt infinitâ
+præstantiâ & majestate transcendens. Dici potest autem, si subtilius &
+accuratius hoc Epithetum expendere velimus, Pater cœlestis esse Pater Gloriæ
+hâc quadruplici ratione. Primò, quod ipse naturâ suâ sit summè gloriosus, ubi
+Hebræorum idiotismum facile est agnoscere. Deinde, quod sit fons totius
+Deitatis cum omnibus ejus attributis gloriosis, in Filio ac Spiritu Sancto,
+quasi sit omnis gloriæ fons & principium in illis: nam & ipsa Deitas, Gloriæ
+nomine in Scripturis aliquando denotatur, ut *Joh.* 2. ubi dicitur Christus in
+primo illo miraculo gloriam suam manifestâsse. 3. Quia est prima causa & author
+omnis gloriæ rerumque gloriosarum & excellentium, sive in cœlis sive etiam in
+terrâ aliquid hoc nomine dignum inveniatur, præsertim verò gloriosæ illius
+conditionis beatorum, quæ propterea gloria cœlestis dicitur, in quam Electos
+tandem omnes introducturus est. Ac denique, quia illi debetur omnis gloria ab
+omni creaturâ cœlesti, terrestri, &
+
+[Marginalia: Pater gloriæ. Ps. 24:7. 1 Cor. 2:8. Ratio quadruplex. Joh. 2:11.]
+
+[BSB bsb11059161 | scan 193 | Caput I p. 149]
+
+subterraneâ. Hunc Christus ipse, opus illud redemptionis humanæ in hisce terris
+exsequens, perpetuò glorificavit: & hunc nos, cum sanctis Angelis & Electis
+omnibus, in æternum glorificabimus. Est ergo, ut hos quatuor modos sive rationes
+ἐντέχνως exprimam, Pater Gloriæ subjectivè, originaliter, effectivè, &
+objectivè, quemadmodum ex prædictis manifestum est. Hîc tamen ad primum
+sensum & rationem potissimum respexit Apostolus, ex Hebraismo in Scripturis
+usitatissimo; quo Deus roboris, Deus gloriæ, Deus misericordiæ, &c. dicitur,
+pro Potens, Gloriosus, & Misericors. Atque hæc de Causâ efficiente dixisse
+sufficiat.
+
+Videamus jam tertio loco, quo modo nobis detur illa salutaris Sapientia: quem
+exprimit & innuit Apostolus, dum appellat, Spiritum revelationis: quia nimirum
+solus est ipse Sanctus Dei Spiritus, qui tum hanc ipsam sapientiam, tum etiam
+ejus incrementa nobis largitur, ex Scripturæ sacræ revelatione; non autem ex
+naturæ nostræ, aut rationis naturalis acumine, non ex humanæ mentis industriâ,
+nullâ denique quantumvis diligenti & accuratâ judicii carnalis indagine, etsi
+omnibus Philosophorum Gentilium scriptis & scriniis instructissimi adjutique.
+Ratio à rebus huic Sapientiæ objectis peti potest, quas petere licet ex 1
+*Cor.* 2. Est enim de iis, *quæ Deus se diligentibus præparavit, quæ oculus non
+vidit, auris non audivit, quæque in mentem hominis non ascenderunt.* Quomodo
+igitur nos in eorum cognitionem venimus? *Sed Deus* (inquit) *ea nobis
+revelavit per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunditates
+Dei.*
+
+[Marginalia: Modus conferendi, per Spiritum revelationis. 1 Cor. 2:9.]
+
+Jam, Revelatio rursus hæc duobus modis accipitur, quemadmodum ea duobus modis
+fidelibus contingit. Primùm enim fit modo extraordinario, quomodo Apostolis &
+Evangelistis etiam plerisque facta est hæc revelatio: deinde etiam modo & medio
+ordinario, per Verbi auditum & prædicationem. Quem utrumque modum conjungit
+Apostolus, ut videtur 1 *Cor.* 14. Qui locus, ad clariorem hujus intellectum,
+hîc nobis obiter illustrandus fuerit: *Quod si nunc, fratres,* (inquit ibi
+Apostolus) *veniam ad vos linguis loquens, quid vos juvabo, nisi vobis loquar
+aut ex revelatione, aut ex notitia, vel prophetando vel docendo?* Ubi non sunt
+intelligenda quatuor dona diversa, aut quatuor mysteria divina cognoscendi
+rationes, sive quatuor partes doctrinæ divinitus revelatæ in illis quatuor
+Apostoli vocabulis: ἀποκαλύψει, γνώσει, προφητείᾳ, ac διδαχῇ: Sed
+potius Revelatio (quam ut hoc loco, ita & supra cap. 12. illius Epistolæ,
+Sapientiam appellârat, vel Sermonem sapientiæ) cum Prophetiâ conjungenda est,
+tanquam ad idem donum, idemque munus attinens: Notitia verò, quam supra eodem
+illo capite Sermonem notitiæ appellârat, cum Doctrinâ conjungenda est. Ita ut
+hîc duorum tantum donorum distinctorum fiat mentio, Doctrinæ scilicet &
+Prophetiæ, quæ ex illis duobus prioribus, tanquam duobus distinctis revelandi
+modis ut causis suis, oriantur atque dependeant, Prophetia nimirum ex
+revelatione, Doctrina verò ex cognitione. Ita ut Sapientia quidem, quæ est ex
+revelatione illâ extraordinariâ, Apostolis, Prophetis, & Evangelistis tribuatur,
+quibus nimirum competebat excellentior quædam & omni major exceptione
+mysteriorum Dei cognitio cum summâ authoritate conjuncta, & speciali Sancti
+Spiritus afflatu, nec tantum Scripturam sacram intelligendi & interpretandi,
+sed & eandem rebus, personis, temporibus, pro re natâ, ac diversis occasionibus
+ac circumstantiis applicandi, donum quoddam extraordinarium (quod Prophetarum
+proprium erat officium) Idque monendo, minando, hortando, dehortando,
+consolando, consulendo, &c. prout res, locus, persona, aut occasio postularet.
+
+[Marginalia: Revelationis distinctio. 1 Cor. 14:6. Explicatio. 1 Cor. 12:8.
+Applicatio distributiva è subjectis.]
+
+Doctrina verò, quæ est mysteriorum eorundem cognitio, ex Scripturæ sacræ
+auditu, lectione, studio, meditatione, precibus, & experientiâ comparata, ac
+proinde quidem modo ordinario, nempe nostrâ operâ, studio & diligentiâ, verùm
+Dei arcanâ benedictione ac dono gratuito, Doctoribus & Pastoribus ordinariâ
+vocatione in Ecclesiâ fungentibus tribuatur, quibus non exponendi tantum &
+enarrandi, sed & Scripturas applicandi & ad praxin usumque vitæ Christianæ
+revocandi munus incumbit, verùm non cum eâ doni excellentiâ & mensurâ
+extraordinariâ quæ Apostolis, Prophetis, & Evangelistis competebat. Atque ita
+videtur locis illis prædictis prioris ad *Cor.* Revelationem, & ex eâ
+Sapientiam, ἀπὸ τῆς γνώσεως, & eo quod inde sequitur doctrinæ dono
+distinguere, quod illud fuerit donum extraordinarium, & functiones
+extraordinarias in Ecclesiâ exercentibus datum; hoc verò ordinarium, & personis
+in Ecclesiâ perpetuò duraturum munus exercentibus attributum.
+
+[Marginalia: Doctrina ex cognitione. Conclusio explicationis.]
+
+Quamvis hoc in loco quem habemus præ manibus, Revelationis & Sapientiæ nomen
+ac donum generalius usurpet: Ita scilicet ut etiam ad reliquos fideles
+extendatur, & cognitionem rerum salutarium ac cœlestium, etiam ordinario modo
+medioque, nempe è Scripturæ sacræ auditu & prædicatione perceptam comprehendat:
+verùm cum hoc discrimine, quod hunc in locum annotat exactissimus Interpres:
+quod nimirum Revelationis & Sapientiæ nomen, hoc loco, αὔξησίν quandam
+importent & emphasin haud vulgarem habeant, quâ significetur non quælibet
+mediocris, sed uber, & ampla, eximiaque rerum illarum cognitio quæ à
+Christianis omnibus ad salutem cognoscendæ sunt: Deo nimirum secretâ sui
+Spiritus efficaciâ, mediis & illis etiam ordinariis abundè benedicente.
+
+[Marginalia: Correctio. Beza.]
+
+Quum enim variis modis & instrumentis utatur Deus, ac jam olim usus sit etiam
+ante lapsum, ad hanc nobis indendam sapientiam (v. g. tum pulcherrimum illum
+hujus mundanæ fabricæ librum majusculis literis exaratum & exornatum nobis
+aperiendo, tum oculum animi illustrando, cui sui ipsius cognitionem, & operum
+suorum suæque voluntatis notitiam primitus insculpsit, secundum quam tanquam
+normam vita nobis piè & rectè transigenda erat, quamque propterea naturæ legem
+appellat Apostolus, à lege scriptâ nequaquam reapse differentem; ac præterea
+verbi sui ac voluntatis voce suâ revelatæ velut amussim exactissimam insuper
+adjiciendo: Quo verbi medio, etiam post lapsum, homini quantumvis indigno non
+destitit se patefacere, & primum legis justitiæque suæ ex lege notitiam in
+hominum animis instaurare, illam tantum non extinctam facem rursus accendere,
+deinde & salutarem gratiæ suæ Evangelicæ cognitionem insuper adjicere)
+Quocunque sive operum naturæ, sive verbi aut voce aut scripto traditi medio
+organoque utatur, frustra nobis omnia adhibeantur, nisi Spiritu suo nos intus
+doceat efficaciter, nisi Spiritus Sanctus operatione suâ revelet etiam ea quæ
+in verbo jam revelata & patefacta sunt, nobis cæcis &
+
+[Marginalia: Ratio à causis instrumentalibus.]
+
+[BSB bsb11059161 | scan 194 | Caput I p. 150]
+
+stupidis manebunt semper involuta in mysterio: Quare donum hoc sapientiæ, h. e.
+uberis & eximiæ cognitionis mysteriorum cœlestium, meritò petit hîc Apostolus
+Ephesiis dari, à docente & revelante Spiritu Sancto, immediato doni hujus
+authore.
+
+Jam videamus quarto ac postremo loco, brevem, ac brevitate ipsâ notabilem
+Sapientiæ hujus definitionem, quum subjicit Apostolus (ἐν ἐπιγνώσει αὐτοῦ) *In
+agnitione* vel *per agnitionem ipsius*, nempe Christi cujus proximè facta
+mentio, & ex quo agnito omnem divinam sapientiam haurimus, ut interpretatur
+Beza; vel, ut nonnulli, in agnitione sui ipsius; nempe Dei Patris gloriæ, à quo
+donum hoc precatur: sed priorem illam D. Bezæ relationem præferimus, quia
+Christi agnitio, Dei Patris cognitionem actu in semet includit ac præsupponit
+necessariò, & quo quis Christum clarius agnoscit, eo magis proficit in hâc
+divinâ sapientiâ, & mysteriorum salutarium peritior est.
+
+[Marginalia: Definitio sapientiæ hujus per agnitionem Dei.]
+
+Rursus ad præpositionem hanc quod attinet, trifariam accipi & exponi potest,
+non magno quidem, sed tamen aliquo discrimine, quod non inutile fuerit
+observâsse. 1. (*per agnitionem Christi*) ita ut denotetur modus, quo Spiritus
+Sanctus nobis revelat illam sapientiam, nempe per agnitionem Christi ipsius, in
+quo ut inquit alias, *Col.* 2. *reconditi sunt omnes Sapientiæ & cognitionis
+thesauri*: adeo ut Christum rectè agnoscere, nos deducat in Sapientiæ cœlestis
+thesauros. 2. (*In agnitione Christi*) ita ut hâc particulâ significetur
+sapientiæ illius objectum, immò & ipsa ejus natura, h. e. tam materia quam
+forma, ut loquuntur; tam res cognita, quam eam cognoscendi modus: consistit
+enim illa sapientia, non in rerum humanarum, aut creaturarum notitiâ, non in
+rerum naturalium, aut Physicè & ἐκ προσθέσεως, aut Mathematicè & ἐξ
+ἀφαιρέσεως consideratarum, non denique in rerum politicarum, moralium,
+domesticarum, artificialium cognitione, immò ne in Dei quidem & Christi ipsius
+quacunque cognitione, sed in eâ, quæ per fidem, & amorem, & obedientiam,
+Christi ac Dei in Christo agnitione: atque ita nos libenter hanc particulam
+accipimus & interpretamur; Ita ut sit sapientiæ illius definitio quædam. 3.
+Denique sunt qui & Præpositionem ἀντὶ τοῦ (εἰς) accipiunt, Enallage satis
+Apostolo nostro usitata: ita ut hæc particula declaret in quem usum inserviat
+illa Sapientia & revelatio; nempe ad hoc ut in Dei & Christi cognitione magis
+indies magisque proficiamus: sed nos mediam illam expositionem sequemur:
+dicendo Sapientiam illam à Dei Spiritu fidelibus revelatam, esse ipsissimam
+Jesu Christi, ac Dei Patris qui Christum misit, agnitionem: siquidem profitetur
+Apostolus, 1 *Cor.* 2. Non statuisse se scire quidquam inter ipsos, nisi Jesum
+Christum eumque crucifixum.
+
+[Marginalia: Ἐν trifariam exponitur. 1. Col. 2:3. 2. 3. 1 Cor. 2:2.]
+
+Porrò quamvis τῆς ἐπιγνώσεως vocabulum sæpe soleat cum ipsâ γνώσει sive
+cognitione confundi, ac pro eodem accipi, tamen hoc in loco discrimen aliquod
+inter ea ponere operæ pretium fuerit. Primum enim cognoscimus anteà ignotos,
+agnoscimus autem anteà notos: deinde etiam exteros aut alienos cognoscimus;
+agnoscimus autem nostros, puta propinquos, amicos, aut aliâ quavis ratione ad
+nos attinentes, aut etiam ad quos nos attinemus ipsi; puta Herum, Dominum,
+Patrem, Regem, &c. Ac denique cognoscimus etiam eos quos negligimus, aversamur,
+ac rejicimus; agnoscimus autem eos propriè, quos ut par est amplectimur &
+approbamus, quos eo honore, obsequio, & observantiâ prosequimur, quam par est
+illi exhibere, quem agnoscere dicimur, quamque illi ex officio debemus: v. g.
+dicitur uxor virum suum, aut famulus Dominum agnoscere, quum illi eam defert,
+ex cognitione quam ejus habet, reverentiam, amorem, cultum, & obsequium, quæ
+famulum Domino, uxorem conjugi exhibere convenit.
+
+[Marginalia: Ἐπίγνωσις. Quid ἀπὸ τῆς γνώσεως differat.]
+
+Quare ut ipsa hæc præpositio nomini huic adjecta indicat, ἡ ἐπίγνωσις τῇ
+γνώσει, agnitio, inquam, cognitioni debiti officii præstationem superaddit,
+ejus personæ convenienter, quæ tum agnoscere, tum agnosci dicitur. Ac proinde
+Christum agnoscere, est eum ex Evangelio cognitum, debitâ reverentiâ, amore,
+obedientiâ, animique submissione amplecti, h. e. fide illum recipere; fiduciâ
+in ipsum recumbere, amore summo in ipsum ferri, & mandatis ejus obsequendi
+summo studio affectuque teneri, illum denique habere ut Dominum, Regem, Caput,
+Redemptorem, Servatorem, Advocatum, ac Patronum unicum, qui nobis à Deo Patre
+factus sit Sapientia, Justitia, Sanctificatio, & Redemptio.
+
+[Marginalia: Nominis notatio. Accommodatio ad institutum.]
+
+Unde (quod hoc loco refert Hieronymus, ex aliorum quidem sententiâ, sed nullâ
+falsi aut erronei dogmatis additâ refutatione) Animas nondum corporibus
+conjunctas Deum quidem Patrem in Cœlestibus cognovisse, postea verò in corpora
+dejectas, ac Dei Patris oblitas, eum rursus ex Revelatione Spiritus Sancti
+agnoscere: Juxta illud; *Reminiscentur, & convertentur ad Dominum omnes fines
+terræ*; ut ita scilicet Platonica illa Reminiscentia invehatur; Impium est
+ineptumque commentum, ab Apostoli nostri mente & scopo hoc in loco toto cœlo
+discrepans & aberrans; qui vult hanc esse veram sapientiam, quam habemus ex
+revelatione Sancti Spiritus, ut Christum nobis ex Evangelio cognitum non tantum
+semel fide amplectamur, sed & in eo indies agnoscendo, h. e. & cognoscendo, &
+cognitum amando, colendo, reverendo; magis magisque per omnem vitam proficiamus.
+
+[Marginalia: Hieronymus.]
+
+Ex quibus jam patet, ni fallor, optimo jure cognitionem hujusmodi Sapientiam ab
+Apostolo nominari, qui præstantissimus est cognitionis gradus: nam si omnis
+rerum honestarum utiliumve cognitio magni facienda sit, ut hominem Belluarum
+sorti eximens, & ad Dei ipsius imaginem & similitudinem quandam extollens; Adeo
+ut vel Dei operum & creaturarum rudis licet & imperfecta cognitio Ethnicorum
+ipsorum aliquos ultra sortem & conditionem humanam, apud populares posterosque
+suos, nobilitârit, apud quos pro diis totidem, sive divinis hominibus habiti
+cultique fuerint. Quid quæso dicendum de ipsius Dei cognitione, eâque non
+quâcunque, sed quæ ex Spiritus Sancti revelatione manavit, quæ cum fide &
+amore conjuncta est? Quid de Christi Jesu agnitione statuendum aut sentiendum
+fuerit, nisi hanc veram & summam esse sapientiam, immò summam hominis
+perfectionem & beatitudinem; & ut uno verbo Dominus ipse *Joan.* 17. expressit,
+hanc esse vitam æternam? Cujus absentia, homines, quantumvis sibi felices
+videantur, verè miseros & expes, etiam in mediis purpuris ac triumphis,
+præsentia verò, vel afflictissimum quemvis homuncionem, in ipso mortis limine &
+umbrâ versantem, beatum nihilominus & spei, consolationis, & fiduciæ plenum
+reddit.
+
+[Marginalia: Corollarium. Argumentum ab eo quod minus. Joan. 17:3.]
+
+[BSB bsb11059161 | scan 195 | Caput I p. 151 (through Prælectio XXXVI close)]
+
+Atque ita petitionis summam absolvimus hoc vers. 17.
+
+[Explicit Prælectio XXXVI. The following `Jam fusiorem ejusdem declarationem`,
+`Prælectio XXXVII`, and exposition of Ephesians 1:18–19 are excluded.]
+
+### English translation
+
+[BSB bsb11059161 | scan 190 | Caput I p. 146 (from Prælectio XXXVI opening)]
+
+On VERSE 17 and following.
+
+That the God of our Lord Jesus Christ, and so forth.
+
+Lecture XXXVI.
+
+Thus far we have heard the first member of this part explained, namely the
+apostle’s joy and congratulation on behalf of the Ephesians: first from its
+antecedent causes, namely their reported faith in the Lord Jesus Christ and
+charity toward all the saints, and then from its manner, namely his continual
+thanksgiving and prayers conceived before God for them. There now follows the
+other member of the same part. In the next three verses it summarily embraces
+the matter and subject of those prayers. Paul petitions that the God of our
+Lord Jesus Christ—that is, with respect to Christ’s office and the human nature
+he assumed—the God, I say, who is the glorious Father, full of all glory and
+the fountain of the Godhead itself, may grant the Ephesians continual growth
+in the gifts which they have already obtained by his gratuitous goodness. He
+asks for the Spirit of wisdom and revelation: that is, that gift of heavenly
+wisdom through the Holy Spirit, who is its author and effectual producer in
+the hearts of believers, and that through divine revelation rather than
+through human talent, judgment, or reason, which could never have revealed
+that wisdom either to them or to anyone else. This divine and saving wisdom
+consists not only in the knowledge of God himself and our Lord Jesus Christ
+but also in acknowledging them through faith, love, trust, personal
+appropriation, submission of the soul, reverence, and obedience.
+
+These things are revealed to believers when their minds are illuminated and
+opened by the Holy Spirit, so that they may see the goods for which they have
+been called by him to hope and how great those goods are: namely, those
+glorious riches of his inheritance which are reserved in heaven for all the
+saints and in the glorification of which God will display in the life to come
+the glorious and wholly divine abundance of his grace. Indeed, he petitions
+that they may not only apprehend those future things by hope and faith but may
+also consider within themselves and other believers in this life their
+earnest and firstfruits. These consist in that surpassing greatness of God’s
+power which he has exercised so powerfully through his Holy Spirit in
+vivifying, converting, and renewing believers—and Paul himself among
+others—according to the efficacy of that mighty strength which can belong
+only to God, the Creator of hearts and souls. By it he breaks and reforms
+souls that by their nature are so blind, hard, and perverse, turned away from
+themselves and from Jesus Christ—that is, from salvation and heaven—and
+transforms the whole person, formerly nothing but a most foul mass of flesh
+and blood utterly empty of all life, into a different, new, and spiritual
+creature. This is a brief explanation of the three following verses. To make
+the doctrine easier and to assist the memory, we will distinguish them as
+follows: in the first the apostle proposes the sum of his petition, while in
+the other two he expounds it a little more distinctly and fully by introducing
+its principal parts.
+
+[Marginalia: Lecture XXXVI. Transition. Exposition of the words by way of
+explanation. Verse 1. Verse 2. Verse 3. Division or distinction of these three
+verses.]
+
+As for the sum itself, it is this in a single phrase: he petitions for the
+Spirit of wisdom for them. In this seventeenth verse, the first of those
+three, he illustrates and explains this gift of wisdom, first from its primary
+and principal efficient cause, God the Father, whom he calls the God of our
+Lord Jesus Christ and the Father of glory; then from the manner in which it is
+conferred upon us, or the one through whom God endows us with this wisdom,
+when he calls him the Spirit of revelation; and finally by adding a brief
+definition of it. In only two words that definition comprehends its principal
+object and not only the thing considered but also the manner of considering
+it, when he adds, “through the acknowledgment of him,” thereby indicating that
+this wisdom consists in the acknowledgment of God himself. This, then, is the
+elucidation of this first verse. In it we have both the sum of the apostolic
+petition as its underlying
+
+[Marginalia: Subdivision. The sum of verse 17.]
+
+[BSB bsb11059161 | scan 191 | Caput I p. 147]
+
+subject matter and a three-membered illustration of it, drawn from its
+efficient cause, its manner, and a brief definition. We must touch upon each
+of these in order. Although the mention of the efficient cause occurs first
+in the apostle’s words, the thing itself which he petitions God to give the
+Ephesians is like the subject in this passage, to the illustration of which
+the other things are brought. It therefore comes to be considered first by
+us as the *theme*, or the proposition itself, as some call it.
+
+First, as for the petition itself, we will not linger over its explanation,
+because we have in part spoken above about this same matter in expounding
+verse 9, and in part the apostle himself explains it below. Let us omit the
+senses of wisdom employed by philosophers and the things which may be drawn
+on this subject from Aristotle’s *Nicomachean Ethics*, book 6. From these it is
+sufficiently evident that even in the judgment of the pagans wisdom was
+regarded as the knowledge of the most excellent and divine things, and thus
+as an exceptionally splendid and precious possession. In Holy Scripture we
+find two principal meanings of this word. One is that archetypal and uncreated
+wisdom which is in God himself—indeed, which is God himself and the divine
+essence, common equally to the Father, Son, and Holy Spirit. Through it God
+perfectly knows and beholds himself, his nature and essence, all his works
+through himself, and indeed everything which possesses or can possess being,
+in one simple, eternal, and undivided act of mind. It is true that this name
+is sometimes taken personally, so to speak, for the eternal Son of God
+himself, who is called the Father’s Wisdom, through whom he created and ordered
+all things, as is manifest from the whole of Proverbs 8. But when wisdom is
+attributed to God in the Scriptures, that former, so to speak, essential
+sense is more customary and frequent, referring to that divine attribute
+common to all three persons of the most holy Trinity which differs in reality
+from the very essence of God. But this is not part of our present purpose.
+
+[Marginalia: The Spirit of wisdom. Wisdom twofold. Archetypal. The whole of
+Proverbs 8.]
+
+The other is ectypal and created wisdom, which God creates and produces in us
+through his Son, whether in a natural and common manner or in a special and
+gracious manner through his word and his will expressed and revealed to us in
+that word. The former wisdom is the cause and principle of this wisdom
+revealed to us. For since God himself by nature is light and infinitely
+perfect wisdom, it follows that he is the author in us of all intelligible
+wisdom and light. It also follows that the eternal Word, the eternal Wisdom
+of the Father who is the true light, illuminates everyone coming into this
+world. From this most marvelous effect of illumination the psalmist elegantly
+infers this natural property, so to speak, of God’s own nature in Psalm 94:
+“Take heed, O most brutish among the people; and you fools, when will you
+understand? Shall the one who planted the ear not hear? Shall the one who
+formed the eye not behold?” He leaves it to us to infer the same much more
+forcefully about the giver of mind and understanding.
+
+Our discussion with the apostle here concerns not that archetypal wisdom but
+this ectypal wisdom. For it seems to us far more fitting to apply to this word
+*wisdom* the distinction which theologians customarily advance when setting
+forth the senses of theology itself. Insofar as this wisdom is in us, it is
+rightly called ectypal, because it is a faint image of that Archetype and
+uncreated wisdom which is in the divine mind—indeed, it is rather a thin
+shadow of it. In the state of this life it still represents that wisdom very
+slightly and imperfectly, but in the glory of the life to come it will be
+adorned with as great a degree of perfection as can fall to a creature and as
+a created and finite understanding can receive.
+
+[Marginalia: Ectypal. John 1:9. Psalm 94:8–9.]
+
+The apostle calls this gift of wisdom for which he prays on behalf of the
+Ephesians the Spirit of wisdom—that is, a gift proceeding immediately from
+the Spirit of God himself, who is its proximate author and producer in the
+souls of believers. It comes from the Father and the Son, who, just as they
+work and effect all things through the Spirit, so in particular endow with
+this spiritual and heavenly wisdom everyone who possesses it.
+
+Among the very many meanings of *Spirit* occurring everywhere in Scripture,
+this phrase is very frequent and customary there. By it the manifold grace of
+God and those richly varied gifts bestowed upon us by the Holy Spirit are
+designated by the name of the Spirit himself, with the gift of which the
+Spirit is the author and producer being added. Thus, for example, he is called
+the Spirit of grace in Hebrews 10:29; the Spirit of grace and supplications in
+Zechariah 12:10; the Spirit of truth in John 14:17; the Spirit of
+sanctification in Romans 1:4; the Spirit of adoption in Romans 8:15; the
+Spirit of faith in 2 Corinthians 4:13; the Spirit of gentleness in Galatians
+6:1; the Spirit of power, charity, and soundness of mind in 2 Timothy 1:7;
+and the Spirit of wisdom and understanding, the Spirit of counsel and power,
+and the Spirit of knowledge and reverence for Jehovah in Isaiah 11:2. In the
+words which follow in this very passage he is called the Spirit of revelation.
+
+[Marginalia: Why he is called the Spirit of wisdom. Induction of examples.]
+
+I grant that in most of the testimonies cited here it is not so much the gift
+itself as the Spirit of God himself, the author of this or that gift, who must
+be understood, as is manifest to anyone who considers them. I mean the Spirit
+himself, who is the third person of the most holy Trinity, considered not
+absolutely but relatively—that is, under such an efficiency or causation,
+insofar as he is the cause and author of this or that gift which is attributed
+to him in the genitive case. Thus, for example, when Christ promises his
+disciples that he will ask the Father and that the Father will send them
+another Advocate, namely that Spirit of truth whom the world cannot receive,
+this must be understood of the person of the Holy Spirit himself. He is so
+named because he is the author and giver of all truth in the hearts of
+believers.
+
+In passages of this sort, where it is clear that one or the other is to be
+understood, a serious and attentive consideration of the context of Holy
+Scripture itself will teach us when we ought properly to understand by the
+name *Spirit* the person of the Holy Spirit himself as author, and when the
+gift or grace which is his effect. For some passages can apply only to the
+person: for example, when the apostates in Hebrews 10 are said to treat the
+Spirit of grace with contempt. Other passages cannot be understood of that
+glorious person: for example, when 1 Corinthians 14 says that the spirits of
+the prophets are subject to the prophets themselves—that is, the doctrine
+which they propose and preach.
+
+[Marginalia: Qualification. Confirmation. John 14. Hebrews 10:26. 1
+Corinthians 14:32.]
+
+As for the passage now before us, although it is usually understood of the
+gift, it seems to me neither absurd nor unsuitable to understand the giver,
+the Spirit himself. He is said to be given to believers when he graciously
+exerts his efficacy in them, and he is distinguished by various added
+epithets according to the variety of gifts which he produces in them by his
+efficacy. For example, the Spirit of faith is said to be given when he is sent
+into their hearts to exert his efficacy through the
+
+[Marginalia: Another exposition.]
+
+[BSB bsb11059161 | scan 192 | Caput I p. 148]
+
+production of faith; the Spirit of wisdom is given when he produces wisdom;
+and the Spirit of revelation when he reveals God’s will to them from Holy
+Scripture, and so forth. This is assuredly an emphatic phrase and especially
+worthy of observation. This very manner of speaking beats back the pride and
+blind arrogance of our nature—or its arrogant blindness—so that it may not
+dare to ascribe to itself anything which can be effected and produced by the
+Spirit of God alone, nor attribute faith, wisdom, charity, or any other saving
+virtue to its own powers. Since it will be evident below from the apostle’s
+following words what this wisdom is, what its nature is, how we become
+possessors of it, and what subject it concerns, we add nothing further here.
+We merely point out that its magnificent description can especially be drawn
+from chapter 2 of 1 Corinthians and transferred to the illustration of this
+passage. The apostle thus desires and petitions that it be carried before
+their faith like a torch, so that through it, as through that single eye, the
+whole body, so to speak, of life and actions may be illuminated, and all the
+steps of both faith and works may be directed within the path of truth and
+holiness.
+
+[Marginalia: Note the use. 1 Corinthians 2:6. Luke 11:34.]
+
+Let us now see, in the second place, from whom he prays that this gift may be
+given to them: namely, from God the heavenly Father. He describes him by two
+titles or epithets. First, he designates him as the God of our Lord Jesus
+Christ, and then as the Father of glory. Some suspect that there is a
+transposition in these words and that the words *God* and *Father* have
+exchanged their positions. It certainly cannot be denied that the expression
+would be far more customary if we were to read, “the Father of our Lord Jesus
+Christ, the God of glory,” just as he is called by blessed Stephen when
+beginning his defense in Acts 7. Yet because the most sharp-sighted
+interpreter notes no variant reading here in the manuscripts, nothing should
+be altered in the words. This is especially so because this description of
+God the Father both rests upon Christ’s own express testimony, as will soon
+appear, and contains teaching of the greatest usefulness and service to our
+consolation.
+
+[Marginalia: The principal efficient cause: the God of our Lord Jesus Christ,
+and so forth. Acts 7:2.]
+
+God the Father is said to be the God of our Lord Jesus Christ principally for
+three reasons. First, this is not with respect to the divine nature, according
+to which Christ himself is God, coeternal and coessential with the Father,
+and therefore cannot have a God. It is instead by reason of his human nature,
+which is a creature and therefore subject to God as Creator, with whom no
+creature, however glorious, can be compared, much less equated. Second, it is
+by reason of the office of mediator, which he discharged and fulfilled in
+that form of a servant and as the heavenly Father’s ambassador, reconciling
+the world to the Father. Thus he acknowledges God the Father, even as the one
+who sends him, to be superior to himself, and everywhere claims and ascribes
+to him both the glory of his works and the right and authority of his
+teaching.
+
+Finally, God is called the God of Christ for a special reason in respect of
+that covenant in which Christ, for the sake of redeeming humanity, willed to
+be comprehended as man. For God is properly said to be the God of those with
+whom he has entered into covenant and whom by covenant he acknowledges as his
+own. Its formula is this: “I will be your God and the God of your seed.” Thus
+he is called the God of Abraham, Jacob, and the rest, with whom he had made a
+covenant. For this reason, then, he is rightly called the God of Christ,
+because the covenant of works, or legal covenant, pertains to Christ in a
+peculiar way. On our behalf Christ subjected himself to it and alone fulfilled
+its condition for our sake, both by acting and by suffering. The covenant of
+grace, however, pertains to Christ in another way: not as to a contracting
+party and not as though he were subjected to it, as he was made subject to
+the covenant of works, but as to its foundation and mediator, its reconciler
+and interpreter, who by his death earned and obtained from God for us the
+compact or establishment of that covenant.
+
+[Marginalia: Why and how God is the God of Christ. 1. 2. 3. Genesis 17:7.]
+
+From this there follows in turn our participation in the other title: the
+Father of our Lord Jesus Christ is also our Father, because our God also
+became the God of Christ when Christ became man for us. Otherwise, if our
+God—to whom we are subject by nature as creatures—had not also become the God
+of Christ when Christ became our brother by assuming our nature, his Father
+would never have become our Father too. Thus there has been made for us that
+most advantageous exchange, that change of places full of consolation: he
+became man with us and had the same God as we do, to this end, that we, being
+adopted through him, might have the same Father as he does. Christ himself,
+after his glorious resurrection, acknowledges and expresses in those sweetest
+words in John 20 this most blessed sharing of condition—that he became the
+Son of Man in order to make us sons of God. He gives Mary Magdalene this
+message to carry to his brothers, for so he deigns to call his disciples: “I
+ascend both to my Father and your Father, to my God and your God.” In my
+judgment no saying sweeter or more joyful than this has ever been heard on
+earth, nor will be until that voice, “Come, you blessed.”
+
+[Marginalia: Corollary concerning the Father. John 20:17.]
+
+The other epithet by which God the Father is described here by the apostle is
+the *Father of glory*. By it the heavenly Father is distinguished from the
+common condition of other fathers in order to designate his divine excellence
+and majesty. For just as there are many kings but only one King of glory, as
+the prophet calls him in Psalm 24, and many lords but only one Lord of glory,
+and so forth, a title which the apostle attributes to the Lord Jesus Christ in
+1 Corinthians 2, so also there are many fathers but only one Father of
+glory—that is, one who is supremely glorious, who supereminently possesses
+the infinite excellence of his nature and of all his divine properties or
+attributes, and who transcends with infinite excellence and majesty
+everything we can conceive or think.
+
+If we wish to weigh this epithet more subtly and precisely, the heavenly
+Father may be called the Father of glory for four reasons. First, he is
+supremely glorious by his own nature; here it is easy to recognize the Hebrew
+idiom. Second, he is the fountain of the whole Godhead with all its glorious
+attributes in the Son and Holy Spirit, as though he were the fountain and
+principle of all glory in them. For the Godhead itself is sometimes signified
+in Scripture by the name *glory*, as in John 2, where Christ is said to have
+manifested his glory in that first miracle. Third, he is the first cause and
+author of all glory and of all glorious and excellent things, whether
+anything worthy of this name is found in heaven or even on earth. This is
+especially true of that glorious condition of the blessed which is therefore
+called heavenly glory, into which he will at last introduce all the elect.
+Finally, all glory is owed to him by every creature in heaven, on earth, and
+
+[Marginalia: The Father of glory. Psalm 24:7. 1 Corinthians 2:8. Fourfold
+reason. John 2:11.]
+
+[BSB bsb11059161 | scan 193 | Caput I p. 149]
+
+under the earth. Christ himself continually glorified this Father while
+carrying out the work of human redemption here on earth, and we, together
+with the holy angels and all the elect, will glorify him forever. Therefore,
+to express these four modes or reasons in terms belonging to the matter, he
+is the Father of glory subjectively, originally, effectively, and
+objectively, as is manifest from what has been said. Here, however, the
+apostle chiefly regarded the first sense and reason, according to a Hebrew
+idiom most frequently used in Scripture, by which one is called the God of
+strength, the God of glory, the God of mercy, and so forth, for powerful,
+glorious, and merciful. Let this suffice concerning the efficient cause.
+
+Let us now see, in the third place, how that saving wisdom is given to us. The
+apostle expresses and indicates this when he calls him the Spirit of
+revelation, because the Holy Spirit of God alone bestows upon us both this
+wisdom itself and its increase from the revelation of Holy Scripture. It does
+not come from the acuteness of our nature or natural reason, from the industry
+of the human mind, or from any investigation of carnal judgment, however
+diligent and precise, even if we were most fully furnished and assisted with
+all the writings and storehouses of the pagan philosophers. The reason can be
+drawn from the things which are the objects of this wisdom, which we may take
+from 1 Corinthians 2. It concerns those things “which God has prepared for
+those who love him, which eye has not seen, ear has not heard, and which have
+not entered into the heart of man.” How, then, do we come to know them? “But
+God,” Paul says, “has revealed them to us through his Spirit, for the Spirit
+searches all things, even the depths of God.”
+
+[Marginalia: The manner of conferring it, through the Spirit of revelation. 1
+Corinthians 2:9.]
+
+This revelation, in turn, is received in two ways, just as it comes to
+believers in two ways. First, it occurs in an extraordinary manner, in the way
+this revelation was made to the apostles and also to most of the evangelists.
+Then it also occurs in the ordinary manner and by the ordinary means, through
+hearing and preaching the word. The apostle appears to join both modes in 1
+Corinthians 14, a passage which we should illustrate briefly here for a
+clearer understanding of this point: “But now, brothers,” the apostle says
+there, “if I come to you speaking in tongues, what shall I profit you unless I
+speak to you either by revelation or by knowledge, or by prophesying or by
+teaching?” These four apostolic terms—*revelation, knowledge, prophecy,* and
+*teaching*—should not be understood as four diverse gifts, four ways of
+knowing divine mysteries, or four parts of divinely revealed doctrine.
+Rather, revelation, which both in this passage and above in chapter 12 of the
+same Epistle he had called wisdom, or a word of wisdom, must be joined with
+prophecy as pertaining to the same gift and office. Knowledge, which above in
+the same chapter he had called a word of knowledge, must be joined with
+teaching.
+
+Thus only two distinct gifts are mentioned here, teaching and prophecy. They
+arise and depend upon the former two as two distinct modes of revelation and
+their causes: prophecy arises from revelation and teaching from knowledge.
+Accordingly, the wisdom which comes from that extraordinary revelation is
+attributed to the apostles, prophets, and evangelists. There belonged to them
+a more excellent knowledge of the mysteries of God beyond every ordinary
+measure, joined with supreme authority and a special inspiration of the Holy
+Spirit. It was an extraordinary gift not only for understanding and
+interpreting Holy Scripture but also for applying it to affairs, persons,
+times, and, as the situation required, to diverse occasions and
+circumstances—the proper office of the prophets—by warning, threatening,
+exhorting, dissuading, comforting, counseling, and so forth, according as the
+matter, place, person, or occasion demanded.
+
+[Marginalia: Distinction of revelation. 1 Corinthians 14:6. Explanation. 1
+Corinthians 12:8. Distributive application from the subjects.]
+
+Teaching, however, is the knowledge of the same mysteries acquired from the
+hearing, reading, study, meditation, prayers, and experience of Holy
+Scripture. It is thus acquired in an ordinary manner, through our labor,
+study, and diligence, but by God’s secret blessing and gratuitous gift, and is
+assigned to teachers and pastors discharging an ordinary calling in the
+Church. Upon them rests the office not only of expounding and explaining but
+also of applying the Scriptures and bringing them to the practice and use of
+the Christian life, though not with the extraordinary excellence and measure
+of the gift which belonged to the apostles, prophets, and evangelists. In the
+aforementioned passages of 1 Corinthians, therefore, the apostle appears to
+distinguish revelation, and the wisdom which comes from it, from knowledge
+and the gift of teaching which follows from it. The former was an
+extraordinary gift given to those exercising extraordinary offices in the
+Church, while the latter is an ordinary gift assigned to persons exercising
+an office which will continue perpetually in the Church.
+
+[Marginalia: Teaching from knowledge. Conclusion of the explanation.]
+
+Nevertheless, in the passage before us he uses the name and gift of
+revelation and wisdom more generally, so that it also extends to the rest of
+the faithful and comprehends a knowledge of saving and heavenly things
+received even in the ordinary manner and through the ordinary means, namely
+from the hearing and preaching of Holy Scripture. Yet this is with the
+qualification which the most exact interpreter notes on this passage: the
+names *revelation* and *wisdom* here imply a certain increase and possess an
+uncommon emphasis. They signify not just any mediocre knowledge, but a rich,
+ample, and excellent knowledge of those things which all Christians must know
+for salvation, as God abundantly blesses even those ordinary means by the
+secret efficacy of his Spirit.
+
+[Marginalia: Qualification. Beza.]
+
+For God uses various modes and instruments to implant this wisdom in us, and
+he did so long ago even before the fall. For example, he opened before us that
+most beautiful book of this fabric of the world, inscribed and adorned with
+large letters; he illuminated the eye of the soul, upon which he first
+engraved the knowledge of himself and of his works and will, according to
+which, as a rule, our life was to be passed piously and uprightly, and which
+the apostle therefore calls the law of nature, differing in reality not at
+all from the written law; and he added, as the most exact rule, his word and
+will revealed by his own voice. Even after the fall, through the means of that
+word, he did not cease to reveal himself to humanity, however unworthy, and
+first to restore in human souls from the law a knowledge of his law and
+justice, rekindling that torch which was almost extinguished, and then to add
+the saving gospel knowledge of his grace. Yet whatever means and instrument
+he employs—whether the works of nature or the word delivered by voice or
+writing—all things are applied to us in vain unless he inwardly teaches us
+effectually by his Spirit, unless by his operation the Holy Spirit reveals
+even those things already revealed and disclosed in the word. To us who are
+blind and
+
+[Marginalia: Reason from the instrumental causes.]
+
+[BSB bsb11059161 | scan 194 | Caput I p. 150]
+
+dull they will otherwise remain forever wrapped in mystery. The apostle
+therefore rightly petitions here that the Ephesians be given this gift of
+wisdom—that is, a rich and excellent knowledge of heavenly mysteries—by the
+Holy Spirit who teaches and reveals, the immediate author of this gift.
+
+Let us now consider, in the fourth and last place, the brief definition of
+this wisdom, notable for its very brevity, which the apostle adds: “in the
+acknowledgment,” or “through the acknowledgment, of him.” This refers to Christ,
+who was mentioned immediately before and from whose acknowledgment we draw
+all divine wisdom, as Beza interprets it. Or, as some understand it, it means
+in the acknowledgment of himself, namely the Father of glory, from whom Paul
+petitions this gift. We prefer Beza’s former reference, because the
+acknowledgment of Christ necessarily includes and presupposes in itself the
+knowledge of God the Father, and the more clearly anyone acknowledges Christ,
+the more he advances in this divine wisdom and becomes skilled in saving
+mysteries.
+
+[Marginalia: Definition of this wisdom through the acknowledgment of God.]
+
+As for this preposition, it can in turn be understood and expounded in three
+ways. Although the difference is not great, it is worth observing. First,
+“through the acknowledgment of Christ” may denote the manner in which the Holy
+Spirit reveals that wisdom to us, namely through the acknowledgment of Christ
+himself, in whom, as Paul says elsewhere in Colossians 2, “are hidden all the
+treasures of wisdom and knowledge.” Thus rightly to acknowledge Christ leads
+us into the treasures of heavenly wisdom. Second, “in the acknowledgment of
+Christ” may mean that this phrase signifies the object of that wisdom, and
+indeed its very nature—that is, both its matter and form, as they say, both
+the thing known and the manner of knowing it. For this wisdom consists neither
+in the knowledge of human affairs or creatures; nor in natural things
+considered physically by addition or mathematically by abstraction; nor,
+finally, in the knowledge of political, moral, domestic, or artificial
+things. Indeed, it does not consist in just any knowledge even of God and
+Christ himself, but in that acknowledgment of Christ and of God in Christ
+which is through faith, love, and obedience. We gladly take and interpret the
+phrase this way, so that it constitutes a definition of that wisdom. Third,
+there are some who take the preposition *in* in place of *unto*, a substitution
+quite customary for our apostle, so that the phrase declares the use which
+that wisdom and revelation serves: namely, that we may daily advance more and
+more in the knowledge of God and Christ.
+
+We will follow the middle exposition. Thus we say that the wisdom revealed to
+believers by the Spirit of God is the very acknowledgment of Jesus Christ and
+of God the Father who sent Christ, since the apostle professes in 1
+Corinthians 2 that he had determined to know nothing among them except Jesus
+Christ and him crucified.
+
+[Marginalia: *In* expounded in three ways. 1. Colossians 2:3. 2. 3. 1
+Corinthians 2:2.]
+
+Furthermore, although the word *acknowledgment* is often confused with
+*knowledge* itself and taken for the same thing, it is worthwhile to establish
+some distinction between them in this passage. First, we know those who were
+previously unknown, but acknowledge those previously known. Next, we know
+foreigners or strangers, but acknowledge our own—relatives, friends, or those
+who pertain to us in any other way, or those to whom we ourselves pertain,
+such as a master, lord, father, king, and so forth. Finally, we even know those
+whom we neglect, turn from, and reject. Properly speaking, however, we
+acknowledge those whom we embrace and approve as is fitting and whom we treat
+with the honor, obedience, and observance which it is fitting to show the one
+whom we are said to acknowledge and which we owe to that person by duty. For
+example, a wife is said to acknowledge her husband, or a servant his lord,
+when from the knowledge each possesses of that person, the wife renders her
+husband or the servant his lord the reverence, love, worship, and obedience
+which are fitting.
+
+[Marginalia: Acknowledgment. How it differs from knowledge.]
+
+Therefore, as the preposition added to this noun itself indicates,
+acknowledgment adds to knowledge the performance of the duty owed, in a
+manner fitting the person who is said both to acknowledge and to be
+acknowledged. Consequently, to acknowledge Christ is to embrace him, known
+from the gospel, with due reverence, love, obedience, and submission of soul:
+that is, to receive him by faith, to rest upon him in trust, to be carried
+toward him with supreme love, and to be possessed by the utmost zeal and
+affection for obeying his commandments. Finally, it is to regard him as Lord,
+King, Head, Redeemer, Savior, Advocate, and our sole Patron, who has been made
+for us by God the Father wisdom, righteousness, sanctification, and redemption.
+
+[Marginalia: Explanation of the name. Application to the present purpose.]
+
+Hence Jerome reports in this place—indeed, as the opinion of others, but
+without adding any refutation of its false and erroneous teaching—that souls
+not yet joined to bodies knew God the Father in heaven, but after being cast
+down into bodies and forgetting God the Father, they acknowledge him again by
+the revelation of the Holy Spirit, according to the saying, “All the ends of
+the earth shall remember and turn to the Lord.” In this way that Platonic
+recollection is introduced. This is an ungodly and foolish fiction, differing
+and straying as far as heaven from the mind and purpose of our apostle in this
+passage. He intends this to be the true wisdom which we possess from the
+revelation of the Holy Spirit: not only that we should once embrace by faith
+the Christ made known to us from the gospel, but also that throughout our
+whole life we should daily advance more and more in acknowledging him—that
+is, in knowing him and in loving, worshiping, and revering the one known.
+
+[Marginalia: Jerome.]
+
+From these things it is now evident, unless I am mistaken, that the apostle
+rightly calls this kind of knowledge *wisdom*, since it is the most excellent
+degree of knowledge. For if all knowledge of honorable or useful things is to
+be highly valued, since it removes a person from the lot of beasts and raises
+him to a certain image and likeness of God—so much so that even a rough and
+imperfect knowledge of God’s works and creatures ennobled some of the pagans
+beyond the human lot and condition among their countrymen and descendants,
+who regarded and worshiped them as so many gods or divine men—then what, I
+ask, should be said of the knowledge of God himself? And that not just any
+knowledge, but one which flows from the revelation of the Holy Spirit and is
+joined with faith and love? What should be determined or thought concerning
+the acknowledgment of Christ Jesus except that this is true and supreme
+wisdom, indeed the highest perfection and blessedness of a human being and,
+as the Lord himself expressed it in a single phrase in John 17, eternal life?
+Its absence renders people truly miserable and hopeless, however happy they
+may seem to themselves, even amid royal purple and triumphs. Its presence,
+however, renders even the most afflicted little person, dwelling at the very
+threshold and in the shadow of death, nevertheless blessed and full of hope,
+consolation, and confidence.
+
+[Marginalia: Corollary. Argument from the lesser. John 17:3.]
+
+[BSB bsb11059161 | scan 195 | Caput I p. 151 (through Prælectio XXXVI close)]
+
+And so we have completed the sum of the petition in this seventeenth verse.
+
+[End of Lecture XXXVI. The following “Now let us consider its fuller
+explanation,” Lecture XXXVII, and exposition of Ephesians 1:18–19 are excluded.]
+
+The completed sequence now extends through Lecture XXXVI. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -1910,6 +2981,18 @@ presupposes it. It then applies Paul’s example to pastoral prayer, personal
 devotion, zeal for the Church amid affliction, freedom from ministerial envy,
 and the contrast between worldly congratulations and spiritual thanksgiving,
 closing with a Trinitarian doxology and `AMEN.`
+Lecture XXXVI opens `In VERS. 17. &c.` and first gives a synopsis of Paul’s
+three-verse petition in Ephesians 1:17–19. It then confines its detailed
+exposition to verse 17: the gift of wisdom as created or ectypal wisdom, its
+production by the Holy Spirit, God the Father as the God of Christ according
+to Christ’s humanity, mediatorial office, and covenantal subjection, and the
+Father as the fourfold Father of glory. Boyd distinguishes extraordinary
+revelation and prophecy from ordinary teaching acquired through Scripture’s
+appointed means while insisting that both require the Spirit’s inward work.
+He closes by defining saving wisdom as the faithful, loving, and obedient
+acknowledgment of Christ rather than bare knowledge, ending on scan 195 with
+`Atque ita petitionis summam absolvimus hoc vers. 17.` before Lecture XXXVII
+turns to the fuller explanation in verses 18–19.
 
 ## Validation
 

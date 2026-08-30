@@ -618,6 +618,49 @@ boundaries were joined and placed wholly after the later synchronized marker,
 and the Greek strings and all included printed marginalia are retained. The
 pair remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 32 boundary and status
+
+Part 32 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 210 and 212 and complete p. 211, IA leaves
+240–242, access-PDF pp. 240–242, and DjVu OCR objects 239–241. It begins in
+the right column of printed p. 210 immediately after Part 31 with
+`Polysperchon infamis senecio in tenebris posteà vixit & mortuus est ...`.
+It contains Polysperchon’s end, Antigonus’s death at Ipsus, the later careers
+of Demetrius and Ptolemy, the destruction of Cassander’s and Lysimachus’s
+houses, and the death of Seleucus, last survivor among Alexander’s commanders.
+It ends in the left column of p. 212 after the successor kingdoms are said to
+have become `faciles omnes praeda Romanis`.
+
+The next paragraph, `Diximus quàm facile Pyrrhus Regnum Macedoniae Demetrio
+extorserit ...`, begins immediately below and is wholly excluded. The three
+controlling 300-dpi page images, `pdf-240.jpg` through `pdf-242.jpg`, governed
+the transcription; OCR served only as an aid. The body and marginalium divided
+across the p. 210/p. 211 boundary are joined and placed wholly after the later
+synchronized marker. The pair remains an AI-assisted, unreviewed draft and is
+not publication-ready.
+
+## Part 33 boundary and status
+
+Part 33 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 212 and 214 and complete p. 213, IA leaves
+242–244, access-PDF pp. 242–244, and DjVu OCR objects 241–243. It begins in
+the left column of printed p. 212 immediately after Part 32 with `Diximus quàm
+facile Pyrrhus Regnum Macedoniae Demetrio extorserit ...`. It contains
+Pyrrhus’s summons to Italy; the crimes and death of Ptolemy Ceraunus; the
+Gallic invasion and Antigonus Gonatas’s accession; Pyrrhus’s Roman, Sicilian,
+Macedonian, Spartan, and Argive campaigns; the excursus on Livy and Raleigh;
+and Pyrrhus’s death. It ends in the right column of p. 214 after Antigonus
+Gonatas’s peaceful reign and the succession of his son Demetrius.
+
+The next paragraph, `Intereà Ptolemaeus Philadelphus in Aegypto florebat in
+pace ...`, begins immediately below and is wholly excluded. The three
+controlling 300-dpi page images, `pdf-242.jpg` through `pdf-244.jpg`, governed
+the transcription; OCR served only as an aid. The body name divided at the p.
+212/p. 213 boundary and the body word divided at the p. 213/p. 214 boundary
+are joined and placed wholly after the later synchronized marker, and all
+included printed marginalia are retained. The pair remains an AI-assisted,
+unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -696,6 +739,10 @@ have not been modernized or endorsed.
 - `parts/part-30-book-01-chapter-11a-alexanders-succession-english.md`
 - `parts/part-31-book-01-chapter-11b-eumenes-and-the-argead-fall-latin.txt`
 - `parts/part-31-book-01-chapter-11b-eumenes-and-the-argead-fall-english.md`
+- `parts/part-32-book-01-chapter-11c-last-diadochi-latin.txt`
+- `parts/part-32-book-01-chapter-11c-last-diadochi-english.md`
+- `parts/part-33-book-01-chapter-11d-pyrrhus-latin.txt`
+- `parts/part-33-book-01-chapter-11d-pyrrhus-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -705,7 +752,7 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
-30, and four for Part 31. There are sixty-two current files in thirty-one
-Latin/English pairs, containing 238 synchronized source markers per language
-(476 marker occurrences across all sixty-two files). The files remain
-AI-assisted and unreviewed.
+30, four for Part 31, and three each for Parts 32 and 33. There are sixty-six
+current files in thirty-three Latin/English pairs, containing 244 synchronized
+source markers per language (488 marker occurrences across all sixty-six
+files). The files remain AI-assisted and unreviewed.

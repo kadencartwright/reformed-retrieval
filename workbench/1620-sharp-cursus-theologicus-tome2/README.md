@@ -41,7 +41,8 @@ for canvases 48–53. Part 11 was compared line by line with the two BSB images
 for canvases 54–55. Part 12 was compared line by line with the thirteen BSB
 images for canvases 55–67. Part 13 was compared line by line with the six BSB
 images for canvases 67–72. Part 14 was compared line by line with the five BSB
-images for canvases 72–76. No e-rara text, modern edition, or modern translation
+images for canvases 72–76. Part 15 was compared line by line with the five BSB
+images for canvases 76–80. No e-rara text, modern edition, or modern translation
 was used.
 
 ## Editorial method
@@ -217,10 +218,24 @@ Christo constitutus`; it contains ten synchronized printed-column markers:
 - `parts/part-14-church-militant-papal-succession-latin.txt`
 - `parts/part-14-church-militant-papal-succession-english.md`
 
-The next continuation boundary is therefore `QUÆSTIO V. An Papa sit caput
-Ecclesiæ et Christi vicarius à Christo constitutus. Papistæ omnes affirmant, nos
-contrà non esse caput Ecclesiæ probamus his argumentis`, later in printed column
-154 on BSB canvas 76.
+**Part 15 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It opens Question V, whether the Pope is the head of the Church and
+Christ's vicar appointed by Christ, and contains the complete initial argument
+series in printed columns 154–162. The printed numbering runs directly from
+Argument 27 to Argument 29; the paired files preserve that omission rather than
+supplying an unprinted Argument 28. No distinct printed marginalia occur in
+this span; abbreviated citations set within the text block are retained, while
+gutter show-through and later physical marks are excluded. The exact opening
+join repeats the column 154 marker from Part 14 and begins with `QUÆSTIO V`; the
+part ends after Argument 32, immediately before `OBIECTIONES`, and contains nine
+synchronized printed-column markers:
+
+- `parts/part-15-church-militant-papal-headship-opening-arguments-latin.txt`
+- `parts/part-15-church-militant-papal-headship-opening-arguments-english.md`
+
+The next continuation boundary is therefore `OBIECTIONES. Obiect. 1. Is ad
+quem ab omnibus appellatur, et à quo non licet appellare est caput Ecclesiæ`,
+later in printed column 162 on BSB canvas 80.
 
 ## Review and licensing notice
 

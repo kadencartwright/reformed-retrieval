@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening ninety-seven printed pages of
-> Volume II. The twenty-five paired parts are unreviewed and are not
+> close English translations of the opening one hundred and five printed pages
+> of Volume II. The twenty-seven paired parts are unreviewed and are not
 > publication-ready.
 
 ## Work and edition
@@ -86,7 +86,7 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 97 is applied and disclosed in the relevant
+completed span through printed p. 105 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
 Hebrew and Greek on p. 4 and in Chapter VII were read from the images, not
 reconstructed from IA OCR. Apparatus notes record printed errata,
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Twenty-five paired parts are complete as scan-audited, AI-assisted, unreviewed
+Twenty-seven paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -211,14 +211,24 @@ working drafts:
   markers.
   [Latin](parts/part-25-book-04-chapter-07-privilege-04-latin.txt) |
   [English](parts/part-25-book-04-chapter-07-privilege-04-english.md)
+- **Part 26:** Chapter VIII's second argument, from Christ's confirmation of
+  the law in Matthew 5, with twelve explanatory points and two objections and
+  responses; printed pp. 97–101 / IA PDF and leaves 105–109; five synchronized
+  markers.
+  [Latin](parts/part-26-book-04-chapter-08-argument-02-latin.txt) |
+  [English](parts/part-26-book-04-chapter-08-argument-02-english.md)
+- **Part 27:** Chapter VIII's third through tenth arguments, completing the
+  chapter; printed pp. 101–105 / IA PDF and leaves 109–113; five synchronized
+  markers.
+  [Latin](parts/part-27-book-04-chapter-08-arguments-03-10-latin.txt) |
+  [English](parts/part-27-book-04-chapter-08-arguments-03-10-english.md)
 
-Part 25 ends after the response to the second objection under Chapter VII's
-fourth privilege and before `CAP. VIII.` on shared printed p. 97. The exact
-next untranslated text is `CAP. VIII. Aliis rationibus probatur, legem
-Decalogi moralem esse.`, at printed p. 97 / IA PDF 105 / IA leaf 105. Chapters
-VI and VII are complete; Chapter VIII has not begun. Every completed pair has
-an identical source-marker sequence, and all twenty-five pairs remain
-AI-assisted and unreviewed.
+Part 27 ends with Cocceius's testimony under Chapter VIII's tenth argument and
+before `CAP. IX.` on shared printed p. 105. The exact next untranslated text is
+`CAP. IX. Foedus cum Israëlitis ictum fuit foedus gratiae.`, at printed p. 105
+/ IA PDF 113 / IA leaf 113. Chapters VI, VII, and VIII are complete. Every
+completed pair has an identical source-marker sequence, and all twenty-seven
+pairs remain AI-assisted and unreviewed.
 
 ## Licensing
 

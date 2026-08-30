@@ -1131,7 +1131,40 @@ working edition requiring qualified human review.
 - `parts/part-22-chapter-22a-latin.txt`
 - `parts/part-22-chapter-22a-english.md`
 
-The next unit begins with `Vers. 4. Praemium humilitatis cum reverentia
-Iehovae sunt divitiae, honor, & vita.` in the left column of shared PDF 489 /
-printed column 962; restart at that lemma, excluding every verse 3 sentence
+**Part 22b is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `Vers. 4. Praemium humilitatis
+cum reverentia Iehovae sunt divitiae, honor, & vita.` in the left column of
+shared PDF 489 / printed column 962 through the final prose of verse 5 on PDF
+491 / printed column 967, ending `quam aucupes avium, aut ferarum venatores.`
+It stops immediately before `V. 6. Institue puerum pro ratione viae suae:
+etiam cum senuerit, non recedet ab illa.` in that same right column. Latin and
+English have three byte-identical source markers (PDF 489–491; synchronized
+printed columns 962–963 through 966–967) and retain both verse lemmata, full
+in-scope prose, Hebrew, Greek, citations, abbreviations, and printing
+irregularities. The complete files contain 1,329 Latin-file and 1,936
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 489–491, was inspected at original and enlarged detail
+in left-then-right column order, and PDF 492 was checked to confirm the
+continuation of verse 6. The shared PDF-489 marker begins only at `Vers. 4.` in
+the left column; every verse 3 sentence above it is excluded. At the
+PDF-489/490 turn, the catchword fragment `submissi-` was excluded rather than
+duplicated: `singulari animi` remains under PDF 489, while whole `submissione`
+and its corresponding English wording are assigned to PDF 490. At the
+PDF-490/491 turn, the catchword `quam` was excluded: `sunt,` remains under PDF
+490, while whole `quam` and its corresponding English wording are assigned to
+PDF 491. The final PDF-491 marker ends with the concluding verse 5 prose above
+`V. 6.`; no verse 6 material is imported. Witness forms including `minimèq;`,
+`Παραπεπήγασι ταῖς ἀρεταῖς αἱ κακίαι, καὶ εἰσὶ πῶς ἀγχίθυροι`,
+`Absholonis`, `Notu`, `ob omnibus`, `צנים`, `פחים`, `praestantiss.`,
+`quamcunq;`, and `factarum devotarumque` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22b-latin.txt`
+- `parts/part-22-chapter-22b-english.md`
+
+The next unit begins with `V. 6. Institue puerum pro ratione viae suae: etiam
+cum senuerit, non recedet ab illa.` in the right column of shared PDF 491 /
+printed column 967; restart at that lemma, excluding every verse 5 sentence
 above it.

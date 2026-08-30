@@ -1164,6 +1164,23 @@ on printed p. 292 / IA leaf 300. Bellarmine's fourth argument, beginning
 - English: `parts/part-68-romans-04-05-abraham-44-english.md`
 - Extent: two synchronized markers, printed pp. 291–292 / IA leaves 299–300
 
+## Part 69: forty-fifth unit of the Romans 4:5 lecture
+
+Part 69 states Bellarmine's fourth argument from inherent and extrinsic
+forms, illustrated by a white garment on an Ethiopian. Tuckney's first
+answer accepts Bellarmine's concession: justification by imputation means
+receiving pardon, release from guilt and punishment, divine favor, and
+eternal life through Christ's merits. The Roman appeal to infused inherent
+righteousness changes the meaning of justification and attacks an invented
+opponent. It runs from `Quarto in loco licet concedat` on printed p. 292 /
+IA leaf 300 through the first numbered response on printed p. 293 / IA leaf
+301. The response to Bellarmine's formal terminology, beginning `Secundo,
+Ad illud quod improbat`, is excluded.
+
+- Latin: `parts/part-69-romans-04-05-abraham-45-latin.txt`
+- English: `parts/part-69-romans-04-05-abraham-45-english.md`
+- Extent: two synchronized markers, printed pp. 292–293 / IA leaves 300–301
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

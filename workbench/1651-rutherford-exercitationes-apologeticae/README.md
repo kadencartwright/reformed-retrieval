@@ -857,3 +857,29 @@ endpoint of the work’s translated body.
   before sections 7–8, together with the terminal `allatis`. Running heads,
   signatures, catchwords, and the final ornament are omitted in accordance
   with project policy.
+
+**Part 34 is complete and scan-audited.** This paired documentary unit begins
+at the centered `LAUS DEO` colophon immediately following Part 33’s terminal
+prose sentence on logical p. 539 (misprinted 529) / IA leaf 557 / PDF p. 557.
+It then contains the complete two-page chapter table on the unpaginated IA
+leaves 558–559 / PDF pp. 558–559 and ends at the witness’s `FINIS`. Nothing
+after `FINIS` is textual matter: IA leaf 560 is a blank verso with show-through,
+and IA leaves 561–564 are blank or binding and rear-cover matter. The forward
+transcription and translation are therefore complete through the final textual
+boundary of the controlling witness; no later untranslated boundary remains.
+
+- Latin: `parts/part-34-colophon-and-chapter-table-latin.txt`
+- English: `parts/part-34-colophon-and-chapter-table-english.md`
+- Both files contain three synchronized source markers (logical p. 539 / IA
+  leaf–PDF p. 557 and unpaginated chapter-table pp. 1–2 / IA leaves–PDF pp.
+  558–559) and no marginal blocks.
+- Direct image control confirmed the shared-page opening immediately after
+  Part 33, both complete index pages, the page join after Exercise II, Chapter
+  I, and the exact terminal `FINIS`. The catchword `CAP.` at the foot of IA
+  leaf 558 merely previews the undivided next-page entry and is omitted.
+- Witness features retained rather than silently regularized include
+  `justificatio, qui ... temporarius`, the index’s abbreviated exercise and
+  author names, its commas around `vocationis congruæ`, and its index page
+  numbers even where a title or locator differs from the body’s fuller heading.
+  The decorative headpiece above the table is omitted in accordance with
+  project policy.

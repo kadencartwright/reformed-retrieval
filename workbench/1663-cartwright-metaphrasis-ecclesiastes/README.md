@@ -1697,3 +1697,121 @@ This unit is bounded by the exact repeated verse-7 lemma rather than by an
 arbitrary image count. The next unit begins in the right column of reader image
 `PA241` / printed p. 242 at `Vers. 7. Ut omnis labor hominis obveniat ori
 ipsius`.
+
+**Part 75 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 6:7–12 lemma block, the summary and division, and the
+complete exposition of verse 7 on reader images `PA241` and `PA243`. It begins
+in the right column of printed p. 242 at `Vers. 7. Ut omnis labor hominis
+obveniat ori ipsius`, crosses the image join after the p. 242 catchword `Vers.
+7`, crosses the printed-page join at `far- / ciendo`, and ends in the right
+column of printed p. 244 immediately before the repeated verse-8 lemma. The
+paired files have two exactly identical reader-image markers and retain the
+synecdoche of food for bodily maintenance,
+the figures of Jordan, Leviathan, Goliath, and Bel, the criticism of luxurious
+food and dress, the Greek-derived `Synecdoche` and `synthesis`, and every
+printed biblical reference. The English translator's notes disclose the
+catchword, split-word join, and the printed construction in the verse-8 lemma:
+
+- `parts/part-75-homiliae-chapter-06-verse-07-latin.txt`
+- `parts/part-75-homiliae-chapter-06-verse-07-english.md`
+
+This unit is bounded by the exact repeated verse-8 lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader image
+`PA243` / printed p. 244 at `Vers. 8. Nam quid amplius est sapienti, quam
+stolido ipsi`.
+
+**Part 76 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:8 lemma and its complete homiletic
+exposition on reader images `PA243` and `PA245`. It begins in the right column
+of printed p. 244 at `Vers. 8. Nam quid amplius est sapienti`, crosses the
+image and printed-page join at `restinguen- / dum`, and ends in the right
+column of printed p. 246 immediately before the repeated verse-9 lemma.
+The paired files have two exactly identical reader-image markers and retain
+the distinction between civil and heavenly wisdom, Cartwright's proposed
+ellipsis, the romanized Hebrew `Zaceph-caten` and `iodei`, and every printed
+biblical reference. The English translator's notes disclose the split-word
+join, explain the romanized Hebrew, and record the printed verse-8
+construction:
+
+- `parts/part-76-homiliae-chapter-06-verse-08-latin.txt`
+- `parts/part-76-homiliae-chapter-06-verse-08-english.md`
+
+This unit is bounded by the exact repeated verse-9 lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader image
+`PA245` / printed p. 246 at `Vers. 9. Melior est, inquies, inspectio oculorum`.
+
+**Part 77 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:9 lemma and its complete homiletic
+exposition on reader images `PA245` and `PA247`. It begins in the right column
+of printed p. 246 at `Vers. 9. Melior est, inquies, inspectio oculorum`,
+crosses the image and printed-page join after the p. 246 catchword `igitur`,
+and ends in the left column of printed p. 247 immediately before the repeated
+verse-10 lemma. The paired files have two exactly identical reader-image
+markers and retain the proleptic objection and reply, the comparisons between
+unused riches and an unused sword, and the exhortation to seek virtue and
+piety. The English translator's note discloses the catchword:
+
+- `parts/part-77-homiliae-chapter-06-verse-09-latin.txt`
+- `parts/part-77-homiliae-chapter-06-verse-09-english.md`
+
+This unit is bounded by the exact repeated verse-10 lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA247` / printed p. 247 at `Vers. 10. Quicquid sit, jam indictum est nomen
+ejus`.
+
+**Part 78 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:10 lemma and its complete homiletic
+exposition on reader images `PA247` and `PA249`. It begins in the left column
+of printed p. 247 at `Vers. 10. Quicquid sit, jam indictum est nomen ejus`,
+crosses the printed-page join at `cir- / cumfluit` and the image join after
+the p. 248 catchword `nostra`, and ends in the left column of printed p. 249
+immediately before the repeated verse-11 lemma. The paired files have two
+exactly identical reader-image
+markers and retain the contrast between riches and human frailty, the critique
+of people who claim divine privileges, the Greek `ἀνυπεύθυνοι`, the comparison
+with Adam and the elect angels, and the proverbial beating of the air and
+washing a brick. The English translator's notes explain the Greek and disclose
+both joins:
+
+- `parts/part-78-homiliae-chapter-06-verse-10-latin.txt`
+- `parts/part-78-homiliae-chapter-06-verse-10-english.md`
+
+This unit is bounded by the exact repeated verse-11 lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA249` / printed p. 249 at `Vers. 11. Quum adsunt res multæ, multiplicant
+vanitatem`.
+
+**Part 79 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:11 lemma and its complete homiletic
+exposition on reader image `PA249`. It begins in the left column of printed p.
+249 at `Vers. 11. Quum adsunt res multæ, multiplicant vanitatem` and ends in
+the same column immediately before the repeated verse-12 lemma. The paired
+files have one exactly identical reader-image marker and retain the catalogue
+of cares, dangers, and expenses that increase with riches, the citation of 1
+Timothy 4, and the transition from the weakness of riches to the weakness of
+their human user:
+
+- `parts/part-79-homiliae-chapter-06-verse-11-latin.txt`
+- `parts/part-79-homiliae-chapter-06-verse-11-english.md`
+
+This unit is bounded by the exact repeated verse-12 lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA249` / printed p. 249 at `Vers. 12. Nam quis novit quod bonum est homini`.
+
+**Part 80 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 6:12 lemma and its complete homiletic
+exposition on reader image `PA249`. It begins in the left column of printed p.
+249 at `Vers. 12. Nam quis novit quod bonum est homini`, crosses the
+printed-page join within the lemma, and ends in the right column of printed p.
+250 immediately before the dividing rule and `Caput VII`. The paired files
+have one exactly identical reader-image marker and retain the account of human
+ignorance in food, clothing, gifts, and future events, the comparison with a
+passing shadow, and the printed reference to Psalm 112:
+
+- `parts/part-80-homiliae-chapter-06-verse-12-latin.txt`
+- `parts/part-80-homiliae-chapter-06-verse-12-english.md`
+
+This unit is bounded by the exact next chapter heading and lemma rather than
+by an arbitrary image count. The next unit begins in the right column of
+reader image `PA249` / printed p. 250 after the dividing rule at `Caput VII`
+and `Vers. 1. Melior est homini fama unguento optimo`.

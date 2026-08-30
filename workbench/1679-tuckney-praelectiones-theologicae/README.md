@@ -317,6 +317,18 @@ excluded.
 - English: `parts/part-13-romans-01-17-justification-12-english.md`
 - Extent: three synchronized markers, printed pp. 111–113 / IA leaves 119–121
 
+## Part 14: thirteenth unit of the Romans 1:17 lecture
+
+Part 14 gives Alfonso de Castro's alternative answer, opens the centered
+question about works preceding faith, and completes Tuckney's first argument.
+It runs from printed p. 113 / IA leaf 121 through the maxim `ubi lex non
+distinguit` on printed p. 114 / IA leaf 122. The next item, `Arg. 2`, is
+excluded.
+
+- Latin: `parts/part-14-romans-01-17-justification-13-latin.txt`
+- English: `parts/part-14-romans-01-17-justification-13-english.md`
+- Extent: two synchronized markers, printed pp. 113–114 / IA leaves 121–122
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

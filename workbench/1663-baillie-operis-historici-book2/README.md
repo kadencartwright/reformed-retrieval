@@ -121,6 +121,19 @@ The next excluded heading is `QUAESTIO VII. Quomodo Euangelistae Matthaeus 1.
 12. & 13. Lucas 3. 27. cum 1. Paralip. 3. 17. 18. & 19. conciliandi sint?` The
 boundary is question-complete and includes no body text from Question VII.
 
+## Part 08 boundary
+
+Part 08 resumes with the excluded Question VII heading in the remainder of
+printed p. 55 / PDF-IA leaf 393 / OCR object 392. It treats three related
+genealogical difficulties concerning the parentage, descendants, and proposed
+multiplication of Shealtiel and Zerubbabel. It ends with Question VII within
+printed p. 59 / PDF-IA leaf 397 / OCR object 396 at `Pluribus priorem sententiam
+absurdis non pergemus gravare.`
+
+The next excluded heading is `QUAESTIO VIII. Quomodo Josephus duos habuerit
+patres, Jacobum secundum Matthaeum, & Eli secundum Lucam?` The boundary is
+question-complete and includes no body text from Question VIII.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -154,6 +167,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-06-omitted-kings-question-05-english.md`
 - `parts/part-07-matthews-fourteens-question-06-latin.txt`
 - `parts/part-07-matthews-fourteens-question-06-english.md`
+- `parts/part-08-shealtiel-and-zerubbabel-question-07-latin.txt`
+- `parts/part-08-shealtiel-and-zerubbabel-question-07-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -174,3 +189,6 @@ objects 388–391.
 The Part 07 pair contains two synchronized source markers, from the remainder
 of logical printed p. 54 through p. 55 / IA leaves-access-PDF pp. 392–393 / OCR
 objects 391–392.
+The Part 08 pair contains five synchronized source markers, from the remainder
+of logical printed p. 55 through p. 59 / IA leaves-access-PDF pp. 393–397 / OCR
+objects 392–396.

@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–53 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–54 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -653,6 +653,33 @@ PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XIX`, headed `In quo
 argumenta adversariorum contra praedictam quam finxit Thomae rationem adducit &
 solvit`, and must repeat the shared-page marker.
 
+Part 54 spans **printed pp. 109–115 / BSB canvases 00135–00141** and contains
+Penottus, Book III, Chapter XIX in full. It begins with the separately headed
+Chapter XIX on the lower part of shared p. 109, presents ten objections,
+chiefly from Molina and Scotus, to Penottus's argument from presentiality, and
+includes Penottus's answers together with Twisse's complete counter-responses. It ends
+in the upper part of shared p. 115 at the chapter's authorial close, immediately
+before the separately headed Chapter XX, and has seven identical source
+markers. The printer's page-end divisions `me-` / `diam` across pp. 109–110 and
+`conjectu-` / `ra` across pp. 111–112 are joined as `mediam` and `conjectura`,
+with the paired markers immediately before the complete Latin words and their
+English counterparts, `middle` and `conjecture`. The p. 110 catchword `haec`,
+the p. 112 catchword `11. ad`, the p. 113 catchword `tendens`, and the p. 114
+catchword `quae` are represented only by their textual occurrences at the
+heads of pp. 111–115; the paired markers stand immediately before `haec` / `is
+this`, `11. ad 1.` / `11, reply 1`, `tendens` / `tending`, and `quae` / `which`
+respectively. The witnessed Greek `τῦτ᾽ χρηστήρια τ᾽ ἀνδρός` is retained in
+both files and glossed in the English.
+
+- `parts/part-54-penottus-book-03-chapter-19-objections-and-replies-latin.txt`
+- `parts/part-54-penottus-book-03-chapter-19-objections-and-replies-english.md`
+
+The next unit resumes on printed p. 115 / canvas 00141 with `IN GABRIELIS
+PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XX`, headed `In quo
+quaerit, utrum ex solâ inspectione causarum secundarum futura contingentia
+notitiâ certâ & infallibili valeant cognosci`, and must repeat the shared-page
+marker.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and
@@ -663,9 +690,11 @@ are represented in paired `[Marginalia: ...]` blocks where the page layout
 permits separation; abbreviated citations remain intentionally conservative.
 
 The opening unit has Greek but no Hebrew. The Greek forms `ὁμοζύγαμα` (printed
-p. 4) and `ὧδε γὰρ` (printed p. 12), and the Part 51 form `καχεξίαν` (printed p.
-96), are retained in the Latin and translated or glossed in the English. No
-Greek or Hebrew has been silently romanized. The exact accents, several tightly
+p. 4) and `ὧδε γὰρ` (printed p. 12), the Part 51 form `καχεξίαν` (printed p.
+96), and the Part 54 forms `ἀδύνατον` and `τῦτ᾽ χρηστήρια τ᾽ ἀνδρός`
+(printed p. 115), are retained in the Latin and translated or glossed in the
+English. No Greek or Hebrew has been silently romanized. The exact accents,
+several tightly
 set marginal references, and residual difficult readings need a future
 specialist image collation. The present transcription and translation are
 complete working drafts, but they remain explicitly AI-assisted and unreviewed.

@@ -56,12 +56,13 @@ reply.
 
 ## Completed units
 
-**Parts 01–10 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–11 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
 (printed pages 59–66), and the opening argument blocks of Book IV, chapter I,
-through the discussion of John 6 (printed pages 67–74).
+through Bellarmine's arguments from the words of institution (printed pages
+67–79).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -102,7 +103,13 @@ through the discussion of John 6 (printed pages 67–74).
   argument).
   - `parts/part-10-book-04-eucharist-chapter-01-opening-latin.txt`
   - `parts/part-10-book-04-eucharist-chapter-01-opening-english.md`
+- **Part 11:** Book IV, *De Sacramento Eucharistiae*, chapter I: the opening
+  statement of the third argument and Bellarmine's complete arguments from
+  the words of institution, items 19–35, printed pages 74–79 (ending at the
+  argument boundary before Ames's corresponding arguments on page 80).
+  - `parts/part-11-book-04-eucharist-chapter-01-words-of-institution-bellarmine-arguments-latin.txt`
+  - `parts/part-11-book-04-eucharist-chapter-01-words-of-institution-bellarmine-arguments-english.md`
 
-The next untranslated boundary is `Tert: argum. Bellarm. petitur a verbis
-institutionis: hoc est corpus meum`, on printed page 74, immediately after the
-closing response to Bellarmine's fourth reply in the discussion of John 6.
+The next untranslated boundary is `Argumenta nostra de verbis institutionis`,
+on printed page 80, beginning with item 36, `Hoc, non potuit cum proferebatur,
+quidquam aliud demonstrare, quam panem`.

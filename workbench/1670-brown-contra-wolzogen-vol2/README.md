@@ -207,6 +207,23 @@ next untranslated boundary is `Dico ergo II. Si data fuerit à Christo potestas
 hæc clavium, fidelium cœtui quâ tali, vel data fuerat, Ecclesiâ nondum
 constitutâ, sed constituendâ; vel Ecclesiâ jam constitutâ.`
 
+## Part 12 boundary and source map
+
+Part 12 begins with `Dico ergo II. Si data fuerit à Christo potestas hæc
+clavium...` in the lower portion of printed p. 168 / ONB canvas 176. It
+completes the negative half of `ASSERTIO X`, arguing that the power of the keys
+and the right to ordain were not given to the body of believers as such. Brown
+presents arguments II–XII against popular possession of the keys, examines at
+length an Independent division of the keys of faith, order, liberty, and
+authority, and then gives arguments three through ten against ordination by the
+people, followed by two objections and replies. The part ends with the complete
+sentence `Sed de primâ hujus assertionis parte jam satis.` in the upper portion
+of printed p. 186 / ONB canvas 194. Its paired files contain nineteen
+synchronized markers for printed pp. 168–186, approximately eighteen full
+pages of text. The exact next untranslated boundary is `Assertionis altera
+pars, quod scil. jus ac potestas ordinandi, solis competat Antecessoribus
+ecclesiasticis, sic evincitur.`
+
 ## Editorial and translation method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -251,6 +268,8 @@ printed Latin wording. No modern translation has been used as a wording source.
 - `parts/part-10-ordination-by-ecclesiastical-officers-english.md`
 - `parts/part-11-keys-and-ecclesiastical-authority-latin.txt`
 - `parts/part-11-keys-and-ecclesiastical-authority-english.md`
+- `parts/part-12-popular-power-and-ordination-latin.txt`
+- `parts/part-12-popular-power-and-ordination-english.md`
 
 Each pair contains the complete unit described above and matching source
 markers. All files remain AI-assisted and unreviewed.

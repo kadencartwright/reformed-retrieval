@@ -38,8 +38,9 @@ for canvases 26–36. Part 08 was compared line by line with the nine BSB images
 for canvases 36–44. Part 09 was compared line by line with the five BSB images
 for canvases 44–48. Part 10 was compared line by line with the six BSB images
 for canvases 48–53. Part 11 was compared line by line with the two BSB images
-for canvases 54–55. No e-rara text, modern edition, or modern translation was
-used.
+for canvases 54–55. Part 12 was compared line by line with the thirteen BSB
+images for canvases 55–67. No e-rara text, modern edition, or modern
+translation was used.
 
 ## Editorial method
 
@@ -178,9 +179,21 @@ printed-column markers:
 - `parts/part-11-church-militant-petrine-monarchy-opening-arguments-latin.txt`
 - `parts/part-11-church-militant-petrine-monarchy-opening-arguments-english.md`
 
-The next continuation boundary is therefore `OBIECTIONES. Obiect. 1. Si
-Petrus est petra super quam aedificat Christus Ecclesiam`, later in printed
-column 110 on BSB canvas 55.
+**Part 12 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the complete objection series for Question II, whether
+Christ established monarchy in the person of Peter, in printed columns
+110–134. It answers the arguments from Peter as rock, the keys, and `Pasce
+oves meas`, then answers twenty-eight alleged Petrine prerogatives and a final
+patristic objection. It ends after the response explaining the varied senses
+of `caput`, immediately before `QUÆSTIO III. An Petrus Romæ fuerit`; it
+contains twenty-five synchronized printed-column markers:
+
+- `parts/part-12-church-militant-petrine-monarchy-objections-latin.txt`
+- `parts/part-12-church-militant-petrine-monarchy-objections-english.md`
+
+The next continuation boundary is therefore `QUÆSTIO III. An Petrus Romæ
+fuerit. Bellarminus lib. 2. de Rom. Pont. cap. 2. asserit Petrum Romæ fuisse`,
+later in printed column 134 on BSB canvas 67.
 
 ## Review and licensing notice
 

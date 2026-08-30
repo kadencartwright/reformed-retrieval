@@ -350,6 +350,25 @@ text served only as aids. The word divided across the p. 161/p. 162 break is
 joined and placed wholly after the p. 162 marker in both files. The pair
 remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 18 boundary and status
+
+Part 18 is a synchronized Latin/English working pair with exactly five
+markers: partial printed pp. 162 and 166 and complete pp. 163–165, IA leaves
+192–196, access-PDF pp. 192–196, and DjVu OCR objects 191–195. It begins in
+the left column of printed p. 162 immediately after Part 17 with `QUAESTIO X.
+An Septuaginta hebdomadae Danielis tempus aliquod certum & definitum, an verò
+incertum & indefinitum importent?`, contains Question X in full, and ends in
+the left column of printed p. 166 after `Sed quod fuerit istarum hebdomadarum
+verum principium jam videamus.`
+
+`QUAESTIO XI. Quod sit verum principium septuaginta hebdomadarum Danielis?`
+begins at the top of the right column of p. 166 and is wholly excluded. All
+five controlling 300-dpi images, `pdf-192.jpg` through `pdf-196.jpg`, were used
+for the transcription; OCR served only as an aid. The Greek and Hebrew strings
+and all printed marginalia are retained, as is the witness reading
+`injicereretur`. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -400,13 +419,15 @@ have not been modernized or endorsed.
 - `parts/part-16-book-01-chapter-10-question-08-english.md`
 - `parts/part-17-book-01-chapter-10-question-09-latin.txt`
 - `parts/part-17-book-01-chapter-10-question-09-english.md`
+- `parts/part-18-book-01-chapter-10-question-10-latin.txt`
+- `parts/part-18-book-01-chapter-10-question-10-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
 04, twenty for Part 05, fourteen for Part 06, twenty for Part 07, twenty-six
 for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
-12, three for Part 13, two for Part 14, three each for Parts 15 and 16, and two
-for Part 17. There are thirty-four current files in seventeen Latin/English
-pairs, containing 176 synchronized source markers per language (352 marker
-occurrences across all thirty-four files). The files remain AI-assisted and
-unreviewed.
+12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
+Part 17, and five for Part 18. There are thirty-six current files in
+eighteen Latin/English pairs, containing 181 synchronized source markers per
+language (362 marker occurrences across all thirty-six files). The files
+remain AI-assisted and unreviewed.

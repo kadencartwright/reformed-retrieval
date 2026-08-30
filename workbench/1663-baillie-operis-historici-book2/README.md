@@ -196,6 +196,21 @@ The next excluded heading is `QUAESTIO XII. Quid sit Σάββατον δευτε
 secundo primum Luc. 6. 1?` The boundary is question-complete and includes no
 body text from Question XII.
 
+## Part 13 boundary
+
+Part 13 resumes with the excluded Question XII heading in the remainder of
+printed p. 74 / PDF-IA leaf 412 / OCR object 411. It surveys nine classes of
+interpretation of Luke’s `Σάββατον δευτερόπρωτον`, rejecting mystical,
+new-moon, coincident-feast, first-day-of-Unleavened-Bread, Pentecost, and
+two-beginnings-of-the-year explanations. It follows Epiphanius and Scaliger in
+identifying the day as the first weekly Sabbath after the second day of
+Unleavened Bread and ends with Question XII within printed p. 79 / PDF-IA leaf
+417 / OCR object 416 at `Hoc ei nemo doctorum concedet.`
+
+The next excluded heading is `QUAESTIO XIII. An & quare Christus, ultimum suum
+Pascha una nocte maturius celebraverit quam caeteri Judaei?` The boundary is
+question-complete and includes no body text from Question XIII.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -239,6 +254,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-11-magi-question-10-english.md`
 - `parts/part-12-temple-forty-six-years-question-11-latin.txt`
 - `parts/part-12-temple-forty-six-years-question-11-english.md`
+- `parts/part-13-second-first-sabbath-question-12-latin.txt`
+- `parts/part-13-second-first-sabbath-question-12-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -274,3 +291,6 @@ objects 405–408.
 The Part 12 pair contains four synchronized source markers, from the remainder
 of logical printed p. 71 through the first column of p. 74 / IA leaves-access-PDF pp.
 409–412 / OCR objects 408–411.
+The Part 13 pair contains six synchronized source markers, from the remainder
+of logical printed p. 74 through the first column of p. 79 / IA
+leaves-access-PDF pp. 412–417 / OCR objects 411–416.

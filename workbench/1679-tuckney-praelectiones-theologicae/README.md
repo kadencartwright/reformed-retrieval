@@ -1342,6 +1342,22 @@ fifth branch, beginning `Quae et quinta sit`, is excluded.
 - English: `parts/part-79-romans-04-05-abraham-55-english.md`
 - Extent: three synchronized markers, printed pp. 308–310 / IA leaves 316–318
 
+## Part 80: fifty-sixth unit of the Romans 4:5 lecture
+
+Part 80 completes Tuckney's fifth argument against Osiander. Its final two
+branches show that Osiander's position removes justification from Christ's
+humanity and from Christ as Mediator, contradicts its own account of the
+cross, and leaves nothing peculiar to Christ in justification. Tuckney then
+formally concludes that the doctrine overturns the evangelical economy of
+redemption and reconciliation. It runs from `Quae et quinta sit` on printed
+p. 310 / IA leaf 318 through that conclusion on printed p. 311 / IA leaf
+319. Bellarmine's additional anti-Osiandrian arguments, beginning `Ad quam
+quidem Osiandri sententiam`, are excluded.
+
+- Latin: `parts/part-80-romans-04-05-abraham-56-latin.txt`
+- English: `parts/part-80-romans-04-05-abraham-56-english.md`
+- Extent: two synchronized markers, printed pp. 310–311 / IA leaves 318–319
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

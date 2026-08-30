@@ -1225,6 +1225,36 @@ an AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22d-latin.txt`
 - `parts/part-22-chapter-22d-english.md`
 
-The next unit begins with `V. 10. Ejice derisorem, & exibit contentio; &
-cessabit lis, & ignominia.` in the right column of shared PDF 495 / printed
-column 975; restart at that lemma, excluding every verse 9 sentence above it.
+**Part 22e is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII from `V. 10. Ejice derisorem, &
+exibit contentio; & cessabit lis, & ignominia.` in the right column of shared
+PDF 495 / printed column 975 through the final prose of verse 11 on PDF 497 /
+printed column 978, ending `qui ex animo, quod sentiunt, dicturi sunt.` It
+stops immediately before `V. 12. Oculi Iehovae custodiunt scientiam: sed
+pervertit verba perfidiosi.` in that same left column. Latin and English have
+three byte-identical source markers (PDF 495–497; synchronized printed columns
+974–975 through 978–979) and retain both verse lemmata, full in-scope prose,
+Greek, citations, abbreviations, and printing irregularities. The complete
+files contain 686 Latin-file and 981 English-file whitespace-delimited words,
+respectively, including headers and markers.
+
+Every core image, PDF 495–497, was inspected at original and enlarged detail
+in left-then-right column order. The shared PDF-495 marker begins only at `V.
+10.` in the right column; every verse 9 sentence above it is excluded. At the
+PDF-495/496 turn, the catchword `nodus` was excluded: `cujus` remains under PDF
+495, while whole `nodus` and its corresponding English `knot` are assigned to
+PDF 496. At the PDF-496/497 turn, the catchword `apud` was excluded: `sed
+nonnunquam` and its corresponding English wording remain under PDF 496, while
+whole `apud` and its corresponding English `among` are assigned to PDF 497.
+The final PDF-497 marker contains only the conclusion of verse 11 above `V.
+12.`; no verse 12 material or right-column text is imported. Witness forms
+including `exibit`, `eijciens`, `eiiciendus`, `respuitq;`, `ἀναίδειαν`,
+`premio`, `Nebuchad.`, and `Balth.` were retained. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22e-latin.txt`
+- `parts/part-22-chapter-22e-english.md`
+
+The next unit begins with `V. 12. Oculi Iehovae custodiunt scientiam: sed
+pervertit verba perfidiosi.` in the left column of shared PDF 497 / printed
+column 978; restart at that lemma, excluding every verse 11 sentence above it.

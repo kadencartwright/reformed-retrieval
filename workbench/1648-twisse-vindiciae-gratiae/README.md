@@ -32,7 +32,7 @@ The controlling witness is the Bayerische Staatsbibliothek copy, shelfmark
 The BSB IIIF manifest records 816 canvases and identifies the copy as the 1648
 Amsterdam Janssonius edition. Page images govern the transcription; BSB page
 hOCR is only a navigation and collation aid. The completed sequence has been
-checked page by page against canvases 9–46.
+checked page by page against canvases 9–47.
 
 The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
@@ -136,16 +136,20 @@ made here for the Latin transcription, witness images, or metadata.
   `VINDICIARUM GRATIAE, POTESTATIS, AC PROVIDENTIAE DEI, LIBRI PRIMI. PARS
   PRIMA, DE PRAEDESTINATIONE` and ending in the upper portion of printed p. 38
   immediately before `SECTIO SECUNDA`.
-- BSB canvas 46, lower portion: Book I, Part I, `SECTIO SECUNDA` begins on
-  shared printed p. 38.
+- BSB canvases 46–47: Part 18 begins Book I, Part I, `SECTIO SECUNDA` in the
+  lower portion of shared printed p. 38 with Perkins's proposition on the
+  final end of predestination and preserves Arminius's complete eleven-part
+  treatment; it ends on printed p. 39 immediately before Twisse's `RESP.`
+- BSB canvas 47, lower portion: Twisse's reply in `SECTIO SECUNDA` begins on
+  shared printed p. 39.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
 - BSB canvases 809–816: terminal index and binding matter.
 
 The preliminary and body boundaries above were inspected in the continuous
-canvas sequence through canvas 46. Part 01 has seventeen synchronized
+canvas sequence through canvas 47. Part 01 has seventeen synchronized
 printed-page markers,
 including the two shared boundary pages (7 and 17). No missing or duplicated
-leaf was detected in canvases 1–46. Running heads, signatures, catchwords,
+leaf was detected in canvases 1–47. Running heads, signatures, catchwords,
 ornaments, and column-guide letters are non-substantive and omitted.
 
 ## Editorial method
@@ -421,7 +425,26 @@ substantive marginal notes, are retained. The witness forms `lineae`,
 - Latin: `parts/part-17-book-01-part-01-section-01-definition-of-predestination-latin.txt`
 - English: `parts/part-17-book-01-part-01-section-01-definition-of-predestination-english.md`
 
-The next untranslated unit begins with the centered `SECTIO SECUNDA` and
-Perkins's proposition `Praedestinationis ultimus finis est declaratio gloriae
-Dei, in illius partim misericordia, partim justitia` in the lower portion of
-printed p. 38 / BSB canvas 46.
+**Part 18 is complete as an AI-assisted, scan-audited, unreviewed working
+draft.** It begins Book I, Part I, `SECTIO SECUNDA` in the lower portion of
+printed p. 38 / BSB canvas 46 with Perkins's proposition
+`Praedestinationis ultimus finis est declaratio gloriae Dei, in illius partim
+misericordia, partim justitia`. It then preserves Arminius's complete
+eleven-part treatment of the final end of predestination, the order in which
+the divine attributes are manifested, creation and rational creatures, the
+predestination and reprobation of angels and human beings, mercy and punitive
+justice, and the order of the objects of divine knowledge and will. It ends at
+the clean speaker and argument boundary on printed p. 39 / canvas 47,
+immediately before Twisse's separately headed `RESP.` The pair has two
+identical source markers; the p. 38–39 boundary falls between the complete
+words `juxta` and `illas`, Arminius's substantive marginal label `De ultimo
+fine praedest.` is retained and translated, and no Greek occurs in this unit.
+The witness's grammatically unexpected `versatur conservatione, &
+gubernatione ... administratis` is not silently emended.
+
+- Latin: `parts/part-18-book-01-part-01-section-02-final-end-arminius-latin.txt`
+- English: `parts/part-18-book-01-part-01-section-02-final-end-arminius-english.md`
+
+The next untranslated unit begins with Twisse's `RESP.` and the large-initial
+paragraph `Linea recta est omnium brevissima: quo magis ambages istae` in the
+lower portion of printed p. 39 / BSB canvas 47.

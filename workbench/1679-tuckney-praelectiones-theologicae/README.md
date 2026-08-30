@@ -1389,6 +1389,21 @@ beginning `Concedimus itaque, Ex parte objecti`, are excluded.
 - English: `parts/part-82-articles-of-faith-and-reason-01-english.md`
 - Extent: four synchronized markers, new-series fols. 1–4 / IA leaves 321–324
 
+## Part 83: second unit on articles of faith and human reason
+
+Part 83 gives Tuckney's full positive account of reason's legitimate use in
+theology. He first treats objective reason, then enumerates its subjective
+uses in natural and supernatural theology: reception of revelation,
+technical clarification, preparation, confirmation, inference,
+interpretation, examination, and apologetic refutation. It runs from
+`Concedimus itaque` on new-series fol. 4 / IA leaf 324 through the transition
+to Tuckney's three denials on new-series fol. 9 / IA leaf 329. The first
+denial, headed `Negamus` and beginning `Primo Cognitorem`, is excluded.
+
+- Latin: `parts/part-83-articles-of-faith-and-reason-02-latin.txt`
+- English: `parts/part-83-articles-of-faith-and-reason-02-english.md`
+- Extent: six synchronized markers, new-series fols. 4–9 / IA leaves 324–329
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

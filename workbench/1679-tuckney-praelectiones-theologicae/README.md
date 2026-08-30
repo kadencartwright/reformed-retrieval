@@ -1264,6 +1264,22 @@ commatis est decimum`, is excluded.
 - English: `parts/part-74-romans-04-05-abraham-50-english.md`
 - Extent: three synchronized markers, printed pp. 299–301 / IA leaves 307–309
 
+## Part 75: fifty-first unit of the Romans 4:5 lecture
+
+Part 75 answers Bellarmine's tenth and final argument that Christ's passion
+would fail unless sanctification were the inherent righteousness of
+justification. Tuckney affirms both true justification by imputation and true
+sanctification by infusion, distinguishes their present and future
+perfection, and adds two closing corollaries about divine grace and peace of
+conscience. He then formally dismisses Bellarmine's full argument set. It
+runs from `Ejusdem commatis est decimum` on printed p. 301 / IA leaf 309
+through the close of the second main question on printed p. 302 / IA leaf
+310. The third question, beginning `Soluto jam tandem secundo`, is excluded.
+
+- Latin: `parts/part-75-romans-04-05-abraham-51-latin.txt`
+- English: `parts/part-75-romans-04-05-abraham-51-english.md`
+- Extent: two synchronized markers, printed pp. 301–302 / IA leaves 309–310
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

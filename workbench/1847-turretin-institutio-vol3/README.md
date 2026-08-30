@@ -931,3 +931,30 @@ The next restart point is `QUÆSTIO XXXIV. DE POLITICA ECCLESIÆ GUBERNATIONE.
 Quodnam sit Jus Magistratus Christiani circa Sacra, et an Cura et Cognitio de
 Religione ad eum ullatenus pertineat? Affirm.` on shared printed p. 268 / IA
 leaf 302 / PDF p. 302.
+
+## Part 34
+
+Part 34 contains the complete Locus XVIII, Question XXXIV, “De Politica
+Ecclesiæ Gubernatione.” It begins with the question heading on shared printed
+p. 268 / IA leaf 302 / PDF p. 302, immediately after Question XXXIII, and ends
+with section LI on printed p. 284 / IA leaf 318 / PDF p. 318. The divisional
+title for Locus XIX follows on the next scan leaf and is excluded.
+
+- Latin: `parts/part-34-locus-18-question-34-latin.txt`
+- English: `parts/part-34-locus-18-question-34-english.md`
+- Both files contain seventeen synchronized source-page markers, the complete
+  section sequence I–LI, and twenty-seven synchronized marginalia blocks.
+- The scan verification covered all seventeen page images and all sixteen page
+  joins. The pp. 269–270, 271–272, 276–277, 277–278, and 278–279 joins divide
+  `statuas`, `animadvertere`, `peregrinum`, `populum`, and `intactus`; each
+  word is joined, with the new-page marker placed before the complete Latin
+  word and its English counterpart. The other joins divide no word.
+- The transcription retains all printed Greek and the witness’s unusual or
+  malformed `Maniani`, `immediate autoritatem`, `simil sancitæ`, `religionem
+  suum`, `es` after `Circumcelliones`, `Bartholosa Caza`, `totom`, and
+  `hæresos`. It also retains the printed date `1562` and the biblical citation
+  `Luc. xi. 54`; the English translates the evident sense without silently
+  altering the Latin witness.
+
+The next restart point is the divisional title `LOCUS DECIMUS NONUS. DE
+SACRAMENTIS.` on the unnumbered page at IA leaf 319 / PDF p. 319.

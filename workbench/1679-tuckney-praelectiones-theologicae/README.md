@@ -527,6 +527,20 @@ centered heading `Rom. IV. 3.` is excluded.
 - English: `parts/part-29-romans-04-05-abraham-05-english.md`
 - Extent: ten synchronized markers, printed pp. 186–195 / IA leaves 194–203
 
+## Part 30: sixth unit of the Romans 4:5 lecture
+
+Part 30 opens Tuckney's exposition of Romans 4:3. It explains the verse's
+place in Paul's chain of argument, the authority and personification of
+Scripture, Paul's use of `Abraham` for Genesis's `Abram`, and the relation of
+believing God to believing in God. It runs from the centered `Rom. IV. 3.` on
+printed p. 196 / IA leaf 204 through the conclusion of the discussion of
+`Credidit Deo` on printed p. 202 / IA leaf 210. The new inquiry beginning
+`Illud ultimum est quod in fine Commatis habetur` is excluded.
+
+- Latin: `parts/part-30-romans-04-05-abraham-06-latin.txt`
+- English: `parts/part-30-romans-04-05-abraham-06-english.md`
+- Extent: seven synchronized markers, printed pp. 196–202 / IA leaves 204–210
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

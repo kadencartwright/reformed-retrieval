@@ -134,6 +134,20 @@ The next excluded heading is `QUAESTIO VIII. Quomodo Josephus duos habuerit
 patres, Jacobum secundum Matthaeum, & Eli secundum Lucam?` The boundary is
 question-complete and includes no body text from Question VIII.
 
+## Part 09 boundary
+
+Part 09 resumes with the excluded Question VIII heading in the remainder of
+printed p. 59 / PDF-IA leaf 397 / OCR object 396. It treats the general
+distinction between Joseph’s natural and legal fathers, Julius Africanus’s
+levirate explanation and the objections to it, and Spanheim’s two proposed
+readings of Luke’s genealogy. It ends with Question VIII within printed p. 64 /
+PDF-IA leaf 402 / OCR object 401 at `quivis cordatus libertatem postulet
+ἐπέχειν.`
+
+The next excluded heading is `QUAESTIO IX. Cur ad Josephum potius, quam ad
+Mariam Christi stemma referatur.` The boundary is question-complete and
+includes no body text from Question IX.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -169,6 +183,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-07-matthews-fourteens-question-06-english.md`
 - `parts/part-08-shealtiel-and-zerubbabel-question-07-latin.txt`
 - `parts/part-08-shealtiel-and-zerubbabel-question-07-english.md`
+- `parts/part-09-josephs-two-fathers-question-08-latin.txt`
+- `parts/part-09-josephs-two-fathers-question-08-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -192,3 +208,6 @@ objects 391–392.
 The Part 08 pair contains five synchronized source markers, from the remainder
 of logical printed p. 55 through p. 59 / IA leaves-access-PDF pp. 393–397 / OCR
 objects 392–396.
+The Part 09 pair contains six synchronized source markers, from the remainder
+of logical printed p. 59 through p. 64 / IA leaves-access-PDF pp. 397–402 / OCR
+objects 396–401.

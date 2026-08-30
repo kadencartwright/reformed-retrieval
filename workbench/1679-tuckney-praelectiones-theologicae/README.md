@@ -902,6 +902,21 @@ beginning `Secunda Pontificiorum et Castellionis opinio`, is excluded.
 - English: `parts/part-52-romans-04-05-abraham-28-english.md`
 - Extent: three synchronized markers, printed pp. 269–271 / IA leaves 277–279
 
+## Part 53: twenty-ninth unit of the Romans 4:5 lecture
+
+Part 53 briefly sets aside the Roman and Castellio view of perfection before
+death, then states Tuckney's own position that believers are completely
+freed from inherent sin at death. It gathers supporting testimony from
+Ambrose, Cyprian, Albert the Great, Methodius, Augustine, Gregory of Nyssa,
+Gregory Nazianzen, Irenaeus, and Justin Martyr. It runs from `Secunda
+Pontificiorum et Castellionis opinio` on printed p. 271 / IA leaf 279 through
+the close of the patristic testimony on printed p. 272 / IA leaf 280. The
+turn to biblical arguments, `Ad Divina tandem`, is excluded.
+
+- Latin: `parts/part-53-romans-04-05-abraham-29-latin.txt`
+- English: `parts/part-53-romans-04-05-abraham-29-english.md`
+- Extent: two synchronized markers, printed pp. 271–272 / IA leaves 279–280
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

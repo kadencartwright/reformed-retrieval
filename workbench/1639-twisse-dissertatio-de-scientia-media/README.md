@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–56 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–57 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -736,6 +736,31 @@ The next unit resumes on printed p. 134 / canvas 00160 with `IN GABRIELIS
 PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XXII`, headed `In quo
 dubium secundum resolvitur. An scilicet in divino decreto cognoscantur actus
 moraliter mali, seu peccata`, and must repeat the shared-page marker.
+
+Part 57 spans **printed pp. 134–136 / BSB canvases 00160–00162** and contains
+the opening exchange of Penottus, Book III, Chapter XXII. It begins with the
+separately headed chapter on the lower part of shared p. 134 and Penottus's
+statement of the recent theologians' position that morally evil acts are known
+in God's eternal decree with respect to their natural entity while their
+malice is permitted. Twisse's complete opening response distinguishes efficient
+causation from permission, assembles the biblical evidence for divine
+providence in evil, identifies Scotus's account of divine cooperation and the
+predetermination of created wills, and examines Scotus's comparison between a
+secondary cause and an instrument. It ends in the upper section of p. 136 at
+Twisse's authorial close, `praedeterminatos à Deo esse nequaquam patitur`,
+immediately before Penottus begins a new formal turn with `Oppositam sententiam
+puto verissimam`, and has three identical source markers and two synchronized
+speaker labels. The p. 134 catchword `qui` and the p. 135 catchword `Quan-` are
+represented only by the complete textual occurrences at the heads of pp. 135
+and 136; the paired markers stand immediately before `qui` / `who` and `Quando`
+/ `When`.
+
+- `parts/part-57-penottus-book-03-chapter-22-sin-and-divine-decree-opening-latin.txt`
+- `parts/part-57-penottus-book-03-chapter-22-sin-and-divine-decree-opening-english.md`
+
+The next unit resumes on printed p. 136 / canvas 00162 with Penottus's
+`Oppositam sententiam puto verissimam & omnino sequendam`, and must repeat the
+shared-page marker.
 
 ## Editorial method and cautions
 

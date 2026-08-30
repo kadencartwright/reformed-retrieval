@@ -855,6 +855,22 @@ detailed arguments beginning `Aquinas ex eo praecipue` are excluded.
 - English: `parts/part-49-romans-04-05-abraham-25-english.md`
 - Extent: three synchronized markers, printed pp. 263–265 / IA leaves 271–273
 
+## Part 50: twenty-sixth unit of the Romans 4:5 lecture
+
+Part 50 presents Aquinas's and Durandus's detailed arguments against faith's
+acts remaining in glory, then gives Tuckney's five-part response to Aquinas.
+He distinguishes culpable defect from a lesser degree of perfection,
+explains Hebrews 11:1 as a description of wayfaring faith, and argues that
+vision, knowledge, and believing divine testimony can remain distinct modes
+of knowing the same object. It runs from `Aquinas ex eo praecipue` on
+printed p. 265 / IA leaf 273 through the fifth response to Aquinas on
+printed p. 267 / IA leaf 275. The separate reply beginning `Quod ad Durandi
+argumentum attinet` is excluded.
+
+- Latin: `parts/part-50-romans-04-05-abraham-26-latin.txt`
+- English: `parts/part-50-romans-04-05-abraham-26-english.md`
+- Extent: three synchronized markers, printed pp. 265–267 / IA leaves 273–275
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

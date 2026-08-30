@@ -656,3 +656,30 @@ The next restart point is `QUÆSTIO XXIV. DE JURE VOCATIONIS. An Jus eligendi
 et vocandi Pastores ad solos Episcopos pertineat, an vero ad totam Ecclesiam?
 Prius. Neg. Poster. Affir. cont. Pontif.` on printed p. 190 / IA leaf 224 / PDF
 p. 224.
+
+## Part 24
+
+Part 24 contains the complete Locus XVIII, Question XXIV, “De Jure
+Vocationis.” It begins with the question heading on printed p. 190 / IA leaf
+224 / PDF p. 224 and ends with section XXVI on shared printed p. 199 / IA leaf
+233 / PDF p. 233. Question XXV, “De Vocatione Primorum Reformatorum,” begins
+below it on that page and is excluded.
+
+- Latin: `parts/part-24-locus-18-question-24-latin.txt`
+- English: `parts/part-24-locus-18-question-24-english.md`
+- Both files contain ten synchronized source-page markers, the complete
+  section sequence I–XXVI, and eight synchronized marginalia blocks.
+- All ten page images and all nine page joins were checked directly against
+  the scan. The pp. 190–191, 194–195, and 197–198 joins divide `qualitas`,
+  `mittere`, and `expediant`; each word is joined, with the new-page marker
+  placed before the complete Latin word and its English counterpart.
+- The transcription retains all printed Greek and the malformed marginal
+  heading `Ex probatioe Doctorum`. `[sic]` identifies the witness’s disruptive
+  `inconvoniens`, `congegat`, `et quis`, `Discipolos`, `pcsteriori`, and the
+  repeated `Episcopus` where the construction calls for a plural ablative; the
+  English translates the evident sense without silently altering the Latin
+  witness.
+
+The next restart point is `QUÆSTIO XXV. DE VOCATIONE PRIMORUM REFORMATORUM.
+An Vocatio Primorum Reformatorum fuerit legitima. Affirm. cont. Pontif.` on
+shared printed p. 199 / IA leaf 233 / PDF p. 233.

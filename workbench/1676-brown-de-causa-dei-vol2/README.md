@@ -2,8 +2,8 @@
 
 > **Working edition in progress:** This directory contains AI-assisted,
 > scan-audited diplomatic-normalized Latin transcriptions and independent
-> close English translations of the opening one hundred and seventy-nine
-> printed pages of Volume II. The thirty-seven paired parts are unreviewed and
+> close English translations of the opening one hundred and eighty-nine
+> printed pages of Volume II. The thirty-eight paired parts are unreviewed and
 > are not publication-ready.
 
 ## Work and edition
@@ -86,10 +86,10 @@ and printed page numerals are omitted. Every occupied source page has a marker
 recording printed page, access-PDF frame, IA leaf, and item identifier.
 
 The terminal errata leaf was checked in full. Every correction affecting the
-completed span through printed p. 179 is applied and disclosed in the relevant
+completed span through printed p. 189 is applied and disclosed in the relevant
 paired files. No substantive marginalia occur in the completed span. The
-Hebrew and Greek on p. 4 and in Chapters VII, XIV, and XVII were read from the
-images, not reconstructed from IA OCR. Apparatus notes record printed errata,
+Hebrew and Greek on p. 4 and in Chapters VII, XIV, XVII, and XVIII were read
+from the images, not reconstructed from IA OCR. Apparatus notes record printed errata,
 source-language glosses needed by the English, and anomalous citations without
 silently repairing them.
 
@@ -102,7 +102,7 @@ unreviewed pending line-by-line review by a competent Latinist.
 
 ## Completed parts and continuation boundary
 
-Thirty-seven paired parts are complete as scan-audited, AI-assisted, unreviewed
+Thirty-eight paired parts are complete as scan-audited, AI-assisted, unreviewed
 working drafts:
 
 - **Part 01:** Book IV's introduction, prospectus, and all of Chapter I;
@@ -282,12 +282,19 @@ working drafts:
   synchronized markers.
   [Latin](parts/part-37-book-04-chapter-17-burmann-objections-latin.txt) |
   [English](parts/part-37-book-04-chapter-17-burmann-objections-english.md)
+- **Part 38:** all of Chapter XVIII, answering twenty-four objections from
+  other writers about the Decalogue, the covenants of works and grace, and
+  the law's promises and uses; printed pp. 179–189 / IA PDF and leaves
+  187–197; eleven synchronized markers.
+  [Latin](parts/part-38-book-04-chapter-18-other-objections-latin.txt) |
+  [English](parts/part-38-book-04-chapter-18-other-objections-english.md)
 
-Part 37 ends with Chapter XVII's response to Dr. Burmann and before `CAP.
-XVIII.` on printed p. 179. The exact next untranslated text is `CAP. XVIII.`,
-at printed p. 179 / IA PDF 187 / IA leaf 187, followed by `Aliorum objectiones
-confutantur.` Chapters VI through XVII are complete. Every completed pair has
-an identical source-marker sequence, and all thirty-seven pairs remain
+Part 38 ends with Chapter XVIII's response to de Raadt and before `CAP. XIX.`
+on printed p. 189. The exact next untranslated text is `CAP. XIX.`, at printed
+p. 189 / IA PDF 197 / IA leaf 197, followed by `Praemittuntur quidam de secundo
+Decalogi praecepto; & monstratur, hoc praeceptum mandare cultum Dei
+institutum.` Chapters VI through XVIII are complete. Every completed pair has
+an identical source-marker sequence, and all thirty-eight pairs remain
 AI-assisted and unreviewed.
 
 ## Licensing

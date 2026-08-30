@@ -75,6 +75,11 @@ made here for the Latin transcription, witness images, or metadata.
   from Perkins's proposition that God is always just through Twisse's reply
   on works whose justice exceeds human judgment; it ends in the top lines of
   p. 22 immediately before `SECTIO QUARTA NOTIO II`.
+- BSB canvases 30–33: Part 07 contains the complete `SECTIO QUARTA NOTIO II`,
+  from Perkins's proposition that God is not ruled by secondary causes through
+  Twisse's reply on divine decrees, the fall, the mission of Christ, punishment,
+  and the senses of *ordinare*; it ends in the top lines of p. 25 immediately
+  before `SECTIO QUINTA NOTIO III`.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -179,7 +184,23 @@ biblical marginalia are retained.
 - Latin: `parts/part-06-preface-section-03-notion-01-divine-justice-latin.txt`
 - English: `parts/part-06-preface-section-03-notion-01-divine-justice-english.md`
 
-The next untranslated unit begins with the centered `SECTIO QUARTA NOTIO II`
-on printed p. 22 / BSB canvas 30 and Perkins's proposition `Deum non regi,
-nedum pendere e causis secundis: sed eas juste ordinare, tum quum injuste
-agunt`.
+**Part 07 is complete as an AI-assisted, unreviewed working draft.** It begins
+with the centered `SECTIO QUARTA NOTIO II` on shared printed p. 22 / BSB
+canvas 30 and Perkins's proposition `Deum non regi, nedum pendere e causis
+secundis: sed eas juste ordinare, tum quum injuste agunt`. It preserves
+Arminius's five observations and Twisse's complete reply on secondary causes,
+the logical order of decree and execution, Adam's fall, Christ's mission,
+punishment, and the proper and extended senses of *ordinare*. It continues
+through the opening two lines of printed p. 25 / canvas 33 and ends immediately
+before the centered `SECTIO QUINTA NOTIO III`. The pair has four identical
+source markers; the p. 24–25 continuation `Jam` / `enim`, Greek
+`ἀκυρολογίας`, quotations, and substantive marginalia are retained. On the
+conservative global touched-canvas account, this unit occupies 4 of the
+edition's 816 canvases (approximately 0.49%), below the 1% stop.
+
+- Latin: `parts/part-07-preface-section-04-notion-02-secondary-causes-latin.txt`
+- English: `parts/part-07-preface-section-04-notion-02-secondary-causes-english.md`
+
+The next untranslated unit begins with the centered `SECTIO QUINTA NOTIO III`
+on printed p. 25 / BSB canvas 33 and Perkins's proposition `Deum agere
+prudenter, id est adhibito certo fine`.

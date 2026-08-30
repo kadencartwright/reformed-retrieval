@@ -731,6 +731,52 @@ for both pages. All included printed marginalia and the Greek word are
 retained. The pair remains an AI-assisted, unreviewed draft and is not
 publication-ready.
 
+## Part 37 boundary and status
+
+Part 37 is a synchronized Latin/English working pair with exactly three
+markers: partial printed pp. 221 and 223 and complete p. 222, IA leaves
+251–253, access-PDF pp. 251–253, and DjVu OCR objects 250–252. It begins in
+the left column of printed p. 221 immediately after Part 36 with `Praecipua
+Aetolorum cura & spes fuit Antiochus ...`. It contains Antiochus’s conflict
+with the Romans; Hannibal’s counsel, flight, and death; the Roman victories at
+Thermopylae and Magnesia; the ingratitude shown to the two Scipios;
+Philopoemen’s capture and death; and Antiochus the Great’s death and the
+author’s examination of Justin’s readings for its location. It ends in the
+left column of printed p. 223 after the notice that the temple of Jupiter of
+Dodona had long before been plundered by the Aetolians.
+
+The next paragraph, `Romani ut abstinentiae & justitiae famam non minorem quam
+fortitudinis acquirerent ...`, begins immediately below and is wholly
+excluded, as is the following narrative of Philip and Perseus. The three
+controlling 300-dpi page images, `pdf-251.jpg` through `pdf-253.jpg`, governed
+the transcription; OCR served only as an aid. The body words divided at the
+p. 221/p. 222 and p. 222/p. 223 boundaries are joined and placed wholly after
+the later synchronized marker, and all included printed marginalia are
+retained. The pair remains an AI-assisted, unreviewed draft and is not
+publication-ready.
+
+## Part 38 boundary and status
+
+Part 38 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 223–224, IA leaves 253–254, access-PDF pp. 253–254, and
+DjVu OCR objects 252–253. It begins in the left column of printed p. 223
+immediately after Part 37 with `Romani ut abstinentiae & justitiae famam non
+minorem quam fortitudinis acquirerent ...`. It contains the transition from
+Roman restraint to Roman tyranny; Philip’s preparations, the killing of
+Demetrius, and Philip’s death; Perseus’s preparations, defeat, captivity, and
+the extinction of the Macedonian royal line; and Roman cruelty toward the
+Epirotes, Achaeans, Rhodians, and Eumenes. It ends in the left column of
+printed p. 224 after the Roman beast begins to display and employ its iron
+teeth in all the provinces.
+
+The next paragraph, `Antiochus Magnus duos post se filios reliquit ...`,
+begins immediately below and is wholly excluded. The two controlling 300-dpi
+page images, `pdf-253.jpg` and `pdf-254.jpg`, governed the transcription; OCR
+served only as an aid. The body text divided at the p. 223/p. 224 boundary is
+joined and placed wholly after the later synchronized marker, and all included
+printed marginalia are retained. The pair remains an AI-assisted, unreviewed
+draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -819,6 +865,10 @@ have not been modernized or endorsed.
 - `parts/part-35-book-01-chapter-11f-antiochus-magnus-and-philopator-english.md`
 - `parts/part-36-book-01-chapter-11g-macedon-sparta-and-rome-latin.txt`
 - `parts/part-36-book-01-chapter-11g-macedon-sparta-and-rome-english.md`
+- `parts/part-37-book-01-chapter-11h-antiochus-hannibal-and-philopoemen-latin.txt`
+- `parts/part-37-book-01-chapter-11h-antiochus-hannibal-and-philopoemen-english.md`
+- `parts/part-38-book-01-chapter-11i-philip-perseus-and-roman-cruelty-latin.txt`
+- `parts/part-38-book-01-chapter-11i-philip-perseus-and-roman-cruelty-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -828,7 +878,8 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25,
 three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
-30, four for Part 31, three each for Parts 32–35, and four for Part 36. There
-are seventy-two current files in thirty-six Latin/English pairs, containing
-254 synchronized source markers per language (508 marker occurrences across
-all seventy-two files). The files remain AI-assisted and unreviewed.
+30, four for Part 31, three each for Parts 32–35, four for Part 36, three for
+Part 37, and two for Part 38. There are seventy-six current files in
+thirty-eight Latin/English pairs, containing 259 synchronized source markers
+per language (518 marker occurrences across all seventy-six files). The files
+remain AI-assisted and unreviewed.

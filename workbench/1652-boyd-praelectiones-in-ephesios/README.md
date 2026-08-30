@@ -63,6 +63,7 @@ same scan can legitimately close one part and open the next:
 | 18 | XVIII | 103–107 | 61–65 | `Sequitur nunc ut ad ejus partes sive species descendamus` through the definition and two acts of election, Christ as the elect head and foundation, and `Hactenus igitur de Christi ipsius, Electorum capitis & fundamenti, gratuitâ Electione dixisse sufficiat` before Lecture XIX |
 | 19 | XIX | 108–113 | 66–71 | `Sequitur nunc, ut Electos Christo unitos consideremus` through the elect angels and humanity, the efficient, impelling, and final causes of election, and `Atque hæc de causâ Electionis nostræ finali disseruisse sufficiat` before Lecture XX; scan 107 has only the omitted catchword `Sequitur` |
 | 20 | XX | 113–119 | 71–77 | `Sequuntur jam, priusquam ad effecta veniamus` through the four conditions and four temporal effects of election, the opening corollary on its signs and assurance, and `Ita etiam cum vero Spiritus Sancti testimonio, multa alia dona, gratiæque speciales conjuncta sunt` before Lecture XXI |
+| 21 | XXI | 119–126 | 77–84 | `In quibus vobis paulò distinctius exprimendis & enarrandis adhuc visum est immorari` through the gifts peculiar to the elect, the internal and external signs of election, and `quod primum ac præcipuum erat Corollarium nobis ex doctrinâ præcedente deducendum` before Lecture XXII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -122,8 +123,9 @@ English translation:
 | 18 | Election and Christ the foundation | [`part-18-praelection-18-election-and-christ-the-foundation-latin.txt`](parts/part-18-praelection-18-election-and-christ-the-foundation-latin.txt) | [`part-18-praelection-18-election-and-christ-the-foundation-english.md`](parts/part-18-praelection-18-election-and-christ-the-foundation-english.md) |
 | 19 | The elect and the causes of election | [`part-19-praelection-19-the-elect-and-causes-of-election-latin.txt`](parts/part-19-praelection-19-the-elect-and-causes-of-election-latin.txt) | [`part-19-praelection-19-the-elect-and-causes-of-election-english.md`](parts/part-19-praelection-19-the-elect-and-causes-of-election-english.md) |
 | 20 | The conditions, effects, and signs of election | [`part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-latin.txt) | [`part-20-praelection-20-conditions-effects-and-signs-of-election-english.md`](parts/part-20-praelection-20-conditions-effects-and-signs-of-election-english.md) |
+| 21 | The gifts and signs distinguishing the elect | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-latin.txt) | [`part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md`](parts/part-21-praelection-21-gifts-and-signs-distinguishing-the-elect-english.md) |
 
-The completed sequence now extends through Lecture XX. Its successive subjects
+The completed sequence now extends through Lecture XXI. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -236,6 +238,18 @@ perseverance, and glorification. Its closing corollary begins the treatment of
 assurance from election’s effects, locating the Spirit’s testimony in the
 gospel’s practical application and distinguishing it from carnal presumption
 by prayer, filial reverence, obedience, and the accompanying graces.
+Lecture XXI develops those accompanying graces by first distinguishing gifts
+shared with the reprobate—learning, prophecy, civil virtue, restraint, and a
+temporary joyful taste of the word—from the Spirit’s saving indwelling in the
+elect. It unfolds that indwelling through assurance of reconciliation,
+regeneration, spiritual government, consolation, and strength for difficult
+duties and sufferings. It then reduces the signs of election to internal and
+external forms: godly sorrow over past sin, conflict with present corruption,
+care against future sin, hunger for Christ, love for his members and coming,
+and whole-life obedience extending to every command. The lecture closes with
+pastoral counsel for those who find only the smallest beginnings of grace or
+no present assurance, directing them to persistent repentance, prayer, the
+word, and hope rather than despair.
 
 ## Validation
 

@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–55 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–56 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -709,6 +709,33 @@ The next unit resumes on printed p. 123 / canvas 00149 with `IN GABRIELIS
 PENOTTI Propugnaculi humanae libertatis LIBRI TERTII CAP. XXI`, headed `An ex
 efficaci decreto divinae voluntatis possit colligi ratio infallibilis notitiae
 futurorum contingentium`, and must repeat the shared-page marker.
+
+Part 56 spans **printed pp. 123–134 / BSB canvases 00149–00160** and contains
+Penottus, Book III, Chapter XXI in full. It begins with the separately headed
+Chapter XXI on the lower part of shared p. 123, examines whether the ground of
+infallible knowledge of future contingents can be gathered from the efficacious
+decree of the divine will, and includes Penottus's review of Scotus, Durandus,
+Ockham, Capreolus, Cajetan, Aquinas, and the Dominican positions together with
+Twisse's complete replies. It ends in the upper section of p. 134 at the
+chapter's authorial close, immediately before the separately headed Chapter
+XXII, and has twelve identical source markers. The printer's page-end divisions
+`adverten-` / `dum`, `determi-` / `natum`, `praesentiali-` /
+`tas`, `demonstra-` / `ret`, `habe-` / `re`, `agen-` / `dum`, `divi-` /
+`nam`, and `si-` / `milis` are joined as `advertendum`, `determinatum`,
+`praesentialitas`, `demonstraret`, `habere`, `agendum`,
+`divinam`, and `similis`; the paired markers stand immediately before the
+complete Latin words and their English counterparts. The p. 123 catchword
+`adverten-`, the p. 124 catchword `futura`, the p. 125 catchword `tantum`, and
+the p. 131 catchword `II. Ad` are represented only by their textual occurrences
+on the following pages.
+
+- `parts/part-56-penottus-book-03-chapter-21-divine-decree-latin.txt`
+- `parts/part-56-penottus-book-03-chapter-21-divine-decree-english.md`
+
+The next unit resumes on printed p. 134 / canvas 00160 with `IN GABRIELIS
+PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XXII`, headed `In quo
+dubium secundum resolvitur. An scilicet in divino decreto cognoscantur actus
+moraliter mali, seu peccata`, and must repeat the shared-page marker.
 
 ## Editorial method and cautions
 

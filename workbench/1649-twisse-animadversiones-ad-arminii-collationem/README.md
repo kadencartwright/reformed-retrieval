@@ -265,9 +265,41 @@ pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-09-proposition-12-section-04-latin.txt`
 - `parts/part-09-proposition-12-section-04-english.md`
 
+## Part 10: exact authorial boundary
+
+Part 10 begins with `SECTIO QUINTA` on the shared left column of **first-body
+printed p. 55 / BSB canvas 67** and contains Proposition XII, Section V in
+full: Junius's argument from divine adoption, Arminius's two-part reply, and
+Twisse's complete response concerning adoption, the order of sin and
+punishment, and the difference between a decree and its execution. It ends
+near the top of the left column of **first-body printed p. 56 / BSB canvas
+68**, with two synchronized source markers.
+
+At the page join the printer divides `nega-` / `negatio`; the normalized Latin
+joins `negatio` and places the p. 56 marker before the complete word, while
+the English marker occupies the corresponding position before “denial.” The
+printed phrase `Ad istam ... vel solam, vel etiam ad istam` repeats `istam`;
+the Latin retains it exactly, and the English identifies the apparent former
+and latter referents in brackets. No separate printed marginal annotation
+occurs within the unit. Arminius's explicit reference in the running text to
+Beza's marginal annotation on Luke 3:38 is retained in both files.
+
+The unit stops after Twisse's sentence ending:
+
+> `… non autem ex praevisione obedientiae fuit decreta.`
+
+It stops immediately before the centered heading `SECTIO SEXTA` lower in the
+same column. The next part must therefore begin with `SECTIO SEXTA` and repeat
+the marker for **first-body printed p. 56 / BSB canvas 68**; it must not
+advance directly to p. 57. The Latin and English markers are byte-identical,
+and the pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-10-proposition-12-section-05-latin.txt`
+- `parts/part-10-proposition-12-section-05-english.md`
+
 ## Status
 
-**Parts 01–09 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–10 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the

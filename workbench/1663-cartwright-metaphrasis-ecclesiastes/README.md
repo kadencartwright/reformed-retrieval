@@ -1428,6 +1428,146 @@ translator's notes disclose the catchword join and the unexpressed subject of
 - `parts/part-61-homiliae-chapter-05-verse-10-english.md`
 
 This unit is bounded by the exact next repeated verse lemma rather than by an
-arbitrary image count. The next unit begins in the left column of reader image
+arbitrary image count. The next unit begins in the right column of reader image
 `PA219` / printed p. 220 at `Vers. 11. Quum multum est bonum istud, multi sunt
 qui comedunt ipsum`.
+
+**Part 62 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:11 lemma and its complete homiletic
+exposition on the single reader image `PA219`. It begins in the right column of
+printed p. 220 at `Vers. 11. Quum multum est bonum istud` and ends in the same
+column immediately before the repeated lemma `Vers. 12. Dulcis est somnus
+illius qui servit`. The paired files have one exactly identical reader-image
+marker and retain the comparison between an owner and his servants, the Greek
+`συγκριτικῶς` and `ἔκφρασις`, the printed `consectam`, and the reference to
+Romans 3:30:
+
+- `parts/part-62-homiliae-chapter-05-verse-11-latin.txt`
+- `parts/part-62-homiliae-chapter-05-verse-11-english.md`
+
+This short unit is bounded by the exact next repeated verse lemma rather than
+by an arbitrary image count. The next unit begins in the right column of reader
+image `PA219` / printed p. 220 at `Vers. 12. Dulcis est somnus illius qui
+servit`.
+
+**Part 63 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:12 lemma and its complete homiletic
+exposition on reader images `PA219` and `PA221`. It begins in the right column
+of printed p. 220 at `Vers. 12. Dulcis est somnus illius qui servit`, crosses
+the image and printed-page join after the p. 220 catchword `tur`, and ends in
+the left column of printed p. 221 immediately before the lemma block for
+verses 13–17. The paired files have two exactly identical reader-image markers
+and retain the contrast between the laborer's sleep and the rich man's
+fullness, the health effects of labor and excess, the citation `Luc. 18`, and
+the exhortations to rich and poor. The English translator's note discloses the
+catchword join:
+
+- `parts/part-63-homiliae-chapter-05-verse-12-latin.txt`
+- `parts/part-63-homiliae-chapter-05-verse-12-english.md`
+
+This unit is bounded by the exact next lemma block rather than by an arbitrary
+image count. The next unit begins in the left column of reader image `PA221` /
+printed p. 221 at the lemmata for verses 13–17, beginning `Vers. 13. Est malum
+afferens ægritudinem quod vidi sub Sole`.
+
+**Part 64 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the Ecclesiastes 5:13–17 lemma block, the summary and division, and
+the complete exposition of verse 13 on reader images `PA221` and `PA223`. It
+begins in the left column of printed p. 221 at the lemma block, crosses the
+image and printed-page join after the p. 222 catchword `ex`, and ends in the
+left column of printed p. 223 immediately before the repeated lemma `Vers. 14.
+Aut pereunt divitiæ illæ in occupatione mala`. The paired files have two
+exactly identical reader-image markers and retain the comparison between
+agricultural abundance and accumulated money, the Greek `ἀπονοίας`, the two
+forms of wealth's harm, the example of David, and every printed biblical
+reference. The English translator's notes disclose the Greek and catchword
+join:
+
+- `parts/part-64-homiliae-chapter-05-verse-13-latin.txt`
+- `parts/part-64-homiliae-chapter-05-verse-13-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA223` / printed p. 223 at `Vers. 14. Aut pereunt divitiæ illæ in occupatione
+mala`.
+
+**Part 65 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:14 lemma and its complete homiletic
+exposition on reader images `PA223` and `PA225`. It begins in the left column
+of printed p. 223 at `Vers. 14. Aut pereunt divitiæ illæ in occupatione mala`,
+crosses the image and printed-page join after the p. 224 catchword `tempore`,
+and ends in the left column of printed p. 225 immediately before the repeated
+lemma `Vers. 15. Quemadmodum prodiit ex utero matris suæ`. The paired files
+have two exactly identical reader-image markers and retain the treatment of
+sudden financial loss, theft and civil war, the gluttony analogy, the effects
+upon a miser's household, and every printed biblical reference. The English
+translator's notes disclose the printed `vir ... extendit` construction and
+the catchword join:
+
+- `parts/part-65-homiliae-chapter-05-verse-14-latin.txt`
+- `parts/part-65-homiliae-chapter-05-verse-14-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA225` / printed p. 225 at `Vers. 15. Quemadmodum prodiit ex utero matris
+suæ`.
+
+**Part 66 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:15 lemma and its complete homiletic
+exposition on the single reader image `PA225`. It begins in the left column of
+printed p. 225 at `Vers. 15. Quemadmodum prodiit ex utero matris suæ`,
+continues across the opening to printed p. 226, and ends immediately before
+the repeated lemma `Vers. 16. Quamobrem etiam hoc malum est afferens
+ægritudinem`. The paired files have one exactly identical reader-image marker
+and retain the comparisons between birth, death, material loss, and spiritual
+nakedness, the examples of Job and David, and every printed biblical
+reference:
+
+- `parts/part-66-homiliae-chapter-05-verse-15-latin.txt`
+- `parts/part-66-homiliae-chapter-05-verse-15-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the right column of reader image
+`PA225` / printed p. 226 at `Vers. 16. Quamobrem etiam hoc malum est afferens
+ægritudinem`.
+
+**Part 67 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:16 lemma and its complete homiletic
+exposition on reader images `PA225` and `PA227`. It begins in the right column
+of printed p. 226 at `Vers. 16. Quamobrem etiam hoc malum est afferens
+ægritudinem`, crosses the image and printed-page join after the p. 226
+catchword `vehe-`, and ends in the left column of printed p. 227 immediately
+before the repeated lemma `Vers. 17. Etiamque omnibus diebus suis in tenebris
+comederit`. The paired files have two exactly identical reader-image markers
+and retain the comparison of amassed goods to feathers and atoms, the account
+of the miser's labor and distress, and the concluding exhortation to labor for
+goods that cannot be lost. The English translator's note discloses the
+catchword join:
+
+- `parts/part-67-homiliae-chapter-05-verse-16-latin.txt`
+- `parts/part-67-homiliae-chapter-05-verse-16-english.md`
+
+This unit is bounded by the exact next repeated verse lemma rather than by an
+arbitrary image count. The next unit begins in the left column of reader image
+`PA227` / printed p. 227 at `Vers. 17. Etiamque omnibus diebus suis in tenebris
+comederit`.
+
+**Part 68 is complete as an AI-assisted, unreviewed first working draft.** It
+contains the repeated Ecclesiastes 5:17 lemma and its complete homiletic
+exposition on the single reader image `PA227`. It begins in the left column of
+printed p. 227 at `Vers. 17. Etiamque omnibus diebus suis in tenebris
+comederit` and ends in the same column immediately before the lemma block for
+verses 18–20 on the facing printed page. The paired files have one exactly
+identical reader-image marker and retain the treatment of the miser's meager
+diet and troubled conscience, the worm and scorpion figures, the warning to
+drunkards and gluttons, and the printed reference `Prov. 23. 4.` The English
+translator's notes disclose the printed `fraudabit` and the within-image
+boundary:
+
+- `parts/part-68-homiliae-chapter-05-verse-17-latin.txt`
+- `parts/part-68-homiliae-chapter-05-verse-17-english.md`
+
+This unit is bounded by the exact next lemma block rather than by an arbitrary
+image count. The next unit begins in the right column of reader image `PA227`
+/ printed p. 228 at the lemmata for verses 18–20, beginning `Vers. 18. Ecce
+quod vidi ego, bonum pulchrum esse comedere ac bibere`.

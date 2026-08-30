@@ -1230,6 +1230,23 @@ argument, beginning `Octavum Bellarmini argumentum`, is excluded.
 - English: `parts/part-72-romans-04-05-abraham-48-english.md`
 - Extent: three synchronized markers, printed pp. 296–298 / IA leaves 304–306
 
+## Part 73: forty-ninth unit of the Romans 4:5 lecture
+
+Part 73 answers Bellarmine's eighth argument from the beauty of the bride in
+the Song of Songs. Tuckney argues that imputed and inherent beauty coexist,
+distinguishes the church's beauty in justification and sanctification, and
+answers Bellarmine's appeals to gendered beauty and the Bridegroom's garment.
+Bernard, Gregory, Ezekiel 16, and Song of Songs 1:5 support the conclusion
+that the bride is both truly beautiful and conscious of her remaining
+stains. It runs from `Octavum Bellarmini argumentum` on printed p. 298 / IA
+leaf 306 through the close of the eighth argument on printed p. 299 / IA leaf
+307. Bellarmine's ninth argument, beginning `Argumentum Bellarmini nonum`, is
+excluded.
+
+- Latin: `parts/part-73-romans-04-05-abraham-49-latin.txt`
+- English: `parts/part-73-romans-04-05-abraham-49-english.md`
+- Extent: two synchronized markers, printed pp. 298–299 / IA leaves 306–307
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

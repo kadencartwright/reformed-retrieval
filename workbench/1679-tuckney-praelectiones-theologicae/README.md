@@ -886,6 +886,22 @@ on printed p. 269 / IA leaf 277. The centered `Secunda Quaestio` is excluded.
 - English: `parts/part-51-romans-04-05-abraham-27-english.md`
 - Extent: three synchronized markers, printed pp. 267–269 / IA leaves 275–277
 
+## Part 52: twenty-eighth unit of the Romans 4:5 lecture
+
+Part 52 opens the second question by distinguishing three views of when
+inherent sin is finally abolished, then refutes the first view, which delays
+complete purification until the corpse is reduced to ashes. Tuckney argues
+that neither corpse nor righteous separated soul can remain sin's subject
+and answers the appeal to Lazarus by distinguishing release from indwelling
+sin from the later abolition of death's dominion. It runs from the centered
+`Secunda Quaestio` on printed p. 269 / IA leaf 277 through the full response
+to the Lazarus argument on printed p. 271 / IA leaf 279. The second opinion,
+beginning `Secunda Pontificiorum et Castellionis opinio`, is excluded.
+
+- Latin: `parts/part-52-romans-04-05-abraham-28-latin.txt`
+- English: `parts/part-52-romans-04-05-abraham-28-english.md`
+- Extent: three synchronized markers, printed pp. 269–271 / IA leaves 277–279
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

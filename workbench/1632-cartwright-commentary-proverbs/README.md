@@ -519,6 +519,32 @@ working edition requiring qualified human review.
 - `parts/part-19-chapter-19g-latin.txt`
 - `parts/part-19-chapter-19g-english.md`
 
-The next unit begins with `V. 26. Devastat patrem, fugat matrem filius
-pudefaciens, & probris afficiens.` in the left column of shared PDF 422 /
-printed column 818; restart there, excluding all verse 25 text above it.
+**Part 19h is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It completes Chapter XIX from `V. 26. Devastat patrem, fugat
+matrem filius pudefaciens...` in the left column of shared PDF 422 / printed
+column 818 through the final prose of verse 29 on PDF 425 / printed column
+825. It stops at the chapter-ending rule immediately before `CAPUT XX.` in
+that same right column. Latin and English have four byte-identical source
+markers (PDF 422–425; synchronized printed columns 818–819 through 824–825)
+and retain all four verse lemmata, full prose, Hebrew, Greek, citations, and
+printed irregularities. The complete files contain 1,754 Latin-file and 2,614
+English-file whitespace-delimited words, respectively, including headers and
+markers.
+
+Every core image, PDF 422–425, was inspected at original detail in both-column
+order. The shared PDF-422 marker is intentional: Part 19g ends above `V. 26.`,
+while Part 19h begins with that lemma below it, so no verse 25 prose overlaps
+and none is omitted. The final PDF-425 marker includes the concluding prose of
+verse 29 above the chapter-ending rule; the Chapter XX heading and verse 1
+below it are excluded. Page-turn catchwords and running furniture were
+excluded rather than duplicated, while witness forms including `obligurierit`,
+`ambulavemus`, `religi. vel tum`, and `oppurtuno` were retained. This remains
+an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-19-chapter-19h-latin.txt`
+- `parts/part-19-chapter-19h-english.md`
+
+Chapter XX begins with `Vers. 1. Vinum est derisor, & potus inebrians
+tumultuator: ideò qui oberrat in eo, non sapiet.` in the right column of
+shared PDF 425 / printed column 825; restart there, below the chapter-ending
+rule and excluding all Chapter XIX text above it.

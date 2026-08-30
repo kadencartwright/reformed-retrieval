@@ -471,6 +471,20 @@ objection, `Sed priusquam ad horum omnium texturam`, is excluded.
 - English: `parts/part-25-romans-04-05-abraham-01-english.md`
 - Extent: eight synchronized markers, printed pp. 161–168 / IA leaves 169–176
 
+## Part 26: second unit of the Romans 4:5 lecture
+
+Part 26 answers the objection that Paul's inference from Abraham to all
+believers violates dialectical rules, defending it from the common way of
+justification, God's unity and decree, Abraham's federal fatherhood, and an
+argument from the stronger case. It runs from `Sed priusquam ad horum omnium
+texturam` on printed p. 168 / IA leaf 176 through the conclusion of the
+response on printed p. 174 / IA leaf 182. The resumed analysis, `Restat
+(antequam ad singula Commata explicanda accedamus)`, is excluded.
+
+- Latin: `parts/part-26-romans-04-05-abraham-02-latin.txt`
+- English: `parts/part-26-romans-04-05-abraham-02-english.md`
+- Extent: seven synchronized markers, printed pp. 168–174 / IA leaves 176–182
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

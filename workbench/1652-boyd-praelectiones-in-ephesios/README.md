@@ -58,6 +58,7 @@ same scan can legitimately close one part and open the next:
 | 13 | XIII | 85–88 | 43–46 | `Jam ad quartum hujus loci membrum pergamus` through its concluding `Amen` before `In Versum 13. ac 14.` and Lecture XIV |
 | 14 | XIV | 88–92 | 46–50 | `In Versum 13. ac 14.` and `Hucusque fuit prior applicationis hujus pars` through `Spiritus promissionis hîc appellatur` before Lecture XV |
 | 15 | XV | 92–96 | 50–54 | `Atque hactenus prius ex illis duobus membris executi sumus` through its four-stage synopsis and concluding `Amen` before Lecture XVI |
+| 16 | XVI | 96–100 | 54–58 | `Sequitur Loci communis Theologici, de æterna Sanctorum Prædestinatione sive Electione, Methodica Tractatio` through its defense of teaching election and reprobation and concluding `Amen` before Lecture XVII |
 
 Part 01's page-level first and last text and captured full-image SHA-256 values
 are recorded in [`apparatus/source-map.tsv`](apparatus/source-map.tsv), with
@@ -112,8 +113,9 @@ English translation:
 | 13 | The praise of God’s glory and the priority of Jewish hope | [`part-13-praelection-13-praise-and-priority-latin.txt`](parts/part-13-praelection-13-praise-and-priority-latin.txt) | [`part-13-praelection-13-praise-and-priority-english.md`](parts/part-13-praelection-13-praise-and-priority-english.md) |
 | 14 | Gentile calling by the word of truth and sealing by the Spirit | [`part-14-praelection-14-gentile-calling-and-sealing-latin.txt`](parts/part-14-praelection-14-gentile-calling-and-sealing-latin.txt) | [`part-14-praelection-14-gentile-calling-and-sealing-english.md`](parts/part-14-praelection-14-gentile-calling-and-sealing-english.md) |
 | 15 | The Spirit’s earnest and the consummation of redemption | [`part-15-praelection-15-earnest-and-redemption-latin.txt`](parts/part-15-praelection-15-earnest-and-redemption-latin.txt) | [`part-15-praelection-15-earnest-and-redemption-english.md`](parts/part-15-praelection-15-earnest-and-redemption-english.md) |
+| 16 | The public teaching and uses of predestination | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-latin.txt) | [`part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md`](parts/part-16-praelection-16-public-teaching-and-uses-of-predestination-english.md) |
 
-The completed sequence now extends through Lecture XV. Its successive subjects
+The completed sequence now extends through Lecture XVI. Its successive subjects
 are the work's exegetical method and preface, Paul's salutation, the form and
 matter of the opening doxology, spiritual blessings in the heavenly places,
 election in Christ, and the relation of predestination, adoption, Christ's
@@ -173,6 +175,16 @@ and indwelling ground assurance without denying believers’ continuing
 struggles with doubt. It concludes the chapter’s first major section with a
 four-stage synopsis of election, redemption accomplished, saving application,
 and the full possession of the eternal inheritance.
+Lecture XVI begins the promised methodical treatment of eternal
+predestination or election by asking whether the doctrine should be taught
+publicly in churches as well as in schools. It answers five historical
+objections associated with the controversy in Augustine’s age, argues that
+God decrees both saving ends and their appointed means, and defends the
+doctrine’s scriptural necessity and pastoral usefulness. Its stated fruits
+include assurance, humility, defense of grace and Christ’s deity, love of God
+and neighbor, holiness, and patience under the cross. It concludes that
+reprobation cannot be separated from election, is itself taught in Scripture,
+and magnifies the gratuitous mercy shown to the elect.
 
 ## Validation
 

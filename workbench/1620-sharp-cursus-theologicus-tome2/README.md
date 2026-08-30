@@ -36,7 +36,8 @@ transcription aid. Part 01 was compared line by line with the eight BSB images
 for canvases 5–12. Part 07 was compared line by line with the eleven BSB images
 for canvases 26–36. Part 08 was compared line by line with the nine BSB images
 for canvases 36–44. Part 09 was compared line by line with the five BSB images
-for canvases 44–48. No e-rara text, modern edition, or modern translation was
+for canvases 44–48. Part 10 was compared line by line with the six BSB images
+for canvases 48–53. No e-rara text, modern edition, or modern translation was
 used.
 
 ## Editorial method
@@ -152,9 +153,23 @@ contains ten synchronized printed-column markers:
 - `parts/part-09-church-militant-head-external-causes-latin.txt`
 - `parts/part-09-church-militant-head-external-causes-english.md`
 
-The next continuation boundary is therefore `Hactenus de causis externis,
-Internae sequuntur, materia nempe et forma`, later in printed column 96 on BSB
-canvas 48.
+**Part 10 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It begins the internal causes of the ministerial government of the
+Church later in printed column 96 and identifies its matter and aristocratic
+form. It completes the question whether church government is democratic, then
+opens the dispute over monarchical ministerial government and completes its
+first subordinate question, whether Christ instituted such government, with
+thirteen arguments and nine objections and responses. It spans printed columns
+96–106, ends immediately before `QUAESTIO II. An fuerit stabilita Monarchia à
+Christo in persona Petri`, and contains eleven synchronized printed-column
+markers:
+
+- `parts/part-10-church-militant-internal-causes-government-forms-latin.txt`
+- `parts/part-10-church-militant-internal-causes-government-forms-english.md`
+
+The next continuation boundary is therefore `QUAESTIO II. An fuerit stabilita
+Monarchia à Christo in persona Petri`, at the beginning of printed column 107
+on BSB canvas 54.
 
 ## Review and licensing notice
 

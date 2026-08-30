@@ -15,7 +15,7 @@
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
   Statu Christi*, complete in nineteen questions; and Locus XIV, *De Officio
-  Christi Mediatorio*, begun through Question XI
+  Christi Mediatorio*, begun through Question XII
 
 ## Controlling witness and rights
 
@@ -40,19 +40,19 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–68 are complete as AI-assisted working drafts.**
+**Parts 01–69 are complete as AI-assisted working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–XI,
-from printed p. 3 / PDF 31 through section XXXII of Question XI on printed p.
-385 / PDF 413. Part 27
+Questions I–XII, Locus XIII, Questions I–XIX, and Locus XIV, Questions I–XII,
+from printed p. 3 / PDF 31 through section XXVII of Question XII on printed p.
+391 / PDF 419. Part 27
 also includes the Locus XII divisional title on PDF 177 and its blank verso on
 PDF 178; Part 39 includes the Locus XIII divisional title on PDF 267 and its
 blank verso on PDF 268; and Part 58 includes the Locus XIV divisional title on
-PDF 357 and its blank verso on PDF 358. The sequence comprises 1,451 numbered
-sections across 374 unique numbered text pages and 432 source markers in each
-language (426 printed-page markers plus six divisional-leaf markers in Parts
-27, 39, and 58). The complete Latin files contain 206,887 whitespace-delimited
-words and the complete English files 280,950, counted over Parts 01–68 with
+PDF 357 and its blank verso on PDF 358. The sequence comprises 1,478 numbered
+sections across 380 unique numbered text pages and 439 source markers in each
+language (433 printed-page markers plus six divisional-leaf markers in Parts
+27, 39, and 58). The complete Latin files contain 210,240 whitespace-delimited
+words and the complete English files 285,249, counted over Parts 01–69 with
 `wc -w`. Each part is a complete question, and each Latin/English pair has an
 identical source-marker sequence and retains the substantive marginal headings.
 
@@ -126,6 +126,7 @@ identical source-marker sequence and retains the substantive marginal headings.
 | 66 | Locus XIV, Question IX | printed pp. 358–367 / PDFs 386–395 | XXXII | 10 | `part-66-locus-14-question-09-{latin.txt,english.md}` |
 | 67 | Locus XIV, Question X | printed pp. 368–375 / PDFs 396–403 | XXIX | 8 | `part-67-locus-14-question-10-{latin.txt,english.md}` |
 | 68 | Locus XIV, Question XI | printed pp. 375–385 / PDFs 403–413 | XXXII | 11 | `part-68-locus-14-question-11-{latin.txt,english.md}` |
+| 69 | Locus XIV, Question XII | printed pp. 385–391 / PDFs 413–419 | XXVII | 7 | `part-69-locus-14-question-12-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -1204,10 +1205,40 @@ within section XXII between `Lex exigat κατὰ` and `ἀκριβοδίκαι�
 mortem Christi` and `suffecisse`. The OCR excerpt was used only as an aid. The
 Question XII heading and body later on printed p. 385 / PDF 413 are excluded.
 
-Part 68's exact next restart is `QUAESTIO XII. DE PERFECTIONE SATISFACTIONIS.
-An ita perfecta fuerit Christi satisfactio, ut nullus post eam, vel
-Satisfactionibus humanis in hac vita, vel Purgatorio post hanc vitam, locus
-esse possit? Affirm. contra Pontificios.` on printed p. 385 / PDF 413.
+Question XII of Locus XIV argues against the Roman Catholics that Christ's one
+satisfaction is perfect and excludes human satisfactions offered to God and
+purgatorial penalties, while preserving private reparation, public
+ecclesiastical discipline, and paternal medicinal chastisements. It defines
+the satisfaction's perfection with respect to its parts, degrees, and effects;
+proves it from the dignity of Christ's person, the unity of his offering, the
+Judge's approval in the resurrection, and its effects; and answers appeals to
+subordinate satisfactions, temporal punishment, acceptilation, Paul's
+sufferings, Daniel 4:27, David's bereavement, death, divine judgment, Old
+Testament sacrifices, Proverbs 16:6, and the need for final purification, in
+twenty-seven sections. It begins at the Question XII heading below section
+XXXII of Part 68 on printed p. 385 / PDF 413 and ends with its closing sentence
+on printed p. 391 / PDF 419 immediately before Question XIII. The Latin and
+English files contain 3,353 and 4,299 whitespace-delimited words respectively,
+counted over each complete file with `wc -w`. Both carry all seven
+printed-page markers in the same sequence and retain all six substantive
+marginal headings, citations, Hebrew, and Greek. At the printed pp. 385/386
+join, the printer-divided `Cano-/nicas` is normalized as `Canonicas`, with the
+incoming marker placed before the complete word in both files. The pp. 386/387
+join falls within section VI between `Respectu effectuum` and `qui spectantur`;
+the pp. 387/388 join falls within section XI between `hæc insufficientiæ
+accusetur` and `vel Deus injustitiæ`; and the pp. 388/389 join falls within
+section XVI between `et quæ omnium maxima` and `est et gravissima`. The pp.
+389/390 join falls within section XX between `manet` and `enim dissimilitudo`.
+At the pp. 390/391 join, the printer-divided `dic-/ta` is normalized as `dicta`,
+with the incoming marker placed before the complete word. The OCR excerpt was
+used only as an aid. The Question XIII heading and body later on printed p. 391
+/ PDF 419 are excluded.
+
+Part 69's exact next restart is `QUAESTIO XIII. DE MATERIA SATISFACTIONIS. An
+Satisfactio Christi restringenda sit ad Passiones et Pœnas, quas pro nobis
+sustinuit? An vero sit etiam extendenda ad Obedientiam activam, qua Legem in
+tota vita perfecte implevit? Prius Neg.; Poster. Affirm.` on printed p. 391 /
+PDF 419.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

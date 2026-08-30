@@ -56,11 +56,12 @@ reply.
 
 ## Completed units
 
-**Parts 01–09 are complete as AI-assisted, unreviewed working drafts.** They
-cover the TOME III title page, Ames's dedication to the Frisian supreme court,
-Book I through the end of chapter VIII, and all of Book II, *De Baptismo*
-(printed pages 1–59), and all of Book III, *De Confirmatione* (printed pages
-59–66).
+**Parts 01–10 are complete as AI-assisted, unreviewed working drafts of their
+stated units.** They cover the TOME III title page, Ames's dedication to the
+Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
+*De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
+(printed pages 59–66), and the opening argument blocks of Book IV, chapter I,
+through the discussion of John 6 (printed pages 67–74).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -95,7 +96,13 @@ Book I through the end of chapter VIII, and all of Book II, *De Baptismo*
 - **Part 09:** Book III, *De Confirmatione*, complete, printed pages 59–66.
   - `parts/part-09-book-03-confirmation-latin.txt`
   - `parts/part-09-book-03-confirmation-english.md`
+- **Part 10:** Book IV, *De Sacramento Eucharistiae*, chapter I opening: the
+  argument from Old Testament figures and the complete discussion of John 6,
+  printed pages 67–74 (ending near the top of page 74 before the third
+  argument).
+  - `parts/part-10-book-04-eucharist-chapter-01-opening-latin.txt`
+  - `parts/part-10-book-04-eucharist-chapter-01-opening-english.md`
 
-The next untranslated boundary is `LIBER QUARTUS. DE SACRAMENTO EUCHARISTIAE`,
-followed by `CAP. I`, on printed page 67, immediately after Book III's closing
-remarks on the ceremonies of Confirmation.
+The next untranslated boundary is `Tert: argum. Bellarm. petitur a verbis
+institutionis: hoc est corpus meum`, on printed page 74, immediately after the
+closing response to Bellarmine's fourth reply in the discussion of John 6.

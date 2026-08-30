@@ -1,6 +1,6 @@
 # William Twisse, *Dissertatio de scientia media* (1639)
 
-> **AI-assisted, unreviewed working edition:** The paired Parts 01–52 contain
+> **AI-assisted, unreviewed working edition:** The paired Parts 01–53 contain
 > full diplomatic-normalized transcriptions and English working
 > translations of coherent authorial units. They have not received
 > independent Latin, Greek, bibliographical, or theological review and must not
@@ -628,6 +628,30 @@ The next unit resumes on printed p. 104 / canvas 00130 with `IN GABRIELIS
 PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XVIII`, headed `An
 ratio sumpta ex rerum praesentialitate sic explicata sit sufficiens`, and begins
 `Rationem istam, juxta excogitatum Penotti commentum explicatam`.
+
+Part 53 spans **printed pp. 104–109 / BSB canvases 00130–00135** and contains
+Penottus, Book III, Chapter XVIII in full. It begins with `IN GABRIELIS PENOTTI
+Propugnaculi humanae Libertatis LIBRI TERTII CAP. XVIII`, examines Penottus's
+argument that determinate truth and certain divine cognition of contingents
+require their present actual existence, and includes Twisse's extended replies
+on determinate secondary causes, conditional futures, Molina, the divine will,
+and Penottus's claimed Thomistic demonstration. It ends in the upper section of
+p. 109 at the chapter's authorial close, immediately before the separately
+headed Chapter XIX, and has six identical source markers. The printer's page-end
+divisions `cau-` / `sare`, `existen-` / `tiae`, `reprae-` / `sentare`, `exqui-`
+/ `sitissimam`, and `contingen-` / `tis` are joined as `causare`, `existentiae`,
+`repraesentare`, `exquisitissimam`, and `contingentis`; the paired p. 105–109
+markers stand immediately before those complete Latin words and their English
+counterparts, `to cause`, `existence`, `represents`, `exquisite`, and
+`contingent thing`.
+
+- `parts/part-53-penottus-book-03-chapter-18-presentiality-argument-latin.txt`
+- `parts/part-53-penottus-book-03-chapter-18-presentiality-argument-english.md`
+
+The next unit resumes on printed p. 109 / canvas 00135 with `IN GABRIELIS
+PENOTTI Propugnaculi humanae Libertatis LIBRI TERTII CAP. XIX`, headed `In quo
+argumenta adversariorum contra praedictam quam finxit Thomae rationem adducit &
+solvit`, and must repeat the shared-page marker.
 
 ## Editorial method and cautions
 

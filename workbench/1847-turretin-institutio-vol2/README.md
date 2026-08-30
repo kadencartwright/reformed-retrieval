@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question XVI
+  Statu Christi*, begun through Question XVII
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–54 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–55 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–XVI, from printed p. 3 / PDF 31
-through section XI on printed p. 319 / PDF 347. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–XVII, from printed p. 3 / PDF 31
+through section X on printed p. 321 / PDF 349. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 1,198 numbered sections across 311 unique numbered
-text pages and 357 source markers in each language (353 printed-page markers
+268. The sequence comprises 1,208 numbered sections across 313 unique numbered
+text pages and 360 source markers in each language (356 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 172,208 whitespace-delimited words and the complete English files
-235,131, counted over Parts 01–54 with `wc -w`. Each part is a complete question,
+contain 173,237 whitespace-delimited words and the complete English files
+236,561, counted over Parts 01–55 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -109,6 +109,7 @@ the substantive marginal headings.
 | 52 | Locus XIII, Question XIV | printed pp. 309–313 / PDFs 337–341 | XV | 5 | `part-52-locus-13-question-14-{latin.txt,english.md}` |
 | 53 | Locus XIII, Question XV | printed pp. 313–317 / PDFs 341–345 | XIV | 5 | `part-53-locus-13-question-15-{latin.txt,english.md}` |
 | 54 | Locus XIII, Question XVI | printed pp. 317–319 / PDFs 345–347 | XI | 3 | `part-54-locus-13-question-16-{latin.txt,english.md}` |
+| 55 | Locus XIII, Question XVII | printed pp. 319–321 / PDFs 347–349 | X | 3 | `part-55-locus-13-question-17-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -846,8 +847,29 @@ specified OCR excerpt was used only as an aid. No supplementary witness was
 needed. The Question XVII heading and body later on printed p. 319 / PDF 347
 are excluded.
 
-Part 54's exact next restart is `QUAESTIO XVII. An Christus propria virtute
-resurrexerit? Affirm. contra Socin.` on printed p. 319 / PDF 347.
+Question XVII argues against the Socinians that Christ raised himself by the
+proper power of his divinity, while the Father also raised him by the one,
+indivisible power of the Trinity. It proves the point from John 2:19, Romans
+1:4, John 5:21, and Colossians 1:18, then answers objections from passages
+attributing the resurrection to the Father and explains the angelic removal
+of the tombstone, in ten sections. It begins at the Question XVII heading
+below section XI of Part 54 on printed p. 319 / PDF 347 and ends with section
+X on printed p. 321 / PDF 349 immediately before Question XVIII. The Latin
+and English files contain 1,029 and 1,430 whitespace-delimited words
+respectively, counted over each complete file with `wc -w`. Both carry all
+three printed-page markers in the same sequence and retain all six substantive
+marginal headings, citations, and scan-exact Greek. At the printed pp. 319/320
+join, the printer-divided `revo-/cent` is normalized as `revocent`, with the
+incoming marker placed before the complete word in both files. The pp. 320/321
+join falls between sections VI and VII. The three supplied page images are the
+controlling witness; the specified OCR excerpt was used only as an aid. No
+supplementary witness was needed. The Question XVIII heading and body later on
+printed p. 321 / PDF 349 are excluded.
+
+Part 55's exact next restart is `QUAESTIO XVIII. DE ASCENSIONE CHRISTI. An
+Ascensio Christi facta sit proprie per motum localem ex locis inferioribus ad
+cœlum supremum Beatorum? An metaphorice per disparitionem? Affirm. Prius;
+Poster. Neg.; contra Lutheranos.` on printed p. 321 / PDF 349.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

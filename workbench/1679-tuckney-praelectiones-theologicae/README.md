@@ -757,6 +757,22 @@ Justitia Christi nobis imputetur`, is excluded.
 - English: `parts/part-43-romans-04-05-abraham-19-english.md`
 - Extent: three synchronized markers, printed pp. 250–252 / IA leaves 258–260
 
+## Part 44: twentieth unit of the Romans 4:5 lecture
+
+Part 44 introduces Bellarmine's broader objections to the necessity of
+imputation. Tuckney distinguishes the necessity of believing the doctrine
+from its objective necessity, then positively grounds the latter in
+justification by an alien satisfaction and in forgiveness through the
+Surety's payment. It runs from `Versamur adhuc in quaestione illa` on
+printed p. 252 / IA leaf 260 through the summary of these positive grounds
+on printed p. 254 / IA leaf 262. The turn to Bellarmine's two specific
+counterclaims, beginning `Sed jam tandem accedamus ad duas illas alias`, is
+excluded.
+
+- Latin: `parts/part-44-romans-04-05-abraham-20-latin.txt`
+- English: `parts/part-44-romans-04-05-abraham-20-english.md`
+- Extent: three synchronized markers, printed pp. 252–254 / IA leaves 260–262
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

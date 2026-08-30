@@ -839,6 +839,22 @@ excluded.
 - English: `parts/part-48-romans-04-05-abraham-24-english.md`
 - Extent: three synchronized markers, printed pp. 261–263 / IA leaves 269–271
 
+## Part 49: twenty-fifth unit of the Romans 4:5 lecture
+
+Part 49 opens Tuckney's third inquiry, whether faith is wholly abolished in
+glory. He answers objections from 1 Corinthians 13, surveys Calvin, Beza,
+Grotius, Irenaeus, and Tertullian, and concludes that Scripture requires a
+change in faith's imperfect mode without requiring the destruction of
+everything belonging to faith. He then states the differing scholastic
+positions of Lombard, Aquinas, Durandus, and Cornelius a Lapide. It runs
+from `Sed tertio inquirendum restat` on printed p. 263 / IA leaf 271 through
+the summary of their common contention on printed p. 265 / IA leaf 273. The
+detailed arguments beginning `Aquinas ex eo praecipue` are excluded.
+
+- Latin: `parts/part-49-romans-04-05-abraham-25-latin.txt`
+- English: `parts/part-49-romans-04-05-abraham-25-english.md`
+- Extent: three synchronized markers, printed pp. 263–265 / IA leaves 271–273
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

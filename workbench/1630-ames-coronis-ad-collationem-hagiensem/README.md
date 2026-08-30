@@ -76,7 +76,7 @@ scope](../../LICENSING.md) and [CC0 text](../../LICENSES/CC0-1.0.txt).
 
 ## Completed units
 
-**Parts 01–09 are complete as AI-assisted, unreviewed working drafts.** Parts
+**Parts 01–10 are complete as AI-assisted, unreviewed working drafts.** Parts
 01–05 cover the whole of Article I, Chapters I–XV, from the Article I heading
 on printed p. 1 / BSB canvas 13 through the final sentence of Chapter XV on
 printed p. 92 / canvas 102. Part 06 begins Article II and completes Chapter I
@@ -87,8 +87,10 @@ in the upper portion of printed p. 109 / canvas 119. Part 08 completes Article
 II, Chapter III, from its heading lower on that page through the end of the
 second argument near the top of printed p. 120 / canvas 130. Part 09 completes
 Article II, Chapter IV, from its heading lower on that page through the end of
-the third argument on printed p. 124 / canvas 134. The files are divided as
-follows:
+the third argument on printed p. 124 / canvas 134. Part 10 completes Article
+II, Chapter V, from its heading at the top of printed p. 125 / canvas 135
+through the end of the fourth argument in the upper portion of printed p. 128
+/ canvas 138. The files are divided as follows:
 
 - Part 01: Chapters I–III, canvases 13–28 / printed pp. 1–16.
 - Part 02: Chapters IV–VI, canvases 28–50 / printed pp. 16–38.
@@ -107,6 +109,8 @@ follows:
   belong to this unit.
 - Part 09: Article II, Chapter IV, canvases 130–134 / printed pp. 120–124;
   only the lower portion of canvas 130 belongs to this unit.
+- Part 10: Article II, Chapter V, canvases 135–138 / printed pp. 125–128; only
+  the upper portion of canvas 138 belongs to this unit.
 
 Part 06 establishes the state of the question for Article II. It begins with
 `Articulus Secundus, De Redemptione Universali` and `CAPUT I. Status
@@ -165,7 +169,22 @@ canvas 134. The witness's distinct forms `Isaiae 53. 5. 6. 7.` and `Iesai. 46.
 - Both Part 09 files contain five synchronized source markers for BSB
   canvases 130–134 / printed pp. 120–124.
 
-The next untranslated unit begins with `CAP. V. Argumentum quartum, Pag. 187.`
-and `Omnes illi, pro quibus Christus est mortuus, possunt libere dicere, quis
-condemnat? Christus est pro nobis mortuus.` at the top of printed p. 125 / BSB
-canvas 135.
+Part 10 answers the fourth argument from Romans 8:34: all those for whom Christ
+died can say both that he died for them and that no one condemns them. It
+begins with `CAP. V. Argumentum quartum, Pag. 187.` and `Omnes illi, pro quibus
+Christus est mortuus, possunt libere dicere, quis condemnat? Christus est pro
+nobis mortuus.` at the top of printed p. 125 / canvas 135 and ends with
+`Distinctio haec igitur ita nihil est, ut ubi sint, ipsi nesciant.` in the
+upper portion of printed p. 128 / canvas 138. The witness's references `1
+Corinth. 15. 7.` and the unnumbered `Eph. 4.` are retained rather than silently
+corrected or completed.
+
+- Latin: `parts/part-10-article-02-chapter-05-latin.txt`
+- English: `parts/part-10-article-02-chapter-05-english.md`
+- Both Part 10 files contain four synchronized source markers for BSB canvases
+  135–138 / printed pp. 125–128.
+
+The next untranslated unit begins with `CAP. VI. Argumentum quintum. Pag.
+189.` and `Si omnibus & singulis hominibus, nemine excepto, reconciliatio cum
+Deo, & remissio peccatorum impetrata est` lower on printed p. 128 / BSB canvas
+138.

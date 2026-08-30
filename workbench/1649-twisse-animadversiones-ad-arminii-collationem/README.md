@@ -331,20 +331,63 @@ and the pair remains an AI-assisted, unreviewed working draft.
 - `parts/part-11-proposition-12-section-06-latin.txt`
 - `parts/part-11-proposition-12-section-06-english.md`
 
+## Part 12: exact authorial boundary
+
+Part 12 begins with `Propositio 13.` on the shared right column of **first-body
+printed p. 57 / BSB canvas 69**. It contains Proposition XIII in full and then
+Proposition XIV, Section I in full: Arminius's statement of the disputed object
+of predestination, Junius's reply, and Twisse's response, followed by the
+exchange and extended animadversion concerning Adam's supernatural grace, the
+law of the forbidden tree, and whether that law was common or particular. It
+continues through **first-body printed p. 60 / BSB canvas 72**, with four
+synchronized source markers.
+
+At the first join, the p. 57 text ends with `persuadere`; the catchword
+`hactenus` is omitted and the p. 58 marker precedes the full word `hactenus`.
+At the second join the printer divides `pro-` / `proclivior`; the normalized
+Latin joins `proclivior` and places the p. 59 marker before the complete word,
+while the English marker occupies the corresponding position before “more apt
+to win credence.” At the third join the p. 59 text ends `Sed eadem, non`; its
+catchword `fuit` is omitted and the p. 60 marker precedes `fuit ratio`, while
+the English marker correspondingly precedes “the same rationale.”
+
+The Greek `ἐπιπολάζουσαι`, `ἀκρίβεια`, `ἀλογίας`, and `κανόνας` are retained
+and transliterated or closely conveyed in the English. The printed mixed phrase
+`non urere distinguendi κανόνας` is rendered “does not put the canons of
+distinction under strain.” The isolated `lata` / `Lata non` strings produced by
+the p. 60 hOCR are duplicate recognition of an indented italic line, not
+printed marginalia; no printed marginal annotation occurs within this unit.
+
+The unit stops in the right column of printed p. 60 after Twisse's sentence
+ending:
+
+> `… quam tam coactis distinctionibus nulli usui inservituris lectorem suum
+> distinere.`
+
+It stops immediately before the centered heading `SECTIO SECUNDA` on that
+same page. The next part must therefore begin with `SECTIO SECUNDA` and repeat
+the marker for **first-body printed p. 60 / BSB canvas 72**; it must not advance
+directly to p. 61. The Latin and English markers are byte-identical, and the
+pair remains an AI-assisted, unreviewed working draft.
+
+- `parts/part-12-proposition-13-and-proposition-14-section-01-latin.txt`
+- `parts/part-12-proposition-13-and-proposition-14-section-01-english.md`
+
 ## Status
 
-**Parts 01–11 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–12 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the
 transcriptions and translations remains pending.
 
-The paired draft now reaches partway through first-body printed p. 57 of 135,
-a continuation-position estimate of about 42.2% of the first body. Across the
+The paired draft now reaches partway through first-body printed p. 60 of 135,
+a continuation-position estimate of about 44.4% of the first body. Across the
 two separately paginated authorial bodies (135 + 474 pages), the boundary lies
-at about 9.4% of their combined printed-page extent. Because p. 57 is shared
-with the untranslated Proposition XIII, these are position estimates, not a
-claim that 57 complete pages—or the same percentage of words—have been reviewed.
+at about 9.9% of their combined printed-page extent. Because p. 60 is shared
+with the untranslated Proposition XIV, Section II, these are position
+estimates, not a claim that 60 complete pages—or the same percentage of
+words—have been reviewed.
 
-No global status ledger or manifest is updated by this Part 11 continuation,
+No global status ledger or manifest is updated by this Part 12 continuation,
 and no claim of human review is made.

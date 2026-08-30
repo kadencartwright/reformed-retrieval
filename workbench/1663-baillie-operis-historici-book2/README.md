@@ -242,6 +242,21 @@ The next excluded heading is `QUAESTIO XV. De numero Paschatum a Baptismo ad
 mortem Christi.` The boundary is question-complete and includes no body text
 from Question XV.
 
+## Part 16 boundary
+
+Part 16 resumes with the excluded Question XV heading in the second column of
+printed p. 90 / PDF-IA leaf 428 / OCR object 427. It surveys five opinions on
+the number of Passovers between Christ’s baptism and death, rejects the very
+long chronology attributed to Irenaeus and the one-, two-, and three-year
+chronologies in their exclusive forms, and argues that four Passovers are
+certain while a fifth is very probable. It ends with Question XV within
+printed p. 95 / PDF-IA leaf 433 / OCR object 432 at `Pro quinta sententia nolim
+contendere contra tot & tantos auctores, videtur tamen valde probabilis.`
+
+The next excluded heading is `QUAESTIO XVI. Ad quae tempora Actorum Capitis
+septimi versus decimussextus referendus sit?` The boundary is
+question-complete and includes no body text from Question XVI.
+
 ## Editorial method and apparatus
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized
@@ -291,6 +306,8 @@ translation are AI-assisted and remain unreviewed.
 - `parts/part-14-last-passover-question-13-english.md`
 - `parts/part-15-hour-of-passion-question-14-latin.txt`
 - `parts/part-15-hour-of-passion-question-14-english.md`
+- `parts/part-16-number-of-passovers-question-15-latin.txt`
+- `parts/part-16-number-of-passovers-question-15-english.md`
 
 The Part 01 pair contains eighteen synchronized source markers, from logical
 printed pp. 1–18 / IA leaves-access-PDF pp. 339–356 / OCR objects 338–355.
@@ -335,3 +352,6 @@ leaves-access-PDF pp. 417–424 / OCR objects 416–423.
 The Part 15 pair contains five synchronized source markers, from the remainder
 of logical printed p. 86 through the first column of p. 90 / IA
 leaves-access-PDF pp. 424–428 / OCR objects 423–427.
+The Part 16 pair contains six synchronized source markers, from the second
+column of logical printed p. 90 through the second column of p. 95 / IA
+leaves-access-PDF pp. 428–433 / OCR objects 427–432.

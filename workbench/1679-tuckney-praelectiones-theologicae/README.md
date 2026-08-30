@@ -1358,6 +1358,22 @@ quidem Osiandri sententiam`, are excluded.
 - English: `parts/part-80-romans-04-05-abraham-56-english.md`
 - Extent: two synchronized markers, printed pp. 310–311 / IA leaves 318–319
 
+## Part 81: fifty-seventh unit of the Romans 4:5 lecture
+
+Part 81 completes the surviving Romans 4:5 lecture. Tuckney evaluates three
+of Bellarmine's arguments against Osiander, distinguishes essential union
+from forensic imputation, and weighs Calvin's appeal to Christ being “made”
+righteousness by God. The printed editorial notice records that Tuckney left
+the projected refutation unfinished after leaving his professorial office;
+the unit includes the closing Greek doxology. It runs from `Ad quam quidem
+Osiandri sententiam` on printed p. 311 / IA leaf 319 through the editorial
+notice and doxology on printed p. 312 / IA leaf 320. The next lecture,
+beginning `Faxit, quaesumus, misericors Deus`, is excluded.
+
+- Latin: `parts/part-81-romans-04-05-abraham-57-latin.txt`
+- English: `parts/part-81-romans-04-05-abraham-57-english.md`
+- Extent: two synchronized markers, printed pp. 311–312 / IA leaves 319–320
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

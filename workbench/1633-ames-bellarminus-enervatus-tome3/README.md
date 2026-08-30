@@ -56,13 +56,13 @@ reply.
 
 ## Completed units
 
-**Parts 01–11 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–12 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
 (printed pages 59–66), and the opening argument blocks of Book IV, chapter I,
-through Bellarmine's arguments from the words of institution (printed pages
-67–79).
+through Ames's corresponding arguments from the words of institution (printed
+pages 67–88).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -109,7 +109,23 @@ through Bellarmine's arguments from the words of institution (printed pages
   argument boundary before Ames's corresponding arguments on page 80).
   - `parts/part-11-book-04-eucharist-chapter-01-words-of-institution-bellarmine-arguments-latin.txt`
   - `parts/part-11-book-04-eucharist-chapter-01-words-of-institution-bellarmine-arguments-english.md`
+- **Part 12:** Book IV, *De Sacramento Eucharistiae*, chapter I: Ames's
+  complete arguments from the words of institution, items 36–48, printed
+  pages 80–88 (ending near the top of page 88 before Bellarmine's arguments
+  from the Pauline epistles).
+  - `parts/part-12-book-04-eucharist-chapter-01-words-of-institution-ames-arguments-latin.txt`
+  - `parts/part-12-book-04-eucharist-chapter-01-words-of-institution-ames-arguments-english.md`
 
-The next untranslated boundary is `Argumenta nostra de verbis institutionis`,
-on printed page 80, beginning with item 36, `Hoc, non potuit cum proferebatur,
-quidquam aliud demonstrare, quam panem`.
+Both Part 12 files contain nine exactly synchronized printed-page markers. The
+four words divided across printed-page boundaries—`demonstrat` (pages 80/81),
+`sequuntur` (pages 81/82), `negamus` (pages 84/85), and `naturalem` (pages
+86/87)—are joined and placed wholly after the incoming page marker; the English
+marker is synchronized to the corresponding translated word. The witness's
+forms `pendet à rei` on page 82 and `necessaria refertur` on page 87 are
+retained as printed. Its references `Matt. 20. 29. Mat. 14. 25.` in item 48 are
+also retained; the intended references appear to be Matthew 26:29 and Mark
+14:25.
+
+The next untranslated boundary is `Argumenta Bellarm. ex epistolis Pauli`, on
+printed page 88, beginning with item 49, `Bellarm. 1. Cor. 10. Calix
+benedictionis, cui benedicimus`.

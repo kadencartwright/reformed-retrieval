@@ -66,7 +66,7 @@ addresses Tilenus's taunts and accusations. Quoted adversarial matter must not
 be attributed to Calderwood merely because it appears within his book. The
 letter on Scottish polity, Melville poem, and anonymous *Vindiciae* are also
 distinct documents, not silently part of Calderwood's continuous authorial
-prose. Parts 01–22 contain none of the appended documents and do not reach the
+prose. Parts 01–23 contain none of the appended documents and do not reach the
 embedded Tilenus refutation. Parts 07–22 do, however, include long passages
 that Calderwood expressly quotes from Thomas Brightman, Tilenus, Eusebius,
 Scaliger, patristic writers, imperial and conciliar legislation, English
@@ -87,12 +87,13 @@ modern selection.
 
 ## Current progress and audit state
 
-Twenty-two numbered Latin/English units are present. They now carry the main
-text from printed p. 1 through the end of printed p. 280, but the
-inherited Part 02 English file remains incomplete and therefore prevents
+Twenty-three numbered Latin/English units are present. They now carry the main
+text from printed p. 1 through the first complete internal argument sequence
+on printed p. 287, but the inherited Part 02 English file remains incomplete
+and therefore prevents
 calling that span a continuous paired draft. The August 2026 handoff also specifically flagged
 Parts 02 and 06 for re-audit. This update does not silently clear those flags:
-Parts 09–22 begin exactly at their audited predecessor boundaries and do not
+Parts 09–23 begin exactly at their audited predecessor boundaries and do not
 alter either inherited part.
 
 | Part | Contents | Source extent | Marker state |
@@ -119,6 +120,7 @@ alter either inherited part.
 | 20 | Chapter IV: argument 6, presbyteral votes in provincial councils | printed pp. 267–268 / PDFs 279–280, both boundary pages partial | 2 paired and image-audited |
 | 21 | Chapter IV: argument 6, decline of presbyteries and excommunication | printed pp. 268–275 / PDFs 280–287, both boundary pages partial | 8 paired and image-audited |
 | 22 | Chapter IV: argument 6, concluding synthesis from order and jurisdiction | printed pp. 275–280 / PDFs 287–292, first boundary page partial | 6 paired and image-audited |
+| 23 | Chapter IV: extensive episcopal power and the equality of local churches | printed pp. 281–287 / PDFs 293–299, last boundary page partial | 7 paired and image-audited |
 
 ### Part 07 bounds and evidence
 
@@ -785,7 +787,53 @@ citations, joins, and both boundaries.
 - Latin: `parts/part-22-chapter-04-argument-06-concluding-synthesis-latin.txt`
 - English: `parts/part-22-chapter-04-argument-06-concluding-synthesis-english.md`
 
-All twenty-two units remain **AI-assisted and unreviewed**. They require
+### Part 23 bounds and evidence
+
+Part 23 begins exactly where Part 22 ends, at the head of printed p. 281 / IA
+leaf 293 / PDF p. 293, with the new heading:
+
+`De Episcopi potestate extensiva.`
+
+It contains the first complete sequence of Calderwood’s treatment of
+extensive episcopal power. He argues from Scriptural usage that a particular
+visible church is a worshiping and disciplined local body rather than the
+Christians of an entire nation, province, or diocese; examines whether the
+apostolic city churches could have comprised several gatherings; answers the
+claimed exception of Alexandria; tests the reports that Evaristus, Hyginus,
+Dionysius, or Marcellus divided Roman parishes; and concludes that division
+of a larger church cannot subordinate equal local churches or exclude their
+presbyters from common government. The pair retains the attributed
+quotations, all visible marginal citations, and the Greek local expressions
+and `ἐπὶ τὸ αὐτὸ`.
+
+Part 23 ends in the lower portion of printed p. 287 / IA leaf 299 / PDF p. 299
+at:
+
+`...in Ecclesiis reformatis iure restitutum, in aliis summa cum Ecclesiarum
+iniuria non instauratum.`
+
+The immediately following `Sed negamus id factum esse primis illis saeculis.`
+begins Calderwood’s next historical subargument, from the former equality of
+Roman presbyters, and is excluded. This gives Part 23 seven identical Latin
+and English source markers, p. 281 through p. 287 partial, and five
+byte-identical marginalia records. The catchwords at the p. 281/282, 282/283,
+283/284, and 285/286 boundaries are omitted without duplicating the words in
+the running text. The printer-divided `materiae` at the p. 284/285 boundary is
+joined, with the incoming marker placed before the complete Latin word and
+the corresponding English word.
+
+The exact controlling Internet Archive access PDF documented above was used,
+and its PDFs 293–299 were rendered at 240 dpi and inspected page by page
+against both files. Its page count, byte size, and SHA-256, and the hashes of
+the OCR/scandata aids, match the acquisition evidence already documented
+under Part 16. The IA OCR and the 1708 Leiden reset assisted reading only; the
+1623 images governed wording, typography, quotations, citations, Greek,
+joins, and both boundaries.
+
+- Latin: `parts/part-23-chapter-04-extensive-power-and-local-churches-latin.txt`
+- English: `parts/part-23-chapter-04-extensive-power-and-local-churches-english.md`
+
+All twenty-three units remain **AI-assisted and unreviewed**. They require
 complete comparison by a qualified Latin editor before quotation or
 publication.
 

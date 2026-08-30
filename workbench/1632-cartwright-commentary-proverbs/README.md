@@ -496,6 +496,29 @@ human review.
 - `parts/part-19-chapter-19f-latin.txt`
 - `parts/part-19-chapter-19f-english.md`
 
-The next unit begins with `V. 23. Reverentia Iehovae ad vitam spectat; & satur
-pernoctabit, ne malo visitabitur.` in the left column of shared PDF 419 /
-printed column 812; restart there, excluding all verse 22 text above it.
+**Part 19g is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XIX from `V. 23. Reverentia Iehovae ad
+vitam spectat...` in the left column of shared PDF 419 / printed column 812
+through the final prose of verse 25 on PDF 422 / printed column 818. It stops
+immediately before `V. 26.` in that same left column. Latin and English have
+four byte-identical source markers (PDF 419–422; synchronized printed columns
+812–813 through 818–819) and retain all three verse lemmata, full prose,
+Hebrew, citations, the analytical brace layout, and printed irregularities.
+The complete files contain 1,554 Latin-file and 2,307 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+Every core image, PDF 419–422, was inspected at original detail in both-column
+order. The shared PDF-419 marker is intentional: Part 19f ends above `V. 23.`,
+while Part 19g begins with that lemma below it, so no verse 22 prose overlaps
+and none is omitted. The shared PDF-422 marker includes only the concluding
+prose of verse 25 above `V. 26.`; no verse 26 material is imported. Page-turn
+catchwords were excluded rather than duplicated, while witness forms including
+`& - 3.13.`, `alij`, and `proprijs` were retained. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-19-chapter-19g-latin.txt`
+- `parts/part-19-chapter-19g-english.md`
+
+The next unit begins with `V. 26. Devastat patrem, fugat matrem filius
+pudefaciens, & probris afficiens.` in the left column of shared PDF 422 /
+printed column 818; restart there, excluding all verse 25 text above it.

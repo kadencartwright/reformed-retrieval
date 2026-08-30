@@ -14,7 +14,7 @@
 - **Current extent:** Locus XI, *De Lege Dei*, in twenty-six questions; Locus
   XII, *De Foedere Gratiae et Duplici Ejus Oeconomia in Veteri et Novo
   Testamento*, complete in twelve questions; and Locus XIII, *De Persona et
-  Statu Christi*, begun through Question V
+  Statu Christi*, begun through Question VI
 
 ## Controlling witness and rights
 
@@ -39,17 +39,17 @@ appears in the Latin and English files.
 
 ## Completed units
 
-**Parts 01–43 are complete as AI-assisted, scan-checked working drafts.**
+**Parts 01–44 are complete as AI-assisted, scan-checked working drafts.**
 Together they contain the whole of Locus XI, Questions I–XXVI, Locus XII,
-Questions I–XII, and Locus XIII, Questions I–V, from printed p. 3 / PDF 31
-through section XIX on printed p. 274 / PDF 302. Part 27 also includes the
+Questions I–XII, and Locus XIII, Questions I–VI, from printed p. 3 / PDF 31
+through section XXVI on printed p. 279 / PDF 307. Part 27 also includes the
 Locus XII divisional title on PDF 177 and its blank verso on PDF 178; Part 39
 includes the Locus XIII divisional title on PDF 267 and its blank verso on PDF
-268. The sequence comprises 996 numbered sections across 266 unique numbered
-text pages and 302 source markers in each language (298 printed-page markers
+268. The sequence comprises 1,022 numbered sections across 271 unique numbered
+text pages and 308 source markers in each language (304 printed-page markers
 plus four divisional-leaf markers in Parts 27 and 39). The complete Latin files
-contain 146,628 whitespace-delimited words and the complete English files
-199,754, counted over Parts 01–43 with `wc -w`. Each part is a complete question,
+contain 149,872 whitespace-delimited words and the complete English files
+204,375, counted over Parts 01–44 with `wc -w`. Each part is a complete question,
 and each Latin/English pair has an identical source-marker sequence and retains
 the substantive marginal headings.
 
@@ -98,6 +98,7 @@ the substantive marginal headings.
 | 41 | Locus XIII, Question III | printed pp. 264–268 / PDFs 292–296 | XXII | 5 | `part-41-locus-13-question-03-{latin.txt,english.md}` |
 | 42 | Locus XIII, Question IV | printed pp. 268–270 / PDFs 296–298 | XI | 3 | `part-42-locus-13-question-04-{latin.txt,english.md}` |
 | 43 | Locus XIII, Question V | printed pp. 270–274 / PDFs 298–302 | XIX | 5 | `part-43-locus-13-question-05-{latin.txt,english.md}` |
+| 44 | Locus XIII, Question VI | printed pp. 274–279 / PDFs 302–307 | XXVI | 6 | `part-44-locus-13-question-06-{latin.txt,english.md}` |
 
 All paired files are in `parts/`. Question XII treats amphibological
 equivocations and mental reservations in oaths, distinguishes rhetorical and
@@ -575,6 +576,35 @@ The heading and body of Question VI are later content and are excluded.
 Part 43's exact next restart is `QUAESTIO VI. DE VERITATE INCARNATIONIS, ET
 UNIONE HYPOSTATICA. An filius Dei Naturam Humanam in Unitatem Personae
 assumpserit? Affirm. contra Socin.` on printed p. 274 / PDF 302.
+
+Question VI asks whether the Son of God assumed human nature into the unity of
+his Person. Against the Socinians, it defines the hypostatic union as the
+intimate and perpetual conjunction of the divine and human natures in one
+Person, distinguishes it from physical, relative, assistive, effective,
+mystical, and essential unions, and explains the human nature's anhypostatic
+and enhypostatic subsistence. It proves the incarnation from John i. 14,
+Philippians ii. 6–7, 1 Timothy iii. 16, Romans i. 3–4, Romans ix. 5, 1 Peter
+iii. 18, and Acts xx. 28, then answers objections concerning composition,
+predication, the communication of the Word's hypostasis, contradictory
+properties, infinite distance, divine perfection, and immutability in
+twenty-six sections. It begins at the Question VI heading below section XIX on
+printed p. 274 / PDF 302 and ends with section XXVI on printed p. 279 / PDF
+307 immediately before Question VII. The Latin and English files contain
+3,244 and 4,621 whitespace-delimited words respectively, counted over each
+complete file with `wc -w`. Both carry all six printed-page markers in the
+same sequence and retain all five substantive marginal headings, citations,
+and scan-exact Greek. The five page joins fall between `φυσικὴ` / `naturalis`,
+`personalem` / `duarum`, `mentio` / `expressa`, `aliquo` / `praesentiae`, and
+`Deus` / `est`, with the incoming marker placed at the same textual boundary
+in both files. The visibly printed `diversi mode` in section IX and `in formam
+Dei` in section XIII are retained in the Latin with `[sic]`; the grammar
+requires `diversi modo` and `in forma Dei`, respectively. No supplementary
+witness was needed. The Question VII heading and body on printed p. 280 / PDF
+308 are excluded.
+
+Part 44's exact next restart is `QUAESTIO VII. An Unio hypostatica duarum
+Naturarum in Christo ita facta sit, ut nec Persona divisa sit, nec Naturae
+confusae? Affirm. contra Nestorium et Eutychem.` on printed p. 280 / PDF 308.
 
 No CC0 dedication is made here. The workbench files remain governed by the
 repository's [licensing scope](../../LICENSING.md); the repository's

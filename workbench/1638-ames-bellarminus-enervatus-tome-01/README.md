@@ -191,6 +191,34 @@ The Greek `ἀγωνίαν`, `ἐκθάμβησιν`, `ἀδημονίαν`, `ε
 `ἀπό` and `ᾅδης` on pp. 93–101 have been checked directly against the
 controlling images.
 
+**Part 08 is the concluding substantial portion of Book II, Chapter II.** It
+begins with *De Limbo Patrum* immediately after point `29` on shared printed
+p. 102. It includes that complete internal section and the complete concluding
+section *De Descensu Christi*, continuing through point `44` and the end of
+Chapter II on printed p. 115. It stops immediately before Chapter III:
+
+- e-rara canvases 112–125 / printed pp. 102–115;
+- same-impression Augsburg comparison canvases 126–139;
+- Book II, Chapter II, *De Descensu Christi ad inferos*, final two complete
+  internal sections;
+- next unit: Chapter III, *De Christo Mediatore*, beginning on printed p. 116.
+
+The paired files carry fourteen identical source markers. The three words
+split by page boundaries—`probandum` (pp. 105/106), `vivificata` (pp.
+109/110), and `triduo` (pp. 112/113)—are joined and placed wholly after the
+incoming marker in both files. The bottom-of-page forms `terra` (p. 102),
+`usurpa-` (p. 103), `Sic` (p. 104), `per-` (p. 106), `terrae` (p. 107),
+`Praedica-` (p. 108), `carcere` (p. 110), `egisse` (p. 111), `2. Si` (p.
+113), `adeo` (p. 114), and `CAPUT` (p. 115) are catchwords rather than
+additional or duplicated text and are excluded. The controlling and
+comparison images agree throughout this concluding setting. The witness's
+forms `Utraque ... anima fuerunt` on printed p. 102 and its numbered reply's
+jump from `1` to `3` on printed p. 110 are retained rather than silently
+regularized. The Greek `ψυχὴ`, `ᾅδης`, `διεσκορπίσθη τὰ ὀστᾶ παρὰ τὸν
+ᾅδην`, `ψυχὴν ζῶσαν`, `ζωοποιηθεὶς`, `ζωοποιεῖσθαι`, `ζωογονεῖσθαι`,
+`ἀνθρωποπάθειαν`, `πορεύεσθαι`, and `οὖσιν` on pp. 105–110 have been checked
+directly against the controlling images.
+
 ## Editorial method and status
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized;
@@ -226,3 +254,5 @@ text](../../LICENSES/CC0-1.0.txt).
 - `parts/part-06-book-02-chapter-01-english.md`
 - `parts/part-07-book-02-chapter-02a-latin.txt`
 - `parts/part-07-book-02-chapter-02a-english.md`
+- `parts/part-08-book-02-chapter-02b-latin.txt`
+- `parts/part-08-book-02-chapter-02b-english.md`

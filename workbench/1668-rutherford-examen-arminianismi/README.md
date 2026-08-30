@@ -1518,3 +1518,87 @@ distinctions, analogies, and Chapter XV's clean endpoint.
 
 - Latin: `parts/part-60-chapter-15c-latin.txt`
 - English: `parts/part-60-chapter-15c-english.md`
+
+**Part 61 is complete as a scan-audited working draft.** It begins at the
+heading and opening of Chapter XVI on printed p. 681 / PDF 730, without
+repeating Chapter XV's closing appeal to the church fathers. It contains the
+complete question whether all the apostles' divine afflatus had to be tested
+by the rule of the Word, including the preliminary distinctions, three
+assertions, and three concluding proofs. It ends within shared printed p. 684
+/ PDF 733 after the third proof. The following question whether the church's
+calling and ordination of ministers is necessary by divine institution is
+excluded and forms the exact restart for Part 62. The pair has four
+byte-identical synchronized markers for complete pp. 681–683 and partial p.
+684. A page-by-page image audit against the controlling KBNL/UvA Google Books
+images covered all four included frames, the shared-page ending, every page
+join, the chapter heading and lemma, the complete question and its distinction,
+assertion, and proof structures, biblical citations, Greek, and the absence of
+Hebrew and substantive marginalia. The printed errata has no applicable
+correction. The split words `afflatuum`, `prophetandum`, and `immotâ` are joined
+with their new-page markers before the whole words and their English
+equivalents. The Greek `αὐθεντικὸν`, the witness's abbreviation `utraq;`, its
+`quod materiam`, and difficult or irregular forms and citations, including `ad
+quam V. T. ... interpretari opus habebat`, `an ipsi prophetandum esset`, `Act.
+17.11.`, and `1 Cor. 15. 4.`, are retained or disclosed rather than silently
+regularized. The English is a fresh translation from the accompanying Latin
+and preserves the complete question, distinctions, assertions, and proofs.
+
+- Latin: `parts/part-61-chapter-16a-latin.txt`
+- English: `parts/part-61-chapter-16a-english.md`
+
+**Part 62 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 684 / PDF 733 at the question whether the church's calling
+and ordination of ministers is necessary by divine institution, without
+repeating Part 61's closing proof about testing inspired communications. It
+contains that complete question and its three arguments from the institution
+and practice of ecclesial calling, the qualifications for pastoral office,
+and the churches addressed in Revelation 2. It ends within shared printed p.
+686 / PDF 735 after the appeal to the churches of Thyatira, Pergamum, and
+Ephesus. The following question whether the gospel ministry and preaching of
+the Word are strictly necessary for salvation is excluded and forms the exact
+restart for Part 63. The pair has three byte-identical synchronized markers
+for partial pp. 684 and 686 and complete p. 685. A page-by-page image audit
+against the controlling KBNL/UvA Google Books images covered all three
+included frames, both shared-page boundaries, every page join, the complete
+question and its three-argument structure, biblical and polemical citations,
+Greek, and the absence of Hebrew and substantive marginalia. The printed
+errata has no applicable correction. The split word `vinosus` is joined with
+its new-page marker before the whole word and its English equivalent. The
+Greek `δύναμιν` and `ἐξουσίαν`, the witness's abbreviations `precatiq;`, `Neq;`,
+and `&c.`, its `Act. 13.2.`, and difficult or irregular forms and citations,
+including `Act. 14.23.`, `Apo. 2.1, 2, 14, 20.`, and `probatos
+Pseudo-prophetas`, are retained or disclosed rather than silently regularized.
+The English is a fresh translation from the accompanying Latin and preserves
+the question, citations, and complete three-argument structure.
+
+- Latin: `parts/part-62-chapter-16b-latin.txt`
+- English: `parts/part-62-chapter-16b-english.md`
+
+**Part 63 is complete as a scan-audited working draft.** It resumes within
+shared printed p. 686 / PDF 735 at the question whether the gospel ministry
+and preaching of the Word are strictly necessary for salvation, without
+repeating Part 62's closing appeal to the churches addressed in Revelation 2.
+It contains that complete question and its six arguments from the divinely
+prescribed order, the necessity of faith and hearing, God's command, the
+ministerial office, the church's practice, and God's own practice. It ends
+within shared printed p. 689 / PDF 738 after the appeal to Justin Martyr,
+Tertullian, Chrysostom, and all the Fathers. The following question whether the
+distinction between teaching and ruling presbyters is a novel invention is
+excluded and forms the exact restart for Part 64. The pair has four
+byte-identical synchronized markers for partial pp. 686 and 689 and complete
+pp. 687–688. A page-by-page image audit against the controlling KBNL/UvA
+Google Books images covered all four included frames, both shared-page
+boundaries, every page join, the complete question and its six-argument
+structure, biblical, patristic, and polemical citations, and the absence of
+foreign scripts and substantive marginalia. The printed errata has no
+applicable correction. The split word `temporis` is joined with its new-page
+marker before the whole word and its English equivalent; the printed
+catchwords are omitted. The witness's `ad semper & pro semper`, `modo
+concionali æquivalente`, `non literæ, sed spiritûs`, and difficult or irregular
+forms and citations, including `Joan. 10.27,28.`, `Marci. 16.15.`, and `Act.9.
+& 10.`, are retained or disclosed rather than silently regularized. The
+English is a fresh translation from the accompanying Latin and preserves the
+question, citations, and complete six-argument structure.
+
+- Latin: `parts/part-63-chapter-16c-latin.txt`
+- English: `parts/part-63-chapter-16c-english.md`

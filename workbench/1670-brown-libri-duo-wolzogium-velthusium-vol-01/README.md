@@ -74,7 +74,7 @@ source audit but is not a wording source for any part here.
 
 ## Current parts and exact continuation boundary
 
-Eighteen paired parts are complete as AI-assisted, scan-audited working drafts:
+Nineteen paired parts are complete as AI-assisted, scan-audited working drafts:
 
 - **Part 01:** the *Ad Lectorem Praefatio* from its opening through Assertion
   15, ONB canvases 16–35; twenty synchronized source markers.
@@ -138,6 +138,10 @@ Eighteen paired parts are complete as AI-assisted, scan-audited working drafts:
   Exercitator's position on relative perspicuity and obscurity and defending
   the objective perspicuity of Scripture, printed pp. 144–148 / ONB canvases
   198–202; five synchronized source markers.
+- **Part 19:** Sections XXXV–XXXVII, examining the distinctions between simple
+  and true meaning, logical and ethical truth, and their application to
+  scriptural interpretation, printed pp. 148–153 / ONB canvases 202–207; six
+  synchronized source markers.
 
 The files are:
 
@@ -177,8 +181,13 @@ The files are:
 - `parts/part-17-interpreters-persuasion-and-perspicuity-english.md`
 - `parts/part-18-relative-and-objective-perspicuity-latin.txt`
 - `parts/part-18-relative-and-objective-perspicuity-english.md`
+- `parts/part-19-simple-and-true-meaning-latin.txt`
+- `parts/part-19-simple-and-true-meaning-english.md`
 
-Part 18 ends with Section XXXIV on printed p. 148 / ONB canvas 202 after the
-sentence `Sed de hâc re plura alibi.` Section XXXV, beginning `Paradoxus. §. 4.
-Ejusdem capitis, ut astrueret Orationis obscuritatem`, is excluded. Part 19
-should resume there on the same canvas.
+Part 19 ends with Section XXXVII on printed p. 153 / ONB canvas 207 after the
+sentence `At verò nec verè nec accuratè, dici potest is sensus perspicuus, qui
+nullus est; nec ille sensus obscurus qui tropicus, licet alicui praejudiciis
+occaecato, primâ fronte, apparere non possit.` Section XXXVIII, beginning `In
+reliquo capite tertio profusè admodum, Orationis obscuritatem, ostendit
+Exercitator Paradoxus`, is excluded. Part 20 should resume there on the same
+canvas.

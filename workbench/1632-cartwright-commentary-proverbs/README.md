@@ -1393,7 +1393,43 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22i-latin.txt`
 - `parts/part-22-chapter-22i-english.md`
 
-The next unit begins with the ruled `Vers. 22. Ne deripias tenuem, quia tenuis
-est; & ne conteras afflictum in ipsa porta.` in the right column of shared PDF
-505 / printed column 995; restart at that lemma, excluding all verse 21 prose
-above it and all left-column text before it.
+**Part 22j is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with the grouped verses 22–23, from
+the ruled `Vers. 22. Ne deripias tenuem, quia tenuis est; & ne conteras
+afflictum in ipsa porta.` in the right column of shared PDF 505 / printed
+column 995 through the final verse-23 prose on PDF 507 / printed column 998,
+ending `& pauperes, quo se consolentur, habent, cum ad Deum vindicem ipsorum,
+& judicem provocare possint.` It stops immediately before the ruled `Vers.
+24. Ne sis amicus Domino irae! neque accedas ad virum aestuum.` in the right
+column of PDF 507 / printed column 999. Latin and English have three
+byte-identical source markers (PDF 505–507; synchronized printed columns
+994–995 through 998–999) and retain both ruled verse lemmata, both Hebrew
+lexical notes, the scope, full in-scope prose, Greek, citations,
+abbreviations, macrons, punctuation, and printing irregularities. The
+complete files contain 888 Latin-file and 1,310 English-file
+whitespace-delimited words, respectively, including headers and markers.
+
+All three controlling 300-dpi scans, PDF 505–507, were inspected at original
+and enlarged detail in left-then-right column order. The shared PDF-505 marker
+begins only at the ruled `Vers. 22.` in the right column; every verse-21
+sentence above it and all left-column text are excluded. At the PDF-505/506
+turn, the bottom catchword `ordinis` was excluded: PDF 505 ends at body `ne
+quenquam cujuscunq;`, while whole `ordinis esset...` and its corresponding
+English continuation are assigned to PDF 506. At the PDF-506/507 turn, both
+the body fragment `pau-` and catchword `perem` were excluded: PDF 506 ends at
+`solummodo spectantes ad`, while whole `pauperem diripiendum intrepidi
+ruunt...` and its corresponding English wording are assigned to PDF 507. The
+final PDF-507 marker contains only the entire left column through `possint.`;
+the ruled verse-24 lemma and all right-column text are excluded. Witness forms
+including `תדכא`, `שער`, `προσωποληψία`, `prōtissimè`, `amandatū`, `autē`,
+`ad iis`, `facierum`, `obtinēdi`, `Deū`, `divitib.`, `cōnivere`, and the
+visually confirmed final `cum ad Deum` were retained. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22j-latin.txt`
+- `parts/part-22-chapter-22j-english.md`
+
+The next unit begins with the ruled `Vers. 24. Ne sis amicus Domino irae!
+neque accedas ad virum aestuum.` in the right column of PDF 507 / printed
+column 999; restart at that lemma, excluding the complete verse-23 left column
+and all text above the lemma in the right column.

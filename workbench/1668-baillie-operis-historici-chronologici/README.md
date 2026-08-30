@@ -1146,6 +1146,21 @@ wholly after the p. 291 marker in both files. OCR served only as a reading
 aid. The pair remains an AI-assisted, unreviewed draft and is not
 publication-ready.
 
+## Part 53 boundary, status, and image audit
+
+Part 53 is a synchronized Latin/English working pair with four markers,
+covering the remainder of printed p. 291, all of pp. 292–293, and the opening
+portion of p. 294 (IA leaves/access-PDF pp. 321–324). It begins exactly at `In
+hoc Consulatu Metellum oppressit`, continues through Marius's domestic
+violence, the Social War, the first Mithridatic War, and the civil wars of
+Marius and Sulla, and ends after Sulla's abdication, death, and funeral.
+
+The following paragraph, `Post Syllae mortem in novas Romana Respub. turbas
+incidit`, is excluded and is the exact next restart. Ten paired marginalia and
+all four source markers are synchronized. The controlling images govern; OCR
+served only as a reading aid. The pair remains an AI-assisted, unreviewed
+draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -1266,6 +1281,8 @@ have not been modernized or endorsed.
 - `parts/part-51-book-01-chapter-13a-aristobulus-to-pompeys-settlement-english.md`
 - `parts/part-52-book-01-chapter-13b-roman-expansion-to-marius-and-the-cimbri-latin.txt`
 - `parts/part-52-book-01-chapter-13b-roman-expansion-to-marius-and-the-cimbri-english.md`
+- `parts/part-53-book-01-chapter-13c-marius-sulla-and-the-first-mithridatic-war-latin.txt`
+- `parts/part-53-book-01-chapter-13c-marius-sulla-and-the-first-mithridatic-war-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -1279,7 +1296,7 @@ three each for Parts 26 and 27, two for Part 28, ten for Part 29, five for Part
 Part 37, two for Part 38, three for Part 39, two for Part 40, five for Part 41,
 eight for Part 42, five for Part 43, eleven for Part 44, four for Part 45,
 eight for Part 46, seven each for Parts 47 and 48, eight for Part 49, and five
-for Part 50, and three each for Parts 51 and 52. There are one hundred four
-current files in fifty-two Latin/English pairs, containing 338 synchronized
-source markers per language (676 marker occurrences across all one hundred
-four files). The files remain AI-assisted and unreviewed.
+for Part 50, three each for Parts 51 and 52, and four for Part 53. There are
+one hundred six current files in fifty-three Latin/English pairs, containing
+342 synchronized source markers per language (684 marker occurrences across
+all one hundred six files). The files remain AI-assisted and unreviewed.

@@ -592,6 +592,24 @@ is excluded.
 - English: `parts/part-33-romans-04-05-abraham-09-english.md`
 - Extent: three synchronized markers, printed pp. 215–217 / IA leaves 223–225
 
+## Part 34: tenth unit of the Romans 4:5 lecture
+
+Part 34 opens Tuckney's third imputation question and completes its first
+subquestion: in what sense Christ's righteousness is imputed for
+justification. It applies the earlier classifications of imputation,
+describes the covenantal exchange between Christ and believers, and
+distinguishes the meritorious, material, and formal causal relations of
+Christ's righteousness without confusing justification with inherent
+sanctification. It runs from `Ad tertium tandem quaesitum devenimus circa
+imputationem justitiae Christi` on printed p. 217 / IA leaf 225 through the
+explicit conclusion of the first subquestion on printed p. 221 / IA leaf
+229. The proof question, `Jam accedimus ad secundum quaesitum. An revera
+Christi justitia nobis`, is excluded.
+
+- Latin: `parts/part-34-romans-04-05-abraham-10-latin.txt`
+- English: `parts/part-34-romans-04-05-abraham-10-english.md`
+- Extent: five synchronized markers, printed pp. 217–221 / IA leaves 225–229
+
 This workbench material is outside the repository's published `texts/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative

@@ -56,13 +56,13 @@ reply.
 
 ## Completed units
 
-**Parts 01–12 are complete as AI-assisted, unreviewed working drafts of their
+**Parts 01–13 are complete as AI-assisted, unreviewed working drafts of their
 stated units.** They cover the TOME III title page, Ames's dedication to the
 Frisian supreme court, Book I through the end of chapter VIII, all of Book II,
 *De Baptismo* (printed pages 1–59), all of Book III, *De Confirmatione*
 (printed pages 59–66), and the opening argument blocks of Book IV, chapter I,
-through Ames's corresponding arguments from the words of institution (printed
-pages 67–88).
+through Bellarmine's arguments from the Pauline epistles (printed pages
+67–91).
 
 - **Part 01:** title page, dedication, and Book I chapters I–II, printed pages
   1–14.
@@ -115,6 +115,12 @@ pages 67–88).
   from the Pauline epistles).
   - `parts/part-12-book-04-eucharist-chapter-01-words-of-institution-ames-arguments-latin.txt`
   - `parts/part-12-book-04-eucharist-chapter-01-words-of-institution-ames-arguments-english.md`
+- **Part 13:** Book IV, *De Sacramento Eucharistiae*, chapter I: Bellarmine's
+  complete arguments from the Pauline epistles, printed items 49–51, printed
+  pages 88–91 (ending before Ames's arguments against the real presence on
+  page 91).
+  - `parts/part-13-book-04-eucharist-chapter-01-pauline-arguments-latin.txt`
+  - `parts/part-13-book-04-eucharist-chapter-01-pauline-arguments-english.md`
 
 Both Part 12 files contain nine exactly synchronized printed-page markers. The
 four words divided across printed-page boundaries—`demonstrat` (pages 80/81),
@@ -126,6 +132,21 @@ retained as printed. Its references `Matt. 20. 29. Mat. 14. 25.` in item 48 are
 also retained; the intended references appear to be Matthew 26:29 and Mark
 14:25.
 
-The next untranslated boundary is `Argumenta Bellarm. ex epistolis Pauli`, on
-printed page 88, beginning with item 49, `Bellarm. 1. Cor. 10. Calix
-benedictionis, cui benedicimus`.
+Both Part 13 files contain four exactly synchronized printed-page markers.
+The two sentences continuing across printed-page boundaries are aligned at
+`B. | Paulo` (pages 88/89) and `sine | ullo` (pages 89/90); the page 90/91
+break falls between Bellarmine's third subargument and Ames's reply. The
+witness prints item number `51` twice, first for the argument from 1
+Corinthians 10 and again for the argument from 1 Corinthians 11, and then
+begins the following section with item 53; this numbering is retained without
+silent correction. Within the second printed item 51 its reply likewise
+numbers two successive points `I`. The forms `fractio hac` in item 50,
+`Bethchematae`, and `carnibus propositionis` in the repeated item 51 are also
+retained as printed.
+
+The next untranslated boundary is `Argumenta quaedam nostra, contra realem
+praesentiam corporis & sanguinis Christi in Eucharistia, sub speciebus panis
+& vini, ex Scripturis deprompta`, on printed page 91. Its introductory
+paragraph begins `Quia illa argumenta, quae Bellarm. l. 1. c. 14. solvenda
+proponit`, and the first numbered argument is item 53, `Protest. Mat. 15. Omne
+quod intrat in os, in ventrem vadit`.

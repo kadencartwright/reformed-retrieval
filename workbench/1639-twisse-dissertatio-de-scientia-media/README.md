@@ -460,6 +460,20 @@ The next unit resumes on printed p. 81 / canvas 00107 with `Sequuntur argumenta
 Valentiae quae expendit Navarrettus`, beginning `Deus in sacra Scriptura dicitur
 esse ante res temporales`.
 
+Part 42 spans **printed pp. 81–84 / BSB canvases 00107–00110** and completes
+Digression III, Section IX. It contains the Valencia argument complex,
+Navarrete's replies, Twisse's counter-replies, and the closing exchanges over
+Suárez, successive coexistence, created truths, and Aquinas. It ends with `Jam
+redeamus ad Penottum` and has four identical source markers.
+
+- `parts/part-42-digression-03-section-09-valencia-and-section-end-latin.txt`
+- `parts/part-42-digression-03-section-09-valencia-and-section-end-english.md`
+
+The next unit resumes on printed p. 85 / canvas 00111 with the return to
+Penottus, headed `GULIELMUS TWISSIUS IN GABRIELIS PENOTTI Propugnaculi humanae
+Libertatis LIBRI TERTII CAP. XVII`, followed by `Coexistentia creaturarum ab
+aeterno ex ipso D. Thoma, & ejus expositoribus adhuc refutatur`.
+
 ## Editorial method and cautions
 
 BSB images are controlling evidence; supplied hOCR is only a navigation and

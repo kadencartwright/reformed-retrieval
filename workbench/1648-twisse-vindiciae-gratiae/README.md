@@ -63,6 +63,10 @@ made here for the Latin transcription, witness images, or metadata.
 - BSB canvases 26–27: Part 03 follows Twisse's complete historical argument
   about Arminius's professed candor through the chronology involving Junius,
   Perkins, Bertius, and Martin Lydius; it ends in the left column of p. 19.
+- BSB canvases 27–28: Part 04 completes `PRAEFATIO. SECTIO PRIMA`, from
+  Twisse's question `Sed quibus quaeso argumentis` through his concluding
+  prayer for candid scholastic disputation, immediately before `SECTIO
+  SECUNDA` on p. 20.
 - BSB canvas 43: Book I, Part I, `DE PRAEDESTINATIONE`, begins on printed
   p. 35 after the thirty-four-page preface complex.
 - BSB canvases 43–808: continuously paginated body through printed p. 796.
@@ -124,5 +128,20 @@ after `hic profiteri non erubuit`. The pair has two identical source markers.
 - Latin: `parts/part-03-preface-section-01-candor-latin.txt`
 - English: `parts/part-03-preface-section-01-candor-english.md`
 
-The next unit resumes in the left column of printed p. 19 / BSB canvas 27
-with `Sed quibus quaeso argumentis`, still within `PRAEFATIO. SECTIO PRIMA`.
+**Part 04 is complete as an AI-assisted, unreviewed working draft.** It begins
+in the left column of printed p. 19 / BSB canvas 27 with `Sed quibus quaeso
+argumentis` and carries Twisse's argument through the end of `PRAEFATIO.
+SECTIO PRIMA`. It includes his analysis of Beza's reading of the potter and
+clay, his return to Arminius's alleged scruples, his comments on theological
+examination and peaceful conference, and his concluding prayer for candid
+scholastic disputation. It ends on printed p. 20 / BSB canvas 28 immediately
+before the centered heading `SECTIO SECUNDA`. The pair has two identical
+source markers; the p. 19–20 split word `incorruptum`, the Greek `κρίσιν` and
+`λεπτότης`, quotations, and substantive marginalia are retained.
+
+- Latin: `parts/part-04-preface-section-01-scruples-and-conference-latin.txt`
+- English: `parts/part-04-preface-section-01-scruples-and-conference-english.md`
+
+The next untranslated unit begins with the centered `SECTIO SECUNDA` heading
+on printed p. 20 / BSB canvas 28, followed by `Lectori S. D.` and Perkins's
+opening `Doctrina de Praedestinatione & Gratia Dei e verbo scripto Dei`.

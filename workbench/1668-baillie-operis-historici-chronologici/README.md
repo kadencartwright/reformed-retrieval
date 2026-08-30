@@ -536,6 +536,24 @@ word divided across the p. 191/p. 192 break is joined and placed wholly after
 the p. 192 marker. All included printed marginalia are retained. The pair
 remains an AI-assisted, unreviewed draft and is not publication-ready.
 
+## Part 28 boundary and status
+
+Part 28 is a synchronized Latin/English working pair with exactly two markers:
+partial printed pp. 193–194, IA leaves 223–224, access-PDF pp. 223–224, and
+DjVu OCR objects 222–223. It begins in the left column of printed p. 193
+immediately after Part 27 with `QUAESTIO XX. Qui concilietur Haggaei secundum
+decimo nono cum Esdrae tertii decimo, undecimo, & duodecimo?`, contains
+Question XX in full, and ends in the right column of printed p. 194 after
+`quales in posteriori templo non apparebant.`
+
+`QUAESTIO XXI. Quo anno mortuus sit Alexander, & quot annos habeat Epocha prae
+manibus?` begins below it in the same column and is wholly excluded. Both
+controlling 300-dpi images, `pdf-223.jpg` and `pdf-224.jpg`, were used for the
+transcription; OCR served only as an aid. The p. 193/p. 194 transition falls
+between complete words and is retained at the corresponding syntactic point
+in both files. All six included printed marginalia are retained. The pair
+remains an AI-assisted, unreviewed draft and is not publication-ready.
+
 ## Editorial method
 
 Long *s*, ligatures, line-end divisions, and typographic `u/v` are normalized.
@@ -606,6 +624,8 @@ have not been modernized or endorsed.
 - `parts/part-26-book-01-chapter-10-question-18-english.md`
 - `parts/part-27-book-01-chapter-10-question-19-latin.txt`
 - `parts/part-27-book-01-chapter-10-question-19-english.md`
+- `parts/part-28-book-01-chapter-10-question-20-latin.txt`
+- `parts/part-28-book-01-chapter-10-question-20-english.md`
 
 Each pair contains synchronized source markers and its complete unit described
 above: nineteen for Part 01, twenty for Part 02, fifteen each for Parts 03 and
@@ -614,7 +634,7 @@ for Part 08, two for Part 09, four for Part 10, two for Part 11, six for Part
 12, three for Part 13, two for Part 14, three each for Parts 15 and 16, two for
 Part 17, five for Part 18, eight for Part 19, three for Part 20, three for Part
 21, two for Part 22, five for Part 23, six for Part 24, three for Part 25, and
-three each for Parts 26 and 27. There are fifty-four current files in
-twenty-seven Latin/English pairs, containing 217 synchronized source markers
-per language (434 marker occurrences across all fifty-four files). The files
-remain AI-assisted and unreviewed.
+three each for Parts 26 and 27, and two for Part 28. There are fifty-six current
+files in twenty-eight Latin/English pairs, containing 219 synchronized source
+markers per language (438 marker occurrences across all fifty-six files). The
+files remain AI-assisted and unreviewed.

@@ -34,7 +34,8 @@ The manifest identifies the object as Tome II, Geneva: Chouët, 1620, extent
 hOCR. The page images govern; hOCR is used only as a navigation and
 transcription aid. Part 01 was compared line by line with the eight BSB images
 for canvases 5–12. Part 07 was compared line by line with the eleven BSB images
-for canvases 26–36. No e-rara text, modern edition, or modern translation was
+for canvases 26–36. Part 08 was compared line by line with the nine BSB images
+for canvases 36–44. No e-rara text, modern edition, or modern translation was
 used.
 
 ## Editorial method
@@ -123,8 +124,20 @@ synchronized printed-column markers:
 - `parts/part-07-church-triumphant-controversy-02-images-latin.txt`
 - `parts/part-07-church-triumphant-controversy-02-images-english.md`
 
-The next continuation boundary is therefore `CONTROVERSIA III. De reliquiis
-Sanctorum`, beginning later in printed column 71 on BSB canvas 36.
+**Part 08 is complete and image-audited as an AI-assisted, unreviewed working
+draft.** It contains the complete `CONTROVERSIA III. De reliquiis Sanctorum`
+in printed columns 71–87: Question I on relics in general; Question II on the
+adoration of the cross; Question III on the sign of the cross; and the two
+appended questions on sacred pilgrimages and Christian feast days. It ends
+after the response to the final objection on feast days, immediately before
+`DE ECCLESIA Militante`, and contains seventeen synchronized printed-column
+markers:
+
+- `parts/part-08-church-triumphant-controversy-03-relics-latin.txt`
+- `parts/part-08-church-triumphant-controversy-03-relics-english.md`
+
+The next continuation boundary is therefore `DE ECCLESIA Militante`,
+beginning later in printed column 87 on BSB canvas 44.
 
 ## Review and licensing notice
 

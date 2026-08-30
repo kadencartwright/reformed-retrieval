@@ -210,9 +210,32 @@ beneplacitum`, before Twisse turns to the meritorious cause.
 The next unit resumes on p. 52 / canvas 64 with `Hujus actus causam
 meritoriam extra Deum`.
 
+## Part 08: exact authorial boundary
+
+Part 08 resumes at that phrase on **first-body printed p. 52 / BSB canvas
+64** and completes Twisse's response to Proposition XII, Section III. It
+continues through **first-body printed p. 53 / BSB canvas 65**, with two
+synchronized source markers. At the page join the printer divides
+`pro-` / `positio`; the normalized Latin joins `propositio` and places the
+p. 53 marker before the complete word, while the English marker occupies the
+corresponding position before “proposition.”
+
+The unit stops in the right column of printed p. 53 after Twisse's sentence
+ending:
+
+> `… quanto minus obtinebunt quod attinet ad decretum non eligendi.`
+
+It stops immediately before the centered heading `SECTIO QUARTA` on that
+same page. The next part must therefore begin with `SECTIO QUARTA` and repeat
+the marker for **first-body printed p. 53 / BSB canvas 65**; it must not
+advance directly to p. 54.
+
+- `parts/part-08-proposition-12-section-03-response-completion-latin.txt`
+- `parts/part-08-proposition-12-section-03-response-completion-english.md`
+
 ## Status
 
-**Parts 01–07 are complete as AI-assisted, unreviewed working drafts.** Each
+**Parts 01–08 are complete as AI-assisted, unreviewed working drafts.** Each
 pair contains the full delimited text, not an outline or sample, and its source
 markers match exactly. Composite mapping and the stopping points have been
 checked against the BSB images. Independent line-by-line review of the

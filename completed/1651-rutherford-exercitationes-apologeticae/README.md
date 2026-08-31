@@ -1,8 +1,9 @@
 # Samuel Rutherford, *Exercitationes apologeticæ pro divina gratia* (1651)
 
-> **Working edition in progress:** This directory contains an AI-assisted
+> **Complete working draft:** This directory contains an AI-assisted
 > diplomatic-normalized Latin transcription and an independent close English
-> translation. Neither file is independently reviewed or publication-ready.
+> translation through the final colophon and chapter table. Neither text is
+> independently reviewed or publication-ready.
 
 ## Work identity
 

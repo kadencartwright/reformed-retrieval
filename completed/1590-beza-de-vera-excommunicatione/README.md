@@ -52,8 +52,7 @@ visible rather than silently collapsed.
 
 ## Rights and reuse
 
-The 1590 work is public domain. Any eventual normalized transcription,
-translation, and original metadata contributed by this project are intended
-for the repository's CC0 dedication. This statement does not upgrade the
-present unreviewed working files into a published or independently verified
-edition.
+The 1590 work is public domain. Project-authored English translation files are
+dedicated under the repository's path-based CC0 terms; the normalized source,
+README, and metadata are outside that dedication. Completion does not make the
+edition independently reviewed.

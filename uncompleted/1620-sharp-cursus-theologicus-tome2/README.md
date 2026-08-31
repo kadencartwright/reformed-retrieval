@@ -285,7 +285,7 @@ completion here records a bounded working draft, not independent scholarly
 review.
 
 No CC0 dedication is made for this README or the Latin transcription. Any
-future move of project-authored English into `texts/*/english.md` would be
+future move of project-authored English into `completed/*/english.md` would be
 governed by the repository's [licensing scope](../../LICENSING.md) and the
 [CC0 text](../../LICENSES/CC0-1.0.txt); material in this workbench is not
 presently included in that path-based dedication.

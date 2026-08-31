@@ -31,7 +31,7 @@ object carries the rights statement
 [`No Copyright – Non-Commercial Use Only 1.0`](https://rightsstatements.org/vocab/NoC-NC/1.0/).
 No page image or OCR derivative is redistributed here. The transcription and
 metadata are working research materials; only the repository's path-scoped
-English publication files under `texts/*/english.md` receive its CC0
+English publication files under `completed/*/english.md` receive its CC0
 dedication. This workbench English draft is therefore outside that dedication;
 see the repository [licensing scope](../../LICENSING.md).
 
@@ -3634,11 +3634,11 @@ power's strength and efficacy into a motive for lifelong gratitude and zeal.
 Run the existing work-local structural validators from the repository root:
 
 ```sh
-python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part01.py
-python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part02.py
-python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part31.py
-python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part32.py
-python3 workbench/1652-boyd-praelectiones-in-ephesios/scripts/validate_part33.py
+python3 uncompleted/1652-boyd-praelectiones-in-ephesios/scripts/validate_part01.py
+python3 uncompleted/1652-boyd-praelectiones-in-ephesios/scripts/validate_part02.py
+python3 uncompleted/1652-boyd-praelectiones-in-ephesios/scripts/validate_part31.py
+python3 uncompleted/1652-boyd-praelectiones-in-ephesios/scripts/validate_part32.py
+python3 uncompleted/1652-boyd-praelectiones-in-ephesios/scripts/validate_part33.py
 ```
 
 These check UTF-8 and line hygiene, exact marker sequence and parity,

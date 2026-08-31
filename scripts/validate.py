@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: MIT
-"""Run lightweight structural checks over the published text set."""
+"""Run structural checks over the completed translation corpus."""
 
 from __future__ import annotations
 
@@ -10,22 +10,27 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-TEXTS = ROOT / "texts"
+COMPLETED = ROOT / "completed"
 DOCUMENTS = tuple(
-    sorted(path.name for path in TEXTS.iterdir() if path.is_dir() and not path.name.startswith("."))
+    sorted(
+        path.name
+        for path in COMPLETED.iterdir()
+        if path.is_dir() and not path.name.startswith(".")
+    )
 )
 REQUIRED_COMMON = ("README.md", "english.md")
 SOURCE_NAMES = ("latin.txt", "french.txt")
 PAGE_MARKER = re.compile(r"\[CO ([IVXLCDM]+(?:/\d+)?), p\. (\d+)\]")
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
 MANIFEST_LINE = re.compile(
-    r"^[0-9a-f]{64}  (texts/[^/]+/(?:latin\.txt|french\.txt|english\.md))$"
+    r"^[0-9a-f]{64}  (completed/[^/]+/(?:latin\.txt|french\.txt|english\.md|parts/[^/]+-(?:latin\.txt|english\.md)))$"
 )
 LICENSE_CHECKS = {
     "LICENSE": ("MIT License", "Permission is hereby granted"),
     "LICENSES/CC0-1.0.txt": ("CC0 1.0 Universal", "Public License Fallback"),
     "LICENSING.md": (
-        "`texts/*/english.md`",
+        "`completed/*/english.md`",
+        "`completed/*/parts/*-english.md`",
         "No other repository file is covered by that CC0 dedication",
     ),
 }
@@ -38,6 +43,40 @@ MIT_SPDX_PATHS = (
 
 def fail(message: str) -> None:
     print(f"ERROR: {message}", file=sys.stderr)
+
+
+def validate_text_file(path: Path) -> int:
+    """Validate encoding and basic completeness signals for one corpus file."""
+    errors = 0
+    raw = path.read_bytes()
+    try:
+        text = raw.decode("utf-8")
+    except UnicodeDecodeError as exc:
+        fail(f"{path.relative_to(ROOT)} is not valid UTF-8: {exc}")
+        return 1
+
+    if not text.strip():
+        fail(f"{path.relative_to(ROOT)} is empty")
+        errors += 1
+    if "\r" in text:
+        fail(f"{path.relative_to(ROOT)} contains CR line endings")
+        errors += 1
+    if "\f" in text:
+        fail(f"{path.relative_to(ROOT)} contains form-feed characters")
+        errors += 1
+    if "\ufffd" in text:
+        fail(f"{path.relative_to(ROOT)} contains a Unicode replacement character")
+        errors += 1
+    if any(line.rstrip() != line for line in text.splitlines()):
+        fail(f"{path.relative_to(ROOT)} contains trailing whitespace")
+        errors += 1
+    if raw and not raw.endswith(b"\n"):
+        fail(f"{path.relative_to(ROOT)} has no final newline")
+        errors += 1
+    if re.search(r"\b(?:TODO|TBD|TRANSLATION PENDING)\b", text, re.I):
+        fail(f"{path.relative_to(ROOT)} contains an unfinished marker")
+        errors += 1
+    return errors
 
 
 def main() -> int:
@@ -64,7 +103,41 @@ def main() -> int:
             errors += 1
 
     for slug in DOCUMENTS:
-        directory = ROOT / "texts" / slug
+        directory = COMPLETED / slug
+        readme = directory / "README.md"
+        direct_english = directory / "english.md"
+        parts = directory / "parts"
+        multipart_english = sorted(parts.glob("*-english.md")) if parts.is_dir() else []
+        multipart_latin = sorted(parts.glob("*-latin.txt")) if parts.is_dir() else []
+
+        if not readme.is_file():
+            fail(f"missing {readme.relative_to(ROOT)}")
+            errors += 1
+
+        if direct_english.is_file() and multipart_english:
+            fail(f"{directory.relative_to(ROOT)} mixes single-file and multipart layouts")
+            errors += 1
+        elif not direct_english.is_file() and not multipart_english:
+            fail(f"{directory.relative_to(ROOT)} has no completed English translation")
+            errors += 1
+
+        if multipart_english:
+            english_stems = {path.name.removesuffix("-english.md") for path in multipart_english}
+            latin_stems = {path.name.removesuffix("-latin.txt") for path in multipart_latin}
+            if english_stems != latin_stems:
+                fail(
+                    f"{directory.relative_to(ROOT)}/parts has unpaired files: "
+                    f"English-only={sorted(english_stems - latin_stems)!r}, "
+                    f"Latin-only={sorted(latin_stems - english_stems)!r}"
+                )
+                errors += 1
+            for path in (*multipart_english, *multipart_latin):
+                errors += validate_text_file(path)
+            if readme.is_file() and "AI-assisted" not in readme.read_text(encoding="utf-8"):
+                fail(f"{readme.relative_to(ROOT)} does not disclose AI-assisted status")
+                errors += 1
+            continue
+
         source_files = [directory / name for name in SOURCE_NAMES if (directory / name).is_file()]
         if len(source_files) != 1:
             found = [path.name for path in source_files]
@@ -151,7 +224,6 @@ def main() -> int:
                 )
                 errors += 1
 
-        readme = directory / "README.md"
         if readme.is_file():
             readme_text = readme.read_text(encoding="utf-8")
             if "AI-assisted" not in readme_text:
@@ -194,8 +266,14 @@ def main() -> int:
             str(path.relative_to(ROOT))
             for slug in DOCUMENTS
             for name in (*SOURCE_NAMES, "english.md")
-            if (path := TEXTS / slug / name).is_file()
+            if (path := COMPLETED / slug / name).is_file()
         }
+        expected.update(
+            str(path.relative_to(ROOT))
+            for slug in DOCUMENTS
+            for pattern in ("*-latin.txt", "*-english.md")
+            for path in (COMPLETED / slug / "parts").glob(pattern)
+        )
         if listed != expected:
             missing = sorted(expected - listed)
             stale = sorted(listed - expected)

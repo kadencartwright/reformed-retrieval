@@ -1669,7 +1669,7 @@ excluded.
 - English: `parts/part-103-determinatio-de-sacrificio-christi-03-english.md`
 - Extent: two synchronized markers, new-series fols. 49–50 / IA leaves 369–370
 
-This workbench material is outside the repository's published `texts/` set.
+This workbench material is outside the repository's published `completed/` set.
 The English working translation is not presently within the path-scoped
 [CC0 dedication](../../LICENSES/CC0-1.0.txt); see the authoritative
 [licensing scope](../../LICENSING.md). **No CC0 dedication is made for this

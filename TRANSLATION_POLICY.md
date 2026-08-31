@@ -56,8 +56,9 @@ should preserve an inspectable Git history.
 
 ## Licensing
 
-Only project-authored content in `texts/*/english.md`, including translator's
-notes within those files, is dedicated under CC0. The normalized source files,
-document READMEs, research, metadata, and this policy are not part of that CC0
-dedication. Platform software and supporting configuration are licensed under
-MIT. See [`LICENSING.md`](LICENSING.md) for the authoritative path-based scope.
+Only project-authored content in `completed/*/english.md` and
+`completed/*/parts/*-english.md`, including translator's notes within those
+files, is dedicated under CC0. The normalized source files, document READMEs,
+research, metadata, and this policy are not part of that CC0 dedication.
+Platform software and supporting configuration are licensed under MIT. See
+[`LICENSING.md`](LICENSING.md) for the authoritative path-based scope.

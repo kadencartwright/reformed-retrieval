@@ -20,7 +20,7 @@ The requested translation phase includes the non-Calvin candidates below.
 document for bibliographical completeness only.
 
 Translation progress, source blockers, and incomplete working files are tracked
-separately in [`workbench/TRANSLATION_STATUS.md`](../workbench/TRANSLATION_STATUS.md).
+separately in [`uncompleted/TRANSLATION_STATUS.md`](../uncompleted/TRANSLATION_STATUS.md).
 
 This is a report of search results, not proof that no translation has ever
 circulated. An unpublished manuscript, privately circulated translation, or
@@ -61,7 +61,7 @@ These were the strongest candidates at the beginning of the audit when
 influence, relevance to Presbyterian history, the apparent translation gap,
 and source availability were considered together. They are a priority history,
 not a live progress list; completed and active working drafts are tracked in
-[`workbench/TRANSLATION_STATUS.md`](../workbench/TRANSLATION_STATUS.md).
+[`uncompleted/TRANSLATION_STATUS.md`](../uncompleted/TRANSLATION_STATUS.md).
 
 1. **Theodore Beza, _De vera excommunicatione et christiano presbyterio_**
    (1590). Beza's answer to Erastus and a major defense of ecclesiastical
@@ -139,15 +139,15 @@ version.
 The repository has already closed five smaller Calvin/Socinus/baptism gaps.
 They are not new translation targets:
 
-- John Calvin, [Letter 1212 to Laelius Socinus](../texts/1549-06-26-calvin-to-socinus/)
+- John Calvin, [Letter 1212 to Laelius Socinus](../completed/1549-06-26-calvin-to-socinus/)
   (26 June 1549).
-- Laelius Socinus, [Letter 1231 to John Calvin](../texts/1549-07-25-socinus-to-calvin-context/)
+- Laelius Socinus, [Letter 1231 to John Calvin](../completed/1549-07-25-socinus-to-calvin-context/)
   (25 July 1549), included as context and not attributed to Calvin.
-- John Calvin, [Letter 1323 to Laelius Socinus](../texts/1549-12-07-calvin-to-socinus/)
+- John Calvin, [Letter 1323 to Laelius Socinus](../completed/1549-12-07-calvin-to-socinus/)
   (7 December 1549).
-- John Calvin, [_Responsio ad aliquot Laelii Socini Senensis quaestiones_](../texts/1555-06-05-response-to-socinus/)
+- John Calvin, [_Responsio ad aliquot Laelii Socini Senensis quaestiones_](../completed/1555-06-05-response-to-socinus/)
   (5 June 1555).
-- John Calvin, [_Ad baptismum minus legitime administratum_](../texts/1561-11-13-baptism-improperly-administered/)
+- John Calvin, [_Ad baptismum minus legitime administratum_](../completed/1561-11-13-baptism-improperly-administered/)
   (13 November 1561).
 
 ## Theodore Beza — included in translation scope
@@ -438,7 +438,7 @@ not that OCR, control the text.
 
 | Author and work | Verified witness and extent | Readiness or boundary warning |
 |---|---|---|
-| Cartwright, _Ecclesiastes_ | [1663 public-domain Google witness](https://books.google.com/books?id=pthrWjdL0BgC), 236 reader images: six preliminary images plus 230 two-page openings, printed pp. 1–460 | Complete images have been acquired and mapped in [`workbench/1663-cartwright-metaphrasis-ecclesiastes/`](../workbench/1663-cartwright-metaphrasis-ecclesiastes/). The body runs continuously from reader `PA1` through `PA459`; the final page ends with a complete sentence and ornamental tailpiece rather than a literal _FINIS_. Automated OCR is navigation-only. |
+| Cartwright, _Ecclesiastes_ | [1663 public-domain Google witness](https://books.google.com/books?id=pthrWjdL0BgC), 236 reader images: six preliminary images plus 230 two-page openings, printed pp. 1–460 | Complete images have been acquired and mapped in [`uncompleted/1663-cartwright-metaphrasis-ecclesiastes/`](../uncompleted/1663-cartwright-metaphrasis-ecclesiastes/). The body runs continuously from reader `PA1` through `PA459`; the final page ends with a complete sentence and ornamental tailpiece rather than a literal _FINIS_. Automated OCR is navigation-only. |
 | Cartwright, _Proverbs_ | [1632 IA witness](https://archive.org/details/commentariisucci00cart), 698 access-PDF pages; printed columns 1–1333 plus preliminaries/index | PDF and downloadable OCR make this source-ready. Separate Johannes Polyander's preface from Cartwright's commentary. The source images confirm terminal column 1333; OCR misreads that running numeral as 1535. |
 | Rutherford, _Exercitationes apologeticae_ | [1651 IA witness](https://archive.org/details/exesap00ruth), 564 PDF pages: title and authorial/editorial preliminaries, 539 logical body pages, and a two-page index | Source-ready page XML/OCR and complete images. The audit found no missing or duplicated textual leaves; logical pp. 538–539 are visibly misprinted 528–529, and the 1651 witness has no separate errata. The 1636 first edition is a distinct setting with materially different chapter pagination but broad sampled textual continuity, so the 1651 text is identified explicitly rather than described as an exact reprint or a systematically revised edition. |
 | Rutherford, _De divina providentia_ | [1649 BSB witness](https://www.digitale-sammlungen.de/en/details/bsb10351095), 678 canvases, and [IA mirror](https://archive.org/details/bub_gb_yQ_R5E9Mb2AC), 698 frames | IA supplies downloadable OCR; BSB supplies page hOCR. A translated table of contents is not a full translation. |

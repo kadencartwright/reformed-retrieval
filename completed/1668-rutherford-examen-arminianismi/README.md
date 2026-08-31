@@ -1,9 +1,10 @@
 # Samuel Rutherford, *Examen Arminianismi* (1668)
 
-> **Working edition in progress:** This directory contains an AI-assisted
+> **Complete working draft:** This directory contains an AI-assisted
 > diplomatic-normalized Latin transcription and independent close English
-> translation of Rutherford's lecture text in Matthias Nethenus's posthumous
-> recension. It is not independently reviewed or publication-ready.
+> translation of all twenty chapters of Rutherford's lecture text in Matthias
+> Nethenus's posthumous recension. It is not independently reviewed or
+> publication-ready.
 
 ## Work and edition
 

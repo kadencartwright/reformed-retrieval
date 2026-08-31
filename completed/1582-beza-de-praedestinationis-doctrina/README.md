@@ -1,6 +1,6 @@
 # Theodore Beza, *De praedestinationis doctrina et vero usu* (1582)
 
-This workbench contains a diplomatic-normalized Latin transcription and a
+This directory contains a diplomatic-normalized Latin transcription and a
 complete independent English working translation of Theodore Beza,
 *De praedestinationis doctrina et vero usu tractatio absolutissima*, as printed
 in volume III of the 1582 *Tractationes theologicae*, pp. 402–447.

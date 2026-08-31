@@ -4608,7 +4608,7 @@ publication.
 ## Licensing
 
 The English working translation in this workbench directory is not within the
-repository's published `texts/*/english.md` CC0 dedication. See the scoped
+repository's published `completed/*/english.md` CC0 dedication. See the scoped
 [CC0 text](../../LICENSES/CC0-1.0.txt) and the repository's
 [licensing rules](../../LICENSING.md). **No CC0 dedication is made for the
 Latin transcription, this README, source metadata, or any other workbench

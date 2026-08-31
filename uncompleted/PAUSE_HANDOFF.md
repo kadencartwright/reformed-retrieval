@@ -70,7 +70,7 @@ quotation or publication.
 
 ### Beza, *Ad acta colloquii Montisbelgardensis responsio*
 
-- Directory: [`1588-beza-ad-acta-montisbelgardensis/`](1588-beza-ad-acta-montisbelgardensis/)
+- Directory: [`1588-beza-ad-acta-montisbelgardensis/`](../completed/1588-beza-ad-acta-montisbelgardensis/)
 - Part I is complete through its true `FINIS` and full work-specific errata:
   196 synchronized markers. The defective 1588 copy's missing printed p. 177 is
   supplied transparently from the public-domain 1587 witness.
@@ -98,7 +98,7 @@ quotation or publication.
 
 ### Rutherford, *Exercitationes apologeticae pro divina gratia*
 
-- Directory: [`1651-rutherford-exercitationes-apologeticae/`](1651-rutherford-exercitationes-apologeticae/)
+- Directory: [`1651-rutherford-exercitationes-apologeticae/`](../completed/1651-rutherford-exercitationes-apologeticae/)
 - Complete source map: authorial body logical pp. 1–539 / PDFs 19–557;
   two-page index PDFs 558–559; no separate errata; no missing body leaves.
 - Parts 01–06 are complete and scan-audited through the end of Exercise I,
@@ -111,7 +111,7 @@ quotation or publication.
 
 ### Rutherford, *Examen Arminianismi*
 
-- Directory: [`1668-rutherford-examen-arminianismi/`](1668-rutherford-examen-arminianismi/)
+- Directory: [`1668-rutherford-examen-arminianismi/`](../completed/1668-rutherford-examen-arminianismi/)
 - Complete source map: Rutherford's body printed pp. 1–761 / PDFs 54–810,
   surrounded by separately identified editorial preliminaries, errata, and
   three indexes.
@@ -186,7 +186,7 @@ completion.
 - Mark source defects and supplied readings explicitly rather than silently
   inventing or emending text.
 - Every English file must say **AI-assisted and unreviewed**.
-- Do not move workbench files into `texts/` or call them public-domain English
+- Do not move workbench files into `completed/` or call them public-domain English
   editions until qualified human review is complete.
 - Do not translate the Calvin items.
 
@@ -194,7 +194,7 @@ completion.
 
 - `python3 scripts/validate.py` passes: `Validated 67 document directories.`
 - `git diff --check` is clean.
-- `research/` and `workbench/` are tracked in Git on the active project branch;
+- `research/` and `uncompleted/` are tracked in Git on the active project branch;
   completed checkpoints are committed and pushed.
 - Workbench inventory at pause: 193 files, including 86 Latin files, 86 English
   files, 19 per-work READMEs, and the status ledger.

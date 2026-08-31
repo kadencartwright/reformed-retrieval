@@ -14,7 +14,7 @@
 - **Edition used:** Amsterdam, Johannes van Someren, 1668
 
 The catalogued 1668 issue appears to reuse sheets of the 1663 edition. This
-directory is deliberately independent of the Book I workbench and contains no
+directory is deliberately independent of the uncompleted Book I project and contains no
 Book I text or appended *diatriba*.
 
 ## Controlling witness and audit

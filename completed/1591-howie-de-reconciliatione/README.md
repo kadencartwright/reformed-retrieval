@@ -1,6 +1,6 @@
 # Robert Howie, *De reconciliatione hominis cum Deo* (1591)
 
-This workbench contains a diplomatic-normalized Latin transcription and a
+This directory contains a diplomatic-normalized Latin transcription and a
 complete independent English working translation of Robert Howie (Robertus
 Hovaeus), *De reconciliatione hominis cum Deo, seu de humani generis
 redemptione* (Basel, 1591), together with both authorial disputations appended

@@ -20,10 +20,10 @@ updated or the files carry an explicit MIT notice.
 
 ## English translations: CC0
 
-Only project-authored content in files matching `texts/*/english.md` is
-dedicated to the public domain under [CC0 1.0
-Universal](LICENSES/CC0-1.0.txt). This includes translator's notes contained
-inside those files.
+Only project-authored content in files matching `completed/*/english.md` or
+`completed/*/parts/*-english.md` is dedicated to the public domain under [CC0
+1.0 Universal](LICENSES/CC0-1.0.txt). This includes translator's notes
+contained inside those files.
 
 No other repository file is covered by that CC0 dedication. In particular,
 CC0 does not apply to normalized Latin or French transcriptions, document

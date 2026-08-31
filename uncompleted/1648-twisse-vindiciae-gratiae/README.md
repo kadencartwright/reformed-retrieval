@@ -38,7 +38,7 @@ The BSB site supplies access to its digitized public-domain witness under its
 own terms. This workbench transcription and metadata are not included in the
 repository's English-text CC0 dedication. See the repository
 [`LICENSING.md`](../../LICENSING.md) for path-based scope. If an English file
-is later promoted to `texts/`, only that project-authored English text may be
+is later promoted to `completed/`, only that project-authored English text may be
 dedicated under [`CC0 1.0`](../../LICENSES/CC0-1.0.txt). No CC0 dedication is
 made here for the Latin transcription, witness images, or metadata.
 

@@ -1601,6 +1601,32 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-23-chapter-23a-latin.txt`
 - `parts/part-23-chapter-23a-english.md`
 
-The next unit begins at `Vers. 4. Ne fatigator, ut ditescas: à tua prudentia
-desiste.` in the left column of PDF 512 / printed column 1008, followed by
-the verse-5 lemma. Exclude all preceding verse-1–3 prose.
+**Part 23b is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains verses 4–5, from `Vers. 4. Ne fatigator, ut
+ditescas: à tua prudentia desiste.` in the left column of PDF 512 / printed
+column 1008 through `Servator docet Math. 6. 25. Luc. 12. 22.` in the right
+column of PDF 513 / printed column 1011, before verse 6. Latin and English
+have two byte-identical source markers, PDF 512–513 / printed columns
+1008–1011. Full-file word counts are 738 Latin and 1075 English,
+including headers, markers, and translator's note.
+
+Both source pages and enlarged Hebrew details were inspected at 300 dpi.
+The first marker excludes all preceding verses 1–3; the last excludes the
+verse-6 lemma and following commentary. PDF 512's catchword `qui` is
+excluded and the complete body word and corresponding English relative
+clause begin PDF 513. The within-page column turn on PDF 512 divides
+`incunabula`; the word is joined without a page marker. Hebrew `תעיף` and
+`עיניך`, the emphatic `comparando sibi comparat`, and witness forms
+`oculorū`, `altiùs`, `tempestivā`, `quorū`, `habeantq;`, `Ut hāc flammam`,
+`cōficiuntur`, `Quomodò verò`, and historical spellings are retained.
+The English note explains the philosophical wordplay on substance and
+subsistence and identifies the anomalous printed `hāc` without silently
+changing the Latin. This remains an AI-assisted working edition requiring
+qualified human review.
+
+- `parts/part-23-chapter-23b-latin.txt`
+- `parts/part-23-chapter-23b-english.md`
+
+The next unit begins at `Vers. 6. Ne comedas panem mali oculo, & ne
+concupiscas delicias ejus.` in the right column of PDF 513 / printed column
+1011, followed by the verse-7–8 lemmata. Exclude all preceding verse-4–5 prose.

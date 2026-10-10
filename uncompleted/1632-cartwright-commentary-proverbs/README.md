@@ -1568,8 +1568,39 @@ an AI-assisted working edition, not an independently human-reviewed text.
 - `parts/part-22-chapter-22n-latin.txt`
 - `parts/part-22-chapter-22n-english.md`
 
-Chapter XXII is now translated through its final verse, 29. The next unit
-begins at `CAPUT XXIII.` below the rule in the right column of shared PDF
-510 / printed column 1005, followed by `V. 1. Quando sedebis ad vescendum
-cum dominatore, considerabis, quod ante te est.` and the grouped verses 2–3.
-Restart at the chapter heading and exclude all preceding Chapter XXII prose.
+Chapter XXII is now translated through its final verse, 29.
+
+**Part 23a begins Chapter XXIII with verses 1–3 as an AI-assisted,
+unreviewed first working draft.** It starts at `CAPUT XXIII.` in the right
+column of PDF 510 / printed column 1005 and ends `solicite cavendum est.`
+in the left column of PDF 512 / printed column 1008, before `Vers. 4.`.
+Latin and English have three byte-identical source markers, PDF 510–512 /
+printed columns 1004–1009. The complete files contain 808 Latin-file and
+1166 English-file whitespace-delimited words, including headers, markers,
+and translator's notes.
+
+All three pages were inspected at 300 dpi and enlarged lexical detail.
+PDF 510 excludes the preceding Chapter XXII prose; the bottom catchword
+`quorum` is excluded, with the complete word and its English continuation
+assigned to PDF 511. At the PDF-511/512 turn the catchword `ciborum,` is
+excluded: PDF 511 ends at `ab adj. suavitate`, and `ciborum potionum...`
+begins PDF 512. The final marker excludes verse 4 and all following matter.
+Both column transitions are read left to right without duplicating running
+heads or line numerals. Hebrew `שכין`, `לחם`, `לחם כזבים`, Greek
+`αὐτόχειροι`, and the English proverb already present in the witness are
+retained. Printed forms including `versu 30.`, `proculentorumq́ue`,
+`irritetúr`, `transmittūtur`, `jugulū`, and `videndendum` are preserved;
+the English notes identify the anomalous readings rather than concealing
+them. The printed division `appetenti aquā` is also retained: context
+strongly suggests `appetentia quā maximè`, with the bar abbreviating the
+final nasal of `quam`. English explicitly brackets the reconstructed
+sense, “with an especially strong appetite,” and explains the division.
+No modern physiological account is substituted. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23a-latin.txt`
+- `parts/part-23-chapter-23a-english.md`
+
+The next unit begins at `Vers. 4. Ne fatigator, ut ditescas: à tua prudentia
+desiste.` in the left column of PDF 512 / printed column 1008, followed by
+the verse-5 lemma. Exclude all preceding verse-1–3 prose.

@@ -1804,7 +1804,75 @@ This remains an AI-assisted working edition requiring qualified human review.
 - `parts/part-23-chapter-23j-latin.txt`
 - `parts/part-23-chapter-23j-english.md`
 
-The next unit begins at `V. 22. Ausculta patri tuo, ei, qui te genuit; & ne
-asperneris, cum senuerit, matrem tuam.` at the foot of the left column of
-PDF 522 / printed column 1028, followed by the remaining grouped lemmata
-in the right column. Exclude all preceding verse-19–21 prose.
+**Part 23k is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the complete grouped commentary on verses
+22–28, from `V. 22. Ausculta patri tuo, ei, qui te genuit; & ne asperneris,
+cum senuerit, matrem tuam.` at the foot of the left column of PDF 522 /
+printed column 1028 through `quanto magis, si palàm grassandi concedatur
+venia?` in the right column of PDF 526 / printed column 1037, before verse
+29. Latin and English have five byte-identical source markers, PDF 522–526
+/ printed columns 1028–1037. Full-file counts are 2,208 Latin words and
+3,400 English words, including headers, markers, and translator's notes.
+
+All five pages and enlarged details were inspected against the facsimile;
+the small Greek was also examined at 600 dpi. The initial marker excludes
+all preceding verse-19–21 prose and includes all seven lemmata in their
+printed order. At the PDF-522/523 turn the divided `ex-` and catchword are
+excluded; whole `exhauriat` and English “drained” belong to PDF 523. At the
+PDF-525/526 turn the body `com-` and catchword are excluded; whole
+`comparatur` and “is compared” belong to PDF 526. Other catchwords, running
+heads, and signatures are excluded without losing continuous prose.
+Hebrew headwords, historical spellings, macrons, and visible accents are
+retained, including `priùs`, `imò`, and `tantoperè` confirmed in the
+independent comparison. The verse-23 semicolon after `ne vendito` was
+checked in an enlarged crop and retained.
+
+The Greek is provisionally read `προφυλακτικῇ` and translated “by preventive
+instruction.” Eta and circumflex are discernible, but the iota subscript
+is not independently clear; the English note expressly preserves this
+uncertainty and does not silently replace the ending with the adverb
+`προφυλακτικῶς`. The elliptical verse-26 wording has its supplied English
+verb bracketed. Printed `Salomon`, `qui quid mirum`, and Proverbs 6:30 are
+retained and explained; no modern biblical wording replaces the source.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23k-latin.txt`
+- `parts/part-23-chapter-23k-english.md`
+
+**Part 23l completes Chapter XXIII as an AI-assisted, unreviewed first
+working draft.** It contains the grouped verses 29–35, from `Vers. 29.
+Cui vae? cui eheu?` at the foot of PDF 526's right column / printed column
+1037 through `maximè cuperent, inepti sint.` at the top of the left column
+of PDF 531 / printed column 1046. It stops before the rule and `CAPUT XXIV.`
+heading. Latin and English have six byte-identical source markers, PDF
+526–531 / printed columns 1036–1047. Full-file counts are 1,950 Latin and
+3,119 English words, including headers, markers, and translator's notes.
+
+Every included column and page join was checked against the actual images
+and enlarged details. The initial marker includes only the verse-29 lemma;
+the remaining lemmata and joint exposition begin PDF 527. Catchwords
+`v. 30. Im-`, `lites`, `Ubi`, `libi-`, and `respectu` at the successive
+page turns are excluded, with the complete body words and corresponding
+English assigned to their proper markers. No Chapter XXIV material is
+included. All seven analytical branching schemes are retained structurally,
+along with four Hebrew headwords, citations, source spellings, and
+abbreviations. The independently confirmed `itationem` is translated as
+“movement” in the cup; `fiduciâ`, `quàm`, `sterquilinio`, and `effecto`
+are retained. The phrase concerning a `sobrio ... hoste` is translated
+as a sober enemy, preserving its grammatical attachment.
+
+The unusual printed `infinita annorum initia` is retained and translated
+literally with an explanatory note, rather than silently emended to
+`millia`. The printed citation `Isai. 6. 12.` is retained, while the note
+identifies Isaiah 56:12 as the apparent intended passage. The wine's
+“eye,” its movement, and the historical medical and moral explanations
+are translated as Cartwright's own assertions. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23l-latin.txt`
+- `parts/part-23-chapter-23l-english.md`
+
+Chapter XXIII is now translated through its final verse, 35. The next unit
+begins at `CAPUT XXIV.` below the rule in the left column of shared PDF 531
+/ printed column 1046, followed by the grouped verse-1–2 lemmata. Restart
+at that heading and exclude all preceding Chapter XXIII prose.

@@ -1502,6 +1502,37 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22l-latin.txt`
 - `parts/part-22-chapter-22l-english.md`
 
-The next unit begins at the ruled `V. 28. Ne moveto terminum saeculi, quem
-aptarunt patres tui.` in the left column of PDF 509 / printed column 1002.
-Restart at that lemma, excluding all preceding verse-26–27 prose.
+**Part 22m is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with verse 28, from `V. 28. Ne
+moveto terminum saeculi, quem aptârunt patres tui.` in the left column of
+PDF 509 / printed column 1002 through `prae quibus gravissimus quisque
+patrum imberbis est.` at the top of the left column of PDF 510 / printed
+column 1004. It excludes the following verse-29 lemma. Latin and English
+have two byte-identical source markers (PDF 509–510; printed columns
+1002–1003 and 1004–1005). The complete files contain 406 Latin-file and
+685 English-file whitespace-delimited words, including headers, markers,
+and the English translator's note.
+
+Both controlling pages and enlarged lexical details were inspected at 300
+dpi. The first marker begins at the verse-28 lemma, excluding preceding
+verse-26–27 prose. PDF 509 includes the remaining left-column text and the
+whole right column. The page-bottom catchword `Ejus-` is excluded; PDF 509
+ends at `capiti assurgere oportere.`, and the complete body word `Ejusdem`
+begins PDF 510 with its corresponding English wording. The final marker
+contains only the opening left-column paragraph before verse 29. Witness
+forms including `עלם`, `אבותי`, `partes tui`, `aptârunt`, `Seculum`, `tāto`,
+`testimoniū`, `Quamobrē`, `depingūtur`, `cū`, `tū`, `ostēditur`, `singularū`,
+`argumēto`, `maximā`, `curā`, `hāc doctrinā`, `summovēt`, and `nonunquam`
+are retained. The source prints the anomalous Hebrew headword `אבותי` and
+Latin gloss `partes tui`, whereas its verse lemma has `patres tui`. The
+English explicitly supplies `[your fathers]` and explains both printed
+forms in a note. The first Hebrew headword `עלם` is likewise preserved
+without silently supplying a vowel-letter waw. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22m-latin.txt`
+- `parts/part-22-chapter-22m-english.md`
+
+The next unit begins at `V. 29. Vidisti virum diligentem in opere suo? Ante
+reges consistet, non consistet ante obscuros.` in the left column of PDF
+510 / printed column 1004, excluding the preceding verse-28 paragraph.

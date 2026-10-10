@@ -1471,7 +1471,37 @@ Internet Archive item metadata and the access PDF; the scan identifier and
 page mapping are unchanged. The retrieved PDF SHA-256 is
 `2d43475d68873e7d6e5003569bce2b0eb66261c11bb2046d28310f85c69493cc`.
 
-The next unit begins with the ruled `V. 26. Ne sis inter percutientes palma,
-inter sponsores pro debitis.` at the foot of the left column of PDF 508 /
-printed column 1000. Restart at that lemma, then read the verse-27 lemma
-and commentary in the right column; exclude all preceding verse-24–25 prose.
+**Part 22l is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with the grouped verses 26–27,
+from the ruled `V. 26. Ne sis inter percutientes palma, inter sponsores pro
+debitis.` at the foot of the left column of PDF 508 / printed column 1000,
+through `ante praestitutum tempus nihil quicquam relinquatur.` in the left
+column of PDF 509 / printed column 1002. It stops before the ruled verse-28
+lemma in that same column. Latin and English have two byte-identical source
+markers (PDF 508–509; printed columns 1000–1001 and 1002–1003), retaining
+both verse lemmata, Hebrew lexical notes, scope, citations, and all in-scope
+prose. The complete files contain 480 Latin-file and 752 English-file
+whitespace-delimited words, including headers, markers, and translator's notes.
+
+Both controlling pages were inspected at 300 dpi and enlarged detail. PDF
+508 begins with only the verse-26 lemma at the left-column foot, then the
+verse-27 lemma and entire commentary in the right column; preceding
+verse-24–25 prose is excluded. The page-bottom catchword `ad debiti` is
+excluded: the body ends `nequis illa`, while the complete phrase `ad debiti
+solutionem accipiat.` and corresponding English continuation belong to PDF
+509. The final marker includes only left-column prose before verse 28.
+The printed `Vers. 72.` is retained in Latin and explicitly corrected to
+`Verse [27]` in English with a note. The printed reference `Prov. 6. 11.`
+is retained and flagged rather than silently amended. Hebrew `תקעי כף`
+and `משכב`, the circumflex in `palmâ`, and abbreviations including `adj.`,
+`hemist.`, `Resp.`, `Tam n.`, `quoq;`, and `jā` are retained. Imperfectly
+inked letters in `his` and `colligi` are read from their visible forms and
+context rather than copied from the defective OCR. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22l-latin.txt`
+- `parts/part-22-chapter-22l-english.md`
+
+The next unit begins at the ruled `V. 28. Ne moveto terminum saeculi, quem
+aptarunt patres tui.` in the left column of PDF 509 / printed column 1002.
+Restart at that lemma, excluding all preceding verse-26–27 prose.

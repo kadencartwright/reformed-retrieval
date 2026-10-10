@@ -22,7 +22,8 @@ English translation has been identified in the research audit.
 
 ## Controlling witness and rights
 
-The controlling witness is the Harvard/Internet Archive copy digitized as
+The controlling witness is the John Adams Library at the Boston Public
+Library/Internet Archive copy digitized as
 [`commentariisucci00cart`](https://archive.org/details/commentariisucci00cart).
 Its access PDF has 698 physical pages and is accompanied by page-structured
 DjVu XML, plain OCR, and scan metadata. Wikimedia Commons mirrors the same scan
@@ -658,353 +659,7 @@ English-file whitespace-delimited words, respectively, including headers and
 markers.
 
 Every core image, PDF 440–443, was inspected at original and enlarged detail
-in both-column order. The shared PDF-440 marker is intentional: Part 20d ends
-above `Vers. 16.`, while Part 20e begins with that lemma below it, so no verse
-15 prose overlaps and none is omitted. The final PDF-443 marker includes only
-the concluding prose of verse 18 above `Vers. 19.`; no verse 19 material is
-imported. Page-turn catchwords `Scopus`, `Prov.`, and `Deum` were excluded
-rather than duplicated, while witness forms including `זלה`, `nec sicut
-hominem`, `Sweet meat must have sower sawce`, `stabilitor`, and `singularum
-lucem` were retained. This remains an AI-assisted working edition requiring
-qualified human review.
-
-- `parts/part-20-chapter-20e-latin.txt`
-- `parts/part-20-chapter-20e-english.md`
-
-**Part 20f is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XX from `Vers. 19. Revelanti arcanum,
-qui ambulat cum detractione, & blando labiis suis ne te admisceto.` in the
-left column of shared PDF 443 / printed column 860 through the final prose of
-verse 21 on PDF 445 / printed column 865. It stops immediately before `V. 22.`
-in that same right column. Latin and English have three byte-identical source
-markers (PDF 443–445; synchronized printed columns 860–861 through 864–865)
-and retain all three verse lemmata, full prose, Hebrew, Greek, citations, the
-embedded English `Hast maketh wast`, the bracketed vernacular proverb, and
-printed irregularities. The complete files contain 1,274 Latin-file and 1,805
-English-file whitespace-delimited words, respectively, including headers and
-markers.
-
-Every core image, PDF 443–445, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-443 marker is intentional:
-Part 20e ends above `Vers. 19.`, while Part 20f begins with that lemma below
-it, so no verse 18 prose overlaps and none is omitted. The page-turn
-catchwords `filiis` and `mo-` were excluded rather than duplicated. PDF 446
-was inspected only to verify the continuation of verse 22 and contributes no
-in-scope text or marker. The final PDF-445 marker ends above `V. 22.`; no verse
-22 material is imported. Witness forms including `Revelanti`, `exitu suo`,
-`aurilaterem`, and `Notatur etiam histor. est quid` were retained. This
-remains an AI-assisted working edition requiring qualified human review.
-
-- `parts/part-20-chapter-20f-latin.txt`
-- `parts/part-20-chapter-20f-english.md`
-
-**Part 20g is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XX from `V. 22. Ne dicas, rependam
-malum: expecta Iehovam, & ipse servabit te.` in the right column of shared PDF
-445 / printed column 865 through the final prose of verse 24 on PDF 448 /
-printed column 870. It stops immediately before `V. 25.` in that same left
-column. Latin and English have four byte-identical source markers (PDF
-445–448; synchronized printed columns 864–865 through 870–871) and retain all
-three verse lemmata, full prose, Hebrew, Greek, citations, bracketed wording,
-and printed irregularities. The complete files contain 1,354 Latin-file and
-1,862 English-file whitespace-delimited words, respectively, including
-headers and markers.
-
-Every core image, PDF 445–448, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-445 marker is intentional:
-Part 20f ends above `V. 22.`, while Part 20g begins with that lemma below it,
-so no verse 21 prose overlaps and none is omitted. The final PDF-448 marker
-includes only the concluding prose of verse 24 above `V. 25.` in the left
-column; no verse 25 material or later right-column prose is imported.
-Page-turn catchwords `omnes`, `Est`, and `si in` were excluded rather than
-duplicated, while witness forms including `Deut. 32. 52.`, the repeated
-`lapis: & lapis`, `oneribus`, `Prov. 16. 16.`, `μείωσιν`, and
-`ἐπαναγωγικῶς` were retained. This remains an AI-assisted working edition
-requiring qualified human review.
-
-- `parts/part-20-chapter-20g-latin.txt`
-- `parts/part-20-chapter-20g-english.md`
-
-**Part 20h is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XX from `V. 25. Tendicula est homini qui
-deglutit sacrum; & post vota requirere [tendicula est.` in the left column of
-shared PDF 448 / printed column 870 through the final prose of verse 27 on PDF
-452 / printed column 878. It stops immediately before `V. 28.` in that same
-left column. Latin and English have five byte-identical source markers (PDF
-448–452; synchronized printed columns 870–871 through 878–879) and retain all
-three verse lemmata, full prose, Hebrew, Greek, citations, bracketed wording,
-and printed irregularities. The complete files contain 1,867 Latin-file and
-2,653 English-file whitespace-delimited words, respectively, including
-headers and markers.
-
-Every core image, PDF 448–452, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-448 marker is intentional:
-Part 20g ends above `V. 25.`, while Part 20h begins with that lemma below it,
-so no verse 24 prose overlaps and none is omitted. The final PDF-452 marker
-includes only the concluding sentence of verse 27 above `V. 28.`; no verse 28
-material is imported. Page-turn catchwords `monio`, `In`, `tiuntur`, and
-`docemur` were excluded rather than duplicated. The divided `testimonio` and
-`discutiuntur`, with their corresponding English phrases, were assigned to
-the receiving PDF-449 and PDF-451 markers. Witness forms including
-`post nova Dei donatione`, `illecebrae`, `quam qui à`, `obscurans`,
-`manebant`, `circumfor.`, `fugienda`, `delegantur`, and `ἀγχινοίας` were
-retained. This remains an AI-assisted working edition requiring qualified
-human review.
-
-- `parts/part-20-chapter-20h-latin.txt`
-- `parts/part-20-chapter-20h-english.md`
-
-**Part 20i is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It concludes Chapter XX from `V. 28. Benignitas, & veritas
-custodient Regem: & eadem benignitate sustentat solium suum.` in the left
-column of shared PDF 452 / printed column 878 through the final prose of verse
-30 on PDF 455 / printed column 895. It stops immediately before the ruled
-`CAPUT XXI` and its `Vers. 1.` in that same right column. Latin and English
-have four byte-identical source markers (PDF 452–455; visible printed columns
-878–879, 880–881, 892–893, and 894–895) and retain all three verse lemmata,
-full prose, Hebrew, Greek, citations, both embedded English phrases, and
-printed irregularities. The complete files contain 1,798 Latin-file and 2,529
-English-file whitespace-delimited words, respectively, including headers and
-markers.
-
-Every core image, PDF 452–455, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-452 marker is intentional:
-Part 20h ends above `V. 28.`, while Part 20i begins with that lemma below it,
-so no verse 27 prose overlaps and none is omitted. The visible printed column
-sequence jumps directly from 881 on PDF 453 to 892 on PDF 454; the paired
-PDF-454 markers record this press anomaly rather than silently renumbering it.
-The final PDF-455 marker includes only the concluding prose of verse 30 above
-the rule; no `CAPUT XXI` or verse 1 material is imported. Page-turn catchwords
-`cum`, `electorum,`, and `cina,` were excluded rather than duplicated. The
-divided wording `cum δῶρα ἄδωρα`, `electorum`, and `medicina`, with its
-corresponding English wording, was assigned wholly to the receiving PDF-453,
-PDF-454, and PDF-455 markers. Witness forms including `artribuit`,
-`expliandis`, `humines`, `ab suam morositatem`, `Tumices`, `black, & blew`,
-and `Hebr. 12. 1.` were retained. This remains an AI-assisted working edition
-requiring qualified human review.
-
-- `parts/part-20-chapter-20i-latin.txt`
-- `parts/part-20-chapter-20i-english.md`
-
-**Part 21a is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It begins Chapter XXI at the ruled `CAPUT XXI` and `Vers. 1.
-Rivi aquarum sunt cor Regis in manu Domini; ad rem quamcunque libuerit
-inflectit illud.` in the right column of shared PDF 455 / printed column 895
-and continues through the short concluding prose of verse 3 on PDF 457 /
-printed column 899. It stops immediately before `V. 4. Elatio oculorum, &
-amplitudo cordis, aratio improborum sunt peccatum.` in that same right column.
-Latin and English have three byte-identical source markers (PDF 455–457;
-synchronized printed columns 894–895 through 898–899) and retain all three
-verse lemmata, full prose, Hebrew, citations, abbreviations, and printed
-irregularities. The complete files contain 1,032 Latin-file and 1,438
-English-file whitespace-delimited words, respectively, including headers and
-markers.
-
-Every core image, PDF 455–457, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-455 marker includes only the
-ruled Chapter XXI heading and verse 1 material in the right column; the final
-Chapter XX sentence above the rule is excluded. The divided `celeberrimum`,
-with its corresponding English wording, was assigned wholly to the receiving
-PDF-456 marker; the ending `cele-` and catchword `berri-` on PDF 455 were not
-duplicated. The catchword `V. 3.` on PDF 456 was excluded, and verse 3 begins
-under PDF 457. The final PDF-457 marker ends with the short verse 3 conclusion
-above `V. 4.`; no verse 4 material is imported. Witness forms including
-`Nabuch. atuvenit`, `Neh. 1. 2.`, `Esavo`, `Isra.`, `Voce, justitiae`, and
-`judicij` were retained. This remains an AI-assisted working edition requiring
-qualified human review.
-
-- `parts/part-21-chapter-21a-latin.txt`
-- `parts/part-21-chapter-21a-english.md`
-
-**Part 21b is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XXI from `V. 4. Elatio oculorum, &
-amplitudo cordis, aratio improborum sunt peccatum.` in the right column of
-shared PDF 457 / printed column 899 through the final prose of verse 6 on PDF
-461 / printed column 906, ending `pro rata portione thesaurum irae divinae
-congerant in diem irae & vindictae.` It stops immediately before `Vers. 7.
-Vastatio improborum dissecabit eos, qui renuerunt exercere judicium.` in that
-same left column. Latin and English have five byte-identical source markers
-(PDF 457–461; synchronized printed columns 898–899 through 906–907) and retain
-all three verse lemmata, full in-scope prose, Hebrew, Greek, citations,
-abbreviations, both embedded English proverbs, and printed irregularities.
-The complete files contain 1,778 Latin-file and 2,506 English-file
-whitespace-delimited words, respectively, including headers and markers.
-
-Every core image, PDF 457–461, was inspected at original detail in
-left-then-right column order. The shared PDF-457 marker begins only at `V. 4.`
-in the right column; the final verse 3 sentence above it is excluded. The
-final PDF-461 marker includes only the concluding sentence of verse 6 above
-`Vers. 7.` in the left column; no verse 7 material or right-column prose is
-imported. Page-turn catchwords `damnum`, `loquitur)`, `tantum`, and `una` were
-excluded rather than duplicated. The divided wording `damnum`, `loquitur)`,
-`tantum`, and `una tecum pereat`, with its corresponding English wording, was
-assigned wholly to receiving PDF 458, 459, 460, and 461 markers. Witness forms
-including `Eph. 4. 52.`, `furniculos`, `Unum est, est`, `ἀνοίᾳ`,
-`ἐρωτηματικῶς`, `Hast makes wast`, and `Soft fier makes sweet malt` were
-retained. This remains an AI-assisted working edition requiring qualified
-human review.
-
-- `parts/part-21-chapter-21b-latin.txt`
-- `parts/part-21-chapter-21b-english.md`
-
-**Part 21c is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XXI from `Vers. 7. Vastatio improborum
-dissecabit eos, qui renuerunt exercere judicium.` in the left column of shared
-PDF 461 / printed column 906 through the final prose of verse 9 on PDF 464 /
-printed column 913, ending `facile illas ad pietatem & officium revocatas iri.`
-It stops immediately before `V. 10. Anima improbi expetit malum; gratiam non
-consequitur in oculis ejus proximus ejus.` in that same right column. Latin and
-English have four byte-identical source markers (PDF 461–464; synchronized
-printed columns 906–907 through 912–913) and retain all three verse lemmata,
-full in-scope prose, Hebrew, Greek, citations, abbreviations, the embedded
-English phrase, and printed irregularities. The complete files contain 1,847
-Latin-file and 2,607 English-file whitespace-delimited words, respectively,
-including headers and markers.
-
-Every core image, PDF 461–464, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-461 marker begins only at
-`Vers. 7.` in the left column; the final verse 6 sentence above it is excluded.
-The final PDF-464 marker ends with the concluding prose of verse 9 above `V.
-10.`; no verse 10 material is imported. Page-turn catchwords `vero`, `litas`,
-and `loco` and the divided fragment `mutabi-` were excluded rather than
-duplicated. The wording `verò`, `mutabilitas`, and `loco`, with its
-corresponding English wording, was assigned wholly to receiving PDF 462, PDF
-463, and PDF 464 markers. Witness forms including `admisso`, `exacutum`,
-`judic's`, `hypocrisis`, `effecto`, `Ut cunque`, `rei peragendi`, `Priscill.`,
-`quod scripsi, scripsi`, `immorigera`, `substractum`, `foem.?`, and `He
-looketh 9. wayes at once.` were retained. This remains an AI-assisted working
-edition requiring qualified human review.
-
-- `parts/part-21-chapter-21c-latin.txt`
-- `parts/part-21-chapter-21c-english.md`
-
-**Part 21d is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XXI from `V. 10. Anima improbi expetit
-malum; gratiam non consequitur in oculis ejus proximus ejus.` in the right
-column of shared PDF 464 / printed column 913 through the final prose of verse
-12 on PDF 467 / printed column 919, ending `qui per injuriam damnatus est.` It
-stops immediately before `V. 13. Obthurans aurem à clamore tenuis, etiam ipse
-clamabit, & non respondebitur.` in that same right column. Latin and English
-have four byte-identical source markers (PDF 464–467; synchronized printed
-columns 912–913 through 918–919) and retain all three verse lemmata, full
-in-scope prose, Hebrew, Greek, citations, abbreviations, and printing
-irregularities. The complete files contain 1,378 Latin-file and 1,987
-English-file whitespace-delimited words, respectively, including headers and
-markers.
-
-Every core image, PDF 464–467, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-464 marker begins only at `V.
-10.` in the right column; the final verse 9 sentence above it is excluded. The
-final PDF-467 marker ends with the concluding verse 12 sentence above `V. 13.`
-in the right column; no verse 13 material is imported. Page-turn catchwords
-`quam`, `Prior`, and `Verum` were excluded rather than duplicated. The wording
-`quam si dixisset`, `Prior sententia`, and `Verum quidem est`, with its
-corresponding English wording, was assigned wholly to receiving PDF 465, PDF
-466, and PDF 467 markers. Witness forms including the repeated `dicit`,
-`attahit`, `comperiamur`, `sicut de priori`, `praeteritis`,
-`προσωποληψίας`, `Poenae enim metu`, `Perrari`, and `invidia prosperitatis`
-were retained. This remains an AI-assisted working edition requiring
-qualified human review.
-
-- `parts/part-21-chapter-21d-latin.txt`
-- `parts/part-21-chapter-21d-english.md`
-
-**Part 21e is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XXI from `V. 13. Obthurans aurem à
-clamore tenuis, etiam ipse clamabit, & non respondebitur.` in the right column
-of shared PDF 467 / printed column 919 through the final prose of verse 14 on
-PDF 469 / printed column 923, ending `Quo sensu cum superiore Proverb. magnam
-conjunctionem habet.` It stops immediately before `V. 15. Laetitiae est justo
-exercere jus; quod est contritioni operarius iniquitatis.` in that same right
-column. Latin and English have three byte-identical source markers (PDF
-467–469; synchronized printed columns 918–919 through 922–923) and retain both
-verse lemmata, full in-scope prose, Hebrew, Greek, citations, abbreviations,
-and printing irregularities. The complete files contain 1,058 Latin-file and
-1,483 English-file whitespace-delimited words, respectively, including
-headers and markers.
-
-Every core image, PDF 467–469, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-467 marker begins only at `V.
-13.` in the right column; the final verse 12 sentence above it is excluded. At
-the PDF-467/468 turn, the divided fragment `dehorta-` and catchword `tur ab`
-were excluded rather than duplicated: `Ab hac autem inhumanitate` remains
-under PDF 467, while `dehortatur` and its corresponding English wording are
-assigned wholly to PDF 468. At the PDF-468/469 turn, `aut` remains under PDF
-468, the catchword `viribus` is excluded, and `viribus suis` with its
-corresponding English wording is assigned wholly to PDF 469. The final
-PDF-469 marker ends with the concluding verse 14 sentence above `V. 15.`; no
-verse 15 material is imported. Witness forms including `Obthurans`,
-`Teruntij`, `quia illa utuntur`, `Ira enim praecipites acti`, `affectui
-debiliori`, `siquis ... aggrederentur`, and `restingui` were retained. This
-remains an AI-assisted working edition requiring qualified human review.
-
-- `parts/part-21-chapter-21e-latin.txt`
-- `parts/part-21-chapter-21e-english.md`
-
-**Part 21f is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XXI from `V. 15. Laetitiae est justo
-exercere jus; quod est contritioni operarius iniquitatis.` in the right column
-of shared PDF 469 / printed column 923 through the final prose of verse 16 on
-PDF 471 / printed column 927, ending `in morte manere, scilicet aeterna.` It
-stops immediately before `V. 17. Vir egestatis erit amator laetitiae; & amator
-vini, & olei non erit dives.` in that same right column. Latin and English have
-three byte-identical source markers (PDF 469–471; synchronized printed columns
-922–923 through 926–927) and retain both verse lemmata, full in-scope prose,
-Hebrew, Greek, citations, abbreviations, and printing irregularities. The
-complete files contain 1,115 Latin-file and 1,547 English-file
-whitespace-delimited words, respectively, including headers and markers.
-
-Every core image, PDF 469–471, was inspected at original detail in
-left-then-right column order. The shared PDF-469 marker begins only at `V. 15.`
-in the right column; the final verse 14 sentence above it is excluded. At the
-PDF-469/470 turn, the divided fragment `ferven-` and catchword `tiorem` were
-excluded rather than duplicated: the preceding `Proph. amorem suum` remains
-under PDF 469, while `ferventiorem` and its corresponding English wording are
-assigned wholly to PDF 470. At the PDF-470/471 turn, the catchword `verò` was
-excluded: `maximè` and its corresponding English wording remain under PDF 470,
-while `verò` and its corresponding English wording are assigned wholly to PDF
-471. The final PDF-471 marker ends with the concluding verse 16 sentence above
-`V. 17.`; no verse 17 material is imported. Witness forms including `foelici`,
-`infoelici`, `utriq;`, `proprij`, `officij`, `Pij`, `Pijs`, `effectum
-erroris`, and `plurimum differunt` were retained. This remains an AI-assisted
-working edition requiring qualified human review.
-
-- `parts/part-21-chapter-21f-latin.txt`
-- `parts/part-21-chapter-21f-english.md`
-
-**Part 21g is complete and scan-audited as an AI-assisted, unreviewed first
-working draft.** It continues Chapter XXI from `V. 17. Vir egestatis erit
-amator laetitiae; & amator vini, & olei non erit dives.` in the right column
-of shared PDF 471 / printed column 927 through the final prose of verse 18 on
-PDF 473 / printed column 931, ending `in domum suam, tanquam domesticos
-cooptaturum, Psal 101. 6.` It stops immediately before `V. 19. Melius est
-habitare in terra deserti, quàm cum muliere contentionum, & indignationis.`
-in that same right column. Latin and English have three byte-identical source
-markers (PDF 471–473; synchronized printed columns 926–927 through 930–931)
-and retain both verse lemmata, full in-scope prose, Hebrew, Greek, citations,
-abbreviations, and printing irregularities. The complete files contain 1,226
-Latin-file and 1,702 English-file whitespace-delimited words, respectively,
-including headers and markers.
-
-Every core image, PDF 471–473, was inspected at original and enlarged detail
-in left-then-right column order. The shared PDF-471 marker begins only at `V.
-17.` in the right column; the final verse 16 sentence above it is excluded. At
-the PDF-471/472 turn, the catchword fragment `dehor-` was excluded rather than
-duplicated: the body ends `hoc Prov.` under PDF 471, while `dehortatur` and its
-corresponding English wording are assigned wholly to PDF 472. At the
-PDF-472/473 turn, the catchword `Scopus` was excluded: the verse 18 lemma ends
-the PDF-472 body, while `Scopus` and its corresponding English wording are
-assigned wholly to PDF 473. The final PDF-473 marker ends with the concluding
-verse 18 prose above `V. 19.`; no verse 19 material is imported. Witness forms
-including `1. Ioh. 2. 5. 6, 7.`, `delibutione`, `faraci`, `frangendum`,
-`virisimile`, `ἀθέας`, `λυτρὸν`, `justiss.`, `injustiss.`, and `Psal 101. 6.` were
-retained. This remains an AI-assisted working edition requiring qualified
-human review.
-
-- `parts/part-21-chapter-21g-latin.txt`
-- `parts/part-21-chapter-21g-english.md`
-
-**Part 21h is complete and scan-audited as an AI-assisted, unreviewed first
+in both-column order. The shared PDF-440 marker is intentional: Part …5561 tokens truncated…, unreviewed first
 working draft.** It continues Chapter XXI from `V. 19. Melius est habitare in
 terra deserti, quàm cum muliere contentionum, & indignationis.` in the right
 column of shared PDF 473 / printed column 931 through the final prose of verse
@@ -1429,7 +1084,48 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22j-latin.txt`
 - `parts/part-22-chapter-22j-english.md`
 
-The next unit begins with the ruled `Vers. 24. Ne sis amicus Domino irae!
-neque accedas ad virum aestuum.` in the right column of PDF 507 / printed
-column 999; restart at that lemma, excluding the complete verse-23 left column
-and all text above the lemma in the right column.
+**Part 22k is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with the grouped verses 24–25,
+from the ruled `Vers. 24. Ne sis amicus Domino irae! neque accedas ad virum
+aestuum.` in the right column of shared PDF 507 / printed column 999 through
+`alios injuria lacessitos in suā ipsius perniciem irritabit.` in the left
+column of PDF 508 / printed column 1000. It stops immediately before the
+ruled `V. 26. Ne sis inter percutientes palma, inter sponsores pro debitis.`
+at the foot of that same left column. Latin and English have two
+byte-identical source markers (PDF 507–508; printed columns 998–999 and
+1000–1001) and retain both verse lemmata, the Hebrew lexical notes, the
+scope, the full in-scope prose, citations, Greek, abbreviations, macrons,
+and substantive printing irregularities. The complete files contain 514
+Latin-file and 782 English-file whitespace-delimited words, respectively,
+including headers, markers, and the English translator's note.
+
+Both controlling scans, PDF 507–508, were rendered at 300 dpi and inspected
+as complete pages and enlarged column/lexical details. The shared PDF-507
+marker begins only at the ruled verse-24 lemma in the right column; the
+entire verse-23 left column is excluded. At the PDF-507/508 turn, the
+catchword `Praece-` is excluded: PDF 507 ends at `annos unà convixissent.`,
+and the complete body word `Praeceptum` and its corresponding English
+wording begin under PDF 508. The final marker contains only the left-column
+prose before verse 26; the verse-26 lemma and the entire right column are
+excluded. Witness forms including `הבעל אף`, `איש חמות`, `מוקש`, `γενικῶς`,
+`quidquā`, `conjūgamus`, `commedēdos`, `fovendū confirmandumq;`, `Siquis`, `quàm`, `tamē`, and
+`suā` are retained. The source prints `inimicitiam` in the prohibition
+citing 2 Chronicles 19:2, although the context strongly suggests friendship rather
+than enmity. The Latin preserves that reading; the English's bracketed
+`[friendship]` and translator's note explicitly identify the probable
+emendation. The abbreviation `conjūgamus` is retained, with its nasal-suspension bar.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22k-latin.txt`
+- `parts/part-22-chapter-22k-english.md`
+
+The controlling-witness attribution above is corrected from Harvard to the
+John Adams Library at the Boston Public Library, as identified by the
+Internet Archive item metadata and the access PDF; the scan identifier and
+page mapping are unchanged. The retrieved PDF SHA-256 is
+`2d43475d68873e7d6e5003569bce2b0eb66261c11bb2046d28310f85c69493cc`.
+
+The next unit begins with the ruled `V. 26. Ne sis inter percutientes palma,
+inter sponsores pro debitis.` at the foot of the left column of PDF 508 /
+printed column 1000. Restart at that lemma, then read the verse-27 lemma
+and commentary in the right column; exclude all preceding verse-24–25 prose.

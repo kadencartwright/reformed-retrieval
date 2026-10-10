@@ -1533,6 +1533,43 @@ working edition requiring qualified human review.
 - `parts/part-22-chapter-22m-latin.txt`
 - `parts/part-22-chapter-22m-english.md`
 
-The next unit begins at `V. 29. Vidisti virum diligentem in opere suo? Ante
-reges consistet, non consistet ante obscuros.` in the left column of PDF
-510 / printed column 1004, excluding the preceding verse-28 paragraph.
+**Part 22n completes Chapter XXII as an AI-assisted, unreviewed first
+working draft.** It contains verse 29, from `V. 29. Vidisti virum diligentem
+in opere suo? Ante reges consistet, non consistet ante obscuros.` in the left
+column of PDF 510 / printed column 1004 through `coram rege regum in summis
+coelis perpetuo consistamus.` in the right column / printed column 1005.
+It stops before the rule and `CAPUT XXIII.` heading. Latin and English have
+one byte-identical source marker (PDF 510; printed columns 1004–1005).
+The complete files contain 372 Latin-file and 563 English-file
+whitespace-delimited words, including headers, marker, and translator's note.
+
+The controlling page was inspected at 300 dpi in left-then-right column
+order and enlarged detail. All preceding verse-28 prose at the top of the
+left column is excluded. The paragraph beginning `Promissio sequitur`
+continues across the column turn without a new page marker, from `Eadem
+etiam dominabitur` to `Prov. 12. 24.`. The right-column text ends at
+`consistamus.`, excluding the entire Chapter XXIII heading, lemmata, and
+commentary below the rule. The Greek `Αλλοτριοεπίσκοποι`, printed without
+a supplied initial breathing mark, is retained and glossed in English.
+Witness forms including `cōmendatur`, `imitandū`, `providentiâ`, `manè`,
+`tempestivè`, `intempestivè`, `strenuè`, `contrarij`, `authoritate`, and
+`differentiâ` are preserved. The source's abbreviated `Thessal.` after
+`Paulus` is explained as the Thessalonians in the English note.
+
+Minor typographical uncertainties remain visible in the scan: the faint
+marks around final `o` in `porro` and `serio` do not establish separate grave
+accents, so those words are left unaccented. A small detached mark above
+the first `m` in `commissam` is also of uncertain significance, since both
+`m` letters are printed; the ordinary spelling is retained without treating
+that mark as an abbreviation. These readings do not affect the translated
+sense, but should be checked during qualified human review. This remains
+an AI-assisted working edition, not an independently human-reviewed text.
+
+- `parts/part-22-chapter-22n-latin.txt`
+- `parts/part-22-chapter-22n-english.md`
+
+Chapter XXII is now translated through its final verse, 29. The next unit
+begins at `CAPUT XXIII.` below the rule in the right column of shared PDF
+510 / printed column 1005, followed by `V. 1. Quando sedebis ad vescendum
+cum dominatore, considerabis, quod ante te est.` and the grouped verses 2–3.
+Restart at the chapter heading and exclude all preceding Chapter XXII prose.

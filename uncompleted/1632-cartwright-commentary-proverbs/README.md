@@ -22,7 +22,8 @@ English translation has been identified in the research audit.
 
 ## Controlling witness and rights
 
-The controlling witness is the Harvard/Internet Archive copy digitized as
+The controlling witness is the John Adams Library at the Boston Public
+Library/Internet Archive copy digitized as
 [`commentariisucci00cart`](https://archive.org/details/commentariisucci00cart).
 Its access PDF has 698 physical pages and is accompanied by page-structured
 DjVu XML, plain OCR, and scan metadata. Wikimedia Commons mirrors the same scan
@@ -1429,7 +1430,449 @@ AI-assisted working edition requiring qualified human review.
 - `parts/part-22-chapter-22j-latin.txt`
 - `parts/part-22-chapter-22j-english.md`
 
-The next unit begins with the ruled `Vers. 24. Ne sis amicus Domino irae!
-neque accedas ad virum aestuum.` in the right column of PDF 507 / printed
-column 999; restart at that lemma, excluding the complete verse-23 left column
-and all text above the lemma in the right column.
+**Part 22k is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with the grouped verses 24–25,
+from the ruled `Vers. 24. Ne sis amicus Domino irae! neque accedas ad virum
+aestuum.` in the right column of shared PDF 507 / printed column 999 through
+`alios injuria lacessitos in suā ipsius perniciem irritabit.` in the left
+column of PDF 508 / printed column 1000. It stops immediately before the
+ruled `V. 26. Ne sis inter percutientes palma, inter sponsores pro debitis.`
+at the foot of that same left column. Latin and English have two
+byte-identical source markers (PDF 507–508; printed columns 998–999 and
+1000–1001) and retain both verse lemmata, the Hebrew lexical notes, the
+scope, the full in-scope prose, citations, Greek, abbreviations, macrons,
+and substantive printing irregularities. The complete files contain 514
+Latin-file and 782 English-file whitespace-delimited words, respectively,
+including headers, markers, and the English translator's note.
+
+Both controlling scans, PDF 507–508, were rendered at 300 dpi and inspected
+as complete pages and enlarged column/lexical details. The shared PDF-507
+marker begins only at the ruled verse-24 lemma in the right column; the
+entire verse-23 left column is excluded. At the PDF-507/508 turn, the
+catchword `Praece-` is excluded: PDF 507 ends at `annos unà convixissent.`,
+and the complete body word `Praeceptum` and its corresponding English
+wording begin under PDF 508. The final marker contains only the left-column
+prose before verse 26; the verse-26 lemma and the entire right column are
+excluded. Witness forms including `הבעל אף`, `איש חמות`, `מוקש`, `γενικῶς`,
+`quidquā`, `conjūgamus`, `commedēdos`, `fovendū confirmandumq;`, `Siquis`, `quàm`, `tamē`, and
+`suā` are retained. The source prints `inimicitiam` in the prohibition
+citing 2 Chronicles 19:2, although the context strongly suggests friendship rather
+than enmity. The Latin preserves that reading; the English's bracketed
+`[friendship]` and translator's note explicitly identify the probable
+emendation. The abbreviation `conjūgamus` is retained, with its nasal-suspension bar.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22k-latin.txt`
+- `parts/part-22-chapter-22k-english.md`
+
+The controlling-witness attribution above is corrected from Harvard to the
+John Adams Library at the Boston Public Library, as identified by the
+Internet Archive item metadata and the access PDF; the scan identifier and
+page mapping are unchanged. The retrieved PDF SHA-256 is
+`2d43475d68873e7d6e5003569bce2b0eb66261c11bb2046d28310f85c69493cc`.
+
+**Part 22l is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with the grouped verses 26–27,
+from the ruled `V. 26. Ne sis inter percutientes palma, inter sponsores pro
+debitis.` at the foot of the left column of PDF 508 / printed column 1000,
+through `ante praestitutum tempus nihil quicquam relinquatur.` in the left
+column of PDF 509 / printed column 1002. It stops before the ruled verse-28
+lemma in that same column. Latin and English have two byte-identical source
+markers (PDF 508–509; printed columns 1000–1001 and 1002–1003), retaining
+both verse lemmata, Hebrew lexical notes, scope, citations, and all in-scope
+prose. The complete files contain 480 Latin-file and 752 English-file
+whitespace-delimited words, including headers, markers, and translator's notes.
+
+Both controlling pages were inspected at 300 dpi and enlarged detail. PDF
+508 begins with only the verse-26 lemma at the left-column foot, then the
+verse-27 lemma and entire commentary in the right column; preceding
+verse-24–25 prose is excluded. The page-bottom catchword `ad debiti` is
+excluded: the body ends `nequis illa`, while the complete phrase `ad debiti
+solutionem accipiat.` and corresponding English continuation belong to PDF
+509. The final marker includes only left-column prose before verse 28.
+The printed `Vers. 72.` is retained in Latin and explicitly corrected to
+`Verse [27]` in English with a note. The printed reference `Prov. 6. 11.`
+is retained and flagged rather than silently amended. Hebrew `תקעי כף`
+and `משכב`, the circumflex in `palmâ`, and abbreviations including `adj.`,
+`hemist.`, `Resp.`, `Tam n.`, `quoq;`, and `jā` are retained. Imperfectly
+inked letters in `his` and `colligi` are read from their visible forms and
+context rather than copied from the defective OCR. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22l-latin.txt`
+- `parts/part-22-chapter-22l-english.md`
+
+**Part 22m is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It continues Chapter XXII with verse 28, from `V. 28. Ne
+moveto terminum saeculi, quem aptârunt patres tui.` in the left column of
+PDF 509 / printed column 1002 through `prae quibus gravissimus quisque
+patrum imberbis est.` at the top of the left column of PDF 510 / printed
+column 1004. It excludes the following verse-29 lemma. Latin and English
+have two byte-identical source markers (PDF 509–510; printed columns
+1002–1003 and 1004–1005). The complete files contain 406 Latin-file and
+685 English-file whitespace-delimited words, including headers, markers,
+and the English translator's note.
+
+Both controlling pages and enlarged lexical details were inspected at 300
+dpi. The first marker begins at the verse-28 lemma, excluding preceding
+verse-26–27 prose. PDF 509 includes the remaining left-column text and the
+whole right column. The page-bottom catchword `Ejus-` is excluded; PDF 509
+ends at `capiti assurgere oportere.`, and the complete body word `Ejusdem`
+begins PDF 510 with its corresponding English wording. The final marker
+contains only the opening left-column paragraph before verse 29. Witness
+forms including `עלם`, `אבותי`, `partes tui`, `aptârunt`, `Seculum`, `tāto`,
+`testimoniū`, `Quamobrē`, `depingūtur`, `cū`, `tū`, `ostēditur`, `singularū`,
+`argumēto`, `maximā`, `curā`, `hāc doctrinā`, `summovēt`, and `nonunquam`
+are retained. The source prints the anomalous Hebrew headword `אבותי` and
+Latin gloss `partes tui`, whereas its verse lemma has `patres tui`. The
+English explicitly supplies `[your fathers]` and explains both printed
+forms in a note. The first Hebrew headword `עלם` is likewise preserved
+without silently supplying a vowel-letter waw. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-22-chapter-22m-latin.txt`
+- `parts/part-22-chapter-22m-english.md`
+
+**Part 22n completes Chapter XXII as an AI-assisted, unreviewed first
+working draft.** It contains verse 29, from `V. 29. Vidisti virum diligentem
+in opere suo? Ante reges consistet, non consistet ante obscuros.` in the left
+column of PDF 510 / printed column 1004 through `coram rege regum in summis
+coelis perpetuo consistamus.` in the right column / printed column 1005.
+It stops before the rule and `CAPUT XXIII.` heading. Latin and English have
+one byte-identical source marker (PDF 510; printed columns 1004–1005).
+The complete files contain 372 Latin-file and 563 English-file
+whitespace-delimited words, including headers, marker, and translator's note.
+
+The controlling page was inspected at 300 dpi in left-then-right column
+order and enlarged detail. All preceding verse-28 prose at the top of the
+left column is excluded. The paragraph beginning `Promissio sequitur`
+continues across the column turn without a new page marker, from `Eadem
+etiam dominabitur` to `Prov. 12. 24.`. The right-column text ends at
+`consistamus.`, excluding the entire Chapter XXIII heading, lemmata, and
+commentary below the rule. The Greek `Αλλοτριοεπίσκοποι`, printed without
+a supplied initial breathing mark, is retained and glossed in English.
+Witness forms including `cōmendatur`, `imitandū`, `providentiâ`, `manè`,
+`tempestivè`, `intempestivè`, `strenuè`, `contrarij`, `authoritate`, and
+`differentiâ` are preserved. The source's abbreviated `Thessal.` after
+`Paulus` is explained as the Thessalonians in the English note.
+
+Minor typographical uncertainties remain visible in the scan: the faint
+marks around final `o` in `porro` and `serio` do not establish separate grave
+accents, so those words are left unaccented. A small detached mark above
+the first `m` in `commissam` is also of uncertain significance, since both
+`m` letters are printed; the ordinary spelling is retained without treating
+that mark as an abbreviation. These readings do not affect the translated
+sense, but should be checked during qualified human review. This remains
+an AI-assisted working edition, not an independently human-reviewed text.
+
+- `parts/part-22-chapter-22n-latin.txt`
+- `parts/part-22-chapter-22n-english.md`
+
+Chapter XXII is now translated through its final verse, 29.
+
+**Part 23a begins Chapter XXIII with verses 1–3 as an AI-assisted,
+unreviewed first working draft.** It starts at `CAPUT XXIII.` in the right
+column of PDF 510 / printed column 1005 and ends `solicite cavendum est.`
+in the left column of PDF 512 / printed column 1008, before `Vers. 4.`.
+Latin and English have three byte-identical source markers, PDF 510–512 /
+printed columns 1004–1009. The complete files contain 808 Latin-file and
+1166 English-file whitespace-delimited words, including headers, markers,
+and translator's notes.
+
+All three pages were inspected at 300 dpi and enlarged lexical detail.
+PDF 510 excludes the preceding Chapter XXII prose; the bottom catchword
+`quorum` is excluded, with the complete word and its English continuation
+assigned to PDF 511. At the PDF-511/512 turn the catchword `ciborum,` is
+excluded: PDF 511 ends at `ab adj. suavitate`, and `ciborum potionum...`
+begins PDF 512. The final marker excludes verse 4 and all following matter.
+Both column transitions are read left to right without duplicating running
+heads or line numerals. Hebrew `שכין`, `לחם`, `לחם כזבים`, Greek
+`αὐτόχειροι`, and the English proverb already present in the witness are
+retained. Printed forms including `versu 30.`, `proculentorumq́ue`,
+`irritetúr`, `transmittūtur`, `jugulū`, and `videndendum` are preserved;
+the English notes identify the anomalous readings rather than concealing
+them. The printed division `appetenti aquā` is also retained: context
+strongly suggests `appetentia quā maximè`, with the bar abbreviating the
+final nasal of `quam`. English explicitly brackets the reconstructed
+sense, “with an especially strong appetite,” and explains the division.
+No modern physiological account is substituted. This remains an
+AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23a-latin.txt`
+- `parts/part-23-chapter-23a-english.md`
+
+**Part 23b is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains verses 4–5, from `Vers. 4. Ne fatigator, ut
+ditescas: à tua prudentia desiste.` in the left column of PDF 512 / printed
+column 1008 through `Servator docet Math. 6. 25. Luc. 12. 22.` in the right
+column of PDF 513 / printed column 1011, before verse 6. Latin and English
+have two byte-identical source markers, PDF 512–513 / printed columns
+1008–1011. Full-file word counts are 738 Latin and 1075 English,
+including headers, markers, and translator's note.
+
+Both source pages and enlarged Hebrew details were inspected at 300 dpi.
+The first marker excludes all preceding verses 1–3; the last excludes the
+verse-6 lemma and following commentary. PDF 512's catchword `qui` is
+excluded and the complete body word and corresponding English relative
+clause begin PDF 513. The within-page column turn on PDF 512 divides
+`incunabula`; the word is joined without a page marker. Hebrew `תעיף` and
+`עיניך`, the emphatic `comparando sibi comparat`, and witness forms
+`oculorū`, `altiùs`, `tempestivā`, `quorū`, `habeantq;`, `Ut hāc flammam`,
+`cōficiuntur`, `Quomodò verò`, and historical spellings are retained.
+The English note explains the philosophical wordplay on substance and
+subsistence and identifies the anomalous printed `hāc` without silently
+changing the Latin. This remains an AI-assisted working edition requiring
+qualified human review.
+
+- `parts/part-23-chapter-23b-latin.txt`
+- `parts/part-23-chapter-23b-english.md`
+
+**Part 23c is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 6–8, from
+PDF 513 / printed column 1011, at `Vers. 6. Ne comedas panem mali oculo` through
+PDF 515 / printed column 1014, ending `convivandi causa quotidie ventitant.`. Latin and English have
+three markers, PDF 513–515 / printed columns 1010–1015, byte-identical between the pair.
+Full-file word counts are 758 Latin and 1087 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The start excludes verses 4–5 and the end excludes verse 9. PDF 513
+ends `ne nimium faciles nos convivas praebeamus,`; the body `cavendum est.`
+and the matching English “we must take care” begin PDF 514, excluding the
+`caven-` catchword. PDF 514 ends `ita non`; the body `minùs` begins PDF 515,
+excluding its catchword. Hebrew `רעעין`, `לחם`, and `תקיאנה` are retained,
+as are forms including `mensa`, `invitenter`, `magnâ`, `saepiusculè`, and
+`Insulanorum`. The English note explains the first two anomalous forms and
+leaves “islanders” geographically unspecified rather than guessing.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23c-latin.txt`
+- `parts/part-23-chapter-23c-english.md`
+
+**Part 23d is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 9, from
+PDF 515 / printed column 1014, at `Vers. 9. In auribus stulti ne loquaris` through
+PDF 516 / printed column 1016, ending `divini erga nos favoris testimonium afferant.`. Latin and English have
+two markers, PDF 515–516 / printed columns 1014–1017, byte-identical between the pair.
+Full-file word counts are 509 Latin and 759 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The opening excludes all verse-6–8 prose and the ending excludes the
+verse-10 lemma. The PDF-515 catchword `Qui` is excluded; the complete body
+word and corresponding English relative clause begin PDF 516. The Hebrew
+`באזני`, Greek `ἐπιστημονικώτερον`, and the witness's `prudentium verborum
+tuorum` are preserved. The Greek στ ligature was checked against the same
+printed expression on PDF 212 and 390. English supplies `[the wisdom]`
+with a note identifying probable `prudentiam`. The English note also
+retains the deliberately abbreviated Matthew 10:14 quotation without
+silently supplying missing biblical wording.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23d-latin.txt`
+- `parts/part-23-chapter-23d-english.md`
+
+**Part 23e is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 10–11, from
+PDF 516 / printed column 1016, at `V. 10. Ne transferas terminum saeculi` through
+the same page / printed column 1017, ending `quis tandem impunè violabit?`. Latin and English have
+one marker, PDF 516 / printed columns 1016–1017, byte-identical between the pair.
+Full-file word counts are 412 Latin and 620 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+Only the two lemmata and their commentary are included; preceding
+verse-9 prose and following verse 12 are excluded. The column turn after
+`quod praesens, & ante oculos est` continues directly `tam impotenter
+feruntur` without a new page marker. Hebrew `יתומים` and `גאלם`, the
+printed `Qoud`, `aliū`, `Itaq;`, `proximè`, and `dummodò` are retained.
+The source citation `Levit. 25. 22. 24, &c.` preserves printed 22 in both
+languages rather than silently replacing it with 23. Notes explain the
+other anomalous forms. The unit remains confined to the printed exposition.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23e-latin.txt`
+- `parts/part-23-chapter-23e-english.md`
+
+**Part 23f is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 12, from
+PDF 516 / printed column 1017, at `Vers. 12. Adhuc cor tuum eruditioni` through
+PDF 517 / printed column 1019, ending `ex Psal. 2. vers. 9. clarè liquet.`. Latin and English have
+two markers, PDF 516–517 / printed columns 1016–1019, byte-identical between the pair.
+Full-file word counts are 397 Latin and 619 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The final verse-13 lemma is excluded. PDF 516 ends `in coelestia`;
+its `perci-` catchword is excluded, and the complete body `percipiendo`
+and the matching English wording begin PDF 517. The printed lemma `Adhuc`
+is retained; English supplies `[Bring]` with a note explaining the probable
+`Adduc`, supported by the author's subsequent `adducendi`. Hebrew `מוסר`
+and the printed Psalm 2:9 reference are retained, the latter explicitly
+flagged in the English note rather than silently corrected.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23f-latin.txt`
+- `parts/part-23-chapter-23f-english.md`
+
+**Part 23g is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 13–14, from
+PDF 517 / printed column 1019, at `Vers. 13. Ne cohibeas à puero correctionem` through
+PDF 518 / printed column 1021, ending `summa quadam, & primaria ratione competit.`. Latin and English have
+two markers, PDF 517–518 / printed columns 1018–1021, byte-identical between the pair.
+Full-file word counts are 616 Latin and 910 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The source group is complete and the following verse-15 lemma is
+excluded. At the PDF-517/518 turn the divided body `qua-` and catchword
+are excluded; complete `quadam` is placed under PDF 518 with the matching
+English “sense.” Hebrew `נער`, `שבט`, and forms including `utriusq;`,
+`sicures`, `latiùs`, `amorē`, `atq;`, `quibuscunq;`, and `verumetiam`
+are preserved. English notes distinguish printed irregularities and retain
+the 1 Corinthians 5 citation. The medicines comparison says that repeated
+medicines themselves fail to heal, not that they fail to heal themselves.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23g-latin.txt`
+- `parts/part-23-chapter-23g-english.md`
+
+**Part 23h is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 15–16, from
+PDF 518 / printed column 1021, at `Vers. 15. Fili mi, si sapit animus tuus` through
+PDF 519 / printed column 1023, ending `coelesti sapientia, veraque pietate excolantur.`. Latin and English have
+two markers, PDF 518–519 / printed columns 1020–1023, byte-identical between the pair.
+Full-file word counts are 548 Latin and 831 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The verse-17 lemma is excluded. The PDF-518 catchword `Scopus` is
+excluded, with the complete body word and corresponding English “purpose”
+under PDF 519. Hebrew `בני`, `כליותי`, repeated `quantus, quantus`, the
+source's brackets, and forms including `existūt`, `nō`, `ambulādi`, `eā`,
+`.n.`, and `gaudij` are retained. The visibly printed `oculentissimas`
+is preserved in Latin, while the English brackets “most hidden” and notes
+the probable `occultissimas` required by the kidney/concealment metaphor.
+The reading remains explicitly open to qualified human review.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23h-latin.txt`
+- `parts/part-23-chapter-23h-english.md`
+
+**Part 23i is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 17–18, from
+PDF 519 / printed column 1023, at `Vers. 17. Ne aemuleris corde tuo peccatores` through
+PDF 521 / printed column 1026, ending `ut certissimum, ita sempiternum proponitur.`. Latin and English have
+three markers, PDF 519–521 / printed columns 1022–1027, byte-identical between the pair.
+Full-file word counts are 695 Latin and 1040 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The first two body lines of PDF 521 complete this unit; verse 19 is
+excluded. The PDF-519 catchword `suam` and PDF-520 catchword `ut cer-`
+are excluded; the corresponding complete body words and English wording
+are assigned to their succeeding page markers. Hebrew `חטאים`, `היום`,
+`אחרית`, and `תקותך`, the unclosed parenthesis in the first lexical note,
+macrons, and the differing `brabium`/`bravium` spellings are preserved.
+The printed attribution to David in the discussion of Psalm 73 is retained
+and flagged, rather than silently replacing the author's attribution.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23i-latin.txt`
+- `parts/part-23-chapter-23i-english.md`
+
+**Part 23j is complete and scan-audited as an AI-assisted, unreviewed
+first working draft.** It contains Chapter XXIII, verses 19–21, from
+PDF 521 / printed column 1026, at `Vers. 19. Audi tu, fili mi, & sape` through
+PDF 522 / printed column 1028, ending `conjunctae tamen ad nos inde avellendum valeant.`. Latin and English have
+two markers, PDF 521–522 / printed columns 1026–1029, byte-identical between the pair.
+Full-file word counts are 754 Latin and 1107 English, including
+headers, markers, and any English notes.
+
+All in-scope pages and enlarged details were inspected against the facsimile.
+The verse-22 lemma and following material are excluded. The PDF-521
+catchword `absu-` is excluded; whole body `absumunt` and English “consume”
+begin PDF 522. The two-part analytical scheme is represented structurally
+in both languages, not silently flattened. Hebrew `יין`, `בשר`, Greek
+`ἐπὶ τὸ πολὺ`, and printed forms including `querentē`, `nun`, `morem`, and
+`reddūt` are retained or explicitly explained. The imperfectly inked
+`utramque` is recovered from visible letters and syntax. The historical
+medical account is translated as the author's own account, and the full
+closing comparison of temporal and eternal penalties is included.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23j-latin.txt`
+- `parts/part-23-chapter-23j-english.md`
+
+**Part 23k is complete and scan-audited as an AI-assisted, unreviewed first
+working draft.** It contains the complete grouped commentary on verses
+22–28, from `V. 22. Ausculta patri tuo, ei, qui te genuit; & ne asperneris,
+cum senuerit, matrem tuam.` at the foot of the left column of PDF 522 /
+printed column 1028 through `quanto magis, si palàm grassandi concedatur
+venia?` in the right column of PDF 526 / printed column 1037, before verse
+29. Latin and English have five byte-identical source markers, PDF 522–526
+/ printed columns 1028–1037. Full-file counts are 2,208 Latin words and
+3,400 English words, including headers, markers, and translator's notes.
+
+All five pages and enlarged details were inspected against the facsimile;
+the small Greek was also examined at 600 dpi. The initial marker excludes
+all preceding verse-19–21 prose and includes all seven lemmata in their
+printed order. At the PDF-522/523 turn the divided `ex-` and catchword are
+excluded; whole `exhauriat` and English “drained” belong to PDF 523. At the
+PDF-525/526 turn the body `com-` and catchword are excluded; whole
+`comparatur` and “is compared” belong to PDF 526. Other catchwords, running
+heads, and signatures are excluded without losing continuous prose.
+Hebrew headwords, historical spellings, macrons, and visible accents are
+retained, including `priùs`, `imò`, and `tantoperè` confirmed in the
+independent comparison. The verse-23 semicolon after `ne vendito` was
+checked in an enlarged crop and retained.
+
+The Greek is provisionally read `προφυλακτικῇ` and translated “by preventive
+instruction.” Eta and circumflex are discernible, but the iota subscript
+is not independently clear; the English note expressly preserves this
+uncertainty and does not silently replace the ending with the adverb
+`προφυλακτικῶς`. The elliptical verse-26 wording has its supplied English
+verb bracketed. Printed `Salomon`, `qui quid mirum`, and Proverbs 6:30 are
+retained and explained; no modern biblical wording replaces the source.
+This remains an AI-assisted working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23k-latin.txt`
+- `parts/part-23-chapter-23k-english.md`
+
+**Part 23l completes Chapter XXIII as an AI-assisted, unreviewed first
+working draft.** It contains the grouped verses 29–35, from `Vers. 29.
+Cui vae? cui eheu?` at the foot of PDF 526's right column / printed column
+1037 through `maximè cuperent, inepti sint.` at the top of the left column
+of PDF 531 / printed column 1046. It stops before the rule and `CAPUT XXIV.`
+heading. Latin and English have six byte-identical source markers, PDF
+526–531 / printed columns 1036–1047. Full-file counts are 1,950 Latin and
+3,119 English words, including headers, markers, and translator's notes.
+
+Every included column and page join was checked against the actual images
+and enlarged details. The initial marker includes only the verse-29 lemma;
+the remaining lemmata and joint exposition begin PDF 527. Catchwords
+`v. 30. Im-`, `lites`, `Ubi`, `libi-`, and `respectu` at the successive
+page turns are excluded, with the complete body words and corresponding
+English assigned to their proper markers. No Chapter XXIV material is
+included. All seven analytical branching schemes are retained structurally,
+along with four Hebrew headwords, citations, source spellings, and
+abbreviations. The independently confirmed `itationem` is translated as
+“movement” in the cup; `fiduciâ`, `quàm`, `sterquilinio`, and `effecto`
+are retained. The phrase concerning a `sobrio ... hoste` is translated
+as a sober enemy, preserving its grammatical attachment.
+
+The unusual printed `infinita annorum initia` is retained and translated
+literally with an explanatory note, rather than silently emended to
+`millia`. The printed citation `Isai. 6. 12.` is retained, while the note
+identifies Isaiah 56:12 as the apparent intended passage. The wine's
+“eye,” its movement, and the historical medical and moral explanations
+are translated as Cartwright's own assertions. This remains an AI-assisted
+working edition requiring qualified human review.
+
+- `parts/part-23-chapter-23l-latin.txt`
+- `parts/part-23-chapter-23l-english.md`
+
+Chapter XXIII is now translated through its final verse, 35. The next unit
+begins at `CAPUT XXIV.` below the rule in the left column of shared PDF 531
+/ printed column 1046, followed by the grouped verse-1–2 lemmata. Restart
+at that heading and exclude all preceding Chapter XXIII prose.
